@@ -1,6 +1,7 @@
 import streamlit as st
 import ipl_analysis
 import sa20_analysis
+import cpl_analysis
 
 st.set_page_config(page_title="Multi-Sport Analytics", layout="wide")
 st.title("🏏 Real-Time Multi-Sport Analytics & Prediction Pipeline")
@@ -19,8 +20,10 @@ if sport_selected == "Cricket":
             ipl_analysis.run_ipl_analysis() 
         elif tournament == "SA20":
             sa20_analysis.run_sa20_analysis()
+        elif tournament == "Caribbean Premier League":
+            cpl_analysis.run_cpl_analysis()
         else:
-            st.info(f"🚧 {tournament} is next in the pipeline. Finish SA20 first!")
+            st.info(f"🚧 {tournament} is next in the pipeline. Finish CPL first!")
             
 elif sport_selected == "Football":
     st.info("🚧 Football section will be started only after Cricket is 100% complete.")
