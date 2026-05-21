@@ -4,6 +4,8 @@ import sa20_analysis
 import cpl_analysis
 import bbl_analysis
 import t20i_analysis
+import odi_analysis
+import t20wc_analysis
 
 st.set_page_config(page_title="Multi-Sport Analytics", layout="wide")
 st.title("🏏 Real-Time Multi-Sport Analytics & Prediction Pipeline")
@@ -28,12 +30,14 @@ if sport_selected == "Cricket":
             bbl_analysis.run_bbl_analysis()
             
     elif category == "Men's International":
-        tournament = st.sidebar.selectbox("Select Format", ["T20 Internationals", "One Day Internationals", "Test Matches"])
+        tournament = st.sidebar.selectbox("Select Format", ["T20 Internationals", "One Day Internationals", "T20 World Cup"])
         
         if tournament == "T20 Internationals":
             t20i_analysis.run_t20i_analysis()
-        else:
-            st.info(f"🚧 {tournament} data is currently being ingested!")
+        elif tournament == "One Day Internationals":
+            odi_analysis.run_odi_analysis()
+        elif tournament == "T20 World Cup":
+            t20wc_analysis.run_t20wc_analysis()
             
     else:
         st.info(f"🚧 The {category} section is next in the pipeline!")
