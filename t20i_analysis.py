@@ -4,162 +4,160 @@ import pandas as pd
 @st.cache_data
 def load_data():
     df = pd.read_csv("data/t20i_combined.csv", low_memory=False)
+    # Aggressively force datetime conversion to prevent format crashes
+    df['date'] = pd.to_datetime(df['date'], format='mixed', errors='coerce')
     return df
 
 def run_t20i_analysis():
-    st.header("🌍 Men's T20 International Analytics Hub")
+    st.header("⚡ Men's T20 International Analytics Hub")
     st.markdown("---")
     
-    with st.spinner("Loading nearly 750k deliveries..."):
+    with st.spinner("Loading fast-paced T20I history..."):
         df = load_data()
+        
+    st.write("🗓️ **Select Calendar Year:**")
+    years = sorted(df['year'].dropna().unique().tolist(), reverse=True)
+    if "All-Time" not in years:
+        years.insert(0, "All-Time")
+        
+    selected_year = st.selectbox("Year Dropdown", years, label_visibility="collapsed", key="t20i_year")
     
-    # ==========================================
-    # CASCADING FILTERS (Year -> Team 1 -> Team 2)
-    # ==========================================
-    col_f1, col_f2, col_f3 = st.columns(3)
-    
-    with col_f1:
-        st.write("🗓️ **Select Year:**")
-        years = sorted(df['year'].dropna().astype(str).unique().tolist(), reverse=True)
-        if "All-Time" not in years:
-            years.insert(0, "All-Time") 
-        selected_year = st.selectbox("Year Dropdown", years, label_visibility="collapsed", key="t20i_year")
-    
-    # Base Year Filter
     if selected_year != "All-Time":
-        year_df = df[df['year'].astype(str) == selected_year]
+        filtered_df = df[df['year'] == selected_year]
     else:
-        year_df = df
+        filtered_df = df
         
-    with col_f2:
-        st.write("🏏 **Select Team:**")
-        all_teams_in_year = pd.concat([year_df['batting_team'], year_df['bowling_team']]).dropna().unique()
-        teams = sorted(all_teams_in_year.tolist())
-        teams.insert(0, "All Teams")
-        selected_team = st.selectbox("Team Dropdown", teams, label_visibility="collapsed", key="t20i_team")
-
-    with col_f3:
-        st.write("⚔️ **Select Opponent:**")
-        # Only populate Opponents if Team 1 is selected
-        if selected_team != "All Teams":
-            team1_matches = year_df[(year_df['batting_team'] == selected_team) | (year_df['bowling_team'] == selected_team)]
-            opponents = pd.concat([team1_matches['batting_team'], team1_matches['bowling_team']]).unique().tolist()
-            if selected_team in opponents:
-                opponents.remove(selected_team)
-            opponents = sorted(opponents)
-        else:
-            opponents = []
+    match_level_df = filtered_df.drop_duplicates(subset=['match_id']).copy()
+    
+    tab1, tab2 = st.tabs(["📊 Global Leaderboard", "🔍 Match Scorecard Inspector"])
+    
+    # ==========================================
+    # TAB 1: TOURNAMENT STATS
+    # ==========================================
+    with tab1:
+        total_matches = match_level_df['match_id'].nunique()
+        
+        batsman_runs = filtered_df.groupby('batter')['runs_batter'].sum().sort_values(ascending=False)
+        top_scorer = batsman_runs.index[0] if not batsman_runs.empty else "-"
+        top_scorer_runs = int(batsman_runs.iloc[0]) if not batsman_runs.empty else 0
+        
+        valid_wickets = ['bowled', 'caught', 'lbw', 'stumped', 'caught and bowled', 'hit wicket']
+        bowler_wickets = filtered_df[filtered_df['wicket_kind'].isin(valid_wickets)].groupby('bowler')['player_out'].count().sort_values(ascending=False)
+        top_wicket_taker = bowler_wickets.index[0] if not bowler_wickets.empty else "-"
+        top_wickets = int(bowler_wickets.iloc[0]) if not bowler_wickets.empty else 0
+        
+        mvp_counts = match_level_df['player_of_match'].value_counts()
+        if "Unknown" in mvp_counts: mvp_counts = mvp_counts.drop("Unknown")
+        top_mvp = mvp_counts.index[0] if not mvp_counts.empty else "-"
+        top_mvp_awards = int(mvp_counts.iloc[0]) if not mvp_counts.empty else 0
+        
+        m1, m2, m3, m4 = st.columns(4)
+        m1.metric("Matches Played", total_matches)
+        m2.metric("👑 Most Runs", f"{top_scorer}", f"{top_scorer_runs} Runs")
+        m3.metric("🎯 Most Wickets", f"{top_wicket_taker}", f"{top_wickets} Wickets")
+        m4.metric("⭐ Most MVPs", f"{top_mvp}", f"{top_mvp_awards} Awards")
+        
+        st.markdown("---")
+        col_table, col_charts = st.columns([1.4, 1])
+        
+        with col_table:
+            st.subheader("🏁 Global Win Summary")
+            all_teams = pd.concat([match_level_df['batting_team'], match_level_df['bowling_team']]).dropna().unique()
             
-        opponents.insert(0, "All Opponents")
-        # Disable dropdown if Team 1 isn't selected yet
-        selected_opponent = st.selectbox("Opponent Dropdown", opponents, label_visibility="collapsed", key="t20i_opponent", disabled=(selected_team == "All Teams"))
-
-    # ==========================================
-    # ADVANCED FILTERING LOGIC
-    # ==========================================
-    if selected_team != "All Teams":
-        if selected_opponent != "All Opponents":
-            # HEAD-TO-HEAD: Keep matches where Team 1 played Team 2
-            filtered_df = year_df[((year_df['batting_team'] == selected_team) & (year_df['bowling_team'] == selected_opponent)) | 
-                                  ((year_df['batting_team'] == selected_opponent) & (year_df['bowling_team'] == selected_team))]
-        else:
-            # TEAM ONLY: Keep all matches for Team 1
-            filtered_df = year_df[(year_df['batting_team'] == selected_team) | (year_df['bowling_team'] == selected_team)]
-    else:
-        # ALL TEAMS
-        filtered_df = year_df
-
-    match_level_df = filtered_df.drop_duplicates(subset=['match_id'])
-    
-    # ==========================================
-    # TOP LEVEL METRICS
-    # ==========================================
-    total_matches = match_level_df['match_id'].nunique()
-    
-    batsman_runs = filtered_df.groupby('batter')['runs_batter'].sum().sort_values(ascending=False)
-    top_scorer = batsman_runs.index[0] if not batsman_runs.empty else "-"
-    top_scorer_runs = int(batsman_runs.iloc[0]) if not batsman_runs.empty else 0
-    
-    valid_wickets = ['bowled', 'caught', 'lbw', 'stumped', 'caught and bowled', 'hit wicket']
-    
-    # Wicket filtering logic
-    if selected_team != "All Teams" and selected_opponent != "All Opponents":
-        # In H2H, show wickets for both teams to see the absolute top bowler
-        bowler_df = filtered_df 
-    elif selected_team != "All Teams":
-        bowler_df = filtered_df[filtered_df['bowling_team'] == selected_team]
-    else:
-        bowler_df = filtered_df
-        
-    bowler_wickets = bowler_df[bowler_df['wicket_kind'].isin(valid_wickets)].groupby('bowler')['player_out'].count().sort_values(ascending=False)
-    top_wicket_taker = bowler_wickets.index[0] if not bowler_wickets.empty else "-"
-    top_wickets = int(bowler_wickets.iloc[0]) if not bowler_wickets.empty else 0
-    
-    mvp_counts = match_level_df['player_of_match'].value_counts()
-    if "Unknown" in mvp_counts: mvp_counts = mvp_counts.drop("Unknown")
-    top_mvp = mvp_counts.index[0] if not mvp_counts.empty else "-"
-    top_mvp_awards = int(mvp_counts.iloc[0]) if not mvp_counts.empty else 0
-    
-    col1, col2, col3, col4 = st.columns(4)
-    col1.metric("Matches Played", total_matches)
-    col2.metric("👑 Top Scorer", f"{top_scorer}", f"↑ {top_scorer_runs} Runs")
-    col3.metric("🎯 Top Bowler", f"{top_wicket_taker}", f"↑ {top_wickets} Wickets")
-    col4.metric("⭐ Most MVP", f"{top_mvp}", f"↑ {top_mvp_awards} Awards")
-    
-    st.markdown("---")
-
-    # ==========================================
-    # SPLIT LAYOUT: TEAM PERFORMANCE & STACKED CHARTS
-    # ==========================================
-    col_table, col_charts = st.columns([1.5, 1]) 
-    
-    with col_table:
-        st.subheader("📊 Team Performance Summary")
-        
-        # Decide which teams to show in the table
-        if selected_opponent != "All Opponents":
-            teams_to_eval = [selected_team, selected_opponent] # H2H Comparison
-        elif selected_team != "All Teams":
-            teams_to_eval = [selected_team] # Single Team
-        else:
-            teams_to_eval = all_teams_in_year # Global Standings
-        
-        points_data = []
-        for team in teams_to_eval:
-            played = len(match_level_df[(match_level_df['batting_team'] == team) | (match_level_df['bowling_team'] == team)])
-            wins = len(match_level_df[match_level_df['match_won_by'] == team])
-            losses = len(match_level_df[((match_level_df['batting_team'] == team) | (match_level_df['bowling_team'] == team)) & 
-                                        (match_level_df['match_won_by'].notna()) & 
-                                        (match_level_df['match_won_by'] != team)])
-            nr_tie = played - wins - losses
-            win_pct = round((wins / played) * 100, 1) if played > 0 else 0.0
+            points_data = []
+            for team in all_teams:
+                played = len(match_level_df[(match_level_df['batting_team'] == team) | (match_level_df['bowling_team'] == team)])
+                wins = len(match_level_df[match_level_df['match_won_by'] == team])
+                losses = len(match_level_df[((match_level_df['batting_team'] == team) | (match_level_df['bowling_team'] == team)) & (match_level_df['match_won_by'].notna()) & (match_level_df['match_won_by'] != team)])
+                nr_tie = played - wins - losses
+                win_pct = round((wins / played) * 100, 1) if played > 0 else 0.0
+                points_data.append({'Team': team, 'P': played, 'W': wins, 'L': losses, 'NR/Tie': nr_tie, 'Win %': win_pct})
+                
+            if points_data:
+                points_df = pd.DataFrame(points_data).sort_values(by=['W', 'Win %'], ascending=[False, False])
+                points_df.index = range(1, len(points_df) + 1)
+                st.dataframe(points_df, use_container_width=True, height=480)
+            else:
+                st.info("No match data available to generate points table.")
             
-            points_data.append({'Team': team, 'M': played, 'W': wins, 'L': losses, 'NR/Tie': nr_tie, 'Win %': win_pct})
+        with col_charts:
+            st.subheader("🏏 Top 10 Batting Performances")
+            st.bar_chart(batsman_runs.head(10), color="#00E5FF", height=200) # Neon Cyan
             
-        points_df = pd.DataFrame(points_data).sort_values(by=['W', 'Win %'], ascending=[False, False])
-        points_df.index = range(1, len(points_df) + 1)
-        st.dataframe(points_df, use_container_width=True, height=520)
-        
-    with col_charts:
-        st.subheader("🏏 Top 10 Run Scorers")
-        top_10_bat = batsman_runs.head(10)
-        st.bar_chart(top_10_bat, color="#000080", height=220) 
-        
-        st.subheader("🎯 Top 10 Wicket Takers")
-        top_10_bowl = bowler_wickets.head(10)
-        st.bar_chart(top_10_bowl, color="#FFD700", height=220) 
+            st.subheader("🎯 Top 10 Bowling Performances")
+            st.bar_chart(bowler_wickets.head(10), color="#FF007F", height=200) # Neon Pink
 
     # ==========================================
-    # FULL WIDTH: EVERY SINGLE MATCH STATS
+    # TAB 2: MATCH SCORECARD INSPECTOR (UPGRADED)
     # ==========================================
-    st.markdown("---")
-    st.subheader("📜 Every Single Match Stats")
-    
-    match_results = match_level_df[['date', 'batting_team', 'bowling_team', 'match_won_by', 'player_of_match', 'venue']].copy()
-    match_results.columns = ['Date', 'Team 1', 'Team 2', 'Winner', 'Player of the Match', 'Venue']
-    
-    match_results['Date'] = pd.to_datetime(match_results['Date'], errors='coerce')
-    match_results = match_results.sort_values(by='Date', ascending=False)
-    match_results['Date'] = match_results['Date'].dt.strftime('%Y-%m-%d').fillna('Unknown')
-    
-    st.dataframe(match_results, use_container_width=True, hide_index=True)
+    with tab2:
+        st.subheader("🔍 Filter & Select a T20I Match")
+        
+        if not match_level_df.empty:
+            # 1. Create Team Filters
+            all_teams_filter = sorted(pd.concat([match_level_df['batting_team'], match_level_df['bowling_team']]).dropna().unique().tolist())
+            team_options = ["All Teams"] + all_teams_filter
+            
+            col_f1, col_f2 = st.columns(2)
+            with col_f1:
+                team1_filter = st.selectbox("Filter by Team 1:", team_options, key="t20i_t1")
+            with col_f2:
+                team2_filter = st.selectbox("Filter by Team 2:", team_options, key="t20i_t2")
+                
+            # 2. Apply Filters to the Dataframe
+            filtered_matches = match_level_df.copy()
+            if team1_filter != "All Teams":
+                filtered_matches = filtered_matches[(filtered_matches['batting_team'] == team1_filter) | (filtered_matches['bowling_team'] == team1_filter)]
+            if team2_filter != "All Teams":
+                filtered_matches = filtered_matches[(filtered_matches['batting_team'] == team2_filter) | (filtered_matches['bowling_team'] == team2_filter)]
+            
+            st.markdown("---")
+            
+            # 3. Display Match Selector based on Filtered Data
+            if not filtered_matches.empty:
+                filtered_matches = filtered_matches.sort_values(by='date', ascending=False)
+                
+                date_strings = filtered_matches['date'].dt.strftime('%Y-%m-%d').fillna('Unknown Date')
+                filtered_matches['display_name'] = date_strings + " | " + filtered_matches['batting_team'].astype(str) + " vs " + filtered_matches['bowling_team'].astype(str)
+                
+                selected_match_str = st.selectbox("Choose Match:", filtered_matches['display_name'].tolist(), label_visibility="collapsed", key="t20i_match_selector")
+                
+                if selected_match_str:
+                    target_match_id = filtered_matches[filtered_matches['display_name'] == selected_match_str]['match_id'].values[0]
+                    m_balls = df[df['match_id'] == target_match_id].copy()
+                    m_info = m_balls.iloc[0]
+                    
+                    st.success(f"🏟️ **Venue:** {m_info['venue']}  |  🏆 **Winner:** {m_info['match_won_by']}  |  ⭐ **Player of the Match:** {m_info['player_of_match']}")
+                    
+                    for innings_num in sorted(m_balls['innings'].dropna().unique()):
+                        inn_df = m_balls[m_balls['innings'] == innings_num]
+                        bat_team = inn_df['batting_team'].iloc[0]
+                        
+                        total_runs = inn_df['runs_batter'].sum() + inn_df['runs_extras'].sum()
+                        total_wickets = inn_df['wicket_kind'].dropna().count()
+                        
+                        st.markdown(f"### 🏏 Innings {int(innings_num)}: {bat_team} - {total_runs}/{total_wickets}")
+                        
+                        bat_card = inn_df.groupby('batter').agg(
+                            Runs=('runs_batter', 'sum'),
+                            Balls=('runs_batter', 'count'),
+                            Fours=('runs_batter', lambda x: (x == 4).sum()),
+                            Sixes=('runs_batter', lambda x: (x == 6).sum())
+                        )
+                        bat_card['SR'] = round((bat_card['Runs'] / bat_card['Balls']) * 100, 1) if not bat_card.empty else 0.0
+                        st.dataframe(bat_card.sort_values(by='Runs', ascending=False), use_container_width=True)
+                        
+                        bowl_card = inn_df.groupby('bowler').agg(
+                            Runs_Conceded=('runs_batter', 'sum'),
+                            Balls_Bowled=('runs_batter', 'count'),
+                            Wickets=('wicket_kind', lambda x: x.isin(valid_wickets).sum())
+                        )
+                        bowl_card['Overs'] = bowl_card['Balls_Bowled'] // 6 + (bowl_card['Balls_Bowled'] % 6) / 10
+                        bowl_card['Econ'] = round((bowl_card['Runs_Conceded'] / bowl_card['Balls_Bowled']) * 6, 2)
+                        
+                        st.dataframe(bowl_card[['Overs', 'Runs_Conceded', 'Wickets', 'Econ']].sort_values(by='Wickets', ascending=False), use_container_width=True)
+                        st.markdown("---")
+            else:
+                st.warning("⚠️ No matches found between these selected teams in the chosen year.")
+        else:
+            st.info("No match records found for this selection.")
