@@ -3,13 +3,12 @@ import pandas as pd
 
 @st.cache_data
 def load_data():
-    df = pd.read_csv("data/t20wc_combined.csv", low_memory=False)
-    # Aggressively force datetime conversion to prevent format crashes
+    df = pd.read_csv("data/wt20wc_combined.csv", low_memory=False)
     df['date'] = pd.to_datetime(df['date'], format='mixed', errors='coerce')
     return df
 
-def run_t20wc_analysis():
-    st.header("🏆 Men's T20 World Cup Analytics Hub")
+def run_wt20wc_analysis():
+    st.header("🏆 Women's T20 World Cup Analytics Hub")
     st.markdown("---")
     
     with st.spinner("Loading World Cup history..."):
@@ -20,7 +19,7 @@ def run_t20wc_analysis():
     if "All-Time" not in years:
         years.insert(0, "All-Time") 
     
-    selected_year = st.selectbox("Year Dropdown", years, label_visibility="collapsed", key="t20wc_year")
+    selected_year = st.selectbox("Year Dropdown", years, label_visibility="collapsed", key="wt20wc_year")
     
     if selected_year != "All-Time":
         filtered_df = df[df['year'].astype(str) == selected_year]
@@ -63,17 +62,15 @@ def run_t20wc_analysis():
         
         with col_table:
             # --- HISTORICAL CHAMPIONS LEADERBOARD ---
-            st.subheader("🥇 Men's T20 World Cup Champions")
+            st.subheader("🥇 Women's T20 World Cup Champions")
             history_data = {
-                'Team': ['India', 'England', 'West Indies', 'Pakistan', 'Sri Lanka', 'Australia'],
-                'Titles Won': [3, 2, 2, 1, 1, 1],
+                'Team': ['Australia', 'England', 'West Indies', 'New Zealand'],
+                'Titles Won': [6, 1, 1, 1],
                 'Winning Years': [
-                    '2007, 2024, 2026',
-                    '2010, 2022',
-                    '2012, 2016',
+                    '2010, 2012, 2014, 2018, 2020, 2023',
                     '2009',
-                    '2014',
-                    '2021'
+                    '2016',
+                    '2024'
                 ]
             }
             history_df = pd.DataFrame(history_data)
@@ -104,13 +101,13 @@ def run_t20wc_analysis():
             
         with col_charts:
             st.subheader("🏏 Top 10 Run Scorers")
-            st.bar_chart(batsman_runs.head(10), color="#673AB7", height=200) # Deep ICC Purple
+            st.bar_chart(batsman_runs.head(10), color="#4B0082", height=200) # Deep Indigo
             
             st.subheader("🎯 Top 10 Wicket Takers")
-            st.bar_chart(bowler_wickets.head(10), color="#E91E63", height=200) # Pink/Magenta
+            st.bar_chart(bowler_wickets.head(10), color="#FF1493", height=200) # Deep Pink
 
     # ==========================================
-    # TAB 2: DETAILED MATCH INSPECTOR
+    # TAB 2: DETAILED MATCH INSPECTOR (NO TEAM FILTERS)
     # ==========================================
     with tab2:
         st.subheader("🔍 Select a Match to Inspect")
@@ -118,11 +115,10 @@ def run_t20wc_analysis():
         if not match_level_df.empty:
             match_level_df = match_level_df.sort_values(by='date', ascending=False)
             
-            # Format display string safely
             date_strings = match_level_df['date'].dt.strftime('%Y-%m-%d').fillna('Unknown Date')
             match_level_df['display_name'] = date_strings + " | " + match_level_df['batting_team'].astype(str) + " vs " + match_level_df['bowling_team'].astype(str)
             
-            selected_match_str = st.selectbox("Choose Match", match_level_df['display_name'].tolist(), label_visibility="collapsed", key="t20wc_match_selector")
+            selected_match_str = st.selectbox("Choose Match", match_level_df['display_name'].tolist(), label_visibility="collapsed", key="wt20wc_match_selector")
             
             if selected_match_str:
                 target_match_id = match_level_df[match_level_df['display_name'] == selected_match_str]['match_id'].values[0]
@@ -131,7 +127,6 @@ def run_t20wc_analysis():
                 
                 st.success(f"🏟️ **Venue:** {m_info['venue']}  |  🏆 **Winner:** {m_info['match_won_by']}  |  ⭐ **Player of the Match:** {m_info['player_of_match']}")
                 
-                # --- DYNAMIC INNINGS GENERATOR ---
                 if 'innings' not in m_balls.columns:
                     m_balls['innings'] = (m_balls['batting_team'] != m_balls['batting_team'].shift()).cumsum()
                 

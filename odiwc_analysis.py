@@ -60,6 +60,24 @@ def run_odiwc_analysis():
         col_table, col_charts = st.columns([1.4, 1])
         
         with col_table:
+            # --- HISTORICAL CHAMPIONS LEADERBOARD ---
+            st.subheader("🥇 Men's ODI World Cup Champions")
+            history_data = {
+                'Team': ['Australia', 'India', 'West Indies', 'Pakistan', 'Sri Lanka', 'England'],
+                'Titles Won': [6, 2, 2, 1, 1, 1],
+                'Winning Years': [
+                    '1987, 1999, 2003, 2007, 2015, 2023',
+                    '1983, 2011',
+                    '1975, 1979',
+                    '1992',
+                    '1996',
+                    '2019'
+                ]
+            }
+            history_df = pd.DataFrame(history_data)
+            history_df.index = range(1, len(history_df) + 1)
+            st.dataframe(history_df, use_container_width=True)
+            st.markdown("---")
             st.subheader("🏁 Global Win Summary")
             all_teams = pd.concat([match_level_df['batting_team'], match_level_df['bowling_team']]).dropna().unique()
             points_data = []

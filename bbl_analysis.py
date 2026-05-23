@@ -63,6 +63,25 @@ def run_bbl_analysis():
         col_table, col_charts = st.columns([1.4, 1])
         
         with col_table:
+            # --- HISTORICAL CHAMPIONS LEADERBOARD ---
+            st.subheader("🥇 BBL All-Time Champions")
+            history_data = {
+                'Team': ['Perth Scorchers', 'Sydney Sixers', 'Brisbane Heat', 'Hobart Hurricanes', 'Melbourne Renegades', 'Adelaide Strikers', 'Sydney Thunder'],
+                'Titles Won': [6, 3, 2, 1, 1, 1, 1],
+                'Winning Years': [
+                    '2013-14, 2014-15, 2016-17, 2021-22, 2022-23, 2025-26',
+                    '2011-12, 2019-20, 2020-21',
+                    '2012-13, 2023-24',
+                    '2024-25',
+                    '2018-19',
+                    '2017-18',
+                    '2015-16'
+                ]
+            }
+            history_df = pd.DataFrame(history_data)
+            history_df.index = range(1, len(history_df) + 1)
+            st.dataframe(history_df, use_container_width=True)
+            st.markdown("---")
             st.subheader("🏁 Global Win Summary")
             all_teams = pd.concat([match_level_df['batting_team'], match_level_df['bowling_team']]).dropna().unique()
             

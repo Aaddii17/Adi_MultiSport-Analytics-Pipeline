@@ -8,7 +8,7 @@ def load_data():
     return df
 
 def run_sa20_analysis():
-    st.header("🇿🇦 SA20 League Analytics Hub")
+    st.header("SA20 League Analytics Hub")
     st.markdown("---")
     
     with st.spinner("Analyzing SA20 historical records..."):
@@ -62,6 +62,20 @@ def run_sa20_analysis():
         col_table, col_charts = st.columns([1.4, 1])
         
         with col_table:
+            # --- HISTORICAL CHAMPIONS LEADERBOARD ---
+            st.subheader("🥇 SA20 All-Time Champions")
+            history_data = {
+                'Team': ['Sunrisers Eastern Cape', 'MI Cape Town'],
+                'Titles Won': [3, 1],
+                'Winning Years': [
+                    '2023, 2024, 2026',
+                    '2025'
+                ]
+            }
+            history_df = pd.DataFrame(history_data)
+            history_df.index = range(1, len(history_df) + 1)
+            st.dataframe(history_df, use_container_width=True)
+            st.markdown("---")
             st.subheader("🏁 Global Win Summary")
             # Safely define all_teams
             all_teams = pd.concat([match_level_df['batting_team'], match_level_df['bowling_team']]).dropna().unique()

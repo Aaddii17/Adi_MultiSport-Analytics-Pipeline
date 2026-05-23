@@ -63,6 +63,24 @@ def run_cpl_analysis():
         col_table, col_charts = st.columns([1.4, 1])
         
         with col_table:
+            # --- HISTORICAL CHAMPIONS LEADERBOARD ---
+            st.subheader("🥇 CPL All-Time Champions")
+            history_data = {
+                'Team': ['Trinbago Knight Riders', 'Jamaica Tallawahs', 'Barbados Royals', 'Saint Lucia Kings', 'Guyana Amazon Warriors', 'St Kitts & Nevis Patriots'],
+                'Titles Won': [5, 3, 2, 1, 1, 1],
+                'Winning Years': [
+                    '2015, 2017, 2018, 2020, 2025',
+                    '2013, 2016, 2022',
+                    '2014, 2019',
+                    '2024',
+                    '2023',
+                    '2021'
+                ]
+            }
+            history_df = pd.DataFrame(history_data)
+            history_df.index = range(1, len(history_df) + 1)
+            st.dataframe(history_df, use_container_width=True)
+            st.markdown("---")
             st.subheader("🏁 Global Win Summary")
             all_teams = pd.concat([match_level_df['batting_team'], match_level_df['bowling_team']]).dropna().unique()
             
