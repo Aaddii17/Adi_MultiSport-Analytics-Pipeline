@@ -3,10 +3,15 @@ import pandas as pd
 
 @st.cache_data
 def load_data():
-    df = pd.read_csv("data/odi_combined.csv", low_memory=False)
-    # Aggressively force datetime conversion to prevent format crashes
-    df['date'] = pd.to_datetime(df['date'], format='mixed', errors='coerce')
-    return df
+    # Safely route to the new Parquet file
+    data_path = "data/odi_combined.parquet" if os.path.exists("data/odi_combined.parquet") else "../data/odi_combined.parquet"
+    
+    try:
+        df = pd.read_parquet(data_path)
+        return df
+    except Exception as e:
+        st.error(f"Error loading ODI data: {e}")
+        return pd.DataFrame()
 
 def run_odi_analysis():
     st.header("🌍 Men's One Day International (ODI) Hub")

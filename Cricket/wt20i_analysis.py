@@ -3,9 +3,15 @@ import pandas as pd
 
 @st.cache_data
 def load_data():
-    df = pd.read_csv("data/wt20i_combined.csv", low_memory=False)
-    df['date'] = pd.to_datetime(df['date'], format='mixed', errors='coerce')
-    return df
+    # Safely route to the new Parquet file
+    data_path = "data/wt20i_combined.parquet" if os.path.exists("data/wt20i_combined.parquet") else "../data/wt20i_combined.parquet"
+    
+    try:
+        df = pd.read_parquet(data_path)
+        return df
+    except Exception as e:
+        st.error(f"Error loading Women's T20I data: {e}")
+        return pd.DataFrame()
 
 def run_wt20i_analysis():
     st.header("🌍 Women's T20 International Analytics Hub")

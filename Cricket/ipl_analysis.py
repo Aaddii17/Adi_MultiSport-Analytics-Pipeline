@@ -4,7 +4,7 @@ import pandas as pd
 @st.cache_data
 def load_data():
     # Loading your specific NTCC dataset
-    df = pd.read_csv("data/ipl_ball_by_ball_2008_2025.csv", low_memory=False)
+    df = pd.read_parquet("data/ipl_ball_by_ball_2008_2025.parquet")
     df['date'] = pd.to_datetime(df['date'], format='mixed', errors='coerce')
     return df
 
