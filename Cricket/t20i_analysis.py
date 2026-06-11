@@ -4,11 +4,12 @@ import os
 
 @st.cache_data
 def load_data():
-    # Safely route to the new Parquet file
     data_path = "data/t20i_combined.parquet" if os.path.exists("data/t20i_combined.parquet") else "../data/t20i_combined.parquet"
-    
     try:
         df = pd.read_parquet(data_path)
+        # Convert text dates to actual datetime objects
+        if 'date' in df.columns:
+            df['date'] = pd.to_datetime(df['date'], errors='coerce')
         return df
     except Exception as e:
         st.error(f"Error loading T20I data: {e}")
