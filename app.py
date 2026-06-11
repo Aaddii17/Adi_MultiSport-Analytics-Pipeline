@@ -28,6 +28,9 @@ from Football import ucl_analysis
 from Football import fifa_analysis
 from Football import copa_analysis
 
+# --- IMPORT LIVE MODULES ---
+from Live import live_cricket
+
 # --- PAGE CONFIGURATION ---
 st.set_page_config(
     page_title="Multi-Sport Analytics",
@@ -40,7 +43,7 @@ def main():
     # --- SIDEBAR NAVIGATION ---
     st.sidebar.title("Navigation")
     
-    sport = st.sidebar.radio("Select Sport", ["Cricket", "Football"])
+    sport = st.sidebar.radio("Select Sport", ["Cricket", "Football", "🚨 Real-Time Live Center"])
     
     st.sidebar.markdown("---")
 
@@ -109,6 +112,18 @@ def main():
              tournament = st.sidebar.selectbox("Select Tournament", ["FIFA World Cup", "Copa America"])
              if tournament == "FIFA World Cup": fifa_analysis.run_fifa_analysis()
              elif tournament == "Copa America": copa_analysis.run_copa_analysis()
+
+    # ==========================================
+    # LIVE API SECTION 
+    # ==========================================
+    elif sport == "🚨 Real-Time Live Center":
+        live_mode = st.sidebar.selectbox("Select Live Stream", ["Live Cricket Tracking", "Live Football Tracker"])
+        
+        if live_mode == "Live Cricket Tracking":
+            live_cricket.run_live_cricket()
+            
+        elif live_mode == "Live Football Tracker":
+            st.info("Live Football feeds are currently deploying next cycle.")
 
 if __name__ == "__main__":
     main()
