@@ -1,0 +1,273 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Tanzania
+info,team,Eswatini
+info,gender,male
+info,season,2025/26
+info,date,2026/03/25
+info,event,ICC Men's T20 World Cup Africa Sub Regional Qualifier B
+info,match_number,5
+info,venue,"Achimota Senior Secondary School B Field, Accra"
+info,city,Accra
+info,toss_winner,Eswatini
+info,toss_decision,field
+info,player_of_match,MS Maker
+info,umpire,Habib Enesi
+info,umpire,Patric Makumbi
+info,reserve_umpire,P Sizara
+info,match_referee,O Chirombe
+info,winner,Tanzania
+info,winner_runs,158
+info,player,Tanzania,DA Mehta
+info,player,Tanzania,II Selemani
+info,player,Tanzania,A Augastin
+info,player,Tanzania,Arun Yadav
+info,player,Tanzania,MS Maker
+info,player,Tanzania,K Nassoro
+info,player,Tanzania,AM Kimote
+info,player,Tanzania,K Juma
+info,player,Tanzania,LS Barkania
+info,player,Tanzania,MO Kitunda
+info,player,Tanzania,YM Nkanya
+info,player,Eswatini,Adil Butt
+info,player,Eswatini,M Khojbariya
+info,player,Eswatini,Eric Phiri
+info,player,Eswatini,R Sandeep
+info,player,Eswatini,Mohammed Alamgir
+info,player,Eswatini,H Jangariya
+info,player,Eswatini,M Magagula
+info,player,Eswatini,Saqib Anwar
+info,player,Eswatini,S Jele
+info,player,Eswatini,M Jele
+info,player,Eswatini,Het Patel
+info,registry,people,A Augastin,056e3558
+info,registry,people,AM Kimote,34e36b65
+info,registry,people,Adil Butt,fde53ec1
+info,registry,people,Arun Yadav,53ace082
+info,registry,people,DA Mehta,61a7d6e9
+info,registry,people,Eric Phiri,b6355062
+info,registry,people,H Jangariya,0ec2277a
+info,registry,people,Habib Enesi,fb35ab1f
+info,registry,people,Het Patel,000803b1
+info,registry,people,II Selemani,b2dadc51
+info,registry,people,K Juma,089ebf89
+info,registry,people,K Nassoro,29ee9bf9
+info,registry,people,LS Barkania,073126d6
+info,registry,people,M Jele,1a8cedc8
+info,registry,people,M Khojbariya,e1631e47
+info,registry,people,M Magagula,7a787b98
+info,registry,people,MO Kitunda,badef0dc
+info,registry,people,MS Maker,14318ae4
+info,registry,people,Mohammed Alamgir,e0f12392
+info,registry,people,O Chirombe,6345307f
+info,registry,people,P Sizara,5d45bb7f
+info,registry,people,Patric Makumbi,e4c69c16
+info,registry,people,R Sandeep,175937f6
+info,registry,people,S Jele,1c5c65d6
+info,registry,people,Saqib Anwar,3847f098
+info,registry,people,YM Nkanya,9238dd92
+ball,1,0.1,Tanzania,DA Mehta,II Selemani,Saqib Anwar,0,0,,,,,,caught,DA Mehta
+ball,1,0.2,Tanzania,A Augastin,II Selemani,Saqib Anwar,0,0,,,,,,"",""
+ball,1,0.3,Tanzania,A Augastin,II Selemani,Saqib Anwar,0,0,,,,,,"",""
+ball,1,0.4,Tanzania,A Augastin,II Selemani,Saqib Anwar,0,0,,,,,,"",""
+ball,1,0.5,Tanzania,A Augastin,II Selemani,Saqib Anwar,0,0,,,,,,"",""
+ball,1,0.6,Tanzania,A Augastin,II Selemani,Saqib Anwar,6,0,,,,,,"",""
+ball,1,1.1,Tanzania,II Selemani,A Augastin,Mohammed Alamgir,1,0,,,,,,"",""
+ball,1,1.2,Tanzania,A Augastin,II Selemani,Mohammed Alamgir,2,0,,,,,,"",""
+ball,1,1.3,Tanzania,A Augastin,II Selemani,Mohammed Alamgir,1,0,,,,,,"",""
+ball,1,1.4,Tanzania,II Selemani,A Augastin,Mohammed Alamgir,0,1,1,,,,,"",""
+ball,1,1.5,Tanzania,II Selemani,A Augastin,Mohammed Alamgir,4,0,,,,,,"",""
+ball,1,1.6,Tanzania,II Selemani,A Augastin,Mohammed Alamgir,1,0,,,,,,"",""
+ball,1,1.7,Tanzania,A Augastin,II Selemani,Mohammed Alamgir,1,0,,,,,,"",""
+ball,1,2.1,Tanzania,A Augastin,II Selemani,Saqib Anwar,0,0,,,,,,"",""
+ball,1,2.2,Tanzania,A Augastin,II Selemani,Saqib Anwar,4,0,,,,,,"",""
+ball,1,2.3,Tanzania,A Augastin,II Selemani,Saqib Anwar,0,0,,,,,,"",""
+ball,1,2.4,Tanzania,A Augastin,II Selemani,Saqib Anwar,4,0,,,,,,"",""
+ball,1,2.5,Tanzania,A Augastin,II Selemani,Saqib Anwar,4,0,,,,,,"",""
+ball,1,2.6,Tanzania,A Augastin,II Selemani,Saqib Anwar,0,0,,,,,,"",""
+ball,1,3.1,Tanzania,II Selemani,A Augastin,R Sandeep,4,0,,,,,,"",""
+ball,1,3.2,Tanzania,II Selemani,A Augastin,R Sandeep,0,0,,,,,,"",""
+ball,1,3.3,Tanzania,II Selemani,A Augastin,R Sandeep,1,0,,,,,,"",""
+ball,1,3.4,Tanzania,A Augastin,II Selemani,R Sandeep,1,0,,,,,,"",""
+ball,1,3.5,Tanzania,II Selemani,A Augastin,R Sandeep,0,0,,,,,,"",""
+ball,1,3.6,Tanzania,II Selemani,A Augastin,R Sandeep,2,0,,,,,,"",""
+ball,1,4.1,Tanzania,A Augastin,II Selemani,M Jele,0,0,,,,,,"",""
+ball,1,4.2,Tanzania,A Augastin,II Selemani,M Jele,1,0,,,,,,"",""
+ball,1,4.3,Tanzania,II Selemani,A Augastin,M Jele,0,1,,,1,,,"",""
+ball,1,4.4,Tanzania,A Augastin,II Selemani,M Jele,0,1,1,,,,,"",""
+ball,1,4.5,Tanzania,A Augastin,II Selemani,M Jele,4,0,,,,,,"",""
+ball,1,4.6,Tanzania,A Augastin,II Selemani,M Jele,0,1,1,,,,,"",""
+ball,1,4.7,Tanzania,A Augastin,II Selemani,M Jele,1,0,,,,,,"",""
+ball,1,4.8,Tanzania,II Selemani,A Augastin,M Jele,0,1,,,,1,,"",""
+ball,1,5.1,Tanzania,II Selemani,A Augastin,R Sandeep,0,0,,,,,,"",""
+ball,1,5.2,Tanzania,II Selemani,A Augastin,R Sandeep,0,0,,,,,,"",""
+ball,1,5.3,Tanzania,II Selemani,A Augastin,R Sandeep,1,0,,,,,,"",""
+ball,1,5.4,Tanzania,A Augastin,II Selemani,R Sandeep,0,0,,,,,,"",""
+ball,1,5.5,Tanzania,A Augastin,II Selemani,R Sandeep,1,0,,,,,,"",""
+ball,1,5.6,Tanzania,II Selemani,A Augastin,R Sandeep,1,0,,,,,,"",""
+ball,1,6.1,Tanzania,II Selemani,A Augastin,Adil Butt,1,0,,,,,,"",""
+ball,1,6.2,Tanzania,A Augastin,II Selemani,Adil Butt,1,0,,,,,,"",""
+ball,1,6.3,Tanzania,II Selemani,A Augastin,Adil Butt,0,1,1,,,,,"",""
+ball,1,6.4,Tanzania,II Selemani,A Augastin,Adil Butt,1,0,,,,,,"",""
+ball,1,6.5,Tanzania,A Augastin,II Selemani,Adil Butt,4,0,,,,,,"",""
+ball,1,6.6,Tanzania,A Augastin,II Selemani,Adil Butt,0,0,,,,,,"",""
+ball,1,6.7,Tanzania,A Augastin,II Selemani,Adil Butt,0,0,,,,,,caught,A Augastin
+ball,1,7.1,Tanzania,II Selemani,Arun Yadav,R Sandeep,0,0,,,,,,"",""
+ball,1,7.2,Tanzania,II Selemani,Arun Yadav,R Sandeep,0,0,,,,,,"",""
+ball,1,7.3,Tanzania,II Selemani,Arun Yadav,R Sandeep,1,0,,,,,,"",""
+ball,1,7.4,Tanzania,Arun Yadav,II Selemani,R Sandeep,0,0,,,,,,"",""
+ball,1,7.5,Tanzania,Arun Yadav,II Selemani,R Sandeep,1,0,,,,,,"",""
+ball,1,7.6,Tanzania,II Selemani,Arun Yadav,R Sandeep,1,0,,,,,,"",""
+ball,1,8.1,Tanzania,II Selemani,Arun Yadav,Adil Butt,6,0,,,,,,"",""
+ball,1,8.2,Tanzania,II Selemani,Arun Yadav,Adil Butt,4,0,,,,,,"",""
+ball,1,8.3,Tanzania,II Selemani,Arun Yadav,Adil Butt,0,0,,,,,,"",""
+ball,1,8.4,Tanzania,II Selemani,Arun Yadav,Adil Butt,6,0,,,,,,"",""
+ball,1,8.5,Tanzania,II Selemani,Arun Yadav,Adil Butt,0,0,,,,,,"",""
+ball,1,8.6,Tanzania,II Selemani,Arun Yadav,Adil Butt,0,0,,,,,,lbw,II Selemani
+ball,1,9.1,Tanzania,Arun Yadav,MS Maker,M Magagula,1,0,,,,,,"",""
+ball,1,9.2,Tanzania,MS Maker,Arun Yadav,M Magagula,0,0,,,,,,"",""
+ball,1,9.3,Tanzania,MS Maker,Arun Yadav,M Magagula,0,0,,,,,,"",""
+ball,1,9.4,Tanzania,MS Maker,Arun Yadav,M Magagula,0,0,,,,,,"",""
+ball,1,9.5,Tanzania,MS Maker,Arun Yadav,M Magagula,1,0,,,,,,"",""
+ball,1,9.6,Tanzania,Arun Yadav,MS Maker,M Magagula,0,0,,,,,,"",""
+ball,1,10.1,Tanzania,MS Maker,Arun Yadav,M Jele,1,0,,,,,,"",""
+ball,1,10.2,Tanzania,Arun Yadav,MS Maker,M Jele,1,0,,,,,,"",""
+ball,1,10.3,Tanzania,MS Maker,Arun Yadav,M Jele,0,0,,,,,,"",""
+ball,1,10.4,Tanzania,MS Maker,Arun Yadav,M Jele,1,0,,,,,,"",""
+ball,1,10.5,Tanzania,Arun Yadav,MS Maker,M Jele,1,0,,,,,,"",""
+ball,1,10.6,Tanzania,MS Maker,Arun Yadav,M Jele,4,0,,,,,,"",""
+ball,1,11.1,Tanzania,Arun Yadav,MS Maker,M Magagula,1,0,,,,,,"",""
+ball,1,11.2,Tanzania,MS Maker,Arun Yadav,M Magagula,0,0,,,,,,"",""
+ball,1,11.3,Tanzania,MS Maker,Arun Yadav,M Magagula,1,0,,,,,,"",""
+ball,1,11.4,Tanzania,Arun Yadav,MS Maker,M Magagula,2,0,,,,,,"",""
+ball,1,11.5,Tanzania,Arun Yadav,MS Maker,M Magagula,1,0,,,,,,"",""
+ball,1,11.6,Tanzania,MS Maker,Arun Yadav,M Magagula,2,0,,,,,,"",""
+ball,1,12.1,Tanzania,Arun Yadav,MS Maker,M Khojbariya,1,0,,,,,,"",""
+ball,1,12.2,Tanzania,MS Maker,Arun Yadav,M Khojbariya,4,0,,,,,,"",""
+ball,1,12.3,Tanzania,MS Maker,Arun Yadav,M Khojbariya,1,0,,,,,,"",""
+ball,1,12.4,Tanzania,Arun Yadav,MS Maker,M Khojbariya,1,0,,,,,,"",""
+ball,1,12.5,Tanzania,MS Maker,Arun Yadav,M Khojbariya,1,0,,,,,,"",""
+ball,1,12.6,Tanzania,Arun Yadav,MS Maker,M Khojbariya,4,0,,,,,,"",""
+ball,1,13.1,Tanzania,MS Maker,Arun Yadav,Adil Butt,0,0,,,,,,"",""
+ball,1,13.2,Tanzania,MS Maker,Arun Yadav,Adil Butt,0,0,,,,,,"",""
+ball,1,13.3,Tanzania,MS Maker,Arun Yadav,Adil Butt,1,0,,,,,,"",""
+ball,1,13.4,Tanzania,Arun Yadav,MS Maker,Adil Butt,1,0,,,,,,"",""
+ball,1,13.5,Tanzania,MS Maker,Arun Yadav,Adil Butt,4,0,,,,,,"",""
+ball,1,13.6,Tanzania,MS Maker,Arun Yadav,Adil Butt,1,0,,,,,,"",""
+ball,1,14.1,Tanzania,MS Maker,Arun Yadav,M Khojbariya,1,0,,,,,,"",""
+ball,1,14.2,Tanzania,Arun Yadav,MS Maker,M Khojbariya,0,0,,,,,,"",""
+ball,1,14.3,Tanzania,Arun Yadav,MS Maker,M Khojbariya,0,0,,,,,,"",""
+ball,1,14.4,Tanzania,Arun Yadav,MS Maker,M Khojbariya,1,0,,,,,,"",""
+ball,1,14.5,Tanzania,MS Maker,Arun Yadav,M Khojbariya,1,0,,,,,,"",""
+ball,1,14.6,Tanzania,Arun Yadav,MS Maker,M Khojbariya,0,0,,,,,,"",""
+ball,1,15.1,Tanzania,MS Maker,Arun Yadav,Adil Butt,2,0,,,,,,"",""
+ball,1,15.2,Tanzania,MS Maker,Arun Yadav,Adil Butt,0,0,,,,,,"",""
+ball,1,15.3,Tanzania,MS Maker,Arun Yadav,Adil Butt,0,0,,,,,,"",""
+ball,1,15.4,Tanzania,MS Maker,Arun Yadav,Adil Butt,0,0,,,,,,"",""
+ball,1,15.5,Tanzania,MS Maker,Arun Yadav,Adil Butt,4,0,,,,,,"",""
+ball,1,15.6,Tanzania,MS Maker,Arun Yadav,Adil Butt,1,0,,,,,,"",""
+ball,1,16.1,Tanzania,MS Maker,Arun Yadav,M Khojbariya,2,0,,,,,,"",""
+ball,1,16.2,Tanzania,MS Maker,Arun Yadav,M Khojbariya,0,0,,,,,,"",""
+ball,1,16.3,Tanzania,MS Maker,Arun Yadav,M Khojbariya,4,0,,,,,,"",""
+ball,1,16.4,Tanzania,MS Maker,Arun Yadav,M Khojbariya,1,0,,,,,,"",""
+ball,1,16.5,Tanzania,Arun Yadav,MS Maker,M Khojbariya,1,0,,,,,,"",""
+ball,1,16.6,Tanzania,MS Maker,Arun Yadav,M Khojbariya,1,0,,,,,,"",""
+ball,1,17.1,Tanzania,MS Maker,Arun Yadav,Saqib Anwar,1,0,,,,,,"",""
+ball,1,17.2,Tanzania,Arun Yadav,MS Maker,Saqib Anwar,1,0,,,,,,"",""
+ball,1,17.3,Tanzania,MS Maker,Arun Yadav,Saqib Anwar,2,0,,,,,,"",""
+ball,1,17.4,Tanzania,MS Maker,Arun Yadav,Saqib Anwar,4,0,,,,,,"",""
+ball,1,17.5,Tanzania,MS Maker,Arun Yadav,Saqib Anwar,0,0,,,,,,"",""
+ball,1,17.6,Tanzania,MS Maker,Arun Yadav,Saqib Anwar,1,0,,,,,,"",""
+ball,1,18.1,Tanzania,MS Maker,Arun Yadav,M Khojbariya,4,0,,,,,,"",""
+ball,1,18.2,Tanzania,MS Maker,Arun Yadav,M Khojbariya,6,0,,,,,,"",""
+ball,1,18.3,Tanzania,MS Maker,Arun Yadav,M Khojbariya,6,0,,,,,,"",""
+ball,1,18.4,Tanzania,MS Maker,Arun Yadav,M Khojbariya,1,0,,,,,,"",""
+ball,1,18.5,Tanzania,Arun Yadav,MS Maker,M Khojbariya,4,0,,,,,,"",""
+ball,1,18.6,Tanzania,Arun Yadav,MS Maker,M Khojbariya,1,0,,,,,,"",""
+ball,1,19.1,Tanzania,Arun Yadav,MS Maker,Saqib Anwar,1,0,,,,,,"",""
+ball,1,19.2,Tanzania,MS Maker,Arun Yadav,Saqib Anwar,1,0,,,,,,"",""
+ball,1,19.3,Tanzania,Arun Yadav,MS Maker,Saqib Anwar,0,0,,,,,,caught,Arun Yadav
+ball,1,19.4,Tanzania,K Nassoro,MS Maker,Saqib Anwar,4,0,,,,,,"",""
+ball,1,19.5,Tanzania,K Nassoro,MS Maker,Saqib Anwar,6,0,,,,,,"",""
+ball,1,19.6,Tanzania,K Nassoro,MS Maker,Saqib Anwar,3,0,,,,,,"",""
+ball,2,0.1,Eswatini,Adil Butt,M Khojbariya,K Juma,0,0,,,,,,"",""
+ball,2,0.2,Eswatini,Adil Butt,M Khojbariya,K Juma,2,0,,,,,,"",""
+ball,2,0.3,Eswatini,Adil Butt,M Khojbariya,K Juma,1,0,,,,,,"",""
+ball,2,0.4,Eswatini,M Khojbariya,Adil Butt,K Juma,0,0,,,,,,bowled,M Khojbariya
+ball,2,0.5,Eswatini,Eric Phiri,Adil Butt,K Juma,0,0,,,,,,"",""
+ball,2,0.6,Eswatini,Eric Phiri,Adil Butt,K Juma,0,0,,,,,,"",""
+ball,2,1.1,Eswatini,Adil Butt,Eric Phiri,AM Kimote,0,0,,,,,,caught,Adil Butt
+ball,2,1.2,Eswatini,R Sandeep,Eric Phiri,AM Kimote,0,0,,,,,,"",""
+ball,2,1.3,Eswatini,R Sandeep,Eric Phiri,AM Kimote,1,0,,,,,,"",""
+ball,2,1.4,Eswatini,Eric Phiri,R Sandeep,AM Kimote,0,0,,,,,,caught,Eric Phiri
+ball,2,1.5,Eswatini,Mohammed Alamgir,R Sandeep,AM Kimote,0,0,,,,,,"",""
+ball,2,1.6,Eswatini,Mohammed Alamgir,R Sandeep,AM Kimote,0,0,,,,,,"",""
+ball,2,2.1,Eswatini,R Sandeep,Mohammed Alamgir,K Juma,0,0,,,,,,"",""
+ball,2,2.2,Eswatini,R Sandeep,Mohammed Alamgir,K Juma,0,0,,,,,,"",""
+ball,2,2.3,Eswatini,R Sandeep,Mohammed Alamgir,K Juma,0,0,,,,,,"",""
+ball,2,2.4,Eswatini,R Sandeep,Mohammed Alamgir,K Juma,0,0,,,,,,"",""
+ball,2,2.5,Eswatini,R Sandeep,Mohammed Alamgir,K Juma,1,0,,,,,,"",""
+ball,2,2.6,Eswatini,Mohammed Alamgir,R Sandeep,K Juma,0,0,,,,,,"",""
+ball,2,3.1,Eswatini,R Sandeep,Mohammed Alamgir,AM Kimote,0,0,,,,,,"",""
+ball,2,3.2,Eswatini,R Sandeep,Mohammed Alamgir,AM Kimote,0,0,,,,,,"",""
+ball,2,3.3,Eswatini,R Sandeep,Mohammed Alamgir,AM Kimote,0,0,,,,,,caught,R Sandeep
+ball,2,3.4,Eswatini,H Jangariya,Mohammed Alamgir,AM Kimote,1,0,,,,,,"",""
+ball,2,3.5,Eswatini,Mohammed Alamgir,H Jangariya,AM Kimote,0,0,,,,,,"",""
+ball,2,3.6,Eswatini,Mohammed Alamgir,H Jangariya,AM Kimote,0,0,,,,,,"",""
+ball,2,4.1,Eswatini,H Jangariya,Mohammed Alamgir,K Juma,0,1,1,,,,,"",""
+ball,2,4.2,Eswatini,H Jangariya,Mohammed Alamgir,K Juma,0,0,,,,,,"",""
+ball,2,4.3,Eswatini,H Jangariya,Mohammed Alamgir,K Juma,0,0,,,,,,"",""
+ball,2,4.4,Eswatini,H Jangariya,Mohammed Alamgir,K Juma,0,0,,,,,,"",""
+ball,2,4.5,Eswatini,H Jangariya,Mohammed Alamgir,K Juma,0,0,,,,,,"",""
+ball,2,4.6,Eswatini,H Jangariya,Mohammed Alamgir,K Juma,0,0,,,,,,bowled,H Jangariya
+ball,2,4.7,Eswatini,M Magagula,Mohammed Alamgir,K Juma,0,0,,,,,,"",""
+ball,2,5.1,Eswatini,Mohammed Alamgir,M Magagula,AM Kimote,1,0,,,,,,"",""
+ball,2,5.2,Eswatini,M Magagula,Mohammed Alamgir,AM Kimote,1,0,,,,,,"",""
+ball,2,5.3,Eswatini,Mohammed Alamgir,M Magagula,AM Kimote,0,0,,,,,,"",""
+ball,2,5.4,Eswatini,Mohammed Alamgir,M Magagula,AM Kimote,0,0,,,,,,"",""
+ball,2,5.5,Eswatini,Mohammed Alamgir,M Magagula,AM Kimote,0,0,,,,,,"",""
+ball,2,5.6,Eswatini,Mohammed Alamgir,M Magagula,AM Kimote,0,0,,,,,,"",""
+ball,2,6.1,Eswatini,M Magagula,Mohammed Alamgir,K Juma,0,0,,,,,,"",""
+ball,2,6.2,Eswatini,M Magagula,Mohammed Alamgir,K Juma,0,0,,,,,,"",""
+ball,2,6.3,Eswatini,M Magagula,Mohammed Alamgir,K Juma,0,0,,,,,,bowled,M Magagula
+ball,2,6.4,Eswatini,Saqib Anwar,Mohammed Alamgir,K Juma,0,0,,,,,,"",""
+ball,2,6.5,Eswatini,Saqib Anwar,Mohammed Alamgir,K Juma,0,0,,,,,,"",""
+ball,2,6.6,Eswatini,Saqib Anwar,Mohammed Alamgir,K Juma,0,0,,,,,,"",""
+ball,2,7.1,Eswatini,Mohammed Alamgir,Saqib Anwar,YM Nkanya,0,0,,,,,,"",""
+ball,2,7.2,Eswatini,Mohammed Alamgir,Saqib Anwar,YM Nkanya,0,0,,,,,,"",""
+ball,2,7.3,Eswatini,Mohammed Alamgir,Saqib Anwar,YM Nkanya,0,0,,,,,,"",""
+ball,2,7.4,Eswatini,Mohammed Alamgir,Saqib Anwar,YM Nkanya,0,0,,,,,,"",""
+ball,2,7.5,Eswatini,Mohammed Alamgir,Saqib Anwar,YM Nkanya,1,0,,,,,,"",""
+ball,2,7.6,Eswatini,Saqib Anwar,Mohammed Alamgir,YM Nkanya,0,0,,,,,,"",""
+ball,2,8.1,Eswatini,Mohammed Alamgir,Saqib Anwar,LS Barkania,0,0,,,,,,"",""
+ball,2,8.2,Eswatini,Mohammed Alamgir,Saqib Anwar,LS Barkania,0,0,,,,,,caught,Mohammed Alamgir
+ball,2,8.3,Eswatini,S Jele,Saqib Anwar,LS Barkania,0,0,,,,,,"",""
+ball,2,8.4,Eswatini,S Jele,Saqib Anwar,LS Barkania,1,0,,,,,,"",""
+ball,2,8.5,Eswatini,Saqib Anwar,S Jele,LS Barkania,0,0,,,,,,"",""
+ball,2,8.6,Eswatini,Saqib Anwar,S Jele,LS Barkania,0,0,,,,,,"",""
+ball,2,9.1,Eswatini,S Jele,Saqib Anwar,YM Nkanya,0,0,,,,,,"",""
+ball,2,9.2,Eswatini,S Jele,Saqib Anwar,YM Nkanya,1,0,,,,,,"",""
+ball,2,9.3,Eswatini,Saqib Anwar,S Jele,YM Nkanya,0,0,,,,,,"",""
+ball,2,9.4,Eswatini,Saqib Anwar,S Jele,YM Nkanya,0,0,,,,,,"",""
+ball,2,9.5,Eswatini,Saqib Anwar,S Jele,YM Nkanya,0,0,,,,,,"",""
+ball,2,9.6,Eswatini,Saqib Anwar,S Jele,YM Nkanya,1,0,,,,,,"",""
+ball,2,10.1,Eswatini,Saqib Anwar,S Jele,LS Barkania,0,0,,,,,,"",""
+ball,2,10.2,Eswatini,Saqib Anwar,S Jele,LS Barkania,0,0,,,,,,"",""
+ball,2,10.3,Eswatini,Saqib Anwar,S Jele,LS Barkania,1,0,,,,,,"",""
+ball,2,10.4,Eswatini,S Jele,Saqib Anwar,LS Barkania,1,0,,,,,,"",""
+ball,2,10.5,Eswatini,Saqib Anwar,S Jele,LS Barkania,0,0,,,,,,"",""
+ball,2,10.6,Eswatini,Saqib Anwar,S Jele,LS Barkania,0,0,,,,,,"",""
+ball,2,11.1,Eswatini,S Jele,Saqib Anwar,YM Nkanya,1,0,,,,,,"",""
+ball,2,11.2,Eswatini,Saqib Anwar,S Jele,YM Nkanya,0,0,,,,,,lbw,Saqib Anwar
+ball,2,11.3,Eswatini,M Jele,S Jele,YM Nkanya,0,0,,,,,,bowled,M Jele
+ball,2,11.4,Eswatini,Het Patel,S Jele,YM Nkanya,0,0,,,,,,"",""
+ball,2,11.5,Eswatini,Het Patel,S Jele,YM Nkanya,0,0,,,,,,"",""
+ball,2,11.6,Eswatini,Het Patel,S Jele,YM Nkanya,0,0,,,,,,"",""
+ball,2,12.1,Eswatini,S Jele,Het Patel,LS Barkania,1,0,,,,,,"",""
+ball,2,12.2,Eswatini,Het Patel,S Jele,LS Barkania,0,1,1,,,,,"",""
+ball,2,12.3,Eswatini,Het Patel,S Jele,LS Barkania,0,1,1,,,,,"",""
+ball,2,12.4,Eswatini,Het Patel,S Jele,LS Barkania,0,0,,,,,,"",""
+ball,2,12.5,Eswatini,Het Patel,S Jele,LS Barkania,0,0,,,,,,"",""
+ball,2,12.6,Eswatini,Het Patel,S Jele,LS Barkania,0,0,,,,,,"",""
+ball,2,12.7,Eswatini,Het Patel,S Jele,LS Barkania,1,0,,,,,,"",""
+ball,2,12.8,Eswatini,S Jele,Het Patel,LS Barkania,0,0,,,,,,stumped,S Jele

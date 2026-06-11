@@ -1,0 +1,302 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,England
+info,team,Pakistan
+info,gender,female
+info,season,2025/26
+info,date,2025/10/15
+info,event,ICC Women's World Cup
+info,match_number,16
+info,venue,"R Premadasa Stadium, Colombo"
+info,city,Colombo
+info,toss_winner,Pakistan
+info,toss_decision,field
+info,umpire,CA Polosak
+info,umpire,Shathira Jakir
+info,reserve_umpire,N Janani
+info,tv_umpire,K Klaaste
+info,match_referee,SA Fritz
+info,outcome,no result
+info,player,England,AE Jones
+info,player,England,TT Beaumont
+info,player,England,HC Knight
+info,player,England,NR Sciver-Brunt
+info,player,England,SIR Dunkley
+info,player,England,EL Lamb
+info,player,England,A Capsey
+info,player,England,CE Dean
+info,player,England,EL Arlott
+info,player,England,S Glenn
+info,player,England,LCN Smith
+info,player,Pakistan,Muneeba Ali
+info,player,Pakistan,Umaima Sohail
+info,player,Pakistan,Sidra Ameen
+info,player,Pakistan,Aliya Riaz
+info,player,Pakistan,Natalia Pervaiz
+info,player,Pakistan,Fatima Sana
+info,player,Pakistan,Sidra Nawaz
+info,player,Pakistan,Rameen Shamim
+info,player,Pakistan,Diana Baig
+info,player,Pakistan,Nashra Sandhu
+info,player,Pakistan,Sadia Iqbal
+info,registry,people,A Capsey,910dd54e
+info,registry,people,AE Jones,b05e45e4
+info,registry,people,Aliya Riaz,2904b4b6
+info,registry,people,CA Polosak,26a360d2
+info,registry,people,CE Dean,c6625a26
+info,registry,people,Diana Baig,a51e6c6e
+info,registry,people,EL Arlott,78fd864b
+info,registry,people,EL Lamb,02181d9a
+info,registry,people,Fatima Sana,ea9c54de
+info,registry,people,HC Knight,4ba0289e
+info,registry,people,K Klaaste,6cc1d918
+info,registry,people,LCN Smith,340202b0
+info,registry,people,Muneeba Ali,86fdf668
+info,registry,people,N Janani,d06a665d
+info,registry,people,NR Sciver-Brunt,f3a18a0c
+info,registry,people,Nashra Sandhu,c981d3c2
+info,registry,people,Natalia Pervaiz,fa8a3eb0
+info,registry,people,Rameen Shamim,0b78b7c1
+info,registry,people,S Glenn,b34e0c77
+info,registry,people,SA Fritz,d15e60c8
+info,registry,people,SIR Dunkley,3a9e9cb2
+info,registry,people,Sadia Iqbal,53bb50f0
+info,registry,people,Shathira Jakir,6b992a6f
+info,registry,people,Sidra Ameen,72c9ad99
+info,registry,people,Sidra Nawaz,ca3ded6f
+info,registry,people,Syeda Aroob Shah,4cf8708b
+info,registry,people,TT Beaumont,b2664905
+info,registry,people,Umaima Sohail,821d7d46
+ball,1,0.1,England,AE Jones,TT Beaumont,Fatima Sana,0,0,,,,,,"",""
+ball,1,0.2,England,AE Jones,TT Beaumont,Fatima Sana,4,0,,,,,,"",""
+ball,1,0.3,England,AE Jones,TT Beaumont,Fatima Sana,0,0,,,,,,"",""
+ball,1,0.4,England,AE Jones,TT Beaumont,Fatima Sana,0,0,,,,,,"",""
+ball,1,0.5,England,AE Jones,TT Beaumont,Fatima Sana,0,0,,,,,,"",""
+ball,1,0.6,England,AE Jones,TT Beaumont,Fatima Sana,4,0,,,,,,"",""
+ball,1,1.1,England,TT Beaumont,AE Jones,Diana Baig,0,1,,1,,,,"",""
+ball,1,1.2,England,TT Beaumont,AE Jones,Diana Baig,4,0,,,,,,"",""
+ball,1,1.3,England,TT Beaumont,AE Jones,Diana Baig,0,0,,,,,,"",""
+ball,1,1.4,England,TT Beaumont,AE Jones,Diana Baig,0,0,,,,,,bowled,TT Beaumont
+ball,1,1.5,England,HC Knight,AE Jones,Diana Baig,4,0,,,,,,"",""
+ball,1,1.6,England,HC Knight,AE Jones,Diana Baig,0,1,1,,,,,"",""
+ball,1,1.7,England,HC Knight,AE Jones,Diana Baig,4,0,,,,,,"",""
+ball,1,1.8,England,HC Knight,AE Jones,Diana Baig,0,0,,,,,,"",""
+ball,1,2.1,England,AE Jones,HC Knight,Fatima Sana,0,0,,,,,,"",""
+ball,1,2.2,England,AE Jones,HC Knight,Fatima Sana,0,0,,,,,,bowled,AE Jones
+ball,1,2.3,England,NR Sciver-Brunt,HC Knight,Fatima Sana,0,0,,,,,,"",""
+ball,1,2.4,England,NR Sciver-Brunt,HC Knight,Fatima Sana,0,0,,,,,,"",""
+ball,1,2.5,England,NR Sciver-Brunt,HC Knight,Fatima Sana,0,0,,,,,,"",""
+ball,1,2.6,England,NR Sciver-Brunt,HC Knight,Fatima Sana,0,0,,,,,,"",""
+ball,1,3.1,England,HC Knight,NR Sciver-Brunt,Diana Baig,1,0,,,,,,"",""
+ball,1,3.2,England,NR Sciver-Brunt,HC Knight,Diana Baig,0,0,,,,,,"",""
+ball,1,3.3,England,NR Sciver-Brunt,HC Knight,Diana Baig,0,0,,,,,,"",""
+ball,1,3.4,England,NR Sciver-Brunt,HC Knight,Diana Baig,0,1,1,,,,,"",""
+ball,1,3.5,England,NR Sciver-Brunt,HC Knight,Diana Baig,0,0,,,,,,"",""
+ball,1,3.6,England,NR Sciver-Brunt,HC Knight,Diana Baig,4,0,,,,,,"",""
+ball,1,3.7,England,NR Sciver-Brunt,HC Knight,Diana Baig,0,0,,,,,,"",""
+ball,1,4.1,England,HC Knight,NR Sciver-Brunt,Fatima Sana,0,0,,,,,,"",""
+ball,1,4.2,England,HC Knight,NR Sciver-Brunt,Fatima Sana,0,0,,,,,,"",""
+ball,1,4.3,England,HC Knight,NR Sciver-Brunt,Fatima Sana,0,0,,,,,,"",""
+ball,1,4.4,England,HC Knight,NR Sciver-Brunt,Fatima Sana,0,0,,,,,,"",""
+ball,1,4.5,England,HC Knight,NR Sciver-Brunt,Fatima Sana,4,0,,,,,,"",""
+ball,1,4.6,England,HC Knight,NR Sciver-Brunt,Fatima Sana,1,0,,,,,,"",""
+ball,1,5.1,England,HC Knight,NR Sciver-Brunt,Diana Baig,4,0,,,,,,"",""
+ball,1,5.2,England,HC Knight,NR Sciver-Brunt,Diana Baig,0,1,1,,,,,"",""
+ball,1,5.3,England,HC Knight,NR Sciver-Brunt,Diana Baig,0,0,,,,,,"",""
+ball,1,5.4,England,HC Knight,NR Sciver-Brunt,Diana Baig,0,0,,,,,,"",""
+ball,1,5.5,England,HC Knight,NR Sciver-Brunt,Diana Baig,0,0,,,,,,"",""
+ball,1,5.6,England,HC Knight,NR Sciver-Brunt,Diana Baig,0,0,,,,,,"",""
+ball,1,5.7,England,HC Knight,NR Sciver-Brunt,Diana Baig,0,0,,,,,,"",""
+ball,1,6.1,England,NR Sciver-Brunt,HC Knight,Fatima Sana,0,0,,,,,,bowled,NR Sciver-Brunt
+ball,1,6.2,England,SIR Dunkley,HC Knight,Fatima Sana,0,0,,,,,,"",""
+ball,1,6.3,England,SIR Dunkley,HC Knight,Fatima Sana,1,0,,,,,,"",""
+ball,1,6.4,England,HC Knight,SIR Dunkley,Fatima Sana,0,0,,,,,,lbw,HC Knight
+ball,1,6.5,England,EL Lamb,SIR Dunkley,Fatima Sana,1,0,,,,,,"",""
+ball,1,6.6,England,SIR Dunkley,EL Lamb,Fatima Sana,0,0,,,,,,"",""
+ball,1,7.1,England,EL Lamb,SIR Dunkley,Sadia Iqbal,1,0,,,,,,"",""
+ball,1,7.2,England,SIR Dunkley,EL Lamb,Sadia Iqbal,0,0,,,,,,"",""
+ball,1,7.3,England,SIR Dunkley,EL Lamb,Sadia Iqbal,0,0,,,,,,"",""
+ball,1,7.4,England,SIR Dunkley,EL Lamb,Sadia Iqbal,2,0,,,,,,"",""
+ball,1,7.5,England,SIR Dunkley,EL Lamb,Sadia Iqbal,1,0,,,,,,"",""
+ball,1,7.6,England,EL Lamb,SIR Dunkley,Sadia Iqbal,2,0,,,,,,"",""
+ball,1,8.1,England,SIR Dunkley,EL Lamb,Fatima Sana,4,0,,,,,,"",""
+ball,1,8.2,England,SIR Dunkley,EL Lamb,Fatima Sana,0,0,,,,,,"",""
+ball,1,8.3,England,SIR Dunkley,EL Lamb,Fatima Sana,0,4,,,4,,,"",""
+ball,1,8.4,England,SIR Dunkley,EL Lamb,Fatima Sana,0,0,,,,,,"",""
+ball,1,8.5,England,SIR Dunkley,EL Lamb,Fatima Sana,0,0,,,,,,"",""
+ball,1,8.6,England,SIR Dunkley,EL Lamb,Fatima Sana,0,0,,,,,,"",""
+ball,1,9.1,England,EL Lamb,SIR Dunkley,Sadia Iqbal,0,0,,,,,,"",""
+ball,1,9.2,England,EL Lamb,SIR Dunkley,Sadia Iqbal,0,0,,,,,,bowled,EL Lamb
+ball,1,9.3,England,A Capsey,SIR Dunkley,Sadia Iqbal,0,0,,,,,,"",""
+ball,1,9.4,England,A Capsey,SIR Dunkley,Sadia Iqbal,0,0,,,,,,"",""
+ball,1,9.5,England,A Capsey,SIR Dunkley,Sadia Iqbal,0,0,,,,,,"",""
+ball,1,9.6,England,A Capsey,SIR Dunkley,Sadia Iqbal,0,0,,,,,,"",""
+ball,1,10.1,England,SIR Dunkley,A Capsey,Nashra Sandhu,0,0,,,,,,"",""
+ball,1,10.2,England,SIR Dunkley,A Capsey,Nashra Sandhu,0,0,,,,,,"",""
+ball,1,10.3,England,SIR Dunkley,A Capsey,Nashra Sandhu,0,0,,,,,,"",""
+ball,1,10.4,England,SIR Dunkley,A Capsey,Nashra Sandhu,0,0,,,,,,"",""
+ball,1,10.5,England,SIR Dunkley,A Capsey,Nashra Sandhu,1,0,,,,,,"",""
+ball,1,10.6,England,A Capsey,SIR Dunkley,Nashra Sandhu,0,0,,,,,,"",""
+ball,1,11.1,England,SIR Dunkley,A Capsey,Sadia Iqbal,2,0,,,,,,"",""
+ball,1,11.2,England,SIR Dunkley,A Capsey,Sadia Iqbal,0,0,,,,,,"",""
+ball,1,11.3,England,SIR Dunkley,A Capsey,Sadia Iqbal,0,0,,,,,,lbw,SIR Dunkley
+ball,1,11.4,England,CE Dean,A Capsey,Sadia Iqbal,1,0,,,,,,"",""
+ball,1,11.5,England,A Capsey,CE Dean,Sadia Iqbal,0,0,,,,,,"",""
+ball,1,11.6,England,A Capsey,CE Dean,Sadia Iqbal,0,0,,,,,,"",""
+ball,1,12.1,England,CE Dean,A Capsey,Nashra Sandhu,1,0,,,,,,"",""
+ball,1,12.2,England,A Capsey,CE Dean,Nashra Sandhu,0,0,,,,,,"",""
+ball,1,12.3,England,A Capsey,CE Dean,Nashra Sandhu,0,0,,,,,,"",""
+ball,1,12.4,England,A Capsey,CE Dean,Nashra Sandhu,0,0,,,,,,"",""
+ball,1,12.5,England,A Capsey,CE Dean,Nashra Sandhu,0,0,,,,,,"",""
+ball,1,12.6,England,A Capsey,CE Dean,Nashra Sandhu,1,0,,,,,,"",""
+ball,1,13.1,England,A Capsey,CE Dean,Sadia Iqbal,1,0,,,,,,"",""
+ball,1,13.2,England,CE Dean,A Capsey,Sadia Iqbal,0,0,,,,,,"",""
+ball,1,13.3,England,CE Dean,A Capsey,Sadia Iqbal,0,0,,,,,,"",""
+ball,1,13.4,England,CE Dean,A Capsey,Sadia Iqbal,0,0,,,,,,"",""
+ball,1,13.5,England,CE Dean,A Capsey,Sadia Iqbal,0,0,,,,,,"",""
+ball,1,13.6,England,CE Dean,A Capsey,Sadia Iqbal,1,0,,,,,,"",""
+ball,1,14.1,England,CE Dean,A Capsey,Nashra Sandhu,0,0,,,,,,"",""
+ball,1,14.2,England,CE Dean,A Capsey,Nashra Sandhu,0,0,,,,,,"",""
+ball,1,14.3,England,CE Dean,A Capsey,Nashra Sandhu,0,0,,,,,,"",""
+ball,1,14.4,England,CE Dean,A Capsey,Nashra Sandhu,0,0,,,,,,"",""
+ball,1,14.5,England,CE Dean,A Capsey,Nashra Sandhu,0,0,,,,,,"",""
+ball,1,14.6,England,CE Dean,A Capsey,Nashra Sandhu,0,0,,,,,,"",""
+ball,1,15.1,England,A Capsey,CE Dean,Sadia Iqbal,0,0,,,,,,"",""
+ball,1,15.2,England,A Capsey,CE Dean,Sadia Iqbal,0,0,,,,,,"",""
+ball,1,15.3,England,A Capsey,CE Dean,Sadia Iqbal,0,0,,,,,,"",""
+ball,1,15.4,England,A Capsey,CE Dean,Sadia Iqbal,0,0,,,,,,"",""
+ball,1,15.5,England,A Capsey,CE Dean,Sadia Iqbal,4,0,,,,,,"",""
+ball,1,15.6,England,A Capsey,CE Dean,Sadia Iqbal,1,0,,,,,,"",""
+ball,1,16.1,England,A Capsey,CE Dean,Nashra Sandhu,0,0,,,,,,"",""
+ball,1,16.2,England,A Capsey,CE Dean,Nashra Sandhu,0,0,,,,,,"",""
+ball,1,16.3,England,A Capsey,CE Dean,Nashra Sandhu,1,0,,,,,,"",""
+ball,1,16.4,England,CE Dean,A Capsey,Nashra Sandhu,0,0,,,,,,"",""
+ball,1,16.5,England,CE Dean,A Capsey,Nashra Sandhu,0,0,,,,,,"",""
+ball,1,16.6,England,CE Dean,A Capsey,Nashra Sandhu,0,0,,,,,,"",""
+ball,1,17.1,England,A Capsey,CE Dean,Rameen Shamim,0,0,,,,,,"",""
+ball,1,17.2,England,A Capsey,CE Dean,Rameen Shamim,0,0,,,,,,"",""
+ball,1,17.3,England,A Capsey,CE Dean,Rameen Shamim,0,0,,,,,,"",""
+ball,1,17.4,England,A Capsey,CE Dean,Rameen Shamim,0,0,,,,,,"",""
+ball,1,17.5,England,A Capsey,CE Dean,Rameen Shamim,1,0,,,,,,"",""
+ball,1,17.6,England,CE Dean,A Capsey,Rameen Shamim,0,0,,,,,,"",""
+ball,1,18.1,England,A Capsey,CE Dean,Nashra Sandhu,0,0,,,,,,"",""
+ball,1,18.2,England,A Capsey,CE Dean,Nashra Sandhu,0,0,,,,,,"",""
+ball,1,18.3,England,A Capsey,CE Dean,Nashra Sandhu,0,0,,,,,,"",""
+ball,1,18.4,England,A Capsey,CE Dean,Nashra Sandhu,4,0,,,,,,"",""
+ball,1,18.5,England,A Capsey,CE Dean,Nashra Sandhu,0,0,,,,,,"",""
+ball,1,18.6,England,A Capsey,CE Dean,Nashra Sandhu,1,0,,,,,,"",""
+ball,1,19.1,England,A Capsey,CE Dean,Rameen Shamim,1,0,,,,,,"",""
+ball,1,19.2,England,CE Dean,A Capsey,Rameen Shamim,0,0,,,,,,"",""
+ball,1,19.3,England,CE Dean,A Capsey,Rameen Shamim,0,0,,,,,,"",""
+ball,1,19.4,England,CE Dean,A Capsey,Rameen Shamim,0,0,,,,,,"",""
+ball,1,19.5,England,CE Dean,A Capsey,Rameen Shamim,0,0,,,,,,"",""
+ball,1,19.6,England,CE Dean,A Capsey,Rameen Shamim,0,0,,,,,,"",""
+ball,1,20.1,England,A Capsey,CE Dean,Nashra Sandhu,0,0,,,,,,"",""
+ball,1,20.2,England,A Capsey,CE Dean,Nashra Sandhu,0,0,,,,,,"",""
+ball,1,20.3,England,A Capsey,CE Dean,Nashra Sandhu,0,0,,,,,,"",""
+ball,1,20.4,England,A Capsey,CE Dean,Nashra Sandhu,0,0,,,,,,"",""
+ball,1,20.5,England,A Capsey,CE Dean,Nashra Sandhu,0,0,,,,,,"",""
+ball,1,20.6,England,A Capsey,CE Dean,Nashra Sandhu,0,0,,,,,,"",""
+ball,1,21.1,England,CE Dean,A Capsey,Rameen Shamim,0,0,,,,,,"",""
+ball,1,21.2,England,CE Dean,A Capsey,Rameen Shamim,0,0,,,,,,"",""
+ball,1,21.3,England,CE Dean,A Capsey,Rameen Shamim,0,0,,,,,,"",""
+ball,1,21.4,England,CE Dean,A Capsey,Rameen Shamim,0,0,,,,,,"",""
+ball,1,21.5,England,CE Dean,A Capsey,Rameen Shamim,0,0,,,,,,"",""
+ball,1,21.6,England,CE Dean,A Capsey,Rameen Shamim,0,0,,,,,,"",""
+ball,1,22.1,England,A Capsey,CE Dean,Nashra Sandhu,0,0,,,,,,"",""
+ball,1,22.2,England,A Capsey,CE Dean,Nashra Sandhu,1,0,,,,,,"",""
+ball,1,22.3,England,CE Dean,A Capsey,Nashra Sandhu,0,0,,,,,,"",""
+ball,1,22.4,England,CE Dean,A Capsey,Nashra Sandhu,0,0,,,,,,"",""
+ball,1,22.5,England,CE Dean,A Capsey,Nashra Sandhu,2,0,,,,,,"",""
+ball,1,22.6,England,CE Dean,A Capsey,Nashra Sandhu,0,0,,,,,,"",""
+ball,1,23.1,England,A Capsey,CE Dean,Rameen Shamim,0,0,,,,,,lbw,A Capsey
+ball,1,23.2,England,EL Arlott,CE Dean,Rameen Shamim,0,0,,,,,,"",""
+ball,1,23.3,England,EL Arlott,CE Dean,Rameen Shamim,0,0,,,,,,"",""
+ball,1,23.4,England,EL Arlott,CE Dean,Rameen Shamim,0,0,,,,,,"",""
+ball,1,23.5,England,EL Arlott,CE Dean,Rameen Shamim,0,0,,,,,,"",""
+ball,1,23.6,England,EL Arlott,CE Dean,Rameen Shamim,1,0,,,,,,"",""
+ball,1,24.1,England,EL Arlott,CE Dean,Sadia Iqbal,0,0,,,,,,"",""
+ball,1,24.2,England,EL Arlott,CE Dean,Sadia Iqbal,0,0,,,,,,"",""
+ball,1,24.3,England,EL Arlott,CE Dean,Sadia Iqbal,0,0,,,,,,"",""
+ball,1,24.4,England,EL Arlott,CE Dean,Sadia Iqbal,0,0,,,,,,"",""
+ball,1,24.5,England,EL Arlott,CE Dean,Sadia Iqbal,0,0,,,,,,"",""
+ball,1,24.6,England,EL Arlott,CE Dean,Sadia Iqbal,0,0,,,,,,"",""
+ball,1,25.1,England,CE Dean,EL Arlott,Umaima Sohail,0,0,,,,,,"",""
+ball,1,25.2,England,CE Dean,EL Arlott,Umaima Sohail,2,0,,,,,,"",""
+ball,1,25.3,England,CE Dean,EL Arlott,Umaima Sohail,1,0,,,,,,"",""
+ball,1,25.4,England,EL Arlott,CE Dean,Umaima Sohail,0,0,,,,,,"",""
+ball,1,25.5,England,EL Arlott,CE Dean,Umaima Sohail,1,0,,,,,,"",""
+ball,1,25.6,England,CE Dean,EL Arlott,Umaima Sohail,1,0,,,,,,"",""
+ball,1,26.1,England,CE Dean,EL Arlott,Rameen Shamim,0,0,,,,,,"",""
+ball,1,26.2,England,CE Dean,EL Arlott,Rameen Shamim,4,0,,,,,,"",""
+ball,1,26.3,England,CE Dean,EL Arlott,Rameen Shamim,2,0,,,,,,"",""
+ball,1,26.4,England,CE Dean,EL Arlott,Rameen Shamim,2,0,,,,,,"",""
+ball,1,26.5,England,CE Dean,EL Arlott,Rameen Shamim,1,0,,,,,,"",""
+ball,1,26.6,England,EL Arlott,CE Dean,Rameen Shamim,1,0,,,,,,"",""
+ball,1,27.1,England,EL Arlott,CE Dean,Umaima Sohail,1,0,,,,,,"",""
+ball,1,27.2,England,CE Dean,EL Arlott,Umaima Sohail,1,0,,,,,,"",""
+ball,1,27.3,England,EL Arlott,CE Dean,Umaima Sohail,1,0,,,,,,"",""
+ball,1,27.4,England,CE Dean,EL Arlott,Umaima Sohail,1,0,,,,,,"",""
+ball,1,27.5,England,EL Arlott,CE Dean,Umaima Sohail,0,0,,,,,,"",""
+ball,1,27.6,England,EL Arlott,CE Dean,Umaima Sohail,4,0,,,,,,"",""
+ball,1,28.1,England,CE Dean,EL Arlott,Rameen Shamim,2,0,,,,,,"",""
+ball,1,28.2,England,CE Dean,EL Arlott,Rameen Shamim,0,1,,,,1,,"",""
+ball,1,28.3,England,EL Arlott,CE Dean,Rameen Shamim,1,0,,,,,,"",""
+ball,1,28.4,England,CE Dean,EL Arlott,Rameen Shamim,1,0,,,,,,"",""
+ball,1,28.5,England,EL Arlott,CE Dean,Rameen Shamim,4,0,,,,,,"",""
+ball,1,28.6,England,EL Arlott,CE Dean,Rameen Shamim,1,0,,,,,,"",""
+ball,1,29.1,England,EL Arlott,CE Dean,Umaima Sohail,2,0,,,,,,"",""
+ball,1,29.2,England,EL Arlott,CE Dean,Umaima Sohail,1,0,,,,,,"",""
+ball,1,29.3,England,CE Dean,EL Arlott,Umaima Sohail,4,0,,,,,,"",""
+ball,1,29.4,England,CE Dean,EL Arlott,Umaima Sohail,2,0,,,,,,"",""
+ball,1,29.5,England,CE Dean,EL Arlott,Umaima Sohail,4,0,,,,,,"",""
+ball,1,29.6,England,CE Dean,EL Arlott,Umaima Sohail,0,0,,,,,,run out,EL Arlott
+ball,1,30.1,England,CE Dean,S Glenn,Fatima Sana,0,1,1,,,,,"",""
+ball,1,30.2,England,CE Dean,S Glenn,Fatima Sana,0,0,,,,,,caught,CE Dean
+ball,1,30.3,England,LCN Smith,S Glenn,Fatima Sana,1,0,,,,,,"",""
+ball,1,30.4,England,S Glenn,LCN Smith,Fatima Sana,0,0,,,,,,"",""
+ball,1,30.5,England,S Glenn,LCN Smith,Fatima Sana,1,0,,,,,,"",""
+ball,1,30.6,England,LCN Smith,S Glenn,Fatima Sana,3,0,,,,,,"",""
+ball,1,30.7,England,S Glenn,LCN Smith,Fatima Sana,2,0,,,,,,"",""
+ball,2,0.1,Pakistan,Muneeba Ali,Umaima Sohail,NR Sciver-Brunt,0,0,,,,,,"",""
+ball,2,0.2,Pakistan,Muneeba Ali,Umaima Sohail,NR Sciver-Brunt,0,0,,,,,,"",""
+ball,2,0.3,Pakistan,Muneeba Ali,Umaima Sohail,NR Sciver-Brunt,4,0,,,,,,"",""
+ball,2,0.4,Pakistan,Muneeba Ali,Umaima Sohail,NR Sciver-Brunt,0,0,,,,,,"",""
+ball,2,0.5,Pakistan,Muneeba Ali,Umaima Sohail,NR Sciver-Brunt,0,0,,,,,,"",""
+ball,2,0.6,Pakistan,Muneeba Ali,Umaima Sohail,NR Sciver-Brunt,1,0,,,,,,"",""
+ball,2,1.1,Pakistan,Muneeba Ali,Umaima Sohail,LCN Smith,1,0,,,,,,"",""
+ball,2,1.2,Pakistan,Umaima Sohail,Muneeba Ali,LCN Smith,0,0,,,,,,"",""
+ball,2,1.3,Pakistan,Umaima Sohail,Muneeba Ali,LCN Smith,0,0,,,,,,"",""
+ball,2,1.4,Pakistan,Umaima Sohail,Muneeba Ali,LCN Smith,0,0,,,,,,"",""
+ball,2,1.5,Pakistan,Umaima Sohail,Muneeba Ali,LCN Smith,0,0,,,,,,"",""
+ball,2,1.6,Pakistan,Umaima Sohail,Muneeba Ali,LCN Smith,0,0,,,,,,"",""
+ball,2,2.1,Pakistan,Muneeba Ali,Umaima Sohail,NR Sciver-Brunt,1,0,,,,,,"",""
+ball,2,2.2,Pakistan,Umaima Sohail,Muneeba Ali,NR Sciver-Brunt,0,0,,,,,,"",""
+ball,2,2.3,Pakistan,Umaima Sohail,Muneeba Ali,NR Sciver-Brunt,0,1,1,,,,,"",""
+ball,2,2.4,Pakistan,Umaima Sohail,Muneeba Ali,NR Sciver-Brunt,0,5,5,,,,,"",""
+ball,2,2.5,Pakistan,Umaima Sohail,Muneeba Ali,NR Sciver-Brunt,1,0,,,,,,"",""
+ball,2,2.6,Pakistan,Muneeba Ali,Umaima Sohail,NR Sciver-Brunt,0,0,,,,,,"",""
+ball,2,2.7,Pakistan,Muneeba Ali,Umaima Sohail,NR Sciver-Brunt,0,0,,,,,,"",""
+ball,2,2.8,Pakistan,Muneeba Ali,Umaima Sohail,NR Sciver-Brunt,0,0,,,,,,"",""
+ball,2,3.1,Pakistan,Umaima Sohail,Muneeba Ali,LCN Smith,0,0,,,,,,"",""
+ball,2,3.2,Pakistan,Umaima Sohail,Muneeba Ali,LCN Smith,1,0,,,,,,"",""
+ball,2,3.3,Pakistan,Muneeba Ali,Umaima Sohail,LCN Smith,1,0,,,,,,"",""
+ball,2,3.4,Pakistan,Umaima Sohail,Muneeba Ali,LCN Smith,4,0,,,,,,"",""
+ball,2,3.5,Pakistan,Umaima Sohail,Muneeba Ali,LCN Smith,0,0,,,,,,"",""
+ball,2,3.6,Pakistan,Umaima Sohail,Muneeba Ali,LCN Smith,4,0,,,,,,"",""
+ball,2,4.1,Pakistan,Muneeba Ali,Umaima Sohail,EL Arlott,1,0,,,,,,"",""
+ball,2,4.2,Pakistan,Umaima Sohail,Muneeba Ali,EL Arlott,0,0,,,,,,"",""
+ball,2,4.3,Pakistan,Umaima Sohail,Muneeba Ali,EL Arlott,4,0,,,,,,"",""
+ball,2,4.4,Pakistan,Umaima Sohail,Muneeba Ali,EL Arlott,0,0,,,,,,"",""
+ball,2,4.5,Pakistan,Umaima Sohail,Muneeba Ali,EL Arlott,0,0,,,,,,"",""
+ball,2,4.6,Pakistan,Umaima Sohail,Muneeba Ali,EL Arlott,4,0,,,,,,"",""
+ball,2,5.1,Pakistan,Muneeba Ali,Umaima Sohail,CE Dean,0,0,,,,,,"",""
+ball,2,5.2,Pakistan,Muneeba Ali,Umaima Sohail,CE Dean,0,0,,,,,,"",""
+ball,2,5.3,Pakistan,Muneeba Ali,Umaima Sohail,CE Dean,0,0,,,,,,"",""
+ball,2,5.4,Pakistan,Muneeba Ali,Umaima Sohail,CE Dean,0,0,,,,,,"",""
+ball,2,5.5,Pakistan,Muneeba Ali,Umaima Sohail,CE Dean,0,0,,,,,,"",""
+ball,2,5.6,Pakistan,Muneeba Ali,Umaima Sohail,CE Dean,0,0,,,,,,"",""
+ball,2,6.1,Pakistan,Umaima Sohail,Muneeba Ali,EL Arlott,1,0,,,,,,"",""
+ball,2,6.2,Pakistan,Muneeba Ali,Umaima Sohail,EL Arlott,0,0,,,,,,"",""
+ball,2,6.3,Pakistan,Muneeba Ali,Umaima Sohail,EL Arlott,0,0,,,,,,"",""
+ball,2,6.4,Pakistan,Muneeba Ali,Umaima Sohail,EL Arlott,0,0,,,,,,"",""

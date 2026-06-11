@@ -1,0 +1,318 @@
+version,1.6.0
+info,balls_per_over,6
+info,team,Perth Scorchers
+info,team,Melbourne Renegades
+info,gender,male
+info,season,2019/20
+info,date,2019/12/21
+info,event,Big Bash League
+info,match_number,7
+info,venue,Perth Stadium
+info,city,Perth
+info,toss_winner,Melbourne Renegades
+info,toss_decision,field
+info,player_of_match,MR Marsh
+info,umpire,GA Abood
+info,umpire,SAJ Craig
+info,reserve_umpire,T Steenholdt
+info,tv_umpire,SD Fry
+info,match_referee,PL Marshall
+info,winner,Perth Scorchers
+info,winner_runs,11
+info,player,Perth Scorchers,LS Livingstone
+info,player,Perth Scorchers,JP Inglis
+info,player,Perth Scorchers,CT Bancroft
+info,player,Perth Scorchers,AJ Turner
+info,player,Perth Scorchers,MR Marsh
+info,player,Perth Scorchers,AC Agar
+info,player,Perth Scorchers,C Green
+info,player,Perth Scorchers,CJ Jordan
+info,player,Perth Scorchers,JA Richardson
+info,player,Perth Scorchers,JS Paris
+info,player,Perth Scorchers,Fawad Ahmed
+info,player,Melbourne Renegades,SB Harper
+info,player,Melbourne Renegades,AJ Finch
+info,player,Melbourne Renegades,SE Marsh
+info,player,Melbourne Renegades,TLW Cooper
+info,player,Melbourne Renegades,BJ Webster
+info,player,Melbourne Renegades,DT Christian
+info,player,Melbourne Renegades,JD Wildermuth
+info,player,Melbourne Renegades,CJ Boyce
+info,player,Melbourne Renegades,KW Richardson
+info,player,Melbourne Renegades,RJ Gleeson
+info,player,Melbourne Renegades,HF Gurney
+info,registry,people,AC Agar,a2421394
+info,registry,people,AJ Finch,b8d490fd
+info,registry,people,AJ Turner,ff1e12a0
+info,registry,people,BJ Webster,56b93d46
+info,registry,people,C Green,eaa76d3c
+info,registry,people,CJ Boyce,51a60c16
+info,registry,people,CJ Jordan,ffe699c0
+info,registry,people,CT Bancroft,399b0b94
+info,registry,people,DT Christian,2a2e6343
+info,registry,people,Fawad Ahmed,22ae3041
+info,registry,people,GA Abood,a4af5528
+info,registry,people,HF Gurney,e412cb64
+info,registry,people,JA Richardson,1ee08e9a
+info,registry,people,JD Wildermuth,f1c61793
+info,registry,people,JP Inglis,989889ff
+info,registry,people,JS Paris,7c8f533d
+info,registry,people,KW Richardson,dfc4d8b5
+info,registry,people,LS Livingstone,50c6bc2b
+info,registry,people,MR Marsh,3d8feaf8
+info,registry,people,PL Marshall,c1ca6df3
+info,registry,people,RJ Gleeson,402f8494
+info,registry,people,SAJ Craig,689f2eed
+info,registry,people,SB Harper,a756e61a
+info,registry,people,SD Fry,6b725ed1
+info,registry,people,SE Marsh,508a1ea7
+info,registry,people,T Steenholdt,715959cd
+info,registry,people,TLW Cooper,2318ba22
+ball,1,0.1,Perth Scorchers,LS Livingstone,JP Inglis,KW Richardson,0,0,,,,,,"",""
+ball,1,0.2,Perth Scorchers,LS Livingstone,JP Inglis,KW Richardson,0,0,,,,,,"",""
+ball,1,0.3,Perth Scorchers,LS Livingstone,JP Inglis,KW Richardson,0,1,,,,1,,"",""
+ball,1,0.4,Perth Scorchers,JP Inglis,LS Livingstone,KW Richardson,0,0,,,,,,"",""
+ball,1,0.5,Perth Scorchers,JP Inglis,LS Livingstone,KW Richardson,0,0,,,,,,"",""
+ball,1,0.6,Perth Scorchers,JP Inglis,LS Livingstone,KW Richardson,1,0,,,,,,"",""
+ball,1,1.1,Perth Scorchers,JP Inglis,LS Livingstone,RJ Gleeson,1,0,,,,,,"",""
+ball,1,1.2,Perth Scorchers,LS Livingstone,JP Inglis,RJ Gleeson,0,1,1,,,,,"",""
+ball,1,1.3,Perth Scorchers,LS Livingstone,JP Inglis,RJ Gleeson,1,0,,,,,,"",""
+ball,1,1.4,Perth Scorchers,JP Inglis,LS Livingstone,RJ Gleeson,6,0,,,,,,"",""
+ball,1,1.5,Perth Scorchers,JP Inglis,LS Livingstone,RJ Gleeson,4,0,,,,,,"",""
+ball,1,1.6,Perth Scorchers,JP Inglis,LS Livingstone,RJ Gleeson,0,0,,,,,,"",""
+ball,1,1.7,Perth Scorchers,JP Inglis,LS Livingstone,RJ Gleeson,1,0,,,,,,"",""
+ball,1,2.1,Perth Scorchers,JP Inglis,LS Livingstone,KW Richardson,1,0,,,,,,"",""
+ball,1,2.2,Perth Scorchers,LS Livingstone,JP Inglis,KW Richardson,0,0,,,,,,"",""
+ball,1,2.3,Perth Scorchers,LS Livingstone,JP Inglis,KW Richardson,2,0,,,,,,"",""
+ball,1,2.4,Perth Scorchers,LS Livingstone,JP Inglis,KW Richardson,1,0,,,,,,"",""
+ball,1,2.5,Perth Scorchers,JP Inglis,LS Livingstone,KW Richardson,0,0,,,,,,caught,JP Inglis
+ball,1,2.6,Perth Scorchers,CT Bancroft,LS Livingstone,KW Richardson,1,0,,,,,,"",""
+ball,1,3.1,Perth Scorchers,CT Bancroft,LS Livingstone,JD Wildermuth,0,0,,,,,,"",""
+ball,1,3.2,Perth Scorchers,CT Bancroft,LS Livingstone,JD Wildermuth,0,0,,,,,,"",""
+ball,1,3.3,Perth Scorchers,CT Bancroft,LS Livingstone,JD Wildermuth,1,0,,,,,,"",""
+ball,1,3.4,Perth Scorchers,LS Livingstone,CT Bancroft,JD Wildermuth,3,0,,,,,,"",""
+ball,1,3.5,Perth Scorchers,CT Bancroft,LS Livingstone,JD Wildermuth,0,0,,,,,,"",""
+ball,1,3.6,Perth Scorchers,CT Bancroft,LS Livingstone,JD Wildermuth,1,0,,,,,,"",""
+ball,1,4.1,Perth Scorchers,CT Bancroft,LS Livingstone,RJ Gleeson,0,0,,,,,,"",""
+ball,1,4.2,Perth Scorchers,CT Bancroft,LS Livingstone,RJ Gleeson,4,0,,,,,,"",""
+ball,1,4.3,Perth Scorchers,CT Bancroft,LS Livingstone,RJ Gleeson,4,0,,,,,,"",""
+ball,1,4.4,Perth Scorchers,CT Bancroft,LS Livingstone,RJ Gleeson,2,0,,,,,,"",""
+ball,1,4.5,Perth Scorchers,CT Bancroft,LS Livingstone,RJ Gleeson,0,0,,,,,,"",""
+ball,1,4.6,Perth Scorchers,CT Bancroft,LS Livingstone,RJ Gleeson,1,0,,,,,,"",""
+ball,1,5.1,Perth Scorchers,CT Bancroft,LS Livingstone,HF Gurney,0,0,,,,,,"",""
+ball,1,5.2,Perth Scorchers,CT Bancroft,LS Livingstone,HF Gurney,4,0,,,,,,"",""
+ball,1,5.3,Perth Scorchers,CT Bancroft,LS Livingstone,HF Gurney,6,0,,,,,,"",""
+ball,1,5.4,Perth Scorchers,CT Bancroft,LS Livingstone,HF Gurney,1,0,,,,,,"",""
+ball,1,5.5,Perth Scorchers,LS Livingstone,CT Bancroft,HF Gurney,1,0,,,,,,"",""
+ball,1,5.6,Perth Scorchers,CT Bancroft,LS Livingstone,HF Gurney,1,0,,,,,,"",""
+ball,1,6.1,Perth Scorchers,CT Bancroft,LS Livingstone,CJ Boyce,2,0,,,,,,"",""
+ball,1,6.2,Perth Scorchers,CT Bancroft,LS Livingstone,CJ Boyce,1,0,,,,,,"",""
+ball,1,6.3,Perth Scorchers,LS Livingstone,CT Bancroft,CJ Boyce,1,0,,,,,,"",""
+ball,1,6.4,Perth Scorchers,CT Bancroft,LS Livingstone,CJ Boyce,2,0,,,,,,"",""
+ball,1,6.5,Perth Scorchers,CT Bancroft,LS Livingstone,CJ Boyce,2,0,,,,,,"",""
+ball,1,6.6,Perth Scorchers,CT Bancroft,LS Livingstone,CJ Boyce,1,0,,,,,,"",""
+ball,1,7.1,Perth Scorchers,CT Bancroft,LS Livingstone,JD Wildermuth,2,0,,,,,,"",""
+ball,1,7.2,Perth Scorchers,CT Bancroft,LS Livingstone,JD Wildermuth,1,0,,,,,,"",""
+ball,1,7.3,Perth Scorchers,LS Livingstone,CT Bancroft,JD Wildermuth,6,0,,,,,,"",""
+ball,1,7.4,Perth Scorchers,LS Livingstone,CT Bancroft,JD Wildermuth,0,0,,,,,,"",""
+ball,1,7.5,Perth Scorchers,LS Livingstone,CT Bancroft,JD Wildermuth,4,0,,,,,,"",""
+ball,1,7.6,Perth Scorchers,LS Livingstone,CT Bancroft,JD Wildermuth,1,0,,,,,,"",""
+ball,1,8.1,Perth Scorchers,LS Livingstone,CT Bancroft,CJ Boyce,1,0,,,,,,"",""
+ball,1,8.2,Perth Scorchers,CT Bancroft,LS Livingstone,CJ Boyce,1,0,,,,,,"",""
+ball,1,8.3,Perth Scorchers,LS Livingstone,CT Bancroft,CJ Boyce,6,0,,,,,,"",""
+ball,1,8.4,Perth Scorchers,LS Livingstone,CT Bancroft,CJ Boyce,1,0,,,,,,"",""
+ball,1,8.5,Perth Scorchers,CT Bancroft,LS Livingstone,CJ Boyce,1,0,,,,,,"",""
+ball,1,8.6,Perth Scorchers,LS Livingstone,CT Bancroft,CJ Boyce,1,0,,,,,,"",""
+ball,1,9.1,Perth Scorchers,LS Livingstone,CT Bancroft,RJ Gleeson,0,0,,,,,,caught,LS Livingstone
+ball,1,9.2,Perth Scorchers,CT Bancroft,AJ Turner,RJ Gleeson,1,0,,,,,,"",""
+ball,1,9.3,Perth Scorchers,AJ Turner,CT Bancroft,RJ Gleeson,0,1,1,,,,,"",""
+ball,1,9.4,Perth Scorchers,AJ Turner,CT Bancroft,RJ Gleeson,1,0,,,,,,"",""
+ball,1,9.5,Perth Scorchers,CT Bancroft,AJ Turner,RJ Gleeson,1,0,,,,,,"",""
+ball,1,9.6,Perth Scorchers,AJ Turner,CT Bancroft,RJ Gleeson,0,0,,,,,,"",""
+ball,1,9.7,Perth Scorchers,AJ Turner,CT Bancroft,RJ Gleeson,4,0,,,,,,"",""
+ball,1,10.1,Perth Scorchers,CT Bancroft,AJ Turner,CJ Boyce,1,0,,,,,,"",""
+ball,1,10.2,Perth Scorchers,AJ Turner,CT Bancroft,CJ Boyce,1,0,,,,,,"",""
+ball,1,10.3,Perth Scorchers,CT Bancroft,AJ Turner,CJ Boyce,1,0,,,,,,"",""
+ball,1,10.4,Perth Scorchers,AJ Turner,CT Bancroft,CJ Boyce,1,0,,,,,,"",""
+ball,1,10.5,Perth Scorchers,CT Bancroft,AJ Turner,CJ Boyce,1,0,,,,,,"",""
+ball,1,10.6,Perth Scorchers,AJ Turner,CT Bancroft,CJ Boyce,1,0,,,,,,"",""
+ball,1,11.1,Perth Scorchers,AJ Turner,CT Bancroft,JD Wildermuth,0,0,,,,,,"",""
+ball,1,11.2,Perth Scorchers,AJ Turner,CT Bancroft,JD Wildermuth,1,0,,,,,,"",""
+ball,1,11.3,Perth Scorchers,CT Bancroft,AJ Turner,JD Wildermuth,0,1,1,,,,,"",""
+ball,1,11.4,Perth Scorchers,CT Bancroft,AJ Turner,JD Wildermuth,1,0,,,,,,"",""
+ball,1,11.5,Perth Scorchers,AJ Turner,CT Bancroft,JD Wildermuth,0,0,,,,,,"",""
+ball,1,11.6,Perth Scorchers,AJ Turner,CT Bancroft,JD Wildermuth,6,0,,,,,,"",""
+ball,1,11.7,Perth Scorchers,AJ Turner,CT Bancroft,JD Wildermuth,0,0,,,,,,"",""
+ball,1,12.1,Perth Scorchers,CT Bancroft,AJ Turner,HF Gurney,1,0,,,,,,"",""
+ball,1,12.2,Perth Scorchers,AJ Turner,CT Bancroft,HF Gurney,1,0,,,,,,"",""
+ball,1,12.3,Perth Scorchers,CT Bancroft,AJ Turner,HF Gurney,2,0,,,,,,"",""
+ball,1,12.4,Perth Scorchers,CT Bancroft,AJ Turner,HF Gurney,1,0,,,,,,"",""
+ball,1,12.5,Perth Scorchers,AJ Turner,CT Bancroft,HF Gurney,1,0,,,,,,"",""
+ball,1,12.6,Perth Scorchers,CT Bancroft,AJ Turner,HF Gurney,2,0,,,,,,"",""
+ball,1,13.1,Perth Scorchers,AJ Turner,CT Bancroft,KW Richardson,2,0,,,,,,"",""
+ball,1,13.2,Perth Scorchers,AJ Turner,CT Bancroft,KW Richardson,0,0,,,,,,"",""
+ball,1,13.3,Perth Scorchers,AJ Turner,CT Bancroft,KW Richardson,4,0,,,,,,"",""
+ball,1,13.4,Perth Scorchers,AJ Turner,CT Bancroft,KW Richardson,1,0,,,,,,"",""
+ball,1,13.5,Perth Scorchers,CT Bancroft,AJ Turner,KW Richardson,0,0,,,,,,caught,CT Bancroft
+ball,1,13.6,Perth Scorchers,AJ Turner,MR Marsh,KW Richardson,1,0,,,,,,"",""
+ball,1,14.1,Perth Scorchers,AJ Turner,MR Marsh,CJ Boyce,1,0,,,,,,"",""
+ball,1,14.2,Perth Scorchers,MR Marsh,AJ Turner,CJ Boyce,1,0,,,,,,"",""
+ball,1,14.3,Perth Scorchers,AJ Turner,MR Marsh,CJ Boyce,1,0,,,,,,"",""
+ball,1,14.4,Perth Scorchers,MR Marsh,AJ Turner,CJ Boyce,1,0,,,,,,"",""
+ball,1,14.5,Perth Scorchers,AJ Turner,MR Marsh,CJ Boyce,1,0,,,,,,"",""
+ball,1,14.6,Perth Scorchers,MR Marsh,AJ Turner,CJ Boyce,1,0,,,,,,"",""
+ball,1,15.1,Perth Scorchers,MR Marsh,AJ Turner,JD Wildermuth,1,0,,,,,,"",""
+ball,1,15.2,Perth Scorchers,AJ Turner,MR Marsh,JD Wildermuth,4,0,,,,,,"",""
+ball,1,15.3,Perth Scorchers,AJ Turner,MR Marsh,JD Wildermuth,1,0,,,,,,"",""
+ball,1,15.4,Perth Scorchers,MR Marsh,AJ Turner,JD Wildermuth,1,0,,,,,,"",""
+ball,1,15.5,Perth Scorchers,AJ Turner,MR Marsh,JD Wildermuth,1,0,,,,,,"",""
+ball,1,15.6,Perth Scorchers,MR Marsh,AJ Turner,JD Wildermuth,1,0,,,,,,"",""
+ball,1,16.1,Perth Scorchers,MR Marsh,AJ Turner,HF Gurney,6,0,,,,,,"",""
+ball,1,16.2,Perth Scorchers,MR Marsh,AJ Turner,HF Gurney,2,0,,,,,,"",""
+ball,1,16.3,Perth Scorchers,MR Marsh,AJ Turner,HF Gurney,0,0,,,,,,"",""
+ball,1,16.4,Perth Scorchers,MR Marsh,AJ Turner,HF Gurney,2,0,,,,,,"",""
+ball,1,16.5,Perth Scorchers,MR Marsh,AJ Turner,HF Gurney,1,0,,,,,,"",""
+ball,1,16.6,Perth Scorchers,AJ Turner,MR Marsh,HF Gurney,2,0,,,,,,"",""
+ball,1,17.1,Perth Scorchers,MR Marsh,AJ Turner,KW Richardson,4,0,,,,,,"",""
+ball,1,17.2,Perth Scorchers,MR Marsh,AJ Turner,KW Richardson,1,0,,,,,,"",""
+ball,1,17.3,Perth Scorchers,AJ Turner,MR Marsh,KW Richardson,0,0,,,,,,caught,AJ Turner
+ball,1,17.4,Perth Scorchers,AC Agar,MR Marsh,KW Richardson,2,0,,,,,,"",""
+ball,1,17.5,Perth Scorchers,AC Agar,MR Marsh,KW Richardson,0,0,,,,,,caught and bowled,AC Agar
+ball,1,17.6,Perth Scorchers,C Green,MR Marsh,KW Richardson,1,0,,,,,,"",""
+ball,1,18.1,Perth Scorchers,C Green,MR Marsh,RJ Gleeson,0,1,1,,,,,"",""
+ball,1,18.2,Perth Scorchers,C Green,MR Marsh,RJ Gleeson,1,0,,,,,,"",""
+ball,1,18.3,Perth Scorchers,MR Marsh,C Green,RJ Gleeson,1,0,,,,,,"",""
+ball,1,18.4,Perth Scorchers,C Green,MR Marsh,RJ Gleeson,1,0,,,,,,"",""
+ball,1,18.5,Perth Scorchers,MR Marsh,C Green,RJ Gleeson,6,0,,,,,,"",""
+ball,1,18.6,Perth Scorchers,MR Marsh,C Green,RJ Gleeson,6,0,,,,,,"",""
+ball,1,18.7,Perth Scorchers,MR Marsh,C Green,RJ Gleeson,0,0,,,,,,"",""
+ball,1,19.1,Perth Scorchers,C Green,MR Marsh,HF Gurney,0,0,,,,,,caught,C Green
+ball,1,19.2,Perth Scorchers,MR Marsh,CJ Jordan,HF Gurney,6,0,,,,,,"",""
+ball,1,19.3,Perth Scorchers,MR Marsh,CJ Jordan,HF Gurney,6,0,,,,,,"",""
+ball,1,19.4,Perth Scorchers,MR Marsh,CJ Jordan,HF Gurney,2,0,,,,,,"",""
+ball,1,19.5,Perth Scorchers,MR Marsh,CJ Jordan,HF Gurney,6,0,,,,,,"",""
+ball,1,19.6,Perth Scorchers,MR Marsh,CJ Jordan,HF Gurney,1,0,,,,,,run out,CJ Jordan
+ball,2,0.1,Melbourne Renegades,SB Harper,AJ Finch,JA Richardson,1,0,,,,,,"",""
+ball,2,0.2,Melbourne Renegades,AJ Finch,SB Harper,JA Richardson,1,0,,,,,,"",""
+ball,2,0.3,Melbourne Renegades,SB Harper,AJ Finch,JA Richardson,1,0,,,,,,"",""
+ball,2,0.4,Melbourne Renegades,AJ Finch,SB Harper,JA Richardson,0,1,,,,1,,"",""
+ball,2,0.5,Melbourne Renegades,SB Harper,AJ Finch,JA Richardson,6,0,,,,,,"",""
+ball,2,0.6,Melbourne Renegades,SB Harper,AJ Finch,JA Richardson,0,0,,,,,,"",""
+ball,2,1.1,Melbourne Renegades,AJ Finch,SB Harper,JS Paris,4,0,,,,,,"",""
+ball,2,1.2,Melbourne Renegades,AJ Finch,SB Harper,JS Paris,1,0,,,,,,"",""
+ball,2,1.3,Melbourne Renegades,SB Harper,AJ Finch,JS Paris,0,1,,,,1,,"",""
+ball,2,1.4,Melbourne Renegades,AJ Finch,SB Harper,JS Paris,0,0,,,,,,"",""
+ball,2,1.5,Melbourne Renegades,AJ Finch,SB Harper,JS Paris,6,0,,,,,,"",""
+ball,2,1.6,Melbourne Renegades,AJ Finch,SB Harper,JS Paris,0,1,1,,,,,"",""
+ball,2,1.7,Melbourne Renegades,AJ Finch,SB Harper,JS Paris,2,0,,,,,,"",""
+ball,2,2.1,Melbourne Renegades,SB Harper,AJ Finch,CJ Jordan,1,0,,,,,,"",""
+ball,2,2.2,Melbourne Renegades,AJ Finch,SB Harper,CJ Jordan,4,0,,,,,,"",""
+ball,2,2.3,Melbourne Renegades,AJ Finch,SB Harper,CJ Jordan,2,0,,,,,,"",""
+ball,2,2.4,Melbourne Renegades,AJ Finch,SB Harper,CJ Jordan,1,0,,,,,,"",""
+ball,2,2.5,Melbourne Renegades,SB Harper,AJ Finch,CJ Jordan,1,0,,,,,,"",""
+ball,2,2.6,Melbourne Renegades,AJ Finch,SB Harper,CJ Jordan,1,0,,,,,,"",""
+ball,2,3.1,Melbourne Renegades,AJ Finch,SB Harper,JA Richardson,1,0,,,,,,"",""
+ball,2,3.2,Melbourne Renegades,SB Harper,AJ Finch,JA Richardson,0,1,1,,,,,"",""
+ball,2,3.3,Melbourne Renegades,SB Harper,AJ Finch,JA Richardson,0,0,,,,,,"",""
+ball,2,3.4,Melbourne Renegades,SB Harper,AJ Finch,JA Richardson,0,0,,,,,,"",""
+ball,2,3.5,Melbourne Renegades,SB Harper,AJ Finch,JA Richardson,1,0,,,,,,"",""
+ball,2,3.6,Melbourne Renegades,AJ Finch,SB Harper,JA Richardson,4,0,,,,,,"",""
+ball,2,3.7,Melbourne Renegades,AJ Finch,SB Harper,JA Richardson,1,0,,,,,,"",""
+ball,2,4.1,Melbourne Renegades,AJ Finch,SB Harper,CJ Jordan,0,0,,,,,,caught,AJ Finch
+ball,2,4.2,Melbourne Renegades,SE Marsh,SB Harper,CJ Jordan,0,0,,,,,,"",""
+ball,2,4.3,Melbourne Renegades,SE Marsh,SB Harper,CJ Jordan,0,0,,,,,,"",""
+ball,2,4.4,Melbourne Renegades,SE Marsh,SB Harper,CJ Jordan,0,0,,,,,,"",""
+ball,2,4.5,Melbourne Renegades,SE Marsh,SB Harper,CJ Jordan,1,0,,,,,,"",""
+ball,2,4.6,Melbourne Renegades,SB Harper,SE Marsh,CJ Jordan,4,0,,,,,,"",""
+ball,2,5.1,Melbourne Renegades,SE Marsh,SB Harper,JS Paris,0,1,1,,,,,"",""
+ball,2,5.2,Melbourne Renegades,SE Marsh,SB Harper,JS Paris,0,1,1,,,,,"",""
+ball,2,5.3,Melbourne Renegades,SE Marsh,SB Harper,JS Paris,1,0,,,,,,"",""
+ball,2,5.4,Melbourne Renegades,SB Harper,SE Marsh,JS Paris,0,0,,,,,,caught,SB Harper
+ball,2,5.5,Melbourne Renegades,TLW Cooper,SE Marsh,JS Paris,2,0,,,,,,"",""
+ball,2,5.6,Melbourne Renegades,TLW Cooper,SE Marsh,JS Paris,1,0,,,,,,"",""
+ball,2,5.7,Melbourne Renegades,SE Marsh,TLW Cooper,JS Paris,1,0,,,,,,"",""
+ball,2,5.8,Melbourne Renegades,TLW Cooper,SE Marsh,JS Paris,0,0,,,,,,"",""
+ball,2,6.1,Melbourne Renegades,SE Marsh,TLW Cooper,MR Marsh,1,0,,,,,,"",""
+ball,2,6.2,Melbourne Renegades,TLW Cooper,SE Marsh,MR Marsh,0,0,,,,,,"",""
+ball,2,6.3,Melbourne Renegades,TLW Cooper,SE Marsh,MR Marsh,4,0,,,,,,"",""
+ball,2,6.4,Melbourne Renegades,TLW Cooper,SE Marsh,MR Marsh,0,0,,,,,,"",""
+ball,2,6.5,Melbourne Renegades,TLW Cooper,SE Marsh,MR Marsh,0,0,,,,,,"",""
+ball,2,6.6,Melbourne Renegades,TLW Cooper,SE Marsh,MR Marsh,1,0,,,,,,"",""
+ball,2,7.1,Melbourne Renegades,TLW Cooper,SE Marsh,Fawad Ahmed,0,0,,,,,,"",""
+ball,2,7.2,Melbourne Renegades,TLW Cooper,SE Marsh,Fawad Ahmed,0,0,,,,,,"",""
+ball,2,7.3,Melbourne Renegades,TLW Cooper,SE Marsh,Fawad Ahmed,1,0,,,,,,"",""
+ball,2,7.4,Melbourne Renegades,SE Marsh,TLW Cooper,Fawad Ahmed,1,0,,,,,,"",""
+ball,2,7.5,Melbourne Renegades,TLW Cooper,SE Marsh,Fawad Ahmed,0,0,,,,,,"",""
+ball,2,7.6,Melbourne Renegades,TLW Cooper,SE Marsh,Fawad Ahmed,0,0,,,,,,"",""
+ball,2,8.1,Melbourne Renegades,SE Marsh,TLW Cooper,AC Agar,1,0,,,,,,"",""
+ball,2,8.2,Melbourne Renegades,TLW Cooper,SE Marsh,AC Agar,0,0,,,,,,bowled,TLW Cooper
+ball,2,8.3,Melbourne Renegades,BJ Webster,SE Marsh,AC Agar,0,0,,,,,,"",""
+ball,2,8.4,Melbourne Renegades,BJ Webster,SE Marsh,AC Agar,1,0,,,,,,"",""
+ball,2,8.5,Melbourne Renegades,SE Marsh,BJ Webster,AC Agar,1,0,,,,,,"",""
+ball,2,8.6,Melbourne Renegades,BJ Webster,SE Marsh,AC Agar,1,0,,,,,,"",""
+ball,2,9.1,Melbourne Renegades,BJ Webster,SE Marsh,Fawad Ahmed,2,0,,,,,,"",""
+ball,2,9.2,Melbourne Renegades,BJ Webster,SE Marsh,Fawad Ahmed,0,0,,,,,,"",""
+ball,2,9.3,Melbourne Renegades,BJ Webster,SE Marsh,Fawad Ahmed,1,0,,,,,,"",""
+ball,2,9.4,Melbourne Renegades,SE Marsh,BJ Webster,Fawad Ahmed,0,0,,,,,,"",""
+ball,2,9.5,Melbourne Renegades,SE Marsh,BJ Webster,Fawad Ahmed,6,0,,,,,,"",""
+ball,2,9.6,Melbourne Renegades,SE Marsh,BJ Webster,Fawad Ahmed,1,0,,,,,,"",""
+ball,2,10.1,Melbourne Renegades,SE Marsh,BJ Webster,AC Agar,2,0,,,,,,"",""
+ball,2,10.2,Melbourne Renegades,SE Marsh,BJ Webster,AC Agar,2,0,,,,,,"",""
+ball,2,10.3,Melbourne Renegades,SE Marsh,BJ Webster,AC Agar,2,0,,,,,,"",""
+ball,2,10.4,Melbourne Renegades,SE Marsh,BJ Webster,AC Agar,1,0,,,,,,"",""
+ball,2,10.5,Melbourne Renegades,BJ Webster,SE Marsh,AC Agar,1,0,,,,,,"",""
+ball,2,10.6,Melbourne Renegades,SE Marsh,BJ Webster,AC Agar,0,0,,,,,,"",""
+ball,2,11.1,Melbourne Renegades,BJ Webster,SE Marsh,Fawad Ahmed,1,0,,,,,,"",""
+ball,2,11.2,Melbourne Renegades,SE Marsh,BJ Webster,Fawad Ahmed,2,0,,,,,,"",""
+ball,2,11.3,Melbourne Renegades,SE Marsh,BJ Webster,Fawad Ahmed,0,0,,,,,,"",""
+ball,2,11.4,Melbourne Renegades,SE Marsh,BJ Webster,Fawad Ahmed,0,0,,,,,,"",""
+ball,2,11.5,Melbourne Renegades,SE Marsh,BJ Webster,Fawad Ahmed,1,0,,,,,,"",""
+ball,2,11.6,Melbourne Renegades,BJ Webster,SE Marsh,Fawad Ahmed,1,0,,,,,,"",""
+ball,2,12.1,Melbourne Renegades,BJ Webster,SE Marsh,JA Richardson,4,0,,,,,,"",""
+ball,2,12.2,Melbourne Renegades,BJ Webster,SE Marsh,JA Richardson,6,0,,,,,,"",""
+ball,2,12.3,Melbourne Renegades,BJ Webster,SE Marsh,JA Richardson,1,0,,,,,,"",""
+ball,2,12.4,Melbourne Renegades,SE Marsh,BJ Webster,JA Richardson,0,0,,,,,,"",""
+ball,2,12.5,Melbourne Renegades,SE Marsh,BJ Webster,JA Richardson,1,0,,,,,,"",""
+ball,2,12.6,Melbourne Renegades,BJ Webster,SE Marsh,JA Richardson,0,0,,,,,,"",""
+ball,2,13.1,Melbourne Renegades,SE Marsh,BJ Webster,AC Agar,4,0,,,,,,"",""
+ball,2,13.2,Melbourne Renegades,SE Marsh,BJ Webster,AC Agar,6,0,,,,,,"",""
+ball,2,13.3,Melbourne Renegades,SE Marsh,BJ Webster,AC Agar,1,0,,,,,,"",""
+ball,2,13.4,Melbourne Renegades,BJ Webster,SE Marsh,AC Agar,1,0,,,,,,"",""
+ball,2,13.5,Melbourne Renegades,SE Marsh,BJ Webster,AC Agar,0,0,,,,,,"",""
+ball,2,13.6,Melbourne Renegades,SE Marsh,BJ Webster,AC Agar,6,0,,,,,,"",""
+ball,2,14.1,Melbourne Renegades,BJ Webster,SE Marsh,CJ Jordan,0,0,,,,,,"",""
+ball,2,14.2,Melbourne Renegades,BJ Webster,SE Marsh,CJ Jordan,1,0,,,,,,"",""
+ball,2,14.3,Melbourne Renegades,SE Marsh,BJ Webster,CJ Jordan,0,0,,,,,,"",""
+ball,2,14.4,Melbourne Renegades,SE Marsh,BJ Webster,CJ Jordan,1,0,,,,,,"",""
+ball,2,14.5,Melbourne Renegades,BJ Webster,SE Marsh,CJ Jordan,0,0,,,,,,"",""
+ball,2,14.6,Melbourne Renegades,BJ Webster,SE Marsh,CJ Jordan,4,0,,,,,,"",""
+ball,2,15.1,Melbourne Renegades,SE Marsh,BJ Webster,MR Marsh,1,0,,,,,,"",""
+ball,2,15.2,Melbourne Renegades,BJ Webster,SE Marsh,MR Marsh,2,0,,,,,,"",""
+ball,2,15.3,Melbourne Renegades,BJ Webster,SE Marsh,MR Marsh,6,0,,,,,,"",""
+ball,2,15.4,Melbourne Renegades,BJ Webster,SE Marsh,MR Marsh,2,0,,,,,,"",""
+ball,2,15.5,Melbourne Renegades,BJ Webster,SE Marsh,MR Marsh,4,0,,,,,,"",""
+ball,2,15.6,Melbourne Renegades,BJ Webster,SE Marsh,MR Marsh,2,0,,,,,,"",""
+ball,2,16.1,Melbourne Renegades,SE Marsh,BJ Webster,JA Richardson,0,1,,,,1,,"",""
+ball,2,16.2,Melbourne Renegades,BJ Webster,SE Marsh,JA Richardson,1,0,,,,,,"",""
+ball,2,16.3,Melbourne Renegades,SE Marsh,BJ Webster,JA Richardson,2,0,,,,,,"",""
+ball,2,16.4,Melbourne Renegades,SE Marsh,BJ Webster,JA Richardson,6,0,,,,,,"",""
+ball,2,16.5,Melbourne Renegades,SE Marsh,BJ Webster,JA Richardson,2,0,,,,,,"",""
+ball,2,16.6,Melbourne Renegades,SE Marsh,BJ Webster,JA Richardson,1,0,,,,,,"",""
+ball,2,17.1,Melbourne Renegades,SE Marsh,BJ Webster,Fawad Ahmed,0,0,,,,,,caught,SE Marsh
+ball,2,17.2,Melbourne Renegades,BJ Webster,DT Christian,Fawad Ahmed,2,0,,,,,,"",""
+ball,2,17.3,Melbourne Renegades,BJ Webster,DT Christian,Fawad Ahmed,1,0,,,,,,"",""
+ball,2,17.4,Melbourne Renegades,DT Christian,BJ Webster,Fawad Ahmed,0,0,,,,,,"",""
+ball,2,17.5,Melbourne Renegades,DT Christian,BJ Webster,Fawad Ahmed,0,0,,,,,,caught,DT Christian
+ball,2,17.6,Melbourne Renegades,BJ Webster,JD Wildermuth,Fawad Ahmed,2,0,,,,,,"",""
+ball,2,18.1,Melbourne Renegades,JD Wildermuth,BJ Webster,CJ Jordan,0,0,,,,,,caught,JD Wildermuth
+ball,2,18.2,Melbourne Renegades,BJ Webster,CJ Boyce,CJ Jordan,2,0,,,,,,"",""
+ball,2,18.3,Melbourne Renegades,BJ Webster,CJ Boyce,CJ Jordan,2,0,,,,,,"",""
+ball,2,18.4,Melbourne Renegades,BJ Webster,CJ Boyce,CJ Jordan,0,0,,,,,,"",""
+ball,2,18.5,Melbourne Renegades,BJ Webster,CJ Boyce,CJ Jordan,1,0,,,,,,"",""
+ball,2,18.6,Melbourne Renegades,CJ Boyce,BJ Webster,CJ Jordan,4,0,,,,,,"",""
+ball,2,19.1,Melbourne Renegades,BJ Webster,CJ Boyce,JS Paris,0,0,,,,,,"",""
+ball,2,19.2,Melbourne Renegades,BJ Webster,CJ Boyce,JS Paris,2,0,,,,,,"",""
+ball,2,19.3,Melbourne Renegades,BJ Webster,CJ Boyce,JS Paris,2,0,,,,,,"",""
+ball,2,19.4,Melbourne Renegades,BJ Webster,CJ Boyce,JS Paris,4,0,,,,,,"",""
+ball,2,19.5,Melbourne Renegades,BJ Webster,CJ Boyce,JS Paris,6,0,,,,,,"",""
+ball,2,19.6,Melbourne Renegades,BJ Webster,CJ Boyce,JS Paris,1,0,,,,,,"",""

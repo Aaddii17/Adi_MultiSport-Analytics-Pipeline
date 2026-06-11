@@ -1,0 +1,316 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Durban's Super Giants
+info,team,Paarl Royals
+info,gender,male
+info,season,2025/26
+info,date,2026/01/17
+info,event,SA20
+info,match_number,27
+info,venue,"Kingsmead, Durban"
+info,city,Durban
+info,toss_winner,Paarl Royals
+info,toss_decision,field
+info,player_of_match,AK Markram
+info,umpire,A Paleker
+info,umpire,Lauren Agenbag
+info,reserve_umpire,DJ Smith
+info,tv_umpire,Stephen Harris
+info,match_referee,RN Birkenstock
+info,winner,Durban's Super Giants
+info,winner_runs,58
+info,player,Durban's Super Giants,SP Narine
+info,player,Durban's Super Giants,AK Markram
+info,player,Durban's Super Giants,JC Buttler
+info,player,Durban's Super Giants,KS Williamson
+info,player,Durban's Super Giants,H Klaasen
+info,player,Durban's Super Giants,LS Livingstone
+info,player,Durban's Super Giants,E Jones
+info,player,Durban's Super Giants,G Coetzee
+info,player,Durban's Super Giants,E Bosch
+info,player,Durban's Super Giants,SR Harmer
+info,player,Durban's Super Giants,KT Maphaka
+info,player,Paarl Royals,LG Pretorius
+info,player,Paarl Royals,K Verreynne
+info,player,Paarl Royals,RA Herman
+info,player,Paarl Royals,DW Lawrence
+info,player,Paarl Royals,DA Miller
+info,player,Paarl Royals,D Potgieter
+info,player,Paarl Royals,Sikandar Raza
+info,player,Paarl Royals,BC Fortuin
+info,player,Paarl Royals,GC Viljoen
+info,player,Paarl Royals,OEG Baartman
+info,player,Paarl Royals,Waqar Salamkheil
+info,registry,people,A Paleker,634b11ac
+info,registry,people,AK Markram,6a26221c
+info,registry,people,BC Fortuin,9a2fc964
+info,registry,people,D Potgieter,60fbf53a
+info,registry,people,DA Miller,d67d5f00
+info,registry,people,DJ Smith,d17bec15
+info,registry,people,DW Lawrence,4b685e2d
+info,registry,people,E Bosch,28d6c44d
+info,registry,people,E Jones,fbfea9c2
+info,registry,people,G Coetzee,3204c99f
+info,registry,people,GC Viljoen,a316d663
+info,registry,people,H Klaasen,235c2bb6
+info,registry,people,JC Buttler,99b75528
+info,registry,people,K Verreynne,bf814547
+info,registry,people,KS Williamson,d027ba9f
+info,registry,people,KT Maphaka,107c26fb
+info,registry,people,LG Pretorius,60aa2db3
+info,registry,people,LS Livingstone,50c6bc2b
+info,registry,people,Lauren Agenbag,40849abd
+info,registry,people,OEG Baartman,6b9eb501
+info,registry,people,RA Herman,9c821d2e
+info,registry,people,RN Birkenstock,27880adb
+info,registry,people,SP Narine,9d430b40
+info,registry,people,SR Harmer,23638956
+info,registry,people,Sikandar Raza,26d041c4
+info,registry,people,Stephen Harris,fdcfd4aa
+info,registry,people,Waqar Salamkheil,3f1066d0
+ball,1,0.1,Durban's Super Giants,SP Narine,AK Markram,BC Fortuin,4,0,,,,,,"",""
+ball,1,0.2,Durban's Super Giants,SP Narine,AK Markram,BC Fortuin,0,0,,,,,,caught,SP Narine
+ball,1,0.3,Durban's Super Giants,JC Buttler,AK Markram,BC Fortuin,1,0,,,,,,"",""
+ball,1,0.4,Durban's Super Giants,AK Markram,JC Buttler,BC Fortuin,0,0,,,,,,"",""
+ball,1,0.5,Durban's Super Giants,AK Markram,JC Buttler,BC Fortuin,0,0,,,,,,"",""
+ball,1,0.6,Durban's Super Giants,AK Markram,JC Buttler,BC Fortuin,4,0,,,,,,"",""
+ball,1,1.1,Durban's Super Giants,JC Buttler,AK Markram,GC Viljoen,0,0,,,,,,bowled,JC Buttler
+ball,1,1.2,Durban's Super Giants,KS Williamson,AK Markram,GC Viljoen,1,0,,,,,,"",""
+ball,1,1.3,Durban's Super Giants,AK Markram,KS Williamson,GC Viljoen,0,0,,,,,,"",""
+ball,1,1.4,Durban's Super Giants,AK Markram,KS Williamson,GC Viljoen,0,0,,,,,,"",""
+ball,1,1.5,Durban's Super Giants,AK Markram,KS Williamson,GC Viljoen,0,0,,,,,,"",""
+ball,1,1.6,Durban's Super Giants,AK Markram,KS Williamson,GC Viljoen,0,0,,,,,,"",""
+ball,1,2.1,Durban's Super Giants,KS Williamson,AK Markram,BC Fortuin,0,0,,,,,,"",""
+ball,1,2.2,Durban's Super Giants,KS Williamson,AK Markram,BC Fortuin,1,0,,,,,,"",""
+ball,1,2.3,Durban's Super Giants,AK Markram,KS Williamson,BC Fortuin,1,0,,,,,,"",""
+ball,1,2.4,Durban's Super Giants,KS Williamson,AK Markram,BC Fortuin,0,0,,,,,,"",""
+ball,1,2.5,Durban's Super Giants,KS Williamson,AK Markram,BC Fortuin,0,0,,,,,,"",""
+ball,1,2.6,Durban's Super Giants,KS Williamson,AK Markram,BC Fortuin,4,0,,,,,,"",""
+ball,1,3.1,Durban's Super Giants,AK Markram,KS Williamson,GC Viljoen,4,0,,,,,,"",""
+ball,1,3.2,Durban's Super Giants,AK Markram,KS Williamson,GC Viljoen,4,0,,,,,,"",""
+ball,1,3.3,Durban's Super Giants,AK Markram,KS Williamson,GC Viljoen,0,0,,,,,,"",""
+ball,1,3.4,Durban's Super Giants,AK Markram,KS Williamson,GC Viljoen,1,0,,,,,,"",""
+ball,1,3.5,Durban's Super Giants,KS Williamson,AK Markram,GC Viljoen,0,0,,,,,,"",""
+ball,1,3.6,Durban's Super Giants,KS Williamson,AK Markram,GC Viljoen,4,0,,,,,,"",""
+ball,1,4.1,Durban's Super Giants,AK Markram,KS Williamson,Sikandar Raza,1,0,,,,,,"",""
+ball,1,4.2,Durban's Super Giants,KS Williamson,AK Markram,Sikandar Raza,1,0,,,,,,"",""
+ball,1,4.3,Durban's Super Giants,AK Markram,KS Williamson,Sikandar Raza,1,0,,,,,,"",""
+ball,1,4.4,Durban's Super Giants,KS Williamson,AK Markram,Sikandar Raza,4,0,,,,,,"",""
+ball,1,4.5,Durban's Super Giants,KS Williamson,AK Markram,Sikandar Raza,0,0,,,,,,"",""
+ball,1,4.6,Durban's Super Giants,KS Williamson,AK Markram,Sikandar Raza,0,0,,,,,,"",""
+ball,1,5.1,Durban's Super Giants,AK Markram,KS Williamson,OEG Baartman,4,0,,,,,,"",""
+ball,1,5.2,Durban's Super Giants,AK Markram,KS Williamson,OEG Baartman,0,0,,,,,,"",""
+ball,1,5.3,Durban's Super Giants,AK Markram,KS Williamson,OEG Baartman,0,0,,,,,,"",""
+ball,1,5.4,Durban's Super Giants,AK Markram,KS Williamson,OEG Baartman,1,0,,,,,,"",""
+ball,1,5.5,Durban's Super Giants,KS Williamson,AK Markram,OEG Baartman,1,0,,,,,,"",""
+ball,1,5.6,Durban's Super Giants,AK Markram,KS Williamson,OEG Baartman,4,0,,,,,,"",""
+ball,1,6.1,Durban's Super Giants,KS Williamson,AK Markram,Waqar Salamkheil,2,0,,,,,,"",""
+ball,1,6.2,Durban's Super Giants,KS Williamson,AK Markram,Waqar Salamkheil,1,0,,,,,,"",""
+ball,1,6.3,Durban's Super Giants,AK Markram,KS Williamson,Waqar Salamkheil,1,0,,,,,,"",""
+ball,1,6.4,Durban's Super Giants,KS Williamson,AK Markram,Waqar Salamkheil,0,0,,,,,,"",""
+ball,1,6.5,Durban's Super Giants,KS Williamson,AK Markram,Waqar Salamkheil,0,0,,,,,,"",""
+ball,1,6.6,Durban's Super Giants,KS Williamson,AK Markram,Waqar Salamkheil,1,0,,,,,,"",""
+ball,1,7.1,Durban's Super Giants,KS Williamson,AK Markram,D Potgieter,2,0,,,,,,"",""
+ball,1,7.2,Durban's Super Giants,KS Williamson,AK Markram,D Potgieter,0,0,,,,,,caught and bowled,KS Williamson
+ball,1,7.3,Durban's Super Giants,H Klaasen,AK Markram,D Potgieter,1,0,,,,,,"",""
+ball,1,7.4,Durban's Super Giants,AK Markram,H Klaasen,D Potgieter,0,1,1,,,,,"",""
+ball,1,7.5,Durban's Super Giants,AK Markram,H Klaasen,D Potgieter,4,0,,,,,,"",""
+ball,1,7.6,Durban's Super Giants,AK Markram,H Klaasen,D Potgieter,1,0,,,,,,"",""
+ball,1,7.7,Durban's Super Giants,H Klaasen,AK Markram,D Potgieter,2,0,,,,,,"",""
+ball,1,8.1,Durban's Super Giants,AK Markram,H Klaasen,Waqar Salamkheil,1,0,,,,,,"",""
+ball,1,8.2,Durban's Super Giants,H Klaasen,AK Markram,Waqar Salamkheil,1,0,,,,,,"",""
+ball,1,8.3,Durban's Super Giants,AK Markram,H Klaasen,Waqar Salamkheil,2,0,,,,,,"",""
+ball,1,8.4,Durban's Super Giants,AK Markram,H Klaasen,Waqar Salamkheil,1,0,,,,,,"",""
+ball,1,8.5,Durban's Super Giants,H Klaasen,AK Markram,Waqar Salamkheil,1,0,,,,,,"",""
+ball,1,8.6,Durban's Super Giants,AK Markram,H Klaasen,Waqar Salamkheil,0,0,,,,,,"",""
+ball,1,9.1,Durban's Super Giants,H Klaasen,AK Markram,BC Fortuin,1,0,,,,,,"",""
+ball,1,9.2,Durban's Super Giants,AK Markram,H Klaasen,BC Fortuin,1,0,,,,,,"",""
+ball,1,9.3,Durban's Super Giants,H Klaasen,AK Markram,BC Fortuin,1,0,,,,,,"",""
+ball,1,9.4,Durban's Super Giants,AK Markram,H Klaasen,BC Fortuin,4,0,,,,,,"",""
+ball,1,9.5,Durban's Super Giants,AK Markram,H Klaasen,BC Fortuin,1,0,,,,,,"",""
+ball,1,9.6,Durban's Super Giants,H Klaasen,AK Markram,BC Fortuin,1,0,,,,,,"",""
+ball,1,10.1,Durban's Super Giants,H Klaasen,AK Markram,Sikandar Raza,1,0,,,,,,"",""
+ball,1,10.2,Durban's Super Giants,AK Markram,H Klaasen,Sikandar Raza,1,0,,,,,,"",""
+ball,1,10.3,Durban's Super Giants,H Klaasen,AK Markram,Sikandar Raza,1,0,,,,,,"",""
+ball,1,10.4,Durban's Super Giants,AK Markram,H Klaasen,Sikandar Raza,0,0,,,,,,"",""
+ball,1,10.5,Durban's Super Giants,AK Markram,H Klaasen,Sikandar Raza,6,0,,,,,,"",""
+ball,1,10.6,Durban's Super Giants,AK Markram,H Klaasen,Sikandar Raza,1,0,,,,,,"",""
+ball,1,11.1,Durban's Super Giants,AK Markram,H Klaasen,OEG Baartman,4,0,,,,,,"",""
+ball,1,11.2,Durban's Super Giants,AK Markram,H Klaasen,OEG Baartman,2,0,,,,,,"",""
+ball,1,11.3,Durban's Super Giants,AK Markram,H Klaasen,OEG Baartman,6,0,,,,,,"",""
+ball,1,11.4,Durban's Super Giants,AK Markram,H Klaasen,OEG Baartman,1,0,,,,,,"",""
+ball,1,11.5,Durban's Super Giants,H Klaasen,AK Markram,OEG Baartman,1,0,,,,,,"",""
+ball,1,11.6,Durban's Super Giants,AK Markram,H Klaasen,OEG Baartman,1,0,,,,,,"",""
+ball,1,12.1,Durban's Super Giants,AK Markram,H Klaasen,Waqar Salamkheil,1,0,,,,,,"",""
+ball,1,12.2,Durban's Super Giants,H Klaasen,AK Markram,Waqar Salamkheil,4,0,,,,,,"",""
+ball,1,12.3,Durban's Super Giants,H Klaasen,AK Markram,Waqar Salamkheil,0,0,,,,,,"",""
+ball,1,12.4,Durban's Super Giants,H Klaasen,AK Markram,Waqar Salamkheil,6,0,,,,,,"",""
+ball,1,12.5,Durban's Super Giants,H Klaasen,AK Markram,Waqar Salamkheil,1,0,,,,,,"",""
+ball,1,12.6,Durban's Super Giants,AK Markram,H Klaasen,Waqar Salamkheil,1,0,,,,,,"",""
+ball,1,13.1,Durban's Super Giants,AK Markram,H Klaasen,BC Fortuin,1,0,,,,,,"",""
+ball,1,13.2,Durban's Super Giants,H Klaasen,AK Markram,BC Fortuin,0,0,,,,,,"",""
+ball,1,13.3,Durban's Super Giants,H Klaasen,AK Markram,BC Fortuin,4,0,,,,,,"",""
+ball,1,13.4,Durban's Super Giants,H Klaasen,AK Markram,BC Fortuin,0,0,,,,,,"",""
+ball,1,13.5,Durban's Super Giants,H Klaasen,AK Markram,BC Fortuin,1,0,,,,,,"",""
+ball,1,13.6,Durban's Super Giants,AK Markram,H Klaasen,BC Fortuin,0,0,,,,,,"",""
+ball,1,14.1,Durban's Super Giants,H Klaasen,AK Markram,Sikandar Raza,1,0,,,,,,"",""
+ball,1,14.2,Durban's Super Giants,AK Markram,H Klaasen,Sikandar Raza,4,0,,,,,,"",""
+ball,1,14.3,Durban's Super Giants,AK Markram,H Klaasen,Sikandar Raza,4,0,,,,,,"",""
+ball,1,14.4,Durban's Super Giants,AK Markram,H Klaasen,Sikandar Raza,1,0,,,,,,"",""
+ball,1,14.5,Durban's Super Giants,H Klaasen,AK Markram,Sikandar Raza,1,0,,,,,,"",""
+ball,1,14.6,Durban's Super Giants,AK Markram,H Klaasen,Sikandar Raza,1,0,,,,,,"",""
+ball,1,15.1,Durban's Super Giants,AK Markram,H Klaasen,GC Viljoen,1,0,,,,,,"",""
+ball,1,15.2,Durban's Super Giants,H Klaasen,AK Markram,GC Viljoen,0,0,,,,,,caught,H Klaasen
+ball,1,15.3,Durban's Super Giants,LS Livingstone,AK Markram,GC Viljoen,1,0,,,,,,"",""
+ball,1,15.4,Durban's Super Giants,AK Markram,LS Livingstone,GC Viljoen,1,0,,,,,,"",""
+ball,1,15.5,Durban's Super Giants,LS Livingstone,AK Markram,GC Viljoen,0,0,,,,,,"",""
+ball,1,15.6,Durban's Super Giants,LS Livingstone,AK Markram,GC Viljoen,1,0,,,,,,"",""
+ball,1,16.1,Durban's Super Giants,LS Livingstone,AK Markram,Waqar Salamkheil,1,0,,,,,,"",""
+ball,1,16.2,Durban's Super Giants,AK Markram,LS Livingstone,Waqar Salamkheil,1,0,,,,,,"",""
+ball,1,16.3,Durban's Super Giants,LS Livingstone,AK Markram,Waqar Salamkheil,0,0,,,,,,"",""
+ball,1,16.4,Durban's Super Giants,LS Livingstone,AK Markram,Waqar Salamkheil,2,0,,,,,,"",""
+ball,1,16.5,Durban's Super Giants,LS Livingstone,AK Markram,Waqar Salamkheil,6,0,,,,,,"",""
+ball,1,16.6,Durban's Super Giants,LS Livingstone,AK Markram,Waqar Salamkheil,0,0,,,,,,"",""
+ball,1,17.1,Durban's Super Giants,AK Markram,LS Livingstone,OEG Baartman,0,0,,,,,,"",""
+ball,1,17.2,Durban's Super Giants,AK Markram,LS Livingstone,OEG Baartman,1,0,,,,,,"",""
+ball,1,17.3,Durban's Super Giants,LS Livingstone,AK Markram,OEG Baartman,2,0,,,,,,"",""
+ball,1,17.4,Durban's Super Giants,LS Livingstone,AK Markram,OEG Baartman,6,0,,,,,,"",""
+ball,1,17.5,Durban's Super Giants,LS Livingstone,AK Markram,OEG Baartman,0,0,,,,,,caught,LS Livingstone
+ball,1,17.6,Durban's Super Giants,E Jones,AK Markram,OEG Baartman,0,1,1,,,,,"",""
+ball,1,17.7,Durban's Super Giants,E Jones,AK Markram,OEG Baartman,0,0,,,,,,"",""
+ball,1,18.1,Durban's Super Giants,AK Markram,E Jones,Sikandar Raza,6,0,,,,,,"",""
+ball,1,18.2,Durban's Super Giants,AK Markram,E Jones,Sikandar Raza,4,0,,,,,,"",""
+ball,1,18.3,Durban's Super Giants,AK Markram,E Jones,Sikandar Raza,6,0,,,,,,"",""
+ball,1,18.4,Durban's Super Giants,AK Markram,E Jones,Sikandar Raza,6,0,,,,,,"",""
+ball,1,18.5,Durban's Super Giants,AK Markram,E Jones,Sikandar Raza,4,0,,,,,,"",""
+ball,1,18.6,Durban's Super Giants,AK Markram,E Jones,Sikandar Raza,2,0,,,,,,"",""
+ball,1,19.1,Durban's Super Giants,E Jones,AK Markram,GC Viljoen,1,0,,,,,,"",""
+ball,1,19.2,Durban's Super Giants,AK Markram,E Jones,GC Viljoen,0,0,,,,,,caught and bowled,AK Markram
+ball,1,19.3,Durban's Super Giants,G Coetzee,E Jones,GC Viljoen,1,0,,,,,,"",""
+ball,1,19.4,Durban's Super Giants,E Jones,G Coetzee,GC Viljoen,0,1,,,,1,,"",""
+ball,1,19.5,Durban's Super Giants,G Coetzee,E Jones,GC Viljoen,1,0,,,,,,"",""
+ball,1,19.6,Durban's Super Giants,E Jones,G Coetzee,GC Viljoen,0,0,,,,,,bowled,E Jones
+ball,2,0.1,Paarl Royals,LG Pretorius,K Verreynne,E Bosch,1,0,,,,,,"",""
+ball,2,0.2,Paarl Royals,K Verreynne,LG Pretorius,E Bosch,0,0,,,,,,"",""
+ball,2,0.3,Paarl Royals,K Verreynne,LG Pretorius,E Bosch,4,0,,,,,,"",""
+ball,2,0.4,Paarl Royals,K Verreynne,LG Pretorius,E Bosch,0,0,,,,,,"",""
+ball,2,0.5,Paarl Royals,K Verreynne,LG Pretorius,E Bosch,0,0,,,,,,"",""
+ball,2,0.6,Paarl Royals,K Verreynne,LG Pretorius,E Bosch,1,0,,,,,,"",""
+ball,2,1.1,Paarl Royals,K Verreynne,LG Pretorius,SP Narine,2,0,,,,,,"",""
+ball,2,1.2,Paarl Royals,K Verreynne,LG Pretorius,SP Narine,0,0,,,,,,"",""
+ball,2,1.3,Paarl Royals,K Verreynne,LG Pretorius,SP Narine,0,1,,,,1,,"",""
+ball,2,1.4,Paarl Royals,LG Pretorius,K Verreynne,SP Narine,0,0,,,,,,"",""
+ball,2,1.5,Paarl Royals,LG Pretorius,K Verreynne,SP Narine,0,0,,,,,,"",""
+ball,2,1.6,Paarl Royals,LG Pretorius,K Verreynne,SP Narine,4,0,,,,,,"",""
+ball,2,2.1,Paarl Royals,K Verreynne,LG Pretorius,E Bosch,6,0,,,,,,"",""
+ball,2,2.2,Paarl Royals,K Verreynne,LG Pretorius,E Bosch,0,0,,,,,,"",""
+ball,2,2.3,Paarl Royals,K Verreynne,LG Pretorius,E Bosch,4,0,,,,,,"",""
+ball,2,2.4,Paarl Royals,K Verreynne,LG Pretorius,E Bosch,0,1,1,,,,,"",""
+ball,2,2.5,Paarl Royals,K Verreynne,LG Pretorius,E Bosch,0,0,,,,,,"",""
+ball,2,2.6,Paarl Royals,K Verreynne,LG Pretorius,E Bosch,4,0,,,,,,"",""
+ball,2,2.7,Paarl Royals,K Verreynne,LG Pretorius,E Bosch,1,0,,,,,,"",""
+ball,2,3.1,Paarl Royals,K Verreynne,LG Pretorius,SP Narine,0,0,,,,,,"",""
+ball,2,3.2,Paarl Royals,K Verreynne,LG Pretorius,SP Narine,1,0,,,,,,"",""
+ball,2,3.3,Paarl Royals,LG Pretorius,K Verreynne,SP Narine,1,0,,,,,,"",""
+ball,2,3.4,Paarl Royals,K Verreynne,LG Pretorius,SP Narine,0,0,,,,,,"",""
+ball,2,3.5,Paarl Royals,K Verreynne,LG Pretorius,SP Narine,0,0,,,,,,"",""
+ball,2,3.6,Paarl Royals,K Verreynne,LG Pretorius,SP Narine,0,0,,,,,,bowled,K Verreynne
+ball,2,4.1,Paarl Royals,LG Pretorius,RA Herman,SR Harmer,0,0,,,,,,"",""
+ball,2,4.2,Paarl Royals,LG Pretorius,RA Herman,SR Harmer,0,0,,,,,,"",""
+ball,2,4.3,Paarl Royals,LG Pretorius,RA Herman,SR Harmer,0,0,,,,,,"",""
+ball,2,4.4,Paarl Royals,LG Pretorius,RA Herman,SR Harmer,0,0,,,,,,"",""
+ball,2,4.5,Paarl Royals,LG Pretorius,RA Herman,SR Harmer,0,0,,,,,,"",""
+ball,2,4.6,Paarl Royals,LG Pretorius,RA Herman,SR Harmer,0,0,,,,,,"",""
+ball,2,5.1,Paarl Royals,RA Herman,LG Pretorius,AK Markram,4,0,,,,,,"",""
+ball,2,5.2,Paarl Royals,RA Herman,LG Pretorius,AK Markram,0,0,,,,,,"",""
+ball,2,5.3,Paarl Royals,RA Herman,LG Pretorius,AK Markram,0,0,,,,,,"",""
+ball,2,5.4,Paarl Royals,RA Herman,LG Pretorius,AK Markram,0,0,,,,,,"",""
+ball,2,5.5,Paarl Royals,RA Herman,LG Pretorius,AK Markram,1,0,,,,,,"",""
+ball,2,5.6,Paarl Royals,LG Pretorius,RA Herman,AK Markram,0,0,,,,,,"",""
+ball,2,6.1,Paarl Royals,RA Herman,LG Pretorius,SR Harmer,0,0,,,,,,"",""
+ball,2,6.2,Paarl Royals,RA Herman,LG Pretorius,SR Harmer,0,0,,,,,,"",""
+ball,2,6.3,Paarl Royals,RA Herman,LG Pretorius,SR Harmer,0,0,,,,,,"",""
+ball,2,6.4,Paarl Royals,RA Herman,LG Pretorius,SR Harmer,1,0,,,,,,"",""
+ball,2,6.5,Paarl Royals,LG Pretorius,RA Herman,SR Harmer,1,0,,,,,,"",""
+ball,2,6.6,Paarl Royals,RA Herman,LG Pretorius,SR Harmer,2,0,,,,,,"",""
+ball,2,7.1,Paarl Royals,LG Pretorius,RA Herman,AK Markram,0,0,,,,,,caught,LG Pretorius
+ball,2,7.2,Paarl Royals,DW Lawrence,RA Herman,AK Markram,0,0,,,,,,"",""
+ball,2,7.3,Paarl Royals,DW Lawrence,RA Herman,AK Markram,1,0,,,,,,"",""
+ball,2,7.4,Paarl Royals,RA Herman,DW Lawrence,AK Markram,1,0,,,,,,"",""
+ball,2,7.5,Paarl Royals,DW Lawrence,RA Herman,AK Markram,1,0,,,,,,"",""
+ball,2,7.6,Paarl Royals,RA Herman,DW Lawrence,AK Markram,1,0,,,,,,"",""
+ball,2,8.1,Paarl Royals,RA Herman,DW Lawrence,SR Harmer,0,0,,,,,,"",""
+ball,2,8.2,Paarl Royals,RA Herman,DW Lawrence,SR Harmer,0,0,,,,,,"",""
+ball,2,8.3,Paarl Royals,RA Herman,DW Lawrence,SR Harmer,0,0,,,,,,"",""
+ball,2,8.4,Paarl Royals,RA Herman,DW Lawrence,SR Harmer,1,0,,,,,,"",""
+ball,2,8.5,Paarl Royals,DW Lawrence,RA Herman,SR Harmer,1,0,,,,,,"",""
+ball,2,8.6,Paarl Royals,RA Herman,DW Lawrence,SR Harmer,1,0,,,,,,"",""
+ball,2,9.1,Paarl Royals,RA Herman,DW Lawrence,LS Livingstone,6,0,,,,,,"",""
+ball,2,9.2,Paarl Royals,RA Herman,DW Lawrence,LS Livingstone,0,0,,,,,,caught,RA Herman
+ball,2,9.3,Paarl Royals,DA Miller,DW Lawrence,LS Livingstone,1,0,,,,,,"",""
+ball,2,9.4,Paarl Royals,DW Lawrence,DA Miller,LS Livingstone,1,0,,,,,,"",""
+ball,2,9.5,Paarl Royals,DA Miller,DW Lawrence,LS Livingstone,0,0,,,,,,"",""
+ball,2,9.6,Paarl Royals,DA Miller,DW Lawrence,LS Livingstone,0,0,,,,,,"",""
+ball,2,10.1,Paarl Royals,DW Lawrence,DA Miller,SR Harmer,1,0,,,,,,"",""
+ball,2,10.2,Paarl Royals,DA Miller,DW Lawrence,SR Harmer,4,0,,,,,,"",""
+ball,2,10.3,Paarl Royals,DA Miller,DW Lawrence,SR Harmer,0,0,,,,,,"",""
+ball,2,10.4,Paarl Royals,DA Miller,DW Lawrence,SR Harmer,0,0,,,,,,caught,DA Miller
+ball,2,10.5,Paarl Royals,D Potgieter,DW Lawrence,SR Harmer,0,0,,,,,,"",""
+ball,2,10.6,Paarl Royals,D Potgieter,DW Lawrence,SR Harmer,1,0,,,,,,"",""
+ball,2,11.1,Paarl Royals,D Potgieter,DW Lawrence,SP Narine,4,0,,,,,,"",""
+ball,2,11.2,Paarl Royals,D Potgieter,DW Lawrence,SP Narine,0,0,,,,,,"",""
+ball,2,11.3,Paarl Royals,D Potgieter,DW Lawrence,SP Narine,0,0,,,,,,caught,D Potgieter
+ball,2,11.4,Paarl Royals,Sikandar Raza,DW Lawrence,SP Narine,0,0,,,,,,"",""
+ball,2,11.5,Paarl Royals,Sikandar Raza,DW Lawrence,SP Narine,1,0,,,,,,"",""
+ball,2,11.6,Paarl Royals,DW Lawrence,Sikandar Raza,SP Narine,1,0,,,,,,"",""
+ball,2,12.1,Paarl Royals,DW Lawrence,Sikandar Raza,LS Livingstone,1,0,,,,,,"",""
+ball,2,12.2,Paarl Royals,Sikandar Raza,DW Lawrence,LS Livingstone,0,0,,,,,,"",""
+ball,2,12.3,Paarl Royals,Sikandar Raza,DW Lawrence,LS Livingstone,0,0,,,,,,"",""
+ball,2,12.4,Paarl Royals,Sikandar Raza,DW Lawrence,LS Livingstone,0,0,,,,,,"",""
+ball,2,12.5,Paarl Royals,Sikandar Raza,DW Lawrence,LS Livingstone,0,0,,,,,,run out,DW Lawrence
+ball,2,12.6,Paarl Royals,BC Fortuin,Sikandar Raza,LS Livingstone,1,0,,,,,,"",""
+ball,2,13.1,Paarl Royals,BC Fortuin,Sikandar Raza,SP Narine,0,0,,,,,,"",""
+ball,2,13.2,Paarl Royals,BC Fortuin,Sikandar Raza,SP Narine,0,0,,,,,,"",""
+ball,2,13.3,Paarl Royals,BC Fortuin,Sikandar Raza,SP Narine,1,0,,,,,,"",""
+ball,2,13.4,Paarl Royals,Sikandar Raza,BC Fortuin,SP Narine,1,0,,,,,,"",""
+ball,2,13.5,Paarl Royals,BC Fortuin,Sikandar Raza,SP Narine,1,0,,,,,,"",""
+ball,2,13.6,Paarl Royals,Sikandar Raza,BC Fortuin,SP Narine,1,0,,,,,,"",""
+ball,2,14.1,Paarl Royals,Sikandar Raza,BC Fortuin,LS Livingstone,0,0,,,,,,"",""
+ball,2,14.2,Paarl Royals,Sikandar Raza,BC Fortuin,LS Livingstone,6,0,,,,,,"",""
+ball,2,14.3,Paarl Royals,Sikandar Raza,BC Fortuin,LS Livingstone,1,0,,,,,,"",""
+ball,2,14.4,Paarl Royals,BC Fortuin,Sikandar Raza,LS Livingstone,0,0,,,,,,"",""
+ball,2,14.5,Paarl Royals,BC Fortuin,Sikandar Raza,LS Livingstone,4,0,,,,,,"",""
+ball,2,14.6,Paarl Royals,BC Fortuin,Sikandar Raza,LS Livingstone,4,0,,,,,,"",""
+ball,2,15.1,Paarl Royals,Sikandar Raza,BC Fortuin,G Coetzee,1,0,,,,,,"",""
+ball,2,15.2,Paarl Royals,BC Fortuin,Sikandar Raza,G Coetzee,1,0,,,,,,"",""
+ball,2,15.3,Paarl Royals,Sikandar Raza,BC Fortuin,G Coetzee,0,1,,,,1,,"",""
+ball,2,15.4,Paarl Royals,BC Fortuin,Sikandar Raza,G Coetzee,1,0,,,,,,"",""
+ball,2,15.5,Paarl Royals,Sikandar Raza,BC Fortuin,G Coetzee,1,0,,,,,,"",""
+ball,2,15.6,Paarl Royals,BC Fortuin,Sikandar Raza,G Coetzee,4,0,,,,,,"",""
+ball,2,16.1,Paarl Royals,Sikandar Raza,BC Fortuin,KT Maphaka,0,0,,,,,,"",""
+ball,2,16.2,Paarl Royals,Sikandar Raza,BC Fortuin,KT Maphaka,1,0,,,,,,"",""
+ball,2,16.3,Paarl Royals,BC Fortuin,Sikandar Raza,KT Maphaka,1,0,,,,,,"",""
+ball,2,16.4,Paarl Royals,Sikandar Raza,BC Fortuin,KT Maphaka,1,0,,,,,,"",""
+ball,2,16.5,Paarl Royals,BC Fortuin,Sikandar Raza,KT Maphaka,1,0,,,,,,"",""
+ball,2,16.6,Paarl Royals,Sikandar Raza,BC Fortuin,KT Maphaka,0,0,,,,,,"",""
+ball,2,17.1,Paarl Royals,BC Fortuin,Sikandar Raza,G Coetzee,0,0,,,,,,"",""
+ball,2,17.2,Paarl Royals,BC Fortuin,Sikandar Raza,G Coetzee,0,1,,,,1,,"",""
+ball,2,17.3,Paarl Royals,Sikandar Raza,BC Fortuin,G Coetzee,6,0,,,,,,"",""
+ball,2,17.4,Paarl Royals,Sikandar Raza,BC Fortuin,G Coetzee,1,0,,,,,,"",""
+ball,2,17.5,Paarl Royals,BC Fortuin,Sikandar Raza,G Coetzee,2,0,,,,,,"",""
+ball,2,17.6,Paarl Royals,BC Fortuin,Sikandar Raza,G Coetzee,0,0,,,,,,"",""
+ball,2,18.1,Paarl Royals,Sikandar Raza,BC Fortuin,KT Maphaka,0,0,,,,,,bowled,Sikandar Raza
+ball,2,18.2,Paarl Royals,GC Viljoen,BC Fortuin,KT Maphaka,1,0,,,,,,"",""
+ball,2,18.3,Paarl Royals,BC Fortuin,GC Viljoen,KT Maphaka,0,0,,,,,,"",""
+ball,2,18.4,Paarl Royals,BC Fortuin,GC Viljoen,KT Maphaka,0,1,1,,,,,"",""
+ball,2,18.5,Paarl Royals,BC Fortuin,GC Viljoen,KT Maphaka,2,0,,,,,,"",""
+ball,2,18.6,Paarl Royals,BC Fortuin,GC Viljoen,KT Maphaka,1,0,,,,,,"",""
+ball,2,18.7,Paarl Royals,GC Viljoen,BC Fortuin,KT Maphaka,1,0,,,,,,"",""
+ball,2,19.1,Paarl Royals,GC Viljoen,BC Fortuin,G Coetzee,0,0,,,,,,bowled,GC Viljoen
+ball,2,19.2,Paarl Royals,OEG Baartman,BC Fortuin,G Coetzee,0,1,1,,,,,"",""
+ball,2,19.3,Paarl Royals,OEG Baartman,BC Fortuin,G Coetzee,0,0,,,,,,lbw,OEG Baartman
+ball,2,19.4,Paarl Royals,Waqar Salamkheil,BC Fortuin,G Coetzee,0,2,2,,,,,"",""
+ball,2,19.5,Paarl Royals,BC Fortuin,Waqar Salamkheil,G Coetzee,4,0,,,,,,"",""
+ball,2,19.6,Paarl Royals,BC Fortuin,Waqar Salamkheil,G Coetzee,6,0,,,,,,"",""
+ball,2,19.7,Paarl Royals,BC Fortuin,Waqar Salamkheil,G Coetzee,0,0,,,,,,"",""
+ball,2,19.8,Paarl Royals,BC Fortuin,Waqar Salamkheil,G Coetzee,1,0,,,,,,"",""

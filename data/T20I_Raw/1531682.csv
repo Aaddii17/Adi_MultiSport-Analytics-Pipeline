@@ -1,0 +1,311 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Malta
+info,team,Gibraltar
+info,gender,male
+info,season,2026
+info,date,2026/05/07
+info,event,Gibraltar tour of Malta
+info,match_number,2
+info,venue,Marsa Sports Club
+info,city,Marsa
+info,toss_winner,Malta
+info,toss_decision,bat
+info,player_of_match,P Pushparajan
+info,umpire,S Gowda
+info,umpire,Vinay Malhotra
+info,reserve_umpire,N Dhanawade
+info,winner,Malta
+info,winner_runs,65
+info,player,Malta,Mehboob Ali
+info,player,Malta,Zeeshan Khan
+info,player,Malta,P Pushparajan
+info,player,Malta,Jaspal Singh
+info,player,Malta,Flynn Zahra
+info,player,Malta,Muhammad Ajmal
+info,player,Malta,SB Patel
+info,player,Malta,Ajin Soman
+info,player,Malta,Imran Ameer
+info,player,Malta,Jaswinder Singh
+info,player,Malta,Salman Sharjeel
+info,player,Gibraltar,PA Raikes
+info,player,Gibraltar,C Pyle
+info,player,Gibraltar,L Bruce
+info,player,Gibraltar,IDM Latin
+info,player,Gibraltar,KJ Ferrary
+info,player,Gibraltar,K Mirpuri
+info,player,Gibraltar,K Nestor
+info,player,Gibraltar,A Reyes
+info,player,Gibraltar,J Wilson
+info,player,Gibraltar,S Bodha
+info,player,Gibraltar,M Whelan
+info,registry,people,A Reyes,fd2b8c06
+info,registry,people,Ajin Soman,23cbe719
+info,registry,people,C Pyle,d278b70b
+info,registry,people,Flynn Zahra,b929c3ae
+info,registry,people,IDM Latin,78f719ea
+info,registry,people,Imran Ameer,b8e65260
+info,registry,people,J Wilson,1a3295a1
+info,registry,people,Jaspal Singh,adca37a2
+info,registry,people,Jaswinder Singh,63aa8148
+info,registry,people,K Mirpuri,441006af
+info,registry,people,K Nestor,b89cde87
+info,registry,people,KJ Ferrary,81898acc
+info,registry,people,L Bruce,2a03bd2f
+info,registry,people,M Whelan,d613f046
+info,registry,people,Mehboob Ali,f1e0417f
+info,registry,people,Muhammad Ajmal,0782aec3
+info,registry,people,N Dhanawade,bc68912b
+info,registry,people,P Pushparajan,a143d606
+info,registry,people,PA Raikes,dfe5db8a
+info,registry,people,S Bodha,00467a76
+info,registry,people,S Gowda,52f6fb22
+info,registry,people,SB Patel,b24e0ffd
+info,registry,people,Salman Sharjeel,f9d6cfc6
+info,registry,people,Vinay Malhotra,452837d1
+info,registry,people,Zeeshan Khan,3f9b1a96
+ball,1,0.1,Malta,Mehboob Ali,Zeeshan Khan,K Nestor,6,0,,,,,,"",""
+ball,1,0.2,Malta,Mehboob Ali,Zeeshan Khan,K Nestor,6,0,,,,,,"",""
+ball,1,0.3,Malta,Mehboob Ali,Zeeshan Khan,K Nestor,0,0,,,,,,"",""
+ball,1,0.4,Malta,Mehboob Ali,Zeeshan Khan,K Nestor,4,0,,,,,,"",""
+ball,1,0.5,Malta,Mehboob Ali,Zeeshan Khan,K Nestor,0,0,,,,,,caught,Mehboob Ali
+ball,1,0.6,Malta,P Pushparajan,Zeeshan Khan,K Nestor,1,0,,,,,,"",""
+ball,1,1.1,Malta,P Pushparajan,Zeeshan Khan,A Reyes,0,0,,,,,,"",""
+ball,1,1.2,Malta,P Pushparajan,Zeeshan Khan,A Reyes,1,0,,,,,,"",""
+ball,1,1.3,Malta,Zeeshan Khan,P Pushparajan,A Reyes,0,0,,,,,,"",""
+ball,1,1.4,Malta,Zeeshan Khan,P Pushparajan,A Reyes,1,0,,,,,,"",""
+ball,1,1.5,Malta,P Pushparajan,Zeeshan Khan,A Reyes,4,0,,,,,,"",""
+ball,1,1.6,Malta,P Pushparajan,Zeeshan Khan,A Reyes,4,0,,,,,,"",""
+ball,1,2.1,Malta,Zeeshan Khan,P Pushparajan,K Nestor,1,0,,,,,,"",""
+ball,1,2.2,Malta,P Pushparajan,Zeeshan Khan,K Nestor,0,0,,,,,,"",""
+ball,1,2.3,Malta,P Pushparajan,Zeeshan Khan,K Nestor,0,0,,,,,,"",""
+ball,1,2.4,Malta,P Pushparajan,Zeeshan Khan,K Nestor,3,0,,,,,,"",""
+ball,1,2.5,Malta,Zeeshan Khan,P Pushparajan,K Nestor,6,0,,,,,,"",""
+ball,1,2.6,Malta,Zeeshan Khan,P Pushparajan,K Nestor,0,1,1,,,,,"",""
+ball,1,2.7,Malta,Zeeshan Khan,P Pushparajan,K Nestor,0,0,,,,,,"",""
+ball,1,3.1,Malta,P Pushparajan,Zeeshan Khan,A Reyes,1,0,,,,,,"",""
+ball,1,3.2,Malta,Zeeshan Khan,P Pushparajan,A Reyes,4,0,,,,,,"",""
+ball,1,3.3,Malta,Zeeshan Khan,P Pushparajan,A Reyes,1,0,,,,,,"",""
+ball,1,3.4,Malta,P Pushparajan,Zeeshan Khan,A Reyes,1,0,,,,,,"",""
+ball,1,3.5,Malta,Zeeshan Khan,P Pushparajan,A Reyes,1,0,,,,,,"",""
+ball,1,3.6,Malta,P Pushparajan,Zeeshan Khan,A Reyes,2,0,,,,,,"",""
+ball,1,4.1,Malta,Zeeshan Khan,P Pushparajan,K Nestor,1,0,,,,,,"",""
+ball,1,4.2,Malta,P Pushparajan,Zeeshan Khan,K Nestor,0,0,,,,,,"",""
+ball,1,4.3,Malta,P Pushparajan,Zeeshan Khan,K Nestor,1,0,,,,,,"",""
+ball,1,4.4,Malta,Zeeshan Khan,P Pushparajan,K Nestor,0,0,,,,,,"",""
+ball,1,4.5,Malta,Zeeshan Khan,P Pushparajan,K Nestor,1,0,,,,,,"",""
+ball,1,4.6,Malta,P Pushparajan,Zeeshan Khan,K Nestor,2,0,,,,,,"",""
+ball,1,5.1,Malta,Zeeshan Khan,P Pushparajan,KJ Ferrary,2,0,,,,,,"",""
+ball,1,5.2,Malta,Zeeshan Khan,P Pushparajan,KJ Ferrary,0,0,,,,,,"",""
+ball,1,5.3,Malta,Zeeshan Khan,P Pushparajan,KJ Ferrary,1,0,,,,,,"",""
+ball,1,5.4,Malta,P Pushparajan,Zeeshan Khan,KJ Ferrary,6,0,,,,,,"",""
+ball,1,5.5,Malta,P Pushparajan,Zeeshan Khan,KJ Ferrary,4,0,,,,,,"",""
+ball,1,5.6,Malta,P Pushparajan,Zeeshan Khan,KJ Ferrary,4,0,,,,,,"",""
+ball,1,6.1,Malta,Zeeshan Khan,P Pushparajan,K Nestor,6,0,,,,,,"",""
+ball,1,6.2,Malta,Zeeshan Khan,P Pushparajan,K Nestor,0,0,,,,,,"",""
+ball,1,6.3,Malta,Zeeshan Khan,P Pushparajan,K Nestor,1,0,,,,,,"",""
+ball,1,6.4,Malta,P Pushparajan,Zeeshan Khan,K Nestor,2,0,,,,,,"",""
+ball,1,6.5,Malta,P Pushparajan,Zeeshan Khan,K Nestor,0,0,,,,,,"",""
+ball,1,6.6,Malta,P Pushparajan,Zeeshan Khan,K Nestor,0,0,,,,,,"",""
+ball,1,7.1,Malta,Zeeshan Khan,P Pushparajan,J Wilson,4,0,,,,,,"",""
+ball,1,7.2,Malta,Zeeshan Khan,P Pushparajan,J Wilson,0,0,,,,,,"",""
+ball,1,7.3,Malta,Zeeshan Khan,P Pushparajan,J Wilson,2,0,,,,,,"",""
+ball,1,7.4,Malta,Zeeshan Khan,P Pushparajan,J Wilson,6,0,,,,,,"",""
+ball,1,7.5,Malta,Zeeshan Khan,P Pushparajan,J Wilson,1,0,,,,,,"",""
+ball,1,7.6,Malta,P Pushparajan,Zeeshan Khan,J Wilson,0,0,,,,,,"",""
+ball,1,8.1,Malta,Zeeshan Khan,P Pushparajan,S Bodha,1,0,,,,,,"",""
+ball,1,8.2,Malta,P Pushparajan,Zeeshan Khan,S Bodha,6,0,,,,,,"",""
+ball,1,8.3,Malta,P Pushparajan,Zeeshan Khan,S Bodha,1,0,,,,,,"",""
+ball,1,8.4,Malta,Zeeshan Khan,P Pushparajan,S Bodha,2,0,,,,,,"",""
+ball,1,8.5,Malta,Zeeshan Khan,P Pushparajan,S Bodha,4,0,,,,,,"",""
+ball,1,8.6,Malta,Zeeshan Khan,P Pushparajan,S Bodha,1,0,,,,,,"",""
+ball,1,9.1,Malta,Zeeshan Khan,P Pushparajan,J Wilson,0,0,,,,,,"",""
+ball,1,9.2,Malta,Zeeshan Khan,P Pushparajan,J Wilson,1,0,,,,,,"",""
+ball,1,9.3,Malta,P Pushparajan,Zeeshan Khan,J Wilson,0,0,,,,,,"",""
+ball,1,9.4,Malta,P Pushparajan,Zeeshan Khan,J Wilson,6,0,,,,,,"",""
+ball,1,9.5,Malta,P Pushparajan,Zeeshan Khan,J Wilson,6,0,,,,,,"",""
+ball,1,9.6,Malta,P Pushparajan,Zeeshan Khan,J Wilson,2,0,,,,,,"",""
+ball,1,10.1,Malta,Zeeshan Khan,P Pushparajan,S Bodha,4,0,,,,,,"",""
+ball,1,10.2,Malta,Zeeshan Khan,P Pushparajan,S Bodha,1,0,,,,,,"",""
+ball,1,10.3,Malta,P Pushparajan,Zeeshan Khan,S Bodha,1,0,,,,,,"",""
+ball,1,10.4,Malta,Zeeshan Khan,P Pushparajan,S Bodha,0,0,,,,,,stumped,Zeeshan Khan
+ball,1,10.5,Malta,Jaspal Singh,P Pushparajan,S Bodha,1,0,,,,,,"",""
+ball,1,10.6,Malta,P Pushparajan,Jaspal Singh,S Bodha,1,0,,,,,,"",""
+ball,1,11.1,Malta,P Pushparajan,Jaspal Singh,IDM Latin,2,0,,,,,,"",""
+ball,1,11.2,Malta,P Pushparajan,Jaspal Singh,IDM Latin,4,0,,,,,,"",""
+ball,1,11.3,Malta,P Pushparajan,Jaspal Singh,IDM Latin,2,0,,,,,,"",""
+ball,1,11.4,Malta,P Pushparajan,Jaspal Singh,IDM Latin,6,0,,,,,,"",""
+ball,1,11.5,Malta,P Pushparajan,Jaspal Singh,IDM Latin,0,0,,,,,,caught and bowled,P Pushparajan
+ball,1,11.6,Malta,Flynn Zahra,Jaspal Singh,IDM Latin,1,0,,,,,,"",""
+ball,1,12.1,Malta,Flynn Zahra,Jaspal Singh,S Bodha,1,0,,,,,,"",""
+ball,1,12.2,Malta,Jaspal Singh,Flynn Zahra,S Bodha,0,0,,,,,,"",""
+ball,1,12.3,Malta,Jaspal Singh,Flynn Zahra,S Bodha,4,0,,,,,,"",""
+ball,1,12.4,Malta,Jaspal Singh,Flynn Zahra,S Bodha,0,0,,,,,,"",""
+ball,1,12.5,Malta,Jaspal Singh,Flynn Zahra,S Bodha,1,0,,,,,,"",""
+ball,1,12.6,Malta,Flynn Zahra,Jaspal Singh,S Bodha,6,0,,,,,,"",""
+ball,1,13.1,Malta,Jaspal Singh,Flynn Zahra,IDM Latin,0,0,,,,,,stumped,Jaspal Singh
+ball,1,13.2,Malta,Muhammad Ajmal,Flynn Zahra,IDM Latin,4,0,,,,,,"",""
+ball,1,13.3,Malta,Muhammad Ajmal,Flynn Zahra,IDM Latin,1,0,,,,,,"",""
+ball,1,13.4,Malta,Flynn Zahra,Muhammad Ajmal,IDM Latin,1,0,,,,,,"",""
+ball,1,13.5,Malta,Muhammad Ajmal,Flynn Zahra,IDM Latin,0,0,,,,,,"",""
+ball,1,13.6,Malta,Muhammad Ajmal,Flynn Zahra,IDM Latin,1,0,,,,,,"",""
+ball,1,14.1,Malta,Muhammad Ajmal,Flynn Zahra,L Bruce,2,0,,,,,,"",""
+ball,1,14.2,Malta,Muhammad Ajmal,Flynn Zahra,L Bruce,1,0,,,,,,"",""
+ball,1,14.3,Malta,Flynn Zahra,Muhammad Ajmal,L Bruce,4,0,,,,,,"",""
+ball,1,14.4,Malta,Flynn Zahra,Muhammad Ajmal,L Bruce,0,0,,,,,,"",""
+ball,1,14.5,Malta,Flynn Zahra,Muhammad Ajmal,L Bruce,1,0,,,,,,"",""
+ball,1,14.6,Malta,Muhammad Ajmal,Flynn Zahra,L Bruce,6,0,,,,,,"",""
+ball,1,15.1,Malta,Flynn Zahra,Muhammad Ajmal,IDM Latin,0,0,,,,,,"",""
+ball,1,15.2,Malta,Flynn Zahra,Muhammad Ajmal,IDM Latin,2,0,,,,,,"",""
+ball,1,15.3,Malta,Flynn Zahra,Muhammad Ajmal,IDM Latin,0,0,,,,,,caught,Flynn Zahra
+ball,1,15.4,Malta,SB Patel,Muhammad Ajmal,IDM Latin,1,0,,,,,,"",""
+ball,1,15.5,Malta,Muhammad Ajmal,SB Patel,IDM Latin,0,2,,,,2,,"",""
+ball,1,15.6,Malta,Muhammad Ajmal,SB Patel,IDM Latin,0,0,,,,,,lbw,Muhammad Ajmal
+ball,1,16.1,Malta,SB Patel,Ajin Soman,K Mirpuri,2,0,,,,,,"",""
+ball,1,16.2,Malta,SB Patel,Ajin Soman,K Mirpuri,0,0,,,,,,caught,SB Patel
+ball,1,16.3,Malta,Imran Ameer,Ajin Soman,K Mirpuri,1,0,,,,,,"",""
+ball,1,16.4,Malta,Ajin Soman,Imran Ameer,K Mirpuri,2,0,,,,,,"",""
+ball,1,16.5,Malta,Ajin Soman,Imran Ameer,K Mirpuri,1,0,,,,,,"",""
+ball,1,16.6,Malta,Imran Ameer,Ajin Soman,K Mirpuri,1,0,,,,,,"",""
+ball,1,17.1,Malta,Imran Ameer,Ajin Soman,IDM Latin,6,1,,1,,,,"",""
+ball,1,17.2,Malta,Imran Ameer,Ajin Soman,IDM Latin,0,3,3,,,,,"",""
+ball,1,17.3,Malta,Imran Ameer,Ajin Soman,IDM Latin,0,0,,,,,,"",""
+ball,1,17.4,Malta,Imran Ameer,Ajin Soman,IDM Latin,0,0,,,,,,"",""
+ball,1,17.5,Malta,Imran Ameer,Ajin Soman,IDM Latin,1,0,,,,,,"",""
+ball,1,17.6,Malta,Ajin Soman,Imran Ameer,IDM Latin,1,0,,,,,,"",""
+ball,1,17.7,Malta,Imran Ameer,Ajin Soman,IDM Latin,4,0,,,,,,"",""
+ball,1,17.8,Malta,Imran Ameer,Ajin Soman,IDM Latin,0,0,,,,,,"",""
+ball,1,18.1,Malta,Ajin Soman,Imran Ameer,K Mirpuri,2,0,,,,,,"",""
+ball,1,18.2,Malta,Ajin Soman,Imran Ameer,K Mirpuri,6,0,,,,,,"",""
+ball,1,18.3,Malta,Ajin Soman,Imran Ameer,K Mirpuri,1,0,,,,,,"",""
+ball,1,18.4,Malta,Imran Ameer,Ajin Soman,K Mirpuri,1,0,,,,,,"",""
+ball,1,18.5,Malta,Ajin Soman,Imran Ameer,K Mirpuri,1,0,,,,,,"",""
+ball,1,18.6,Malta,Imran Ameer,Ajin Soman,K Mirpuri,2,0,,,,,,"",""
+ball,1,19.1,Malta,Ajin Soman,Imran Ameer,L Bruce,0,0,,,,,,caught,Ajin Soman
+ball,1,19.2,Malta,Jaswinder Singh,Imran Ameer,L Bruce,1,0,,,,,,"",""
+ball,1,19.3,Malta,Imran Ameer,Jaswinder Singh,L Bruce,1,0,,,,,,"",""
+ball,1,19.4,Malta,Jaswinder Singh,Imran Ameer,L Bruce,0,0,,,,,,"",""
+ball,1,19.5,Malta,Jaswinder Singh,Imran Ameer,L Bruce,4,0,,,,,,"",""
+ball,1,19.6,Malta,Jaswinder Singh,Imran Ameer,L Bruce,2,0,,,,,,"",""
+ball,2,0.1,Gibraltar,PA Raikes,C Pyle,Ajin Soman,1,0,,,,,,"",""
+ball,2,0.2,Gibraltar,C Pyle,PA Raikes,Ajin Soman,0,0,,,,,,"",""
+ball,2,0.3,Gibraltar,C Pyle,PA Raikes,Ajin Soman,1,0,,,,,,"",""
+ball,2,0.4,Gibraltar,PA Raikes,C Pyle,Ajin Soman,0,0,,,,,,"",""
+ball,2,0.5,Gibraltar,PA Raikes,C Pyle,Ajin Soman,4,0,,,,,,"",""
+ball,2,0.6,Gibraltar,PA Raikes,C Pyle,Ajin Soman,4,0,,,,,,"",""
+ball,2,1.1,Gibraltar,C Pyle,PA Raikes,Salman Sharjeel,1,0,,,,,,"",""
+ball,2,1.2,Gibraltar,PA Raikes,C Pyle,Salman Sharjeel,4,0,,,,,,"",""
+ball,2,1.3,Gibraltar,PA Raikes,C Pyle,Salman Sharjeel,0,0,,,,,,"",""
+ball,2,1.4,Gibraltar,PA Raikes,C Pyle,Salman Sharjeel,1,0,,,,,,"",""
+ball,2,1.5,Gibraltar,C Pyle,PA Raikes,Salman Sharjeel,0,0,,,,,,"",""
+ball,2,1.6,Gibraltar,C Pyle,PA Raikes,Salman Sharjeel,0,2,,,,2,,"",""
+ball,2,2.1,Gibraltar,PA Raikes,C Pyle,Ajin Soman,1,0,,,,,,"",""
+ball,2,2.2,Gibraltar,C Pyle,PA Raikes,Ajin Soman,1,0,,,,,,"",""
+ball,2,2.3,Gibraltar,PA Raikes,C Pyle,Ajin Soman,4,0,,,,,,"",""
+ball,2,2.4,Gibraltar,PA Raikes,C Pyle,Ajin Soman,0,0,,,,,,"",""
+ball,2,2.5,Gibraltar,PA Raikes,C Pyle,Ajin Soman,1,0,,,,,,"",""
+ball,2,2.6,Gibraltar,C Pyle,PA Raikes,Ajin Soman,1,0,,,,,,"",""
+ball,2,3.1,Gibraltar,C Pyle,PA Raikes,Salman Sharjeel,0,1,,,,1,,"",""
+ball,2,3.2,Gibraltar,PA Raikes,C Pyle,Salman Sharjeel,1,0,,,,,,"",""
+ball,2,3.3,Gibraltar,C Pyle,PA Raikes,Salman Sharjeel,0,0,,,,,,"",""
+ball,2,3.4,Gibraltar,C Pyle,PA Raikes,Salman Sharjeel,4,0,,,,,,"",""
+ball,2,3.5,Gibraltar,C Pyle,PA Raikes,Salman Sharjeel,0,1,1,,,,,"",""
+ball,2,3.6,Gibraltar,C Pyle,PA Raikes,Salman Sharjeel,0,0,,,,,,caught,C Pyle
+ball,2,3.7,Gibraltar,L Bruce,PA Raikes,Salman Sharjeel,1,0,,,,,,"",""
+ball,2,4.1,Gibraltar,L Bruce,PA Raikes,Mehboob Ali,1,0,,,,,,"",""
+ball,2,4.2,Gibraltar,PA Raikes,L Bruce,Mehboob Ali,0,0,,,,,,"",""
+ball,2,4.3,Gibraltar,PA Raikes,L Bruce,Mehboob Ali,6,0,,,,,,"",""
+ball,2,4.4,Gibraltar,PA Raikes,L Bruce,Mehboob Ali,1,0,,,,,,"",""
+ball,2,4.5,Gibraltar,L Bruce,PA Raikes,Mehboob Ali,0,0,,,,,,"",""
+ball,2,4.6,Gibraltar,L Bruce,PA Raikes,Mehboob Ali,6,0,,,,,,"",""
+ball,2,5.1,Gibraltar,PA Raikes,L Bruce,Salman Sharjeel,4,0,,,,,,"",""
+ball,2,5.2,Gibraltar,PA Raikes,L Bruce,Salman Sharjeel,0,0,,,,,,"",""
+ball,2,5.3,Gibraltar,PA Raikes,L Bruce,Salman Sharjeel,3,0,,,,,,"",""
+ball,2,5.4,Gibraltar,L Bruce,PA Raikes,Salman Sharjeel,4,0,,,,,,"",""
+ball,2,5.5,Gibraltar,L Bruce,PA Raikes,Salman Sharjeel,4,0,,,,,,"",""
+ball,2,5.6,Gibraltar,L Bruce,PA Raikes,Salman Sharjeel,1,0,,,,,,"",""
+ball,2,6.1,Gibraltar,L Bruce,PA Raikes,Imran Ameer,6,0,,,,,,"",""
+ball,2,6.2,Gibraltar,L Bruce,PA Raikes,Imran Ameer,6,0,,,,,,"",""
+ball,2,6.3,Gibraltar,L Bruce,PA Raikes,Imran Ameer,2,0,,,,,,"",""
+ball,2,6.4,Gibraltar,L Bruce,PA Raikes,Imran Ameer,1,0,,,,,,"",""
+ball,2,6.5,Gibraltar,PA Raikes,L Bruce,Imran Ameer,4,0,,,,,,"",""
+ball,2,6.6,Gibraltar,PA Raikes,L Bruce,Imran Ameer,1,0,,,,,,"",""
+ball,2,7.1,Gibraltar,PA Raikes,L Bruce,P Pushparajan,0,0,,,,,,caught,PA Raikes
+ball,2,7.2,Gibraltar,IDM Latin,L Bruce,P Pushparajan,0,0,,,,,,"",""
+ball,2,7.3,Gibraltar,IDM Latin,L Bruce,P Pushparajan,1,0,,,,,,"",""
+ball,2,7.4,Gibraltar,L Bruce,IDM Latin,P Pushparajan,2,0,,,,,,"",""
+ball,2,7.5,Gibraltar,L Bruce,IDM Latin,P Pushparajan,1,0,,,,,,"",""
+ball,2,7.6,Gibraltar,IDM Latin,L Bruce,P Pushparajan,0,0,,,,,,"",""
+ball,2,8.1,Gibraltar,L Bruce,IDM Latin,Imran Ameer,2,0,,,,,,"",""
+ball,2,8.2,Gibraltar,L Bruce,IDM Latin,Imran Ameer,0,0,,,,,,"",""
+ball,2,8.3,Gibraltar,L Bruce,IDM Latin,Imran Ameer,0,0,,,,,,"",""
+ball,2,8.4,Gibraltar,L Bruce,IDM Latin,Imran Ameer,1,0,,,,,,"",""
+ball,2,8.5,Gibraltar,IDM Latin,L Bruce,Imran Ameer,0,0,,,,,,"",""
+ball,2,8.6,Gibraltar,IDM Latin,L Bruce,Imran Ameer,0,0,,,,,,"",""
+ball,2,9.1,Gibraltar,L Bruce,IDM Latin,P Pushparajan,0,0,,,,,,caught,L Bruce
+ball,2,9.2,Gibraltar,KJ Ferrary,IDM Latin,P Pushparajan,0,1,1,,,,,"",""
+ball,2,9.3,Gibraltar,KJ Ferrary,IDM Latin,P Pushparajan,1,0,,,,,,"",""
+ball,2,9.4,Gibraltar,IDM Latin,KJ Ferrary,P Pushparajan,1,0,,,,,,"",""
+ball,2,9.5,Gibraltar,KJ Ferrary,IDM Latin,P Pushparajan,1,0,,,,,,"",""
+ball,2,9.6,Gibraltar,IDM Latin,KJ Ferrary,P Pushparajan,0,0,,,,,,"",""
+ball,2,9.7,Gibraltar,IDM Latin,KJ Ferrary,P Pushparajan,1,0,,,,,,"",""
+ball,2,10.1,Gibraltar,IDM Latin,KJ Ferrary,Imran Ameer,1,0,,,,,,"",""
+ball,2,10.2,Gibraltar,KJ Ferrary,IDM Latin,Imran Ameer,0,0,,,,,,"",""
+ball,2,10.3,Gibraltar,KJ Ferrary,IDM Latin,Imran Ameer,1,0,,,,,,"",""
+ball,2,10.4,Gibraltar,IDM Latin,KJ Ferrary,Imran Ameer,0,0,,,,,,"",""
+ball,2,10.5,Gibraltar,IDM Latin,KJ Ferrary,Imran Ameer,1,0,,,,,,"",""
+ball,2,10.6,Gibraltar,KJ Ferrary,IDM Latin,Imran Ameer,0,0,,,,,,"",""
+ball,2,11.1,Gibraltar,IDM Latin,KJ Ferrary,P Pushparajan,0,0,,,,,,"",""
+ball,2,11.2,Gibraltar,IDM Latin,KJ Ferrary,P Pushparajan,1,0,,,,,,"",""
+ball,2,11.3,Gibraltar,KJ Ferrary,IDM Latin,P Pushparajan,0,0,,,,,,"",""
+ball,2,11.4,Gibraltar,KJ Ferrary,IDM Latin,P Pushparajan,1,0,,,,,,"",""
+ball,2,11.5,Gibraltar,IDM Latin,KJ Ferrary,P Pushparajan,6,0,,,,,,"",""
+ball,2,11.6,Gibraltar,IDM Latin,KJ Ferrary,P Pushparajan,1,0,,,,,,"",""
+ball,2,12.1,Gibraltar,IDM Latin,KJ Ferrary,Imran Ameer,1,0,,,,,,"",""
+ball,2,12.2,Gibraltar,KJ Ferrary,IDM Latin,Imran Ameer,1,0,,,,,,"",""
+ball,2,12.3,Gibraltar,IDM Latin,KJ Ferrary,Imran Ameer,1,0,,,,,,"",""
+ball,2,12.4,Gibraltar,KJ Ferrary,IDM Latin,Imran Ameer,0,0,,,,,,stumped,KJ Ferrary
+ball,2,12.5,Gibraltar,K Mirpuri,IDM Latin,Imran Ameer,1,0,,,,,,"",""
+ball,2,12.6,Gibraltar,IDM Latin,K Mirpuri,Imran Ameer,0,0,,,,,,"",""
+ball,2,13.1,Gibraltar,K Mirpuri,IDM Latin,P Pushparajan,4,0,,,,,,"",""
+ball,2,13.2,Gibraltar,K Mirpuri,IDM Latin,P Pushparajan,1,0,,,,,,"",""
+ball,2,13.3,Gibraltar,IDM Latin,K Mirpuri,P Pushparajan,2,0,,,,,,"",""
+ball,2,13.4,Gibraltar,IDM Latin,K Mirpuri,P Pushparajan,1,0,,,,,,"",""
+ball,2,13.5,Gibraltar,K Mirpuri,IDM Latin,P Pushparajan,1,0,,,,,,"",""
+ball,2,13.6,Gibraltar,IDM Latin,K Mirpuri,P Pushparajan,0,0,,,,,,"",""
+ball,2,14.1,Gibraltar,K Mirpuri,IDM Latin,Mehboob Ali,1,0,,,,,,"",""
+ball,2,14.2,Gibraltar,IDM Latin,K Mirpuri,Mehboob Ali,1,0,,,,,,"",""
+ball,2,14.3,Gibraltar,K Mirpuri,IDM Latin,Mehboob Ali,1,0,,,,,,"",""
+ball,2,14.4,Gibraltar,IDM Latin,K Mirpuri,Mehboob Ali,0,0,,,,,,"",""
+ball,2,14.5,Gibraltar,IDM Latin,K Mirpuri,Mehboob Ali,1,0,,,,,,"",""
+ball,2,14.6,Gibraltar,K Mirpuri,IDM Latin,Mehboob Ali,1,0,,,,,,"",""
+ball,2,15.1,Gibraltar,K Mirpuri,IDM Latin,Muhammad Ajmal,1,0,,,,,,"",""
+ball,2,15.2,Gibraltar,IDM Latin,K Mirpuri,Muhammad Ajmal,2,0,,,,,,"",""
+ball,2,15.3,Gibraltar,IDM Latin,K Mirpuri,Muhammad Ajmal,1,0,,,,,,"",""
+ball,2,15.4,Gibraltar,K Mirpuri,IDM Latin,Muhammad Ajmal,0,0,,,,,,"",""
+ball,2,15.5,Gibraltar,K Mirpuri,IDM Latin,Muhammad Ajmal,1,0,,,,,,"",""
+ball,2,15.6,Gibraltar,IDM Latin,K Mirpuri,Muhammad Ajmal,6,0,,,,,,"",""
+ball,2,16.1,Gibraltar,K Mirpuri,IDM Latin,Mehboob Ali,1,0,,,,,,"",""
+ball,2,16.2,Gibraltar,IDM Latin,K Mirpuri,Mehboob Ali,2,0,,,,,,"",""
+ball,2,16.3,Gibraltar,IDM Latin,K Mirpuri,Mehboob Ali,0,0,,,,,,caught,IDM Latin
+ball,2,16.4,Gibraltar,K Nestor,K Mirpuri,Mehboob Ali,0,0,,,,,,"",""
+ball,2,16.5,Gibraltar,K Nestor,K Mirpuri,Mehboob Ali,0,0,,,,,,bowled,K Nestor
+ball,2,16.6,Gibraltar,A Reyes,K Mirpuri,Mehboob Ali,1,0,,,,,,"",""
+ball,2,17.1,Gibraltar,A Reyes,K Mirpuri,Muhammad Ajmal,0,0,,,,,,"",""
+ball,2,17.2,Gibraltar,A Reyes,K Mirpuri,Muhammad Ajmal,2,0,,,,,,"",""
+ball,2,17.3,Gibraltar,A Reyes,K Mirpuri,Muhammad Ajmal,0,0,,,,,,"",""
+ball,2,17.4,Gibraltar,A Reyes,K Mirpuri,Muhammad Ajmal,1,0,,,,,,"",""
+ball,2,17.5,Gibraltar,K Mirpuri,A Reyes,Muhammad Ajmal,1,0,,,,,,"",""
+ball,2,17.6,Gibraltar,A Reyes,K Mirpuri,Muhammad Ajmal,1,0,,,,,,"",""
+ball,2,18.1,Gibraltar,A Reyes,K Mirpuri,Mehboob Ali,1,0,,,,,,"",""
+ball,2,18.2,Gibraltar,K Mirpuri,A Reyes,Mehboob Ali,1,0,,,,,,"",""
+ball,2,18.3,Gibraltar,A Reyes,K Mirpuri,Mehboob Ali,1,0,,,,,,"",""
+ball,2,18.4,Gibraltar,K Mirpuri,A Reyes,Mehboob Ali,1,0,,,,,,"",""
+ball,2,18.5,Gibraltar,A Reyes,K Mirpuri,Mehboob Ali,1,0,,,,,,"",""
+ball,2,18.6,Gibraltar,K Mirpuri,A Reyes,Mehboob Ali,0,0,,,,,,"",""
+ball,2,19.1,Gibraltar,A Reyes,K Mirpuri,Muhammad Ajmal,1,0,,,,,,"",""
+ball,2,19.2,Gibraltar,K Mirpuri,A Reyes,Muhammad Ajmal,1,0,,,,,,"",""
+ball,2,19.3,Gibraltar,A Reyes,K Mirpuri,Muhammad Ajmal,1,0,,,,,,"",""
+ball,2,19.4,Gibraltar,K Mirpuri,A Reyes,Muhammad Ajmal,1,0,,,,,,"",""
+ball,2,19.5,Gibraltar,A Reyes,K Mirpuri,Muhammad Ajmal,1,0,,,,,,"",""
+ball,2,19.6,Gibraltar,K Mirpuri,A Reyes,Muhammad Ajmal,6,0,,,,,,"",""

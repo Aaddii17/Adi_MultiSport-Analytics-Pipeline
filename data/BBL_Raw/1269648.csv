@@ -1,0 +1,299 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Melbourne Renegades
+info,team,Brisbane Heat
+info,gender,male
+info,season,2021/22
+info,date,2021/12/13
+info,event,Big Bash League
+info,match_number,11
+info,venue,Carrara Oval
+info,city,Carrara
+info,toss_winner,Brisbane Heat
+info,toss_decision,field
+info,player_of_match,JJ Bazley
+info,umpire,BNJ Oxenford
+info,umpire,D Taylor
+info,reserve_umpire,NR Johnstone
+info,tv_umpire,AK Wilds
+info,match_referee,SR Bernard
+info,winner,Brisbane Heat
+info,winner_wickets,5
+info,player,Melbourne Renegades,MW Harvey
+info,player,Melbourne Renegades,SB Harper
+info,player,Melbourne Renegades,NJ Maddinson
+info,player,Melbourne Renegades,Mohammad Nabi
+info,player,Melbourne Renegades,J Seymour
+info,player,Melbourne Renegades,J Fraser-McGurk
+info,player,Melbourne Renegades,W Sutherland
+info,player,Melbourne Renegades,JA Prestwidge
+info,player,Melbourne Renegades,KW Richardson
+info,player,Melbourne Renegades,RJW Topley
+info,player,Melbourne Renegades,Zahir Khan
+info,player,Brisbane Heat,M Bryant
+info,player,Brisbane Heat,CA Lynn
+info,player,Brisbane Heat,BM Duckett
+info,player,Brisbane Heat,SD Heazlett
+info,player,Brisbane Heat,TB Abell
+info,player,Brisbane Heat,JJ Peirson
+info,player,Brisbane Heat,JJ Bazley
+info,player,Brisbane Heat,XC Bartlett
+info,player,Brisbane Heat,MJ Swepson
+info,player,Brisbane Heat,Mujeeb Ur Rahman
+info,player,Brisbane Heat,L Guthrie
+info,registry,people,AK Wilds,de412f40
+info,registry,people,BM Duckett,5f26f677
+info,registry,people,BNJ Oxenford,c1add349
+info,registry,people,CA Lynn,45eda7c8
+info,registry,people,D Taylor,b940a2b2
+info,registry,people,J Fraser-McGurk,9b6e1b3f
+info,registry,people,J Seymour,cb54a1d6
+info,registry,people,JA Prestwidge,5f317fd4
+info,registry,people,JJ Bazley,003d49e6
+info,registry,people,JJ Peirson,2b55c3b4
+info,registry,people,KW Richardson,dfc4d8b5
+info,registry,people,L Guthrie,b03303ca
+info,registry,people,M Bryant,f32012f4
+info,registry,people,MJ Swepson,86b4bf88
+info,registry,people,MW Harvey,47dc9794
+info,registry,people,Mohammad Nabi,62af8546
+info,registry,people,Mujeeb Ur Rahman,7d92277a
+info,registry,people,NJ Maddinson,44afbf2d
+info,registry,people,NR Johnstone,ce274b6a
+info,registry,people,RJW Topley,8db7f47f
+info,registry,people,SB Harper,a756e61a
+info,registry,people,SD Heazlett,e00a9155
+info,registry,people,SR Bernard,800187dc
+info,registry,people,TB Abell,ba9258a7
+info,registry,people,W Sutherland,bc2d4f2e
+info,registry,people,XC Bartlett,3b53243a
+info,registry,people,Zahir Khan,786b7fe8
+ball,1,0.1,Melbourne Renegades,MW Harvey,SB Harper,XC Bartlett,4,0,,,,,,"",""
+ball,1,0.2,Melbourne Renegades,MW Harvey,SB Harper,XC Bartlett,0,0,,,,,,"",""
+ball,1,0.3,Melbourne Renegades,MW Harvey,SB Harper,XC Bartlett,1,0,,,,,,"",""
+ball,1,0.4,Melbourne Renegades,SB Harper,MW Harvey,XC Bartlett,4,0,,,,,,"",""
+ball,1,0.5,Melbourne Renegades,SB Harper,MW Harvey,XC Bartlett,0,0,,,,,,"",""
+ball,1,0.6,Melbourne Renegades,SB Harper,MW Harvey,XC Bartlett,0,0,,,,,,"",""
+ball,1,1.1,Melbourne Renegades,MW Harvey,SB Harper,L Guthrie,0,0,,,,,,"",""
+ball,1,1.2,Melbourne Renegades,MW Harvey,SB Harper,L Guthrie,1,0,,,,,,"",""
+ball,1,1.3,Melbourne Renegades,SB Harper,MW Harvey,L Guthrie,0,0,,,,,,"",""
+ball,1,1.4,Melbourne Renegades,SB Harper,MW Harvey,L Guthrie,0,0,,,,,,"",""
+ball,1,1.5,Melbourne Renegades,SB Harper,MW Harvey,L Guthrie,0,0,,,,,,"",""
+ball,1,1.6,Melbourne Renegades,SB Harper,MW Harvey,L Guthrie,0,1,,,,1,,"",""
+ball,1,2.1,Melbourne Renegades,SB Harper,MW Harvey,XC Bartlett,1,0,,,,,,"",""
+ball,1,2.2,Melbourne Renegades,MW Harvey,SB Harper,XC Bartlett,0,0,,,,,,"",""
+ball,1,2.3,Melbourne Renegades,MW Harvey,SB Harper,XC Bartlett,1,0,,,,,,"",""
+ball,1,2.4,Melbourne Renegades,SB Harper,MW Harvey,XC Bartlett,4,0,,,,,,"",""
+ball,1,2.5,Melbourne Renegades,SB Harper,MW Harvey,XC Bartlett,1,0,,,,,,"",""
+ball,1,2.6,Melbourne Renegades,MW Harvey,SB Harper,XC Bartlett,4,0,,,,,,"",""
+ball,1,3.1,Melbourne Renegades,SB Harper,MW Harvey,JJ Bazley,1,0,,,,,,"",""
+ball,1,3.2,Melbourne Renegades,MW Harvey,SB Harper,JJ Bazley,0,0,,,,,,"",""
+ball,1,3.3,Melbourne Renegades,MW Harvey,SB Harper,JJ Bazley,0,0,,,,,,"",""
+ball,1,3.4,Melbourne Renegades,MW Harvey,SB Harper,JJ Bazley,2,0,,,,,,"",""
+ball,1,3.5,Melbourne Renegades,MW Harvey,SB Harper,JJ Bazley,2,0,,,,,,"",""
+ball,1,3.6,Melbourne Renegades,MW Harvey,SB Harper,JJ Bazley,1,0,,,,,,"",""
+ball,1,4.1,Melbourne Renegades,MW Harvey,SB Harper,Mujeeb Ur Rahman,1,0,,,,,,"",""
+ball,1,4.2,Melbourne Renegades,SB Harper,MW Harvey,Mujeeb Ur Rahman,1,0,,,,,,"",""
+ball,1,4.3,Melbourne Renegades,MW Harvey,SB Harper,Mujeeb Ur Rahman,0,0,,,,,,"",""
+ball,1,4.4,Melbourne Renegades,MW Harvey,SB Harper,Mujeeb Ur Rahman,0,0,,,,,,"",""
+ball,1,4.5,Melbourne Renegades,MW Harvey,SB Harper,Mujeeb Ur Rahman,0,1,1,,,,,"",""
+ball,1,4.6,Melbourne Renegades,MW Harvey,SB Harper,Mujeeb Ur Rahman,0,0,,,,,,"",""
+ball,1,4.7,Melbourne Renegades,MW Harvey,SB Harper,Mujeeb Ur Rahman,1,0,,,,,,"",""
+ball,1,5.1,Melbourne Renegades,MW Harvey,SB Harper,MJ Swepson,2,0,,,,,,"",""
+ball,1,5.2,Melbourne Renegades,MW Harvey,SB Harper,MJ Swepson,0,0,,,,,,"",""
+ball,1,5.3,Melbourne Renegades,MW Harvey,SB Harper,MJ Swepson,2,0,,,,,,"",""
+ball,1,5.4,Melbourne Renegades,MW Harvey,SB Harper,MJ Swepson,0,0,,,,,,"",""
+ball,1,5.5,Melbourne Renegades,MW Harvey,SB Harper,MJ Swepson,0,0,,,,,,"",""
+ball,1,5.6,Melbourne Renegades,MW Harvey,SB Harper,MJ Swepson,2,0,,,,,,"",""
+ball,1,6.1,Melbourne Renegades,SB Harper,MW Harvey,JJ Bazley,0,0,,,,,,caught,SB Harper
+ball,1,6.2,Melbourne Renegades,NJ Maddinson,MW Harvey,JJ Bazley,1,0,,,,,,"",""
+ball,1,6.3,Melbourne Renegades,MW Harvey,NJ Maddinson,JJ Bazley,1,0,,,,,,"",""
+ball,1,6.4,Melbourne Renegades,NJ Maddinson,MW Harvey,JJ Bazley,0,0,,,,,,"",""
+ball,1,6.5,Melbourne Renegades,NJ Maddinson,MW Harvey,JJ Bazley,0,0,,,,,,"",""
+ball,1,6.6,Melbourne Renegades,NJ Maddinson,MW Harvey,JJ Bazley,0,0,,,,,,"",""
+ball,1,7.1,Melbourne Renegades,MW Harvey,NJ Maddinson,MJ Swepson,2,0,,,,,,"",""
+ball,1,7.2,Melbourne Renegades,MW Harvey,NJ Maddinson,MJ Swepson,2,0,,,,,,"",""
+ball,1,7.3,Melbourne Renegades,MW Harvey,NJ Maddinson,MJ Swepson,2,0,,,,,,"",""
+ball,1,7.4,Melbourne Renegades,MW Harvey,NJ Maddinson,MJ Swepson,1,0,,,,,,"",""
+ball,1,7.5,Melbourne Renegades,NJ Maddinson,MW Harvey,MJ Swepson,0,0,,,,,,"",""
+ball,1,7.6,Melbourne Renegades,NJ Maddinson,MW Harvey,MJ Swepson,1,0,,,,,,"",""
+ball,1,8.1,Melbourne Renegades,NJ Maddinson,MW Harvey,Mujeeb Ur Rahman,2,0,,,,,,"",""
+ball,1,8.2,Melbourne Renegades,NJ Maddinson,MW Harvey,Mujeeb Ur Rahman,1,0,,,,,,"",""
+ball,1,8.3,Melbourne Renegades,MW Harvey,NJ Maddinson,Mujeeb Ur Rahman,1,0,,,,,,"",""
+ball,1,8.4,Melbourne Renegades,NJ Maddinson,MW Harvey,Mujeeb Ur Rahman,1,0,,,,,,"",""
+ball,1,8.5,Melbourne Renegades,MW Harvey,NJ Maddinson,Mujeeb Ur Rahman,0,0,,,,,,"",""
+ball,1,8.6,Melbourne Renegades,MW Harvey,NJ Maddinson,Mujeeb Ur Rahman,1,0,,,,,,"",""
+ball,1,9.1,Melbourne Renegades,MW Harvey,NJ Maddinson,L Guthrie,0,1,,,,1,,"",""
+ball,1,9.2,Melbourne Renegades,NJ Maddinson,MW Harvey,L Guthrie,0,0,,,,,,"",""
+ball,1,9.3,Melbourne Renegades,NJ Maddinson,MW Harvey,L Guthrie,0,0,,,,,,"",""
+ball,1,9.4,Melbourne Renegades,NJ Maddinson,MW Harvey,L Guthrie,1,0,,,,,,"",""
+ball,1,9.5,Melbourne Renegades,MW Harvey,NJ Maddinson,L Guthrie,0,1,1,,,,,"",""
+ball,1,9.6,Melbourne Renegades,MW Harvey,NJ Maddinson,L Guthrie,0,0,,,,,,"",""
+ball,1,9.7,Melbourne Renegades,MW Harvey,NJ Maddinson,L Guthrie,1,0,,,,,,"",""
+ball,1,10.1,Melbourne Renegades,MW Harvey,NJ Maddinson,XC Bartlett,0,1,1,,,,,"",""
+ball,1,10.2,Melbourne Renegades,MW Harvey,NJ Maddinson,XC Bartlett,4,0,,,,,,"",""
+ball,1,10.3,Melbourne Renegades,MW Harvey,NJ Maddinson,XC Bartlett,0,0,,,,,,"",""
+ball,1,10.4,Melbourne Renegades,MW Harvey,NJ Maddinson,XC Bartlett,1,0,,,,,,"",""
+ball,1,10.5,Melbourne Renegades,NJ Maddinson,MW Harvey,XC Bartlett,0,1,1,,,,,"",""
+ball,1,10.6,Melbourne Renegades,NJ Maddinson,MW Harvey,XC Bartlett,4,0,,,,,,"",""
+ball,1,10.7,Melbourne Renegades,NJ Maddinson,MW Harvey,XC Bartlett,1,0,,,,,,"",""
+ball,1,10.8,Melbourne Renegades,MW Harvey,NJ Maddinson,XC Bartlett,0,1,1,,,,,"",""
+ball,1,10.9,Melbourne Renegades,MW Harvey,NJ Maddinson,XC Bartlett,4,0,,,,,,"",""
+ball,1,11.1,Melbourne Renegades,NJ Maddinson,MW Harvey,Mujeeb Ur Rahman,2,0,,,,,,"",""
+ball,1,11.2,Melbourne Renegades,NJ Maddinson,MW Harvey,Mujeeb Ur Rahman,0,0,,,,,,"",""
+ball,1,11.3,Melbourne Renegades,NJ Maddinson,MW Harvey,Mujeeb Ur Rahman,0,0,,,,,,"",""
+ball,1,11.4,Melbourne Renegades,NJ Maddinson,MW Harvey,Mujeeb Ur Rahman,0,2,,,2,,,"",""
+ball,1,11.5,Melbourne Renegades,NJ Maddinson,MW Harvey,Mujeeb Ur Rahman,1,0,,,,,,"",""
+ball,1,11.6,Melbourne Renegades,MW Harvey,NJ Maddinson,Mujeeb Ur Rahman,0,0,,,,,,"",""
+ball,1,12.1,Melbourne Renegades,NJ Maddinson,MW Harvey,MJ Swepson,4,0,,,,,,"",""
+ball,1,12.2,Melbourne Renegades,NJ Maddinson,MW Harvey,MJ Swepson,0,0,,,,,,caught,NJ Maddinson
+ball,1,12.3,Melbourne Renegades,Mohammad Nabi,MW Harvey,MJ Swepson,0,0,,,,,,"",""
+ball,1,12.4,Melbourne Renegades,Mohammad Nabi,MW Harvey,MJ Swepson,1,0,,,,,,"",""
+ball,1,12.5,Melbourne Renegades,MW Harvey,Mohammad Nabi,MJ Swepson,1,0,,,,,,"",""
+ball,1,12.6,Melbourne Renegades,Mohammad Nabi,MW Harvey,MJ Swepson,1,0,,,,,,"",""
+ball,1,13.1,Melbourne Renegades,Mohammad Nabi,MW Harvey,JJ Bazley,1,0,,,,,,"",""
+ball,1,13.2,Melbourne Renegades,MW Harvey,Mohammad Nabi,JJ Bazley,1,0,,,,,,"",""
+ball,1,13.3,Melbourne Renegades,Mohammad Nabi,MW Harvey,JJ Bazley,0,0,,,,,,"",""
+ball,1,13.4,Melbourne Renegades,Mohammad Nabi,MW Harvey,JJ Bazley,0,1,1,,,,,"",""
+ball,1,13.5,Melbourne Renegades,Mohammad Nabi,MW Harvey,JJ Bazley,0,0,,,,,,caught,Mohammad Nabi
+ball,1,13.6,Melbourne Renegades,J Seymour,MW Harvey,JJ Bazley,1,0,,,,,,"",""
+ball,1,13.7,Melbourne Renegades,MW Harvey,J Seymour,JJ Bazley,4,0,,,,,,"",""
+ball,1,14.1,Melbourne Renegades,J Seymour,MW Harvey,L Guthrie,1,0,,,,,,"",""
+ball,1,14.2,Melbourne Renegades,MW Harvey,J Seymour,L Guthrie,1,0,,,,,,"",""
+ball,1,14.3,Melbourne Renegades,J Seymour,MW Harvey,L Guthrie,0,0,,,,,,"",""
+ball,1,14.4,Melbourne Renegades,J Seymour,MW Harvey,L Guthrie,0,0,,,,,,"",""
+ball,1,14.5,Melbourne Renegades,J Seymour,MW Harvey,L Guthrie,0,0,,,,,,"",""
+ball,1,14.6,Melbourne Renegades,J Seymour,MW Harvey,L Guthrie,1,0,,,,,,"",""
+ball,1,15.1,Melbourne Renegades,J Seymour,MW Harvey,MJ Swepson,0,0,,,,,,"",""
+ball,1,15.2,Melbourne Renegades,J Seymour,MW Harvey,MJ Swepson,1,0,,,,,,"",""
+ball,1,15.3,Melbourne Renegades,MW Harvey,J Seymour,MJ Swepson,4,0,,,,,,"",""
+ball,1,15.4,Melbourne Renegades,MW Harvey,J Seymour,MJ Swepson,1,0,,,,,,"",""
+ball,1,15.5,Melbourne Renegades,J Seymour,MW Harvey,MJ Swepson,2,0,,,,,,"",""
+ball,1,15.6,Melbourne Renegades,J Seymour,MW Harvey,MJ Swepson,2,0,,,,,,"",""
+ball,1,16.1,Melbourne Renegades,MW Harvey,J Seymour,JJ Bazley,4,0,,,,,,"",""
+ball,1,16.2,Melbourne Renegades,MW Harvey,J Seymour,JJ Bazley,4,0,,,,,,"",""
+ball,1,16.3,Melbourne Renegades,MW Harvey,J Seymour,JJ Bazley,1,0,,,,,,"",""
+ball,1,16.4,Melbourne Renegades,J Seymour,MW Harvey,JJ Bazley,0,0,,,,,,caught,J Seymour
+ball,1,16.5,Melbourne Renegades,MW Harvey,J Fraser-McGurk,JJ Bazley,1,0,,,,,,"",""
+ball,1,16.6,Melbourne Renegades,J Fraser-McGurk,MW Harvey,JJ Bazley,2,0,,,,,,"",""
+ball,1,17.1,Melbourne Renegades,MW Harvey,J Fraser-McGurk,Mujeeb Ur Rahman,0,0,,,,,,"",""
+ball,1,17.2,Melbourne Renegades,MW Harvey,J Fraser-McGurk,Mujeeb Ur Rahman,1,0,,,,,,"",""
+ball,1,17.3,Melbourne Renegades,J Fraser-McGurk,MW Harvey,Mujeeb Ur Rahman,3,0,,,,,,"",""
+ball,1,17.4,Melbourne Renegades,MW Harvey,J Fraser-McGurk,Mujeeb Ur Rahman,1,0,,,,,,"",""
+ball,1,17.5,Melbourne Renegades,J Fraser-McGurk,MW Harvey,Mujeeb Ur Rahman,1,0,,,,,,"",""
+ball,1,17.6,Melbourne Renegades,MW Harvey,J Fraser-McGurk,Mujeeb Ur Rahman,0,0,,,,,,"",""
+ball,1,18.1,Melbourne Renegades,J Fraser-McGurk,MW Harvey,L Guthrie,0,0,,,,,,"",""
+ball,1,18.2,Melbourne Renegades,J Fraser-McGurk,MW Harvey,L Guthrie,0,0,,,,,,lbw,J Fraser-McGurk
+ball,1,18.3,Melbourne Renegades,W Sutherland,MW Harvey,L Guthrie,0,0,,,,,,"",""
+ball,1,18.4,Melbourne Renegades,W Sutherland,MW Harvey,L Guthrie,1,0,,,,,,"",""
+ball,1,18.5,Melbourne Renegades,MW Harvey,W Sutherland,L Guthrie,1,0,,,,,,"",""
+ball,1,18.6,Melbourne Renegades,W Sutherland,MW Harvey,L Guthrie,1,0,,,,,,"",""
+ball,1,19.1,Melbourne Renegades,W Sutherland,MW Harvey,XC Bartlett,6,0,,,,,,"",""
+ball,1,19.2,Melbourne Renegades,W Sutherland,MW Harvey,XC Bartlett,2,0,,,,,,"",""
+ball,1,19.3,Melbourne Renegades,W Sutherland,MW Harvey,XC Bartlett,0,0,,,,,,"",""
+ball,1,19.4,Melbourne Renegades,W Sutherland,MW Harvey,XC Bartlett,0,0,,,,,,caught,W Sutherland
+ball,1,19.5,Melbourne Renegades,JA Prestwidge,MW Harvey,XC Bartlett,1,0,,,,,,"",""
+ball,1,19.6,Melbourne Renegades,MW Harvey,JA Prestwidge,XC Bartlett,2,0,,,,,,"",""
+ball,2,0.1,Brisbane Heat,M Bryant,CA Lynn,NJ Maddinson,0,0,,,,,,"",""
+ball,2,0.2,Brisbane Heat,M Bryant,CA Lynn,NJ Maddinson,1,0,,,,,,"",""
+ball,2,0.3,Brisbane Heat,CA Lynn,M Bryant,NJ Maddinson,0,0,,,,,,"",""
+ball,2,0.4,Brisbane Heat,CA Lynn,M Bryant,NJ Maddinson,1,0,,,,,,"",""
+ball,2,0.5,Brisbane Heat,M Bryant,CA Lynn,NJ Maddinson,1,0,,,,,,"",""
+ball,2,0.6,Brisbane Heat,CA Lynn,M Bryant,NJ Maddinson,1,0,,,,,,"",""
+ball,2,1.1,Brisbane Heat,CA Lynn,M Bryant,W Sutherland,4,0,,,,,,"",""
+ball,2,1.2,Brisbane Heat,CA Lynn,M Bryant,W Sutherland,4,0,,,,,,"",""
+ball,2,1.3,Brisbane Heat,CA Lynn,M Bryant,W Sutherland,4,0,,,,,,"",""
+ball,2,1.4,Brisbane Heat,CA Lynn,M Bryant,W Sutherland,6,0,,,,,,"",""
+ball,2,1.5,Brisbane Heat,CA Lynn,M Bryant,W Sutherland,1,0,,,,,,"",""
+ball,2,1.6,Brisbane Heat,M Bryant,CA Lynn,W Sutherland,2,0,,,,,,"",""
+ball,2,2.1,Brisbane Heat,CA Lynn,M Bryant,Zahir Khan,0,0,,,,,,"",""
+ball,2,2.2,Brisbane Heat,CA Lynn,M Bryant,Zahir Khan,1,0,,,,,,"",""
+ball,2,2.3,Brisbane Heat,M Bryant,CA Lynn,Zahir Khan,4,0,,,,,,"",""
+ball,2,2.4,Brisbane Heat,M Bryant,CA Lynn,Zahir Khan,0,0,,,,,,"",""
+ball,2,2.5,Brisbane Heat,M Bryant,CA Lynn,Zahir Khan,0,0,,,,,,"",""
+ball,2,2.6,Brisbane Heat,M Bryant,CA Lynn,Zahir Khan,0,3,3,,,,,"",""
+ball,2,2.7,Brisbane Heat,M Bryant,CA Lynn,Zahir Khan,1,0,,,,,,"",""
+ball,2,3.1,Brisbane Heat,M Bryant,CA Lynn,RJW Topley,1,0,,,,,,"",""
+ball,2,3.2,Brisbane Heat,CA Lynn,M Bryant,RJW Topley,4,0,,,,,,"",""
+ball,2,3.3,Brisbane Heat,CA Lynn,M Bryant,RJW Topley,1,0,,,,,,"",""
+ball,2,3.4,Brisbane Heat,M Bryant,CA Lynn,RJW Topley,0,1,,,1,,,"",""
+ball,2,3.5,Brisbane Heat,CA Lynn,M Bryant,RJW Topley,4,0,,,,,,"",""
+ball,2,3.6,Brisbane Heat,CA Lynn,M Bryant,RJW Topley,1,0,,,,,,"",""
+ball,2,4.1,Brisbane Heat,CA Lynn,M Bryant,Zahir Khan,0,0,,,,,,bowled,CA Lynn
+ball,2,4.2,Brisbane Heat,BM Duckett,M Bryant,Zahir Khan,1,0,,,,,,"",""
+ball,2,4.3,Brisbane Heat,M Bryant,BM Duckett,Zahir Khan,1,0,,,,,,"",""
+ball,2,4.4,Brisbane Heat,BM Duckett,M Bryant,Zahir Khan,4,0,,,,,,"",""
+ball,2,4.5,Brisbane Heat,BM Duckett,M Bryant,Zahir Khan,1,0,,,,,,"",""
+ball,2,4.6,Brisbane Heat,M Bryant,BM Duckett,Zahir Khan,1,0,,,,,,"",""
+ball,2,5.1,Brisbane Heat,M Bryant,BM Duckett,KW Richardson,4,0,,,,,,"",""
+ball,2,5.2,Brisbane Heat,M Bryant,BM Duckett,KW Richardson,1,0,,,,,,"",""
+ball,2,5.3,Brisbane Heat,BM Duckett,M Bryant,KW Richardson,0,0,,,,,,"",""
+ball,2,5.4,Brisbane Heat,BM Duckett,M Bryant,KW Richardson,0,0,,,,,,"",""
+ball,2,5.5,Brisbane Heat,BM Duckett,M Bryant,KW Richardson,0,0,,,,,,"",""
+ball,2,5.6,Brisbane Heat,BM Duckett,M Bryant,KW Richardson,4,0,,,,,,"",""
+ball,2,6.1,Brisbane Heat,M Bryant,BM Duckett,Mohammad Nabi,0,0,,,,,,"",""
+ball,2,6.2,Brisbane Heat,M Bryant,BM Duckett,Mohammad Nabi,1,0,,,,,,"",""
+ball,2,6.3,Brisbane Heat,BM Duckett,M Bryant,Mohammad Nabi,0,0,,,,,,"",""
+ball,2,6.4,Brisbane Heat,BM Duckett,M Bryant,Mohammad Nabi,1,0,,,,,,"",""
+ball,2,6.5,Brisbane Heat,M Bryant,BM Duckett,Mohammad Nabi,0,0,,,,,,caught,M Bryant
+ball,2,6.6,Brisbane Heat,SD Heazlett,BM Duckett,Mohammad Nabi,1,0,,,,,,"",""
+ball,2,7.1,Brisbane Heat,SD Heazlett,BM Duckett,Zahir Khan,1,0,,,,,,"",""
+ball,2,7.2,Brisbane Heat,BM Duckett,SD Heazlett,Zahir Khan,0,0,,,,,,lbw,BM Duckett
+ball,2,7.3,Brisbane Heat,TB Abell,SD Heazlett,Zahir Khan,0,0,,,,,,"",""
+ball,2,7.4,Brisbane Heat,TB Abell,SD Heazlett,Zahir Khan,0,0,,,,,,"",""
+ball,2,7.5,Brisbane Heat,TB Abell,SD Heazlett,Zahir Khan,0,1,1,,,,,"",""
+ball,2,7.6,Brisbane Heat,TB Abell,SD Heazlett,Zahir Khan,1,0,,,,,,"",""
+ball,2,7.7,Brisbane Heat,SD Heazlett,TB Abell,Zahir Khan,1,0,,,,,,"",""
+ball,2,8.1,Brisbane Heat,SD Heazlett,TB Abell,Mohammad Nabi,1,0,,,,,,"",""
+ball,2,8.2,Brisbane Heat,TB Abell,SD Heazlett,Mohammad Nabi,1,0,,,,,,"",""
+ball,2,8.3,Brisbane Heat,SD Heazlett,TB Abell,Mohammad Nabi,6,0,,,,,,"",""
+ball,2,8.4,Brisbane Heat,SD Heazlett,TB Abell,Mohammad Nabi,1,0,,,,,,"",""
+ball,2,8.5,Brisbane Heat,TB Abell,SD Heazlett,Mohammad Nabi,1,0,,,,,,"",""
+ball,2,8.6,Brisbane Heat,SD Heazlett,TB Abell,Mohammad Nabi,1,0,,,,,,"",""
+ball,2,9.1,Brisbane Heat,SD Heazlett,TB Abell,JA Prestwidge,0,0,,,,,,"",""
+ball,2,9.2,Brisbane Heat,SD Heazlett,TB Abell,JA Prestwidge,1,0,,,,,,"",""
+ball,2,9.3,Brisbane Heat,TB Abell,SD Heazlett,JA Prestwidge,0,0,,,,,,"",""
+ball,2,9.4,Brisbane Heat,TB Abell,SD Heazlett,JA Prestwidge,1,0,,,,,,"",""
+ball,2,9.5,Brisbane Heat,SD Heazlett,TB Abell,JA Prestwidge,1,0,,,,,,"",""
+ball,2,9.6,Brisbane Heat,TB Abell,SD Heazlett,JA Prestwidge,0,0,,,,,,"",""
+ball,2,10.1,Brisbane Heat,SD Heazlett,TB Abell,RJW Topley,0,0,,,,,,"",""
+ball,2,10.2,Brisbane Heat,SD Heazlett,TB Abell,RJW Topley,1,0,,,,,,"",""
+ball,2,10.3,Brisbane Heat,TB Abell,SD Heazlett,RJW Topley,1,0,,,,,,"",""
+ball,2,10.4,Brisbane Heat,SD Heazlett,TB Abell,RJW Topley,0,0,,,,,,"",""
+ball,2,10.5,Brisbane Heat,SD Heazlett,TB Abell,RJW Topley,1,0,,,,,,"",""
+ball,2,10.6,Brisbane Heat,TB Abell,SD Heazlett,RJW Topley,1,0,,,,,,"",""
+ball,2,11.1,Brisbane Heat,TB Abell,SD Heazlett,JA Prestwidge,1,0,,,,,,"",""
+ball,2,11.2,Brisbane Heat,SD Heazlett,TB Abell,JA Prestwidge,1,0,,,,,,"",""
+ball,2,11.3,Brisbane Heat,TB Abell,SD Heazlett,JA Prestwidge,2,0,,,,,,"",""
+ball,2,11.4,Brisbane Heat,TB Abell,SD Heazlett,JA Prestwidge,0,0,,,,,,caught,TB Abell
+ball,2,11.5,Brisbane Heat,SD Heazlett,JJ Peirson,JA Prestwidge,6,0,,,,,,"",""
+ball,2,11.6,Brisbane Heat,SD Heazlett,JJ Peirson,JA Prestwidge,2,0,,,,,,"",""
+ball,2,12.1,Brisbane Heat,JJ Peirson,SD Heazlett,Zahir Khan,1,0,,,,,,"",""
+ball,2,12.2,Brisbane Heat,SD Heazlett,JJ Peirson,Zahir Khan,1,0,,,,,,"",""
+ball,2,12.3,Brisbane Heat,JJ Peirson,SD Heazlett,Zahir Khan,1,0,,,,,,"",""
+ball,2,12.4,Brisbane Heat,SD Heazlett,JJ Peirson,Zahir Khan,1,0,,,,,,"",""
+ball,2,12.5,Brisbane Heat,JJ Peirson,SD Heazlett,Zahir Khan,0,0,,,,,,"",""
+ball,2,12.6,Brisbane Heat,JJ Peirson,SD Heazlett,Zahir Khan,2,0,,,,,,"",""
+ball,2,13.1,Brisbane Heat,SD Heazlett,JJ Peirson,KW Richardson,1,0,,,,,,"",""
+ball,2,13.2,Brisbane Heat,JJ Peirson,SD Heazlett,KW Richardson,0,0,,,,,,caught,JJ Peirson
+ball,2,13.3,Brisbane Heat,JJ Bazley,SD Heazlett,KW Richardson,0,0,,,,,,"",""
+ball,2,13.4,Brisbane Heat,JJ Bazley,SD Heazlett,KW Richardson,1,0,,,,,,"",""
+ball,2,13.5,Brisbane Heat,SD Heazlett,JJ Bazley,KW Richardson,1,0,,,,,,"",""
+ball,2,13.6,Brisbane Heat,JJ Bazley,SD Heazlett,KW Richardson,1,0,,,,,,"",""
+ball,2,14.1,Brisbane Heat,JJ Bazley,SD Heazlett,Mohammad Nabi,1,0,,,,,,"",""
+ball,2,14.2,Brisbane Heat,SD Heazlett,JJ Bazley,Mohammad Nabi,1,0,,,,,,"",""
+ball,2,14.3,Brisbane Heat,JJ Bazley,SD Heazlett,Mohammad Nabi,1,0,,,,,,"",""
+ball,2,14.4,Brisbane Heat,SD Heazlett,JJ Bazley,Mohammad Nabi,1,0,,,,,,"",""
+ball,2,14.5,Brisbane Heat,JJ Bazley,SD Heazlett,Mohammad Nabi,0,0,,,,,,"",""
+ball,2,14.6,Brisbane Heat,JJ Bazley,SD Heazlett,Mohammad Nabi,1,0,,,,,,"",""
+ball,2,15.1,Brisbane Heat,JJ Bazley,SD Heazlett,KW Richardson,1,0,,,,,,"",""
+ball,2,15.2,Brisbane Heat,SD Heazlett,JJ Bazley,KW Richardson,6,0,,,,,,"",""
+ball,2,15.3,Brisbane Heat,SD Heazlett,JJ Bazley,KW Richardson,0,0,,,,,,"",""
+ball,2,15.4,Brisbane Heat,SD Heazlett,JJ Bazley,KW Richardson,0,0,,,,,,"",""
+ball,2,15.5,Brisbane Heat,SD Heazlett,JJ Bazley,KW Richardson,4,0,,,,,,"",""
+ball,2,15.6,Brisbane Heat,SD Heazlett,JJ Bazley,KW Richardson,2,0,,,,,,"",""
+ball,2,16.1,Brisbane Heat,JJ Bazley,SD Heazlett,RJW Topley,4,0,,,,,,"",""
+ball,2,16.2,Brisbane Heat,JJ Bazley,SD Heazlett,RJW Topley,6,0,,,,,,"",""
+ball,2,16.3,Brisbane Heat,JJ Bazley,SD Heazlett,RJW Topley,0,1,,,,1,,"",""
+ball,2,16.4,Brisbane Heat,SD Heazlett,JJ Bazley,RJW Topley,1,0,,,,,,"",""
+ball,2,16.5,Brisbane Heat,JJ Bazley,SD Heazlett,RJW Topley,0,1,,,,1,,"",""

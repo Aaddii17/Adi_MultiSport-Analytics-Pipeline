@@ -1,0 +1,285 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Brisbane Heat
+info,team,Melbourne Stars
+info,gender,male
+info,season,2021/22
+info,date,2022/01/16
+info,event,Big Bash League
+info,match_number,50
+info,venue,Melbourne Cricket Ground
+info,city,Melbourne
+info,toss_winner,Brisbane Heat
+info,toss_decision,bat
+info,player_of_match,GJ Maxwell
+info,umpire,SAJ Craig
+info,umpire,AK Wilds
+info,reserve_umpire,Steven Farrell
+info,tv_umpire,SA Lightbody
+info,match_referee,SJ Davis
+info,winner,Melbourne Stars
+info,winner_wickets,8
+info,player,Brisbane Heat,NA McSweeney
+info,player,Brisbane Heat,CA Lynn
+info,player,Brisbane Heat,BM Duckett
+info,player,Brisbane Heat,LD Pfeffer
+info,player,Brisbane Heat,SD Heazlett
+info,player,Brisbane Heat,JJ Peirson
+info,player,Brisbane Heat,JJ Bazley
+info,player,Brisbane Heat,MG Neser
+info,player,Brisbane Heat,MT Steketee
+info,player,Brisbane Heat,MP Kuhnemann
+info,player,Brisbane Heat,MJ Swepson
+info,player,Melbourne Stars,BL Couch
+info,player,Melbourne Stars,JM Clarke
+info,player,Melbourne Stars,GJ Maxwell
+info,player,Melbourne Stars,HWR Cartwright
+info,player,Melbourne Stars,MP Stoinis
+info,player,Melbourne Stars,BJ Webster
+info,player,Melbourne Stars,JA Burns
+info,player,Melbourne Stars,NM Coulter-Nile
+info,player,Melbourne Stars,Ahmed Daniyal
+info,player,Melbourne Stars,SL Rainbird
+info,player,Melbourne Stars,A Zampa
+info,player,Melbourne Stars,NCR Larkin
+info,registry,people,A Zampa,14f96089
+info,registry,people,AK Wilds,de412f40
+info,registry,people,Ahmed Daniyal,9656afbf
+info,registry,people,BJ Webster,56b93d46
+info,registry,people,BL Couch,be69e09d
+info,registry,people,BM Duckett,5f26f677
+info,registry,people,CA Lynn,45eda7c8
+info,registry,people,GJ Maxwell,b681e71e
+info,registry,people,HWR Cartwright,ab965cad
+info,registry,people,JA Burns,7a5f232a
+info,registry,people,JJ Bazley,003d49e6
+info,registry,people,JJ Peirson,2b55c3b4
+info,registry,people,JM Clarke,2eca67f5
+info,registry,people,LD Pfeffer,dd86ec0b
+info,registry,people,MG Neser,0164b064
+info,registry,people,MJ Swepson,86b4bf88
+info,registry,people,MP Kuhnemann,7b953689
+info,registry,people,MP Stoinis,d9273ee7
+info,registry,people,MT Steketee,903560ed
+info,registry,people,NA McSweeney,e94d2d50
+info,registry,people,NCR Larkin,02bce9a8
+info,registry,people,NM Coulter-Nile,56ab442f
+info,registry,people,SA Lightbody,680b8cbf
+info,registry,people,SAJ Craig,689f2eed
+info,registry,people,SD Heazlett,e00a9155
+info,registry,people,SJ Davis,bc71b0b2
+info,registry,people,SL Rainbird,e7dd5eca
+info,registry,people,Steven Farrell,512226fb
+ball,1,0.1,Brisbane Heat,NA McSweeney,CA Lynn,SL Rainbird,1,0,,,,,,"",""
+ball,1,0.2,Brisbane Heat,CA Lynn,NA McSweeney,SL Rainbird,0,0,,,,,,"",""
+ball,1,0.3,Brisbane Heat,CA Lynn,NA McSweeney,SL Rainbird,6,0,,,,,,"",""
+ball,1,0.4,Brisbane Heat,CA Lynn,NA McSweeney,SL Rainbird,0,0,,,,,,"",""
+ball,1,0.5,Brisbane Heat,CA Lynn,NA McSweeney,SL Rainbird,3,0,,,,,,"",""
+ball,1,0.6,Brisbane Heat,NA McSweeney,CA Lynn,SL Rainbird,0,0,,,,,,"",""
+ball,1,1.1,Brisbane Heat,CA Lynn,NA McSweeney,A Zampa,1,0,,,,,,"",""
+ball,1,1.2,Brisbane Heat,NA McSweeney,CA Lynn,A Zampa,0,0,,,,,,"",""
+ball,1,1.3,Brisbane Heat,NA McSweeney,CA Lynn,A Zampa,0,0,,,,,,"",""
+ball,1,1.4,Brisbane Heat,NA McSweeney,CA Lynn,A Zampa,1,0,,,,,,"",""
+ball,1,1.5,Brisbane Heat,CA Lynn,NA McSweeney,A Zampa,0,0,,,,,,"",""
+ball,1,1.6,Brisbane Heat,CA Lynn,NA McSweeney,A Zampa,1,0,,,,,,"",""
+ball,1,2.1,Brisbane Heat,CA Lynn,NA McSweeney,Ahmed Daniyal,0,0,,,,,,"",""
+ball,1,2.2,Brisbane Heat,CA Lynn,NA McSweeney,Ahmed Daniyal,1,0,,,,,,"",""
+ball,1,2.3,Brisbane Heat,NA McSweeney,CA Lynn,Ahmed Daniyal,2,0,,,,,,"",""
+ball,1,2.4,Brisbane Heat,NA McSweeney,CA Lynn,Ahmed Daniyal,0,0,,,,,,"",""
+ball,1,2.5,Brisbane Heat,NA McSweeney,CA Lynn,Ahmed Daniyal,0,1,1,,,,,"",""
+ball,1,2.6,Brisbane Heat,NA McSweeney,CA Lynn,Ahmed Daniyal,4,0,,,,,,"",""
+ball,1,2.7,Brisbane Heat,NA McSweeney,CA Lynn,Ahmed Daniyal,0,0,,,,,,"",""
+ball,1,3.1,Brisbane Heat,CA Lynn,NA McSweeney,BL Couch,4,0,,,,,,"",""
+ball,1,3.2,Brisbane Heat,CA Lynn,NA McSweeney,BL Couch,0,0,,,,,,"",""
+ball,1,3.3,Brisbane Heat,CA Lynn,NA McSweeney,BL Couch,4,0,,,,,,"",""
+ball,1,3.4,Brisbane Heat,CA Lynn,NA McSweeney,BL Couch,1,0,,,,,,"",""
+ball,1,3.5,Brisbane Heat,NA McSweeney,CA Lynn,BL Couch,1,0,,,,,,"",""
+ball,1,3.6,Brisbane Heat,CA Lynn,NA McSweeney,BL Couch,2,0,,,,,,"",""
+ball,1,4.1,Brisbane Heat,NA McSweeney,CA Lynn,A Zampa,1,0,,,,,,"",""
+ball,1,4.2,Brisbane Heat,CA Lynn,NA McSweeney,A Zampa,0,0,,,,,,"",""
+ball,1,4.3,Brisbane Heat,CA Lynn,NA McSweeney,A Zampa,1,0,,,,,,"",""
+ball,1,4.4,Brisbane Heat,NA McSweeney,CA Lynn,A Zampa,2,0,,,,,,"",""
+ball,1,4.5,Brisbane Heat,NA McSweeney,CA Lynn,A Zampa,1,0,,,,,,"",""
+ball,1,4.6,Brisbane Heat,CA Lynn,NA McSweeney,A Zampa,0,1,,1,,,,"",""
+ball,1,4.7,Brisbane Heat,CA Lynn,NA McSweeney,A Zampa,0,0,,,,,,"",""
+ball,1,5.1,Brisbane Heat,NA McSweeney,CA Lynn,NM Coulter-Nile,0,0,,,,,,"",""
+ball,1,5.2,Brisbane Heat,NA McSweeney,CA Lynn,NM Coulter-Nile,4,0,,,,,,"",""
+ball,1,5.3,Brisbane Heat,NA McSweeney,CA Lynn,NM Coulter-Nile,0,1,1,,,,,"",""
+ball,1,5.4,Brisbane Heat,NA McSweeney,CA Lynn,NM Coulter-Nile,1,0,,,,,,"",""
+ball,1,5.5,Brisbane Heat,CA Lynn,NA McSweeney,NM Coulter-Nile,2,0,,,,,,"",""
+ball,1,5.6,Brisbane Heat,CA Lynn,NA McSweeney,NM Coulter-Nile,1,0,,,,,,"",""
+ball,1,5.7,Brisbane Heat,NA McSweeney,CA Lynn,NM Coulter-Nile,0,0,,,,,,"",""
+ball,1,6.1,Brisbane Heat,CA Lynn,NA McSweeney,GJ Maxwell,1,0,,,,,,"",""
+ball,1,6.2,Brisbane Heat,NA McSweeney,CA Lynn,GJ Maxwell,1,0,,,,,,"",""
+ball,1,6.3,Brisbane Heat,CA Lynn,NA McSweeney,GJ Maxwell,0,0,,,,,,caught,CA Lynn
+ball,1,6.4,Brisbane Heat,NA McSweeney,BM Duckett,GJ Maxwell,1,0,,,,,,"",""
+ball,1,6.5,Brisbane Heat,BM Duckett,NA McSweeney,GJ Maxwell,0,0,,,,,,"",""
+ball,1,6.6,Brisbane Heat,BM Duckett,NA McSweeney,GJ Maxwell,1,0,,,,,,"",""
+ball,1,7.1,Brisbane Heat,BM Duckett,NA McSweeney,Ahmed Daniyal,1,0,,,,,,"",""
+ball,1,7.2,Brisbane Heat,NA McSweeney,BM Duckett,Ahmed Daniyal,0,0,,,,,,lbw,NA McSweeney
+ball,1,7.3,Brisbane Heat,LD Pfeffer,BM Duckett,Ahmed Daniyal,0,0,,,,,,"",""
+ball,1,7.4,Brisbane Heat,LD Pfeffer,BM Duckett,Ahmed Daniyal,0,0,,,,,,"",""
+ball,1,7.5,Brisbane Heat,LD Pfeffer,BM Duckett,Ahmed Daniyal,1,0,,,,,,"",""
+ball,1,7.6,Brisbane Heat,BM Duckett,LD Pfeffer,Ahmed Daniyal,1,0,,,,,,"",""
+ball,1,8.1,Brisbane Heat,BM Duckett,LD Pfeffer,GJ Maxwell,0,0,,,,,,"",""
+ball,1,8.2,Brisbane Heat,BM Duckett,LD Pfeffer,GJ Maxwell,1,0,,,,,,"",""
+ball,1,8.3,Brisbane Heat,LD Pfeffer,BM Duckett,GJ Maxwell,1,0,,,,,,"",""
+ball,1,8.4,Brisbane Heat,BM Duckett,LD Pfeffer,GJ Maxwell,0,0,,,,,,"",""
+ball,1,8.5,Brisbane Heat,BM Duckett,LD Pfeffer,GJ Maxwell,1,0,,,,,,"",""
+ball,1,8.6,Brisbane Heat,LD Pfeffer,BM Duckett,GJ Maxwell,1,0,,,,,,"",""
+ball,1,9.1,Brisbane Heat,LD Pfeffer,BM Duckett,BJ Webster,1,0,,,,,,"",""
+ball,1,9.2,Brisbane Heat,BM Duckett,LD Pfeffer,BJ Webster,1,0,,,,,,"",""
+ball,1,9.3,Brisbane Heat,LD Pfeffer,BM Duckett,BJ Webster,1,0,,,,,,"",""
+ball,1,9.4,Brisbane Heat,BM Duckett,LD Pfeffer,BJ Webster,0,0,,,,,,"",""
+ball,1,9.5,Brisbane Heat,BM Duckett,LD Pfeffer,BJ Webster,4,0,,,,,,"",""
+ball,1,9.6,Brisbane Heat,BM Duckett,LD Pfeffer,BJ Webster,1,0,,,,,,"",""
+ball,1,10.1,Brisbane Heat,BM Duckett,LD Pfeffer,GJ Maxwell,1,0,,,,,,"",""
+ball,1,10.2,Brisbane Heat,LD Pfeffer,BM Duckett,GJ Maxwell,4,0,,,,,,"",""
+ball,1,10.3,Brisbane Heat,LD Pfeffer,BM Duckett,GJ Maxwell,0,0,,,,,,"",""
+ball,1,10.4,Brisbane Heat,LD Pfeffer,BM Duckett,GJ Maxwell,1,0,,,,,,"",""
+ball,1,10.5,Brisbane Heat,BM Duckett,LD Pfeffer,GJ Maxwell,0,0,,,,,,"",""
+ball,1,10.6,Brisbane Heat,BM Duckett,LD Pfeffer,GJ Maxwell,1,0,,,,,,"",""
+ball,1,11.1,Brisbane Heat,BM Duckett,LD Pfeffer,NM Coulter-Nile,2,0,,,,,,"",""
+ball,1,11.2,Brisbane Heat,BM Duckett,LD Pfeffer,NM Coulter-Nile,0,0,,,,,,"",""
+ball,1,11.3,Brisbane Heat,BM Duckett,LD Pfeffer,NM Coulter-Nile,0,0,,,,,,"",""
+ball,1,11.4,Brisbane Heat,BM Duckett,LD Pfeffer,NM Coulter-Nile,4,0,,,,,,"",""
+ball,1,11.5,Brisbane Heat,BM Duckett,LD Pfeffer,NM Coulter-Nile,1,0,,,,,,"",""
+ball,1,11.6,Brisbane Heat,LD Pfeffer,BM Duckett,NM Coulter-Nile,1,0,,,,,,"",""
+ball,1,12.1,Brisbane Heat,LD Pfeffer,BM Duckett,GJ Maxwell,0,0,,,,,,"",""
+ball,1,12.2,Brisbane Heat,LD Pfeffer,BM Duckett,GJ Maxwell,0,0,,,,,,"",""
+ball,1,12.3,Brisbane Heat,LD Pfeffer,BM Duckett,GJ Maxwell,0,0,,,,,,caught,LD Pfeffer
+ball,1,12.4,Brisbane Heat,SD Heazlett,BM Duckett,GJ Maxwell,1,0,,,,,,"",""
+ball,1,12.5,Brisbane Heat,BM Duckett,SD Heazlett,GJ Maxwell,2,0,,,,,,"",""
+ball,1,12.6,Brisbane Heat,BM Duckett,SD Heazlett,GJ Maxwell,1,0,,,,,,"",""
+ball,1,13.1,Brisbane Heat,BM Duckett,SD Heazlett,BJ Webster,1,0,,,,,,"",""
+ball,1,13.2,Brisbane Heat,SD Heazlett,BM Duckett,BJ Webster,1,0,,,,,,"",""
+ball,1,13.3,Brisbane Heat,BM Duckett,SD Heazlett,BJ Webster,1,0,,,,,,"",""
+ball,1,13.4,Brisbane Heat,SD Heazlett,BM Duckett,BJ Webster,1,0,,,,,,"",""
+ball,1,13.5,Brisbane Heat,BM Duckett,SD Heazlett,BJ Webster,0,0,,,,,,"",""
+ball,1,13.6,Brisbane Heat,BM Duckett,SD Heazlett,BJ Webster,0,0,,,,,,"",""
+ball,1,14.1,Brisbane Heat,SD Heazlett,BM Duckett,SL Rainbird,4,0,,,,,,"",""
+ball,1,14.2,Brisbane Heat,SD Heazlett,BM Duckett,SL Rainbird,0,0,,,,,,"",""
+ball,1,14.3,Brisbane Heat,SD Heazlett,BM Duckett,SL Rainbird,1,0,,,,,,"",""
+ball,1,14.4,Brisbane Heat,BM Duckett,SD Heazlett,SL Rainbird,0,0,,,,,,"",""
+ball,1,14.5,Brisbane Heat,BM Duckett,SD Heazlett,SL Rainbird,2,0,,,,,,"",""
+ball,1,14.6,Brisbane Heat,BM Duckett,SD Heazlett,SL Rainbird,2,0,,,,,,"",""
+ball,1,15.1,Brisbane Heat,SD Heazlett,BM Duckett,NM Coulter-Nile,1,0,,,,,,"",""
+ball,1,15.2,Brisbane Heat,BM Duckett,SD Heazlett,NM Coulter-Nile,0,0,,,,,,"",""
+ball,1,15.3,Brisbane Heat,BM Duckett,SD Heazlett,NM Coulter-Nile,2,0,,,,,,"",""
+ball,1,15.4,Brisbane Heat,BM Duckett,SD Heazlett,NM Coulter-Nile,1,0,,,,,,"",""
+ball,1,15.5,Brisbane Heat,SD Heazlett,BM Duckett,NM Coulter-Nile,0,0,,,,,,caught,SD Heazlett
+ball,1,15.6,Brisbane Heat,BM Duckett,JJ Peirson,NM Coulter-Nile,1,0,,,,,,"",""
+ball,1,16.1,Brisbane Heat,BM Duckett,JJ Peirson,Ahmed Daniyal,6,0,,,,,,"",""
+ball,1,16.2,Brisbane Heat,BM Duckett,JJ Peirson,Ahmed Daniyal,6,0,,,,,,"",""
+ball,1,16.3,Brisbane Heat,BM Duckett,JJ Peirson,Ahmed Daniyal,4,0,,,,,,"",""
+ball,1,16.4,Brisbane Heat,BM Duckett,JJ Peirson,Ahmed Daniyal,1,0,,,,,,"",""
+ball,1,16.5,Brisbane Heat,JJ Peirson,BM Duckett,Ahmed Daniyal,0,1,1,,,,,"",""
+ball,1,16.6,Brisbane Heat,JJ Peirson,BM Duckett,Ahmed Daniyal,1,0,,,,,,"",""
+ball,1,16.7,Brisbane Heat,BM Duckett,JJ Peirson,Ahmed Daniyal,0,0,,,,,,"",""
+ball,1,17.1,Brisbane Heat,JJ Peirson,BM Duckett,A Zampa,1,0,,,,,,"",""
+ball,1,17.2,Brisbane Heat,BM Duckett,JJ Peirson,A Zampa,0,4,,,,4,,"",""
+ball,1,17.3,Brisbane Heat,BM Duckett,JJ Peirson,A Zampa,0,0,,,,,,"",""
+ball,1,17.4,Brisbane Heat,BM Duckett,JJ Peirson,A Zampa,1,0,,,,,,"",""
+ball,1,17.5,Brisbane Heat,JJ Peirson,BM Duckett,A Zampa,1,0,,,,,,"",""
+ball,1,17.6,Brisbane Heat,BM Duckett,JJ Peirson,A Zampa,0,0,,,,,,bowled,BM Duckett
+ball,1,18.1,Brisbane Heat,JJ Peirson,JJ Bazley,NM Coulter-Nile,1,0,,,,,,"",""
+ball,1,18.2,Brisbane Heat,JJ Bazley,JJ Peirson,NM Coulter-Nile,1,0,,,,,,"",""
+ball,1,18.3,Brisbane Heat,JJ Peirson,JJ Bazley,NM Coulter-Nile,1,0,,,,,,"",""
+ball,1,18.4,Brisbane Heat,JJ Bazley,JJ Peirson,NM Coulter-Nile,1,0,,,,,,"",""
+ball,1,18.5,Brisbane Heat,JJ Peirson,JJ Bazley,NM Coulter-Nile,0,1,1,,,,,"",""
+ball,1,18.6,Brisbane Heat,JJ Peirson,JJ Bazley,NM Coulter-Nile,4,0,,,,,,"",""
+ball,1,18.7,Brisbane Heat,JJ Peirson,JJ Bazley,NM Coulter-Nile,1,0,,,,,,"",""
+ball,1,19.1,Brisbane Heat,JJ Peirson,JJ Bazley,A Zampa,0,1,,,,1,,"",""
+ball,1,19.2,Brisbane Heat,JJ Bazley,JJ Peirson,A Zampa,1,0,,,,,,"",""
+ball,1,19.3,Brisbane Heat,JJ Peirson,JJ Bazley,A Zampa,1,0,,,,,,"",""
+ball,1,19.4,Brisbane Heat,JJ Bazley,JJ Peirson,A Zampa,2,0,,,,,,"",""
+ball,1,19.5,Brisbane Heat,JJ Bazley,JJ Peirson,A Zampa,0,0,,,,,,caught,JJ Bazley
+ball,1,19.6,Brisbane Heat,JJ Peirson,MG Neser,A Zampa,4,0,,,,,,"",""
+ball,2,0.1,Melbourne Stars,JM Clarke,GJ Maxwell,MG Neser,0,1,1,,,,,"",""
+ball,2,0.2,Melbourne Stars,JM Clarke,GJ Maxwell,MG Neser,4,0,,,,,,"",""
+ball,2,0.3,Melbourne Stars,JM Clarke,GJ Maxwell,MG Neser,0,1,1,,,,,"",""
+ball,2,0.4,Melbourne Stars,JM Clarke,GJ Maxwell,MG Neser,0,0,,,,,,"",""
+ball,2,0.5,Melbourne Stars,JM Clarke,GJ Maxwell,MG Neser,1,0,,,,,,"",""
+ball,2,0.6,Melbourne Stars,GJ Maxwell,JM Clarke,MG Neser,0,0,,,,,,"",""
+ball,2,0.7,Melbourne Stars,GJ Maxwell,JM Clarke,MG Neser,2,0,,,,,,"",""
+ball,2,0.8,Melbourne Stars,GJ Maxwell,JM Clarke,MG Neser,1,0,,,,,,"",""
+ball,2,1.1,Melbourne Stars,GJ Maxwell,JM Clarke,MT Steketee,4,0,,,,,,"",""
+ball,2,1.2,Melbourne Stars,GJ Maxwell,JM Clarke,MT Steketee,4,0,,,,,,"",""
+ball,2,1.3,Melbourne Stars,GJ Maxwell,JM Clarke,MT Steketee,2,0,,,,,,"",""
+ball,2,1.4,Melbourne Stars,GJ Maxwell,JM Clarke,MT Steketee,3,0,,,,,,"",""
+ball,2,1.5,Melbourne Stars,JM Clarke,GJ Maxwell,MT Steketee,0,0,,,,,,"",""
+ball,2,1.6,Melbourne Stars,JM Clarke,GJ Maxwell,MT Steketee,1,0,,,,,,"",""
+ball,2,2.1,Melbourne Stars,JM Clarke,GJ Maxwell,JJ Bazley,0,0,,,,,,"",""
+ball,2,2.2,Melbourne Stars,JM Clarke,GJ Maxwell,JJ Bazley,6,0,,,,,,"",""
+ball,2,2.3,Melbourne Stars,JM Clarke,GJ Maxwell,JJ Bazley,4,0,,,,,,"",""
+ball,2,2.4,Melbourne Stars,JM Clarke,GJ Maxwell,JJ Bazley,1,0,,,,,,"",""
+ball,2,2.5,Melbourne Stars,GJ Maxwell,JM Clarke,JJ Bazley,0,0,,,,,,"",""
+ball,2,2.6,Melbourne Stars,GJ Maxwell,JM Clarke,JJ Bazley,0,0,,,,,,"",""
+ball,2,3.1,Melbourne Stars,JM Clarke,GJ Maxwell,MT Steketee,4,0,,,,,,"",""
+ball,2,3.2,Melbourne Stars,JM Clarke,GJ Maxwell,MT Steketee,0,0,,,,,,"",""
+ball,2,3.3,Melbourne Stars,JM Clarke,GJ Maxwell,MT Steketee,4,0,,,,,,"",""
+ball,2,3.4,Melbourne Stars,JM Clarke,GJ Maxwell,MT Steketee,0,0,,,,,,"",""
+ball,2,3.5,Melbourne Stars,JM Clarke,GJ Maxwell,MT Steketee,4,0,,,,,,"",""
+ball,2,3.6,Melbourne Stars,JM Clarke,GJ Maxwell,MT Steketee,1,0,,,,,,"",""
+ball,2,4.1,Melbourne Stars,JM Clarke,GJ Maxwell,MJ Swepson,1,0,,,,,,"",""
+ball,2,4.2,Melbourne Stars,JM Clarke,GJ Maxwell,MJ Swepson,1,0,,,,,,"",""
+ball,2,4.3,Melbourne Stars,GJ Maxwell,JM Clarke,MJ Swepson,0,1,,,,1,,"",""
+ball,2,4.4,Melbourne Stars,JM Clarke,GJ Maxwell,MJ Swepson,1,0,,,,,,"",""
+ball,2,4.5,Melbourne Stars,GJ Maxwell,JM Clarke,MJ Swepson,0,0,,,,,,"",""
+ball,2,4.6,Melbourne Stars,GJ Maxwell,JM Clarke,MJ Swepson,1,0,,,,,,"",""
+ball,2,5.1,Melbourne Stars,GJ Maxwell,JM Clarke,MG Neser,1,0,,,,,,"",""
+ball,2,5.2,Melbourne Stars,JM Clarke,GJ Maxwell,MG Neser,1,0,,,,,,"",""
+ball,2,5.3,Melbourne Stars,GJ Maxwell,JM Clarke,MG Neser,4,0,,,,,,"",""
+ball,2,5.4,Melbourne Stars,GJ Maxwell,JM Clarke,MG Neser,2,0,,,,,,"",""
+ball,2,5.5,Melbourne Stars,GJ Maxwell,JM Clarke,MG Neser,1,0,,,,,,"",""
+ball,2,5.6,Melbourne Stars,JM Clarke,GJ Maxwell,MG Neser,2,0,,,,,,"",""
+ball,2,6.1,Melbourne Stars,GJ Maxwell,JM Clarke,MJ Swepson,1,0,,,,,,"",""
+ball,2,6.2,Melbourne Stars,JM Clarke,GJ Maxwell,MJ Swepson,4,0,,,,,,"",""
+ball,2,6.3,Melbourne Stars,JM Clarke,GJ Maxwell,MJ Swepson,1,0,,,,,,"",""
+ball,2,6.4,Melbourne Stars,GJ Maxwell,JM Clarke,MJ Swepson,0,0,,,,,,"",""
+ball,2,6.5,Melbourne Stars,GJ Maxwell,JM Clarke,MJ Swepson,1,0,,,,,,"",""
+ball,2,6.6,Melbourne Stars,JM Clarke,GJ Maxwell,MJ Swepson,4,0,,,,,,"",""
+ball,2,7.1,Melbourne Stars,GJ Maxwell,JM Clarke,JJ Bazley,1,0,,,,,,"",""
+ball,2,7.2,Melbourne Stars,JM Clarke,GJ Maxwell,JJ Bazley,1,0,,,,,,"",""
+ball,2,7.3,Melbourne Stars,GJ Maxwell,JM Clarke,JJ Bazley,0,0,,,,,,"",""
+ball,2,7.4,Melbourne Stars,GJ Maxwell,JM Clarke,JJ Bazley,0,1,1,,,,,"",""
+ball,2,7.5,Melbourne Stars,GJ Maxwell,JM Clarke,JJ Bazley,1,0,,,,,,"",""
+ball,2,7.6,Melbourne Stars,JM Clarke,GJ Maxwell,JJ Bazley,1,0,,,,,,"",""
+ball,2,7.7,Melbourne Stars,GJ Maxwell,JM Clarke,JJ Bazley,1,0,,,,,,"",""
+ball,2,8.1,Melbourne Stars,GJ Maxwell,JM Clarke,MP Kuhnemann,4,0,,,,,,"",""
+ball,2,8.2,Melbourne Stars,GJ Maxwell,JM Clarke,MP Kuhnemann,0,0,,,,,,"",""
+ball,2,8.3,Melbourne Stars,GJ Maxwell,JM Clarke,MP Kuhnemann,1,0,,,,,,"",""
+ball,2,8.4,Melbourne Stars,JM Clarke,GJ Maxwell,MP Kuhnemann,1,0,,,,,,"",""
+ball,2,8.5,Melbourne Stars,GJ Maxwell,JM Clarke,MP Kuhnemann,1,0,,,,,,"",""
+ball,2,8.6,Melbourne Stars,JM Clarke,GJ Maxwell,MP Kuhnemann,0,0,,,,,,"",""
+ball,2,9.1,Melbourne Stars,GJ Maxwell,JM Clarke,MG Neser,1,0,,,,,,"",""
+ball,2,9.2,Melbourne Stars,JM Clarke,GJ Maxwell,MG Neser,2,0,,,,,,"",""
+ball,2,9.3,Melbourne Stars,JM Clarke,GJ Maxwell,MG Neser,2,0,,,,,,"",""
+ball,2,9.4,Melbourne Stars,JM Clarke,GJ Maxwell,MG Neser,0,0,,,,,,"",""
+ball,2,9.5,Melbourne Stars,JM Clarke,GJ Maxwell,MG Neser,1,0,,,,,,"",""
+ball,2,9.6,Melbourne Stars,GJ Maxwell,JM Clarke,MG Neser,0,0,,,,,,"",""
+ball,2,10.1,Melbourne Stars,JM Clarke,GJ Maxwell,MT Steketee,4,0,,,,,,"",""
+ball,2,10.2,Melbourne Stars,JM Clarke,GJ Maxwell,MT Steketee,0,1,1,,,,,"",""
+ball,2,10.3,Melbourne Stars,JM Clarke,GJ Maxwell,MT Steketee,4,0,,,,,,"",""
+ball,2,10.4,Melbourne Stars,JM Clarke,GJ Maxwell,MT Steketee,1,0,,,,,,"",""
+ball,2,10.5,Melbourne Stars,GJ Maxwell,JM Clarke,MT Steketee,0,0,,,,,,caught,GJ Maxwell
+ball,2,10.6,Melbourne Stars,HWR Cartwright,JM Clarke,MT Steketee,6,0,,,,,,"",""
+ball,2,10.7,Melbourne Stars,HWR Cartwright,JM Clarke,MT Steketee,0,0,,,,,,"",""
+ball,2,11.1,Melbourne Stars,JM Clarke,HWR Cartwright,JJ Bazley,0,0,,,,,,"",""
+ball,2,11.2,Melbourne Stars,JM Clarke,HWR Cartwright,JJ Bazley,0,0,,,,,,caught,JM Clarke
+ball,2,11.3,Melbourne Stars,HWR Cartwright,MP Stoinis,JJ Bazley,1,0,,,,,,"",""
+ball,2,11.4,Melbourne Stars,MP Stoinis,HWR Cartwright,JJ Bazley,1,0,,,,,,"",""
+ball,2,11.5,Melbourne Stars,HWR Cartwright,MP Stoinis,JJ Bazley,1,0,,,,,,"",""
+ball,2,11.6,Melbourne Stars,MP Stoinis,HWR Cartwright,JJ Bazley,0,1,1,,,,,"",""
+ball,2,11.7,Melbourne Stars,MP Stoinis,HWR Cartwright,JJ Bazley,0,0,,,,,,"",""
+ball,2,12.1,Melbourne Stars,HWR Cartwright,MP Stoinis,MJ Swepson,6,0,,,,,,"",""
+ball,2,12.2,Melbourne Stars,HWR Cartwright,MP Stoinis,MJ Swepson,1,0,,,,,,"",""
+ball,2,12.3,Melbourne Stars,MP Stoinis,HWR Cartwright,MJ Swepson,6,0,,,,,,"",""
+ball,2,12.4,Melbourne Stars,MP Stoinis,HWR Cartwright,MJ Swepson,2,0,,,,,,"",""
+ball,2,12.5,Melbourne Stars,MP Stoinis,HWR Cartwright,MJ Swepson,6,0,,,,,,"",""
+ball,2,12.6,Melbourne Stars,MP Stoinis,HWR Cartwright,MJ Swepson,2,0,,,,,,"",""
+ball,2,13.1,Melbourne Stars,HWR Cartwright,MP Stoinis,JJ Bazley,1,0,,,,,,"",""
+ball,2,13.2,Melbourne Stars,MP Stoinis,HWR Cartwright,JJ Bazley,4,0,,,,,,"",""
+ball,2,13.3,Melbourne Stars,MP Stoinis,HWR Cartwright,JJ Bazley,0,0,,,,,,"",""
+ball,2,13.4,Melbourne Stars,MP Stoinis,HWR Cartwright,JJ Bazley,2,0,,,,,,"",""
+ball,2,13.5,Melbourne Stars,MP Stoinis,HWR Cartwright,JJ Bazley,6,0,,,,,,"",""

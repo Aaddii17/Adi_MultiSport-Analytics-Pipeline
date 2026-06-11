@@ -1,0 +1,301 @@
+version,1.6.0
+info,balls_per_over,6
+info,team,Adelaide Strikers
+info,team,Melbourne Renegades
+info,gender,male
+info,season,2011/12
+info,date,2011/12/18
+info,event,Big Bash League
+info,venue,Adelaide Oval
+info,city,
+info,toss_winner,Melbourne Renegades
+info,toss_decision,field
+info,player_of_match,M Klinger
+info,umpire,AJ Barrow
+info,umpire,BNJ Oxenford
+info,tv_umpire,PR Reiffel
+info,match_referee,RW Stratford
+info,winner,Adelaide Strikers
+info,winner_runs,67
+info,player,Adelaide Strikers,DJ Harris
+info,player,Adelaide Strikers,M Klinger
+info,player,Adelaide Strikers,CJ Ferguson
+info,player,Adelaide Strikers,AC Blizzard
+info,player,Adelaide Strikers,AJ Crosthwaite
+info,player,Adelaide Strikers,CJ Borgas
+info,player,Adelaide Strikers,J Botha
+info,player,Adelaide Strikers,KW Richardson
+info,player,Adelaide Strikers,AW O'Brien
+info,player,Adelaide Strikers,AC Thomas
+info,player,Adelaide Strikers,NM Lyon
+info,player,Melbourne Renegades,AJ Finch
+info,player,Melbourne Renegades,MJ Buchanan
+info,player,Melbourne Renegades,GJ Maxwell
+info,player,Melbourne Renegades,Shahid Afridi
+info,player,Melbourne Renegades,AB McDonald
+info,player,Melbourne Renegades,NJ Reardon
+info,player,Melbourne Renegades,Abdul Razzaq
+info,player,Melbourne Renegades,GA Manou
+info,player,Melbourne Renegades,AK Heal
+info,player,Melbourne Renegades,DP Nannes
+info,player,Melbourne Renegades,SW Tait
+info,registry,people,AB McDonald,16043342
+info,registry,people,AC Blizzard,1efb8a28
+info,registry,people,AC Thomas,b552a935
+info,registry,people,AJ Barrow,a67aa9df
+info,registry,people,AJ Crosthwaite,0c8836b6
+info,registry,people,AJ Finch,b8d490fd
+info,registry,people,AK Heal,78ba5d1b
+info,registry,people,AW O'Brien,d29be810
+info,registry,people,Abdul Razzaq,390ff45b
+info,registry,people,BNJ Oxenford,c1add349
+info,registry,people,CJ Borgas,d901964b
+info,registry,people,CJ Ferguson,9b4935c8
+info,registry,people,DJ Harris,39f82db3
+info,registry,people,DP Nannes,c404f58a
+info,registry,people,GA Manou,f58839ad
+info,registry,people,GJ Maxwell,b681e71e
+info,registry,people,J Botha,7c503806
+info,registry,people,KW Richardson,dfc4d8b5
+info,registry,people,M Klinger,b970a03f
+info,registry,people,MJ Buchanan,1e0d5c4d
+info,registry,people,NJ Reardon,c7bdb5b5
+info,registry,people,NM Lyon,96a6a7ad
+info,registry,people,PR Reiffel,c9354f29
+info,registry,people,RW Stratford,85489579
+info,registry,people,SW Tait,addfb70e
+info,registry,people,Shahid Afridi,0dc00542
+ball,1,0.1,Adelaide Strikers,DJ Harris,M Klinger,SW Tait,0,0,,,,,,"",""
+ball,1,0.2,Adelaide Strikers,DJ Harris,M Klinger,SW Tait,0,1,1,,,,,"",""
+ball,1,0.3,Adelaide Strikers,DJ Harris,M Klinger,SW Tait,0,0,,,,,,"",""
+ball,1,0.4,Adelaide Strikers,DJ Harris,M Klinger,SW Tait,6,0,,,,,,"",""
+ball,1,0.5,Adelaide Strikers,DJ Harris,M Klinger,SW Tait,1,0,,,,,,"",""
+ball,1,0.6,Adelaide Strikers,M Klinger,DJ Harris,SW Tait,4,0,,,,,,"",""
+ball,1,0.7,Adelaide Strikers,M Klinger,DJ Harris,SW Tait,1,0,,,,,,"",""
+ball,1,1.1,Adelaide Strikers,M Klinger,DJ Harris,DP Nannes,0,0,,,,,,"",""
+ball,1,1.2,Adelaide Strikers,M Klinger,DJ Harris,DP Nannes,1,0,,,,,,"",""
+ball,1,1.3,Adelaide Strikers,DJ Harris,M Klinger,DP Nannes,4,0,,,,,,"",""
+ball,1,1.4,Adelaide Strikers,DJ Harris,M Klinger,DP Nannes,1,0,,,,,,"",""
+ball,1,1.5,Adelaide Strikers,M Klinger,DJ Harris,DP Nannes,4,0,,,,,,"",""
+ball,1,1.6,Adelaide Strikers,M Klinger,DJ Harris,DP Nannes,0,0,,,,,,"",""
+ball,1,2.1,Adelaide Strikers,DJ Harris,M Klinger,GJ Maxwell,1,0,,,,,,"",""
+ball,1,2.2,Adelaide Strikers,M Klinger,DJ Harris,GJ Maxwell,0,0,,,,,,"",""
+ball,1,2.3,Adelaide Strikers,M Klinger,DJ Harris,GJ Maxwell,0,1,,,,1,,"",""
+ball,1,2.4,Adelaide Strikers,DJ Harris,M Klinger,GJ Maxwell,0,0,,,,,,"",""
+ball,1,2.5,Adelaide Strikers,DJ Harris,M Klinger,GJ Maxwell,1,0,,,,,,"",""
+ball,1,2.6,Adelaide Strikers,M Klinger,DJ Harris,GJ Maxwell,1,0,,,,,,"",""
+ball,1,3.1,Adelaide Strikers,M Klinger,DJ Harris,Abdul Razzaq,0,0,,,,,,"",""
+ball,1,3.2,Adelaide Strikers,M Klinger,DJ Harris,Abdul Razzaq,6,0,,,,,,"",""
+ball,1,3.3,Adelaide Strikers,M Klinger,DJ Harris,Abdul Razzaq,2,0,,,,,,"",""
+ball,1,3.4,Adelaide Strikers,M Klinger,DJ Harris,Abdul Razzaq,1,0,,,,,,"",""
+ball,1,3.5,Adelaide Strikers,DJ Harris,M Klinger,Abdul Razzaq,0,0,,,,,,"",""
+ball,1,3.6,Adelaide Strikers,DJ Harris,M Klinger,Abdul Razzaq,0,0,,,,,,"",""
+ball,1,4.1,Adelaide Strikers,M Klinger,DJ Harris,GJ Maxwell,0,0,,,,,,"",""
+ball,1,4.2,Adelaide Strikers,M Klinger,DJ Harris,GJ Maxwell,2,0,,,,,,"",""
+ball,1,4.3,Adelaide Strikers,M Klinger,DJ Harris,GJ Maxwell,3,0,,,,,,"",""
+ball,1,4.4,Adelaide Strikers,DJ Harris,M Klinger,GJ Maxwell,0,0,,,,,,"",""
+ball,1,4.5,Adelaide Strikers,DJ Harris,M Klinger,GJ Maxwell,4,0,,,,,,"",""
+ball,1,4.6,Adelaide Strikers,DJ Harris,M Klinger,GJ Maxwell,4,0,,,,,,"",""
+ball,1,5.1,Adelaide Strikers,M Klinger,DJ Harris,Abdul Razzaq,4,0,,,,,,"",""
+ball,1,5.2,Adelaide Strikers,M Klinger,DJ Harris,Abdul Razzaq,0,0,,,,,,"",""
+ball,1,5.3,Adelaide Strikers,M Klinger,DJ Harris,Abdul Razzaq,1,0,,,,,,"",""
+ball,1,5.4,Adelaide Strikers,DJ Harris,M Klinger,Abdul Razzaq,0,0,,,,,,"",""
+ball,1,5.5,Adelaide Strikers,DJ Harris,M Klinger,Abdul Razzaq,1,0,,,,,,"",""
+ball,1,5.6,Adelaide Strikers,M Klinger,DJ Harris,Abdul Razzaq,0,0,,,,,,"",""
+ball,1,6.1,Adelaide Strikers,DJ Harris,M Klinger,Shahid Afridi,4,0,,,,,,"",""
+ball,1,6.2,Adelaide Strikers,DJ Harris,M Klinger,Shahid Afridi,0,0,,,,,,"",""
+ball,1,6.3,Adelaide Strikers,DJ Harris,M Klinger,Shahid Afridi,1,0,,,,,,"",""
+ball,1,6.4,Adelaide Strikers,M Klinger,DJ Harris,Shahid Afridi,1,0,,,,,,"",""
+ball,1,6.5,Adelaide Strikers,DJ Harris,M Klinger,Shahid Afridi,0,0,,,,,,"",""
+ball,1,6.6,Adelaide Strikers,DJ Harris,M Klinger,Shahid Afridi,1,0,,,,,,"",""
+ball,1,7.1,Adelaide Strikers,DJ Harris,M Klinger,AK Heal,0,0,,,,,,"",""
+ball,1,7.2,Adelaide Strikers,DJ Harris,M Klinger,AK Heal,2,0,,,,,,"",""
+ball,1,7.3,Adelaide Strikers,DJ Harris,M Klinger,AK Heal,6,0,,,,,,"",""
+ball,1,7.4,Adelaide Strikers,DJ Harris,M Klinger,AK Heal,1,0,,,,,,"",""
+ball,1,7.5,Adelaide Strikers,M Klinger,DJ Harris,AK Heal,0,0,,,,,,"",""
+ball,1,7.6,Adelaide Strikers,M Klinger,DJ Harris,AK Heal,0,0,,,,,,"",""
+ball,1,8.1,Adelaide Strikers,DJ Harris,M Klinger,Shahid Afridi,1,0,,,,,,"",""
+ball,1,8.2,Adelaide Strikers,M Klinger,DJ Harris,Shahid Afridi,1,0,,,,,,"",""
+ball,1,8.3,Adelaide Strikers,DJ Harris,M Klinger,Shahid Afridi,1,0,,,,,,"",""
+ball,1,8.4,Adelaide Strikers,M Klinger,DJ Harris,Shahid Afridi,2,0,,,,,,"",""
+ball,1,8.5,Adelaide Strikers,M Klinger,DJ Harris,Shahid Afridi,1,0,,,,,,"",""
+ball,1,8.6,Adelaide Strikers,DJ Harris,M Klinger,Shahid Afridi,1,0,,,,,,"",""
+ball,1,9.1,Adelaide Strikers,DJ Harris,M Klinger,AK Heal,0,0,,,,,,"",""
+ball,1,9.2,Adelaide Strikers,DJ Harris,M Klinger,AK Heal,4,0,,,,,,"",""
+ball,1,9.3,Adelaide Strikers,DJ Harris,M Klinger,AK Heal,2,0,,,,,,"",""
+ball,1,9.4,Adelaide Strikers,DJ Harris,M Klinger,AK Heal,2,0,,,,,,"",""
+ball,1,9.5,Adelaide Strikers,DJ Harris,M Klinger,AK Heal,0,0,,,,,,caught,DJ Harris
+ball,1,9.6,Adelaide Strikers,CJ Ferguson,M Klinger,AK Heal,0,0,,,,,,"",""
+ball,1,10.1,Adelaide Strikers,M Klinger,CJ Ferguson,AB McDonald,4,0,,,,,,"",""
+ball,1,10.2,Adelaide Strikers,M Klinger,CJ Ferguson,AB McDonald,2,0,,,,,,"",""
+ball,1,10.3,Adelaide Strikers,M Klinger,CJ Ferguson,AB McDonald,0,0,,,,,,"",""
+ball,1,10.4,Adelaide Strikers,M Klinger,CJ Ferguson,AB McDonald,2,0,,,,,,"",""
+ball,1,10.5,Adelaide Strikers,M Klinger,CJ Ferguson,AB McDonald,0,0,,,,,,"",""
+ball,1,10.6,Adelaide Strikers,M Klinger,CJ Ferguson,AB McDonald,1,0,,,,,,"",""
+ball,1,11.1,Adelaide Strikers,M Klinger,CJ Ferguson,AK Heal,2,0,,,,,,"",""
+ball,1,11.2,Adelaide Strikers,M Klinger,CJ Ferguson,AK Heal,0,0,,,,,,"",""
+ball,1,11.3,Adelaide Strikers,M Klinger,CJ Ferguson,AK Heal,0,0,,,,,,caught,M Klinger
+ball,1,11.4,Adelaide Strikers,CJ Ferguson,AC Blizzard,AK Heal,2,0,,,,,,"",""
+ball,1,11.5,Adelaide Strikers,CJ Ferguson,AC Blizzard,AK Heal,1,0,,,,,,"",""
+ball,1,11.6,Adelaide Strikers,AC Blizzard,CJ Ferguson,AK Heal,1,0,,,,,,"",""
+ball,1,12.1,Adelaide Strikers,AC Blizzard,CJ Ferguson,Shahid Afridi,1,0,,,,,,"",""
+ball,1,12.2,Adelaide Strikers,CJ Ferguson,AC Blizzard,Shahid Afridi,1,0,,,,,,"",""
+ball,1,12.3,Adelaide Strikers,AC Blizzard,CJ Ferguson,Shahid Afridi,1,0,,,,,,"",""
+ball,1,12.4,Adelaide Strikers,CJ Ferguson,AC Blizzard,Shahid Afridi,0,0,,,,,,"",""
+ball,1,12.5,Adelaide Strikers,CJ Ferguson,AC Blizzard,Shahid Afridi,0,0,,,,,,"",""
+ball,1,12.6,Adelaide Strikers,CJ Ferguson,AC Blizzard,Shahid Afridi,1,0,,,,,,"",""
+ball,1,13.1,Adelaide Strikers,CJ Ferguson,AC Blizzard,AK Heal,0,0,,,,,,"",""
+ball,1,13.2,Adelaide Strikers,CJ Ferguson,AC Blizzard,AK Heal,0,0,,,,,,"",""
+ball,1,13.3,Adelaide Strikers,CJ Ferguson,AC Blizzard,AK Heal,1,0,,,,,,"",""
+ball,1,13.4,Adelaide Strikers,AC Blizzard,CJ Ferguson,AK Heal,2,0,,,,,,"",""
+ball,1,13.5,Adelaide Strikers,AC Blizzard,CJ Ferguson,AK Heal,6,0,,,,,,"",""
+ball,1,13.6,Adelaide Strikers,AC Blizzard,CJ Ferguson,AK Heal,0,0,,,,,,"",""
+ball,1,14.1,Adelaide Strikers,CJ Ferguson,AC Blizzard,Shahid Afridi,1,0,,,,,,"",""
+ball,1,14.2,Adelaide Strikers,AC Blizzard,CJ Ferguson,Shahid Afridi,1,0,,,,,,"",""
+ball,1,14.3,Adelaide Strikers,CJ Ferguson,AC Blizzard,Shahid Afridi,1,0,,,,,,"",""
+ball,1,14.4,Adelaide Strikers,AC Blizzard,CJ Ferguson,Shahid Afridi,1,0,,,,,,"",""
+ball,1,14.5,Adelaide Strikers,CJ Ferguson,AC Blizzard,Shahid Afridi,1,0,,,,,,"",""
+ball,1,14.6,Adelaide Strikers,AC Blizzard,CJ Ferguson,Shahid Afridi,4,0,,,,,,"",""
+ball,1,15.1,Adelaide Strikers,CJ Ferguson,AC Blizzard,DP Nannes,1,0,,,,,,"",""
+ball,1,15.2,Adelaide Strikers,AC Blizzard,CJ Ferguson,DP Nannes,4,0,,,,,,"",""
+ball,1,15.3,Adelaide Strikers,AC Blizzard,CJ Ferguson,DP Nannes,6,0,,,,,,"",""
+ball,1,15.4,Adelaide Strikers,AC Blizzard,CJ Ferguson,DP Nannes,0,0,,,,,,"",""
+ball,1,15.5,Adelaide Strikers,AC Blizzard,CJ Ferguson,DP Nannes,0,0,,,,,,"",""
+ball,1,15.6,Adelaide Strikers,AC Blizzard,CJ Ferguson,DP Nannes,1,0,,,,,,"",""
+ball,1,16.1,Adelaide Strikers,AC Blizzard,CJ Ferguson,SW Tait,0,0,,,,,,"",""
+ball,1,16.2,Adelaide Strikers,AC Blizzard,CJ Ferguson,SW Tait,2,0,,,,,,"",""
+ball,1,16.3,Adelaide Strikers,AC Blizzard,CJ Ferguson,SW Tait,0,0,,,,,,"",""
+ball,1,16.4,Adelaide Strikers,AC Blizzard,CJ Ferguson,SW Tait,0,0,,,,,,caught,AC Blizzard
+ball,1,16.5,Adelaide Strikers,AJ Crosthwaite,CJ Ferguson,SW Tait,0,0,,,,,,"",""
+ball,1,16.6,Adelaide Strikers,AJ Crosthwaite,CJ Ferguson,SW Tait,1,0,,,,,,"",""
+ball,1,17.1,Adelaide Strikers,AJ Crosthwaite,CJ Ferguson,DP Nannes,2,0,,,,,,"",""
+ball,1,17.2,Adelaide Strikers,AJ Crosthwaite,CJ Ferguson,DP Nannes,6,0,,,,,,"",""
+ball,1,17.3,Adelaide Strikers,AJ Crosthwaite,CJ Ferguson,DP Nannes,6,0,,,,,,"",""
+ball,1,17.4,Adelaide Strikers,AJ Crosthwaite,CJ Ferguson,DP Nannes,0,0,,,,,,caught,AJ Crosthwaite
+ball,1,17.5,Adelaide Strikers,CJ Ferguson,CJ Borgas,DP Nannes,1,0,,,,,,"",""
+ball,1,17.6,Adelaide Strikers,CJ Borgas,CJ Ferguson,DP Nannes,1,0,,,,,,"",""
+ball,1,18.1,Adelaide Strikers,CJ Borgas,CJ Ferguson,SW Tait,6,0,,,,,,"",""
+ball,1,18.2,Adelaide Strikers,CJ Borgas,CJ Ferguson,SW Tait,6,0,,,,,,"",""
+ball,1,18.3,Adelaide Strikers,CJ Borgas,CJ Ferguson,SW Tait,0,1,1,,,,,"",""
+ball,1,18.4,Adelaide Strikers,CJ Borgas,CJ Ferguson,SW Tait,4,0,,,,,,"",""
+ball,1,18.5,Adelaide Strikers,CJ Borgas,CJ Ferguson,SW Tait,2,0,,,,,,"",""
+ball,1,18.6,Adelaide Strikers,CJ Borgas,CJ Ferguson,SW Tait,4,0,,,,,,"",""
+ball,1,18.7,Adelaide Strikers,CJ Borgas,CJ Ferguson,SW Tait,2,0,,,,,,"",""
+ball,1,19.1,Adelaide Strikers,CJ Ferguson,CJ Borgas,Abdul Razzaq,2,0,,,,,,"",""
+ball,1,19.2,Adelaide Strikers,CJ Ferguson,CJ Borgas,Abdul Razzaq,3,0,,,,,,"",""
+ball,1,19.3,Adelaide Strikers,CJ Borgas,CJ Ferguson,Abdul Razzaq,1,0,,,,,,"",""
+ball,1,19.4,Adelaide Strikers,CJ Ferguson,CJ Borgas,Abdul Razzaq,2,0,,,,,,"",""
+ball,1,19.5,Adelaide Strikers,CJ Ferguson,CJ Borgas,Abdul Razzaq,0,0,,,,,,caught,CJ Ferguson
+ball,1,19.6,Adelaide Strikers,CJ Borgas,J Botha,Abdul Razzaq,2,0,,,,,,"",""
+ball,2,0.1,Melbourne Renegades,AJ Finch,MJ Buchanan,AC Thomas,0,0,,,,,,"",""
+ball,2,0.2,Melbourne Renegades,AJ Finch,MJ Buchanan,AC Thomas,4,0,,,,,,"",""
+ball,2,0.3,Melbourne Renegades,AJ Finch,MJ Buchanan,AC Thomas,0,1,,,1,,,"",""
+ball,2,0.4,Melbourne Renegades,MJ Buchanan,AJ Finch,AC Thomas,0,0,,,,,,"",""
+ball,2,0.5,Melbourne Renegades,MJ Buchanan,AJ Finch,AC Thomas,0,0,,,,,,"",""
+ball,2,0.6,Melbourne Renegades,MJ Buchanan,AJ Finch,AC Thomas,0,1,1,,,,,"",""
+ball,2,0.7,Melbourne Renegades,MJ Buchanan,AJ Finch,AC Thomas,0,0,,,,,,"",""
+ball,2,1.1,Melbourne Renegades,AJ Finch,MJ Buchanan,AW O'Brien,0,1,1,,,,,"",""
+ball,2,1.2,Melbourne Renegades,AJ Finch,MJ Buchanan,AW O'Brien,0,0,,,,,,"",""
+ball,2,1.3,Melbourne Renegades,AJ Finch,MJ Buchanan,AW O'Brien,0,0,,,,,,"",""
+ball,2,1.4,Melbourne Renegades,AJ Finch,MJ Buchanan,AW O'Brien,0,0,,,,,,caught,AJ Finch
+ball,2,1.5,Melbourne Renegades,MJ Buchanan,GJ Maxwell,AW O'Brien,2,0,,,,,,"",""
+ball,2,1.6,Melbourne Renegades,MJ Buchanan,GJ Maxwell,AW O'Brien,1,0,,,,,,"",""
+ball,2,1.7,Melbourne Renegades,GJ Maxwell,MJ Buchanan,AW O'Brien,0,0,,,,,,"",""
+ball,2,2.1,Melbourne Renegades,MJ Buchanan,GJ Maxwell,AC Thomas,0,0,,,,,,"",""
+ball,2,2.2,Melbourne Renegades,MJ Buchanan,GJ Maxwell,AC Thomas,0,0,,,,,,"",""
+ball,2,2.3,Melbourne Renegades,MJ Buchanan,GJ Maxwell,AC Thomas,0,0,,,,,,"",""
+ball,2,2.4,Melbourne Renegades,MJ Buchanan,GJ Maxwell,AC Thomas,0,0,,,,,,"",""
+ball,2,2.5,Melbourne Renegades,MJ Buchanan,GJ Maxwell,AC Thomas,4,0,,,,,,"",""
+ball,2,2.6,Melbourne Renegades,MJ Buchanan,GJ Maxwell,AC Thomas,1,0,,,,,,"",""
+ball,2,3.1,Melbourne Renegades,MJ Buchanan,GJ Maxwell,J Botha,1,0,,,,,,"",""
+ball,2,3.2,Melbourne Renegades,GJ Maxwell,MJ Buchanan,J Botha,0,1,,,,1,,"",""
+ball,2,3.3,Melbourne Renegades,MJ Buchanan,GJ Maxwell,J Botha,0,0,,,,,,"",""
+ball,2,3.4,Melbourne Renegades,MJ Buchanan,GJ Maxwell,J Botha,1,0,,,,,,"",""
+ball,2,3.5,Melbourne Renegades,GJ Maxwell,MJ Buchanan,J Botha,0,0,,,,,,"",""
+ball,2,3.6,Melbourne Renegades,GJ Maxwell,MJ Buchanan,J Botha,2,0,,,,,,"",""
+ball,2,4.1,Melbourne Renegades,MJ Buchanan,GJ Maxwell,KW Richardson,0,0,,,,,,"",""
+ball,2,4.2,Melbourne Renegades,MJ Buchanan,GJ Maxwell,KW Richardson,0,0,,,,,,"",""
+ball,2,4.3,Melbourne Renegades,MJ Buchanan,GJ Maxwell,KW Richardson,1,0,,,,,,run out,MJ Buchanan
+ball,2,4.4,Melbourne Renegades,GJ Maxwell,Shahid Afridi,KW Richardson,0,0,,,,,,"",""
+ball,2,4.5,Melbourne Renegades,GJ Maxwell,Shahid Afridi,KW Richardson,1,0,,,,,,"",""
+ball,2,4.6,Melbourne Renegades,Shahid Afridi,GJ Maxwell,KW Richardson,1,0,,,,,,"",""
+ball,2,5.1,Melbourne Renegades,Shahid Afridi,GJ Maxwell,AW O'Brien,2,0,,,,,,"",""
+ball,2,5.2,Melbourne Renegades,Shahid Afridi,GJ Maxwell,AW O'Brien,4,0,,,,,,"",""
+ball,2,5.3,Melbourne Renegades,Shahid Afridi,GJ Maxwell,AW O'Brien,0,0,,,,,,"",""
+ball,2,5.4,Melbourne Renegades,Shahid Afridi,GJ Maxwell,AW O'Brien,1,0,,,,,,"",""
+ball,2,5.5,Melbourne Renegades,GJ Maxwell,Shahid Afridi,AW O'Brien,4,0,,,,,,"",""
+ball,2,5.6,Melbourne Renegades,GJ Maxwell,Shahid Afridi,AW O'Brien,1,0,,,,,,"",""
+ball,2,6.1,Melbourne Renegades,GJ Maxwell,Shahid Afridi,KW Richardson,0,0,,,,,,"",""
+ball,2,6.2,Melbourne Renegades,GJ Maxwell,Shahid Afridi,KW Richardson,1,0,,,,,,"",""
+ball,2,6.3,Melbourne Renegades,Shahid Afridi,GJ Maxwell,KW Richardson,1,0,,,,,,"",""
+ball,2,6.4,Melbourne Renegades,GJ Maxwell,Shahid Afridi,KW Richardson,1,0,,,,,,"",""
+ball,2,6.5,Melbourne Renegades,Shahid Afridi,GJ Maxwell,KW Richardson,0,0,,,,,,caught,Shahid Afridi
+ball,2,6.6,Melbourne Renegades,GJ Maxwell,AB McDonald,KW Richardson,4,0,,,,,,"",""
+ball,2,7.1,Melbourne Renegades,AB McDonald,GJ Maxwell,NM Lyon,1,0,,,,,,"",""
+ball,2,7.2,Melbourne Renegades,GJ Maxwell,AB McDonald,NM Lyon,0,0,,,,,,"",""
+ball,2,7.3,Melbourne Renegades,GJ Maxwell,AB McDonald,NM Lyon,6,0,,,,,,"",""
+ball,2,7.4,Melbourne Renegades,GJ Maxwell,AB McDonald,NM Lyon,1,0,,,,,,"",""
+ball,2,7.5,Melbourne Renegades,AB McDonald,GJ Maxwell,NM Lyon,0,0,,,,,,"",""
+ball,2,7.6,Melbourne Renegades,AB McDonald,GJ Maxwell,NM Lyon,0,0,,,,,,"",""
+ball,2,8.1,Melbourne Renegades,GJ Maxwell,AB McDonald,AW O'Brien,1,0,,,,,,"",""
+ball,2,8.2,Melbourne Renegades,AB McDonald,GJ Maxwell,AW O'Brien,0,0,,,,,,"",""
+ball,2,8.3,Melbourne Renegades,AB McDonald,GJ Maxwell,AW O'Brien,2,0,,,,,,"",""
+ball,2,8.4,Melbourne Renegades,AB McDonald,GJ Maxwell,AW O'Brien,1,0,,,,,,"",""
+ball,2,8.5,Melbourne Renegades,GJ Maxwell,AB McDonald,AW O'Brien,0,1,1,,,,,"",""
+ball,2,8.6,Melbourne Renegades,GJ Maxwell,AB McDonald,AW O'Brien,2,0,,,,,,"",""
+ball,2,8.7,Melbourne Renegades,GJ Maxwell,AB McDonald,AW O'Brien,1,0,,,,,,"",""
+ball,2,9.1,Melbourne Renegades,GJ Maxwell,AB McDonald,J Botha,1,0,,,,,,"",""
+ball,2,9.2,Melbourne Renegades,AB McDonald,GJ Maxwell,J Botha,0,0,,,,,,"",""
+ball,2,9.3,Melbourne Renegades,AB McDonald,GJ Maxwell,J Botha,0,0,,,,,,"",""
+ball,2,9.4,Melbourne Renegades,AB McDonald,GJ Maxwell,J Botha,1,0,,,,,,"",""
+ball,2,9.5,Melbourne Renegades,GJ Maxwell,AB McDonald,J Botha,1,0,,,,,,"",""
+ball,2,9.6,Melbourne Renegades,AB McDonald,GJ Maxwell,J Botha,1,0,,,,,,"",""
+ball,2,10.1,Melbourne Renegades,AB McDonald,GJ Maxwell,KW Richardson,0,1,1,,,,,"",""
+ball,2,10.2,Melbourne Renegades,AB McDonald,GJ Maxwell,KW Richardson,2,0,,,,,,"",""
+ball,2,10.3,Melbourne Renegades,AB McDonald,GJ Maxwell,KW Richardson,1,0,,,,,,"",""
+ball,2,10.4,Melbourne Renegades,GJ Maxwell,AB McDonald,KW Richardson,4,0,,,,,,"",""
+ball,2,10.5,Melbourne Renegades,GJ Maxwell,AB McDonald,KW Richardson,0,0,,,,,,"",""
+ball,2,10.6,Melbourne Renegades,GJ Maxwell,AB McDonald,KW Richardson,1,0,,,,,,"",""
+ball,2,10.7,Melbourne Renegades,AB McDonald,GJ Maxwell,KW Richardson,3,0,,,,,,"",""
+ball,2,11.1,Melbourne Renegades,AB McDonald,GJ Maxwell,NM Lyon,0,0,,,,,,"",""
+ball,2,11.2,Melbourne Renegades,AB McDonald,GJ Maxwell,NM Lyon,0,0,,,,,,"",""
+ball,2,11.3,Melbourne Renegades,AB McDonald,GJ Maxwell,NM Lyon,1,0,,,,,,"",""
+ball,2,11.4,Melbourne Renegades,GJ Maxwell,AB McDonald,NM Lyon,4,0,,,,,,"",""
+ball,2,11.5,Melbourne Renegades,GJ Maxwell,AB McDonald,NM Lyon,4,0,,,,,,"",""
+ball,2,11.6,Melbourne Renegades,GJ Maxwell,AB McDonald,NM Lyon,1,0,,,,,,"",""
+ball,2,12.1,Melbourne Renegades,GJ Maxwell,AB McDonald,AC Thomas,1,0,,,,,,"",""
+ball,2,12.2,Melbourne Renegades,AB McDonald,GJ Maxwell,AC Thomas,0,0,,,,,,"",""
+ball,2,12.3,Melbourne Renegades,AB McDonald,GJ Maxwell,AC Thomas,1,0,,,,,,"",""
+ball,2,12.4,Melbourne Renegades,GJ Maxwell,AB McDonald,AC Thomas,1,0,,,,,,"",""
+ball,2,12.5,Melbourne Renegades,AB McDonald,GJ Maxwell,AC Thomas,1,0,,,,,,"",""
+ball,2,12.6,Melbourne Renegades,GJ Maxwell,AB McDonald,AC Thomas,1,0,,,,,,"",""
+ball,2,13.1,Melbourne Renegades,GJ Maxwell,AB McDonald,J Botha,2,0,,,,,,"",""
+ball,2,13.2,Melbourne Renegades,GJ Maxwell,AB McDonald,J Botha,0,0,,,,,,caught,GJ Maxwell
+ball,2,13.3,Melbourne Renegades,AB McDonald,NJ Reardon,J Botha,2,0,,,,,,"",""
+ball,2,13.4,Melbourne Renegades,AB McDonald,NJ Reardon,J Botha,1,0,,,,,,"",""
+ball,2,13.5,Melbourne Renegades,NJ Reardon,AB McDonald,J Botha,1,0,,,,,,"",""
+ball,2,13.6,Melbourne Renegades,AB McDonald,NJ Reardon,J Botha,1,0,,,,,,"",""
+ball,2,14.1,Melbourne Renegades,AB McDonald,NJ Reardon,AW O'Brien,1,0,,,,,,"",""
+ball,2,14.2,Melbourne Renegades,NJ Reardon,AB McDonald,AW O'Brien,1,0,,,,,,"",""
+ball,2,14.3,Melbourne Renegades,AB McDonald,NJ Reardon,AW O'Brien,6,0,,,,,,"",""
+ball,2,14.4,Melbourne Renegades,AB McDonald,NJ Reardon,AW O'Brien,1,0,,,,,,"",""
+ball,2,14.5,Melbourne Renegades,NJ Reardon,AB McDonald,AW O'Brien,0,0,,,,,,caught,NJ Reardon
+ball,2,14.6,Melbourne Renegades,AB McDonald,Abdul Razzaq,AW O'Brien,1,0,,,,,,"",""
+ball,2,15.1,Melbourne Renegades,AB McDonald,Abdul Razzaq,NM Lyon,4,0,,,,,,"",""
+ball,2,15.2,Melbourne Renegades,AB McDonald,Abdul Razzaq,NM Lyon,1,0,,,,,,"",""
+ball,2,15.3,Melbourne Renegades,Abdul Razzaq,AB McDonald,NM Lyon,1,0,,,,,,"",""
+ball,2,15.4,Melbourne Renegades,AB McDonald,Abdul Razzaq,NM Lyon,1,0,,,,,,"",""
+ball,2,15.5,Melbourne Renegades,Abdul Razzaq,AB McDonald,NM Lyon,0,0,,,,,,caught,Abdul Razzaq
+ball,2,15.6,Melbourne Renegades,AB McDonald,GA Manou,NM Lyon,1,0,,,,,,"",""
+ball,2,16.1,Melbourne Renegades,AB McDonald,GA Manou,KW Richardson,0,0,,,,,,caught,AB McDonald
+ball,2,16.2,Melbourne Renegades,AK Heal,GA Manou,KW Richardson,1,0,,,,,,"",""
+ball,2,16.3,Melbourne Renegades,GA Manou,AK Heal,KW Richardson,1,0,,,,,,"",""
+ball,2,16.4,Melbourne Renegades,AK Heal,GA Manou,KW Richardson,0,1,1,,,,,"",""
+ball,2,16.5,Melbourne Renegades,AK Heal,GA Manou,KW Richardson,0,0,,,,,,caught,AK Heal
+ball,2,16.6,Melbourne Renegades,DP Nannes,GA Manou,KW Richardson,1,0,,,,,,"",""
+ball,2,16.7,Melbourne Renegades,GA Manou,DP Nannes,KW Richardson,1,0,,,,,,"",""
+ball,2,17.1,Melbourne Renegades,GA Manou,DP Nannes,J Botha,1,0,,,,,,"",""
+ball,2,17.2,Melbourne Renegades,DP Nannes,GA Manou,J Botha,1,0,,,,,,"",""
+ball,2,17.3,Melbourne Renegades,GA Manou,DP Nannes,J Botha,0,0,,,,,,run out,DP Nannes
+ball,2,17.4,Melbourne Renegades,GA Manou,SW Tait,J Botha,1,0,,,,,,"",""
+ball,2,17.5,Melbourne Renegades,SW Tait,GA Manou,J Botha,0,0,,,,,,stumped,SW Tait

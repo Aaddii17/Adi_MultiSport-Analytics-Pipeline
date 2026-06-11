@@ -1,0 +1,357 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Zimbabwe
+info,team,Bangladesh
+info,gender,female
+info,season,2021/22
+info,date,2021/11/15
+info,event,Bangladesh Women in Zimbabwe ODI Series
+info,match_number,3
+info,venue,"Queens Sports Club, Bulawayo"
+info,city,Bulawayo
+info,toss_winner,Zimbabwe
+info,toss_decision,bat
+info,player_of_match,Nahida Akter
+info,umpire,P Sizara
+info,umpire,S Gogwe
+info,reserve_umpire,T Musakwa
+info,match_referee,ET Dube
+info,winner,Bangladesh
+info,winner_wickets,7
+info,player,Zimbabwe,M Mupachikwa
+info,player,Zimbabwe,SM Mayers
+info,player,Zimbabwe,A Ndiraya
+info,player,Zimbabwe,M Musonda
+info,player,Zimbabwe,C Chatonzwa
+info,player,Zimbabwe,J Nkomo
+info,player,Zimbabwe,T Granger
+info,player,Zimbabwe,L Phiri
+info,player,Zimbabwe,E Mbofana
+info,player,Zimbabwe,N Sibanda
+info,player,Zimbabwe,F Chipare
+info,player,Bangladesh,Murshida Khatun
+info,player,Bangladesh,Nuzhat Tasnia
+info,player,Bangladesh,Nigar Sultana
+info,player,Bangladesh,S Mostary
+info,player,Bangladesh,Fargana Hoque
+info,player,Bangladesh,Rumana Ahmed
+info,player,Bangladesh,Lata Mondal
+info,player,Bangladesh,Fahima Khatun
+info,player,Bangladesh,Nahida Akter
+info,player,Bangladesh,Khadija Tul Kubra
+info,player,Bangladesh,Fariha Trisna
+info,registry,people,A Ndiraya,c8e6bddd
+info,registry,people,C Chatonzwa,da61a9af
+info,registry,people,E Mbofana,657da2f4
+info,registry,people,ET Dube,4c0891bc
+info,registry,people,F Chipare,c0dc015b
+info,registry,people,Fahima Khatun,558cdd64
+info,registry,people,Fargana Hoque,6e96c956
+info,registry,people,Fariha Trisna,7b51bfa4
+info,registry,people,J Nkomo,36dfa62e
+info,registry,people,Khadija Tul Kubra,bec997fc
+info,registry,people,L Phiri,cca8bdca
+info,registry,people,Lata Mondal,5bf87532
+info,registry,people,M Mupachikwa,6657b319
+info,registry,people,M Musonda,94b52754
+info,registry,people,Murshida Khatun,712bbd92
+info,registry,people,N Sibanda,edf62a25
+info,registry,people,Nahida Akter,66078174
+info,registry,people,Nigar Sultana,3827f6a2
+info,registry,people,Nuzhat Tasnia,6ce57e02
+info,registry,people,P Sizara,5d45bb7f
+info,registry,people,Rumana Ahmed,a92763ea
+info,registry,people,S Gogwe,fa6ba429
+info,registry,people,S Mostary,94de63bf
+info,registry,people,SM Mayers,91d9613e
+info,registry,people,T Granger,2beae660
+info,registry,people,T Musakwa,5f925536
+ball,1,0.1,Zimbabwe,M Mupachikwa,SM Mayers,Fariha Trisna,0,0,,,,,,"",""
+ball,1,0.2,Zimbabwe,M Mupachikwa,SM Mayers,Fariha Trisna,2,0,,,,,,"",""
+ball,1,0.3,Zimbabwe,M Mupachikwa,SM Mayers,Fariha Trisna,0,1,1,,,,,"",""
+ball,1,0.4,Zimbabwe,M Mupachikwa,SM Mayers,Fariha Trisna,2,0,,,,,,"",""
+ball,1,0.5,Zimbabwe,M Mupachikwa,SM Mayers,Fariha Trisna,1,0,,,,,,"",""
+ball,1,0.6,Zimbabwe,SM Mayers,M Mupachikwa,Fariha Trisna,4,0,,,,,,"",""
+ball,1,0.7,Zimbabwe,SM Mayers,M Mupachikwa,Fariha Trisna,0,0,,,,,,"",""
+ball,1,1.1,Zimbabwe,M Mupachikwa,SM Mayers,Nahida Akter,0,0,,,,,,"",""
+ball,1,1.2,Zimbabwe,M Mupachikwa,SM Mayers,Nahida Akter,0,0,,,,,,"",""
+ball,1,1.3,Zimbabwe,M Mupachikwa,SM Mayers,Nahida Akter,0,0,,,,,,"",""
+ball,1,1.4,Zimbabwe,M Mupachikwa,SM Mayers,Nahida Akter,0,0,,,,,,"",""
+ball,1,1.5,Zimbabwe,M Mupachikwa,SM Mayers,Nahida Akter,1,0,,,,,,"",""
+ball,1,1.6,Zimbabwe,SM Mayers,M Mupachikwa,Nahida Akter,4,0,,,,,,"",""
+ball,1,2.1,Zimbabwe,M Mupachikwa,SM Mayers,Fariha Trisna,0,0,,,,,,"",""
+ball,1,2.2,Zimbabwe,M Mupachikwa,SM Mayers,Fariha Trisna,0,0,,,,,,"",""
+ball,1,2.3,Zimbabwe,M Mupachikwa,SM Mayers,Fariha Trisna,0,0,,,,,,"",""
+ball,1,2.4,Zimbabwe,M Mupachikwa,SM Mayers,Fariha Trisna,0,0,,,,,,"",""
+ball,1,2.5,Zimbabwe,M Mupachikwa,SM Mayers,Fariha Trisna,0,0,,,,,,"",""
+ball,1,2.6,Zimbabwe,M Mupachikwa,SM Mayers,Fariha Trisna,1,0,,,,,,"",""
+ball,1,3.1,Zimbabwe,M Mupachikwa,SM Mayers,Nahida Akter,0,0,,,,,,"",""
+ball,1,3.2,Zimbabwe,M Mupachikwa,SM Mayers,Nahida Akter,0,0,,,,,,"",""
+ball,1,3.3,Zimbabwe,M Mupachikwa,SM Mayers,Nahida Akter,0,0,,,,,,"",""
+ball,1,3.4,Zimbabwe,M Mupachikwa,SM Mayers,Nahida Akter,0,0,,,,,,"",""
+ball,1,3.5,Zimbabwe,M Mupachikwa,SM Mayers,Nahida Akter,0,0,,,,,,"",""
+ball,1,3.6,Zimbabwe,M Mupachikwa,SM Mayers,Nahida Akter,0,0,,,,,,"",""
+ball,1,4.1,Zimbabwe,SM Mayers,M Mupachikwa,Fariha Trisna,0,0,,,,,,"",""
+ball,1,4.2,Zimbabwe,SM Mayers,M Mupachikwa,Fariha Trisna,1,0,,,,,,"",""
+ball,1,4.3,Zimbabwe,M Mupachikwa,SM Mayers,Fariha Trisna,1,0,,,,,,"",""
+ball,1,4.4,Zimbabwe,SM Mayers,M Mupachikwa,Fariha Trisna,4,0,,,,,,"",""
+ball,1,4.5,Zimbabwe,SM Mayers,M Mupachikwa,Fariha Trisna,0,0,,,,,,"",""
+ball,1,4.6,Zimbabwe,SM Mayers,M Mupachikwa,Fariha Trisna,0,0,,,,,,"",""
+ball,1,5.1,Zimbabwe,M Mupachikwa,SM Mayers,Nahida Akter,0,0,,,,,,"",""
+ball,1,5.2,Zimbabwe,M Mupachikwa,SM Mayers,Nahida Akter,0,0,,,,,,"",""
+ball,1,5.3,Zimbabwe,M Mupachikwa,SM Mayers,Nahida Akter,0,0,,,,,,"",""
+ball,1,5.4,Zimbabwe,M Mupachikwa,SM Mayers,Nahida Akter,0,0,,,,,,"",""
+ball,1,5.5,Zimbabwe,M Mupachikwa,SM Mayers,Nahida Akter,0,0,,,,,,"",""
+ball,1,5.6,Zimbabwe,M Mupachikwa,SM Mayers,Nahida Akter,0,0,,,,,,"",""
+ball,1,6.1,Zimbabwe,SM Mayers,M Mupachikwa,Khadija Tul Kubra,0,0,,,,,,"",""
+ball,1,6.2,Zimbabwe,SM Mayers,M Mupachikwa,Khadija Tul Kubra,1,0,,,,,,"",""
+ball,1,6.3,Zimbabwe,M Mupachikwa,SM Mayers,Khadija Tul Kubra,1,0,,,,,,run out,M Mupachikwa
+ball,1,6.4,Zimbabwe,A Ndiraya,SM Mayers,Khadija Tul Kubra,0,0,,,,,,"",""
+ball,1,6.5,Zimbabwe,A Ndiraya,SM Mayers,Khadija Tul Kubra,0,0,,,,,,"",""
+ball,1,6.6,Zimbabwe,A Ndiraya,SM Mayers,Khadija Tul Kubra,1,0,,,,,,"",""
+ball,1,7.1,Zimbabwe,A Ndiraya,SM Mayers,Nahida Akter,0,0,,,,,,"",""
+ball,1,7.2,Zimbabwe,A Ndiraya,SM Mayers,Nahida Akter,0,0,,,,,,"",""
+ball,1,7.3,Zimbabwe,A Ndiraya,SM Mayers,Nahida Akter,4,0,,,,,,"",""
+ball,1,7.4,Zimbabwe,A Ndiraya,SM Mayers,Nahida Akter,0,0,,,,,,"",""
+ball,1,7.5,Zimbabwe,A Ndiraya,SM Mayers,Nahida Akter,0,0,,,,,,"",""
+ball,1,7.6,Zimbabwe,A Ndiraya,SM Mayers,Nahida Akter,0,0,,,,,,"",""
+ball,1,8.1,Zimbabwe,SM Mayers,A Ndiraya,Khadija Tul Kubra,0,0,,,,,,"",""
+ball,1,8.2,Zimbabwe,SM Mayers,A Ndiraya,Khadija Tul Kubra,0,0,,,,,,"",""
+ball,1,8.3,Zimbabwe,SM Mayers,A Ndiraya,Khadija Tul Kubra,0,0,,,,,,"",""
+ball,1,8.4,Zimbabwe,SM Mayers,A Ndiraya,Khadija Tul Kubra,1,0,,,,,,"",""
+ball,1,8.5,Zimbabwe,A Ndiraya,SM Mayers,Khadija Tul Kubra,0,0,,,,,,"",""
+ball,1,8.6,Zimbabwe,A Ndiraya,SM Mayers,Khadija Tul Kubra,0,0,,,,,,"",""
+ball,1,9.1,Zimbabwe,SM Mayers,A Ndiraya,Nahida Akter,1,0,,,,,,"",""
+ball,1,9.2,Zimbabwe,A Ndiraya,SM Mayers,Nahida Akter,4,0,,,,,,"",""
+ball,1,9.3,Zimbabwe,A Ndiraya,SM Mayers,Nahida Akter,0,0,,,,,,lbw,A Ndiraya
+ball,1,9.4,Zimbabwe,M Musonda,SM Mayers,Nahida Akter,0,0,,,,,,"",""
+ball,1,9.5,Zimbabwe,M Musonda,SM Mayers,Nahida Akter,0,0,,,,,,"",""
+ball,1,9.6,Zimbabwe,M Musonda,SM Mayers,Nahida Akter,0,0,,,,,,lbw,M Musonda
+ball,1,10.1,Zimbabwe,SM Mayers,C Chatonzwa,Khadija Tul Kubra,1,0,,,,,,"",""
+ball,1,10.2,Zimbabwe,C Chatonzwa,SM Mayers,Khadija Tul Kubra,0,0,,,,,,"",""
+ball,1,10.3,Zimbabwe,C Chatonzwa,SM Mayers,Khadija Tul Kubra,4,0,,,,,,"",""
+ball,1,10.4,Zimbabwe,C Chatonzwa,SM Mayers,Khadija Tul Kubra,0,0,,,,,,"",""
+ball,1,10.5,Zimbabwe,C Chatonzwa,SM Mayers,Khadija Tul Kubra,1,0,,,,,,"",""
+ball,1,10.6,Zimbabwe,SM Mayers,C Chatonzwa,Khadija Tul Kubra,0,0,,,,,,"",""
+ball,1,11.1,Zimbabwe,C Chatonzwa,SM Mayers,Nahida Akter,0,0,,,,,,"",""
+ball,1,11.2,Zimbabwe,C Chatonzwa,SM Mayers,Nahida Akter,0,0,,,,,,"",""
+ball,1,11.3,Zimbabwe,C Chatonzwa,SM Mayers,Nahida Akter,0,0,,,,,,bowled,C Chatonzwa
+ball,1,11.4,Zimbabwe,J Nkomo,SM Mayers,Nahida Akter,0,0,,,,,,"",""
+ball,1,11.5,Zimbabwe,J Nkomo,SM Mayers,Nahida Akter,0,0,,,,,,"",""
+ball,1,11.6,Zimbabwe,J Nkomo,SM Mayers,Nahida Akter,0,0,,,,,,lbw,J Nkomo
+ball,1,12.1,Zimbabwe,SM Mayers,T Granger,Lata Mondal,2,0,,,,,,"",""
+ball,1,12.2,Zimbabwe,SM Mayers,T Granger,Lata Mondal,0,0,,,,,,"",""
+ball,1,12.3,Zimbabwe,SM Mayers,T Granger,Lata Mondal,0,0,,,,,,"",""
+ball,1,12.4,Zimbabwe,SM Mayers,T Granger,Lata Mondal,0,5,5,,,,,"",""
+ball,1,12.5,Zimbabwe,SM Mayers,T Granger,Lata Mondal,1,0,,,,,,"",""
+ball,1,12.6,Zimbabwe,T Granger,SM Mayers,Lata Mondal,0,0,,,,,,"",""
+ball,1,12.7,Zimbabwe,T Granger,SM Mayers,Lata Mondal,0,1,,,,1,,"",""
+ball,1,13.1,Zimbabwe,T Granger,SM Mayers,Nahida Akter,0,0,,,,,,"",""
+ball,1,13.2,Zimbabwe,T Granger,SM Mayers,Nahida Akter,0,0,,,,,,"",""
+ball,1,13.3,Zimbabwe,T Granger,SM Mayers,Nahida Akter,0,0,,,,,,bowled,T Granger
+ball,1,13.4,Zimbabwe,L Phiri,SM Mayers,Nahida Akter,0,0,,,,,,"",""
+ball,1,13.5,Zimbabwe,L Phiri,SM Mayers,Nahida Akter,0,0,,,,,,"",""
+ball,1,13.6,Zimbabwe,L Phiri,SM Mayers,Nahida Akter,0,0,,,,,,"",""
+ball,1,14.1,Zimbabwe,SM Mayers,L Phiri,Lata Mondal,0,0,,,,,,"",""
+ball,1,14.2,Zimbabwe,SM Mayers,L Phiri,Lata Mondal,0,0,,,,,,"",""
+ball,1,14.3,Zimbabwe,SM Mayers,L Phiri,Lata Mondal,0,0,,,,,,"",""
+ball,1,14.4,Zimbabwe,SM Mayers,L Phiri,Lata Mondal,1,0,,,,,,"",""
+ball,1,14.5,Zimbabwe,L Phiri,SM Mayers,Lata Mondal,0,1,1,,,,,"",""
+ball,1,14.6,Zimbabwe,L Phiri,SM Mayers,Lata Mondal,0,0,,,,,,"",""
+ball,1,14.7,Zimbabwe,L Phiri,SM Mayers,Lata Mondal,0,0,,,,,,"",""
+ball,1,15.1,Zimbabwe,SM Mayers,L Phiri,Nahida Akter,0,0,,,,,,"",""
+ball,1,15.2,Zimbabwe,SM Mayers,L Phiri,Nahida Akter,4,0,,,,,,"",""
+ball,1,15.3,Zimbabwe,SM Mayers,L Phiri,Nahida Akter,0,0,,,,,,"",""
+ball,1,15.4,Zimbabwe,SM Mayers,L Phiri,Nahida Akter,0,0,,,,,,"",""
+ball,1,15.5,Zimbabwe,SM Mayers,L Phiri,Nahida Akter,1,0,,,,,,"",""
+ball,1,15.6,Zimbabwe,L Phiri,SM Mayers,Nahida Akter,0,0,,,,,,"",""
+ball,1,16.1,Zimbabwe,SM Mayers,L Phiri,Lata Mondal,0,0,,,,,,"",""
+ball,1,16.2,Zimbabwe,SM Mayers,L Phiri,Lata Mondal,0,0,,,,,,"",""
+ball,1,16.3,Zimbabwe,SM Mayers,L Phiri,Lata Mondal,1,0,,,,,,"",""
+ball,1,16.4,Zimbabwe,L Phiri,SM Mayers,Lata Mondal,0,0,,,,,,"",""
+ball,1,16.5,Zimbabwe,L Phiri,SM Mayers,Lata Mondal,0,0,,,,,,"",""
+ball,1,16.6,Zimbabwe,L Phiri,SM Mayers,Lata Mondal,0,0,,,,,,"",""
+ball,1,17.1,Zimbabwe,SM Mayers,L Phiri,Nahida Akter,1,0,,,,,,"",""
+ball,1,17.2,Zimbabwe,L Phiri,SM Mayers,Nahida Akter,0,0,,,,,,"",""
+ball,1,17.3,Zimbabwe,L Phiri,SM Mayers,Nahida Akter,0,0,,,,,,"",""
+ball,1,17.4,Zimbabwe,L Phiri,SM Mayers,Nahida Akter,0,0,,,,,,"",""
+ball,1,17.5,Zimbabwe,L Phiri,SM Mayers,Nahida Akter,0,0,,,,,,"",""
+ball,1,17.6,Zimbabwe,L Phiri,SM Mayers,Nahida Akter,0,0,,,,,,"",""
+ball,1,18.1,Zimbabwe,SM Mayers,L Phiri,Lata Mondal,0,0,,,,,,"",""
+ball,1,18.2,Zimbabwe,SM Mayers,L Phiri,Lata Mondal,0,0,,,,,,"",""
+ball,1,18.3,Zimbabwe,SM Mayers,L Phiri,Lata Mondal,0,0,,,,,,"",""
+ball,1,18.4,Zimbabwe,SM Mayers,L Phiri,Lata Mondal,1,0,,,,,,"",""
+ball,1,18.5,Zimbabwe,L Phiri,SM Mayers,Lata Mondal,0,0,,,,,,"",""
+ball,1,18.6,Zimbabwe,L Phiri,SM Mayers,Lata Mondal,0,0,,,,,,"",""
+ball,1,19.1,Zimbabwe,SM Mayers,L Phiri,Nahida Akter,1,0,,,,,,"",""
+ball,1,19.2,Zimbabwe,L Phiri,SM Mayers,Nahida Akter,0,0,,,,,,"",""
+ball,1,19.3,Zimbabwe,L Phiri,SM Mayers,Nahida Akter,0,0,,,,,,"",""
+ball,1,19.4,Zimbabwe,L Phiri,SM Mayers,Nahida Akter,0,0,,,,,,"",""
+ball,1,19.5,Zimbabwe,L Phiri,SM Mayers,Nahida Akter,0,0,,,,,,"",""
+ball,1,19.6,Zimbabwe,L Phiri,SM Mayers,Nahida Akter,0,0,,,,,,"",""
+ball,1,20.1,Zimbabwe,SM Mayers,L Phiri,Rumana Ahmed,0,0,,,,,,"",""
+ball,1,20.2,Zimbabwe,SM Mayers,L Phiri,Rumana Ahmed,1,0,,,,,,"",""
+ball,1,20.3,Zimbabwe,L Phiri,SM Mayers,Rumana Ahmed,0,0,,,,,,"",""
+ball,1,20.4,Zimbabwe,L Phiri,SM Mayers,Rumana Ahmed,0,0,,,,,,"",""
+ball,1,20.5,Zimbabwe,L Phiri,SM Mayers,Rumana Ahmed,0,0,,,,,,bowled,L Phiri
+ball,1,20.6,Zimbabwe,E Mbofana,SM Mayers,Rumana Ahmed,0,0,,,,,,"",""
+ball,1,21.1,Zimbabwe,SM Mayers,E Mbofana,Khadija Tul Kubra,0,0,,,,,,"",""
+ball,1,21.2,Zimbabwe,SM Mayers,E Mbofana,Khadija Tul Kubra,0,0,,,,,,"",""
+ball,1,21.3,Zimbabwe,SM Mayers,E Mbofana,Khadija Tul Kubra,0,0,,,,,,"",""
+ball,1,21.4,Zimbabwe,SM Mayers,E Mbofana,Khadija Tul Kubra,1,0,,,,,,"",""
+ball,1,21.5,Zimbabwe,E Mbofana,SM Mayers,Khadija Tul Kubra,0,0,,,,,,"",""
+ball,1,21.6,Zimbabwe,E Mbofana,SM Mayers,Khadija Tul Kubra,0,0,,,,,,"",""
+ball,1,22.1,Zimbabwe,SM Mayers,E Mbofana,Rumana Ahmed,0,0,,,,,,"",""
+ball,1,22.2,Zimbabwe,SM Mayers,E Mbofana,Rumana Ahmed,0,0,,,,,,"",""
+ball,1,22.3,Zimbabwe,SM Mayers,E Mbofana,Rumana Ahmed,0,0,,,,,,"",""
+ball,1,22.4,Zimbabwe,SM Mayers,E Mbofana,Rumana Ahmed,0,0,,,,,,"",""
+ball,1,22.5,Zimbabwe,SM Mayers,E Mbofana,Rumana Ahmed,1,0,,,,,,"",""
+ball,1,22.6,Zimbabwe,E Mbofana,SM Mayers,Rumana Ahmed,0,0,,,,,,"",""
+ball,1,23.1,Zimbabwe,SM Mayers,E Mbofana,Khadija Tul Kubra,0,0,,,,,,"",""
+ball,1,23.2,Zimbabwe,SM Mayers,E Mbofana,Khadija Tul Kubra,1,0,,,,,,"",""
+ball,1,23.3,Zimbabwe,E Mbofana,SM Mayers,Khadija Tul Kubra,0,0,,,,,,"",""
+ball,1,23.4,Zimbabwe,E Mbofana,SM Mayers,Khadija Tul Kubra,0,0,,,,,,"",""
+ball,1,23.5,Zimbabwe,E Mbofana,SM Mayers,Khadija Tul Kubra,0,0,,,,,,"",""
+ball,1,23.6,Zimbabwe,E Mbofana,SM Mayers,Khadija Tul Kubra,0,0,,,,,,"",""
+ball,1,24.1,Zimbabwe,SM Mayers,E Mbofana,Rumana Ahmed,0,0,,,,,,"",""
+ball,1,24.2,Zimbabwe,SM Mayers,E Mbofana,Rumana Ahmed,1,0,,,,,,"",""
+ball,1,24.3,Zimbabwe,E Mbofana,SM Mayers,Rumana Ahmed,0,0,,,,,,"",""
+ball,1,24.4,Zimbabwe,E Mbofana,SM Mayers,Rumana Ahmed,0,0,,,,,,"",""
+ball,1,24.5,Zimbabwe,E Mbofana,SM Mayers,Rumana Ahmed,1,0,,,,,,"",""
+ball,1,24.6,Zimbabwe,SM Mayers,E Mbofana,Rumana Ahmed,0,0,,,,,,"",""
+ball,1,25.1,Zimbabwe,E Mbofana,SM Mayers,Khadija Tul Kubra,1,0,,,,,,"",""
+ball,1,25.2,Zimbabwe,SM Mayers,E Mbofana,Khadija Tul Kubra,0,0,,,,,,"",""
+ball,1,25.3,Zimbabwe,SM Mayers,E Mbofana,Khadija Tul Kubra,0,0,,,,,,"",""
+ball,1,25.4,Zimbabwe,SM Mayers,E Mbofana,Khadija Tul Kubra,1,0,,,,,,"",""
+ball,1,25.5,Zimbabwe,E Mbofana,SM Mayers,Khadija Tul Kubra,0,0,,,,,,"",""
+ball,1,25.6,Zimbabwe,E Mbofana,SM Mayers,Khadija Tul Kubra,0,0,,,,,,"",""
+ball,1,26.1,Zimbabwe,SM Mayers,E Mbofana,Rumana Ahmed,2,0,,,,,,"",""
+ball,1,26.2,Zimbabwe,SM Mayers,E Mbofana,Rumana Ahmed,1,0,,,,,,"",""
+ball,1,26.3,Zimbabwe,E Mbofana,SM Mayers,Rumana Ahmed,0,0,,,,,,bowled,E Mbofana
+ball,1,26.4,Zimbabwe,N Sibanda,SM Mayers,Rumana Ahmed,0,0,,,,,,"",""
+ball,1,26.5,Zimbabwe,N Sibanda,SM Mayers,Rumana Ahmed,0,0,,,,,,"",""
+ball,1,26.6,Zimbabwe,N Sibanda,SM Mayers,Rumana Ahmed,0,0,,,,,,"",""
+ball,1,27.1,Zimbabwe,SM Mayers,N Sibanda,Fariha Trisna,0,0,,,,,,bowled,SM Mayers
+ball,1,27.2,Zimbabwe,F Chipare,N Sibanda,Fariha Trisna,0,0,,,,,,lbw,F Chipare
+ball,2,0.1,Bangladesh,Murshida Khatun,Nuzhat Tasnia,N Sibanda,4,0,,,,,,"",""
+ball,2,0.2,Bangladesh,Murshida Khatun,Nuzhat Tasnia,N Sibanda,0,0,,,,,,"",""
+ball,2,0.3,Bangladesh,Murshida Khatun,Nuzhat Tasnia,N Sibanda,4,0,,,,,,"",""
+ball,2,0.4,Bangladesh,Murshida Khatun,Nuzhat Tasnia,N Sibanda,0,0,,,,,,"",""
+ball,2,0.5,Bangladesh,Murshida Khatun,Nuzhat Tasnia,N Sibanda,1,0,,,,,,"",""
+ball,2,0.6,Bangladesh,Nuzhat Tasnia,Murshida Khatun,N Sibanda,0,0,,,,,,"",""
+ball,2,1.1,Bangladesh,Murshida Khatun,Nuzhat Tasnia,E Mbofana,0,0,,,,,,"",""
+ball,2,1.2,Bangladesh,Murshida Khatun,Nuzhat Tasnia,E Mbofana,0,0,,,,,,"",""
+ball,2,1.3,Bangladesh,Murshida Khatun,Nuzhat Tasnia,E Mbofana,1,0,,,,,,"",""
+ball,2,1.4,Bangladesh,Nuzhat Tasnia,Murshida Khatun,E Mbofana,0,0,,,,,,"",""
+ball,2,1.5,Bangladesh,Nuzhat Tasnia,Murshida Khatun,E Mbofana,0,0,,,,,,"",""
+ball,2,1.6,Bangladesh,Nuzhat Tasnia,Murshida Khatun,E Mbofana,0,0,,,,,,"",""
+ball,2,2.1,Bangladesh,Murshida Khatun,Nuzhat Tasnia,N Sibanda,0,0,,,,,,"",""
+ball,2,2.2,Bangladesh,Murshida Khatun,Nuzhat Tasnia,N Sibanda,1,0,,,,,,"",""
+ball,2,2.3,Bangladesh,Nuzhat Tasnia,Murshida Khatun,N Sibanda,0,0,,,,,,"",""
+ball,2,2.4,Bangladesh,Nuzhat Tasnia,Murshida Khatun,N Sibanda,0,0,,,,,,"",""
+ball,2,2.5,Bangladesh,Nuzhat Tasnia,Murshida Khatun,N Sibanda,0,0,,,,,,"",""
+ball,2,2.6,Bangladesh,Nuzhat Tasnia,Murshida Khatun,N Sibanda,1,0,,,,,,"",""
+ball,2,3.1,Bangladesh,Nuzhat Tasnia,Murshida Khatun,E Mbofana,1,0,,,,,,"",""
+ball,2,3.2,Bangladesh,Murshida Khatun,Nuzhat Tasnia,E Mbofana,1,1,,1,,,,"",""
+ball,2,3.3,Bangladesh,Nuzhat Tasnia,Murshida Khatun,E Mbofana,1,0,,,,,,"",""
+ball,2,3.4,Bangladesh,Murshida Khatun,Nuzhat Tasnia,E Mbofana,0,0,,,,,,"",""
+ball,2,3.5,Bangladesh,Murshida Khatun,Nuzhat Tasnia,E Mbofana,0,0,,,,,,"",""
+ball,2,3.6,Bangladesh,Murshida Khatun,Nuzhat Tasnia,E Mbofana,1,0,,,,,,"",""
+ball,2,3.7,Bangladesh,Nuzhat Tasnia,Murshida Khatun,E Mbofana,1,0,,,,,,"",""
+ball,2,4.1,Bangladesh,Nuzhat Tasnia,Murshida Khatun,N Sibanda,0,0,,,,,,"",""
+ball,2,4.2,Bangladesh,Nuzhat Tasnia,Murshida Khatun,N Sibanda,3,0,,,,,,"",""
+ball,2,4.3,Bangladesh,Murshida Khatun,Nuzhat Tasnia,N Sibanda,0,0,,,,,,"",""
+ball,2,4.4,Bangladesh,Murshida Khatun,Nuzhat Tasnia,N Sibanda,0,0,,,,,,"",""
+ball,2,4.5,Bangladesh,Murshida Khatun,Nuzhat Tasnia,N Sibanda,2,0,,,,,,"",""
+ball,2,4.6,Bangladesh,Murshida Khatun,Nuzhat Tasnia,N Sibanda,0,1,,1,,,,"",""
+ball,2,4.7,Bangladesh,Murshida Khatun,Nuzhat Tasnia,N Sibanda,2,0,,,,,,"",""
+ball,2,5.1,Bangladesh,Nuzhat Tasnia,Murshida Khatun,F Chipare,0,0,,,,,,"",""
+ball,2,5.2,Bangladesh,Nuzhat Tasnia,Murshida Khatun,F Chipare,0,0,,,,,,"",""
+ball,2,5.3,Bangladesh,Nuzhat Tasnia,Murshida Khatun,F Chipare,1,0,,,,,,"",""
+ball,2,5.4,Bangladesh,Murshida Khatun,Nuzhat Tasnia,F Chipare,0,0,,,,,,"",""
+ball,2,5.5,Bangladesh,Murshida Khatun,Nuzhat Tasnia,F Chipare,0,0,,,,,,"",""
+ball,2,5.6,Bangladesh,Murshida Khatun,Nuzhat Tasnia,F Chipare,0,0,,,,,,"",""
+ball,2,6.1,Bangladesh,Nuzhat Tasnia,Murshida Khatun,L Phiri,0,0,,,,,,"",""
+ball,2,6.2,Bangladesh,Nuzhat Tasnia,Murshida Khatun,L Phiri,0,0,,,,,,"",""
+ball,2,6.3,Bangladesh,Nuzhat Tasnia,Murshida Khatun,L Phiri,0,0,,,,,,"",""
+ball,2,6.4,Bangladesh,Nuzhat Tasnia,Murshida Khatun,L Phiri,0,0,,,,,,"",""
+ball,2,6.5,Bangladesh,Nuzhat Tasnia,Murshida Khatun,L Phiri,0,0,,,,,,"",""
+ball,2,6.6,Bangladesh,Nuzhat Tasnia,Murshida Khatun,L Phiri,2,0,,,,,,"",""
+ball,2,7.1,Bangladesh,Murshida Khatun,Nuzhat Tasnia,F Chipare,0,1,1,,,,,"",""
+ball,2,7.2,Bangladesh,Murshida Khatun,Nuzhat Tasnia,F Chipare,0,0,,,,,,"",""
+ball,2,7.3,Bangladesh,Murshida Khatun,Nuzhat Tasnia,F Chipare,0,0,,,,,,"",""
+ball,2,7.4,Bangladesh,Murshida Khatun,Nuzhat Tasnia,F Chipare,0,0,,,,,,"",""
+ball,2,7.5,Bangladesh,Murshida Khatun,Nuzhat Tasnia,F Chipare,0,0,,,,,,"",""
+ball,2,7.6,Bangladesh,Murshida Khatun,Nuzhat Tasnia,F Chipare,2,0,,,,,,"",""
+ball,2,7.7,Bangladesh,Murshida Khatun,Nuzhat Tasnia,F Chipare,0,0,,,,,,"",""
+ball,2,8.1,Bangladesh,Nuzhat Tasnia,Murshida Khatun,L Phiri,0,0,,,,,,"",""
+ball,2,8.2,Bangladesh,Nuzhat Tasnia,Murshida Khatun,L Phiri,0,0,,,,,,caught and bowled,Nuzhat Tasnia
+ball,2,8.3,Bangladesh,Nigar Sultana,Murshida Khatun,L Phiri,0,0,,,,,,"",""
+ball,2,8.4,Bangladesh,Nigar Sultana,Murshida Khatun,L Phiri,1,0,,,,,,"",""
+ball,2,8.5,Bangladesh,Murshida Khatun,Nigar Sultana,L Phiri,0,0,,,,,,"",""
+ball,2,8.6,Bangladesh,Murshida Khatun,Nigar Sultana,L Phiri,4,0,,,,,,"",""
+ball,2,9.1,Bangladesh,Nigar Sultana,Murshida Khatun,F Chipare,0,0,,,,,,"",""
+ball,2,9.2,Bangladesh,Nigar Sultana,Murshida Khatun,F Chipare,0,0,,,,,,"",""
+ball,2,9.3,Bangladesh,Nigar Sultana,Murshida Khatun,F Chipare,0,0,,,,,,"",""
+ball,2,9.4,Bangladesh,Nigar Sultana,Murshida Khatun,F Chipare,0,0,,,,,,"",""
+ball,2,9.5,Bangladesh,Nigar Sultana,Murshida Khatun,F Chipare,0,0,,,,,,"",""
+ball,2,9.6,Bangladesh,Nigar Sultana,Murshida Khatun,F Chipare,0,0,,,,,,"",""
+ball,2,10.1,Bangladesh,Murshida Khatun,Nigar Sultana,L Phiri,1,0,,,,,,"",""
+ball,2,10.2,Bangladesh,Nigar Sultana,Murshida Khatun,L Phiri,0,0,,,,,,"",""
+ball,2,10.3,Bangladesh,Nigar Sultana,Murshida Khatun,L Phiri,0,0,,,,,,"",""
+ball,2,10.4,Bangladesh,Nigar Sultana,Murshida Khatun,L Phiri,0,0,,,,,,"",""
+ball,2,10.5,Bangladesh,Nigar Sultana,Murshida Khatun,L Phiri,1,0,,,,,,"",""
+ball,2,10.6,Bangladesh,Murshida Khatun,Nigar Sultana,L Phiri,0,0,,,,,,"",""
+ball,2,11.1,Bangladesh,Nigar Sultana,Murshida Khatun,T Granger,0,1,1,,,,,"",""
+ball,2,11.2,Bangladesh,Nigar Sultana,Murshida Khatun,T Granger,0,1,1,,,,,"",""
+ball,2,11.3,Bangladesh,Nigar Sultana,Murshida Khatun,T Granger,0,1,1,,,,,"",""
+ball,2,11.4,Bangladesh,Nigar Sultana,Murshida Khatun,T Granger,0,0,,,,,,"",""
+ball,2,11.5,Bangladesh,Nigar Sultana,Murshida Khatun,T Granger,0,0,,,,,,"",""
+ball,2,11.6,Bangladesh,Nigar Sultana,Murshida Khatun,T Granger,0,0,,,,,,"",""
+ball,2,11.7,Bangladesh,Nigar Sultana,Murshida Khatun,T Granger,0,1,1,,,,,"",""
+ball,2,11.8,Bangladesh,Nigar Sultana,Murshida Khatun,T Granger,0,0,,,,,,"",""
+ball,2,11.9,Bangladesh,Nigar Sultana,Murshida Khatun,T Granger,2,0,,,,,,"",""
+ball,2,11.10,Bangladesh,Nigar Sultana,Murshida Khatun,T Granger,1,0,,,,,,"",""
+ball,2,12.1,Bangladesh,Nigar Sultana,Murshida Khatun,L Phiri,0,0,,,,,,"",""
+ball,2,12.2,Bangladesh,Nigar Sultana,Murshida Khatun,L Phiri,0,0,,,,,,"",""
+ball,2,12.3,Bangladesh,Nigar Sultana,Murshida Khatun,L Phiri,0,0,,,,,,"",""
+ball,2,12.4,Bangladesh,Nigar Sultana,Murshida Khatun,L Phiri,0,0,,,,,,"",""
+ball,2,12.5,Bangladesh,Nigar Sultana,Murshida Khatun,L Phiri,4,0,,,,,,"",""
+ball,2,12.6,Bangladesh,Nigar Sultana,Murshida Khatun,L Phiri,1,0,,,,,,"",""
+ball,2,13.1,Bangladesh,Nigar Sultana,Murshida Khatun,T Granger,1,0,,,,,,"",""
+ball,2,13.2,Bangladesh,Murshida Khatun,Nigar Sultana,T Granger,0,0,,,,,,"",""
+ball,2,13.3,Bangladesh,Murshida Khatun,Nigar Sultana,T Granger,0,0,,,,,,"",""
+ball,2,13.4,Bangladesh,Murshida Khatun,Nigar Sultana,T Granger,4,0,,,,,,"",""
+ball,2,13.5,Bangladesh,Murshida Khatun,Nigar Sultana,T Granger,2,0,,,,,,"",""
+ball,2,13.6,Bangladesh,Murshida Khatun,Nigar Sultana,T Granger,0,1,1,,,,,"",""
+ball,2,13.7,Bangladesh,Murshida Khatun,Nigar Sultana,T Granger,0,0,,,,,,"",""
+ball,2,14.1,Bangladesh,Nigar Sultana,Murshida Khatun,E Mbofana,1,0,,,,,,"",""
+ball,2,14.2,Bangladesh,Murshida Khatun,Nigar Sultana,E Mbofana,0,1,1,,,,,"",""
+ball,2,14.3,Bangladesh,Murshida Khatun,Nigar Sultana,E Mbofana,0,1,1,,,,,"",""
+ball,2,14.4,Bangladesh,Murshida Khatun,Nigar Sultana,E Mbofana,0,1,1,,,,,"",""
+ball,2,14.5,Bangladesh,Murshida Khatun,Nigar Sultana,E Mbofana,0,0,,,,,,"",""
+ball,2,14.6,Bangladesh,Murshida Khatun,Nigar Sultana,E Mbofana,1,0,,,,,,"",""
+ball,2,14.7,Bangladesh,Nigar Sultana,Murshida Khatun,E Mbofana,0,0,,,,,,lbw,Nigar Sultana
+ball,2,14.8,Bangladesh,S Mostary,Murshida Khatun,E Mbofana,0,0,,,,,,"",""
+ball,2,14.9,Bangladesh,S Mostary,Murshida Khatun,E Mbofana,0,0,,,,,,"",""
+ball,2,15.1,Bangladesh,Murshida Khatun,S Mostary,N Sibanda,0,0,,,,,,"",""
+ball,2,15.2,Bangladesh,Murshida Khatun,S Mostary,N Sibanda,2,0,,,,,,"",""
+ball,2,15.3,Bangladesh,Murshida Khatun,S Mostary,N Sibanda,0,0,,,,,,"",""
+ball,2,15.4,Bangladesh,Murshida Khatun,S Mostary,N Sibanda,0,1,1,,,,,"",""
+ball,2,15.5,Bangladesh,Murshida Khatun,S Mostary,N Sibanda,0,0,,,,,,"",""
+ball,2,15.6,Bangladesh,Murshida Khatun,S Mostary,N Sibanda,1,0,,,,,,"",""
+ball,2,15.7,Bangladesh,S Mostary,Murshida Khatun,N Sibanda,1,0,,,,,,"",""
+ball,2,16.1,Bangladesh,S Mostary,Murshida Khatun,F Chipare,0,0,,,,,,"",""
+ball,2,16.2,Bangladesh,S Mostary,Murshida Khatun,F Chipare,0,0,,,,,,"",""
+ball,2,16.3,Bangladesh,S Mostary,Murshida Khatun,F Chipare,0,0,,,,,,"",""
+ball,2,16.4,Bangladesh,S Mostary,Murshida Khatun,F Chipare,0,0,,,,,,"",""
+ball,2,16.5,Bangladesh,S Mostary,Murshida Khatun,F Chipare,0,0,,,,,,"",""
+ball,2,16.6,Bangladesh,S Mostary,Murshida Khatun,F Chipare,0,0,,,,,,"",""
+ball,2,17.1,Bangladesh,Murshida Khatun,S Mostary,N Sibanda,0,0,,,,,,"",""
+ball,2,17.2,Bangladesh,Murshida Khatun,S Mostary,N Sibanda,1,0,,,,,,"",""
+ball,2,17.3,Bangladesh,S Mostary,Murshida Khatun,N Sibanda,0,0,,,,,,lbw,S Mostary
+ball,2,17.4,Bangladesh,Fargana Hoque,Murshida Khatun,N Sibanda,0,0,,,,,,"",""
+ball,2,17.5,Bangladesh,Fargana Hoque,Murshida Khatun,N Sibanda,0,0,,,,,,"",""
+ball,2,17.6,Bangladesh,Fargana Hoque,Murshida Khatun,N Sibanda,0,0,,,,,,"",""
+ball,2,18.1,Bangladesh,Murshida Khatun,Fargana Hoque,F Chipare,0,0,,,,,,"",""
+ball,2,18.2,Bangladesh,Murshida Khatun,Fargana Hoque,F Chipare,4,0,,,,,,"",""

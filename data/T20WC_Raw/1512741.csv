@@ -1,0 +1,306 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Scotland
+info,team,England
+info,gender,male
+info,season,2025/26
+info,date,2026/02/14
+info,event,ICC Men's T20 World Cup
+info,match_number,23
+info,venue,"Eden Gardens, Kolkata"
+info,city,Kolkata
+info,toss_winner,England
+info,toss_decision,field
+info,player_of_match,T Banton
+info,umpire,A Paleker
+info,umpire,CM Brown
+info,reserve_umpire,DM Koch
+info,tv_umpire,SJ Nogajski
+info,match_referee,RS Madugalle
+info,winner,England
+info,winner_wickets,5
+info,player,Scotland,HG Munsey
+info,player,Scotland,MA Jones
+info,player,Scotland,BJ McMullen
+info,player,Scotland,RD Berrington
+info,player,Scotland,TC Bruce
+info,player,Scotland,MA Leask
+info,player,Scotland,MH Cross
+info,player,Scotland,MRJ Watt
+info,player,Scotland,O Davidson
+info,player,Scotland,BTJ Wheal
+info,player,Scotland,BJ Currie
+info,player,England,PD Salt
+info,player,England,JC Buttler
+info,player,England,JG Bethell
+info,player,England,T Banton
+info,player,England,HC Brook
+info,player,England,SM Curran
+info,player,England,WG Jacks
+info,player,England,J Overton
+info,player,England,JC Archer
+info,player,England,LA Dawson
+info,player,England,AU Rashid
+info,registry,people,A Paleker,634b11ac
+info,registry,people,AU Rashid,249d60c9
+info,registry,people,BJ Currie,2ecd844a
+info,registry,people,BJ McMullen,436c763a
+info,registry,people,BTJ Wheal,3f61a062
+info,registry,people,CM Brown,448f4f1c
+info,registry,people,DM Koch,6d10c034
+info,registry,people,HC Brook,4ae1755b
+info,registry,people,HG Munsey,ff014c34
+info,registry,people,J Overton,59559bc2
+info,registry,people,JC Archer,5574750c
+info,registry,people,JC Buttler,99b75528
+info,registry,people,JG Bethell,3c55c703
+info,registry,people,LA Dawson,4a461c24
+info,registry,people,MA Jones,05f96194
+info,registry,people,MA Leask,28131839
+info,registry,people,MH Cross,8b261d84
+info,registry,people,MRJ Watt,1252f71a
+info,registry,people,O Davidson,63249474
+info,registry,people,PD Salt,3d284ca3
+info,registry,people,RD Berrington,e21bc7f3
+info,registry,people,RS Madugalle,766b5798
+info,registry,people,SJ Nogajski,9b3f9323
+info,registry,people,SM Curran,e94915e6
+info,registry,people,T Banton,25f7b7d6
+info,registry,people,TC Bruce,f92c9151
+info,registry,people,WG Jacks,9caf69a1
+ball,1,0.1,Scotland,HG Munsey,MA Jones,JC Archer,0,0,,,,,,"",""
+ball,1,0.2,Scotland,HG Munsey,MA Jones,JC Archer,4,0,,,,,,"",""
+ball,1,0.3,Scotland,HG Munsey,MA Jones,JC Archer,0,0,,,,,,"",""
+ball,1,0.4,Scotland,HG Munsey,MA Jones,JC Archer,0,1,,,,1,,"",""
+ball,1,0.5,Scotland,MA Jones,HG Munsey,JC Archer,1,0,,,,,,"",""
+ball,1,0.6,Scotland,HG Munsey,MA Jones,JC Archer,0,0,,,,,,"",""
+ball,1,1.1,Scotland,MA Jones,HG Munsey,J Overton,2,0,,,,,,"",""
+ball,1,1.2,Scotland,MA Jones,HG Munsey,J Overton,0,0,,,,,,"",""
+ball,1,1.3,Scotland,MA Jones,HG Munsey,J Overton,0,0,,,,,,"",""
+ball,1,1.4,Scotland,MA Jones,HG Munsey,J Overton,4,0,,,,,,"",""
+ball,1,1.5,Scotland,MA Jones,HG Munsey,J Overton,0,0,,,,,,"",""
+ball,1,1.6,Scotland,MA Jones,HG Munsey,J Overton,0,1,,,,1,,"",""
+ball,1,2.1,Scotland,MA Jones,HG Munsey,JC Archer,4,0,,,,,,"",""
+ball,1,2.2,Scotland,MA Jones,HG Munsey,JC Archer,1,0,,,,,,"",""
+ball,1,2.3,Scotland,HG Munsey,MA Jones,JC Archer,0,0,,,,,,caught,HG Munsey
+ball,1,2.4,Scotland,BJ McMullen,MA Jones,JC Archer,0,0,,,,,,"",""
+ball,1,2.5,Scotland,BJ McMullen,MA Jones,JC Archer,0,0,,,,,,caught,BJ McMullen
+ball,1,2.6,Scotland,RD Berrington,MA Jones,JC Archer,0,0,,,,,,"",""
+ball,1,3.1,Scotland,MA Jones,RD Berrington,J Overton,0,0,,,,,,"",""
+ball,1,3.2,Scotland,MA Jones,RD Berrington,J Overton,4,0,,,,,,"",""
+ball,1,3.3,Scotland,MA Jones,RD Berrington,J Overton,0,0,,,,,,"",""
+ball,1,3.4,Scotland,MA Jones,RD Berrington,J Overton,1,0,,,,,,"",""
+ball,1,3.5,Scotland,RD Berrington,MA Jones,J Overton,1,0,,,,,,"",""
+ball,1,3.6,Scotland,MA Jones,RD Berrington,J Overton,1,0,,,,,,"",""
+ball,1,4.1,Scotland,MA Jones,RD Berrington,JC Archer,1,0,,,,,,"",""
+ball,1,4.2,Scotland,RD Berrington,MA Jones,JC Archer,0,0,,,,,,"",""
+ball,1,4.3,Scotland,RD Berrington,MA Jones,JC Archer,0,0,,,,,,"",""
+ball,1,4.4,Scotland,RD Berrington,MA Jones,JC Archer,2,0,,,,,,"",""
+ball,1,4.5,Scotland,RD Berrington,MA Jones,JC Archer,0,0,,,,,,"",""
+ball,1,4.6,Scotland,RD Berrington,MA Jones,JC Archer,0,0,,,,,,"",""
+ball,1,5.1,Scotland,MA Jones,RD Berrington,SM Curran,4,0,,,,,,"",""
+ball,1,5.2,Scotland,MA Jones,RD Berrington,SM Curran,4,0,,,,,,"",""
+ball,1,5.3,Scotland,MA Jones,RD Berrington,SM Curran,6,0,,,,,,"",""
+ball,1,5.4,Scotland,MA Jones,RD Berrington,SM Curran,0,0,,,,,,"",""
+ball,1,5.5,Scotland,MA Jones,RD Berrington,SM Curran,0,0,,,,,,caught,MA Jones
+ball,1,5.6,Scotland,TC Bruce,RD Berrington,SM Curran,0,0,,,,,,"",""
+ball,1,6.1,Scotland,RD Berrington,TC Bruce,AU Rashid,1,0,,,,,,"",""
+ball,1,6.2,Scotland,TC Bruce,RD Berrington,AU Rashid,1,0,,,,,,"",""
+ball,1,6.3,Scotland,RD Berrington,TC Bruce,AU Rashid,0,0,,,,,,"",""
+ball,1,6.4,Scotland,RD Berrington,TC Bruce,AU Rashid,4,0,,,,,,"",""
+ball,1,6.5,Scotland,RD Berrington,TC Bruce,AU Rashid,1,0,,,,,,"",""
+ball,1,6.6,Scotland,TC Bruce,RD Berrington,AU Rashid,1,0,,,,,,"",""
+ball,1,7.1,Scotland,TC Bruce,RD Berrington,LA Dawson,1,0,,,,,,"",""
+ball,1,7.2,Scotland,RD Berrington,TC Bruce,LA Dawson,1,0,,,,,,"",""
+ball,1,7.3,Scotland,TC Bruce,RD Berrington,LA Dawson,2,0,,,,,,"",""
+ball,1,7.4,Scotland,TC Bruce,RD Berrington,LA Dawson,1,0,,,,,,"",""
+ball,1,7.5,Scotland,RD Berrington,TC Bruce,LA Dawson,4,0,,,,,,"",""
+ball,1,7.6,Scotland,RD Berrington,TC Bruce,LA Dawson,0,0,,,,,,"",""
+ball,1,8.1,Scotland,TC Bruce,RD Berrington,AU Rashid,1,0,,,,,,"",""
+ball,1,8.2,Scotland,RD Berrington,TC Bruce,AU Rashid,4,0,,,,,,"",""
+ball,1,8.3,Scotland,RD Berrington,TC Bruce,AU Rashid,6,0,,,,,,"",""
+ball,1,8.4,Scotland,RD Berrington,TC Bruce,AU Rashid,0,0,,,,,,"",""
+ball,1,8.5,Scotland,RD Berrington,TC Bruce,AU Rashid,1,0,,,,,,"",""
+ball,1,8.6,Scotland,TC Bruce,RD Berrington,AU Rashid,6,0,,,,,,"",""
+ball,1,9.1,Scotland,RD Berrington,TC Bruce,LA Dawson,0,0,,,,,,"",""
+ball,1,9.2,Scotland,RD Berrington,TC Bruce,LA Dawson,2,0,,,,,,"",""
+ball,1,9.3,Scotland,RD Berrington,TC Bruce,LA Dawson,1,0,,,,,,"",""
+ball,1,9.4,Scotland,TC Bruce,RD Berrington,LA Dawson,1,0,,,,,,"",""
+ball,1,9.5,Scotland,RD Berrington,TC Bruce,LA Dawson,0,1,1,,,,,"",""
+ball,1,9.6,Scotland,RD Berrington,TC Bruce,LA Dawson,4,0,,,,,,"",""
+ball,1,9.7,Scotland,RD Berrington,TC Bruce,LA Dawson,4,0,,,,,,"",""
+ball,1,10.1,Scotland,TC Bruce,RD Berrington,SM Curran,1,0,,,,,,"",""
+ball,1,10.2,Scotland,RD Berrington,TC Bruce,SM Curran,1,0,,,,,,"",""
+ball,1,10.3,Scotland,TC Bruce,RD Berrington,SM Curran,1,0,,,,,,"",""
+ball,1,10.4,Scotland,RD Berrington,TC Bruce,SM Curran,0,1,1,,,,,"",""
+ball,1,10.5,Scotland,RD Berrington,TC Bruce,SM Curran,1,0,,,,,,"",""
+ball,1,10.6,Scotland,TC Bruce,RD Berrington,SM Curran,1,0,,,,,,"",""
+ball,1,10.7,Scotland,RD Berrington,TC Bruce,SM Curran,1,0,,,,,,"",""
+ball,1,11.1,Scotland,RD Berrington,TC Bruce,J Overton,1,0,,,,,,"",""
+ball,1,11.2,Scotland,TC Bruce,RD Berrington,J Overton,0,0,,,,,,"",""
+ball,1,11.3,Scotland,TC Bruce,RD Berrington,J Overton,4,0,,,,,,"",""
+ball,1,11.4,Scotland,TC Bruce,RD Berrington,J Overton,1,0,,,,,,"",""
+ball,1,11.5,Scotland,RD Berrington,TC Bruce,J Overton,1,0,,,,,,"",""
+ball,1,11.6,Scotland,TC Bruce,RD Berrington,J Overton,1,0,,,,,,"",""
+ball,1,12.1,Scotland,TC Bruce,RD Berrington,LA Dawson,1,0,,,,,,"",""
+ball,1,12.2,Scotland,RD Berrington,TC Bruce,LA Dawson,6,0,,,,,,"",""
+ball,1,12.3,Scotland,RD Berrington,TC Bruce,LA Dawson,1,0,,,,,,"",""
+ball,1,12.4,Scotland,TC Bruce,RD Berrington,LA Dawson,0,0,,,,,,caught,TC Bruce
+ball,1,12.5,Scotland,MA Leask,RD Berrington,LA Dawson,1,0,,,,,,"",""
+ball,1,12.6,Scotland,RD Berrington,MA Leask,LA Dawson,1,0,,,,,,"",""
+ball,1,13.1,Scotland,RD Berrington,MA Leask,AU Rashid,0,0,,,,,,lbw,RD Berrington
+ball,1,13.2,Scotland,MH Cross,MA Leask,AU Rashid,2,0,,,,,,"",""
+ball,1,13.3,Scotland,MH Cross,MA Leask,AU Rashid,0,0,,,,,,"",""
+ball,1,13.4,Scotland,MH Cross,MA Leask,AU Rashid,0,1,1,,,,,"",""
+ball,1,13.5,Scotland,MH Cross,MA Leask,AU Rashid,0,0,,,,,,"",""
+ball,1,13.6,Scotland,MH Cross,MA Leask,AU Rashid,4,0,,,,,,"",""
+ball,1,13.7,Scotland,MH Cross,MA Leask,AU Rashid,1,0,,,,,,"",""
+ball,1,14.1,Scotland,MH Cross,MA Leask,LA Dawson,1,0,,,,,,"",""
+ball,1,14.2,Scotland,MA Leask,MH Cross,LA Dawson,0,0,,,,,,"",""
+ball,1,14.3,Scotland,MA Leask,MH Cross,LA Dawson,0,0,,,,,,"",""
+ball,1,14.4,Scotland,MA Leask,MH Cross,LA Dawson,0,0,,,,,,caught,MA Leask
+ball,1,14.5,Scotland,MRJ Watt,MH Cross,LA Dawson,1,0,,,,,,"",""
+ball,1,14.6,Scotland,MH Cross,MRJ Watt,LA Dawson,0,0,,,,,,"",""
+ball,1,15.1,Scotland,MRJ Watt,MH Cross,AU Rashid,0,0,,,,,,"",""
+ball,1,15.2,Scotland,MRJ Watt,MH Cross,AU Rashid,1,0,,,,,,"",""
+ball,1,15.3,Scotland,MH Cross,MRJ Watt,AU Rashid,0,0,,,,,,"",""
+ball,1,15.4,Scotland,MH Cross,MRJ Watt,AU Rashid,0,0,,,,,,caught,MH Cross
+ball,1,15.5,Scotland,O Davidson,MRJ Watt,AU Rashid,1,0,,,,,,"",""
+ball,1,15.6,Scotland,MRJ Watt,O Davidson,AU Rashid,0,0,,,,,,bowled,MRJ Watt
+ball,1,16.1,Scotland,O Davidson,BTJ Wheal,JC Archer,0,0,,,,,,"",""
+ball,1,16.2,Scotland,O Davidson,BTJ Wheal,JC Archer,0,1,1,,,,,"",""
+ball,1,16.3,Scotland,O Davidson,BTJ Wheal,JC Archer,0,0,,,,,,"",""
+ball,1,16.4,Scotland,O Davidson,BTJ Wheal,JC Archer,1,0,,,,,,"",""
+ball,1,16.5,Scotland,BTJ Wheal,O Davidson,JC Archer,1,0,,,,,,"",""
+ball,1,16.6,Scotland,O Davidson,BTJ Wheal,JC Archer,6,0,,,,,,"",""
+ball,1,16.7,Scotland,O Davidson,BTJ Wheal,JC Archer,0,1,1,,,,,"",""
+ball,1,16.8,Scotland,O Davidson,BTJ Wheal,JC Archer,1,0,,,,,,"",""
+ball,1,17.1,Scotland,O Davidson,BTJ Wheal,SM Curran,1,0,,,,,,"",""
+ball,1,17.2,Scotland,BTJ Wheal,O Davidson,SM Curran,1,0,,,,,,"",""
+ball,1,17.3,Scotland,O Davidson,BTJ Wheal,SM Curran,4,0,,,,,,"",""
+ball,1,17.4,Scotland,O Davidson,BTJ Wheal,SM Curran,0,0,,,,,,"",""
+ball,1,17.5,Scotland,O Davidson,BTJ Wheal,SM Curran,0,0,,,,,,"",""
+ball,1,17.6,Scotland,O Davidson,BTJ Wheal,SM Curran,4,0,,,,,,"",""
+ball,1,18.1,Scotland,BTJ Wheal,O Davidson,J Overton,0,0,,,,,,caught,BTJ Wheal
+ball,1,18.2,Scotland,BJ Currie,O Davidson,J Overton,0,0,,,,,,"",""
+ball,1,18.3,Scotland,BJ Currie,O Davidson,J Overton,0,0,,,,,,"",""
+ball,1,18.4,Scotland,BJ Currie,O Davidson,J Overton,1,0,,,,,,"",""
+ball,1,18.5,Scotland,O Davidson,BJ Currie,J Overton,1,0,,,,,,"",""
+ball,1,18.6,Scotland,BJ Currie,O Davidson,J Overton,0,0,,,,,,"",""
+ball,1,19.1,Scotland,O Davidson,BJ Currie,SM Curran,1,0,,,,,,"",""
+ball,1,19.2,Scotland,BJ Currie,O Davidson,SM Curran,1,0,,,,,,"",""
+ball,1,19.3,Scotland,O Davidson,BJ Currie,SM Curran,0,0,,,,,,"",""
+ball,1,19.4,Scotland,O Davidson,BJ Currie,SM Curran,0,0,,,,,,run out,BJ Currie
+ball,2,0.1,England,PD Salt,JC Buttler,BJ McMullen,0,0,,,,,,"",""
+ball,2,0.2,England,PD Salt,JC Buttler,BJ McMullen,2,0,,,,,,"",""
+ball,2,0.3,England,PD Salt,JC Buttler,BJ McMullen,0,0,,,,,,caught,PD Salt
+ball,2,0.4,England,JG Bethell,JC Buttler,BJ McMullen,0,0,,,,,,"",""
+ball,2,0.5,England,JG Bethell,JC Buttler,BJ McMullen,0,0,,,,,,"",""
+ball,2,0.6,England,JG Bethell,JC Buttler,BJ McMullen,2,0,,,,,,"",""
+ball,2,1.1,England,JC Buttler,JG Bethell,BJ Currie,1,0,,,,,,"",""
+ball,2,1.2,England,JG Bethell,JC Buttler,BJ Currie,0,0,,,,,,"",""
+ball,2,1.3,England,JG Bethell,JC Buttler,BJ Currie,1,0,,,,,,"",""
+ball,2,1.4,England,JC Buttler,JG Bethell,BJ Currie,2,0,,,,,,"",""
+ball,2,1.5,England,JC Buttler,JG Bethell,BJ Currie,0,0,,,,,,"",""
+ball,2,1.6,England,JC Buttler,JG Bethell,BJ Currie,0,5,5,,,,,"",""
+ball,2,1.7,England,JC Buttler,JG Bethell,BJ Currie,0,0,,,,,,caught,JC Buttler
+ball,2,2.1,England,JG Bethell,T Banton,BJ McMullen,1,0,,,,,,"",""
+ball,2,2.2,England,T Banton,JG Bethell,BJ McMullen,1,0,,,,,,"",""
+ball,2,2.3,England,JG Bethell,T Banton,BJ McMullen,1,0,,,,,,"",""
+ball,2,2.4,England,T Banton,JG Bethell,BJ McMullen,0,0,,,,,,"",""
+ball,2,2.5,England,T Banton,JG Bethell,BJ McMullen,0,0,,,,,,"",""
+ball,2,2.6,England,T Banton,JG Bethell,BJ McMullen,0,0,,,,,,"",""
+ball,2,3.1,England,JG Bethell,T Banton,BJ Currie,0,0,,,,,,"",""
+ball,2,3.2,England,JG Bethell,T Banton,BJ Currie,1,0,,,,,,"",""
+ball,2,3.3,England,T Banton,JG Bethell,BJ Currie,1,0,,,,,,"",""
+ball,2,3.4,England,JG Bethell,T Banton,BJ Currie,1,0,,,,,,"",""
+ball,2,3.5,England,T Banton,JG Bethell,BJ Currie,0,0,,,,,,"",""
+ball,2,3.6,England,T Banton,JG Bethell,BJ Currie,2,0,,,,,,"",""
+ball,2,4.1,England,JG Bethell,T Banton,BJ McMullen,2,0,,,,,,"",""
+ball,2,4.2,England,JG Bethell,T Banton,BJ McMullen,0,0,,,,,,"",""
+ball,2,4.3,England,JG Bethell,T Banton,BJ McMullen,6,0,,,,,,"",""
+ball,2,4.4,England,JG Bethell,T Banton,BJ McMullen,4,0,,,,,,"",""
+ball,2,4.5,England,JG Bethell,T Banton,BJ McMullen,4,0,,,,,,"",""
+ball,2,4.6,England,JG Bethell,T Banton,BJ McMullen,0,0,,,,,,"",""
+ball,2,5.1,England,T Banton,JG Bethell,BTJ Wheal,0,0,,,,,,"",""
+ball,2,5.2,England,T Banton,JG Bethell,BTJ Wheal,1,0,,,,,,"",""
+ball,2,5.3,England,JG Bethell,T Banton,BTJ Wheal,2,0,,,,,,"",""
+ball,2,5.4,England,JG Bethell,T Banton,BTJ Wheal,0,0,,,,,,"",""
+ball,2,5.5,England,JG Bethell,T Banton,BTJ Wheal,2,0,,,,,,"",""
+ball,2,5.6,England,JG Bethell,T Banton,BTJ Wheal,1,0,,,,,,"",""
+ball,2,6.1,England,JG Bethell,T Banton,MA Leask,1,0,,,,,,"",""
+ball,2,6.2,England,T Banton,JG Bethell,MA Leask,1,0,,,,,,"",""
+ball,2,6.3,England,JG Bethell,T Banton,MA Leask,1,0,,,,,,"",""
+ball,2,6.4,England,T Banton,JG Bethell,MA Leask,4,0,,,,,,"",""
+ball,2,6.5,England,T Banton,JG Bethell,MA Leask,1,0,,,,,,"",""
+ball,2,6.6,England,JG Bethell,T Banton,MA Leask,1,0,,,,,,"",""
+ball,2,7.1,England,JG Bethell,T Banton,BTJ Wheal,0,0,,,,,,"",""
+ball,2,7.2,England,JG Bethell,T Banton,BTJ Wheal,1,0,,,,,,"",""
+ball,2,7.3,England,T Banton,JG Bethell,BTJ Wheal,0,0,,,,,,"",""
+ball,2,7.4,England,T Banton,JG Bethell,BTJ Wheal,1,0,,,,,,"",""
+ball,2,7.5,England,JG Bethell,T Banton,BTJ Wheal,0,0,,,,,,"",""
+ball,2,7.6,England,JG Bethell,T Banton,BTJ Wheal,0,0,,,,,,"",""
+ball,2,8.1,England,T Banton,JG Bethell,MRJ Watt,6,0,,,,,,"",""
+ball,2,8.2,England,T Banton,JG Bethell,MRJ Watt,6,0,,,,,,"",""
+ball,2,8.3,England,T Banton,JG Bethell,MRJ Watt,0,1,1,,,,,"",""
+ball,2,8.4,England,T Banton,JG Bethell,MRJ Watt,6,0,,,,,,"",""
+ball,2,8.5,England,T Banton,JG Bethell,MRJ Watt,2,0,,,,,,"",""
+ball,2,8.6,England,T Banton,JG Bethell,MRJ Watt,0,0,,,,,,"",""
+ball,2,8.7,England,T Banton,JG Bethell,MRJ Watt,1,0,,,,,,"",""
+ball,2,9.1,England,T Banton,JG Bethell,O Davidson,2,0,,,,,,"",""
+ball,2,9.2,England,T Banton,JG Bethell,O Davidson,1,0,,,,,,"",""
+ball,2,9.3,England,JG Bethell,T Banton,O Davidson,0,0,,,,,,caught,JG Bethell
+ball,2,9.4,England,HC Brook,T Banton,O Davidson,1,0,,,,,,"",""
+ball,2,9.5,England,T Banton,HC Brook,O Davidson,2,0,,,,,,"",""
+ball,2,9.6,England,T Banton,HC Brook,O Davidson,0,0,,,,,,"",""
+ball,2,10.1,England,HC Brook,T Banton,MA Leask,2,0,,,,,,"",""
+ball,2,10.2,England,HC Brook,T Banton,MA Leask,1,0,,,,,,"",""
+ball,2,10.3,England,T Banton,HC Brook,MA Leask,1,0,,,,,,"",""
+ball,2,10.4,England,HC Brook,T Banton,MA Leask,0,0,,,,,,caught,HC Brook
+ball,2,10.5,England,SM Curran,T Banton,MA Leask,1,0,,,,,,"",""
+ball,2,10.6,England,T Banton,SM Curran,MA Leask,4,0,,,,,,"",""
+ball,2,11.1,England,SM Curran,T Banton,O Davidson,0,0,,,,,,"",""
+ball,2,11.2,England,SM Curran,T Banton,O Davidson,2,0,,,,,,"",""
+ball,2,11.3,England,SM Curran,T Banton,O Davidson,1,0,,,,,,"",""
+ball,2,11.4,England,T Banton,SM Curran,O Davidson,2,0,,,,,,"",""
+ball,2,11.5,England,T Banton,SM Curran,O Davidson,1,0,,,,,,"",""
+ball,2,11.6,England,SM Curran,T Banton,O Davidson,0,0,,,,,,"",""
+ball,2,12.1,England,T Banton,SM Curran,MA Leask,1,0,,,,,,"",""
+ball,2,12.2,England,SM Curran,T Banton,MA Leask,2,0,,,,,,"",""
+ball,2,12.3,England,SM Curran,T Banton,MA Leask,0,0,,,,,,"",""
+ball,2,12.4,England,SM Curran,T Banton,MA Leask,0,0,,,,,,"",""
+ball,2,12.5,England,SM Curran,T Banton,MA Leask,1,0,,,,,,"",""
+ball,2,12.6,England,T Banton,SM Curran,MA Leask,1,0,,,,,,"",""
+ball,2,13.1,England,T Banton,SM Curran,BJ Currie,1,0,,,,,,"",""
+ball,2,13.2,England,SM Curran,T Banton,BJ Currie,1,0,,,,,,"",""
+ball,2,13.3,England,T Banton,SM Curran,BJ Currie,0,0,,,,,,"",""
+ball,2,13.4,England,T Banton,SM Curran,BJ Currie,4,0,,,,,,"",""
+ball,2,13.5,England,T Banton,SM Curran,BJ Currie,0,0,,,,,,"",""
+ball,2,13.6,England,T Banton,SM Curran,BJ Currie,1,0,,,,,,"",""
+ball,2,14.1,England,T Banton,SM Curran,MA Leask,1,0,,,,,,"",""
+ball,2,14.2,England,SM Curran,T Banton,MA Leask,6,0,,,,,,"",""
+ball,2,14.3,England,SM Curran,T Banton,MA Leask,1,0,,,,,,"",""
+ball,2,14.4,England,T Banton,SM Curran,MA Leask,1,0,,,,,,"",""
+ball,2,14.5,England,SM Curran,T Banton,MA Leask,0,0,,,,,,"",""
+ball,2,14.6,England,SM Curran,T Banton,MA Leask,1,0,,,,,,"",""
+ball,2,15.1,England,SM Curran,T Banton,MRJ Watt,6,0,,,,,,"",""
+ball,2,15.2,England,SM Curran,T Banton,MRJ Watt,1,0,,,,,,"",""
+ball,2,15.3,England,T Banton,SM Curran,MRJ Watt,1,0,,,,,,"",""
+ball,2,15.4,England,SM Curran,T Banton,MRJ Watt,4,0,,,,,,"",""
+ball,2,15.5,England,SM Curran,T Banton,MRJ Watt,0,0,,,,,,"",""
+ball,2,15.6,England,SM Curran,T Banton,MRJ Watt,1,0,,,,,,"",""
+ball,2,16.1,England,SM Curran,T Banton,BTJ Wheal,0,0,,,,,,caught,SM Curran
+ball,2,16.2,England,WG Jacks,T Banton,BTJ Wheal,0,0,,,,,,"",""
+ball,2,16.3,England,WG Jacks,T Banton,BTJ Wheal,0,0,,,,,,"",""
+ball,2,16.4,England,WG Jacks,T Banton,BTJ Wheal,0,1,1,,,,,"",""
+ball,2,16.5,England,WG Jacks,T Banton,BTJ Wheal,2,0,,,,,,"",""
+ball,2,16.6,England,WG Jacks,T Banton,BTJ Wheal,0,0,,,,,,"",""
+ball,2,16.7,England,WG Jacks,T Banton,BTJ Wheal,2,0,,,,,,"",""
+ball,2,17.1,England,T Banton,WG Jacks,MRJ Watt,1,0,,,,,,"",""
+ball,2,17.2,England,WG Jacks,T Banton,MRJ Watt,1,0,,,,,,"",""
+ball,2,17.3,England,T Banton,WG Jacks,MRJ Watt,4,0,,,,,,"",""
+ball,2,17.4,England,T Banton,WG Jacks,MRJ Watt,1,0,,,,,,"",""
+ball,2,17.5,England,WG Jacks,T Banton,MRJ Watt,0,0,,,,,,"",""
+ball,2,17.6,England,WG Jacks,T Banton,MRJ Watt,1,0,,,,,,"",""
+ball,2,18.1,England,WG Jacks,T Banton,BTJ Wheal,6,0,,,,,,"",""
+ball,2,18.2,England,WG Jacks,T Banton,BTJ Wheal,4,0,,,,,,"",""

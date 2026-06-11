@@ -1,0 +1,318 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Hobart Hurricanes
+info,team,Brisbane Heat
+info,gender,male
+info,season,2022/23
+info,date,2023/01/25
+info,event,Big Bash League
+info,match_number,55
+info,venue,"University of Tasmania Stadium, Launceston"
+info,city,Launceston
+info,toss_winner,Brisbane Heat
+info,toss_decision,field
+info,player_of_match,NT Ellis
+info,umpire,DM Koch
+info,umpire,SJ Nogajski
+info,reserve_umpire,TJ Matibiri
+info,tv_umpire,P Wilson
+info,match_referee,SJ Davis
+info,winner,Hobart Hurricanes
+info,winner_runs,2
+info,player,Hobart Hurricanes,CP Jewell
+info,player,Hobart Hurricanes,Z Crawley
+info,player,Hobart Hurricanes,M Wright
+info,player,Hobart Hurricanes,BR McDermott
+info,player,Hobart Hurricanes,TH David
+info,player,Hobart Hurricanes,MS Wade
+info,player,Hobart Hurricanes,Faheem Ashraf
+info,player,Hobart Hurricanes,JS Paris
+info,player,Hobart Hurricanes,NT Ellis
+info,player,Hobart Hurricanes,W Parker
+info,player,Hobart Hurricanes,RP Meredith
+info,player,Brisbane Heat,UT Khawaja
+info,player,Brisbane Heat,J Brown
+info,player,Brisbane Heat,M Labuschagne
+info,player,Brisbane Heat,MT Renshaw
+info,player,Brisbane Heat,SR Hain
+info,player,Brisbane Heat,JJ Peirson
+info,player,Brisbane Heat,MG Neser
+info,player,Brisbane Heat,JJ Bazley
+info,player,Brisbane Heat,MP Kuhnemann
+info,player,Brisbane Heat,SH Johnson
+info,player,Brisbane Heat,MJ Swepson
+info,registry,people,BR McDermott,c41043e6
+info,registry,people,CP Jewell,806c4e58
+info,registry,people,DM Koch,6d10c034
+info,registry,people,Faheem Ashraf,bd4ea627
+info,registry,people,J Brown,647e7d44
+info,registry,people,JJ Bazley,003d49e6
+info,registry,people,JJ Peirson,2b55c3b4
+info,registry,people,JS Paris,7c8f533d
+info,registry,people,M Labuschagne,fa433be6
+info,registry,people,M Wright,bd920a2c
+info,registry,people,MG Neser,0164b064
+info,registry,people,MJ Swepson,86b4bf88
+info,registry,people,MP Kuhnemann,7b953689
+info,registry,people,MS Wade,afa7e784
+info,registry,people,MT Renshaw,218d4d78
+info,registry,people,NT Ellis,9eb1455b
+info,registry,people,P Wilson,68304a36
+info,registry,people,RP Meredith,64775749
+info,registry,people,SH Johnson,83c3e8e3
+info,registry,people,SJ Davis,bc71b0b2
+info,registry,people,SJ Nogajski,9b3f9323
+info,registry,people,SR Hain,67b9536c
+info,registry,people,TH David,f1f99156
+info,registry,people,TJ Matibiri,4a3132b1
+info,registry,people,UT Khawaja,331ea488
+info,registry,people,W Parker,607c846c
+info,registry,people,Z Crawley,922e1b19
+ball,1,0.1,Hobart Hurricanes,CP Jewell,Z Crawley,MG Neser,2,0,,,,,,"",""
+ball,1,0.2,Hobart Hurricanes,CP Jewell,Z Crawley,MG Neser,4,0,,,,,,"",""
+ball,1,0.3,Hobart Hurricanes,CP Jewell,Z Crawley,MG Neser,0,0,,,,,,"",""
+ball,1,0.4,Hobart Hurricanes,CP Jewell,Z Crawley,MG Neser,0,0,,,,,,"",""
+ball,1,0.5,Hobart Hurricanes,CP Jewell,Z Crawley,MG Neser,0,0,,,,,,"",""
+ball,1,0.6,Hobart Hurricanes,CP Jewell,Z Crawley,MG Neser,0,0,,,,,,"",""
+ball,1,1.1,Hobart Hurricanes,Z Crawley,CP Jewell,SH Johnson,2,0,,,,,,"",""
+ball,1,1.2,Hobart Hurricanes,Z Crawley,CP Jewell,SH Johnson,1,0,,,,,,"",""
+ball,1,1.3,Hobart Hurricanes,CP Jewell,Z Crawley,SH Johnson,0,0,,,,,,"",""
+ball,1,1.4,Hobart Hurricanes,CP Jewell,Z Crawley,SH Johnson,0,0,,,,,,"",""
+ball,1,1.5,Hobart Hurricanes,CP Jewell,Z Crawley,SH Johnson,0,0,,,,,,"",""
+ball,1,1.6,Hobart Hurricanes,CP Jewell,Z Crawley,SH Johnson,1,0,,,,,,"",""
+ball,1,2.1,Hobart Hurricanes,CP Jewell,Z Crawley,MG Neser,4,0,,,,,,"",""
+ball,1,2.2,Hobart Hurricanes,CP Jewell,Z Crawley,MG Neser,6,0,,,,,,"",""
+ball,1,2.3,Hobart Hurricanes,CP Jewell,Z Crawley,MG Neser,0,0,,,,,,"",""
+ball,1,2.4,Hobart Hurricanes,CP Jewell,Z Crawley,MG Neser,0,0,,,,,,caught,CP Jewell
+ball,1,2.5,Hobart Hurricanes,M Wright,Z Crawley,MG Neser,1,0,,,,,,"",""
+ball,1,2.6,Hobart Hurricanes,Z Crawley,M Wright,MG Neser,0,0,,,,,,"",""
+ball,1,3.1,Hobart Hurricanes,M Wright,Z Crawley,SH Johnson,0,0,,,,,,"",""
+ball,1,3.2,Hobart Hurricanes,M Wright,Z Crawley,SH Johnson,0,0,,,,,,"",""
+ball,1,3.3,Hobart Hurricanes,M Wright,Z Crawley,SH Johnson,1,0,,,,,,"",""
+ball,1,3.4,Hobart Hurricanes,Z Crawley,M Wright,SH Johnson,0,1,,,1,,,"",""
+ball,1,3.5,Hobart Hurricanes,M Wright,Z Crawley,SH Johnson,2,0,,,,,,"",""
+ball,1,3.6,Hobart Hurricanes,M Wright,Z Crawley,SH Johnson,0,0,,,,,,"",""
+ball,1,4.1,Hobart Hurricanes,Z Crawley,M Wright,JJ Bazley,0,1,,,,1,,"",""
+ball,1,4.2,Hobart Hurricanes,M Wright,Z Crawley,JJ Bazley,1,0,,,,,,"",""
+ball,1,4.3,Hobart Hurricanes,Z Crawley,M Wright,JJ Bazley,0,0,,,,,,bowled,Z Crawley
+ball,1,4.4,Hobart Hurricanes,BR McDermott,M Wright,JJ Bazley,1,0,,,,,,"",""
+ball,1,4.5,Hobart Hurricanes,M Wright,BR McDermott,JJ Bazley,0,0,,,,,,"",""
+ball,1,4.6,Hobart Hurricanes,M Wright,BR McDermott,JJ Bazley,1,0,,,,,,"",""
+ball,1,5.1,Hobart Hurricanes,M Wright,BR McDermott,MP Kuhnemann,0,0,,,,,,"",""
+ball,1,5.2,Hobart Hurricanes,M Wright,BR McDermott,MP Kuhnemann,0,0,,,,,,"",""
+ball,1,5.3,Hobart Hurricanes,M Wright,BR McDermott,MP Kuhnemann,0,0,,,,,,"",""
+ball,1,5.4,Hobart Hurricanes,M Wright,BR McDermott,MP Kuhnemann,2,0,,,,,,"",""
+ball,1,5.5,Hobart Hurricanes,M Wright,BR McDermott,MP Kuhnemann,0,0,,,,,,"",""
+ball,1,5.6,Hobart Hurricanes,M Wright,BR McDermott,MP Kuhnemann,0,0,,,,,,"",""
+ball,1,6.1,Hobart Hurricanes,BR McDermott,M Wright,JJ Bazley,0,0,,,,,,"",""
+ball,1,6.2,Hobart Hurricanes,BR McDermott,M Wright,JJ Bazley,0,0,,,,,,"",""
+ball,1,6.3,Hobart Hurricanes,BR McDermott,M Wright,JJ Bazley,0,1,,,,1,,"",""
+ball,1,6.4,Hobart Hurricanes,M Wright,BR McDermott,JJ Bazley,0,0,,,,,,"",""
+ball,1,6.5,Hobart Hurricanes,M Wright,BR McDermott,JJ Bazley,0,0,,,,,,"",""
+ball,1,6.6,Hobart Hurricanes,M Wright,BR McDermott,JJ Bazley,1,0,,,,,,"",""
+ball,1,7.1,Hobart Hurricanes,M Wright,BR McDermott,MJ Swepson,1,0,,,,,,"",""
+ball,1,7.2,Hobart Hurricanes,BR McDermott,M Wright,MJ Swepson,0,0,,,,,,"",""
+ball,1,7.3,Hobart Hurricanes,BR McDermott,M Wright,MJ Swepson,1,0,,,,,,"",""
+ball,1,7.4,Hobart Hurricanes,M Wright,BR McDermott,MJ Swepson,0,0,,,,,,"",""
+ball,1,7.5,Hobart Hurricanes,M Wright,BR McDermott,MJ Swepson,1,0,,,,,,"",""
+ball,1,7.6,Hobart Hurricanes,BR McDermott,M Wright,MJ Swepson,0,0,,,,,,caught,BR McDermott
+ball,1,8.1,Hobart Hurricanes,M Wright,TH David,JJ Bazley,0,0,,,,,,"",""
+ball,1,8.2,Hobart Hurricanes,M Wright,TH David,JJ Bazley,0,0,,,,,,"",""
+ball,1,8.3,Hobart Hurricanes,M Wright,TH David,JJ Bazley,4,0,,,,,,"",""
+ball,1,8.4,Hobart Hurricanes,M Wright,TH David,JJ Bazley,4,0,,,,,,"",""
+ball,1,8.5,Hobart Hurricanes,M Wright,TH David,JJ Bazley,1,0,,,,,,"",""
+ball,1,8.6,Hobart Hurricanes,TH David,M Wright,JJ Bazley,0,0,,,,,,"",""
+ball,1,9.1,Hobart Hurricanes,M Wright,TH David,MJ Swepson,1,0,,,,,,"",""
+ball,1,9.2,Hobart Hurricanes,TH David,M Wright,MJ Swepson,1,0,,,,,,"",""
+ball,1,9.3,Hobart Hurricanes,M Wright,TH David,MJ Swepson,0,0,,,,,,"",""
+ball,1,9.4,Hobart Hurricanes,M Wright,TH David,MJ Swepson,0,0,,,,,,"",""
+ball,1,9.5,Hobart Hurricanes,M Wright,TH David,MJ Swepson,1,0,,,,,,"",""
+ball,1,9.6,Hobart Hurricanes,TH David,M Wright,MJ Swepson,1,0,,,,,,"",""
+ball,1,10.1,Hobart Hurricanes,TH David,M Wright,MP Kuhnemann,1,0,,,,,,"",""
+ball,1,10.2,Hobart Hurricanes,M Wright,TH David,MP Kuhnemann,1,0,,,,,,"",""
+ball,1,10.3,Hobart Hurricanes,TH David,M Wright,MP Kuhnemann,1,0,,,,,,"",""
+ball,1,10.4,Hobart Hurricanes,M Wright,TH David,MP Kuhnemann,0,0,,,,,,"",""
+ball,1,10.5,Hobart Hurricanes,M Wright,TH David,MP Kuhnemann,1,0,,,,,,"",""
+ball,1,10.6,Hobart Hurricanes,TH David,M Wright,MP Kuhnemann,0,0,,,,,,caught,TH David
+ball,1,11.1,Hobart Hurricanes,M Wright,MS Wade,MJ Swepson,1,0,,,,,,"",""
+ball,1,11.2,Hobart Hurricanes,MS Wade,M Wright,MJ Swepson,0,0,,,,,,"",""
+ball,1,11.3,Hobart Hurricanes,MS Wade,M Wright,MJ Swepson,0,0,,,,,,"",""
+ball,1,11.4,Hobart Hurricanes,MS Wade,M Wright,MJ Swepson,1,0,,,,,,"",""
+ball,1,11.5,Hobart Hurricanes,M Wright,MS Wade,MJ Swepson,1,0,,,,,,"",""
+ball,1,11.6,Hobart Hurricanes,MS Wade,M Wright,MJ Swepson,0,0,,,,,,"",""
+ball,1,12.1,Hobart Hurricanes,M Wright,MS Wade,MP Kuhnemann,1,0,,,,,,"",""
+ball,1,12.2,Hobart Hurricanes,MS Wade,M Wright,MP Kuhnemann,1,0,,,,,,"",""
+ball,1,12.3,Hobart Hurricanes,M Wright,MS Wade,MP Kuhnemann,4,0,,,,,,"",""
+ball,1,12.4,Hobart Hurricanes,M Wright,MS Wade,MP Kuhnemann,1,0,,,,,,"",""
+ball,1,12.5,Hobart Hurricanes,MS Wade,M Wright,MP Kuhnemann,1,0,,,,,,"",""
+ball,1,12.6,Hobart Hurricanes,M Wright,MS Wade,MP Kuhnemann,1,0,,,,,,"",""
+ball,1,13.1,Hobart Hurricanes,M Wright,MS Wade,MJ Swepson,0,0,,,,,,"",""
+ball,1,13.2,Hobart Hurricanes,M Wright,MS Wade,MJ Swepson,4,0,,,,,,"",""
+ball,1,13.3,Hobart Hurricanes,M Wright,MS Wade,MJ Swepson,1,0,,,,,,"",""
+ball,1,13.4,Hobart Hurricanes,MS Wade,M Wright,MJ Swepson,1,0,,,,,,"",""
+ball,1,13.5,Hobart Hurricanes,M Wright,MS Wade,MJ Swepson,0,0,,,,,,"",""
+ball,1,13.6,Hobart Hurricanes,M Wright,MS Wade,MJ Swepson,1,0,,,,,,"",""
+ball,1,14.1,Hobart Hurricanes,M Wright,MS Wade,MP Kuhnemann,1,0,,,,,,"",""
+ball,1,14.2,Hobart Hurricanes,MS Wade,M Wright,MP Kuhnemann,0,0,,,,,,"",""
+ball,1,14.3,Hobart Hurricanes,MS Wade,M Wright,MP Kuhnemann,1,0,,,,,,"",""
+ball,1,14.4,Hobart Hurricanes,M Wright,MS Wade,MP Kuhnemann,6,0,,,,,,"",""
+ball,1,14.5,Hobart Hurricanes,M Wright,MS Wade,MP Kuhnemann,1,0,,,,,,"",""
+ball,1,14.6,Hobart Hurricanes,MS Wade,M Wright,MP Kuhnemann,1,0,,,,,,"",""
+ball,1,15.1,Hobart Hurricanes,MS Wade,M Wright,JJ Bazley,1,0,,,,,,"",""
+ball,1,15.2,Hobart Hurricanes,M Wright,MS Wade,JJ Bazley,0,0,,,,,,"",""
+ball,1,15.3,Hobart Hurricanes,M Wright,MS Wade,JJ Bazley,1,0,,,,,,"",""
+ball,1,15.4,Hobart Hurricanes,MS Wade,M Wright,JJ Bazley,1,0,,,,,,"",""
+ball,1,15.5,Hobart Hurricanes,M Wright,MS Wade,JJ Bazley,2,0,,,,,,"",""
+ball,1,15.6,Hobart Hurricanes,M Wright,MS Wade,JJ Bazley,2,0,,,,,,"",""
+ball,1,16.1,Hobart Hurricanes,MS Wade,M Wright,SH Johnson,4,0,,,,,,"",""
+ball,1,16.2,Hobart Hurricanes,MS Wade,M Wright,SH Johnson,0,0,,,,,,caught,MS Wade
+ball,1,16.3,Hobart Hurricanes,Faheem Ashraf,M Wright,SH Johnson,1,0,,,,,,"",""
+ball,1,16.4,Hobart Hurricanes,M Wright,Faheem Ashraf,SH Johnson,0,0,,,,,,"",""
+ball,1,16.5,Hobart Hurricanes,M Wright,Faheem Ashraf,SH Johnson,0,0,,,,,,"",""
+ball,1,16.6,Hobart Hurricanes,M Wright,Faheem Ashraf,SH Johnson,4,0,,,,,,"",""
+ball,1,17.1,Hobart Hurricanes,Faheem Ashraf,M Wright,MG Neser,6,0,,,,,,"",""
+ball,1,17.2,Hobart Hurricanes,Faheem Ashraf,M Wright,MG Neser,1,0,,,,,,"",""
+ball,1,17.3,Hobart Hurricanes,M Wright,Faheem Ashraf,MG Neser,0,1,1,,,,,"",""
+ball,1,17.4,Hobart Hurricanes,M Wright,Faheem Ashraf,MG Neser,0,0,,,,,,"",""
+ball,1,17.5,Hobart Hurricanes,M Wright,Faheem Ashraf,MG Neser,0,0,,,,,,caught,M Wright
+ball,1,17.6,Hobart Hurricanes,JS Paris,Faheem Ashraf,MG Neser,0,0,,,,,,"",""
+ball,1,17.7,Hobart Hurricanes,JS Paris,Faheem Ashraf,MG Neser,4,0,,,,,,"",""
+ball,1,18.1,Hobart Hurricanes,Faheem Ashraf,JS Paris,SH Johnson,1,0,,,,,,"",""
+ball,1,18.2,Hobart Hurricanes,JS Paris,Faheem Ashraf,SH Johnson,0,0,,,,,,"",""
+ball,1,18.3,Hobart Hurricanes,JS Paris,Faheem Ashraf,SH Johnson,0,0,,,,,,lbw,JS Paris
+ball,1,18.4,Hobart Hurricanes,NT Ellis,Faheem Ashraf,SH Johnson,1,0,,,,,,"",""
+ball,1,18.5,Hobart Hurricanes,Faheem Ashraf,NT Ellis,SH Johnson,1,0,,,,,,"",""
+ball,1,18.6,Hobart Hurricanes,NT Ellis,Faheem Ashraf,SH Johnson,1,0,,,,,,"",""
+ball,1,19.1,Hobart Hurricanes,NT Ellis,Faheem Ashraf,MG Neser,0,0,,,,,,caught,NT Ellis
+ball,1,19.2,Hobart Hurricanes,W Parker,Faheem Ashraf,MG Neser,4,0,,,,,,"",""
+ball,1,19.3,Hobart Hurricanes,W Parker,Faheem Ashraf,MG Neser,0,0,,,,,,"",""
+ball,1,19.4,Hobart Hurricanes,W Parker,Faheem Ashraf,MG Neser,1,0,,,,,,"",""
+ball,1,19.5,Hobart Hurricanes,Faheem Ashraf,W Parker,MG Neser,1,0,,,,,,"",""
+ball,1,19.6,Hobart Hurricanes,W Parker,Faheem Ashraf,MG Neser,0,0,,,,,,caught,W Parker
+ball,2,0.1,Brisbane Heat,UT Khawaja,J Brown,RP Meredith,0,0,,,,,,"",""
+ball,2,0.2,Brisbane Heat,UT Khawaja,J Brown,RP Meredith,0,0,,,,,,"",""
+ball,2,0.3,Brisbane Heat,UT Khawaja,J Brown,RP Meredith,1,0,,,,,,"",""
+ball,2,0.4,Brisbane Heat,J Brown,UT Khawaja,RP Meredith,0,1,1,,,,,"",""
+ball,2,0.5,Brisbane Heat,J Brown,UT Khawaja,RP Meredith,0,0,,,,,,"",""
+ball,2,0.6,Brisbane Heat,J Brown,UT Khawaja,RP Meredith,0,0,,,,,,"",""
+ball,2,0.7,Brisbane Heat,J Brown,UT Khawaja,RP Meredith,0,0,,,,,,"",""
+ball,2,1.1,Brisbane Heat,UT Khawaja,J Brown,JS Paris,0,1,1,,,,,"",""
+ball,2,1.2,Brisbane Heat,UT Khawaja,J Brown,JS Paris,4,0,,,,,,"",""
+ball,2,1.3,Brisbane Heat,UT Khawaja,J Brown,JS Paris,4,0,,,,,,"",""
+ball,2,1.4,Brisbane Heat,UT Khawaja,J Brown,JS Paris,0,1,1,,,,,"",""
+ball,2,1.5,Brisbane Heat,UT Khawaja,J Brown,JS Paris,0,0,,,,,,"",""
+ball,2,1.6,Brisbane Heat,UT Khawaja,J Brown,JS Paris,0,0,,,,,,"",""
+ball,2,1.7,Brisbane Heat,UT Khawaja,J Brown,JS Paris,1,0,,,,,,"",""
+ball,2,1.8,Brisbane Heat,J Brown,UT Khawaja,JS Paris,4,0,,,,,,"",""
+ball,2,2.1,Brisbane Heat,UT Khawaja,J Brown,RP Meredith,0,0,,,,,,caught,UT Khawaja
+ball,2,2.2,Brisbane Heat,M Labuschagne,J Brown,RP Meredith,0,0,,,,,,"",""
+ball,2,2.3,Brisbane Heat,M Labuschagne,J Brown,RP Meredith,0,0,,,,,,"",""
+ball,2,2.4,Brisbane Heat,M Labuschagne,J Brown,RP Meredith,0,0,,,,,,"",""
+ball,2,2.5,Brisbane Heat,M Labuschagne,J Brown,RP Meredith,1,0,,,,,,"",""
+ball,2,2.6,Brisbane Heat,J Brown,M Labuschagne,RP Meredith,0,0,,,,,,"",""
+ball,2,3.1,Brisbane Heat,M Labuschagne,J Brown,NT Ellis,4,0,,,,,,"",""
+ball,2,3.2,Brisbane Heat,M Labuschagne,J Brown,NT Ellis,0,0,,,,,,"",""
+ball,2,3.3,Brisbane Heat,M Labuschagne,J Brown,NT Ellis,0,0,,,,,,"",""
+ball,2,3.4,Brisbane Heat,M Labuschagne,J Brown,NT Ellis,0,1,1,,,,,"",""
+ball,2,3.5,Brisbane Heat,M Labuschagne,J Brown,NT Ellis,0,0,,,,,,"",""
+ball,2,3.6,Brisbane Heat,M Labuschagne,J Brown,NT Ellis,0,0,,,,,,bowled,M Labuschagne
+ball,2,3.7,Brisbane Heat,MT Renshaw,J Brown,NT Ellis,1,0,,,,,,"",""
+ball,2,4.1,Brisbane Heat,MT Renshaw,J Brown,RP Meredith,1,0,,,,,,"",""
+ball,2,4.2,Brisbane Heat,J Brown,MT Renshaw,RP Meredith,4,0,,,,,,"",""
+ball,2,4.3,Brisbane Heat,J Brown,MT Renshaw,RP Meredith,0,0,,,,,,"",""
+ball,2,4.4,Brisbane Heat,J Brown,MT Renshaw,RP Meredith,1,0,,,,,,"",""
+ball,2,4.5,Brisbane Heat,MT Renshaw,J Brown,RP Meredith,0,0,,,,,,"",""
+ball,2,4.6,Brisbane Heat,MT Renshaw,J Brown,RP Meredith,0,0,,,,,,"",""
+ball,2,5.1,Brisbane Heat,J Brown,MT Renshaw,Faheem Ashraf,0,0,,,,,,caught,J Brown
+ball,2,5.2,Brisbane Heat,SR Hain,MT Renshaw,Faheem Ashraf,0,0,,,,,,run out,MT Renshaw
+ball,2,5.3,Brisbane Heat,JJ Peirson,SR Hain,Faheem Ashraf,0,0,,,,,,"",""
+ball,2,5.4,Brisbane Heat,JJ Peirson,SR Hain,Faheem Ashraf,2,0,,,,,,"",""
+ball,2,5.5,Brisbane Heat,JJ Peirson,SR Hain,Faheem Ashraf,0,0,,,,,,"",""
+ball,2,5.6,Brisbane Heat,JJ Peirson,SR Hain,Faheem Ashraf,1,0,,,,,,"",""
+ball,2,6.1,Brisbane Heat,JJ Peirson,SR Hain,NT Ellis,0,0,,,,,,"",""
+ball,2,6.2,Brisbane Heat,JJ Peirson,SR Hain,NT Ellis,0,0,,,,,,"",""
+ball,2,6.3,Brisbane Heat,JJ Peirson,SR Hain,NT Ellis,0,1,1,,,,,"",""
+ball,2,6.4,Brisbane Heat,JJ Peirson,SR Hain,NT Ellis,4,0,,,,,,"",""
+ball,2,6.5,Brisbane Heat,JJ Peirson,SR Hain,NT Ellis,0,0,,,,,,"",""
+ball,2,6.6,Brisbane Heat,JJ Peirson,SR Hain,NT Ellis,1,0,,,,,,"",""
+ball,2,6.7,Brisbane Heat,SR Hain,JJ Peirson,NT Ellis,1,0,,,,,,"",""
+ball,2,7.1,Brisbane Heat,SR Hain,JJ Peirson,JS Paris,0,0,,,,,,"",""
+ball,2,7.2,Brisbane Heat,SR Hain,JJ Peirson,JS Paris,0,0,,,,,,"",""
+ball,2,7.3,Brisbane Heat,SR Hain,JJ Peirson,JS Paris,1,0,,,,,,"",""
+ball,2,7.4,Brisbane Heat,JJ Peirson,SR Hain,JS Paris,0,0,,,,,,"",""
+ball,2,7.5,Brisbane Heat,JJ Peirson,SR Hain,JS Paris,4,0,,,,,,"",""
+ball,2,7.6,Brisbane Heat,JJ Peirson,SR Hain,JS Paris,0,0,,,,,,"",""
+ball,2,8.1,Brisbane Heat,SR Hain,JJ Peirson,W Parker,0,2,,,,2,,"",""
+ball,2,8.2,Brisbane Heat,SR Hain,JJ Peirson,W Parker,0,1,1,,,,,"",""
+ball,2,8.3,Brisbane Heat,SR Hain,JJ Peirson,W Parker,1,0,,,,,,"",""
+ball,2,8.4,Brisbane Heat,JJ Peirson,SR Hain,W Parker,2,0,,,,,,"",""
+ball,2,8.5,Brisbane Heat,JJ Peirson,SR Hain,W Parker,1,0,,,,,,"",""
+ball,2,8.6,Brisbane Heat,SR Hain,JJ Peirson,W Parker,1,0,,,,,,"",""
+ball,2,8.7,Brisbane Heat,JJ Peirson,SR Hain,W Parker,0,0,,,,,,"",""
+ball,2,9.1,Brisbane Heat,SR Hain,JJ Peirson,Faheem Ashraf,0,0,,,,,,"",""
+ball,2,9.2,Brisbane Heat,SR Hain,JJ Peirson,Faheem Ashraf,4,0,,,,,,"",""
+ball,2,9.3,Brisbane Heat,SR Hain,JJ Peirson,Faheem Ashraf,0,0,,,,,,"",""
+ball,2,9.4,Brisbane Heat,SR Hain,JJ Peirson,Faheem Ashraf,0,0,,,,,,"",""
+ball,2,9.5,Brisbane Heat,SR Hain,JJ Peirson,Faheem Ashraf,1,0,,,,,,"",""
+ball,2,9.6,Brisbane Heat,JJ Peirson,SR Hain,Faheem Ashraf,0,0,,,,,,"",""
+ball,2,10.1,Brisbane Heat,SR Hain,JJ Peirson,W Parker,1,0,,,,,,"",""
+ball,2,10.2,Brisbane Heat,JJ Peirson,SR Hain,W Parker,1,0,,,,,,"",""
+ball,2,10.3,Brisbane Heat,SR Hain,JJ Peirson,W Parker,1,0,,,,,,"",""
+ball,2,10.4,Brisbane Heat,JJ Peirson,SR Hain,W Parker,1,0,,,,,,"",""
+ball,2,10.5,Brisbane Heat,SR Hain,JJ Peirson,W Parker,1,0,,,,,,"",""
+ball,2,10.6,Brisbane Heat,JJ Peirson,SR Hain,W Parker,1,0,,,,,,"",""
+ball,2,11.1,Brisbane Heat,JJ Peirson,SR Hain,JS Paris,1,0,,,,,,"",""
+ball,2,11.2,Brisbane Heat,SR Hain,JJ Peirson,JS Paris,0,0,,,,,,"",""
+ball,2,11.3,Brisbane Heat,SR Hain,JJ Peirson,JS Paris,1,0,,,,,,"",""
+ball,2,11.4,Brisbane Heat,JJ Peirson,SR Hain,JS Paris,4,0,,,,,,"",""
+ball,2,11.5,Brisbane Heat,JJ Peirson,SR Hain,JS Paris,1,0,,,,,,"",""
+ball,2,11.6,Brisbane Heat,SR Hain,JJ Peirson,JS Paris,0,0,,,,,,"",""
+ball,2,12.1,Brisbane Heat,JJ Peirson,SR Hain,TH David,1,0,,,,,,"",""
+ball,2,12.2,Brisbane Heat,SR Hain,JJ Peirson,TH David,1,0,,,,,,"",""
+ball,2,12.3,Brisbane Heat,JJ Peirson,SR Hain,TH David,1,0,,,,,,"",""
+ball,2,12.4,Brisbane Heat,SR Hain,JJ Peirson,TH David,1,0,,,,,,"",""
+ball,2,12.5,Brisbane Heat,JJ Peirson,SR Hain,TH David,1,0,,,,,,"",""
+ball,2,12.6,Brisbane Heat,SR Hain,JJ Peirson,TH David,1,0,,,,,,"",""
+ball,2,13.1,Brisbane Heat,SR Hain,JJ Peirson,Faheem Ashraf,2,0,,,,,,"",""
+ball,2,13.2,Brisbane Heat,SR Hain,JJ Peirson,Faheem Ashraf,1,0,,,,,,"",""
+ball,2,13.3,Brisbane Heat,JJ Peirson,SR Hain,Faheem Ashraf,0,0,,,,,,"",""
+ball,2,13.4,Brisbane Heat,JJ Peirson,SR Hain,Faheem Ashraf,0,1,1,,,,,"",""
+ball,2,13.5,Brisbane Heat,JJ Peirson,SR Hain,Faheem Ashraf,4,0,,,,,,"",""
+ball,2,13.6,Brisbane Heat,JJ Peirson,SR Hain,Faheem Ashraf,1,0,,,,,,"",""
+ball,2,13.7,Brisbane Heat,SR Hain,JJ Peirson,Faheem Ashraf,0,0,,,,,,"",""
+ball,2,14.1,Brisbane Heat,JJ Peirson,SR Hain,RP Meredith,1,0,,,,,,"",""
+ball,2,14.2,Brisbane Heat,SR Hain,JJ Peirson,RP Meredith,0,0,,,,,,"",""
+ball,2,14.3,Brisbane Heat,SR Hain,JJ Peirson,RP Meredith,0,4,,,,4,,"",""
+ball,2,14.4,Brisbane Heat,SR Hain,JJ Peirson,RP Meredith,2,0,,,,,,"",""
+ball,2,14.5,Brisbane Heat,SR Hain,JJ Peirson,RP Meredith,0,0,,,,,,"",""
+ball,2,14.6,Brisbane Heat,SR Hain,JJ Peirson,RP Meredith,0,0,,,,,,"",""
+ball,2,15.1,Brisbane Heat,JJ Peirson,SR Hain,NT Ellis,2,0,,,,,,"",""
+ball,2,15.2,Brisbane Heat,JJ Peirson,SR Hain,NT Ellis,1,0,,,,,,"",""
+ball,2,15.3,Brisbane Heat,SR Hain,JJ Peirson,NT Ellis,0,0,,,,,,"",""
+ball,2,15.4,Brisbane Heat,SR Hain,JJ Peirson,NT Ellis,1,0,,,,,,"",""
+ball,2,15.5,Brisbane Heat,JJ Peirson,SR Hain,NT Ellis,1,0,,,,,,"",""
+ball,2,15.6,Brisbane Heat,SR Hain,JJ Peirson,NT Ellis,4,0,,,,,,"",""
+ball,2,16.1,Brisbane Heat,JJ Peirson,SR Hain,Faheem Ashraf,1,0,,,,,,"",""
+ball,2,16.2,Brisbane Heat,SR Hain,JJ Peirson,Faheem Ashraf,0,0,,,,,,caught,SR Hain
+ball,2,16.3,Brisbane Heat,MG Neser,JJ Peirson,Faheem Ashraf,0,1,,,,1,,"",""
+ball,2,16.4,Brisbane Heat,JJ Peirson,MG Neser,Faheem Ashraf,0,0,,,,,,"",""
+ball,2,16.5,Brisbane Heat,JJ Peirson,MG Neser,Faheem Ashraf,1,0,,,,,,"",""
+ball,2,16.6,Brisbane Heat,MG Neser,JJ Peirson,Faheem Ashraf,0,0,,,,,,"",""
+ball,2,17.1,Brisbane Heat,JJ Peirson,MG Neser,NT Ellis,0,0,,,,,,"",""
+ball,2,17.2,Brisbane Heat,JJ Peirson,MG Neser,NT Ellis,0,0,,,,,,caught,JJ Peirson
+ball,2,17.3,Brisbane Heat,JJ Bazley,MG Neser,NT Ellis,2,0,,,,,,"",""
+ball,2,17.4,Brisbane Heat,JJ Bazley,MG Neser,NT Ellis,1,0,,,,,,"",""
+ball,2,17.5,Brisbane Heat,MG Neser,JJ Bazley,NT Ellis,1,0,,,,,,"",""
+ball,2,17.6,Brisbane Heat,JJ Bazley,MG Neser,NT Ellis,0,0,,,,,,"",""
+ball,2,18.1,Brisbane Heat,MG Neser,JJ Bazley,JS Paris,2,0,,,,,,"",""
+ball,2,18.2,Brisbane Heat,MG Neser,JJ Bazley,JS Paris,0,0,,,,,,bowled,MG Neser
+ball,2,18.3,Brisbane Heat,MP Kuhnemann,JJ Bazley,JS Paris,0,0,,,,,,"",""
+ball,2,18.4,Brisbane Heat,MP Kuhnemann,JJ Bazley,JS Paris,0,0,,,,,,"",""
+ball,2,18.5,Brisbane Heat,MP Kuhnemann,JJ Bazley,JS Paris,0,0,,,,,,"",""
+ball,2,18.6,Brisbane Heat,MP Kuhnemann,JJ Bazley,JS Paris,0,0,,,,,,"",""
+ball,2,19.1,Brisbane Heat,JJ Bazley,MP Kuhnemann,TH David,0,0,,,,,,"",""
+ball,2,19.2,Brisbane Heat,JJ Bazley,MP Kuhnemann,TH David,0,0,,,,,,"",""
+ball,2,19.3,Brisbane Heat,JJ Bazley,MP Kuhnemann,TH David,0,0,,,,,,run out,MP Kuhnemann
+ball,2,19.4,Brisbane Heat,JJ Bazley,SH Johnson,TH David,6,0,,,,,,"",""
+ball,2,19.5,Brisbane Heat,JJ Bazley,SH Johnson,TH David,0,0,,,,,,"",""
+ball,2,19.6,Brisbane Heat,JJ Bazley,SH Johnson,TH David,1,0,,,,,,"",""

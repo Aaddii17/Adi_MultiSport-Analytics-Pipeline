@@ -1,0 +1,179 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Hobart Hurricanes
+info,team,Melbourne Stars
+info,gender,male
+info,season,2025/26
+info,date,2026/01/21
+info,event,Big Bash League
+info,venue,"Bellerive Oval, Hobart"
+info,city,Hobart
+info,toss_winner,Melbourne Stars
+info,toss_decision,field
+info,player_of_match,BJ Webster
+info,umpire,MW Graham-Smith
+info,umpire,PJ Gillespie
+info,reserve_umpire,Andrew Crozier
+info,tv_umpire,DM Koch
+info,match_referee,Kepler Wessels
+info,winner,Hobart Hurricanes
+info,winner_runs,3
+info,method,D/L
+info,player,Hobart Hurricanes,MJ Owen
+info,player,Hobart Hurricanes,TP Ward
+info,player,Hobart Hurricanes,BJ Webster
+info,player,Hobart Hurricanes,BR McDermott
+info,player,Hobart Hurricanes,Nikhil Chaudhary
+info,player,Hobart Hurricanes,MS Wade
+info,player,Hobart Hurricanes,CJ Jordan
+info,player,Hobart Hurricanes,W Prestwidge
+info,player,Hobart Hurricanes,B Stanlake
+info,player,Hobart Hurricanes,Rishad Hossain
+info,player,Hobart Hurricanes,RP Meredith
+info,player,Melbourne Stars,TF Rogers
+info,player,Melbourne Stars,SB Harper
+info,player,Melbourne Stars,JM Clarke
+info,player,Melbourne Stars,MP Stoinis
+info,player,Melbourne Stars,GJ Maxwell
+info,player,Melbourne Stars,HWR Cartwright
+info,player,Melbourne Stars,C Kellaway
+info,player,Melbourne Stars,TK Curran
+info,player,Melbourne Stars,MJ Swepson
+info,player,Melbourne Stars,Haris Rauf
+info,player,Melbourne Stars,PM Siddle
+info,registry,people,Andrew Crozier,00d07580
+info,registry,people,B Stanlake,6834d1f2
+info,registry,people,BJ Webster,56b93d46
+info,registry,people,BR McDermott,c41043e6
+info,registry,people,C Kellaway,60c28835
+info,registry,people,CJ Jordan,ffe699c0
+info,registry,people,DM Koch,6d10c034
+info,registry,people,GJ Maxwell,b681e71e
+info,registry,people,HWR Cartwright,ab965cad
+info,registry,people,Haris Rauf,24bb1c2f
+info,registry,people,JM Clarke,2eca67f5
+info,registry,people,Kepler Wessels,3bedaff0
+info,registry,people,MJ Owen,f2c936d7
+info,registry,people,MJ Swepson,86b4bf88
+info,registry,people,MP Stoinis,d9273ee7
+info,registry,people,MS Wade,afa7e784
+info,registry,people,MW Graham-Smith,18aca3ce
+info,registry,people,Nikhil Chaudhary,1f84183a
+info,registry,people,PJ Gillespie,3e253a50
+info,registry,people,PM Siddle,bd93fea4
+info,registry,people,RP Meredith,64775749
+info,registry,people,Rishad Hossain,5935d694
+info,registry,people,SB Harper,a756e61a
+info,registry,people,TF Rogers,7f232d46
+info,registry,people,TK Curran,e86754b2
+info,registry,people,TP Ward,fdd837ba
+info,registry,people,W Prestwidge,bdf7a718
+ball,1,0.1,Hobart Hurricanes,MJ Owen,TP Ward,GJ Maxwell,1,0,,,,,,"",""
+ball,1,0.2,Hobart Hurricanes,TP Ward,MJ Owen,GJ Maxwell,1,0,,,,,,"",""
+ball,1,0.3,Hobart Hurricanes,MJ Owen,TP Ward,GJ Maxwell,6,0,,,,,,"",""
+ball,1,0.4,Hobart Hurricanes,MJ Owen,TP Ward,GJ Maxwell,0,0,,,,,,"",""
+ball,1,0.5,Hobart Hurricanes,MJ Owen,TP Ward,GJ Maxwell,0,0,,,,,,stumped,MJ Owen
+ball,1,0.6,Hobart Hurricanes,BJ Webster,TP Ward,GJ Maxwell,1,0,,,,,,"",""
+ball,1,1.1,Hobart Hurricanes,BJ Webster,TP Ward,TK Curran,4,0,,,,,,"",""
+ball,1,1.2,Hobart Hurricanes,BJ Webster,TP Ward,TK Curran,1,0,,,,,,"",""
+ball,1,1.3,Hobart Hurricanes,TP Ward,BJ Webster,TK Curran,0,1,1,,,,,"",""
+ball,1,1.4,Hobart Hurricanes,TP Ward,BJ Webster,TK Curran,0,1,1,,,,,"",""
+ball,1,1.5,Hobart Hurricanes,TP Ward,BJ Webster,TK Curran,4,0,,,,,,"",""
+ball,1,1.6,Hobart Hurricanes,TP Ward,BJ Webster,TK Curran,0,0,,,,,,"",""
+ball,1,1.7,Hobart Hurricanes,TP Ward,BJ Webster,TK Curran,4,0,,,,,,"",""
+ball,1,1.8,Hobart Hurricanes,TP Ward,BJ Webster,TK Curran,0,0,,,,,,"",""
+ball,1,2.1,Hobart Hurricanes,BJ Webster,TP Ward,PM Siddle,4,0,,,,,,"",""
+ball,1,2.2,Hobart Hurricanes,BJ Webster,TP Ward,PM Siddle,0,0,,,,,,"",""
+ball,1,2.3,Hobart Hurricanes,BJ Webster,TP Ward,PM Siddle,0,1,,,,1,,"",""
+ball,1,2.4,Hobart Hurricanes,TP Ward,BJ Webster,PM Siddle,0,0,,,,,,"",""
+ball,1,2.5,Hobart Hurricanes,TP Ward,BJ Webster,PM Siddle,1,0,,,,,,"",""
+ball,1,2.6,Hobart Hurricanes,BJ Webster,TP Ward,PM Siddle,4,0,,,,,,"",""
+ball,1,3.1,Hobart Hurricanes,TP Ward,BJ Webster,Haris Rauf,0,2,,,,2,,"",""
+ball,1,3.2,Hobart Hurricanes,TP Ward,BJ Webster,Haris Rauf,0,1,,,,1,,"",""
+ball,1,3.3,Hobart Hurricanes,BJ Webster,TP Ward,Haris Rauf,1,0,,,,,,"",""
+ball,1,3.4,Hobart Hurricanes,TP Ward,BJ Webster,Haris Rauf,0,0,,,,,,caught,TP Ward
+ball,1,3.5,Hobart Hurricanes,BR McDermott,BJ Webster,Haris Rauf,4,0,,,,,,"",""
+ball,1,3.6,Hobart Hurricanes,BR McDermott,BJ Webster,Haris Rauf,4,0,,,,,,"",""
+ball,1,4.1,Hobart Hurricanes,BJ Webster,BR McDermott,MJ Swepson,1,0,,,,,,"",""
+ball,1,4.2,Hobart Hurricanes,BR McDermott,BJ Webster,MJ Swepson,1,0,,,,,,"",""
+ball,1,4.3,Hobart Hurricanes,BJ Webster,BR McDermott,MJ Swepson,1,0,,,,,,"",""
+ball,1,4.4,Hobart Hurricanes,BR McDermott,BJ Webster,MJ Swepson,1,0,,,,,,"",""
+ball,1,4.5,Hobart Hurricanes,BJ Webster,BR McDermott,MJ Swepson,1,0,,,,,,"",""
+ball,1,4.6,Hobart Hurricanes,BR McDermott,BJ Webster,MJ Swepson,1,0,,,,,,"",""
+ball,1,5.1,Hobart Hurricanes,BR McDermott,BJ Webster,MP Stoinis,1,0,,,,,,"",""
+ball,1,5.2,Hobart Hurricanes,BJ Webster,BR McDermott,MP Stoinis,1,0,,,,,,"",""
+ball,1,5.3,Hobart Hurricanes,BR McDermott,BJ Webster,MP Stoinis,0,0,,,,,,lbw,BR McDermott
+ball,1,5.4,Hobart Hurricanes,Nikhil Chaudhary,BJ Webster,MP Stoinis,1,0,,,,,,"",""
+ball,1,5.5,Hobart Hurricanes,BJ Webster,Nikhil Chaudhary,MP Stoinis,0,1,1,,,,,"",""
+ball,1,5.6,Hobart Hurricanes,BJ Webster,Nikhil Chaudhary,MP Stoinis,2,0,,,,,,"",""
+ball,1,5.7,Hobart Hurricanes,BJ Webster,Nikhil Chaudhary,MP Stoinis,0,0,,,,,,"",""
+ball,1,6.1,Hobart Hurricanes,Nikhil Chaudhary,BJ Webster,MJ Swepson,1,0,,,,,,"",""
+ball,1,6.2,Hobart Hurricanes,BJ Webster,Nikhil Chaudhary,MJ Swepson,1,0,,,,,,"",""
+ball,1,6.3,Hobart Hurricanes,Nikhil Chaudhary,BJ Webster,MJ Swepson,1,0,,,,,,"",""
+ball,1,6.4,Hobart Hurricanes,BJ Webster,Nikhil Chaudhary,MJ Swepson,1,0,,,,,,"",""
+ball,1,6.5,Hobart Hurricanes,Nikhil Chaudhary,BJ Webster,MJ Swepson,1,0,,,,,,"",""
+ball,1,6.6,Hobart Hurricanes,BJ Webster,Nikhil Chaudhary,MJ Swepson,1,0,,,,,,"",""
+ball,1,7.1,Hobart Hurricanes,BJ Webster,Nikhil Chaudhary,PM Siddle,2,0,,,,,,"",""
+ball,1,7.2,Hobart Hurricanes,BJ Webster,Nikhil Chaudhary,PM Siddle,1,0,,,,,,"",""
+ball,1,7.3,Hobart Hurricanes,Nikhil Chaudhary,BJ Webster,PM Siddle,6,0,,,,,,"",""
+ball,1,7.4,Hobart Hurricanes,Nikhil Chaudhary,BJ Webster,PM Siddle,0,0,,,,,,"",""
+ball,1,7.5,Hobart Hurricanes,Nikhil Chaudhary,BJ Webster,PM Siddle,0,1,,,1,,,"",""
+ball,1,7.6,Hobart Hurricanes,BJ Webster,Nikhil Chaudhary,PM Siddle,1,0,,,,,,"",""
+ball,1,8.1,Hobart Hurricanes,BJ Webster,Nikhil Chaudhary,Haris Rauf,1,0,,,,,,"",""
+ball,1,8.2,Hobart Hurricanes,Nikhil Chaudhary,BJ Webster,Haris Rauf,0,1,1,,,,,"",""
+ball,1,8.3,Hobart Hurricanes,Nikhil Chaudhary,BJ Webster,Haris Rauf,2,0,,,,,,"",""
+ball,1,8.4,Hobart Hurricanes,Nikhil Chaudhary,BJ Webster,Haris Rauf,6,0,,,,,,"",""
+ball,1,8.5,Hobart Hurricanes,Nikhil Chaudhary,BJ Webster,Haris Rauf,6,0,,,,,,"",""
+ball,1,8.6,Hobart Hurricanes,Nikhil Chaudhary,BJ Webster,Haris Rauf,0,0,,,,,,caught,Nikhil Chaudhary
+ball,1,8.7,Hobart Hurricanes,MS Wade,BJ Webster,Haris Rauf,2,0,,,,,,"",""
+ball,1,9.1,Hobart Hurricanes,BJ Webster,MS Wade,TK Curran,0,1,1,,,,,"",""
+ball,1,9.2,Hobart Hurricanes,BJ Webster,MS Wade,TK Curran,6,0,,,,,,"",""
+ball,1,9.3,Hobart Hurricanes,BJ Webster,MS Wade,TK Curran,0,0,,,,,,"",""
+ball,1,9.4,Hobart Hurricanes,BJ Webster,MS Wade,TK Curran,6,0,,,,,,"",""
+ball,1,9.5,Hobart Hurricanes,BJ Webster,MS Wade,TK Curran,6,0,,,,,,"",""
+ball,1,9.6,Hobart Hurricanes,BJ Webster,MS Wade,TK Curran,0,0,,,,,,caught,BJ Webster
+ball,1,9.7,Hobart Hurricanes,CJ Jordan,MS Wade,TK Curran,2,0,,,,,,"",""
+ball,2,0.1,Melbourne Stars,TF Rogers,SB Harper,Nikhil Chaudhary,0,0,,,,,,"",""
+ball,2,0.2,Melbourne Stars,TF Rogers,SB Harper,Nikhil Chaudhary,1,0,,,,,,"",""
+ball,2,0.3,Melbourne Stars,SB Harper,TF Rogers,Nikhil Chaudhary,1,0,,,,,,"",""
+ball,2,0.4,Melbourne Stars,TF Rogers,SB Harper,Nikhil Chaudhary,0,0,,,,,,"",""
+ball,2,0.5,Melbourne Stars,TF Rogers,SB Harper,Nikhil Chaudhary,2,0,,,,,,"",""
+ball,2,0.6,Melbourne Stars,TF Rogers,SB Harper,Nikhil Chaudhary,1,0,,,,,,"",""
+ball,2,1.1,Melbourne Stars,TF Rogers,SB Harper,RP Meredith,0,0,,,,,,bowled,TF Rogers
+ball,2,1.2,Melbourne Stars,JM Clarke,SB Harper,RP Meredith,0,0,,,,,,"",""
+ball,2,1.3,Melbourne Stars,JM Clarke,SB Harper,RP Meredith,0,0,,,,,,"",""
+ball,2,1.4,Melbourne Stars,JM Clarke,SB Harper,RP Meredith,0,0,,,,,,"",""
+ball,2,1.5,Melbourne Stars,JM Clarke,SB Harper,RP Meredith,4,0,,,,,,"",""
+ball,2,1.6,Melbourne Stars,JM Clarke,SB Harper,RP Meredith,0,0,,,,,,"",""
+ball,2,2.1,Melbourne Stars,SB Harper,JM Clarke,B Stanlake,0,1,1,,,,,"",""
+ball,2,2.2,Melbourne Stars,SB Harper,JM Clarke,B Stanlake,0,1,,,,1,,"",""
+ball,2,2.3,Melbourne Stars,JM Clarke,SB Harper,B Stanlake,0,0,,,,,,"",""
+ball,2,2.4,Melbourne Stars,JM Clarke,SB Harper,B Stanlake,4,0,,,,,,"",""
+ball,2,2.5,Melbourne Stars,JM Clarke,SB Harper,B Stanlake,2,0,,,,,,"",""
+ball,2,2.6,Melbourne Stars,JM Clarke,SB Harper,B Stanlake,2,0,,,,,,"",""
+ball,2,2.7,Melbourne Stars,JM Clarke,SB Harper,B Stanlake,1,0,,,,,,"",""
+ball,2,3.1,Melbourne Stars,JM Clarke,SB Harper,Rishad Hossain,6,0,,,,,,"",""
+ball,2,3.2,Melbourne Stars,JM Clarke,SB Harper,Rishad Hossain,1,0,,,,,,"",""
+ball,2,3.3,Melbourne Stars,SB Harper,JM Clarke,Rishad Hossain,1,0,,,,,,"",""
+ball,2,3.4,Melbourne Stars,JM Clarke,SB Harper,Rishad Hossain,2,0,,,,,,"",""
+ball,2,3.5,Melbourne Stars,JM Clarke,SB Harper,Rishad Hossain,1,0,,,,,,"",""
+ball,2,3.6,Melbourne Stars,SB Harper,JM Clarke,Rishad Hossain,2,0,,,,,,"",""
+ball,2,4.1,Melbourne Stars,JM Clarke,SB Harper,RP Meredith,4,0,,,,,,"",""
+ball,2,4.2,Melbourne Stars,JM Clarke,SB Harper,RP Meredith,4,0,,,,,,"",""
+ball,2,4.3,Melbourne Stars,JM Clarke,SB Harper,RP Meredith,0,0,,,,,,caught,JM Clarke
+ball,2,4.4,Melbourne Stars,MP Stoinis,SB Harper,RP Meredith,1,0,,,,,,"",""
+ball,2,4.5,Melbourne Stars,SB Harper,MP Stoinis,RP Meredith,2,0,,,,,,"",""
+ball,2,4.6,Melbourne Stars,SB Harper,MP Stoinis,RP Meredith,4,0,,,,,,"",""
+ball,2,5.1,Melbourne Stars,MP Stoinis,SB Harper,Rishad Hossain,1,0,,,,,,retired out,SB Harper
+ball,2,5.2,Melbourne Stars,GJ Maxwell,MP Stoinis,Rishad Hossain,2,0,,,,,,"",""
+ball,2,5.3,Melbourne Stars,GJ Maxwell,MP Stoinis,Rishad Hossain,6,0,,,,,,"",""
+ball,2,5.4,Melbourne Stars,GJ Maxwell,MP Stoinis,Rishad Hossain,1,0,,,,,,"",""
+ball,2,5.5,Melbourne Stars,MP Stoinis,GJ Maxwell,Rishad Hossain,1,0,,,,,,"",""
+ball,2,5.6,Melbourne Stars,GJ Maxwell,MP Stoinis,Rishad Hossain,0,0,,,,,,"",""
+ball,2,6.1,Melbourne Stars,MP Stoinis,GJ Maxwell,MJ Owen,6,0,,,,,,"",""
+ball,2,6.2,Melbourne Stars,MP Stoinis,GJ Maxwell,MJ Owen,0,1,1,,,,,"",""
+ball,2,6.3,Melbourne Stars,MP Stoinis,GJ Maxwell,MJ Owen,0,0,,,,,,caught,MP Stoinis
+ball,2,6.4,Melbourne Stars,HWR Cartwright,GJ Maxwell,MJ Owen,4,0,,,,,,"",""
+ball,2,6.5,Melbourne Stars,HWR Cartwright,GJ Maxwell,MJ Owen,4,0,,,,,,"",""
+ball,2,6.6,Melbourne Stars,HWR Cartwright,GJ Maxwell,MJ Owen,6,0,,,,,,"",""
+ball,2,6.7,Melbourne Stars,HWR Cartwright,GJ Maxwell,MJ Owen,1,0,,,,,,"",""

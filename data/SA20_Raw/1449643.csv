@@ -1,0 +1,193 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Pretoria Capitals
+info,team,Joburg Super Kings
+info,gender,male
+info,season,2024/25
+info,date,2025/01/16
+info,event,SA20
+info,match_number,10
+info,venue,"The Wanderers Stadium, Johannesburg"
+info,city,Johannesburg
+info,toss_winner,Joburg Super Kings
+info,toss_decision,field
+info,umpire,BP Jele
+info,umpire,LB Gcuma
+info,reserve_umpire,James Middlebrook
+info,tv_umpire,Stephen Harris
+info,match_referee,LH Matroos
+info,outcome,no result
+info,player,Pretoria Capitals,WG Jacks
+info,player,Pretoria Capitals,Rahmanullah Gurbaz
+info,player,Pretoria Capitals,K Verreynne
+info,player,Pretoria Capitals,RR Rossouw
+info,player,Pretoria Capitals,LS Livingstone
+info,player,Pretoria Capitals,MJ Ackerman
+info,player,Pretoria Capitals,JDS Neesham
+info,player,Pretoria Capitals,S Muthusamy
+info,player,Pretoria Capitals,M Pretorius
+info,player,Pretoria Capitals,E Bosch
+info,player,Pretoria Capitals,T van Vuuren
+info,player,Joburg Super Kings,DP Conway
+info,player,Joburg Super Kings,F du Plessis
+info,player,Joburg Super Kings,JL du Plooy
+info,player,Joburg Super Kings,JM Bairstow
+info,player,Joburg Super Kings,MM Ali
+info,player,Joburg Super Kings,D Ferreira
+info,player,Joburg Super Kings,E Jones
+info,player,Joburg Super Kings,D Wiese
+info,player,Joburg Super Kings,GC Viljoen
+info,player,Joburg Super Kings,Imran Tahir
+info,player,Joburg Super Kings,L Sipamla
+info,registry,people,BP Jele,7bb1331e
+info,registry,people,D Ferreira,f0af99a7
+info,registry,people,D Wiese,aa8d28ae
+info,registry,people,DP Conway,df5a6881
+info,registry,people,E Bosch,28d6c44d
+info,registry,people,E Jones,fbfea9c2
+info,registry,people,F du Plessis,3355b542
+info,registry,people,GC Viljoen,a316d663
+info,registry,people,Imran Tahir,acee4cc4
+info,registry,people,JDS Neesham,9219eff0
+info,registry,people,JL du Plooy,6e6fb538
+info,registry,people,JM Bairstow,abb83e27
+info,registry,people,James Middlebrook,ddcd1520
+info,registry,people,K Verreynne,bf814547
+info,registry,people,L Sipamla,f892fcf9
+info,registry,people,LB Gcuma,02ba88e3
+info,registry,people,LH Matroos,6fa18157
+info,registry,people,LS Livingstone,50c6bc2b
+info,registry,people,M Pretorius,54c2b697
+info,registry,people,MJ Ackerman,6287d981
+info,registry,people,MM Ali,bb351c23
+info,registry,people,RR Rossouw,cad00a4d
+info,registry,people,Rahmanullah Gurbaz,0bacade8
+info,registry,people,S Muthusamy,7dfb8890
+info,registry,people,Stephen Harris,fdcfd4aa
+info,registry,people,T van Vuuren,20afc7e7
+info,registry,people,WG Jacks,9caf69a1
+ball,1,0.1,Pretoria Capitals,WG Jacks,Rahmanullah Gurbaz,D Ferreira,0,0,,,,,,"",""
+ball,1,0.2,Pretoria Capitals,WG Jacks,Rahmanullah Gurbaz,D Ferreira,1,0,,,,,,"",""
+ball,1,0.3,Pretoria Capitals,Rahmanullah Gurbaz,WG Jacks,D Ferreira,0,0,,,,,,caught,Rahmanullah Gurbaz
+ball,1,0.4,Pretoria Capitals,K Verreynne,WG Jacks,D Ferreira,1,0,,,,,,"",""
+ball,1,0.5,Pretoria Capitals,WG Jacks,K Verreynne,D Ferreira,0,0,,,,,,"",""
+ball,1,0.6,Pretoria Capitals,WG Jacks,K Verreynne,D Ferreira,1,0,,,,,,"",""
+ball,1,1.1,Pretoria Capitals,WG Jacks,K Verreynne,D Wiese,1,0,,,,,,"",""
+ball,1,1.2,Pretoria Capitals,K Verreynne,WG Jacks,D Wiese,0,0,,,,,,"",""
+ball,1,1.3,Pretoria Capitals,K Verreynne,WG Jacks,D Wiese,4,0,,,,,,"",""
+ball,1,1.4,Pretoria Capitals,K Verreynne,WG Jacks,D Wiese,4,0,,,,,,"",""
+ball,1,1.5,Pretoria Capitals,K Verreynne,WG Jacks,D Wiese,0,0,,,,,,"",""
+ball,1,1.6,Pretoria Capitals,K Verreynne,WG Jacks,D Wiese,0,0,,,,,,"",""
+ball,1,2.1,Pretoria Capitals,WG Jacks,K Verreynne,L Sipamla,6,0,,,,,,"",""
+ball,1,2.2,Pretoria Capitals,WG Jacks,K Verreynne,L Sipamla,0,0,,,,,,"",""
+ball,1,2.3,Pretoria Capitals,WG Jacks,K Verreynne,L Sipamla,1,0,,,,,,"",""
+ball,1,2.4,Pretoria Capitals,K Verreynne,WG Jacks,L Sipamla,4,0,,,,,,"",""
+ball,1,2.5,Pretoria Capitals,K Verreynne,WG Jacks,L Sipamla,1,0,,,,,,"",""
+ball,1,2.6,Pretoria Capitals,WG Jacks,K Verreynne,L Sipamla,0,1,,,,1,,"",""
+ball,1,3.1,Pretoria Capitals,WG Jacks,K Verreynne,D Wiese,4,0,,,,,,"",""
+ball,1,3.2,Pretoria Capitals,WG Jacks,K Verreynne,D Wiese,1,0,,,,,,"",""
+ball,1,3.3,Pretoria Capitals,K Verreynne,WG Jacks,D Wiese,2,0,,,,,,"",""
+ball,1,3.4,Pretoria Capitals,K Verreynne,WG Jacks,D Wiese,2,0,,,,,,"",""
+ball,1,3.5,Pretoria Capitals,K Verreynne,WG Jacks,D Wiese,0,0,,,,,,"",""
+ball,1,3.6,Pretoria Capitals,K Verreynne,WG Jacks,D Wiese,4,0,,,,,,"",""
+ball,1,4.1,Pretoria Capitals,WG Jacks,K Verreynne,GC Viljoen,0,1,,,,1,,"",""
+ball,1,4.2,Pretoria Capitals,K Verreynne,WG Jacks,GC Viljoen,4,0,,,,,,"",""
+ball,1,4.3,Pretoria Capitals,K Verreynne,WG Jacks,GC Viljoen,0,0,,,,,,"",""
+ball,1,4.4,Pretoria Capitals,K Verreynne,WG Jacks,GC Viljoen,4,0,,,,,,"",""
+ball,1,4.5,Pretoria Capitals,K Verreynne,WG Jacks,GC Viljoen,0,0,,,,,,"",""
+ball,1,4.6,Pretoria Capitals,K Verreynne,WG Jacks,GC Viljoen,0,1,1,,,,,"",""
+ball,1,4.7,Pretoria Capitals,K Verreynne,WG Jacks,GC Viljoen,0,0,,,,,,"",""
+ball,1,5.1,Pretoria Capitals,WG Jacks,K Verreynne,E Jones,0,0,,,,,,lbw,WG Jacks
+ball,1,5.2,Pretoria Capitals,RR Rossouw,K Verreynne,E Jones,1,0,,,,,,"",""
+ball,1,5.3,Pretoria Capitals,K Verreynne,RR Rossouw,E Jones,0,0,,,,,,"",""
+ball,1,5.4,Pretoria Capitals,K Verreynne,RR Rossouw,E Jones,1,0,,,,,,"",""
+ball,1,5.5,Pretoria Capitals,RR Rossouw,K Verreynne,E Jones,0,0,,,,,,"",""
+ball,1,5.6,Pretoria Capitals,RR Rossouw,K Verreynne,E Jones,0,1,1,,,,,"",""
+ball,1,5.7,Pretoria Capitals,RR Rossouw,K Verreynne,E Jones,0,0,,,,,,"",""
+ball,1,6.1,Pretoria Capitals,K Verreynne,RR Rossouw,MM Ali,1,0,,,,,,"",""
+ball,1,6.2,Pretoria Capitals,RR Rossouw,K Verreynne,MM Ali,0,0,,,,,,bowled,RR Rossouw
+ball,1,6.3,Pretoria Capitals,LS Livingstone,K Verreynne,MM Ali,0,0,,,,,,"",""
+ball,1,6.4,Pretoria Capitals,LS Livingstone,K Verreynne,MM Ali,1,0,,,,,,"",""
+ball,1,6.5,Pretoria Capitals,K Verreynne,LS Livingstone,MM Ali,1,0,,,,,,"",""
+ball,1,6.6,Pretoria Capitals,LS Livingstone,K Verreynne,MM Ali,1,0,,,,,,"",""
+ball,1,7.1,Pretoria Capitals,LS Livingstone,K Verreynne,Imran Tahir,0,0,,,,,,"",""
+ball,1,7.2,Pretoria Capitals,LS Livingstone,K Verreynne,Imran Tahir,1,0,,,,,,"",""
+ball,1,7.3,Pretoria Capitals,K Verreynne,LS Livingstone,Imran Tahir,0,0,,,,,,"",""
+ball,1,7.4,Pretoria Capitals,K Verreynne,LS Livingstone,Imran Tahir,1,0,,,,,,"",""
+ball,1,7.5,Pretoria Capitals,LS Livingstone,K Verreynne,Imran Tahir,1,0,,,,,,"",""
+ball,1,7.6,Pretoria Capitals,K Verreynne,LS Livingstone,Imran Tahir,1,0,,,,,,"",""
+ball,1,8.1,Pretoria Capitals,K Verreynne,LS Livingstone,MM Ali,1,0,,,,,,"",""
+ball,1,8.2,Pretoria Capitals,LS Livingstone,K Verreynne,MM Ali,0,0,,,,,,"",""
+ball,1,8.3,Pretoria Capitals,LS Livingstone,K Verreynne,MM Ali,1,0,,,,,,"",""
+ball,1,8.4,Pretoria Capitals,K Verreynne,LS Livingstone,MM Ali,1,0,,,,,,"",""
+ball,1,8.5,Pretoria Capitals,LS Livingstone,K Verreynne,MM Ali,1,0,,,,,,"",""
+ball,1,8.6,Pretoria Capitals,K Verreynne,LS Livingstone,MM Ali,1,0,,,,,,"",""
+ball,1,9.1,Pretoria Capitals,K Verreynne,LS Livingstone,Imran Tahir,1,0,,,,,,"",""
+ball,1,9.2,Pretoria Capitals,LS Livingstone,K Verreynne,Imran Tahir,1,0,,,,,,"",""
+ball,1,9.3,Pretoria Capitals,K Verreynne,LS Livingstone,Imran Tahir,0,0,,,,,,"",""
+ball,1,9.4,Pretoria Capitals,K Verreynne,LS Livingstone,Imran Tahir,0,0,,,,,,"",""
+ball,1,9.5,Pretoria Capitals,K Verreynne,LS Livingstone,Imran Tahir,0,0,,,,,,caught,K Verreynne
+ball,1,9.6,Pretoria Capitals,MJ Ackerman,LS Livingstone,Imran Tahir,1,0,,,,,,"",""
+ball,1,10.1,Pretoria Capitals,MJ Ackerman,LS Livingstone,MM Ali,1,0,,,,,,"",""
+ball,1,10.2,Pretoria Capitals,LS Livingstone,MJ Ackerman,MM Ali,0,0,,,,,,"",""
+ball,1,10.3,Pretoria Capitals,LS Livingstone,MJ Ackerman,MM Ali,1,0,,,,,,"",""
+ball,1,10.4,Pretoria Capitals,MJ Ackerman,LS Livingstone,MM Ali,0,0,,,,,,"",""
+ball,1,10.5,Pretoria Capitals,MJ Ackerman,LS Livingstone,MM Ali,0,0,,,,,,"",""
+ball,1,10.6,Pretoria Capitals,MJ Ackerman,LS Livingstone,MM Ali,0,0,,,,,,caught and bowled,MJ Ackerman
+ball,1,11.1,Pretoria Capitals,LS Livingstone,JDS Neesham,Imran Tahir,1,0,,,,,,"",""
+ball,1,11.2,Pretoria Capitals,JDS Neesham,LS Livingstone,Imran Tahir,1,0,,,,,,"",""
+ball,1,11.3,Pretoria Capitals,LS Livingstone,JDS Neesham,Imran Tahir,1,0,,,,,,"",""
+ball,1,11.4,Pretoria Capitals,JDS Neesham,LS Livingstone,Imran Tahir,1,0,,,,,,"",""
+ball,1,11.5,Pretoria Capitals,LS Livingstone,JDS Neesham,Imran Tahir,0,0,,,,,,"",""
+ball,1,11.6,Pretoria Capitals,LS Livingstone,JDS Neesham,Imran Tahir,1,0,,,,,,"",""
+ball,1,12.1,Pretoria Capitals,LS Livingstone,JDS Neesham,D Ferreira,0,0,,,,,,"",""
+ball,1,12.2,Pretoria Capitals,LS Livingstone,JDS Neesham,D Ferreira,1,0,,,,,,"",""
+ball,1,12.3,Pretoria Capitals,JDS Neesham,LS Livingstone,D Ferreira,1,0,,,,,,"",""
+ball,1,12.4,Pretoria Capitals,LS Livingstone,JDS Neesham,D Ferreira,1,0,,,,,,"",""
+ball,1,12.5,Pretoria Capitals,JDS Neesham,LS Livingstone,D Ferreira,1,0,,,,,,"",""
+ball,1,12.6,Pretoria Capitals,LS Livingstone,JDS Neesham,D Ferreira,0,2,2,,,,,"",""
+ball,1,12.7,Pretoria Capitals,JDS Neesham,LS Livingstone,D Ferreira,0,0,,,,,,"",""
+ball,1,13.1,Pretoria Capitals,LS Livingstone,JDS Neesham,D Wiese,1,0,,,,,,"",""
+ball,1,13.2,Pretoria Capitals,JDS Neesham,LS Livingstone,D Wiese,1,0,,,,,,"",""
+ball,1,13.3,Pretoria Capitals,LS Livingstone,JDS Neesham,D Wiese,1,0,,,,,,"",""
+ball,1,13.4,Pretoria Capitals,JDS Neesham,LS Livingstone,D Wiese,4,0,,,,,,"",""
+ball,1,13.5,Pretoria Capitals,JDS Neesham,LS Livingstone,D Wiese,2,0,,,,,,"",""
+ball,1,13.6,Pretoria Capitals,JDS Neesham,LS Livingstone,D Wiese,1,0,,,,,,"",""
+ball,1,14.1,Pretoria Capitals,JDS Neesham,LS Livingstone,MM Ali,0,0,,,,,,"",""
+ball,1,14.2,Pretoria Capitals,JDS Neesham,LS Livingstone,MM Ali,6,0,,,,,,"",""
+ball,1,14.3,Pretoria Capitals,JDS Neesham,LS Livingstone,MM Ali,1,0,,,,,,"",""
+ball,1,14.4,Pretoria Capitals,LS Livingstone,JDS Neesham,MM Ali,0,0,,,,,,"",""
+ball,1,14.5,Pretoria Capitals,LS Livingstone,JDS Neesham,MM Ali,1,0,,,,,,"",""
+ball,1,14.6,Pretoria Capitals,JDS Neesham,LS Livingstone,MM Ali,2,0,,,,,,"",""
+ball,1,15.1,Pretoria Capitals,LS Livingstone,JDS Neesham,Imran Tahir,0,1,1,,,,,"",""
+ball,1,15.2,Pretoria Capitals,LS Livingstone,JDS Neesham,Imran Tahir,1,0,,,,,,"",""
+ball,1,15.3,Pretoria Capitals,JDS Neesham,LS Livingstone,Imran Tahir,0,1,,,,1,,"",""
+ball,1,15.4,Pretoria Capitals,LS Livingstone,JDS Neesham,Imran Tahir,0,0,,,,,,"",""
+ball,1,15.5,Pretoria Capitals,LS Livingstone,JDS Neesham,Imran Tahir,0,1,1,,,,,"",""
+ball,1,15.6,Pretoria Capitals,LS Livingstone,JDS Neesham,Imran Tahir,0,0,,,,,,"",""
+ball,1,15.7,Pretoria Capitals,LS Livingstone,JDS Neesham,Imran Tahir,1,0,,,,,,"",""
+ball,1,15.8,Pretoria Capitals,JDS Neesham,LS Livingstone,Imran Tahir,1,0,,,,,,"",""
+ball,1,16.1,Pretoria Capitals,JDS Neesham,LS Livingstone,D Ferreira,0,0,,,,,,"",""
+ball,1,16.2,Pretoria Capitals,JDS Neesham,LS Livingstone,D Ferreira,4,0,,,,,,"",""
+ball,1,16.3,Pretoria Capitals,JDS Neesham,LS Livingstone,D Ferreira,0,0,,,,,,"",""
+ball,1,16.4,Pretoria Capitals,JDS Neesham,LS Livingstone,D Ferreira,4,0,,,,,,"",""
+ball,1,16.5,Pretoria Capitals,JDS Neesham,LS Livingstone,D Ferreira,0,0,,,,,,"",""
+ball,1,16.6,Pretoria Capitals,JDS Neesham,LS Livingstone,D Ferreira,0,0,,,,,,caught,JDS Neesham
+ball,1,17.1,Pretoria Capitals,LS Livingstone,S Muthusamy,D Wiese,4,0,,,,,,"",""
+ball,1,17.2,Pretoria Capitals,LS Livingstone,S Muthusamy,D Wiese,0,0,,,,,,"",""
+ball,1,17.3,Pretoria Capitals,LS Livingstone,S Muthusamy,D Wiese,0,0,,,,,,caught,LS Livingstone
+ball,1,17.4,Pretoria Capitals,M Pretorius,S Muthusamy,D Wiese,0,1,,,,1,,"",""
+ball,1,17.5,Pretoria Capitals,S Muthusamy,M Pretorius,D Wiese,1,0,,,,,,"",""
+ball,1,17.6,Pretoria Capitals,M Pretorius,S Muthusamy,D Wiese,1,0,,,,,,"",""
+ball,1,18.1,Pretoria Capitals,M Pretorius,S Muthusamy,L Sipamla,1,0,,,,,,"",""
+ball,1,18.2,Pretoria Capitals,S Muthusamy,M Pretorius,L Sipamla,4,0,,,,,,"",""
+ball,1,18.3,Pretoria Capitals,S Muthusamy,M Pretorius,L Sipamla,0,0,,,,,,"",""
+ball,1,18.4,Pretoria Capitals,S Muthusamy,M Pretorius,L Sipamla,1,0,,,,,,"",""
+ball,1,18.5,Pretoria Capitals,M Pretorius,S Muthusamy,L Sipamla,1,0,,,,,,"",""
+ball,1,18.6,Pretoria Capitals,S Muthusamy,M Pretorius,L Sipamla,2,0,,,,,,"",""
+ball,1,19.1,Pretoria Capitals,M Pretorius,S Muthusamy,GC Viljoen,0,0,,,,,,"",""
+ball,1,19.2,Pretoria Capitals,M Pretorius,S Muthusamy,GC Viljoen,1,0,,,,,,"",""
+ball,1,19.3,Pretoria Capitals,S Muthusamy,M Pretorius,GC Viljoen,0,0,,,,,,"",""
+ball,1,19.4,Pretoria Capitals,S Muthusamy,M Pretorius,GC Viljoen,0,0,,,,,,caught,S Muthusamy
+ball,1,19.5,Pretoria Capitals,E Bosch,M Pretorius,GC Viljoen,1,0,,,,,,"",""
+ball,1,19.6,Pretoria Capitals,M Pretorius,E Bosch,GC Viljoen,6,0,,,,,,"",""

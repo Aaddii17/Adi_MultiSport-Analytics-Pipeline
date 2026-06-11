@@ -1,0 +1,317 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,MI Cape Town
+info,team,Pretoria Capitals
+info,gender,male
+info,season,2023/24
+info,date,2024/02/03
+info,event,SA20
+info,match_number,28
+info,venue,"Newlands, Cape Town"
+info,city,Cape Town
+info,toss_winner,MI Cape Town
+info,toss_decision,bat
+info,player_of_match,K Rabada
+info,umpire,BM White
+info,umpire,LB Gcuma
+info,reserve_umpire,TC Mokorosi
+info,tv_umpire,Lauren Agenbag
+info,match_referee,SB Lambson
+info,winner,Pretoria Capitals
+info,winner_wickets,4
+info,player,MI Cape Town,HE van der Dussen
+info,player,MI Cape Town,RD Rickelton
+info,player,MI Cape Town,LS Livingstone
+info,player,MI Cape Town,SM Curran
+info,player,MI Cape Town,D Brevis
+info,player,MI Cape Town,KA Pollard
+info,player,MI Cape Town,GF Linde
+info,player,MI Cape Town,TP Kaber
+info,player,MI Cape Town,K Rabada
+info,player,MI Cape Town,N Thushara
+info,player,MI Cape Town,N van Heerden
+info,player,Pretoria Capitals,PD Salt
+info,player,Pretoria Capitals,WG Jacks
+info,player,Pretoria Capitals,K Verreynne
+info,player,Pretoria Capitals,RR Rossouw
+info,player,Pretoria Capitals,CN Ackermann
+info,player,Pretoria Capitals,TB de Bruyn
+info,player,Pretoria Capitals,S Muthusamy
+info,player,Pretoria Capitals,WD Parnell
+info,player,Pretoria Capitals,AU Rashid
+info,player,Pretoria Capitals,E Bosch
+info,player,Pretoria Capitals,DM Dupavillon
+info,registry,people,AU Rashid,249d60c9
+info,registry,people,BM White,66c21d35
+info,registry,people,C Esterhuizen,ef9acbcc
+info,registry,people,CN Ackermann,e734d090
+info,registry,people,D Brevis,844e79d1
+info,registry,people,DM Dupavillon,7cb2d9d2
+info,registry,people,E Bosch,28d6c44d
+info,registry,people,GF Linde,e5437608
+info,registry,people,HE van der Dussen,9948e262
+info,registry,people,K Rabada,e62dd25d
+info,registry,people,K Verreynne,bf814547
+info,registry,people,KA Pollard,a757b0d8
+info,registry,people,LB Gcuma,02ba88e3
+info,registry,people,LS Livingstone,50c6bc2b
+info,registry,people,Lauren Agenbag,40849abd
+info,registry,people,N Thushara,ee1b6c27
+info,registry,people,N van Heerden,ad19dda3
+info,registry,people,PD Salt,3d284ca3
+info,registry,people,RD Rickelton,e66732f8
+info,registry,people,RR Rossouw,cad00a4d
+info,registry,people,S Muthusamy,7dfb8890
+info,registry,people,SB Lambson,4146063f
+info,registry,people,SM Curran,e94915e6
+info,registry,people,TB de Bruyn,90d6cdea
+info,registry,people,TC Mokorosi,e93c3cf8
+info,registry,people,TP Kaber,0773c16a
+info,registry,people,WD Parnell,3a60e0b5
+info,registry,people,WG Jacks,9caf69a1
+ball,1,0.1,MI Cape Town,HE van der Dussen,RD Rickelton,WG Jacks,0,0,,,,,,"",""
+ball,1,0.2,MI Cape Town,HE van der Dussen,RD Rickelton,WG Jacks,1,0,,,,,,"",""
+ball,1,0.3,MI Cape Town,RD Rickelton,HE van der Dussen,WG Jacks,1,0,,,,,,"",""
+ball,1,0.4,MI Cape Town,HE van der Dussen,RD Rickelton,WG Jacks,2,0,,,,,,"",""
+ball,1,0.5,MI Cape Town,HE van der Dussen,RD Rickelton,WG Jacks,1,0,,,,,,"",""
+ball,1,0.6,MI Cape Town,RD Rickelton,HE van der Dussen,WG Jacks,1,0,,,,,,"",""
+ball,1,1.1,MI Cape Town,RD Rickelton,HE van der Dussen,E Bosch,0,0,,,,,,"",""
+ball,1,1.2,MI Cape Town,RD Rickelton,HE van der Dussen,E Bosch,0,0,,,,,,"",""
+ball,1,1.3,MI Cape Town,RD Rickelton,HE van der Dussen,E Bosch,0,0,,,,,,"",""
+ball,1,1.4,MI Cape Town,RD Rickelton,HE van der Dussen,E Bosch,4,0,,,,,,"",""
+ball,1,1.5,MI Cape Town,RD Rickelton,HE van der Dussen,E Bosch,6,0,,,,,,"",""
+ball,1,1.6,MI Cape Town,RD Rickelton,HE van der Dussen,E Bosch,1,0,,,,,,"",""
+ball,1,2.1,MI Cape Town,RD Rickelton,HE van der Dussen,WG Jacks,1,0,,,,,,"",""
+ball,1,2.2,MI Cape Town,HE van der Dussen,RD Rickelton,WG Jacks,0,0,,,,,,"",""
+ball,1,2.3,MI Cape Town,HE van der Dussen,RD Rickelton,WG Jacks,1,0,,,,,,"",""
+ball,1,2.4,MI Cape Town,RD Rickelton,HE van der Dussen,WG Jacks,0,0,,,,,,"",""
+ball,1,2.5,MI Cape Town,RD Rickelton,HE van der Dussen,WG Jacks,0,0,,,,,,"",""
+ball,1,2.6,MI Cape Town,RD Rickelton,HE van der Dussen,WG Jacks,1,0,,,,,,"",""
+ball,1,3.1,MI Cape Town,RD Rickelton,HE van der Dussen,DM Dupavillon,0,0,,,,,,"",""
+ball,1,3.2,MI Cape Town,RD Rickelton,HE van der Dussen,DM Dupavillon,0,0,,,,,,"",""
+ball,1,3.3,MI Cape Town,RD Rickelton,HE van der Dussen,DM Dupavillon,4,0,,,,,,"",""
+ball,1,3.4,MI Cape Town,RD Rickelton,HE van der Dussen,DM Dupavillon,1,0,,,,,,"",""
+ball,1,3.5,MI Cape Town,HE van der Dussen,RD Rickelton,DM Dupavillon,4,0,,,,,,"",""
+ball,1,3.6,MI Cape Town,HE van der Dussen,RD Rickelton,DM Dupavillon,0,0,,,,,,"",""
+ball,1,4.1,MI Cape Town,RD Rickelton,HE van der Dussen,WG Jacks,0,1,1,,,,,"",""
+ball,1,4.2,MI Cape Town,RD Rickelton,HE van der Dussen,WG Jacks,0,0,,,,,,"",""
+ball,1,4.3,MI Cape Town,RD Rickelton,HE van der Dussen,WG Jacks,1,0,,,,,,"",""
+ball,1,4.4,MI Cape Town,HE van der Dussen,RD Rickelton,WG Jacks,1,0,,,,,,"",""
+ball,1,4.5,MI Cape Town,RD Rickelton,HE van der Dussen,WG Jacks,1,0,,,,,,"",""
+ball,1,4.6,MI Cape Town,HE van der Dussen,RD Rickelton,WG Jacks,4,0,,,,,,"",""
+ball,1,4.7,MI Cape Town,HE van der Dussen,RD Rickelton,WG Jacks,1,0,,,,,,"",""
+ball,1,5.1,MI Cape Town,HE van der Dussen,RD Rickelton,E Bosch,4,0,,,,,,"",""
+ball,1,5.2,MI Cape Town,HE van der Dussen,RD Rickelton,E Bosch,0,0,,,,,,"",""
+ball,1,5.3,MI Cape Town,HE van der Dussen,RD Rickelton,E Bosch,1,0,,,,,,"",""
+ball,1,5.4,MI Cape Town,RD Rickelton,HE van der Dussen,E Bosch,4,0,,,,,,"",""
+ball,1,5.5,MI Cape Town,RD Rickelton,HE van der Dussen,E Bosch,1,0,,,,,,"",""
+ball,1,5.6,MI Cape Town,HE van der Dussen,RD Rickelton,E Bosch,1,0,,,,,,"",""
+ball,1,6.1,MI Cape Town,HE van der Dussen,RD Rickelton,CN Ackermann,2,0,,,,,,"",""
+ball,1,6.2,MI Cape Town,HE van der Dussen,RD Rickelton,CN Ackermann,2,0,,,,,,"",""
+ball,1,6.3,MI Cape Town,HE van der Dussen,RD Rickelton,CN Ackermann,1,0,,,,,,"",""
+ball,1,6.4,MI Cape Town,RD Rickelton,HE van der Dussen,CN Ackermann,2,0,,,,,,"",""
+ball,1,6.5,MI Cape Town,RD Rickelton,HE van der Dussen,CN Ackermann,6,0,,,,,,"",""
+ball,1,6.6,MI Cape Town,RD Rickelton,HE van der Dussen,CN Ackermann,0,0,,,,,,caught,RD Rickelton
+ball,1,7.1,MI Cape Town,HE van der Dussen,LS Livingstone,AU Rashid,0,0,,,,,,"",""
+ball,1,7.2,MI Cape Town,HE van der Dussen,LS Livingstone,AU Rashid,0,0,,,,,,"",""
+ball,1,7.3,MI Cape Town,HE van der Dussen,LS Livingstone,AU Rashid,1,0,,,,,,"",""
+ball,1,7.4,MI Cape Town,LS Livingstone,HE van der Dussen,AU Rashid,1,0,,,,,,"",""
+ball,1,7.5,MI Cape Town,HE van der Dussen,LS Livingstone,AU Rashid,1,0,,,,,,"",""
+ball,1,7.6,MI Cape Town,LS Livingstone,HE van der Dussen,AU Rashid,1,0,,,,,,"",""
+ball,1,8.1,MI Cape Town,LS Livingstone,HE van der Dussen,S Muthusamy,0,0,,,,,,"",""
+ball,1,8.2,MI Cape Town,LS Livingstone,HE van der Dussen,S Muthusamy,1,0,,,,,,"",""
+ball,1,8.3,MI Cape Town,HE van der Dussen,LS Livingstone,S Muthusamy,1,0,,,,,,"",""
+ball,1,8.4,MI Cape Town,LS Livingstone,HE van der Dussen,S Muthusamy,0,0,,,,,,"",""
+ball,1,8.5,MI Cape Town,LS Livingstone,HE van der Dussen,S Muthusamy,1,0,,,,,,"",""
+ball,1,8.6,MI Cape Town,HE van der Dussen,LS Livingstone,S Muthusamy,1,0,,,,,,"",""
+ball,1,9.1,MI Cape Town,HE van der Dussen,LS Livingstone,AU Rashid,1,0,,,,,,"",""
+ball,1,9.2,MI Cape Town,LS Livingstone,HE van der Dussen,AU Rashid,1,0,,,,,,"",""
+ball,1,9.3,MI Cape Town,HE van der Dussen,LS Livingstone,AU Rashid,1,0,,,,,,"",""
+ball,1,9.4,MI Cape Town,LS Livingstone,HE van der Dussen,AU Rashid,1,0,,,,,,"",""
+ball,1,9.5,MI Cape Town,HE van der Dussen,LS Livingstone,AU Rashid,1,0,,,,,,"",""
+ball,1,9.6,MI Cape Town,LS Livingstone,HE van der Dussen,AU Rashid,0,0,,,,,,caught,LS Livingstone
+ball,1,10.1,MI Cape Town,HE van der Dussen,SM Curran,S Muthusamy,1,0,,,,,,"",""
+ball,1,10.2,MI Cape Town,SM Curran,HE van der Dussen,S Muthusamy,0,0,,,,,,"",""
+ball,1,10.3,MI Cape Town,SM Curran,HE van der Dussen,S Muthusamy,1,0,,,,,,"",""
+ball,1,10.4,MI Cape Town,HE van der Dussen,SM Curran,S Muthusamy,0,0,,,,,,"",""
+ball,1,10.5,MI Cape Town,HE van der Dussen,SM Curran,S Muthusamy,1,0,,,,,,"",""
+ball,1,10.6,MI Cape Town,SM Curran,HE van der Dussen,S Muthusamy,1,0,,,,,,"",""
+ball,1,11.1,MI Cape Town,SM Curran,HE van der Dussen,AU Rashid,0,0,,,,,,"",""
+ball,1,11.2,MI Cape Town,SM Curran,HE van der Dussen,AU Rashid,1,0,,,,,,"",""
+ball,1,11.3,MI Cape Town,HE van der Dussen,SM Curran,AU Rashid,1,0,,,,,,"",""
+ball,1,11.4,MI Cape Town,SM Curran,HE van der Dussen,AU Rashid,0,0,,,,,,caught,SM Curran
+ball,1,11.5,MI Cape Town,D Brevis,HE van der Dussen,AU Rashid,0,0,,,,,,"",""
+ball,1,11.6,MI Cape Town,D Brevis,HE van der Dussen,AU Rashid,1,0,,,,,,"",""
+ball,1,12.1,MI Cape Town,D Brevis,HE van der Dussen,DM Dupavillon,1,0,,,,,,"",""
+ball,1,12.2,MI Cape Town,HE van der Dussen,D Brevis,DM Dupavillon,0,0,,,,,,"",""
+ball,1,12.3,MI Cape Town,HE van der Dussen,D Brevis,DM Dupavillon,2,0,,,,,,"",""
+ball,1,12.4,MI Cape Town,HE van der Dussen,D Brevis,DM Dupavillon,2,0,,,,,,"",""
+ball,1,12.5,MI Cape Town,HE van der Dussen,D Brevis,DM Dupavillon,4,0,,,,,,"",""
+ball,1,12.6,MI Cape Town,HE van der Dussen,D Brevis,DM Dupavillon,0,0,,,,,,"",""
+ball,1,13.1,MI Cape Town,D Brevis,HE van der Dussen,WD Parnell,0,0,,,,,,"",""
+ball,1,13.2,MI Cape Town,D Brevis,HE van der Dussen,WD Parnell,4,0,,,,,,"",""
+ball,1,13.3,MI Cape Town,D Brevis,HE van der Dussen,WD Parnell,1,0,,,,,,"",""
+ball,1,13.4,MI Cape Town,HE van der Dussen,D Brevis,WD Parnell,1,0,,,,,,"",""
+ball,1,13.5,MI Cape Town,D Brevis,HE van der Dussen,WD Parnell,0,0,,,,,,"",""
+ball,1,13.6,MI Cape Town,D Brevis,HE van der Dussen,WD Parnell,1,0,,,,,,"",""
+ball,1,14.1,MI Cape Town,D Brevis,HE van der Dussen,S Muthusamy,0,2,2,,,,,"",""
+ball,1,14.2,MI Cape Town,HE van der Dussen,D Brevis,S Muthusamy,2,0,,,,,,"",""
+ball,1,14.3,MI Cape Town,HE van der Dussen,D Brevis,S Muthusamy,6,0,,,,,,"",""
+ball,1,14.4,MI Cape Town,HE van der Dussen,D Brevis,S Muthusamy,1,0,,,,,,"",""
+ball,1,14.5,MI Cape Town,D Brevis,HE van der Dussen,S Muthusamy,1,0,,,,,,"",""
+ball,1,14.6,MI Cape Town,HE van der Dussen,D Brevis,S Muthusamy,2,0,,,,,,"",""
+ball,1,14.7,MI Cape Town,HE van der Dussen,D Brevis,S Muthusamy,1,0,,,,,,"",""
+ball,1,15.1,MI Cape Town,HE van der Dussen,D Brevis,WD Parnell,1,0,,,,,,"",""
+ball,1,15.2,MI Cape Town,D Brevis,HE van der Dussen,WD Parnell,0,0,,,,,,caught,D Brevis
+ball,1,15.3,MI Cape Town,KA Pollard,HE van der Dussen,WD Parnell,0,0,,,,,,"",""
+ball,1,15.4,MI Cape Town,KA Pollard,HE van der Dussen,WD Parnell,0,0,,,,,,"",""
+ball,1,15.5,MI Cape Town,KA Pollard,HE van der Dussen,WD Parnell,6,0,,,,,,"",""
+ball,1,15.6,MI Cape Town,KA Pollard,HE van der Dussen,WD Parnell,1,0,,,,,,"",""
+ball,1,16.1,MI Cape Town,KA Pollard,HE van der Dussen,AU Rashid,0,0,,,,,,"",""
+ball,1,16.2,MI Cape Town,KA Pollard,HE van der Dussen,AU Rashid,6,0,,,,,,"",""
+ball,1,16.3,MI Cape Town,KA Pollard,HE van der Dussen,AU Rashid,0,1,,,,1,,"",""
+ball,1,16.4,MI Cape Town,HE van der Dussen,KA Pollard,AU Rashid,1,0,,,,,,"",""
+ball,1,16.5,MI Cape Town,KA Pollard,HE van der Dussen,AU Rashid,6,0,,,,,,"",""
+ball,1,16.6,MI Cape Town,KA Pollard,HE van der Dussen,AU Rashid,1,0,,,,,,"",""
+ball,1,17.1,MI Cape Town,KA Pollard,HE van der Dussen,WD Parnell,0,0,,,,,,"",""
+ball,1,17.2,MI Cape Town,KA Pollard,HE van der Dussen,WD Parnell,4,0,,,,,,"",""
+ball,1,17.3,MI Cape Town,KA Pollard,HE van der Dussen,WD Parnell,0,0,,,,,,"",""
+ball,1,17.4,MI Cape Town,KA Pollard,HE van der Dussen,WD Parnell,6,0,,,,,,"",""
+ball,1,17.5,MI Cape Town,KA Pollard,HE van der Dussen,WD Parnell,1,0,,,,,,"",""
+ball,1,17.6,MI Cape Town,HE van der Dussen,KA Pollard,WD Parnell,1,0,,,,,,"",""
+ball,1,18.1,MI Cape Town,HE van der Dussen,KA Pollard,E Bosch,0,0,,,,,,caught,HE van der Dussen
+ball,1,18.2,MI Cape Town,GF Linde,KA Pollard,E Bosch,1,0,,,,,,"",""
+ball,1,18.3,MI Cape Town,KA Pollard,GF Linde,E Bosch,2,0,,,,,,"",""
+ball,1,18.4,MI Cape Town,KA Pollard,GF Linde,E Bosch,0,0,,,,,,caught,KA Pollard
+ball,1,18.5,MI Cape Town,TP Kaber,GF Linde,E Bosch,4,0,,,,,,"",""
+ball,1,18.6,MI Cape Town,TP Kaber,GF Linde,E Bosch,2,0,,,,,,"",""
+ball,1,19.1,MI Cape Town,GF Linde,TP Kaber,WD Parnell,4,0,,,,,,"",""
+ball,1,19.2,MI Cape Town,GF Linde,TP Kaber,WD Parnell,0,0,,,,,,caught,GF Linde
+ball,1,19.3,MI Cape Town,K Rabada,TP Kaber,WD Parnell,1,0,,,,,,"",""
+ball,1,19.4,MI Cape Town,TP Kaber,K Rabada,WD Parnell,1,0,,,,,,"",""
+ball,1,19.5,MI Cape Town,K Rabada,TP Kaber,WD Parnell,0,0,,,,,,caught,K Rabada
+ball,1,19.6,MI Cape Town,N Thushara,TP Kaber,WD Parnell,0,0,,,,,,bowled,N Thushara
+ball,2,0.1,Pretoria Capitals,PD Salt,WG Jacks,N Thushara,0,1,,1,,,,"",""
+ball,2,0.2,Pretoria Capitals,PD Salt,WG Jacks,N Thushara,4,0,,,,,,"",""
+ball,2,0.3,Pretoria Capitals,PD Salt,WG Jacks,N Thushara,2,0,,,,,,"",""
+ball,2,0.4,Pretoria Capitals,PD Salt,WG Jacks,N Thushara,0,0,,,,,,"",""
+ball,2,0.5,Pretoria Capitals,PD Salt,WG Jacks,N Thushara,0,0,,,,,,"",""
+ball,2,0.6,Pretoria Capitals,PD Salt,WG Jacks,N Thushara,1,0,,,,,,"",""
+ball,2,0.7,Pretoria Capitals,WG Jacks,PD Salt,N Thushara,0,1,1,,,,,"",""
+ball,2,0.8,Pretoria Capitals,WG Jacks,PD Salt,N Thushara,0,0,,,,,,"",""
+ball,2,1.1,Pretoria Capitals,PD Salt,WG Jacks,SM Curran,0,0,,,,,,caught,PD Salt
+ball,2,1.2,Pretoria Capitals,K Verreynne,WG Jacks,SM Curran,0,0,,,,,,"",""
+ball,2,1.3,Pretoria Capitals,K Verreynne,WG Jacks,SM Curran,0,0,,,,,,"",""
+ball,2,1.4,Pretoria Capitals,K Verreynne,WG Jacks,SM Curran,0,0,,,,,,"",""
+ball,2,1.5,Pretoria Capitals,K Verreynne,WG Jacks,SM Curran,1,0,,,,,,"",""
+ball,2,1.6,Pretoria Capitals,WG Jacks,K Verreynne,SM Curran,1,0,,,,,,"",""
+ball,2,2.1,Pretoria Capitals,WG Jacks,K Verreynne,K Rabada,0,0,,,,,,caught,WG Jacks
+ball,2,2.2,Pretoria Capitals,RR Rossouw,K Verreynne,K Rabada,0,0,,,,,,"",""
+ball,2,2.3,Pretoria Capitals,RR Rossouw,K Verreynne,K Rabada,0,0,,,,,,"",""
+ball,2,2.4,Pretoria Capitals,RR Rossouw,K Verreynne,K Rabada,0,0,,,,,,"",""
+ball,2,2.5,Pretoria Capitals,RR Rossouw,K Verreynne,K Rabada,0,0,,,,,,"",""
+ball,2,2.6,Pretoria Capitals,RR Rossouw,K Verreynne,K Rabada,1,0,,,,,,"",""
+ball,2,3.1,Pretoria Capitals,RR Rossouw,K Verreynne,SM Curran,0,0,,,,,,"",""
+ball,2,3.2,Pretoria Capitals,RR Rossouw,K Verreynne,SM Curran,0,0,,,,,,"",""
+ball,2,3.3,Pretoria Capitals,RR Rossouw,K Verreynne,SM Curran,0,0,,,,,,"",""
+ball,2,3.4,Pretoria Capitals,RR Rossouw,K Verreynne,SM Curran,1,0,,,,,,"",""
+ball,2,3.5,Pretoria Capitals,K Verreynne,RR Rossouw,SM Curran,6,0,,,,,,"",""
+ball,2,3.6,Pretoria Capitals,K Verreynne,RR Rossouw,SM Curran,1,0,,,,,,"",""
+ball,2,4.1,Pretoria Capitals,K Verreynne,RR Rossouw,K Rabada,0,0,,,,,,"",""
+ball,2,4.2,Pretoria Capitals,K Verreynne,RR Rossouw,K Rabada,0,0,,,,,,"",""
+ball,2,4.3,Pretoria Capitals,K Verreynne,RR Rossouw,K Rabada,1,0,,,,,,"",""
+ball,2,4.4,Pretoria Capitals,RR Rossouw,K Verreynne,K Rabada,1,0,,,,,,"",""
+ball,2,4.5,Pretoria Capitals,K Verreynne,RR Rossouw,K Rabada,6,0,,,,,,"",""
+ball,2,4.6,Pretoria Capitals,K Verreynne,RR Rossouw,K Rabada,1,0,,,,,,"",""
+ball,2,5.1,Pretoria Capitals,K Verreynne,RR Rossouw,N Thushara,1,0,,,,,,"",""
+ball,2,5.2,Pretoria Capitals,RR Rossouw,K Verreynne,N Thushara,4,0,,,,,,"",""
+ball,2,5.3,Pretoria Capitals,RR Rossouw,K Verreynne,N Thushara,1,0,,,,,,"",""
+ball,2,5.4,Pretoria Capitals,K Verreynne,RR Rossouw,N Thushara,2,0,,,,,,"",""
+ball,2,5.5,Pretoria Capitals,K Verreynne,RR Rossouw,N Thushara,4,0,,,,,,"",""
+ball,2,5.6,Pretoria Capitals,K Verreynne,RR Rossouw,N Thushara,2,0,,,,,,"",""
+ball,2,6.1,Pretoria Capitals,RR Rossouw,K Verreynne,GF Linde,2,0,,,,,,"",""
+ball,2,6.2,Pretoria Capitals,RR Rossouw,K Verreynne,GF Linde,0,0,,,,,,"",""
+ball,2,6.3,Pretoria Capitals,RR Rossouw,K Verreynne,GF Linde,0,0,,,,,,caught,RR Rossouw
+ball,2,6.4,Pretoria Capitals,CN Ackermann,K Verreynne,GF Linde,1,0,,,,,,"",""
+ball,2,6.5,Pretoria Capitals,K Verreynne,CN Ackermann,GF Linde,1,0,,,,,,"",""
+ball,2,6.6,Pretoria Capitals,CN Ackermann,K Verreynne,GF Linde,1,0,,,,,,"",""
+ball,2,7.1,Pretoria Capitals,CN Ackermann,K Verreynne,LS Livingstone,0,0,,,,,,"",""
+ball,2,7.2,Pretoria Capitals,CN Ackermann,K Verreynne,LS Livingstone,1,0,,,,,,"",""
+ball,2,7.3,Pretoria Capitals,K Verreynne,CN Ackermann,LS Livingstone,0,0,,,,,,"",""
+ball,2,7.4,Pretoria Capitals,K Verreynne,CN Ackermann,LS Livingstone,1,0,,,,,,"",""
+ball,2,7.5,Pretoria Capitals,CN Ackermann,K Verreynne,LS Livingstone,2,0,,,,,,"",""
+ball,2,7.6,Pretoria Capitals,CN Ackermann,K Verreynne,LS Livingstone,0,0,,,,,,"",""
+ball,2,8.1,Pretoria Capitals,K Verreynne,CN Ackermann,GF Linde,6,0,,,,,,"",""
+ball,2,8.2,Pretoria Capitals,K Verreynne,CN Ackermann,GF Linde,0,0,,,,,,"",""
+ball,2,8.3,Pretoria Capitals,K Verreynne,CN Ackermann,GF Linde,1,0,,,,,,"",""
+ball,2,8.4,Pretoria Capitals,CN Ackermann,K Verreynne,GF Linde,1,0,,,,,,"",""
+ball,2,8.5,Pretoria Capitals,K Verreynne,CN Ackermann,GF Linde,0,0,,,,,,caught,K Verreynne
+ball,2,8.6,Pretoria Capitals,TB de Bruyn,CN Ackermann,GF Linde,1,0,,,,,,"",""
+ball,2,9.1,Pretoria Capitals,TB de Bruyn,CN Ackermann,LS Livingstone,0,0,,,,,,"",""
+ball,2,9.2,Pretoria Capitals,TB de Bruyn,CN Ackermann,LS Livingstone,1,0,,,,,,"",""
+ball,2,9.3,Pretoria Capitals,CN Ackermann,TB de Bruyn,LS Livingstone,2,0,,,,,,"",""
+ball,2,9.4,Pretoria Capitals,CN Ackermann,TB de Bruyn,LS Livingstone,1,0,,,,,,"",""
+ball,2,9.5,Pretoria Capitals,TB de Bruyn,CN Ackermann,LS Livingstone,1,0,,,,,,"",""
+ball,2,9.6,Pretoria Capitals,CN Ackermann,TB de Bruyn,LS Livingstone,1,0,,,,,,"",""
+ball,2,10.1,Pretoria Capitals,CN Ackermann,TB de Bruyn,GF Linde,1,0,,,,,,"",""
+ball,2,10.2,Pretoria Capitals,TB de Bruyn,CN Ackermann,GF Linde,1,0,,,,,,"",""
+ball,2,10.3,Pretoria Capitals,CN Ackermann,TB de Bruyn,GF Linde,4,0,,,,,,"",""
+ball,2,10.4,Pretoria Capitals,CN Ackermann,TB de Bruyn,GF Linde,0,0,,,,,,"",""
+ball,2,10.5,Pretoria Capitals,CN Ackermann,TB de Bruyn,GF Linde,1,0,,,,,,"",""
+ball,2,10.6,Pretoria Capitals,TB de Bruyn,CN Ackermann,GF Linde,1,0,,,,,,"",""
+ball,2,11.1,Pretoria Capitals,TB de Bruyn,CN Ackermann,LS Livingstone,0,0,,,,,,"",""
+ball,2,11.2,Pretoria Capitals,TB de Bruyn,CN Ackermann,LS Livingstone,1,0,,,,,,"",""
+ball,2,11.3,Pretoria Capitals,CN Ackermann,TB de Bruyn,LS Livingstone,1,0,,,,,,"",""
+ball,2,11.4,Pretoria Capitals,TB de Bruyn,CN Ackermann,LS Livingstone,1,0,,,,,,"",""
+ball,2,11.5,Pretoria Capitals,CN Ackermann,TB de Bruyn,LS Livingstone,0,0,,,,,,caught,CN Ackermann
+ball,2,11.6,Pretoria Capitals,S Muthusamy,TB de Bruyn,LS Livingstone,1,0,,,,,,"",""
+ball,2,12.1,Pretoria Capitals,S Muthusamy,TB de Bruyn,GF Linde,1,0,,,,,,"",""
+ball,2,12.2,Pretoria Capitals,TB de Bruyn,S Muthusamy,GF Linde,0,0,,,,,,"",""
+ball,2,12.3,Pretoria Capitals,TB de Bruyn,S Muthusamy,GF Linde,0,0,,,,,,"",""
+ball,2,12.4,Pretoria Capitals,TB de Bruyn,S Muthusamy,GF Linde,6,0,,,,,,"",""
+ball,2,12.5,Pretoria Capitals,TB de Bruyn,S Muthusamy,GF Linde,6,0,,,,,,"",""
+ball,2,12.6,Pretoria Capitals,TB de Bruyn,S Muthusamy,GF Linde,1,0,,,,,,"",""
+ball,2,13.1,Pretoria Capitals,TB de Bruyn,S Muthusamy,KA Pollard,4,0,,,,,,"",""
+ball,2,13.2,Pretoria Capitals,TB de Bruyn,S Muthusamy,KA Pollard,4,0,,,,,,"",""
+ball,2,13.3,Pretoria Capitals,TB de Bruyn,S Muthusamy,KA Pollard,0,0,,,,,,"",""
+ball,2,13.4,Pretoria Capitals,TB de Bruyn,S Muthusamy,KA Pollard,1,0,,,,,,"",""
+ball,2,13.5,Pretoria Capitals,S Muthusamy,TB de Bruyn,KA Pollard,1,0,,,,,,"",""
+ball,2,13.6,Pretoria Capitals,TB de Bruyn,S Muthusamy,KA Pollard,4,0,,,,,,"",""
+ball,2,14.1,Pretoria Capitals,S Muthusamy,TB de Bruyn,K Rabada,0,0,,,,,,"",""
+ball,2,14.2,Pretoria Capitals,S Muthusamy,TB de Bruyn,K Rabada,1,0,,,,,,"",""
+ball,2,14.3,Pretoria Capitals,TB de Bruyn,S Muthusamy,K Rabada,1,0,,,,,,"",""
+ball,2,14.4,Pretoria Capitals,S Muthusamy,TB de Bruyn,K Rabada,1,0,,,,,,"",""
+ball,2,14.5,Pretoria Capitals,TB de Bruyn,S Muthusamy,K Rabada,0,0,,,,,,"",""
+ball,2,14.6,Pretoria Capitals,TB de Bruyn,S Muthusamy,K Rabada,1,0,,,,,,"",""
+ball,2,15.1,Pretoria Capitals,TB de Bruyn,S Muthusamy,SM Curran,1,0,,,,,,"",""
+ball,2,15.2,Pretoria Capitals,S Muthusamy,TB de Bruyn,SM Curran,1,0,,,,,,"",""
+ball,2,15.3,Pretoria Capitals,TB de Bruyn,S Muthusamy,SM Curran,0,1,,1,,,,"",""
+ball,2,15.4,Pretoria Capitals,TB de Bruyn,S Muthusamy,SM Curran,1,0,,,,,,"",""
+ball,2,15.5,Pretoria Capitals,S Muthusamy,TB de Bruyn,SM Curran,6,0,,,,,,"",""
+ball,2,15.6,Pretoria Capitals,S Muthusamy,TB de Bruyn,SM Curran,1,0,,,,,,"",""
+ball,2,15.7,Pretoria Capitals,TB de Bruyn,S Muthusamy,SM Curran,1,0,,,,,,"",""
+ball,2,16.1,Pretoria Capitals,TB de Bruyn,S Muthusamy,K Rabada,2,0,,,,,,"",""
+ball,2,16.2,Pretoria Capitals,TB de Bruyn,S Muthusamy,K Rabada,0,1,1,,,,,"",""
+ball,2,16.3,Pretoria Capitals,TB de Bruyn,S Muthusamy,K Rabada,1,0,,,,,,"",""
+ball,2,16.4,Pretoria Capitals,S Muthusamy,TB de Bruyn,K Rabada,1,0,,,,,,"",""
+ball,2,16.5,Pretoria Capitals,TB de Bruyn,S Muthusamy,K Rabada,0,0,,,,,,"",""
+ball,2,16.6,Pretoria Capitals,TB de Bruyn,S Muthusamy,K Rabada,1,0,,,,,,"",""
+ball,2,16.7,Pretoria Capitals,S Muthusamy,TB de Bruyn,K Rabada,4,0,,,,,,"",""
+ball,2,17.1,Pretoria Capitals,TB de Bruyn,S Muthusamy,N Thushara,0,0,,,,,,"",""
+ball,2,17.2,Pretoria Capitals,TB de Bruyn,S Muthusamy,N Thushara,0,0,,,,,,"",""
+ball,2,17.3,Pretoria Capitals,TB de Bruyn,S Muthusamy,N Thushara,0,0,,,,,,caught,TB de Bruyn
+ball,2,17.4,Pretoria Capitals,WD Parnell,S Muthusamy,N Thushara,1,0,,,,,,"",""
+ball,2,17.5,Pretoria Capitals,S Muthusamy,WD Parnell,N Thushara,0,1,1,,,,,"",""
+ball,2,17.6,Pretoria Capitals,S Muthusamy,WD Parnell,N Thushara,4,0,,,,,,"",""
+ball,2,17.7,Pretoria Capitals,S Muthusamy,WD Parnell,N Thushara,1,0,,,,,,"",""
+ball,2,18.1,Pretoria Capitals,S Muthusamy,WD Parnell,SM Curran,6,0,,,,,,"",""
+ball,2,18.2,Pretoria Capitals,S Muthusamy,WD Parnell,SM Curran,0,1,1,,,,,"",""
+ball,2,18.3,Pretoria Capitals,S Muthusamy,WD Parnell,SM Curran,1,0,,,,,,"",""
+ball,2,18.4,Pretoria Capitals,WD Parnell,S Muthusamy,SM Curran,1,0,,,,,,"",""
+ball,2,18.5,Pretoria Capitals,S Muthusamy,WD Parnell,SM Curran,1,0,,,,,,"",""
+ball,2,18.6,Pretoria Capitals,WD Parnell,S Muthusamy,SM Curran,1,0,,,,,,"",""
+ball,2,18.7,Pretoria Capitals,S Muthusamy,WD Parnell,SM Curran,6,0,,,,,,"",""
+ball,2,19.1,Pretoria Capitals,WD Parnell,S Muthusamy,N Thushara,4,0,,,,,,"",""
+ball,2,19.2,Pretoria Capitals,WD Parnell,S Muthusamy,N Thushara,1,0,,,,,,"",""
+ball,2,19.3,Pretoria Capitals,S Muthusamy,WD Parnell,N Thushara,1,0,,,,,,"",""
+ball,2,19.4,Pretoria Capitals,WD Parnell,S Muthusamy,N Thushara,4,0,,,,,,"",""

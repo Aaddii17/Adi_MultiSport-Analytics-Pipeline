@@ -1,0 +1,306 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,MI Cape Town
+info,team,Joburg Super Kings
+info,gender,male
+info,season,2023/24
+info,date,2024/01/13
+info,event,SA20
+info,match_number,4
+info,venue,"The Wanderers Stadium, Johannesburg"
+info,city,Johannesburg
+info,toss_winner,Joburg Super Kings
+info,toss_decision,field
+info,player_of_match,HE van der Dussen
+info,umpire,DJ Smith
+info,umpire,LB Gcuma
+info,reserve_umpire,MN Gampu
+info,tv_umpire,Lauren Agenbag
+info,match_referee,SB Lambson
+info,winner,MI Cape Town
+info,winner_runs,98
+info,player,MI Cape Town,HE van der Dussen
+info,player,MI Cape Town,RD Rickelton
+info,player,MI Cape Town,D Brevis
+info,player,MI Cape Town,LS Livingstone
+info,player,MI Cape Town,KA Pollard
+info,player,MI Cape Town,SM Curran
+info,player,MI Cape Town,C Esterhuizen
+info,player,MI Cape Town,GF Linde
+info,player,MI Cape Town,K Rabada
+info,player,MI Cape Town,BE Hendricks
+info,player,MI Cape Town,OP Stone
+info,player,Joburg Super Kings,F du Plessis
+info,player,Joburg Super Kings,RR Hendricks
+info,player,Joburg Super Kings,R Herrmann
+info,player,Joburg Super Kings,JL du Plooy
+info,player,Joburg Super Kings,MM Ali
+info,player,Joburg Super Kings,D Ferreira
+info,player,Joburg Super Kings,R Shepherd
+info,player,Joburg Super Kings,LB Williams
+info,player,Joburg Super Kings,N Burger
+info,player,Joburg Super Kings,Zahir Khan
+info,player,Joburg Super Kings,Imran Tahir
+info,registry,people,BE Hendricks,b56dc5f7
+info,registry,people,C Esterhuizen,ef9acbcc
+info,registry,people,D Brevis,844e79d1
+info,registry,people,D Ferreira,f0af99a7
+info,registry,people,DJ Smith,d17bec15
+info,registry,people,F du Plessis,3355b542
+info,registry,people,GF Linde,e5437608
+info,registry,people,HE van der Dussen,9948e262
+info,registry,people,Imran Tahir,acee4cc4
+info,registry,people,JL du Plooy,6e6fb538
+info,registry,people,K Rabada,e62dd25d
+info,registry,people,KA Pollard,a757b0d8
+info,registry,people,LB Gcuma,02ba88e3
+info,registry,people,LB Williams,a1d95bd8
+info,registry,people,LS Livingstone,50c6bc2b
+info,registry,people,Lauren Agenbag,40849abd
+info,registry,people,MM Ali,bb351c23
+info,registry,people,MN Gampu,41597619
+info,registry,people,N Burger,465aa633
+info,registry,people,OP Stone,3f659464
+info,registry,people,R Herrmann,a9d595ee
+info,registry,people,R Shepherd,c5aef772
+info,registry,people,RD Rickelton,e66732f8
+info,registry,people,RR Hendricks,b8cc58c9
+info,registry,people,SB Lambson,4146063f
+info,registry,people,SM Curran,e94915e6
+info,registry,people,Zahir Khan,786b7fe8
+ball,1,0.1,MI Cape Town,HE van der Dussen,RD Rickelton,MM Ali,0,0,,,,,,"",""
+ball,1,0.2,MI Cape Town,HE van der Dussen,RD Rickelton,MM Ali,1,0,,,,,,"",""
+ball,1,0.3,MI Cape Town,RD Rickelton,HE van der Dussen,MM Ali,1,0,,,,,,"",""
+ball,1,0.4,MI Cape Town,HE van der Dussen,RD Rickelton,MM Ali,2,0,,,,,,"",""
+ball,1,0.5,MI Cape Town,HE van der Dussen,RD Rickelton,MM Ali,0,0,,,,,,"",""
+ball,1,0.6,MI Cape Town,HE van der Dussen,RD Rickelton,MM Ali,2,0,,,,,,"",""
+ball,1,1.1,MI Cape Town,RD Rickelton,HE van der Dussen,N Burger,0,0,,,,,,"",""
+ball,1,1.2,MI Cape Town,RD Rickelton,HE van der Dussen,N Burger,1,0,,,,,,"",""
+ball,1,1.3,MI Cape Town,HE van der Dussen,RD Rickelton,N Burger,0,0,,,,,,"",""
+ball,1,1.4,MI Cape Town,HE van der Dussen,RD Rickelton,N Burger,1,0,,,,,,"",""
+ball,1,1.5,MI Cape Town,RD Rickelton,HE van der Dussen,N Burger,0,0,,,,,,"",""
+ball,1,1.6,MI Cape Town,RD Rickelton,HE van der Dussen,N Burger,0,0,,,,,,"",""
+ball,1,2.1,MI Cape Town,HE van der Dussen,RD Rickelton,LB Williams,0,0,,,,,,"",""
+ball,1,2.2,MI Cape Town,HE van der Dussen,RD Rickelton,LB Williams,0,0,,,,,,"",""
+ball,1,2.3,MI Cape Town,HE van der Dussen,RD Rickelton,LB Williams,2,0,,,,,,"",""
+ball,1,2.4,MI Cape Town,HE van der Dussen,RD Rickelton,LB Williams,4,0,,,,,,"",""
+ball,1,2.5,MI Cape Town,HE van der Dussen,RD Rickelton,LB Williams,4,0,,,,,,"",""
+ball,1,2.6,MI Cape Town,HE van der Dussen,RD Rickelton,LB Williams,0,0,,,,,,"",""
+ball,1,3.1,MI Cape Town,RD Rickelton,HE van der Dussen,N Burger,6,0,,,,,,"",""
+ball,1,3.2,MI Cape Town,RD Rickelton,HE van der Dussen,N Burger,6,0,,,,,,"",""
+ball,1,3.3,MI Cape Town,RD Rickelton,HE van der Dussen,N Burger,1,0,,,,,,"",""
+ball,1,3.4,MI Cape Town,HE van der Dussen,RD Rickelton,N Burger,4,0,,,,,,"",""
+ball,1,3.5,MI Cape Town,HE van der Dussen,RD Rickelton,N Burger,6,0,,,,,,"",""
+ball,1,3.6,MI Cape Town,HE van der Dussen,RD Rickelton,N Burger,4,0,,,,,,"",""
+ball,1,4.1,MI Cape Town,RD Rickelton,HE van der Dussen,LB Williams,0,0,,,,,,"",""
+ball,1,4.2,MI Cape Town,RD Rickelton,HE van der Dussen,LB Williams,4,0,,,,,,"",""
+ball,1,4.3,MI Cape Town,RD Rickelton,HE van der Dussen,LB Williams,4,0,,,,,,"",""
+ball,1,4.4,MI Cape Town,RD Rickelton,HE van der Dussen,LB Williams,0,1,1,,,,,"",""
+ball,1,4.5,MI Cape Town,RD Rickelton,HE van der Dussen,LB Williams,0,1,1,,,,,"",""
+ball,1,4.6,MI Cape Town,RD Rickelton,HE van der Dussen,LB Williams,0,0,,,,,,"",""
+ball,1,4.7,MI Cape Town,RD Rickelton,HE van der Dussen,LB Williams,0,0,,,,,,"",""
+ball,1,4.8,MI Cape Town,RD Rickelton,HE van der Dussen,LB Williams,2,0,,,,,,"",""
+ball,1,5.1,MI Cape Town,HE van der Dussen,RD Rickelton,R Shepherd,4,0,,,,,,"",""
+ball,1,5.2,MI Cape Town,HE van der Dussen,RD Rickelton,R Shepherd,4,0,,,,,,"",""
+ball,1,5.3,MI Cape Town,HE van der Dussen,RD Rickelton,R Shepherd,4,0,,,,,,"",""
+ball,1,5.4,MI Cape Town,HE van der Dussen,RD Rickelton,R Shepherd,0,0,,,,,,"",""
+ball,1,5.5,MI Cape Town,HE van der Dussen,RD Rickelton,R Shepherd,0,1,1,,,,,"",""
+ball,1,5.6,MI Cape Town,HE van der Dussen,RD Rickelton,R Shepherd,1,0,,,,,,"",""
+ball,1,5.7,MI Cape Town,RD Rickelton,HE van der Dussen,R Shepherd,0,1,1,,,,,"",""
+ball,1,5.8,MI Cape Town,RD Rickelton,HE van der Dussen,R Shepherd,1,0,,,,,,"",""
+ball,1,6.1,MI Cape Town,RD Rickelton,HE van der Dussen,Imran Tahir,1,0,,,,,,"",""
+ball,1,6.2,MI Cape Town,HE van der Dussen,RD Rickelton,Imran Tahir,2,0,,,,,,"",""
+ball,1,6.3,MI Cape Town,HE van der Dussen,RD Rickelton,Imran Tahir,2,0,,,,,,"",""
+ball,1,6.4,MI Cape Town,HE van der Dussen,RD Rickelton,Imran Tahir,1,0,,,,,,"",""
+ball,1,6.5,MI Cape Town,RD Rickelton,HE van der Dussen,Imran Tahir,6,0,,,,,,"",""
+ball,1,6.6,MI Cape Town,RD Rickelton,HE van der Dussen,Imran Tahir,4,0,,,,,,"",""
+ball,1,7.1,MI Cape Town,HE van der Dussen,RD Rickelton,Zahir Khan,1,0,,,,,,"",""
+ball,1,7.2,MI Cape Town,RD Rickelton,HE van der Dussen,Zahir Khan,1,0,,,,,,"",""
+ball,1,7.3,MI Cape Town,HE van der Dussen,RD Rickelton,Zahir Khan,1,0,,,,,,"",""
+ball,1,7.4,MI Cape Town,RD Rickelton,HE van der Dussen,Zahir Khan,0,0,,,,,,"",""
+ball,1,7.5,MI Cape Town,RD Rickelton,HE van der Dussen,Zahir Khan,1,0,,,,,,"",""
+ball,1,7.6,MI Cape Town,HE van der Dussen,RD Rickelton,Zahir Khan,6,0,,,,,,"",""
+ball,1,8.1,MI Cape Town,RD Rickelton,HE van der Dussen,MM Ali,1,0,,,,,,"",""
+ball,1,8.2,MI Cape Town,HE van der Dussen,RD Rickelton,MM Ali,2,0,,,,,,"",""
+ball,1,8.3,MI Cape Town,HE van der Dussen,RD Rickelton,MM Ali,1,0,,,,,,"",""
+ball,1,8.4,MI Cape Town,RD Rickelton,HE van der Dussen,MM Ali,2,0,,,,,,"",""
+ball,1,8.5,MI Cape Town,RD Rickelton,HE van der Dussen,MM Ali,1,0,,,,,,"",""
+ball,1,8.6,MI Cape Town,HE van der Dussen,RD Rickelton,MM Ali,1,0,,,,,,"",""
+ball,1,9.1,MI Cape Town,HE van der Dussen,RD Rickelton,Imran Tahir,1,0,,,,,,"",""
+ball,1,9.2,MI Cape Town,RD Rickelton,HE van der Dussen,Imran Tahir,1,0,,,,,,"",""
+ball,1,9.3,MI Cape Town,HE van der Dussen,RD Rickelton,Imran Tahir,0,0,,,,,,"",""
+ball,1,9.4,MI Cape Town,HE van der Dussen,RD Rickelton,Imran Tahir,4,0,,,,,,"",""
+ball,1,9.5,MI Cape Town,HE van der Dussen,RD Rickelton,Imran Tahir,0,0,,,,,,"",""
+ball,1,9.6,MI Cape Town,HE van der Dussen,RD Rickelton,Imran Tahir,1,0,,,,,,"",""
+ball,1,10.1,MI Cape Town,HE van der Dussen,RD Rickelton,MM Ali,1,0,,,,,,"",""
+ball,1,10.2,MI Cape Town,RD Rickelton,HE van der Dussen,MM Ali,1,0,,,,,,"",""
+ball,1,10.3,MI Cape Town,HE van der Dussen,RD Rickelton,MM Ali,1,0,,,,,,"",""
+ball,1,10.4,MI Cape Town,RD Rickelton,HE van der Dussen,MM Ali,1,0,,,,,,"",""
+ball,1,10.5,MI Cape Town,HE van der Dussen,RD Rickelton,MM Ali,2,0,,,,,,"",""
+ball,1,10.6,MI Cape Town,HE van der Dussen,RD Rickelton,MM Ali,6,0,,,,,,"",""
+ball,1,11.1,MI Cape Town,RD Rickelton,HE van der Dussen,Zahir Khan,6,0,,,,,,"",""
+ball,1,11.2,MI Cape Town,RD Rickelton,HE van der Dussen,Zahir Khan,6,0,,,,,,"",""
+ball,1,11.3,MI Cape Town,RD Rickelton,HE van der Dussen,Zahir Khan,0,0,,,,,,"",""
+ball,1,11.4,MI Cape Town,RD Rickelton,HE van der Dussen,Zahir Khan,1,0,,,,,,"",""
+ball,1,11.5,MI Cape Town,HE van der Dussen,RD Rickelton,Zahir Khan,6,0,,,,,,"",""
+ball,1,11.6,MI Cape Town,HE van der Dussen,RD Rickelton,Zahir Khan,1,0,,,,,,"",""
+ball,1,12.1,MI Cape Town,HE van der Dussen,RD Rickelton,N Burger,6,0,,,,,,"",""
+ball,1,12.2,MI Cape Town,HE van der Dussen,RD Rickelton,N Burger,1,0,,,,,,"",""
+ball,1,12.3,MI Cape Town,RD Rickelton,HE van der Dussen,N Burger,6,0,,,,,,"",""
+ball,1,12.4,MI Cape Town,RD Rickelton,HE van der Dussen,N Burger,1,0,,,,,,"",""
+ball,1,12.5,MI Cape Town,HE van der Dussen,RD Rickelton,N Burger,1,0,,,,,,"",""
+ball,1,12.6,MI Cape Town,RD Rickelton,HE van der Dussen,N Burger,4,0,,,,,,"",""
+ball,1,13.1,MI Cape Town,HE van der Dussen,RD Rickelton,R Shepherd,4,0,,,,,,"",""
+ball,1,13.2,MI Cape Town,HE van der Dussen,RD Rickelton,R Shepherd,6,0,,,,,,"",""
+ball,1,13.3,MI Cape Town,HE van der Dussen,RD Rickelton,R Shepherd,1,0,,,,,,"",""
+ball,1,13.4,MI Cape Town,RD Rickelton,HE van der Dussen,R Shepherd,4,0,,,,,,"",""
+ball,1,13.5,MI Cape Town,RD Rickelton,HE van der Dussen,R Shepherd,0,0,,,,,,"",""
+ball,1,13.6,MI Cape Town,RD Rickelton,HE van der Dussen,R Shepherd,1,0,,,,,,"",""
+ball,1,14.1,MI Cape Town,RD Rickelton,HE van der Dussen,MM Ali,6,0,,,,,,"",""
+ball,1,14.2,MI Cape Town,RD Rickelton,HE van der Dussen,MM Ali,0,0,,,,,,"",""
+ball,1,14.3,MI Cape Town,RD Rickelton,HE van der Dussen,MM Ali,6,0,,,,,,"",""
+ball,1,14.4,MI Cape Town,RD Rickelton,HE van der Dussen,MM Ali,2,0,,,,,,"",""
+ball,1,14.5,MI Cape Town,RD Rickelton,HE van der Dussen,MM Ali,1,0,,,,,,"",""
+ball,1,14.6,MI Cape Town,HE van der Dussen,RD Rickelton,MM Ali,0,1,1,,,,,"",""
+ball,1,14.7,MI Cape Town,HE van der Dussen,RD Rickelton,MM Ali,1,0,,,,,,"",""
+ball,1,15.1,MI Cape Town,HE van der Dussen,RD Rickelton,Imran Tahir,1,0,,,,,,"",""
+ball,1,15.2,MI Cape Town,RD Rickelton,HE van der Dussen,Imran Tahir,1,0,,,,,,"",""
+ball,1,15.3,MI Cape Town,HE van der Dussen,RD Rickelton,Imran Tahir,0,0,,,,,,caught,HE van der Dussen
+ball,1,15.4,MI Cape Town,D Brevis,RD Rickelton,Imran Tahir,1,0,,,,,,"",""
+ball,1,15.5,MI Cape Town,RD Rickelton,D Brevis,Imran Tahir,1,0,,,,,,"",""
+ball,1,15.6,MI Cape Town,D Brevis,RD Rickelton,Imran Tahir,4,0,,,,,,"",""
+ball,1,16.1,MI Cape Town,RD Rickelton,D Brevis,LB Williams,1,0,,,,,,"",""
+ball,1,16.2,MI Cape Town,D Brevis,RD Rickelton,LB Williams,0,0,,,,,,"",""
+ball,1,16.3,MI Cape Town,D Brevis,RD Rickelton,LB Williams,0,1,1,,,,,"",""
+ball,1,16.4,MI Cape Town,D Brevis,RD Rickelton,LB Williams,0,0,,,,,,"",""
+ball,1,16.5,MI Cape Town,D Brevis,RD Rickelton,LB Williams,0,0,,,,,,caught,D Brevis
+ball,1,16.6,MI Cape Town,LS Livingstone,RD Rickelton,LB Williams,4,0,,,,,,"",""
+ball,1,16.7,MI Cape Town,LS Livingstone,RD Rickelton,LB Williams,2,0,,,,,,"",""
+ball,1,17.1,MI Cape Town,RD Rickelton,LS Livingstone,R Shepherd,0,5,5,,,,,"",""
+ball,1,17.2,MI Cape Town,RD Rickelton,LS Livingstone,R Shepherd,1,0,,,,,,"",""
+ball,1,17.3,MI Cape Town,LS Livingstone,RD Rickelton,R Shepherd,2,0,,,,,,"",""
+ball,1,17.4,MI Cape Town,LS Livingstone,RD Rickelton,R Shepherd,4,0,,,,,,"",""
+ball,1,17.5,MI Cape Town,LS Livingstone,RD Rickelton,R Shepherd,0,0,,,,,,lbw,LS Livingstone
+ball,1,17.6,MI Cape Town,KA Pollard,RD Rickelton,R Shepherd,1,0,,,,,,"",""
+ball,1,17.7,MI Cape Town,RD Rickelton,KA Pollard,R Shepherd,4,0,,,,,,"",""
+ball,1,18.1,MI Cape Town,KA Pollard,RD Rickelton,LB Williams,0,0,,,,,,"",""
+ball,1,18.2,MI Cape Town,KA Pollard,RD Rickelton,LB Williams,1,0,,,,,,"",""
+ball,1,18.3,MI Cape Town,RD Rickelton,KA Pollard,LB Williams,0,1,,,1,,,"",""
+ball,1,18.4,MI Cape Town,KA Pollard,RD Rickelton,LB Williams,4,0,,,,,,"",""
+ball,1,18.5,MI Cape Town,KA Pollard,RD Rickelton,LB Williams,0,0,,,,,,"",""
+ball,1,18.6,MI Cape Town,KA Pollard,RD Rickelton,LB Williams,1,0,,,,,,"",""
+ball,1,19.1,MI Cape Town,KA Pollard,RD Rickelton,N Burger,1,0,,,,,,"",""
+ball,1,19.2,MI Cape Town,RD Rickelton,KA Pollard,N Burger,0,0,,,,,,caught,RD Rickelton
+ball,1,19.3,MI Cape Town,SM Curran,KA Pollard,N Burger,1,0,,,,,,"",""
+ball,1,19.4,MI Cape Town,KA Pollard,SM Curran,N Burger,1,0,,,,,,"",""
+ball,1,19.5,MI Cape Town,SM Curran,KA Pollard,N Burger,2,0,,,,,,"",""
+ball,1,19.6,MI Cape Town,SM Curran,KA Pollard,N Burger,0,0,,,,,,bowled,SM Curran
+ball,2,0.1,Joburg Super Kings,F du Plessis,RR Hendricks,GF Linde,0,0,,,,,,"",""
+ball,2,0.2,Joburg Super Kings,F du Plessis,RR Hendricks,GF Linde,0,0,,,,,,"",""
+ball,2,0.3,Joburg Super Kings,F du Plessis,RR Hendricks,GF Linde,0,0,,,,,,"",""
+ball,2,0.4,Joburg Super Kings,F du Plessis,RR Hendricks,GF Linde,1,0,,,,,,"",""
+ball,2,0.5,Joburg Super Kings,RR Hendricks,F du Plessis,GF Linde,0,0,,,,,,"",""
+ball,2,0.6,Joburg Super Kings,RR Hendricks,F du Plessis,GF Linde,0,0,,,,,,"",""
+ball,2,1.1,Joburg Super Kings,F du Plessis,RR Hendricks,BE Hendricks,2,0,,,,,,run out,RR Hendricks
+ball,2,1.2,Joburg Super Kings,R Herrmann,F du Plessis,BE Hendricks,0,0,,,,,,"",""
+ball,2,1.3,Joburg Super Kings,R Herrmann,F du Plessis,BE Hendricks,0,0,,,,,,"",""
+ball,2,1.4,Joburg Super Kings,R Herrmann,F du Plessis,BE Hendricks,4,0,,,,,,"",""
+ball,2,1.5,Joburg Super Kings,R Herrmann,F du Plessis,BE Hendricks,1,0,,,,,,"",""
+ball,2,1.6,Joburg Super Kings,F du Plessis,R Herrmann,BE Hendricks,1,0,,,,,,"",""
+ball,2,2.1,Joburg Super Kings,F du Plessis,R Herrmann,K Rabada,0,0,,,,,,"",""
+ball,2,2.2,Joburg Super Kings,F du Plessis,R Herrmann,K Rabada,1,0,,,,,,"",""
+ball,2,2.3,Joburg Super Kings,R Herrmann,F du Plessis,K Rabada,0,0,,,,,,"",""
+ball,2,2.4,Joburg Super Kings,R Herrmann,F du Plessis,K Rabada,0,0,,,,,,"",""
+ball,2,2.5,Joburg Super Kings,R Herrmann,F du Plessis,K Rabada,4,0,,,,,,"",""
+ball,2,2.6,Joburg Super Kings,R Herrmann,F du Plessis,K Rabada,0,0,,,,,,caught,R Herrmann
+ball,2,3.1,Joburg Super Kings,F du Plessis,JL du Plooy,LS Livingstone,1,0,,,,,,"",""
+ball,2,3.2,Joburg Super Kings,JL du Plooy,F du Plessis,LS Livingstone,4,0,,,,,,"",""
+ball,2,3.3,Joburg Super Kings,JL du Plooy,F du Plessis,LS Livingstone,4,0,,,,,,"",""
+ball,2,3.4,Joburg Super Kings,JL du Plooy,F du Plessis,LS Livingstone,0,0,,,,,,"",""
+ball,2,3.5,Joburg Super Kings,JL du Plooy,F du Plessis,LS Livingstone,4,0,,,,,,"",""
+ball,2,3.6,Joburg Super Kings,JL du Plooy,F du Plessis,LS Livingstone,2,0,,,,,,"",""
+ball,2,4.1,Joburg Super Kings,F du Plessis,JL du Plooy,GF Linde,0,0,,,,,,caught,F du Plessis
+ball,2,4.2,Joburg Super Kings,MM Ali,JL du Plooy,GF Linde,0,0,,,,,,"",""
+ball,2,4.3,Joburg Super Kings,MM Ali,JL du Plooy,GF Linde,1,0,,,,,,"",""
+ball,2,4.4,Joburg Super Kings,JL du Plooy,MM Ali,GF Linde,1,0,,,,,,"",""
+ball,2,4.5,Joburg Super Kings,MM Ali,JL du Plooy,GF Linde,2,0,,,,,,"",""
+ball,2,4.6,Joburg Super Kings,MM Ali,JL du Plooy,GF Linde,1,0,,,,,,"",""
+ball,2,5.1,Joburg Super Kings,MM Ali,JL du Plooy,BE Hendricks,1,0,,,,,,"",""
+ball,2,5.2,Joburg Super Kings,JL du Plooy,MM Ali,BE Hendricks,0,0,,,,,,"",""
+ball,2,5.3,Joburg Super Kings,JL du Plooy,MM Ali,BE Hendricks,1,0,,,,,,"",""
+ball,2,5.4,Joburg Super Kings,MM Ali,JL du Plooy,BE Hendricks,0,1,1,,,,,"",""
+ball,2,5.5,Joburg Super Kings,MM Ali,JL du Plooy,BE Hendricks,0,4,,,,4,,"",""
+ball,2,5.6,Joburg Super Kings,MM Ali,JL du Plooy,BE Hendricks,6,0,,,,,,"",""
+ball,2,5.7,Joburg Super Kings,MM Ali,JL du Plooy,BE Hendricks,0,0,,,,,,caught,MM Ali
+ball,2,6.1,Joburg Super Kings,JL du Plooy,D Ferreira,K Rabada,1,0,,,,,,"",""
+ball,2,6.2,Joburg Super Kings,D Ferreira,JL du Plooy,K Rabada,0,0,,,,,,"",""
+ball,2,6.3,Joburg Super Kings,D Ferreira,JL du Plooy,K Rabada,0,0,,,,,,"",""
+ball,2,6.4,Joburg Super Kings,D Ferreira,JL du Plooy,K Rabada,0,0,,,,,,"",""
+ball,2,6.5,Joburg Super Kings,D Ferreira,JL du Plooy,K Rabada,0,0,,,,,,"",""
+ball,2,6.6,Joburg Super Kings,D Ferreira,JL du Plooy,K Rabada,0,0,,,,,,"",""
+ball,2,7.1,Joburg Super Kings,JL du Plooy,D Ferreira,OP Stone,0,0,,,,,,"",""
+ball,2,7.2,Joburg Super Kings,JL du Plooy,D Ferreira,OP Stone,0,0,,,,,,"",""
+ball,2,7.3,Joburg Super Kings,JL du Plooy,D Ferreira,OP Stone,0,0,,,,,,"",""
+ball,2,7.4,Joburg Super Kings,JL du Plooy,D Ferreira,OP Stone,1,0,,,,,,"",""
+ball,2,7.5,Joburg Super Kings,D Ferreira,JL du Plooy,OP Stone,0,0,,,,,,"",""
+ball,2,7.6,Joburg Super Kings,D Ferreira,JL du Plooy,OP Stone,0,0,,,,,,"",""
+ball,2,8.1,Joburg Super Kings,JL du Plooy,D Ferreira,SM Curran,0,0,,,,,,"",""
+ball,2,8.2,Joburg Super Kings,JL du Plooy,D Ferreira,SM Curran,4,0,,,,,,"",""
+ball,2,8.3,Joburg Super Kings,JL du Plooy,D Ferreira,SM Curran,6,0,,,,,,"",""
+ball,2,8.4,Joburg Super Kings,JL du Plooy,D Ferreira,SM Curran,1,0,,,,,,"",""
+ball,2,8.5,Joburg Super Kings,D Ferreira,JL du Plooy,SM Curran,0,0,,,,,,"",""
+ball,2,8.6,Joburg Super Kings,D Ferreira,JL du Plooy,SM Curran,4,0,,,,,,"",""
+ball,2,9.1,Joburg Super Kings,JL du Plooy,D Ferreira,OP Stone,4,0,,,,,,"",""
+ball,2,9.2,Joburg Super Kings,JL du Plooy,D Ferreira,OP Stone,1,0,,,,,,"",""
+ball,2,9.3,Joburg Super Kings,D Ferreira,JL du Plooy,OP Stone,0,0,,,,,,"",""
+ball,2,9.4,Joburg Super Kings,D Ferreira,JL du Plooy,OP Stone,1,0,,,,,,"",""
+ball,2,9.5,Joburg Super Kings,JL du Plooy,D Ferreira,OP Stone,4,0,,,,,,"",""
+ball,2,9.6,Joburg Super Kings,JL du Plooy,D Ferreira,OP Stone,6,0,,,,,,"",""
+ball,2,10.1,Joburg Super Kings,D Ferreira,JL du Plooy,GF Linde,6,0,,,,,,"",""
+ball,2,10.2,Joburg Super Kings,D Ferreira,JL du Plooy,GF Linde,1,0,,,,,,"",""
+ball,2,10.3,Joburg Super Kings,JL du Plooy,D Ferreira,GF Linde,2,0,,,,,,"",""
+ball,2,10.4,Joburg Super Kings,JL du Plooy,D Ferreira,GF Linde,1,0,,,,,,"",""
+ball,2,10.5,Joburg Super Kings,D Ferreira,JL du Plooy,GF Linde,1,0,,,,,,"",""
+ball,2,10.6,Joburg Super Kings,JL du Plooy,D Ferreira,GF Linde,1,0,,,,,,run out,JL du Plooy
+ball,2,11.1,Joburg Super Kings,D Ferreira,R Shepherd,LS Livingstone,1,0,,,,,,"",""
+ball,2,11.2,Joburg Super Kings,R Shepherd,D Ferreira,LS Livingstone,0,0,,,,,,"",""
+ball,2,11.3,Joburg Super Kings,R Shepherd,D Ferreira,LS Livingstone,1,0,,,,,,"",""
+ball,2,11.4,Joburg Super Kings,D Ferreira,R Shepherd,LS Livingstone,0,0,,,,,,stumped,D Ferreira
+ball,2,11.5,Joburg Super Kings,LB Williams,R Shepherd,LS Livingstone,1,0,,,,,,"",""
+ball,2,11.6,Joburg Super Kings,R Shepherd,LB Williams,LS Livingstone,1,0,,,,,,"",""
+ball,2,12.1,Joburg Super Kings,R Shepherd,LB Williams,GF Linde,0,0,,,,,,"",""
+ball,2,12.2,Joburg Super Kings,R Shepherd,LB Williams,GF Linde,0,0,,,,,,"",""
+ball,2,12.3,Joburg Super Kings,R Shepherd,LB Williams,GF Linde,1,0,,,,,,"",""
+ball,2,12.4,Joburg Super Kings,LB Williams,R Shepherd,GF Linde,6,0,,,,,,"",""
+ball,2,12.5,Joburg Super Kings,LB Williams,R Shepherd,GF Linde,0,0,,,,,,"",""
+ball,2,12.6,Joburg Super Kings,LB Williams,R Shepherd,GF Linde,0,0,,,,,,caught,LB Williams
+ball,2,13.1,Joburg Super Kings,R Shepherd,N Burger,LS Livingstone,1,0,,,,,,"",""
+ball,2,13.2,Joburg Super Kings,N Burger,R Shepherd,LS Livingstone,0,0,,,,,,"",""
+ball,2,13.3,Joburg Super Kings,N Burger,R Shepherd,LS Livingstone,1,0,,,,,,"",""
+ball,2,13.4,Joburg Super Kings,R Shepherd,N Burger,LS Livingstone,6,0,,,,,,"",""
+ball,2,13.5,Joburg Super Kings,R Shepherd,N Burger,LS Livingstone,1,0,,,,,,"",""
+ball,2,13.6,Joburg Super Kings,N Burger,R Shepherd,LS Livingstone,0,0,,,,,,"",""
+ball,2,14.1,Joburg Super Kings,R Shepherd,N Burger,SM Curran,4,0,,,,,,"",""
+ball,2,14.2,Joburg Super Kings,R Shepherd,N Burger,SM Curran,0,1,1,,,,,"",""
+ball,2,14.3,Joburg Super Kings,R Shepherd,N Burger,SM Curran,4,0,,,,,,"",""
+ball,2,14.4,Joburg Super Kings,R Shepherd,N Burger,SM Curran,0,0,,,,,,"",""
+ball,2,14.5,Joburg Super Kings,R Shepherd,N Burger,SM Curran,1,0,,,,,,"",""
+ball,2,14.6,Joburg Super Kings,N Burger,R Shepherd,SM Curran,0,0,,,,,,"",""
+ball,2,14.7,Joburg Super Kings,N Burger,R Shepherd,SM Curran,1,0,,,,,,"",""
+ball,2,15.1,Joburg Super Kings,N Burger,R Shepherd,LS Livingstone,4,0,,,,,,"",""
+ball,2,15.2,Joburg Super Kings,N Burger,R Shepherd,LS Livingstone,1,0,,,,,,"",""
+ball,2,15.3,Joburg Super Kings,R Shepherd,N Burger,LS Livingstone,4,0,,,,,,"",""
+ball,2,15.4,Joburg Super Kings,R Shepherd,N Burger,LS Livingstone,6,0,,,,,,"",""
+ball,2,15.5,Joburg Super Kings,R Shepherd,N Burger,LS Livingstone,2,0,,,,,,"",""
+ball,2,15.6,Joburg Super Kings,R Shepherd,N Burger,LS Livingstone,1,0,,,,,,"",""
+ball,2,16.1,Joburg Super Kings,R Shepherd,N Burger,SM Curran,1,0,,,,,,"",""
+ball,2,16.2,Joburg Super Kings,N Burger,R Shepherd,SM Curran,0,0,,,,,,"",""
+ball,2,16.3,Joburg Super Kings,N Burger,R Shepherd,SM Curran,2,0,,,,,,"",""
+ball,2,16.4,Joburg Super Kings,N Burger,R Shepherd,SM Curran,0,0,,,,,,caught,N Burger
+ball,2,16.5,Joburg Super Kings,Zahir Khan,R Shepherd,SM Curran,0,0,,,,,,"",""
+ball,2,16.6,Joburg Super Kings,Zahir Khan,R Shepherd,SM Curran,0,0,,,,,,"",""
+ball,2,17.1,Joburg Super Kings,R Shepherd,Zahir Khan,OP Stone,0,0,,,,,,caught,R Shepherd
+ball,2,17.2,Joburg Super Kings,Imran Tahir,Zahir Khan,OP Stone,0,0,,,,,,"",""
+ball,2,17.3,Joburg Super Kings,Imran Tahir,Zahir Khan,OP Stone,1,0,,,,,,"",""
+ball,2,17.4,Joburg Super Kings,Zahir Khan,Imran Tahir,OP Stone,0,0,,,,,,"",""
+ball,2,17.5,Joburg Super Kings,Zahir Khan,Imran Tahir,OP Stone,0,0,,,,,,bowled,Zahir Khan

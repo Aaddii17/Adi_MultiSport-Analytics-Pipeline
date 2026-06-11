@@ -1,0 +1,300 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Brisbane Heat
+info,team,Perth Scorchers
+info,gender,male
+info,season,2022/23
+info,date,2023/01/11
+info,event,Big Bash League
+info,match_number,37
+info,venue,"Brisbane Cricket Ground, Woolloongabba, Brisbane"
+info,city,Brisbane
+info,toss_winner,Perth Scorchers
+info,toss_decision,field
+info,player_of_match,JP Behrendorff
+info,umpire,Eloise Sheridan
+info,umpire,MW Graham-Smith
+info,reserve_umpire,J Adie
+info,tv_umpire,BNJ Oxenford
+info,match_referee,Kepler Wessels
+info,winner,Perth Scorchers
+info,winner_wickets,8
+info,player,Brisbane Heat,UT Khawaja
+info,player,Brisbane Heat,J Brown
+info,player,Brisbane Heat,M Labuschagne
+info,player,Brisbane Heat,MT Renshaw
+info,player,Brisbane Heat,JJ Peirson
+info,player,Brisbane Heat,M Bryant
+info,player,Brisbane Heat,RA Whiteley
+info,player,Brisbane Heat,MG Neser
+info,player,Brisbane Heat,XC Bartlett
+info,player,Brisbane Heat,MP Kuhnemann
+info,player,Brisbane Heat,SH Johnson
+info,player,Perth Scorchers,SS Eskinazi
+info,player,Perth Scorchers,CT Bancroft
+info,player,Perth Scorchers,AM Hardie
+info,player,Perth Scorchers,JP Inglis
+info,player,Perth Scorchers,AJ Turner
+info,player,Perth Scorchers,NR Hobson
+info,player,Perth Scorchers,AC Agar
+info,player,Perth Scorchers,M Kelly
+info,player,Perth Scorchers,AJ Tye
+info,player,Perth Scorchers,JP Behrendorff
+info,player,Perth Scorchers,P Hatzoglou
+info,registry,people,AC Agar,a2421394
+info,registry,people,AJ Turner,ff1e12a0
+info,registry,people,AJ Tye,7c7d63a2
+info,registry,people,AM Hardie,d405c0d5
+info,registry,people,BNJ Oxenford,c1add349
+info,registry,people,CT Bancroft,399b0b94
+info,registry,people,Eloise Sheridan,d8d43840
+info,registry,people,J Adie,259c0030
+info,registry,people,J Brown,647e7d44
+info,registry,people,JJ Peirson,2b55c3b4
+info,registry,people,JP Behrendorff,4933f499
+info,registry,people,JP Inglis,989889ff
+info,registry,people,Kepler Wessels,3bedaff0
+info,registry,people,M Bryant,f32012f4
+info,registry,people,M Kelly,68e26ec9
+info,registry,people,M Labuschagne,fa433be6
+info,registry,people,MG Neser,0164b064
+info,registry,people,MP Kuhnemann,7b953689
+info,registry,people,MT Renshaw,218d4d78
+info,registry,people,MW Graham-Smith,18aca3ce
+info,registry,people,NR Hobson,4312e0fd
+info,registry,people,P Hatzoglou,6f95e5fa
+info,registry,people,RA Whiteley,d346d939
+info,registry,people,SH Johnson,83c3e8e3
+info,registry,people,SS Eskinazi,75cbed9b
+info,registry,people,UT Khawaja,331ea488
+info,registry,people,XC Bartlett,3b53243a
+ball,1,0.1,Brisbane Heat,UT Khawaja,J Brown,M Kelly,1,0,,,,,,"",""
+ball,1,0.2,Brisbane Heat,J Brown,UT Khawaja,M Kelly,0,0,,,,,,"",""
+ball,1,0.3,Brisbane Heat,J Brown,UT Khawaja,M Kelly,4,0,,,,,,"",""
+ball,1,0.4,Brisbane Heat,J Brown,UT Khawaja,M Kelly,0,0,,,,,,"",""
+ball,1,0.5,Brisbane Heat,J Brown,UT Khawaja,M Kelly,2,0,,,,,,"",""
+ball,1,0.6,Brisbane Heat,J Brown,UT Khawaja,M Kelly,6,0,,,,,,"",""
+ball,1,1.1,Brisbane Heat,UT Khawaja,J Brown,JP Behrendorff,1,0,,,,,,"",""
+ball,1,1.2,Brisbane Heat,J Brown,UT Khawaja,JP Behrendorff,0,0,,,,,,"",""
+ball,1,1.3,Brisbane Heat,J Brown,UT Khawaja,JP Behrendorff,0,0,,,,,,"",""
+ball,1,1.4,Brisbane Heat,J Brown,UT Khawaja,JP Behrendorff,0,0,,,,,,"",""
+ball,1,1.5,Brisbane Heat,J Brown,UT Khawaja,JP Behrendorff,0,0,,,,,,"",""
+ball,1,1.6,Brisbane Heat,J Brown,UT Khawaja,JP Behrendorff,0,0,,,,,,"",""
+ball,1,2.1,Brisbane Heat,UT Khawaja,J Brown,AC Agar,2,0,,,,,,"",""
+ball,1,2.2,Brisbane Heat,UT Khawaja,J Brown,AC Agar,4,0,,,,,,"",""
+ball,1,2.3,Brisbane Heat,UT Khawaja,J Brown,AC Agar,0,0,,,,,,"",""
+ball,1,2.4,Brisbane Heat,UT Khawaja,J Brown,AC Agar,1,0,,,,,,"",""
+ball,1,2.5,Brisbane Heat,J Brown,UT Khawaja,AC Agar,0,0,,,,,,"",""
+ball,1,2.6,Brisbane Heat,J Brown,UT Khawaja,AC Agar,6,0,,,,,,"",""
+ball,1,3.1,Brisbane Heat,UT Khawaja,J Brown,JP Behrendorff,0,0,,,,,,"",""
+ball,1,3.2,Brisbane Heat,UT Khawaja,J Brown,JP Behrendorff,0,0,,,,,,"",""
+ball,1,3.3,Brisbane Heat,UT Khawaja,J Brown,JP Behrendorff,4,0,,,,,,"",""
+ball,1,3.4,Brisbane Heat,UT Khawaja,J Brown,JP Behrendorff,1,0,,,,,,"",""
+ball,1,3.5,Brisbane Heat,J Brown,UT Khawaja,JP Behrendorff,0,0,,,,,,bowled,J Brown
+ball,1,3.6,Brisbane Heat,M Labuschagne,UT Khawaja,JP Behrendorff,0,0,,,,,,"",""
+ball,1,4.1,Brisbane Heat,UT Khawaja,M Labuschagne,AC Agar,1,0,,,,,,"",""
+ball,1,4.2,Brisbane Heat,M Labuschagne,UT Khawaja,AC Agar,1,0,,,,,,"",""
+ball,1,4.3,Brisbane Heat,UT Khawaja,M Labuschagne,AC Agar,1,0,,,,,,"",""
+ball,1,4.4,Brisbane Heat,M Labuschagne,UT Khawaja,AC Agar,0,0,,,,,,"",""
+ball,1,4.5,Brisbane Heat,M Labuschagne,UT Khawaja,AC Agar,4,0,,,,,,"",""
+ball,1,4.6,Brisbane Heat,M Labuschagne,UT Khawaja,AC Agar,0,0,,,,,,"",""
+ball,1,5.1,Brisbane Heat,UT Khawaja,M Labuschagne,JP Behrendorff,0,1,,,,1,,"",""
+ball,1,5.2,Brisbane Heat,M Labuschagne,UT Khawaja,JP Behrendorff,0,0,,,,,,"",""
+ball,1,5.3,Brisbane Heat,M Labuschagne,UT Khawaja,JP Behrendorff,4,0,,,,,,"",""
+ball,1,5.4,Brisbane Heat,M Labuschagne,UT Khawaja,JP Behrendorff,1,0,,,,,,"",""
+ball,1,5.5,Brisbane Heat,UT Khawaja,M Labuschagne,JP Behrendorff,3,0,,,,,,"",""
+ball,1,5.6,Brisbane Heat,M Labuschagne,UT Khawaja,JP Behrendorff,0,0,,,,,,caught,M Labuschagne
+ball,1,6.1,Brisbane Heat,UT Khawaja,MT Renshaw,AJ Turner,0,0,,,,,,"",""
+ball,1,6.2,Brisbane Heat,UT Khawaja,MT Renshaw,AJ Turner,1,0,,,,,,"",""
+ball,1,6.3,Brisbane Heat,MT Renshaw,UT Khawaja,AJ Turner,0,0,,,,,,"",""
+ball,1,6.4,Brisbane Heat,MT Renshaw,UT Khawaja,AJ Turner,0,0,,,,,,"",""
+ball,1,6.5,Brisbane Heat,MT Renshaw,UT Khawaja,AJ Turner,0,0,,,,,,"",""
+ball,1,6.6,Brisbane Heat,MT Renshaw,UT Khawaja,AJ Turner,1,0,,,,,,"",""
+ball,1,7.1,Brisbane Heat,MT Renshaw,UT Khawaja,P Hatzoglou,1,0,,,,,,"",""
+ball,1,7.2,Brisbane Heat,UT Khawaja,MT Renshaw,P Hatzoglou,1,0,,,,,,"",""
+ball,1,7.3,Brisbane Heat,MT Renshaw,UT Khawaja,P Hatzoglou,1,0,,,,,,"",""
+ball,1,7.4,Brisbane Heat,UT Khawaja,MT Renshaw,P Hatzoglou,0,1,1,,,,,"",""
+ball,1,7.5,Brisbane Heat,UT Khawaja,MT Renshaw,P Hatzoglou,2,0,,,,,,"",""
+ball,1,7.6,Brisbane Heat,UT Khawaja,MT Renshaw,P Hatzoglou,1,0,,,,,,"",""
+ball,1,7.7,Brisbane Heat,MT Renshaw,UT Khawaja,P Hatzoglou,1,0,,,,,,"",""
+ball,1,8.1,Brisbane Heat,MT Renshaw,UT Khawaja,AJ Tye,2,0,,,,,,"",""
+ball,1,8.2,Brisbane Heat,MT Renshaw,UT Khawaja,AJ Tye,4,0,,,,,,"",""
+ball,1,8.3,Brisbane Heat,MT Renshaw,UT Khawaja,AJ Tye,1,0,,,,,,"",""
+ball,1,8.4,Brisbane Heat,UT Khawaja,MT Renshaw,AJ Tye,1,0,,,,,,"",""
+ball,1,8.5,Brisbane Heat,MT Renshaw,UT Khawaja,AJ Tye,1,0,,,,,,"",""
+ball,1,8.6,Brisbane Heat,UT Khawaja,MT Renshaw,AJ Tye,2,0,,,,,,"",""
+ball,1,9.1,Brisbane Heat,MT Renshaw,UT Khawaja,AJ Turner,4,0,,,,,,"",""
+ball,1,9.2,Brisbane Heat,MT Renshaw,UT Khawaja,AJ Turner,1,0,,,,,,"",""
+ball,1,9.3,Brisbane Heat,UT Khawaja,MT Renshaw,AJ Turner,1,0,,,,,,"",""
+ball,1,9.4,Brisbane Heat,MT Renshaw,UT Khawaja,AJ Turner,2,0,,,,,,"",""
+ball,1,9.5,Brisbane Heat,MT Renshaw,UT Khawaja,AJ Turner,2,0,,,,,,"",""
+ball,1,9.6,Brisbane Heat,MT Renshaw,UT Khawaja,AJ Turner,1,0,,,,,,"",""
+ball,1,10.1,Brisbane Heat,MT Renshaw,UT Khawaja,AJ Tye,1,0,,,,,,"",""
+ball,1,10.2,Brisbane Heat,UT Khawaja,MT Renshaw,AJ Tye,0,0,,,,,,caught,UT Khawaja
+ball,1,10.3,Brisbane Heat,JJ Peirson,MT Renshaw,AJ Tye,1,0,,,,,,"",""
+ball,1,10.4,Brisbane Heat,MT Renshaw,JJ Peirson,AJ Tye,1,0,,,,,,"",""
+ball,1,10.5,Brisbane Heat,JJ Peirson,MT Renshaw,AJ Tye,0,0,,,,,,"",""
+ball,1,10.6,Brisbane Heat,JJ Peirson,MT Renshaw,AJ Tye,0,1,,,,1,,"",""
+ball,1,11.1,Brisbane Heat,JJ Peirson,MT Renshaw,JP Behrendorff,1,0,,,,,,"",""
+ball,1,11.2,Brisbane Heat,MT Renshaw,JJ Peirson,JP Behrendorff,1,0,,,,,,"",""
+ball,1,11.3,Brisbane Heat,JJ Peirson,MT Renshaw,JP Behrendorff,1,0,,,,,,"",""
+ball,1,11.4,Brisbane Heat,MT Renshaw,JJ Peirson,JP Behrendorff,2,0,,,,,,"",""
+ball,1,11.5,Brisbane Heat,MT Renshaw,JJ Peirson,JP Behrendorff,0,0,,,,,,caught,MT Renshaw
+ball,1,11.6,Brisbane Heat,M Bryant,JJ Peirson,JP Behrendorff,2,0,,,,,,"",""
+ball,1,12.1,Brisbane Heat,JJ Peirson,M Bryant,AC Agar,1,0,,,,,,"",""
+ball,1,12.2,Brisbane Heat,M Bryant,JJ Peirson,AC Agar,1,0,,,,,,"",""
+ball,1,12.3,Brisbane Heat,JJ Peirson,M Bryant,AC Agar,1,0,,,,,,"",""
+ball,1,12.4,Brisbane Heat,M Bryant,JJ Peirson,AC Agar,0,0,,,,,,"",""
+ball,1,12.5,Brisbane Heat,M Bryant,JJ Peirson,AC Agar,0,1,1,,,,,"",""
+ball,1,12.6,Brisbane Heat,M Bryant,JJ Peirson,AC Agar,0,0,,,,,,"",""
+ball,1,12.7,Brisbane Heat,M Bryant,JJ Peirson,AC Agar,0,0,,,,,,"",""
+ball,1,13.1,Brisbane Heat,JJ Peirson,M Bryant,P Hatzoglou,1,0,,,,,,"",""
+ball,1,13.2,Brisbane Heat,M Bryant,JJ Peirson,P Hatzoglou,1,0,,,,,,"",""
+ball,1,13.3,Brisbane Heat,JJ Peirson,M Bryant,P Hatzoglou,1,0,,,,,,"",""
+ball,1,13.4,Brisbane Heat,M Bryant,JJ Peirson,P Hatzoglou,2,0,,,,,,"",""
+ball,1,13.5,Brisbane Heat,M Bryant,JJ Peirson,P Hatzoglou,1,0,,,,,,"",""
+ball,1,13.6,Brisbane Heat,JJ Peirson,M Bryant,P Hatzoglou,0,0,,,,,,"",""
+ball,1,14.1,Brisbane Heat,M Bryant,JJ Peirson,AC Agar,1,0,,,,,,"",""
+ball,1,14.2,Brisbane Heat,JJ Peirson,M Bryant,AC Agar,1,0,,,,,,"",""
+ball,1,14.3,Brisbane Heat,M Bryant,JJ Peirson,AC Agar,0,0,,,,,,"",""
+ball,1,14.4,Brisbane Heat,M Bryant,JJ Peirson,AC Agar,1,0,,,,,,"",""
+ball,1,14.5,Brisbane Heat,JJ Peirson,M Bryant,AC Agar,1,0,,,,,,"",""
+ball,1,14.6,Brisbane Heat,M Bryant,JJ Peirson,AC Agar,0,0,,,,,,"",""
+ball,1,15.1,Brisbane Heat,JJ Peirson,M Bryant,P Hatzoglou,1,0,,,,,,"",""
+ball,1,15.2,Brisbane Heat,M Bryant,JJ Peirson,P Hatzoglou,6,0,,,,,,"",""
+ball,1,15.3,Brisbane Heat,M Bryant,JJ Peirson,P Hatzoglou,0,0,,,,,,"",""
+ball,1,15.4,Brisbane Heat,M Bryant,JJ Peirson,P Hatzoglou,1,0,,,,,,"",""
+ball,1,15.5,Brisbane Heat,JJ Peirson,M Bryant,P Hatzoglou,1,0,,,,,,"",""
+ball,1,15.6,Brisbane Heat,M Bryant,JJ Peirson,P Hatzoglou,0,0,,,,,,"",""
+ball,1,16.1,Brisbane Heat,JJ Peirson,M Bryant,AJ Tye,4,0,,,,,,"",""
+ball,1,16.2,Brisbane Heat,JJ Peirson,M Bryant,AJ Tye,1,0,,,,,,"",""
+ball,1,16.3,Brisbane Heat,M Bryant,JJ Peirson,AJ Tye,1,0,,,,,,"",""
+ball,1,16.4,Brisbane Heat,JJ Peirson,M Bryant,AJ Tye,1,0,,,,,,"",""
+ball,1,16.5,Brisbane Heat,M Bryant,JJ Peirson,AJ Tye,1,0,,,,,,"",""
+ball,1,16.6,Brisbane Heat,JJ Peirson,M Bryant,AJ Tye,1,1,,1,,,,"",""
+ball,1,16.7,Brisbane Heat,M Bryant,JJ Peirson,AJ Tye,0,1,1,,,,,"",""
+ball,1,16.8,Brisbane Heat,M Bryant,JJ Peirson,AJ Tye,2,0,,,,,,"",""
+ball,1,17.1,Brisbane Heat,JJ Peirson,M Bryant,P Hatzoglou,4,0,,,,,,"",""
+ball,1,17.2,Brisbane Heat,JJ Peirson,M Bryant,P Hatzoglou,0,0,,,,,,"",""
+ball,1,17.3,Brisbane Heat,JJ Peirson,M Bryant,P Hatzoglou,1,0,,,,,,"",""
+ball,1,17.4,Brisbane Heat,M Bryant,JJ Peirson,P Hatzoglou,0,0,,,,,,"",""
+ball,1,17.5,Brisbane Heat,M Bryant,JJ Peirson,P Hatzoglou,6,0,,,,,,"",""
+ball,1,17.6,Brisbane Heat,M Bryant,JJ Peirson,P Hatzoglou,1,0,,,,,,"",""
+ball,1,18.1,Brisbane Heat,M Bryant,JJ Peirson,AJ Tye,1,0,,,,,,"",""
+ball,1,18.2,Brisbane Heat,JJ Peirson,M Bryant,AJ Tye,0,1,1,,,,,"",""
+ball,1,18.3,Brisbane Heat,JJ Peirson,M Bryant,AJ Tye,1,0,,,,,,"",""
+ball,1,18.4,Brisbane Heat,M Bryant,JJ Peirson,AJ Tye,6,0,,,,,,"",""
+ball,1,18.5,Brisbane Heat,M Bryant,JJ Peirson,AJ Tye,1,0,,,,,,"",""
+ball,1,18.6,Brisbane Heat,JJ Peirson,M Bryant,AJ Tye,0,1,,,,1,,"",""
+ball,1,18.7,Brisbane Heat,M Bryant,JJ Peirson,AJ Tye,1,0,,,,,,"",""
+ball,1,19.1,Brisbane Heat,M Bryant,JJ Peirson,M Kelly,0,0,,,,,,caught,M Bryant
+ball,1,19.2,Brisbane Heat,RA Whiteley,JJ Peirson,M Kelly,0,0,,,,,,bowled,RA Whiteley
+ball,1,19.3,Brisbane Heat,MG Neser,JJ Peirson,M Kelly,0,0,,,,,,"",""
+ball,1,19.4,Brisbane Heat,MG Neser,JJ Peirson,M Kelly,1,0,,,,,,"",""
+ball,1,19.5,Brisbane Heat,JJ Peirson,MG Neser,M Kelly,0,1,1,,,,,"",""
+ball,1,19.6,Brisbane Heat,JJ Peirson,MG Neser,M Kelly,0,0,,,,,,"",""
+ball,1,19.7,Brisbane Heat,JJ Peirson,MG Neser,M Kelly,2,0,,,,,,"",""
+ball,2,0.1,Perth Scorchers,SS Eskinazi,CT Bancroft,MG Neser,1,0,,,,,,"",""
+ball,2,0.2,Perth Scorchers,CT Bancroft,SS Eskinazi,MG Neser,0,0,,,,,,"",""
+ball,2,0.3,Perth Scorchers,CT Bancroft,SS Eskinazi,MG Neser,0,0,,,,,,"",""
+ball,2,0.4,Perth Scorchers,CT Bancroft,SS Eskinazi,MG Neser,2,0,,,,,,"",""
+ball,2,0.5,Perth Scorchers,CT Bancroft,SS Eskinazi,MG Neser,0,1,,,,1,,"",""
+ball,2,0.6,Perth Scorchers,SS Eskinazi,CT Bancroft,MG Neser,6,0,,,,,,"",""
+ball,2,1.1,Perth Scorchers,CT Bancroft,SS Eskinazi,XC Bartlett,0,1,1,,,,,"",""
+ball,2,1.2,Perth Scorchers,CT Bancroft,SS Eskinazi,XC Bartlett,4,0,,,,,,"",""
+ball,2,1.3,Perth Scorchers,CT Bancroft,SS Eskinazi,XC Bartlett,0,0,,,,,,"",""
+ball,2,1.4,Perth Scorchers,CT Bancroft,SS Eskinazi,XC Bartlett,0,0,,,,,,lbw,CT Bancroft
+ball,2,1.5,Perth Scorchers,AM Hardie,SS Eskinazi,XC Bartlett,0,0,,,,,,"",""
+ball,2,1.6,Perth Scorchers,AM Hardie,SS Eskinazi,XC Bartlett,4,0,,,,,,"",""
+ball,2,1.7,Perth Scorchers,AM Hardie,SS Eskinazi,XC Bartlett,0,0,,,,,,"",""
+ball,2,2.1,Perth Scorchers,SS Eskinazi,AM Hardie,SH Johnson,0,0,,,,,,"",""
+ball,2,2.2,Perth Scorchers,SS Eskinazi,AM Hardie,SH Johnson,0,0,,,,,,"",""
+ball,2,2.3,Perth Scorchers,SS Eskinazi,AM Hardie,SH Johnson,0,0,,,,,,"",""
+ball,2,2.4,Perth Scorchers,SS Eskinazi,AM Hardie,SH Johnson,0,0,,,,,,"",""
+ball,2,2.5,Perth Scorchers,SS Eskinazi,AM Hardie,SH Johnson,0,1,1,,,,,"",""
+ball,2,2.6,Perth Scorchers,SS Eskinazi,AM Hardie,SH Johnson,2,0,,,,,,"",""
+ball,2,2.7,Perth Scorchers,SS Eskinazi,AM Hardie,SH Johnson,2,0,,,,,,"",""
+ball,2,3.1,Perth Scorchers,AM Hardie,SS Eskinazi,MP Kuhnemann,0,0,,,,,,"",""
+ball,2,3.2,Perth Scorchers,AM Hardie,SS Eskinazi,MP Kuhnemann,0,0,,,,,,"",""
+ball,2,3.3,Perth Scorchers,AM Hardie,SS Eskinazi,MP Kuhnemann,1,0,,,,,,"",""
+ball,2,3.4,Perth Scorchers,SS Eskinazi,AM Hardie,MP Kuhnemann,0,0,,,,,,"",""
+ball,2,3.5,Perth Scorchers,SS Eskinazi,AM Hardie,MP Kuhnemann,0,0,,,,,,"",""
+ball,2,3.6,Perth Scorchers,SS Eskinazi,AM Hardie,MP Kuhnemann,0,0,,,,,,caught,SS Eskinazi
+ball,2,4.1,Perth Scorchers,AM Hardie,JP Inglis,M Labuschagne,4,0,,,,,,"",""
+ball,2,4.2,Perth Scorchers,AM Hardie,JP Inglis,M Labuschagne,1,0,,,,,,"",""
+ball,2,4.3,Perth Scorchers,JP Inglis,AM Hardie,M Labuschagne,6,0,,,,,,"",""
+ball,2,4.4,Perth Scorchers,JP Inglis,AM Hardie,M Labuschagne,4,0,,,,,,"",""
+ball,2,4.5,Perth Scorchers,JP Inglis,AM Hardie,M Labuschagne,4,0,,,,,,"",""
+ball,2,4.6,Perth Scorchers,JP Inglis,AM Hardie,M Labuschagne,1,0,,,,,,"",""
+ball,2,5.1,Perth Scorchers,JP Inglis,AM Hardie,MP Kuhnemann,1,0,,,,,,"",""
+ball,2,5.2,Perth Scorchers,AM Hardie,JP Inglis,MP Kuhnemann,0,0,,,,,,"",""
+ball,2,5.3,Perth Scorchers,AM Hardie,JP Inglis,MP Kuhnemann,4,0,,,,,,"",""
+ball,2,5.4,Perth Scorchers,AM Hardie,JP Inglis,MP Kuhnemann,4,0,,,,,,"",""
+ball,2,5.5,Perth Scorchers,AM Hardie,JP Inglis,MP Kuhnemann,0,0,,,,,,"",""
+ball,2,5.6,Perth Scorchers,AM Hardie,JP Inglis,MP Kuhnemann,1,0,,,,,,"",""
+ball,2,6.1,Perth Scorchers,AM Hardie,JP Inglis,SH Johnson,0,0,,,,,,"",""
+ball,2,6.2,Perth Scorchers,AM Hardie,JP Inglis,SH Johnson,0,0,,,,,,"",""
+ball,2,6.3,Perth Scorchers,AM Hardie,JP Inglis,SH Johnson,0,0,,,,,,"",""
+ball,2,6.4,Perth Scorchers,AM Hardie,JP Inglis,SH Johnson,1,0,,,,,,"",""
+ball,2,6.5,Perth Scorchers,JP Inglis,AM Hardie,SH Johnson,0,0,,,,,,"",""
+ball,2,6.6,Perth Scorchers,JP Inglis,AM Hardie,SH Johnson,0,0,,,,,,"",""
+ball,2,7.1,Perth Scorchers,AM Hardie,JP Inglis,XC Bartlett,0,0,,,,,,"",""
+ball,2,7.2,Perth Scorchers,AM Hardie,JP Inglis,XC Bartlett,1,0,,,,,,"",""
+ball,2,7.3,Perth Scorchers,JP Inglis,AM Hardie,XC Bartlett,1,0,,,,,,"",""
+ball,2,7.4,Perth Scorchers,AM Hardie,JP Inglis,XC Bartlett,0,0,,,,,,"",""
+ball,2,7.5,Perth Scorchers,AM Hardie,JP Inglis,XC Bartlett,0,0,,,,,,"",""
+ball,2,7.6,Perth Scorchers,AM Hardie,JP Inglis,XC Bartlett,4,0,,,,,,"",""
+ball,2,8.1,Perth Scorchers,JP Inglis,AM Hardie,MG Neser,1,0,,,,,,"",""
+ball,2,8.2,Perth Scorchers,AM Hardie,JP Inglis,MG Neser,1,0,,,,,,"",""
+ball,2,8.3,Perth Scorchers,JP Inglis,AM Hardie,MG Neser,0,1,1,,,,,"",""
+ball,2,8.4,Perth Scorchers,JP Inglis,AM Hardie,MG Neser,1,0,,,,,,"",""
+ball,2,8.5,Perth Scorchers,AM Hardie,JP Inglis,MG Neser,1,0,,,,,,"",""
+ball,2,8.6,Perth Scorchers,JP Inglis,AM Hardie,MG Neser,1,0,,,,,,"",""
+ball,2,8.7,Perth Scorchers,AM Hardie,JP Inglis,MG Neser,2,0,,,,,,"",""
+ball,2,9.1,Perth Scorchers,JP Inglis,AM Hardie,MT Renshaw,1,0,,,,,,"",""
+ball,2,9.2,Perth Scorchers,AM Hardie,JP Inglis,MT Renshaw,1,0,,,,,,"",""
+ball,2,9.3,Perth Scorchers,JP Inglis,AM Hardie,MT Renshaw,1,0,,,,,,"",""
+ball,2,9.4,Perth Scorchers,AM Hardie,JP Inglis,MT Renshaw,1,0,,,,,,"",""
+ball,2,9.5,Perth Scorchers,JP Inglis,AM Hardie,MT Renshaw,0,0,,,,,,"",""
+ball,2,9.6,Perth Scorchers,JP Inglis,AM Hardie,MT Renshaw,1,0,,,,,,"",""
+ball,2,10.1,Perth Scorchers,JP Inglis,AM Hardie,RA Whiteley,1,0,,,,,,"",""
+ball,2,10.2,Perth Scorchers,AM Hardie,JP Inglis,RA Whiteley,0,0,,,,,,"",""
+ball,2,10.3,Perth Scorchers,AM Hardie,JP Inglis,RA Whiteley,0,2,2,,,,,"",""
+ball,2,10.4,Perth Scorchers,JP Inglis,AM Hardie,RA Whiteley,1,0,,,,,,"",""
+ball,2,10.5,Perth Scorchers,AM Hardie,JP Inglis,RA Whiteley,2,0,,,,,,"",""
+ball,2,10.6,Perth Scorchers,AM Hardie,JP Inglis,RA Whiteley,1,0,,,,,,"",""
+ball,2,10.7,Perth Scorchers,JP Inglis,AM Hardie,RA Whiteley,4,0,,,,,,"",""
+ball,2,11.1,Perth Scorchers,AM Hardie,JP Inglis,MP Kuhnemann,1,0,,,,,,"",""
+ball,2,11.2,Perth Scorchers,JP Inglis,AM Hardie,MP Kuhnemann,6,0,,,,,,"",""
+ball,2,11.3,Perth Scorchers,JP Inglis,AM Hardie,MP Kuhnemann,2,0,,,,,,"",""
+ball,2,11.4,Perth Scorchers,JP Inglis,AM Hardie,MP Kuhnemann,2,0,,,,,,"",""
+ball,2,11.5,Perth Scorchers,JP Inglis,AM Hardie,MP Kuhnemann,0,0,,,,,,"",""
+ball,2,11.6,Perth Scorchers,JP Inglis,AM Hardie,MP Kuhnemann,1,0,,,,,,"",""
+ball,2,12.1,Perth Scorchers,JP Inglis,AM Hardie,SH Johnson,0,0,,,,,,"",""
+ball,2,12.2,Perth Scorchers,JP Inglis,AM Hardie,SH Johnson,4,0,,,,,,"",""
+ball,2,12.3,Perth Scorchers,JP Inglis,AM Hardie,SH Johnson,4,0,,,,,,"",""
+ball,2,12.4,Perth Scorchers,JP Inglis,AM Hardie,SH Johnson,1,0,,,,,,"",""
+ball,2,12.5,Perth Scorchers,AM Hardie,JP Inglis,SH Johnson,0,0,,,,,,"",""
+ball,2,12.6,Perth Scorchers,AM Hardie,JP Inglis,SH Johnson,1,0,,,,,,"",""
+ball,2,13.1,Perth Scorchers,AM Hardie,JP Inglis,MG Neser,4,0,,,,,,"",""
+ball,2,13.2,Perth Scorchers,AM Hardie,JP Inglis,MG Neser,1,0,,,,,,"",""
+ball,2,13.3,Perth Scorchers,JP Inglis,AM Hardie,MG Neser,4,0,,,,,,"",""
+ball,2,13.4,Perth Scorchers,JP Inglis,AM Hardie,MG Neser,0,1,1,,,,,"",""
+ball,2,13.5,Perth Scorchers,JP Inglis,AM Hardie,MG Neser,0,1,1,,,,,"",""
+ball,2,13.6,Perth Scorchers,JP Inglis,AM Hardie,MG Neser,2,0,,,,,,"",""
+ball,2,13.7,Perth Scorchers,JP Inglis,AM Hardie,MG Neser,1,0,,,,,,"",""
+ball,2,13.8,Perth Scorchers,AM Hardie,JP Inglis,MG Neser,4,0,,,,,,"",""
+ball,2,14.1,Perth Scorchers,JP Inglis,AM Hardie,MP Kuhnemann,4,0,,,,,,"",""
+ball,2,14.2,Perth Scorchers,JP Inglis,AM Hardie,MP Kuhnemann,1,0,,,,,,"",""
+ball,2,14.3,Perth Scorchers,AM Hardie,JP Inglis,MP Kuhnemann,0,0,,,,,,"",""
+ball,2,14.4,Perth Scorchers,AM Hardie,JP Inglis,MP Kuhnemann,2,0,,,,,,"",""
+ball,2,14.5,Perth Scorchers,AM Hardie,JP Inglis,MP Kuhnemann,1,0,,,,,,"",""
+ball,2,14.6,Perth Scorchers,JP Inglis,AM Hardie,MP Kuhnemann,1,0,,,,,,"",""
+ball,2,15.1,Perth Scorchers,JP Inglis,AM Hardie,XC Bartlett,1,0,,,,,,"",""
+ball,2,15.2,Perth Scorchers,AM Hardie,JP Inglis,XC Bartlett,4,0,,,,,,"",""
+ball,2,15.3,Perth Scorchers,AM Hardie,JP Inglis,XC Bartlett,4,0,,,,,,"",""
+ball,2,15.4,Perth Scorchers,AM Hardie,JP Inglis,XC Bartlett,2,0,,,,,,"",""
+ball,2,15.5,Perth Scorchers,AM Hardie,JP Inglis,XC Bartlett,1,0,,,,,,"",""
+ball,2,15.6,Perth Scorchers,JP Inglis,AM Hardie,XC Bartlett,4,0,,,,,,"",""
+ball,2,16.1,Perth Scorchers,AM Hardie,JP Inglis,SH Johnson,0,0,,,,,,"",""
+ball,2,16.2,Perth Scorchers,AM Hardie,JP Inglis,SH Johnson,6,0,,,,,,"",""

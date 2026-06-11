@@ -1,0 +1,272 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Oman
+info,team,Zimbabwe
+info,gender,male
+info,season,2025/26
+info,date,2026/02/09
+info,event,ICC Men's T20 World Cup
+info,match_number,8
+info,venue,"Sinhalese Sports Club Ground, Colombo"
+info,city,Colombo
+info,toss_winner,Zimbabwe
+info,toss_decision,field
+info,player_of_match,B Muzarabani
+info,umpire,Asif Yaqoob
+info,umpire,WR Knights
+info,reserve_umpire,RA Kettleborough
+info,tv_umpire,Ahsan Raza
+info,match_referee,RB Richardson
+info,winner,Zimbabwe
+info,winner_wickets,8
+info,player,Oman,Aamir Kaleem
+info,player,Oman,Jatinder Singh
+info,player,Oman,Hammad Mirza
+info,player,Oman,K Sonavale
+info,player,Oman,Wasim Ali
+info,player,Oman,Sufyan Mehmood
+info,player,Oman,V Shukla
+info,player,Oman,J Ramanandi
+info,player,Oman,Nadeem Khan
+info,player,Oman,Shakeel Ahmed
+info,player,Oman,Shah Faisal
+info,player,Zimbabwe,BJ Bennett
+info,player,Zimbabwe,T Marumani
+info,player,Zimbabwe,D Myers
+info,player,Zimbabwe,BRM Taylor
+info,player,Zimbabwe,Sikandar Raza
+info,player,Zimbabwe,RP Burl
+info,player,Zimbabwe,T Musekiwa
+info,player,Zimbabwe,B Evans
+info,player,Zimbabwe,WP Masakadza
+info,player,Zimbabwe,R Ngarava
+info,player,Zimbabwe,B Muzarabani
+info,registry,people,Aamir Kaleem,7ecb9a14
+info,registry,people,Ahsan Raza,e0e5b209
+info,registry,people,Asif Yaqoob,6b35790c
+info,registry,people,B Evans,e7e86505
+info,registry,people,B Muzarabani,449f4e3c
+info,registry,people,BJ Bennett,eaa36b2a
+info,registry,people,BRM Taylor,53597be1
+info,registry,people,D Myers,d96165b5
+info,registry,people,Hammad Mirza,0b7b78c6
+info,registry,people,J Ramanandi,f7ce2ff9
+info,registry,people,Jatinder Singh,b80dd12c
+info,registry,people,K Sonavale,10c158cc
+info,registry,people,Nadeem Khan,8a28c5d4
+info,registry,people,R Ngarava,6e3f5a5c
+info,registry,people,RA Kettleborough,4017868f
+info,registry,people,RB Richardson,410e2f12
+info,registry,people,RP Burl,b08252b8
+info,registry,people,Shah Faisal,4fe6be0c
+info,registry,people,Shakeel Ahmed,e29e9c12
+info,registry,people,Sikandar Raza,26d041c4
+info,registry,people,Sufyan Mehmood,bf172ae6
+info,registry,people,T Marumani,3d5d51a5
+info,registry,people,T Musekiwa,06fc82b8
+info,registry,people,V Shukla,101b1180
+info,registry,people,WP Masakadza,4bc0a378
+info,registry,people,WR Knights,63cbf8d8
+info,registry,people,Wasim Ali,ea59139a
+ball,1,0.1,Oman,Aamir Kaleem,Jatinder Singh,R Ngarava,0,1,1,,,,,"",""
+ball,1,0.2,Oman,Aamir Kaleem,Jatinder Singh,R Ngarava,1,0,,,,,,"",""
+ball,1,0.3,Oman,Jatinder Singh,Aamir Kaleem,R Ngarava,0,0,,,,,,"",""
+ball,1,0.4,Oman,Jatinder Singh,Aamir Kaleem,R Ngarava,0,0,,,,,,"",""
+ball,1,0.5,Oman,Jatinder Singh,Aamir Kaleem,R Ngarava,4,0,,,,,,"",""
+ball,1,0.6,Oman,Jatinder Singh,Aamir Kaleem,R Ngarava,1,0,,,,,,"",""
+ball,1,0.7,Oman,Aamir Kaleem,Jatinder Singh,R Ngarava,0,0,,,,,,"",""
+ball,1,1.1,Oman,Jatinder Singh,Aamir Kaleem,B Muzarabani,0,0,,,,,,bowled,Jatinder Singh
+ball,1,1.2,Oman,Hammad Mirza,Aamir Kaleem,B Muzarabani,0,0,,,,,,"",""
+ball,1,1.3,Oman,Hammad Mirza,Aamir Kaleem,B Muzarabani,0,0,,,,,,"",""
+ball,1,1.4,Oman,Hammad Mirza,Aamir Kaleem,B Muzarabani,0,1,,,,1,,"",""
+ball,1,1.5,Oman,Aamir Kaleem,Hammad Mirza,B Muzarabani,0,0,,,,,,"",""
+ball,1,1.6,Oman,Aamir Kaleem,Hammad Mirza,B Muzarabani,0,0,,,,,,"",""
+ball,1,2.1,Oman,Hammad Mirza,Aamir Kaleem,R Ngarava,0,0,,,,,,"",""
+ball,1,2.2,Oman,Hammad Mirza,Aamir Kaleem,R Ngarava,0,0,,,,,,caught,Hammad Mirza
+ball,1,2.3,Oman,K Sonavale,Aamir Kaleem,R Ngarava,0,0,,,,,,"",""
+ball,1,2.4,Oman,K Sonavale,Aamir Kaleem,R Ngarava,0,0,,,,,,"",""
+ball,1,2.5,Oman,K Sonavale,Aamir Kaleem,R Ngarava,0,0,,,,,,"",""
+ball,1,2.6,Oman,K Sonavale,Aamir Kaleem,R Ngarava,0,4,,,,4,,"",""
+ball,1,3.1,Oman,Aamir Kaleem,K Sonavale,B Muzarabani,4,0,,,,,,"",""
+ball,1,3.2,Oman,Aamir Kaleem,K Sonavale,B Muzarabani,0,0,,,,,,"",""
+ball,1,3.3,Oman,Aamir Kaleem,K Sonavale,B Muzarabani,0,0,,,,,,caught,Aamir Kaleem
+ball,1,3.4,Oman,Wasim Ali,K Sonavale,B Muzarabani,1,0,,,,,,"",""
+ball,1,3.5,Oman,K Sonavale,Wasim Ali,B Muzarabani,0,0,,,,,,"",""
+ball,1,3.6,Oman,K Sonavale,Wasim Ali,B Muzarabani,0,0,,,,,,caught,K Sonavale
+ball,1,4.1,Oman,Wasim Ali,Sufyan Mehmood,B Evans,0,0,,,,,,"",""
+ball,1,4.2,Oman,Wasim Ali,Sufyan Mehmood,B Evans,1,0,,,,,,"",""
+ball,1,4.3,Oman,Sufyan Mehmood,Wasim Ali,B Evans,0,0,,,,,,"",""
+ball,1,4.4,Oman,Sufyan Mehmood,Wasim Ali,B Evans,1,0,,,,,,"",""
+ball,1,4.5,Oman,Wasim Ali,Sufyan Mehmood,B Evans,0,0,,,,,,"",""
+ball,1,4.6,Oman,Wasim Ali,Sufyan Mehmood,B Evans,0,0,,,,,,"",""
+ball,1,5.1,Oman,Sufyan Mehmood,Wasim Ali,B Muzarabani,0,0,,,,,,"",""
+ball,1,5.2,Oman,Sufyan Mehmood,Wasim Ali,B Muzarabani,0,0,,,,,,"",""
+ball,1,5.3,Oman,Sufyan Mehmood,Wasim Ali,B Muzarabani,4,0,,,,,,"",""
+ball,1,5.4,Oman,Sufyan Mehmood,Wasim Ali,B Muzarabani,0,0,,,,,,"",""
+ball,1,5.5,Oman,Sufyan Mehmood,Wasim Ali,B Muzarabani,0,0,,,,,,"",""
+ball,1,5.6,Oman,Sufyan Mehmood,Wasim Ali,B Muzarabani,1,0,,,,,,"",""
+ball,1,6.1,Oman,Sufyan Mehmood,Wasim Ali,Sikandar Raza,0,0,,,,,,"",""
+ball,1,6.2,Oman,Sufyan Mehmood,Wasim Ali,Sikandar Raza,1,0,,,,,,"",""
+ball,1,6.3,Oman,Wasim Ali,Sufyan Mehmood,Sikandar Raza,0,0,,,,,,"",""
+ball,1,6.4,Oman,Wasim Ali,Sufyan Mehmood,Sikandar Raza,1,0,,,,,,"",""
+ball,1,6.5,Oman,Sufyan Mehmood,Wasim Ali,Sikandar Raza,1,0,,,,,,"",""
+ball,1,6.6,Oman,Wasim Ali,Sufyan Mehmood,Sikandar Raza,0,0,,,,,,bowled,Wasim Ali
+ball,1,7.1,Oman,Sufyan Mehmood,V Shukla,BJ Bennett,0,0,,,,,,"",""
+ball,1,7.2,Oman,Sufyan Mehmood,V Shukla,BJ Bennett,0,0,,,,,,"",""
+ball,1,7.3,Oman,Sufyan Mehmood,V Shukla,BJ Bennett,0,0,,,,,,"",""
+ball,1,7.4,Oman,Sufyan Mehmood,V Shukla,BJ Bennett,0,0,,,,,,"",""
+ball,1,7.5,Oman,Sufyan Mehmood,V Shukla,BJ Bennett,0,0,,,,,,"",""
+ball,1,7.6,Oman,Sufyan Mehmood,V Shukla,BJ Bennett,1,0,,,,,,"",""
+ball,1,8.1,Oman,Sufyan Mehmood,V Shukla,B Evans,1,0,,,,,,"",""
+ball,1,8.2,Oman,V Shukla,Sufyan Mehmood,B Evans,0,0,,,,,,"",""
+ball,1,8.3,Oman,V Shukla,Sufyan Mehmood,B Evans,1,0,,,,,,"",""
+ball,1,8.4,Oman,Sufyan Mehmood,V Shukla,B Evans,0,0,,,,,,"",""
+ball,1,8.5,Oman,Sufyan Mehmood,V Shukla,B Evans,0,0,,,,,,"",""
+ball,1,8.6,Oman,Sufyan Mehmood,V Shukla,B Evans,0,0,,,,,,"",""
+ball,1,9.1,Oman,V Shukla,Sufyan Mehmood,WP Masakadza,0,0,,,,,,"",""
+ball,1,9.2,Oman,V Shukla,Sufyan Mehmood,WP Masakadza,4,0,,,,,,"",""
+ball,1,9.3,Oman,V Shukla,Sufyan Mehmood,WP Masakadza,2,0,,,,,,"",""
+ball,1,9.4,Oman,V Shukla,Sufyan Mehmood,WP Masakadza,2,0,,,,,,"",""
+ball,1,9.5,Oman,V Shukla,Sufyan Mehmood,WP Masakadza,0,0,,,,,,"",""
+ball,1,9.6,Oman,V Shukla,Sufyan Mehmood,WP Masakadza,0,0,,,,,,"",""
+ball,1,10.1,Oman,Sufyan Mehmood,V Shukla,Sikandar Raza,1,0,,,,,,"",""
+ball,1,10.2,Oman,V Shukla,Sufyan Mehmood,Sikandar Raza,1,0,,,,,,"",""
+ball,1,10.3,Oman,Sufyan Mehmood,V Shukla,Sikandar Raza,1,0,,,,,,"",""
+ball,1,10.4,Oman,V Shukla,Sufyan Mehmood,Sikandar Raza,0,0,,,,,,"",""
+ball,1,10.5,Oman,V Shukla,Sufyan Mehmood,Sikandar Raza,1,0,,,,,,"",""
+ball,1,10.6,Oman,Sufyan Mehmood,V Shukla,Sikandar Raza,1,0,,,,,,"",""
+ball,1,11.1,Oman,Sufyan Mehmood,V Shukla,BJ Bennett,4,0,,,,,,"",""
+ball,1,11.2,Oman,Sufyan Mehmood,V Shukla,BJ Bennett,1,0,,,,,,"",""
+ball,1,11.3,Oman,V Shukla,Sufyan Mehmood,BJ Bennett,0,0,,,,,,"",""
+ball,1,11.4,Oman,V Shukla,Sufyan Mehmood,BJ Bennett,4,0,,,,,,"",""
+ball,1,11.5,Oman,V Shukla,Sufyan Mehmood,BJ Bennett,4,0,,,,,,"",""
+ball,1,11.6,Oman,V Shukla,Sufyan Mehmood,BJ Bennett,4,0,,,,,,"",""
+ball,1,12.1,Oman,Sufyan Mehmood,V Shukla,Sikandar Raza,1,0,,,,,,"",""
+ball,1,12.2,Oman,V Shukla,Sufyan Mehmood,Sikandar Raza,2,0,,,,,,"",""
+ball,1,12.3,Oman,V Shukla,Sufyan Mehmood,Sikandar Raza,1,0,,,,,,"",""
+ball,1,12.4,Oman,Sufyan Mehmood,V Shukla,Sikandar Raza,0,0,,,,,,"",""
+ball,1,12.5,Oman,Sufyan Mehmood,V Shukla,Sikandar Raza,1,0,,,,,,"",""
+ball,1,12.6,Oman,V Shukla,Sufyan Mehmood,Sikandar Raza,0,0,,,,,,"",""
+ball,1,13.1,Oman,Sufyan Mehmood,V Shukla,WP Masakadza,0,0,,,,,,"",""
+ball,1,13.2,Oman,Sufyan Mehmood,V Shukla,WP Masakadza,0,0,,,,,,"",""
+ball,1,13.3,Oman,Sufyan Mehmood,V Shukla,WP Masakadza,1,0,,,,,,"",""
+ball,1,13.4,Oman,V Shukla,Sufyan Mehmood,WP Masakadza,1,0,,,,,,"",""
+ball,1,13.5,Oman,Sufyan Mehmood,V Shukla,WP Masakadza,1,0,,,,,,"",""
+ball,1,13.6,Oman,V Shukla,Sufyan Mehmood,WP Masakadza,1,0,,,,,,"",""
+ball,1,14.1,Oman,V Shukla,Sufyan Mehmood,R Ngarava,0,0,,,,,,caught,V Shukla
+ball,1,14.2,Oman,J Ramanandi,Sufyan Mehmood,R Ngarava,1,0,,,,,,"",""
+ball,1,14.3,Oman,Sufyan Mehmood,J Ramanandi,R Ngarava,0,0,,,,,,"",""
+ball,1,14.4,Oman,Sufyan Mehmood,J Ramanandi,R Ngarava,1,0,,,,,,"",""
+ball,1,14.5,Oman,J Ramanandi,Sufyan Mehmood,R Ngarava,0,0,,,,,,"",""
+ball,1,14.6,Oman,J Ramanandi,Sufyan Mehmood,R Ngarava,0,0,,,,,,caught,J Ramanandi
+ball,1,15.1,Oman,Sufyan Mehmood,Nadeem Khan,Sikandar Raza,1,0,,,,,,"",""
+ball,1,15.2,Oman,Nadeem Khan,Sufyan Mehmood,Sikandar Raza,1,0,,,,,,"",""
+ball,1,15.3,Oman,Sufyan Mehmood,Nadeem Khan,Sikandar Raza,1,0,,,,,,"",""
+ball,1,15.4,Oman,Nadeem Khan,Sufyan Mehmood,Sikandar Raza,0,0,,,,,,"",""
+ball,1,15.5,Oman,Nadeem Khan,Sufyan Mehmood,Sikandar Raza,1,0,,,,,,"",""
+ball,1,15.6,Oman,Sufyan Mehmood,Nadeem Khan,Sikandar Raza,0,0,,,,,,"",""
+ball,1,16.1,Oman,Nadeem Khan,Sufyan Mehmood,B Evans,1,0,,,,,,"",""
+ball,1,16.2,Oman,Sufyan Mehmood,Nadeem Khan,B Evans,0,0,,,,,,caught,Sufyan Mehmood
+ball,1,16.3,Oman,Shakeel Ahmed,Nadeem Khan,B Evans,1,0,,,,,,"",""
+ball,1,16.4,Oman,Nadeem Khan,Shakeel Ahmed,B Evans,0,0,,,,,,"",""
+ball,1,16.5,Oman,Nadeem Khan,Shakeel Ahmed,B Evans,4,0,,,,,,"",""
+ball,1,16.6,Oman,Nadeem Khan,Shakeel Ahmed,B Evans,1,0,,,,,,"",""
+ball,1,17.1,Oman,Nadeem Khan,Shakeel Ahmed,B Muzarabani,1,0,,,,,,"",""
+ball,1,17.2,Oman,Shakeel Ahmed,Nadeem Khan,B Muzarabani,1,0,,,,,,"",""
+ball,1,17.3,Oman,Nadeem Khan,Shakeel Ahmed,B Muzarabani,0,0,,,,,,"",""
+ball,1,17.4,Oman,Nadeem Khan,Shakeel Ahmed,B Muzarabani,0,1,1,,,,,"",""
+ball,1,17.5,Oman,Nadeem Khan,Shakeel Ahmed,B Muzarabani,1,0,,,,,,"",""
+ball,1,17.6,Oman,Shakeel Ahmed,Nadeem Khan,B Muzarabani,1,0,,,,,,"",""
+ball,1,17.7,Oman,Nadeem Khan,Shakeel Ahmed,B Muzarabani,1,0,,,,,,"",""
+ball,1,18.1,Oman,Nadeem Khan,Shakeel Ahmed,R Ngarava,0,0,,,,,,"",""
+ball,1,18.2,Oman,Nadeem Khan,Shakeel Ahmed,R Ngarava,6,0,,,,,,"",""
+ball,1,18.3,Oman,Nadeem Khan,Shakeel Ahmed,R Ngarava,1,0,,,,,,"",""
+ball,1,18.4,Oman,Shakeel Ahmed,Nadeem Khan,R Ngarava,1,0,,,,,,"",""
+ball,1,18.5,Oman,Nadeem Khan,Shakeel Ahmed,R Ngarava,0,0,,,,,,"",""
+ball,1,18.6,Oman,Nadeem Khan,Shakeel Ahmed,R Ngarava,0,0,,,,,,"",""
+ball,1,19.1,Oman,Shakeel Ahmed,Nadeem Khan,B Evans,0,0,,,,,,bowled,Shakeel Ahmed
+ball,1,19.2,Oman,Shah Faisal,Nadeem Khan,B Evans,4,0,,,,,,"",""
+ball,1,19.3,Oman,Shah Faisal,Nadeem Khan,B Evans,1,0,,,,,,"",""
+ball,1,19.4,Oman,Nadeem Khan,Shah Faisal,B Evans,2,0,,,,,,"",""
+ball,1,19.5,Oman,Nadeem Khan,Shah Faisal,B Evans,0,0,,,,,,caught,Nadeem Khan
+ball,2,0.1,Zimbabwe,BJ Bennett,T Marumani,Shah Faisal,0,0,,,,,,"",""
+ball,2,0.2,Zimbabwe,BJ Bennett,T Marumani,Shah Faisal,0,1,,,,1,,"",""
+ball,2,0.3,Zimbabwe,T Marumani,BJ Bennett,Shah Faisal,0,0,,,,,,"",""
+ball,2,0.4,Zimbabwe,T Marumani,BJ Bennett,Shah Faisal,4,0,,,,,,"",""
+ball,2,0.5,Zimbabwe,T Marumani,BJ Bennett,Shah Faisal,0,0,,,,,,"",""
+ball,2,0.6,Zimbabwe,T Marumani,BJ Bennett,Shah Faisal,1,0,,,,,,"",""
+ball,2,1.1,Zimbabwe,T Marumani,BJ Bennett,Shakeel Ahmed,0,0,,,,,,"",""
+ball,2,1.2,Zimbabwe,T Marumani,BJ Bennett,Shakeel Ahmed,0,0,,,,,,"",""
+ball,2,1.3,Zimbabwe,T Marumani,BJ Bennett,Shakeel Ahmed,4,0,,,,,,"",""
+ball,2,1.4,Zimbabwe,T Marumani,BJ Bennett,Shakeel Ahmed,4,0,,,,,,"",""
+ball,2,1.5,Zimbabwe,T Marumani,BJ Bennett,Shakeel Ahmed,4,0,,,,,,"",""
+ball,2,1.6,Zimbabwe,T Marumani,BJ Bennett,Shakeel Ahmed,4,0,,,,,,"",""
+ball,2,2.1,Zimbabwe,BJ Bennett,T Marumani,Shah Faisal,0,0,,,,,,"",""
+ball,2,2.2,Zimbabwe,BJ Bennett,T Marumani,Shah Faisal,0,0,,,,,,"",""
+ball,2,2.3,Zimbabwe,BJ Bennett,T Marumani,Shah Faisal,0,0,,,,,,"",""
+ball,2,2.4,Zimbabwe,BJ Bennett,T Marumani,Shah Faisal,4,0,,,,,,"",""
+ball,2,2.5,Zimbabwe,BJ Bennett,T Marumani,Shah Faisal,4,0,,,,,,"",""
+ball,2,2.6,Zimbabwe,BJ Bennett,T Marumani,Shah Faisal,0,0,,,,,,"",""
+ball,2,3.1,Zimbabwe,T Marumani,BJ Bennett,Sufyan Mehmood,0,0,,,,,,caught,T Marumani
+ball,2,3.2,Zimbabwe,D Myers,BJ Bennett,Sufyan Mehmood,0,0,,,,,,"",""
+ball,2,3.3,Zimbabwe,D Myers,BJ Bennett,Sufyan Mehmood,0,0,,,,,,caught,D Myers
+ball,2,3.4,Zimbabwe,BRM Taylor,BJ Bennett,Sufyan Mehmood,0,0,,,,,,"",""
+ball,2,3.5,Zimbabwe,BRM Taylor,BJ Bennett,Sufyan Mehmood,0,0,,,,,,"",""
+ball,2,3.6,Zimbabwe,BRM Taylor,BJ Bennett,Sufyan Mehmood,1,0,,,,,,"",""
+ball,2,4.1,Zimbabwe,BRM Taylor,BJ Bennett,Nadeem Khan,4,0,,,,,,"",""
+ball,2,4.2,Zimbabwe,BRM Taylor,BJ Bennett,Nadeem Khan,0,0,,,,,,"",""
+ball,2,4.3,Zimbabwe,BRM Taylor,BJ Bennett,Nadeem Khan,0,0,,,,,,"",""
+ball,2,4.4,Zimbabwe,BRM Taylor,BJ Bennett,Nadeem Khan,0,0,,,,,,"",""
+ball,2,4.5,Zimbabwe,BRM Taylor,BJ Bennett,Nadeem Khan,1,0,,,,,,"",""
+ball,2,4.6,Zimbabwe,BJ Bennett,BRM Taylor,Nadeem Khan,0,0,,,,,,"",""
+ball,2,5.1,Zimbabwe,BRM Taylor,BJ Bennett,Sufyan Mehmood,0,0,,,,,,"",""
+ball,2,5.2,Zimbabwe,BRM Taylor,BJ Bennett,Sufyan Mehmood,1,0,,,,,,"",""
+ball,2,5.3,Zimbabwe,BJ Bennett,BRM Taylor,Sufyan Mehmood,0,0,,,,,,"",""
+ball,2,5.4,Zimbabwe,BJ Bennett,BRM Taylor,Sufyan Mehmood,1,0,,,,,,"",""
+ball,2,5.5,Zimbabwe,BRM Taylor,BJ Bennett,Sufyan Mehmood,1,0,,,,,,"",""
+ball,2,5.6,Zimbabwe,BJ Bennett,BRM Taylor,Sufyan Mehmood,4,0,,,,,,"",""
+ball,2,6.1,Zimbabwe,BRM Taylor,BJ Bennett,Nadeem Khan,0,0,,,,,,"",""
+ball,2,6.2,Zimbabwe,BRM Taylor,BJ Bennett,Nadeem Khan,1,0,,,,,,"",""
+ball,2,6.3,Zimbabwe,BJ Bennett,BRM Taylor,Nadeem Khan,0,0,,,,,,"",""
+ball,2,6.4,Zimbabwe,BJ Bennett,BRM Taylor,Nadeem Khan,2,0,,,,,,"",""
+ball,2,6.5,Zimbabwe,BJ Bennett,BRM Taylor,Nadeem Khan,4,0,,,,,,"",""
+ball,2,6.6,Zimbabwe,BJ Bennett,BRM Taylor,Nadeem Khan,1,0,,,,,,"",""
+ball,2,7.1,Zimbabwe,BJ Bennett,BRM Taylor,Wasim Ali,1,0,,,,,,"",""
+ball,2,7.2,Zimbabwe,BRM Taylor,BJ Bennett,Wasim Ali,1,0,,,,,,"",""
+ball,2,7.3,Zimbabwe,BJ Bennett,BRM Taylor,Wasim Ali,0,0,,,,,,"",""
+ball,2,7.4,Zimbabwe,BJ Bennett,BRM Taylor,Wasim Ali,1,0,,,,,,"",""
+ball,2,7.5,Zimbabwe,BRM Taylor,BJ Bennett,Wasim Ali,1,0,,,,,,"",""
+ball,2,7.6,Zimbabwe,BJ Bennett,BRM Taylor,Wasim Ali,1,0,,,,,,"",""
+ball,2,8.1,Zimbabwe,BJ Bennett,BRM Taylor,J Ramanandi,1,0,,,,,,"",""
+ball,2,8.2,Zimbabwe,BRM Taylor,BJ Bennett,J Ramanandi,1,0,,,,,,"",""
+ball,2,8.3,Zimbabwe,BJ Bennett,BRM Taylor,J Ramanandi,1,0,,,,,,"",""
+ball,2,8.4,Zimbabwe,BRM Taylor,BJ Bennett,J Ramanandi,1,0,,,,,,"",""
+ball,2,8.5,Zimbabwe,BJ Bennett,BRM Taylor,J Ramanandi,1,0,,,,,,"",""
+ball,2,8.6,Zimbabwe,BRM Taylor,BJ Bennett,J Ramanandi,4,0,,,,,,"",""
+ball,2,9.1,Zimbabwe,BJ Bennett,BRM Taylor,Wasim Ali,1,0,,,,,,"",""
+ball,2,9.2,Zimbabwe,BRM Taylor,BJ Bennett,Wasim Ali,1,0,,,,,,"",""
+ball,2,9.3,Zimbabwe,BJ Bennett,BRM Taylor,Wasim Ali,1,0,,,,,,"",""
+ball,2,9.4,Zimbabwe,BRM Taylor,BJ Bennett,Wasim Ali,0,0,,,,,,"",""
+ball,2,9.5,Zimbabwe,BRM Taylor,BJ Bennett,Wasim Ali,1,0,,,,,,"",""
+ball,2,9.6,Zimbabwe,BJ Bennett,BRM Taylor,Wasim Ali,1,0,,,,,,"",""
+ball,2,10.1,Zimbabwe,BJ Bennett,BRM Taylor,Nadeem Khan,0,0,,,,,,"",""
+ball,2,10.2,Zimbabwe,BJ Bennett,BRM Taylor,Nadeem Khan,4,0,,,,,,"",""
+ball,2,10.3,Zimbabwe,BJ Bennett,BRM Taylor,Nadeem Khan,4,0,,,,,,"",""
+ball,2,10.4,Zimbabwe,BJ Bennett,BRM Taylor,Nadeem Khan,1,0,,,,,,"",""
+ball,2,10.5,Zimbabwe,BRM Taylor,BJ Bennett,Nadeem Khan,2,0,,,,,,"",""
+ball,2,10.6,Zimbabwe,BRM Taylor,BJ Bennett,Nadeem Khan,4,0,,,,,,"",""
+ball,2,11.1,Zimbabwe,BJ Bennett,BRM Taylor,Sufyan Mehmood,1,0,,,,,,"",""
+ball,2,11.2,Zimbabwe,BRM Taylor,BJ Bennett,Sufyan Mehmood,0,0,,,,,,"",""
+ball,2,11.3,Zimbabwe,BRM Taylor,BJ Bennett,Sufyan Mehmood,0,0,,,,,,"",""
+ball,2,11.4,Zimbabwe,BRM Taylor,BJ Bennett,Sufyan Mehmood,1,0,,,,,,"",""
+ball,2,11.5,Zimbabwe,BJ Bennett,BRM Taylor,Sufyan Mehmood,1,0,,,,,,"",""
+ball,2,11.6,Zimbabwe,BRM Taylor,BJ Bennett,Sufyan Mehmood,1,0,,,,,,"",""
+ball,2,12.1,Zimbabwe,BRM Taylor,BJ Bennett,Shakeel Ahmed,1,0,,,,,,"",""
+ball,2,12.2,Zimbabwe,BJ Bennett,BRM Taylor,Shakeel Ahmed,1,0,,,,,,"",""
+ball,2,12.3,Zimbabwe,BRM Taylor,BJ Bennett,Shakeel Ahmed,2,0,,,,,,"",""
+ball,2,12.4,Zimbabwe,BRM Taylor,BJ Bennett,Shakeel Ahmed,1,0,,,,,,"",""
+ball,2,12.5,Zimbabwe,BJ Bennett,BRM Taylor,Shakeel Ahmed,4,0,,,,,,retired hurt,BRM Taylor
+ball,2,12.6,Zimbabwe,BJ Bennett,Sikandar Raza,Shakeel Ahmed,2,0,,,,,,"",""
+ball,2,13.1,Zimbabwe,Sikandar Raza,BJ Bennett,K Sonavale,1,0,,,,,,"",""
+ball,2,13.2,Zimbabwe,BJ Bennett,Sikandar Raza,K Sonavale,1,0,,,,,,"",""
+ball,2,13.3,Zimbabwe,Sikandar Raza,BJ Bennett,K Sonavale,4,0,,,,,,"",""

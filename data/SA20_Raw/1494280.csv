@@ -1,0 +1,316 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Pretoria Capitals
+info,team,Joburg Super Kings
+info,gender,male
+info,season,2025/26
+info,date,2026/01/17
+info,event,SA20
+info,match_number,28
+info,venue,"The Wanderers Stadium, Johannesburg"
+info,city,Johannesburg
+info,toss_winner,Joburg Super Kings
+info,toss_decision,field
+info,player_of_match,SE Rutherford
+info,umpire,BP Jele
+info,umpire,Siphelele Gasa
+info,reserve_umpire,MN Gampu
+info,tv_umpire,A Steenkamp
+info,match_referee,GH Pienaar
+info,winner,Pretoria Capitals
+info,winner_runs,21
+info,player,Pretoria Capitals,SD Hope
+info,player,Pretoria Capitals,B Parsons
+info,player,Pretoria Capitals,C Esterhuizen
+info,player,Pretoria Capitals,D Brevis
+info,player,Pretoria Capitals,RL Chase
+info,player,Pretoria Capitals,AD Russell
+info,player,Pretoria Capitals,SE Rutherford
+info,player,Pretoria Capitals,KA Maharaj
+info,player,Pretoria Capitals,LB Williams
+info,player,Pretoria Capitals,L Ngidi
+info,player,Pretoria Capitals,GG Peters
+info,player,Joburg Super Kings,JM Vince
+info,player,Joburg Super Kings,R Moonsamy
+info,player,Joburg Super Kings,JL du Plooy
+info,player,Joburg Super Kings,M De Villiers
+info,player,Joburg Super Kings,PWA Mulder
+info,player,Joburg Super Kings,D Forrester
+info,player,Joburg Super Kings,AJ Hosein
+info,player,Joburg Super Kings,D Ferreira
+info,player,Joburg Super Kings,D Jansen
+info,player,Joburg Super Kings,N Burger
+info,player,Joburg Super Kings,DJ Worrall
+info,registry,people,A Steenkamp,89c62cf5
+info,registry,people,AD Russell,bbd41817
+info,registry,people,AJ Hosein,4d7f517e
+info,registry,people,B Parsons,fc60e81a
+info,registry,people,BP Jele,7bb1331e
+info,registry,people,C Esterhuizen,ef9acbcc
+info,registry,people,D Brevis,844e79d1
+info,registry,people,D Ferreira,f0af99a7
+info,registry,people,D Forrester,23393635
+info,registry,people,D Jansen,8dc152d1
+info,registry,people,DJ Worrall,208f22ea
+info,registry,people,GG Peters,360f4e4b
+info,registry,people,GH Pienaar,3516e46b
+info,registry,people,JL du Plooy,6e6fb538
+info,registry,people,JM Vince,a15618fe
+info,registry,people,KA Maharaj,0b60eb09
+info,registry,people,L Ngidi,f834dcfc
+info,registry,people,LB Williams,a1d95bd8
+info,registry,people,M De Villiers,e9aaf862
+info,registry,people,MN Gampu,41597619
+info,registry,people,N Burger,465aa633
+info,registry,people,PWA Mulder,c96f6ac5
+info,registry,people,R Moonsamy,29e676b0
+info,registry,people,RL Chase,3feda4fa
+info,registry,people,SD Hope,1fc6ef83
+info,registry,people,SE Rutherford,d014d5ac
+info,registry,people,Siphelele Gasa,e50baa87
+ball,1,0.1,Pretoria Capitals,SD Hope,B Parsons,DJ Worrall,0,0,,,,,,"",""
+ball,1,0.2,Pretoria Capitals,SD Hope,B Parsons,DJ Worrall,4,0,,,,,,"",""
+ball,1,0.3,Pretoria Capitals,SD Hope,B Parsons,DJ Worrall,0,0,,,,,,"",""
+ball,1,0.4,Pretoria Capitals,SD Hope,B Parsons,DJ Worrall,0,0,,,,,,caught,SD Hope
+ball,1,0.5,Pretoria Capitals,C Esterhuizen,B Parsons,DJ Worrall,0,0,,,,,,"",""
+ball,1,0.6,Pretoria Capitals,C Esterhuizen,B Parsons,DJ Worrall,0,0,,,,,,"",""
+ball,1,1.1,Pretoria Capitals,B Parsons,C Esterhuizen,N Burger,0,1,1,,,,,"",""
+ball,1,1.2,Pretoria Capitals,B Parsons,C Esterhuizen,N Burger,0,0,,,,,,"",""
+ball,1,1.3,Pretoria Capitals,B Parsons,C Esterhuizen,N Burger,0,0,,,,,,"",""
+ball,1,1.4,Pretoria Capitals,B Parsons,C Esterhuizen,N Burger,0,0,,,,,,"",""
+ball,1,1.5,Pretoria Capitals,B Parsons,C Esterhuizen,N Burger,0,0,,,,,,caught,B Parsons
+ball,1,1.6,Pretoria Capitals,D Brevis,C Esterhuizen,N Burger,0,0,,,,,,"",""
+ball,1,1.7,Pretoria Capitals,D Brevis,C Esterhuizen,N Burger,1,0,,,,,,"",""
+ball,1,2.1,Pretoria Capitals,D Brevis,C Esterhuizen,DJ Worrall,0,0,,,,,,"",""
+ball,1,2.2,Pretoria Capitals,D Brevis,C Esterhuizen,DJ Worrall,0,0,,,,,,"",""
+ball,1,2.3,Pretoria Capitals,D Brevis,C Esterhuizen,DJ Worrall,0,0,,,,,,"",""
+ball,1,2.4,Pretoria Capitals,D Brevis,C Esterhuizen,DJ Worrall,0,0,,,,,,"",""
+ball,1,2.5,Pretoria Capitals,D Brevis,C Esterhuizen,DJ Worrall,0,0,,,,,,"",""
+ball,1,2.6,Pretoria Capitals,D Brevis,C Esterhuizen,DJ Worrall,0,0,,,,,,"",""
+ball,1,3.1,Pretoria Capitals,C Esterhuizen,D Brevis,PWA Mulder,0,0,,,,,,"",""
+ball,1,3.2,Pretoria Capitals,C Esterhuizen,D Brevis,PWA Mulder,0,0,,,,,,"",""
+ball,1,3.3,Pretoria Capitals,C Esterhuizen,D Brevis,PWA Mulder,0,0,,,,,,"",""
+ball,1,3.4,Pretoria Capitals,C Esterhuizen,D Brevis,PWA Mulder,0,0,,,,,,"",""
+ball,1,3.5,Pretoria Capitals,C Esterhuizen,D Brevis,PWA Mulder,0,0,,,,,,caught,C Esterhuizen
+ball,1,3.6,Pretoria Capitals,RL Chase,D Brevis,PWA Mulder,0,0,,,,,,caught,RL Chase
+ball,1,4.1,Pretoria Capitals,D Brevis,AD Russell,DJ Worrall,0,0,,,,,,"",""
+ball,1,4.2,Pretoria Capitals,D Brevis,AD Russell,DJ Worrall,1,0,,,,,,"",""
+ball,1,4.3,Pretoria Capitals,AD Russell,D Brevis,DJ Worrall,0,0,,,,,,"",""
+ball,1,4.4,Pretoria Capitals,AD Russell,D Brevis,DJ Worrall,0,0,,,,,,"",""
+ball,1,4.5,Pretoria Capitals,AD Russell,D Brevis,DJ Worrall,0,0,,,,,,bowled,AD Russell
+ball,1,4.6,Pretoria Capitals,SE Rutherford,D Brevis,DJ Worrall,0,0,,,,,,"",""
+ball,1,5.1,Pretoria Capitals,D Brevis,SE Rutherford,N Burger,1,0,,,,,,"",""
+ball,1,5.2,Pretoria Capitals,SE Rutherford,D Brevis,N Burger,1,0,,,,,,"",""
+ball,1,5.3,Pretoria Capitals,D Brevis,SE Rutherford,N Burger,0,0,,,,,,"",""
+ball,1,5.4,Pretoria Capitals,D Brevis,SE Rutherford,N Burger,1,0,,,,,,"",""
+ball,1,5.5,Pretoria Capitals,SE Rutherford,D Brevis,N Burger,0,0,,,,,,"",""
+ball,1,5.6,Pretoria Capitals,SE Rutherford,D Brevis,N Burger,0,0,,,,,,"",""
+ball,1,6.1,Pretoria Capitals,D Brevis,SE Rutherford,DJ Worrall,0,0,,,,,,"",""
+ball,1,6.2,Pretoria Capitals,D Brevis,SE Rutherford,DJ Worrall,1,0,,,,,,"",""
+ball,1,6.3,Pretoria Capitals,SE Rutherford,D Brevis,DJ Worrall,1,0,,,,,,"",""
+ball,1,6.4,Pretoria Capitals,D Brevis,SE Rutherford,DJ Worrall,0,0,,,,,,"",""
+ball,1,6.5,Pretoria Capitals,D Brevis,SE Rutherford,DJ Worrall,4,0,,,,,,"",""
+ball,1,6.6,Pretoria Capitals,D Brevis,SE Rutherford,DJ Worrall,1,0,,,,,,"",""
+ball,1,7.1,Pretoria Capitals,D Brevis,SE Rutherford,D Jansen,0,0,,,,,,"",""
+ball,1,7.2,Pretoria Capitals,D Brevis,SE Rutherford,D Jansen,1,0,,,,,,"",""
+ball,1,7.3,Pretoria Capitals,SE Rutherford,D Brevis,D Jansen,1,0,,,,,,"",""
+ball,1,7.4,Pretoria Capitals,D Brevis,SE Rutherford,D Jansen,1,0,,,,,,"",""
+ball,1,7.5,Pretoria Capitals,SE Rutherford,D Brevis,D Jansen,0,0,,,,,,"",""
+ball,1,7.6,Pretoria Capitals,SE Rutherford,D Brevis,D Jansen,0,0,,,,,,"",""
+ball,1,8.1,Pretoria Capitals,D Brevis,SE Rutherford,PWA Mulder,0,0,,,,,,"",""
+ball,1,8.2,Pretoria Capitals,D Brevis,SE Rutherford,PWA Mulder,0,0,,,,,,"",""
+ball,1,8.3,Pretoria Capitals,D Brevis,SE Rutherford,PWA Mulder,1,0,,,,,,"",""
+ball,1,8.4,Pretoria Capitals,SE Rutherford,D Brevis,PWA Mulder,2,0,,,,,,"",""
+ball,1,8.5,Pretoria Capitals,SE Rutherford,D Brevis,PWA Mulder,0,0,,,,,,"",""
+ball,1,8.6,Pretoria Capitals,SE Rutherford,D Brevis,PWA Mulder,0,1,,,,1,,"",""
+ball,1,9.1,Pretoria Capitals,SE Rutherford,D Brevis,D Jansen,4,0,,,,,,"",""
+ball,1,9.2,Pretoria Capitals,SE Rutherford,D Brevis,D Jansen,0,0,,,,,,"",""
+ball,1,9.3,Pretoria Capitals,SE Rutherford,D Brevis,D Jansen,0,0,,,,,,"",""
+ball,1,9.4,Pretoria Capitals,SE Rutherford,D Brevis,D Jansen,4,0,,,,,,"",""
+ball,1,9.5,Pretoria Capitals,SE Rutherford,D Brevis,D Jansen,2,0,,,,,,"",""
+ball,1,9.6,Pretoria Capitals,SE Rutherford,D Brevis,D Jansen,0,0,,,,,,"",""
+ball,1,10.1,Pretoria Capitals,D Brevis,SE Rutherford,PWA Mulder,6,0,,,,,,"",""
+ball,1,10.2,Pretoria Capitals,D Brevis,SE Rutherford,PWA Mulder,4,0,,,,,,"",""
+ball,1,10.3,Pretoria Capitals,D Brevis,SE Rutherford,PWA Mulder,1,0,,,,,,"",""
+ball,1,10.4,Pretoria Capitals,SE Rutherford,D Brevis,PWA Mulder,2,0,,,,,,"",""
+ball,1,10.5,Pretoria Capitals,SE Rutherford,D Brevis,PWA Mulder,0,0,,,,,,"",""
+ball,1,10.6,Pretoria Capitals,SE Rutherford,D Brevis,PWA Mulder,6,0,,,,,,"",""
+ball,1,11.1,Pretoria Capitals,D Brevis,SE Rutherford,D Ferreira,0,0,,,,,,"",""
+ball,1,11.2,Pretoria Capitals,D Brevis,SE Rutherford,D Ferreira,0,0,,,,,,"",""
+ball,1,11.3,Pretoria Capitals,D Brevis,SE Rutherford,D Ferreira,0,0,,,,,,"",""
+ball,1,11.4,Pretoria Capitals,D Brevis,SE Rutherford,D Ferreira,0,0,,,,,,"",""
+ball,1,11.5,Pretoria Capitals,D Brevis,SE Rutherford,D Ferreira,1,0,,,,,,"",""
+ball,1,11.6,Pretoria Capitals,SE Rutherford,D Brevis,D Ferreira,1,0,,,,,,"",""
+ball,1,12.1,Pretoria Capitals,SE Rutherford,D Brevis,D Jansen,2,0,,,,,,"",""
+ball,1,12.2,Pretoria Capitals,SE Rutherford,D Brevis,D Jansen,1,0,,,,,,"",""
+ball,1,12.3,Pretoria Capitals,D Brevis,SE Rutherford,D Jansen,1,0,,,,,,"",""
+ball,1,12.4,Pretoria Capitals,SE Rutherford,D Brevis,D Jansen,0,0,,,,,,"",""
+ball,1,12.5,Pretoria Capitals,SE Rutherford,D Brevis,D Jansen,0,0,,,,,,"",""
+ball,1,12.6,Pretoria Capitals,SE Rutherford,D Brevis,D Jansen,0,0,,,,,,"",""
+ball,1,13.1,Pretoria Capitals,D Brevis,SE Rutherford,D Ferreira,4,0,,,,,,"",""
+ball,1,13.2,Pretoria Capitals,D Brevis,SE Rutherford,D Ferreira,6,0,,,,,,"",""
+ball,1,13.3,Pretoria Capitals,D Brevis,SE Rutherford,D Ferreira,4,0,,,,,,"",""
+ball,1,13.4,Pretoria Capitals,D Brevis,SE Rutherford,D Ferreira,6,0,,,,,,"",""
+ball,1,13.5,Pretoria Capitals,D Brevis,SE Rutherford,D Ferreira,1,0,,,,,,"",""
+ball,1,13.6,Pretoria Capitals,SE Rutherford,D Brevis,D Ferreira,2,0,,,,,,"",""
+ball,1,14.1,Pretoria Capitals,D Brevis,SE Rutherford,AJ Hosein,1,0,,,,,,"",""
+ball,1,14.2,Pretoria Capitals,SE Rutherford,D Brevis,AJ Hosein,1,0,,,,,,"",""
+ball,1,14.3,Pretoria Capitals,D Brevis,SE Rutherford,AJ Hosein,1,0,,,,,,"",""
+ball,1,14.4,Pretoria Capitals,SE Rutherford,D Brevis,AJ Hosein,1,0,,,,,,"",""
+ball,1,14.5,Pretoria Capitals,D Brevis,SE Rutherford,AJ Hosein,0,0,,,,,,"",""
+ball,1,14.6,Pretoria Capitals,D Brevis,SE Rutherford,AJ Hosein,1,0,,,,,,"",""
+ball,1,15.1,Pretoria Capitals,D Brevis,SE Rutherford,N Burger,1,0,,,,,,"",""
+ball,1,15.2,Pretoria Capitals,SE Rutherford,D Brevis,N Burger,6,0,,,,,,"",""
+ball,1,15.3,Pretoria Capitals,SE Rutherford,D Brevis,N Burger,4,0,,,,,,"",""
+ball,1,15.4,Pretoria Capitals,SE Rutherford,D Brevis,N Burger,0,1,1,,,,,"",""
+ball,1,15.5,Pretoria Capitals,SE Rutherford,D Brevis,N Burger,0,0,,,,,,"",""
+ball,1,15.6,Pretoria Capitals,SE Rutherford,D Brevis,N Burger,4,0,,,,,,"",""
+ball,1,15.7,Pretoria Capitals,SE Rutherford,D Brevis,N Burger,0,0,,,,,,"",""
+ball,1,16.1,Pretoria Capitals,D Brevis,SE Rutherford,AJ Hosein,0,0,,,,,,"",""
+ball,1,16.2,Pretoria Capitals,D Brevis,SE Rutherford,AJ Hosein,1,0,,,,,,"",""
+ball,1,16.3,Pretoria Capitals,SE Rutherford,D Brevis,AJ Hosein,1,0,,,,,,"",""
+ball,1,16.4,Pretoria Capitals,D Brevis,SE Rutherford,AJ Hosein,1,0,,,,,,"",""
+ball,1,16.5,Pretoria Capitals,SE Rutherford,D Brevis,AJ Hosein,4,0,,,,,,"",""
+ball,1,16.6,Pretoria Capitals,SE Rutherford,D Brevis,AJ Hosein,0,0,,,,,,"",""
+ball,1,17.1,Pretoria Capitals,D Brevis,SE Rutherford,D Jansen,0,0,,,,,,caught,D Brevis
+ball,1,17.2,Pretoria Capitals,KA Maharaj,SE Rutherford,D Jansen,1,0,,,,,,"",""
+ball,1,17.3,Pretoria Capitals,SE Rutherford,KA Maharaj,D Jansen,1,0,,,,,,"",""
+ball,1,17.4,Pretoria Capitals,KA Maharaj,SE Rutherford,D Jansen,1,0,,,,,,"",""
+ball,1,17.5,Pretoria Capitals,SE Rutherford,KA Maharaj,D Jansen,0,1,1,,,,,"",""
+ball,1,17.6,Pretoria Capitals,SE Rutherford,KA Maharaj,D Jansen,0,1,1,,,,,"",""
+ball,1,17.7,Pretoria Capitals,SE Rutherford,KA Maharaj,D Jansen,4,0,,,,,,"",""
+ball,1,17.8,Pretoria Capitals,SE Rutherford,KA Maharaj,D Jansen,1,0,,,,,,"",""
+ball,1,18.1,Pretoria Capitals,SE Rutherford,KA Maharaj,N Burger,0,0,,,,,,"",""
+ball,1,18.2,Pretoria Capitals,SE Rutherford,KA Maharaj,N Burger,1,0,,,,,,"",""
+ball,1,18.3,Pretoria Capitals,KA Maharaj,SE Rutherford,N Burger,4,0,,,,,,"",""
+ball,1,18.4,Pretoria Capitals,KA Maharaj,SE Rutherford,N Burger,1,0,,,,,,"",""
+ball,1,18.5,Pretoria Capitals,SE Rutherford,KA Maharaj,N Burger,4,0,,,,,,"",""
+ball,1,18.6,Pretoria Capitals,SE Rutherford,KA Maharaj,N Burger,1,0,,,,,,"",""
+ball,1,19.1,Pretoria Capitals,SE Rutherford,KA Maharaj,PWA Mulder,4,0,,,,,,"",""
+ball,1,19.2,Pretoria Capitals,SE Rutherford,KA Maharaj,PWA Mulder,0,0,,,,,,"",""
+ball,1,19.3,Pretoria Capitals,SE Rutherford,KA Maharaj,PWA Mulder,0,0,,,,,,"",""
+ball,1,19.4,Pretoria Capitals,SE Rutherford,KA Maharaj,PWA Mulder,4,0,,,,,,"",""
+ball,1,19.5,Pretoria Capitals,SE Rutherford,KA Maharaj,PWA Mulder,0,0,,,,,,"",""
+ball,1,19.6,Pretoria Capitals,SE Rutherford,KA Maharaj,PWA Mulder,4,0,,,,,,"",""
+ball,2,0.1,Joburg Super Kings,JM Vince,R Moonsamy,L Ngidi,0,0,,,,,,"",""
+ball,2,0.2,Joburg Super Kings,JM Vince,R Moonsamy,L Ngidi,0,0,,,,,,"",""
+ball,2,0.3,Joburg Super Kings,JM Vince,R Moonsamy,L Ngidi,0,0,,,,,,"",""
+ball,2,0.4,Joburg Super Kings,JM Vince,R Moonsamy,L Ngidi,4,0,,,,,,"",""
+ball,2,0.5,Joburg Super Kings,JM Vince,R Moonsamy,L Ngidi,0,0,,,,,,"",""
+ball,2,0.6,Joburg Super Kings,JM Vince,R Moonsamy,L Ngidi,0,0,,,,,,"",""
+ball,2,1.1,Joburg Super Kings,R Moonsamy,JM Vince,LB Williams,0,0,,,,,,"",""
+ball,2,1.2,Joburg Super Kings,R Moonsamy,JM Vince,LB Williams,0,0,,,,,,"",""
+ball,2,1.3,Joburg Super Kings,R Moonsamy,JM Vince,LB Williams,1,0,,,,,,"",""
+ball,2,1.4,Joburg Super Kings,JM Vince,R Moonsamy,LB Williams,0,0,,,,,,"",""
+ball,2,1.5,Joburg Super Kings,JM Vince,R Moonsamy,LB Williams,0,0,,,,,,"",""
+ball,2,1.6,Joburg Super Kings,JM Vince,R Moonsamy,LB Williams,1,0,,,,,,"",""
+ball,2,2.1,Joburg Super Kings,JM Vince,R Moonsamy,L Ngidi,1,0,,,,,,"",""
+ball,2,2.2,Joburg Super Kings,R Moonsamy,JM Vince,L Ngidi,0,0,,,,,,"",""
+ball,2,2.3,Joburg Super Kings,R Moonsamy,JM Vince,L Ngidi,0,0,,,,,,"",""
+ball,2,2.4,Joburg Super Kings,R Moonsamy,JM Vince,L Ngidi,0,0,,,,,,"",""
+ball,2,2.5,Joburg Super Kings,R Moonsamy,JM Vince,L Ngidi,0,0,,,,,,"",""
+ball,2,2.6,Joburg Super Kings,R Moonsamy,JM Vince,L Ngidi,0,0,,,,,,"",""
+ball,2,3.1,Joburg Super Kings,JM Vince,R Moonsamy,LB Williams,4,0,,,,,,"",""
+ball,2,3.2,Joburg Super Kings,JM Vince,R Moonsamy,LB Williams,0,0,,,,,,"",""
+ball,2,3.3,Joburg Super Kings,JM Vince,R Moonsamy,LB Williams,0,0,,,,,,"",""
+ball,2,3.4,Joburg Super Kings,JM Vince,R Moonsamy,LB Williams,4,0,,,,,,"",""
+ball,2,3.5,Joburg Super Kings,JM Vince,R Moonsamy,LB Williams,1,0,,,,,,"",""
+ball,2,3.6,Joburg Super Kings,R Moonsamy,JM Vince,LB Williams,0,0,,,,,,caught,R Moonsamy
+ball,2,4.1,Joburg Super Kings,JM Vince,JL du Plooy,L Ngidi,1,0,,,,,,"",""
+ball,2,4.2,Joburg Super Kings,JL du Plooy,JM Vince,L Ngidi,4,0,,,,,,"",""
+ball,2,4.3,Joburg Super Kings,JL du Plooy,JM Vince,L Ngidi,4,0,,,,,,"",""
+ball,2,4.4,Joburg Super Kings,JL du Plooy,JM Vince,L Ngidi,0,0,,,,,,"",""
+ball,2,4.5,Joburg Super Kings,JL du Plooy,JM Vince,L Ngidi,0,0,,,,,,"",""
+ball,2,4.6,Joburg Super Kings,JL du Plooy,JM Vince,L Ngidi,4,0,,,,,,"",""
+ball,2,5.1,Joburg Super Kings,JM Vince,JL du Plooy,AD Russell,0,4,,,,4,,"",""
+ball,2,5.2,Joburg Super Kings,JM Vince,JL du Plooy,AD Russell,0,0,,,,,,"",""
+ball,2,5.3,Joburg Super Kings,JM Vince,JL du Plooy,AD Russell,1,0,,,,,,"",""
+ball,2,5.4,Joburg Super Kings,JL du Plooy,JM Vince,AD Russell,6,0,,,,,,"",""
+ball,2,5.5,Joburg Super Kings,JL du Plooy,JM Vince,AD Russell,0,0,,,,,,"",""
+ball,2,5.6,Joburg Super Kings,JL du Plooy,JM Vince,AD Russell,0,0,,,,,,"",""
+ball,2,6.1,Joburg Super Kings,JM Vince,JL du Plooy,KA Maharaj,0,0,,,,,,"",""
+ball,2,6.2,Joburg Super Kings,JM Vince,JL du Plooy,KA Maharaj,2,0,,,,,,"",""
+ball,2,6.3,Joburg Super Kings,JM Vince,JL du Plooy,KA Maharaj,0,0,,,,,,"",""
+ball,2,6.4,Joburg Super Kings,JM Vince,JL du Plooy,KA Maharaj,0,0,,,,,,caught,JM Vince
+ball,2,6.5,Joburg Super Kings,M De Villiers,JL du Plooy,KA Maharaj,0,0,,,,,,"",""
+ball,2,6.6,Joburg Super Kings,M De Villiers,JL du Plooy,KA Maharaj,0,0,,,,,,"",""
+ball,2,7.1,Joburg Super Kings,JL du Plooy,M De Villiers,RL Chase,0,0,,,,,,"",""
+ball,2,7.2,Joburg Super Kings,JL du Plooy,M De Villiers,RL Chase,0,0,,,,,,"",""
+ball,2,7.3,Joburg Super Kings,JL du Plooy,M De Villiers,RL Chase,1,0,,,,,,"",""
+ball,2,7.4,Joburg Super Kings,M De Villiers,JL du Plooy,RL Chase,1,0,,,,,,"",""
+ball,2,7.5,Joburg Super Kings,JL du Plooy,M De Villiers,RL Chase,1,0,,,,,,"",""
+ball,2,7.6,Joburg Super Kings,M De Villiers,JL du Plooy,RL Chase,1,0,,,,,,"",""
+ball,2,8.1,Joburg Super Kings,M De Villiers,JL du Plooy,KA Maharaj,0,0,,,,,,"",""
+ball,2,8.2,Joburg Super Kings,M De Villiers,JL du Plooy,KA Maharaj,0,0,,,,,,lbw,M De Villiers
+ball,2,8.3,Joburg Super Kings,PWA Mulder,JL du Plooy,KA Maharaj,1,0,,,,,,"",""
+ball,2,8.4,Joburg Super Kings,JL du Plooy,PWA Mulder,KA Maharaj,1,0,,,,,,"",""
+ball,2,8.5,Joburg Super Kings,PWA Mulder,JL du Plooy,KA Maharaj,4,0,,,,,,"",""
+ball,2,8.6,Joburg Super Kings,PWA Mulder,JL du Plooy,KA Maharaj,1,0,,,,,,"",""
+ball,2,9.1,Joburg Super Kings,PWA Mulder,JL du Plooy,RL Chase,0,0,,,,,,"",""
+ball,2,9.2,Joburg Super Kings,PWA Mulder,JL du Plooy,RL Chase,0,0,,,,,,"",""
+ball,2,9.3,Joburg Super Kings,PWA Mulder,JL du Plooy,RL Chase,0,0,,,,,,"",""
+ball,2,9.4,Joburg Super Kings,PWA Mulder,JL du Plooy,RL Chase,0,0,,,,,,"",""
+ball,2,9.5,Joburg Super Kings,PWA Mulder,JL du Plooy,RL Chase,0,0,,,,,,"",""
+ball,2,9.6,Joburg Super Kings,PWA Mulder,JL du Plooy,RL Chase,1,0,,,,,,"",""
+ball,2,10.1,Joburg Super Kings,PWA Mulder,JL du Plooy,KA Maharaj,0,0,,,,,,"",""
+ball,2,10.2,Joburg Super Kings,PWA Mulder,JL du Plooy,KA Maharaj,0,0,,,,,,caught,PWA Mulder
+ball,2,10.3,Joburg Super Kings,D Forrester,JL du Plooy,KA Maharaj,1,0,,,,,,"",""
+ball,2,10.4,Joburg Super Kings,JL du Plooy,D Forrester,KA Maharaj,1,0,,,,,,"",""
+ball,2,10.5,Joburg Super Kings,D Forrester,JL du Plooy,KA Maharaj,0,1,,,,1,,"",""
+ball,2,10.6,Joburg Super Kings,JL du Plooy,D Forrester,KA Maharaj,0,0,,,,,,"",""
+ball,2,11.1,Joburg Super Kings,D Forrester,JL du Plooy,RL Chase,0,0,,,,,,"",""
+ball,2,11.2,Joburg Super Kings,D Forrester,JL du Plooy,RL Chase,0,0,,,,,,"",""
+ball,2,11.3,Joburg Super Kings,D Forrester,JL du Plooy,RL Chase,1,0,,,,,,"",""
+ball,2,11.4,Joburg Super Kings,JL du Plooy,D Forrester,RL Chase,0,0,,,,,,"",""
+ball,2,11.5,Joburg Super Kings,JL du Plooy,D Forrester,RL Chase,0,0,,,,,,caught,JL du Plooy
+ball,2,11.6,Joburg Super Kings,AJ Hosein,D Forrester,RL Chase,0,0,,,,,,"",""
+ball,2,12.1,Joburg Super Kings,D Forrester,AJ Hosein,GG Peters,4,0,,,,,,"",""
+ball,2,12.2,Joburg Super Kings,D Forrester,AJ Hosein,GG Peters,0,1,1,,,,,"",""
+ball,2,12.3,Joburg Super Kings,D Forrester,AJ Hosein,GG Peters,4,0,,,,,,"",""
+ball,2,12.4,Joburg Super Kings,D Forrester,AJ Hosein,GG Peters,1,0,,,,,,"",""
+ball,2,12.5,Joburg Super Kings,AJ Hosein,D Forrester,GG Peters,0,0,,,,,,lbw,AJ Hosein
+ball,2,12.6,Joburg Super Kings,D Ferreira,D Forrester,GG Peters,0,0,,,,,,retired hurt,D Ferreira
+ball,2,12.7,Joburg Super Kings,D Jansen,D Forrester,GG Peters,0,0,,,,,,"",""
+ball,2,13.1,Joburg Super Kings,D Forrester,D Jansen,RL Chase,0,0,,,,,,"",""
+ball,2,13.2,Joburg Super Kings,D Forrester,D Jansen,RL Chase,1,0,,,,,,"",""
+ball,2,13.3,Joburg Super Kings,D Jansen,D Forrester,RL Chase,2,0,,,,,,"",""
+ball,2,13.4,Joburg Super Kings,D Jansen,D Forrester,RL Chase,1,0,,,,,,"",""
+ball,2,13.5,Joburg Super Kings,D Forrester,D Jansen,RL Chase,1,0,,,,,,"",""
+ball,2,13.6,Joburg Super Kings,D Jansen,D Forrester,RL Chase,0,0,,,,,,"",""
+ball,2,14.1,Joburg Super Kings,D Forrester,D Jansen,GG Peters,2,0,,,,,,"",""
+ball,2,14.2,Joburg Super Kings,D Forrester,D Jansen,GG Peters,0,0,,,,,,"",""
+ball,2,14.3,Joburg Super Kings,D Forrester,D Jansen,GG Peters,0,0,,,,,,"",""
+ball,2,14.4,Joburg Super Kings,D Forrester,D Jansen,GG Peters,1,0,,,,,,"",""
+ball,2,14.5,Joburg Super Kings,D Jansen,D Forrester,GG Peters,0,0,,,,,,"",""
+ball,2,14.6,Joburg Super Kings,D Jansen,D Forrester,GG Peters,0,0,,,,,,"",""
+ball,2,15.1,Joburg Super Kings,D Forrester,D Jansen,LB Williams,0,0,,,,,,"",""
+ball,2,15.2,Joburg Super Kings,D Forrester,D Jansen,LB Williams,1,0,,,,,,"",""
+ball,2,15.3,Joburg Super Kings,D Jansen,D Forrester,LB Williams,1,0,,,,,,"",""
+ball,2,15.4,Joburg Super Kings,D Forrester,D Jansen,LB Williams,1,0,,,,,,"",""
+ball,2,15.5,Joburg Super Kings,D Jansen,D Forrester,LB Williams,4,0,,,,,,"",""
+ball,2,15.6,Joburg Super Kings,D Jansen,D Forrester,LB Williams,1,0,,,,,,"",""
+ball,2,16.1,Joburg Super Kings,D Jansen,D Forrester,KA Maharaj,0,0,,,,,,"",""
+ball,2,16.2,Joburg Super Kings,D Jansen,D Forrester,KA Maharaj,0,3,,,,3,,"",""
+ball,2,16.3,Joburg Super Kings,D Forrester,D Jansen,KA Maharaj,0,0,,,,,,"",""
+ball,2,16.4,Joburg Super Kings,D Forrester,D Jansen,KA Maharaj,1,0,,,,,,"",""
+ball,2,16.5,Joburg Super Kings,D Jansen,D Forrester,KA Maharaj,1,0,,,,,,"",""
+ball,2,16.6,Joburg Super Kings,D Forrester,D Jansen,KA Maharaj,2,0,,,,,,"",""
+ball,2,17.1,Joburg Super Kings,D Jansen,D Forrester,L Ngidi,1,0,,,,,,"",""
+ball,2,17.2,Joburg Super Kings,D Forrester,D Jansen,L Ngidi,1,0,,,,,,"",""
+ball,2,17.3,Joburg Super Kings,D Jansen,D Forrester,L Ngidi,0,1,,,,1,,"",""
+ball,2,17.4,Joburg Super Kings,D Forrester,D Jansen,L Ngidi,4,0,,,,,,"",""
+ball,2,17.5,Joburg Super Kings,D Forrester,D Jansen,L Ngidi,4,0,,,,,,"",""
+ball,2,17.6,Joburg Super Kings,D Forrester,D Jansen,L Ngidi,0,1,1,,,,,"",""
+ball,2,17.7,Joburg Super Kings,D Forrester,D Jansen,L Ngidi,1,0,,,,,,"",""
+ball,2,18.1,Joburg Super Kings,D Forrester,D Jansen,GG Peters,0,0,,,,,,"",""
+ball,2,18.2,Joburg Super Kings,D Forrester,D Jansen,GG Peters,0,0,,,,,,"",""
+ball,2,18.3,Joburg Super Kings,D Forrester,D Jansen,GG Peters,0,0,,,,,,"",""
+ball,2,18.4,Joburg Super Kings,D Forrester,D Jansen,GG Peters,2,0,,,,,,"",""
+ball,2,18.5,Joburg Super Kings,D Forrester,D Jansen,GG Peters,6,0,,,,,,"",""
+ball,2,18.6,Joburg Super Kings,D Forrester,D Jansen,GG Peters,4,0,,,,,,"",""
+ball,2,19.1,Joburg Super Kings,D Jansen,D Forrester,LB Williams,4,0,,,,,,"",""
+ball,2,19.2,Joburg Super Kings,D Jansen,D Forrester,LB Williams,0,0,,,,,,caught,D Jansen
+ball,2,19.3,Joburg Super Kings,N Burger,D Forrester,LB Williams,1,0,,,,,,"",""
+ball,2,19.4,Joburg Super Kings,D Forrester,N Burger,LB Williams,0,0,,,,,,"",""
+ball,2,19.5,Joburg Super Kings,D Forrester,N Burger,LB Williams,1,0,,,,,,"",""
+ball,2,19.6,Joburg Super Kings,N Burger,D Forrester,LB Williams,0,0,,,,,,bowled,N Burger

@@ -1,0 +1,318 @@
+version,1.6.0
+info,balls_per_over,6
+info,team,Adelaide Strikers
+info,team,Brisbane Heat
+info,gender,male
+info,season,2020/21
+info,date,2020/12/23
+info,event,Big Bash League
+info,match_number,13
+info,venue,Brisbane Cricket Ground
+info,city,Brisbane
+info,toss_winner,Brisbane Heat
+info,toss_decision,field
+info,player_of_match,JJ Peirson
+info,umpire,D Taylor
+info,umpire,AK Wilds
+info,tv_umpire,PJ Gillespie
+info,match_referee,Kepler Wessels
+info,winner,Adelaide Strikers
+info,winner_runs,2
+info,player,Adelaide Strikers,J Weatherald
+info,player,Adelaide Strikers,PD Salt
+info,player,Adelaide Strikers,MT Renshaw
+info,player,Adelaide Strikers,JW Wells
+info,player,Adelaide Strikers,MW Short
+info,player,Adelaide Strikers,HJ Nielsen
+info,player,Adelaide Strikers,Rashid Khan
+info,player,Adelaide Strikers,DJ Worrall
+info,player,Adelaide Strikers,DR Briggs
+info,player,Adelaide Strikers,PM Siddle
+info,player,Adelaide Strikers,WA Agar
+info,player,Brisbane Heat,SD Heazlett
+info,player,Brisbane Heat,M Bryant
+info,player,Brisbane Heat,S Milenko
+info,player,Brisbane Heat,DW Lawrence
+info,player,Brisbane Heat,TLW Cooper
+info,player,Brisbane Heat,JD Wildermuth
+info,player,Brisbane Heat,JJ Peirson
+info,player,Brisbane Heat,MT Steketee
+info,player,Brisbane Heat,XC Bartlett
+info,player,Brisbane Heat,Mujeeb Ur Rahman
+info,player,Brisbane Heat,B Laughlin
+info,registry,people,AK Wilds,de412f40
+info,registry,people,B Laughlin,b2a79f17
+info,registry,people,D Taylor,b940a2b2
+info,registry,people,DJ Worrall,208f22ea
+info,registry,people,DR Briggs,f3abd0c9
+info,registry,people,DW Lawrence,4b685e2d
+info,registry,people,HJ Nielsen,0ea1455a
+info,registry,people,J Weatherald,edc7ddb6
+info,registry,people,JD Wildermuth,f1c61793
+info,registry,people,JJ Peirson,2b55c3b4
+info,registry,people,JW Wells,8bdac857
+info,registry,people,Kepler Wessels,3bedaff0
+info,registry,people,M Bryant,f32012f4
+info,registry,people,MT Renshaw,218d4d78
+info,registry,people,MT Steketee,903560ed
+info,registry,people,MW Short,a90e53ec
+info,registry,people,Mujeeb Ur Rahman,7d92277a
+info,registry,people,PD Salt,3d284ca3
+info,registry,people,PJ Gillespie,3e253a50
+info,registry,people,PM Siddle,bd93fea4
+info,registry,people,Rashid Khan,5f547c8b
+info,registry,people,S Milenko,479f9b04
+info,registry,people,SD Heazlett,e00a9155
+info,registry,people,TLW Cooper,2318ba22
+info,registry,people,WA Agar,15de1f5d
+info,registry,people,XC Bartlett,3b53243a
+ball,1,0.1,Adelaide Strikers,J Weatherald,PD Salt,XC Bartlett,1,0,,,,,,"",""
+ball,1,0.2,Adelaide Strikers,PD Salt,J Weatherald,XC Bartlett,0,0,,,,,,"",""
+ball,1,0.3,Adelaide Strikers,PD Salt,J Weatherald,XC Bartlett,1,0,,,,,,"",""
+ball,1,0.4,Adelaide Strikers,J Weatherald,PD Salt,XC Bartlett,0,0,,,,,,"",""
+ball,1,0.5,Adelaide Strikers,J Weatherald,PD Salt,XC Bartlett,0,0,,,,,,lbw,J Weatherald
+ball,1,0.6,Adelaide Strikers,MT Renshaw,PD Salt,XC Bartlett,0,1,1,,,,,"",""
+ball,1,0.7,Adelaide Strikers,MT Renshaw,PD Salt,XC Bartlett,0,0,,,,,,"",""
+ball,1,1.1,Adelaide Strikers,PD Salt,MT Renshaw,JD Wildermuth,0,0,,,,,,"",""
+ball,1,1.2,Adelaide Strikers,PD Salt,MT Renshaw,JD Wildermuth,1,0,,,,,,"",""
+ball,1,1.3,Adelaide Strikers,MT Renshaw,PD Salt,JD Wildermuth,0,0,,,,,,"",""
+ball,1,1.4,Adelaide Strikers,MT Renshaw,PD Salt,JD Wildermuth,1,0,,,,,,"",""
+ball,1,1.5,Adelaide Strikers,PD Salt,MT Renshaw,JD Wildermuth,1,0,,,,,,"",""
+ball,1,1.6,Adelaide Strikers,MT Renshaw,PD Salt,JD Wildermuth,0,0,,,,,,"",""
+ball,1,2.1,Adelaide Strikers,PD Salt,MT Renshaw,XC Bartlett,0,1,1,,,,,"",""
+ball,1,2.2,Adelaide Strikers,PD Salt,MT Renshaw,XC Bartlett,1,0,,,,,,"",""
+ball,1,2.3,Adelaide Strikers,MT Renshaw,PD Salt,XC Bartlett,1,0,,,,,,"",""
+ball,1,2.4,Adelaide Strikers,PD Salt,MT Renshaw,XC Bartlett,0,0,,,,,,"",""
+ball,1,2.5,Adelaide Strikers,PD Salt,MT Renshaw,XC Bartlett,0,1,,,,1,,"",""
+ball,1,2.6,Adelaide Strikers,MT Renshaw,PD Salt,XC Bartlett,0,1,1,,,,,"",""
+ball,1,2.7,Adelaide Strikers,MT Renshaw,PD Salt,XC Bartlett,1,0,,,,,,"",""
+ball,1,2.8,Adelaide Strikers,PD Salt,MT Renshaw,XC Bartlett,1,0,,,,,,"",""
+ball,1,3.1,Adelaide Strikers,PD Salt,MT Renshaw,MT Steketee,4,0,,,,,,"",""
+ball,1,3.2,Adelaide Strikers,PD Salt,MT Renshaw,MT Steketee,2,0,,,,,,"",""
+ball,1,3.3,Adelaide Strikers,PD Salt,MT Renshaw,MT Steketee,4,0,,,,,,"",""
+ball,1,3.4,Adelaide Strikers,PD Salt,MT Renshaw,MT Steketee,0,0,,,,,,"",""
+ball,1,3.5,Adelaide Strikers,PD Salt,MT Renshaw,MT Steketee,1,0,,,,,,"",""
+ball,1,3.6,Adelaide Strikers,MT Renshaw,PD Salt,MT Steketee,0,0,,,,,,"",""
+ball,1,4.1,Adelaide Strikers,PD Salt,MT Renshaw,JD Wildermuth,1,0,,,,,,"",""
+ball,1,4.2,Adelaide Strikers,MT Renshaw,PD Salt,JD Wildermuth,1,0,,,,,,"",""
+ball,1,4.3,Adelaide Strikers,PD Salt,MT Renshaw,JD Wildermuth,1,0,,,,,,"",""
+ball,1,4.4,Adelaide Strikers,MT Renshaw,PD Salt,JD Wildermuth,1,0,,,,,,"",""
+ball,1,4.5,Adelaide Strikers,PD Salt,MT Renshaw,JD Wildermuth,1,0,,,,,,"",""
+ball,1,4.6,Adelaide Strikers,MT Renshaw,PD Salt,JD Wildermuth,0,0,,,,,,"",""
+ball,1,5.1,Adelaide Strikers,PD Salt,MT Renshaw,Mujeeb Ur Rahman,1,0,,,,,,"",""
+ball,1,5.2,Adelaide Strikers,MT Renshaw,PD Salt,Mujeeb Ur Rahman,4,0,,,,,,"",""
+ball,1,5.3,Adelaide Strikers,MT Renshaw,PD Salt,Mujeeb Ur Rahman,1,0,,,,,,"",""
+ball,1,5.4,Adelaide Strikers,PD Salt,MT Renshaw,Mujeeb Ur Rahman,1,0,,,,,,"",""
+ball,1,5.5,Adelaide Strikers,MT Renshaw,PD Salt,Mujeeb Ur Rahman,1,0,,,,,,"",""
+ball,1,5.6,Adelaide Strikers,PD Salt,MT Renshaw,Mujeeb Ur Rahman,0,0,,,,,,"",""
+ball,1,6.1,Adelaide Strikers,MT Renshaw,PD Salt,B Laughlin,0,0,,,,,,"",""
+ball,1,6.2,Adelaide Strikers,MT Renshaw,PD Salt,B Laughlin,6,0,,,,,,"",""
+ball,1,6.3,Adelaide Strikers,MT Renshaw,PD Salt,B Laughlin,2,0,,,,,,"",""
+ball,1,6.4,Adelaide Strikers,MT Renshaw,PD Salt,B Laughlin,1,0,,,,,,"",""
+ball,1,6.5,Adelaide Strikers,PD Salt,MT Renshaw,B Laughlin,1,0,,,,,,"",""
+ball,1,6.6,Adelaide Strikers,MT Renshaw,PD Salt,B Laughlin,1,0,,,,,,"",""
+ball,1,7.1,Adelaide Strikers,MT Renshaw,PD Salt,Mujeeb Ur Rahman,0,0,,,,,,"",""
+ball,1,7.2,Adelaide Strikers,MT Renshaw,PD Salt,Mujeeb Ur Rahman,0,0,,,,,,"",""
+ball,1,7.3,Adelaide Strikers,MT Renshaw,PD Salt,Mujeeb Ur Rahman,1,0,,,,,,"",""
+ball,1,7.4,Adelaide Strikers,PD Salt,MT Renshaw,Mujeeb Ur Rahman,1,0,,,,,,"",""
+ball,1,7.5,Adelaide Strikers,MT Renshaw,PD Salt,Mujeeb Ur Rahman,2,0,,,,,,"",""
+ball,1,7.6,Adelaide Strikers,MT Renshaw,PD Salt,Mujeeb Ur Rahman,1,0,,,,,,"",""
+ball,1,8.1,Adelaide Strikers,MT Renshaw,PD Salt,B Laughlin,4,0,,,,,,"",""
+ball,1,8.2,Adelaide Strikers,MT Renshaw,PD Salt,B Laughlin,1,0,,,,,,"",""
+ball,1,8.3,Adelaide Strikers,PD Salt,MT Renshaw,B Laughlin,1,0,,,,,,"",""
+ball,1,8.4,Adelaide Strikers,MT Renshaw,PD Salt,B Laughlin,1,0,,,,,,"",""
+ball,1,8.5,Adelaide Strikers,PD Salt,MT Renshaw,B Laughlin,0,0,,,,,,"",""
+ball,1,8.6,Adelaide Strikers,PD Salt,MT Renshaw,B Laughlin,0,0,,,,,,"",""
+ball,1,9.1,Adelaide Strikers,MT Renshaw,PD Salt,MT Steketee,1,0,,,,,,"",""
+ball,1,9.2,Adelaide Strikers,PD Salt,MT Renshaw,MT Steketee,0,0,,,,,,"",""
+ball,1,9.3,Adelaide Strikers,PD Salt,MT Renshaw,MT Steketee,1,0,,,,,,"",""
+ball,1,9.4,Adelaide Strikers,MT Renshaw,PD Salt,MT Steketee,0,0,,,,,,caught,MT Renshaw
+ball,1,9.5,Adelaide Strikers,PD Salt,JW Wells,MT Steketee,0,0,,,,,,caught and bowled,PD Salt
+ball,1,9.6,Adelaide Strikers,JW Wells,MW Short,MT Steketee,1,0,,,,,,"",""
+ball,1,10.1,Adelaide Strikers,JW Wells,MW Short,JD Wildermuth,0,0,,,,,,"",""
+ball,1,10.2,Adelaide Strikers,JW Wells,MW Short,JD Wildermuth,1,0,,,,,,"",""
+ball,1,10.3,Adelaide Strikers,MW Short,JW Wells,JD Wildermuth,4,0,,,,,,"",""
+ball,1,10.4,Adelaide Strikers,MW Short,JW Wells,JD Wildermuth,2,0,,,,,,"",""
+ball,1,10.5,Adelaide Strikers,MW Short,JW Wells,JD Wildermuth,0,0,,,,,,"",""
+ball,1,10.6,Adelaide Strikers,MW Short,JW Wells,JD Wildermuth,0,1,1,,,,,"",""
+ball,1,10.7,Adelaide Strikers,MW Short,JW Wells,JD Wildermuth,0,0,,,,,,"",""
+ball,1,11.1,Adelaide Strikers,JW Wells,MW Short,Mujeeb Ur Rahman,1,0,,,,,,"",""
+ball,1,11.2,Adelaide Strikers,MW Short,JW Wells,Mujeeb Ur Rahman,0,0,,,,,,"",""
+ball,1,11.3,Adelaide Strikers,MW Short,JW Wells,Mujeeb Ur Rahman,0,0,,,,,,"",""
+ball,1,11.4,Adelaide Strikers,MW Short,JW Wells,Mujeeb Ur Rahman,4,0,,,,,,"",""
+ball,1,11.5,Adelaide Strikers,MW Short,JW Wells,Mujeeb Ur Rahman,1,0,,,,,,"",""
+ball,1,11.6,Adelaide Strikers,JW Wells,MW Short,Mujeeb Ur Rahman,1,0,,,,,,"",""
+ball,1,12.1,Adelaide Strikers,JW Wells,MW Short,XC Bartlett,1,0,,,,,,"",""
+ball,1,12.2,Adelaide Strikers,MW Short,JW Wells,XC Bartlett,1,0,,,,,,"",""
+ball,1,12.3,Adelaide Strikers,JW Wells,MW Short,XC Bartlett,1,0,,,,,,"",""
+ball,1,12.4,Adelaide Strikers,MW Short,JW Wells,XC Bartlett,0,0,,,,,,bowled,MW Short
+ball,1,12.5,Adelaide Strikers,HJ Nielsen,JW Wells,XC Bartlett,1,0,,,,,,"",""
+ball,1,12.6,Adelaide Strikers,JW Wells,HJ Nielsen,XC Bartlett,1,0,,,,,,"",""
+ball,1,13.1,Adelaide Strikers,JW Wells,HJ Nielsen,Mujeeb Ur Rahman,1,0,,,,,,"",""
+ball,1,13.2,Adelaide Strikers,HJ Nielsen,JW Wells,Mujeeb Ur Rahman,1,0,,,,,,"",""
+ball,1,13.3,Adelaide Strikers,JW Wells,HJ Nielsen,Mujeeb Ur Rahman,1,0,,,,,,"",""
+ball,1,13.4,Adelaide Strikers,HJ Nielsen,JW Wells,Mujeeb Ur Rahman,0,0,,,,,,"",""
+ball,1,13.5,Adelaide Strikers,HJ Nielsen,JW Wells,Mujeeb Ur Rahman,4,0,,,,,,"",""
+ball,1,13.6,Adelaide Strikers,HJ Nielsen,JW Wells,Mujeeb Ur Rahman,0,1,,,,1,,"",""
+ball,1,14.1,Adelaide Strikers,HJ Nielsen,JW Wells,B Laughlin,0,0,,,,,,"",""
+ball,1,14.2,Adelaide Strikers,HJ Nielsen,JW Wells,B Laughlin,1,0,,,,,,"",""
+ball,1,14.3,Adelaide Strikers,JW Wells,HJ Nielsen,B Laughlin,0,0,,,,,,"",""
+ball,1,14.4,Adelaide Strikers,JW Wells,HJ Nielsen,B Laughlin,1,0,,,,,,"",""
+ball,1,14.5,Adelaide Strikers,HJ Nielsen,JW Wells,B Laughlin,4,0,,,,,,"",""
+ball,1,14.6,Adelaide Strikers,HJ Nielsen,JW Wells,B Laughlin,1,0,,,,,,"",""
+ball,1,15.1,Adelaide Strikers,HJ Nielsen,JW Wells,MT Steketee,0,0,,,,,,"",""
+ball,1,15.2,Adelaide Strikers,HJ Nielsen,JW Wells,MT Steketee,0,0,,,,,,"",""
+ball,1,15.3,Adelaide Strikers,HJ Nielsen,JW Wells,MT Steketee,1,0,,,,,,"",""
+ball,1,15.4,Adelaide Strikers,JW Wells,HJ Nielsen,MT Steketee,1,0,,,,,,"",""
+ball,1,15.5,Adelaide Strikers,HJ Nielsen,JW Wells,MT Steketee,4,0,,,,,,"",""
+ball,1,15.6,Adelaide Strikers,HJ Nielsen,JW Wells,MT Steketee,2,0,,,,,,"",""
+ball,1,16.1,Adelaide Strikers,JW Wells,HJ Nielsen,B Laughlin,4,0,,,,,,"",""
+ball,1,16.2,Adelaide Strikers,JW Wells,HJ Nielsen,B Laughlin,4,0,,,,,,"",""
+ball,1,16.3,Adelaide Strikers,JW Wells,HJ Nielsen,B Laughlin,1,0,,,,,,"",""
+ball,1,16.4,Adelaide Strikers,HJ Nielsen,JW Wells,B Laughlin,0,0,,,,,,"",""
+ball,1,16.5,Adelaide Strikers,HJ Nielsen,JW Wells,B Laughlin,1,0,,,,,,"",""
+ball,1,16.6,Adelaide Strikers,JW Wells,HJ Nielsen,B Laughlin,0,1,1,,,,,"",""
+ball,1,16.7,Adelaide Strikers,JW Wells,HJ Nielsen,B Laughlin,4,0,,,,,,"",""
+ball,1,17.1,Adelaide Strikers,HJ Nielsen,JW Wells,MT Steketee,6,0,,,,,,"",""
+ball,1,17.2,Adelaide Strikers,HJ Nielsen,JW Wells,MT Steketee,1,0,,,,,,"",""
+ball,1,17.3,Adelaide Strikers,JW Wells,HJ Nielsen,MT Steketee,0,1,,,,1,,"",""
+ball,1,17.4,Adelaide Strikers,HJ Nielsen,JW Wells,MT Steketee,1,0,,,,,,"",""
+ball,1,17.5,Adelaide Strikers,JW Wells,HJ Nielsen,MT Steketee,0,0,,,,,,"",""
+ball,1,17.6,Adelaide Strikers,JW Wells,HJ Nielsen,MT Steketee,1,0,,,,,,"",""
+ball,1,18.1,Adelaide Strikers,JW Wells,HJ Nielsen,JD Wildermuth,1,0,,,,,,"",""
+ball,1,18.2,Adelaide Strikers,HJ Nielsen,JW Wells,JD Wildermuth,0,1,1,,,,,"",""
+ball,1,18.3,Adelaide Strikers,HJ Nielsen,JW Wells,JD Wildermuth,0,2,2,,,,,"",""
+ball,1,18.4,Adelaide Strikers,JW Wells,HJ Nielsen,JD Wildermuth,2,0,,,,,,"",""
+ball,1,18.5,Adelaide Strikers,JW Wells,HJ Nielsen,JD Wildermuth,1,0,,,,,,"",""
+ball,1,18.6,Adelaide Strikers,HJ Nielsen,JW Wells,JD Wildermuth,0,0,,,,,,caught,HJ Nielsen
+ball,1,18.7,Adelaide Strikers,JW Wells,Rashid Khan,JD Wildermuth,1,0,,,,,,"",""
+ball,1,18.8,Adelaide Strikers,Rashid Khan,JW Wells,JD Wildermuth,1,0,,,,,,"",""
+ball,1,19.1,Adelaide Strikers,Rashid Khan,JW Wells,XC Bartlett,1,0,,,,,,"",""
+ball,1,19.2,Adelaide Strikers,JW Wells,Rashid Khan,XC Bartlett,1,0,,,,,,"",""
+ball,1,19.3,Adelaide Strikers,Rashid Khan,JW Wells,XC Bartlett,0,1,1,,,,,"",""
+ball,1,19.4,Adelaide Strikers,Rashid Khan,JW Wells,XC Bartlett,1,0,,,,,,"",""
+ball,1,19.5,Adelaide Strikers,JW Wells,Rashid Khan,XC Bartlett,0,0,,,,,,caught,JW Wells
+ball,1,19.6,Adelaide Strikers,Rashid Khan,DJ Worrall,XC Bartlett,4,0,,,,,,"",""
+ball,1,19.7,Adelaide Strikers,Rashid Khan,DJ Worrall,XC Bartlett,2,0,,,,,,"",""
+ball,2,0.1,Brisbane Heat,SD Heazlett,M Bryant,DJ Worrall,0,0,,,,,,"",""
+ball,2,0.2,Brisbane Heat,SD Heazlett,M Bryant,DJ Worrall,0,0,,,,,,caught,SD Heazlett
+ball,2,0.3,Brisbane Heat,S Milenko,M Bryant,DJ Worrall,0,0,,,,,,"",""
+ball,2,0.4,Brisbane Heat,S Milenko,M Bryant,DJ Worrall,1,0,,,,,,"",""
+ball,2,0.5,Brisbane Heat,M Bryant,S Milenko,DJ Worrall,0,0,,,,,,"",""
+ball,2,0.6,Brisbane Heat,M Bryant,S Milenko,DJ Worrall,0,0,,,,,,"",""
+ball,2,1.1,Brisbane Heat,S Milenko,M Bryant,DR Briggs,0,0,,,,,,"",""
+ball,2,1.2,Brisbane Heat,S Milenko,M Bryant,DR Briggs,0,0,,,,,,caught,S Milenko
+ball,2,1.3,Brisbane Heat,M Bryant,DW Lawrence,DR Briggs,4,0,,,,,,"",""
+ball,2,1.4,Brisbane Heat,M Bryant,DW Lawrence,DR Briggs,0,0,,,,,,"",""
+ball,2,1.5,Brisbane Heat,M Bryant,DW Lawrence,DR Briggs,0,0,,,,,,"",""
+ball,2,1.6,Brisbane Heat,M Bryant,DW Lawrence,DR Briggs,0,0,,,,,,"",""
+ball,2,2.1,Brisbane Heat,DW Lawrence,M Bryant,DJ Worrall,1,0,,,,,,"",""
+ball,2,2.2,Brisbane Heat,M Bryant,DW Lawrence,DJ Worrall,2,0,,,,,,"",""
+ball,2,2.3,Brisbane Heat,M Bryant,DW Lawrence,DJ Worrall,1,0,,,,,,"",""
+ball,2,2.4,Brisbane Heat,DW Lawrence,M Bryant,DJ Worrall,4,0,,,,,,"",""
+ball,2,2.5,Brisbane Heat,DW Lawrence,M Bryant,DJ Worrall,1,0,,,,,,"",""
+ball,2,2.6,Brisbane Heat,M Bryant,DW Lawrence,DJ Worrall,4,0,,,,,,"",""
+ball,2,3.1,Brisbane Heat,DW Lawrence,M Bryant,PM Siddle,0,1,1,,,,,"",""
+ball,2,3.2,Brisbane Heat,DW Lawrence,M Bryant,PM Siddle,0,0,,,,,,"",""
+ball,2,3.3,Brisbane Heat,DW Lawrence,M Bryant,PM Siddle,4,0,,,,,,"",""
+ball,2,3.4,Brisbane Heat,DW Lawrence,M Bryant,PM Siddle,1,0,,,,,,"",""
+ball,2,3.5,Brisbane Heat,M Bryant,DW Lawrence,PM Siddle,0,0,,,,,,"",""
+ball,2,3.6,Brisbane Heat,M Bryant,DW Lawrence,PM Siddle,1,0,,,,,,"",""
+ball,2,3.7,Brisbane Heat,DW Lawrence,M Bryant,PM Siddle,0,0,,,,,,"",""
+ball,2,4.1,Brisbane Heat,M Bryant,DW Lawrence,Rashid Khan,0,0,,,,,,caught,M Bryant
+ball,2,4.2,Brisbane Heat,TLW Cooper,DW Lawrence,Rashid Khan,0,0,,,,,,"",""
+ball,2,4.3,Brisbane Heat,TLW Cooper,DW Lawrence,Rashid Khan,0,0,,,,,,"",""
+ball,2,4.4,Brisbane Heat,TLW Cooper,DW Lawrence,Rashid Khan,0,0,,,,,,"",""
+ball,2,4.5,Brisbane Heat,TLW Cooper,DW Lawrence,Rashid Khan,1,0,,,,,,"",""
+ball,2,4.6,Brisbane Heat,DW Lawrence,TLW Cooper,Rashid Khan,0,0,,,,,,"",""
+ball,2,5.1,Brisbane Heat,TLW Cooper,DW Lawrence,DR Briggs,2,0,,,,,,"",""
+ball,2,5.2,Brisbane Heat,TLW Cooper,DW Lawrence,DR Briggs,1,0,,,,,,"",""
+ball,2,5.3,Brisbane Heat,DW Lawrence,TLW Cooper,DR Briggs,1,0,,,,,,"",""
+ball,2,5.4,Brisbane Heat,TLW Cooper,DW Lawrence,DR Briggs,1,0,,,,,,"",""
+ball,2,5.5,Brisbane Heat,DW Lawrence,TLW Cooper,DR Briggs,1,0,,,,,,"",""
+ball,2,5.6,Brisbane Heat,TLW Cooper,DW Lawrence,DR Briggs,1,0,,,,,,"",""
+ball,2,6.1,Brisbane Heat,TLW Cooper,DW Lawrence,WA Agar,1,0,,,,,,"",""
+ball,2,6.2,Brisbane Heat,DW Lawrence,TLW Cooper,WA Agar,0,0,,,,,,"",""
+ball,2,6.3,Brisbane Heat,DW Lawrence,TLW Cooper,WA Agar,0,0,,,,,,"",""
+ball,2,6.4,Brisbane Heat,DW Lawrence,TLW Cooper,WA Agar,0,0,,,,,,"",""
+ball,2,6.5,Brisbane Heat,DW Lawrence,TLW Cooper,WA Agar,0,0,,,,,,"",""
+ball,2,6.6,Brisbane Heat,DW Lawrence,TLW Cooper,WA Agar,0,0,,,,,,"",""
+ball,2,7.1,Brisbane Heat,TLW Cooper,DW Lawrence,Rashid Khan,0,0,,,,,,"",""
+ball,2,7.2,Brisbane Heat,TLW Cooper,DW Lawrence,Rashid Khan,1,0,,,,,,"",""
+ball,2,7.3,Brisbane Heat,DW Lawrence,TLW Cooper,Rashid Khan,0,0,,,,,,caught,DW Lawrence
+ball,2,7.4,Brisbane Heat,TLW Cooper,JD Wildermuth,Rashid Khan,0,0,,,,,,"",""
+ball,2,7.5,Brisbane Heat,TLW Cooper,JD Wildermuth,Rashid Khan,0,0,,,,,,"",""
+ball,2,7.6,Brisbane Heat,TLW Cooper,JD Wildermuth,Rashid Khan,0,0,,,,,,"",""
+ball,2,8.1,Brisbane Heat,JD Wildermuth,TLW Cooper,WA Agar,0,0,,,,,,"",""
+ball,2,8.2,Brisbane Heat,JD Wildermuth,TLW Cooper,WA Agar,1,0,,,,,,"",""
+ball,2,8.3,Brisbane Heat,TLW Cooper,JD Wildermuth,WA Agar,1,0,,,,,,"",""
+ball,2,8.4,Brisbane Heat,JD Wildermuth,TLW Cooper,WA Agar,0,0,,,,,,caught,JD Wildermuth
+ball,2,8.5,Brisbane Heat,TLW Cooper,JJ Peirson,WA Agar,0,0,,,,,,"",""
+ball,2,8.6,Brisbane Heat,TLW Cooper,JJ Peirson,WA Agar,4,0,,,,,,"",""
+ball,2,9.1,Brisbane Heat,JJ Peirson,TLW Cooper,Rashid Khan,1,0,,,,,,"",""
+ball,2,9.2,Brisbane Heat,TLW Cooper,JJ Peirson,Rashid Khan,1,0,,,,,,"",""
+ball,2,9.3,Brisbane Heat,JJ Peirson,TLW Cooper,Rashid Khan,1,0,,,,,,"",""
+ball,2,9.4,Brisbane Heat,TLW Cooper,JJ Peirson,Rashid Khan,1,0,,,,,,"",""
+ball,2,9.5,Brisbane Heat,JJ Peirson,TLW Cooper,Rashid Khan,1,0,,,,,,"",""
+ball,2,9.6,Brisbane Heat,TLW Cooper,JJ Peirson,Rashid Khan,4,0,,,,,,"",""
+ball,2,10.1,Brisbane Heat,JJ Peirson,TLW Cooper,DJ Worrall,2,0,,,,,,"",""
+ball,2,10.2,Brisbane Heat,JJ Peirson,TLW Cooper,DJ Worrall,1,0,,,,,,"",""
+ball,2,10.3,Brisbane Heat,TLW Cooper,JJ Peirson,DJ Worrall,1,0,,,,,,"",""
+ball,2,10.4,Brisbane Heat,JJ Peirson,TLW Cooper,DJ Worrall,1,0,,,,,,"",""
+ball,2,10.5,Brisbane Heat,TLW Cooper,JJ Peirson,DJ Worrall,0,0,,,,,,"",""
+ball,2,10.6,Brisbane Heat,TLW Cooper,JJ Peirson,DJ Worrall,2,0,,,,,,"",""
+ball,2,11.1,Brisbane Heat,JJ Peirson,TLW Cooper,DR Briggs,1,0,,,,,,"",""
+ball,2,11.2,Brisbane Heat,TLW Cooper,JJ Peirson,DR Briggs,0,0,,,,,,lbw,TLW Cooper
+ball,2,11.3,Brisbane Heat,MT Steketee,JJ Peirson,DR Briggs,1,0,,,,,,"",""
+ball,2,11.4,Brisbane Heat,JJ Peirson,MT Steketee,DR Briggs,0,0,,,,,,"",""
+ball,2,11.5,Brisbane Heat,JJ Peirson,MT Steketee,DR Briggs,2,0,,,,,,"",""
+ball,2,11.6,Brisbane Heat,JJ Peirson,MT Steketee,DR Briggs,1,0,,,,,,"",""
+ball,2,12.1,Brisbane Heat,JJ Peirson,MT Steketee,PM Siddle,1,0,,,,,,"",""
+ball,2,12.2,Brisbane Heat,MT Steketee,JJ Peirson,PM Siddle,1,0,,,,,,"",""
+ball,2,12.3,Brisbane Heat,JJ Peirson,MT Steketee,PM Siddle,1,0,,,,,,"",""
+ball,2,12.4,Brisbane Heat,MT Steketee,JJ Peirson,PM Siddle,1,0,,,,,,"",""
+ball,2,12.5,Brisbane Heat,JJ Peirson,MT Steketee,PM Siddle,1,0,,,,,,"",""
+ball,2,12.6,Brisbane Heat,MT Steketee,JJ Peirson,PM Siddle,0,0,,,,,,bowled,MT Steketee
+ball,2,13.1,Brisbane Heat,JJ Peirson,XC Bartlett,DR Briggs,1,0,,,,,,"",""
+ball,2,13.2,Brisbane Heat,XC Bartlett,JJ Peirson,DR Briggs,0,0,,,,,,bowled,XC Bartlett
+ball,2,13.3,Brisbane Heat,Mujeeb Ur Rahman,JJ Peirson,DR Briggs,0,0,,,,,,"",""
+ball,2,13.4,Brisbane Heat,Mujeeb Ur Rahman,JJ Peirson,DR Briggs,1,0,,,,,,"",""
+ball,2,13.5,Brisbane Heat,JJ Peirson,Mujeeb Ur Rahman,DR Briggs,1,0,,,,,,"",""
+ball,2,13.6,Brisbane Heat,Mujeeb Ur Rahman,JJ Peirson,DR Briggs,1,0,,,,,,"",""
+ball,2,14.1,Brisbane Heat,Mujeeb Ur Rahman,JJ Peirson,Rashid Khan,4,0,,,,,,"",""
+ball,2,14.2,Brisbane Heat,Mujeeb Ur Rahman,JJ Peirson,Rashid Khan,1,0,,,,,,"",""
+ball,2,14.3,Brisbane Heat,JJ Peirson,Mujeeb Ur Rahman,Rashid Khan,4,0,,,,,,"",""
+ball,2,14.4,Brisbane Heat,JJ Peirson,Mujeeb Ur Rahman,Rashid Khan,0,1,,,,1,,"",""
+ball,2,14.5,Brisbane Heat,Mujeeb Ur Rahman,JJ Peirson,Rashid Khan,6,0,,,,,,"",""
+ball,2,14.6,Brisbane Heat,Mujeeb Ur Rahman,JJ Peirson,Rashid Khan,4,0,,,,,,"",""
+ball,2,15.1,Brisbane Heat,JJ Peirson,Mujeeb Ur Rahman,PM Siddle,2,0,,,,,,"",""
+ball,2,15.2,Brisbane Heat,JJ Peirson,Mujeeb Ur Rahman,PM Siddle,6,0,,,,,,"",""
+ball,2,15.3,Brisbane Heat,JJ Peirson,Mujeeb Ur Rahman,PM Siddle,6,0,,,,,,"",""
+ball,2,15.4,Brisbane Heat,JJ Peirson,Mujeeb Ur Rahman,PM Siddle,4,0,,,,,,"",""
+ball,2,15.5,Brisbane Heat,JJ Peirson,Mujeeb Ur Rahman,PM Siddle,4,0,,,,,,"",""
+ball,2,15.6,Brisbane Heat,JJ Peirson,Mujeeb Ur Rahman,PM Siddle,1,0,,,,,,"",""
+ball,2,16.1,Brisbane Heat,JJ Peirson,Mujeeb Ur Rahman,WA Agar,4,0,,,,,,"",""
+ball,2,16.2,Brisbane Heat,JJ Peirson,Mujeeb Ur Rahman,WA Agar,4,0,,,,,,"",""
+ball,2,16.3,Brisbane Heat,JJ Peirson,Mujeeb Ur Rahman,WA Agar,2,0,,,,,,"",""
+ball,2,16.4,Brisbane Heat,JJ Peirson,Mujeeb Ur Rahman,WA Agar,1,0,,,,,,"",""
+ball,2,16.5,Brisbane Heat,Mujeeb Ur Rahman,JJ Peirson,WA Agar,1,0,,,,,,"",""
+ball,2,16.6,Brisbane Heat,JJ Peirson,Mujeeb Ur Rahman,WA Agar,2,0,,,,,,"",""
+ball,2,17.1,Brisbane Heat,Mujeeb Ur Rahman,JJ Peirson,PM Siddle,0,0,,,,,,"",""
+ball,2,17.2,Brisbane Heat,Mujeeb Ur Rahman,JJ Peirson,PM Siddle,0,0,,,,,,bowled,Mujeeb Ur Rahman
+ball,2,17.3,Brisbane Heat,B Laughlin,JJ Peirson,PM Siddle,0,1,1,,,,,"",""
+ball,2,17.4,Brisbane Heat,B Laughlin,JJ Peirson,PM Siddle,1,0,,,,,,"",""
+ball,2,17.5,Brisbane Heat,JJ Peirson,B Laughlin,PM Siddle,1,0,,,,,,"",""
+ball,2,17.6,Brisbane Heat,B Laughlin,JJ Peirson,PM Siddle,1,0,,,,,,"",""
+ball,2,17.7,Brisbane Heat,JJ Peirson,B Laughlin,PM Siddle,2,0,,,,,,"",""
+ball,2,18.1,Brisbane Heat,B Laughlin,JJ Peirson,WA Agar,0,0,,,,,,"",""
+ball,2,18.2,Brisbane Heat,B Laughlin,JJ Peirson,WA Agar,4,0,,,,,,"",""
+ball,2,18.3,Brisbane Heat,B Laughlin,JJ Peirson,WA Agar,0,0,,,,,,"",""
+ball,2,18.4,Brisbane Heat,B Laughlin,JJ Peirson,WA Agar,0,0,,,,,,"",""
+ball,2,18.5,Brisbane Heat,B Laughlin,JJ Peirson,WA Agar,0,0,,,,,,"",""
+ball,2,18.6,Brisbane Heat,B Laughlin,JJ Peirson,WA Agar,0,0,,,,,,"",""
+ball,2,19.1,Brisbane Heat,JJ Peirson,B Laughlin,DJ Worrall,4,0,,,,,,"",""
+ball,2,19.2,Brisbane Heat,JJ Peirson,B Laughlin,DJ Worrall,2,0,,,,,,"",""
+ball,2,19.3,Brisbane Heat,JJ Peirson,B Laughlin,DJ Worrall,0,0,,,,,,"",""
+ball,2,19.4,Brisbane Heat,JJ Peirson,B Laughlin,DJ Worrall,0,0,,,,,,"",""
+ball,2,19.5,Brisbane Heat,JJ Peirson,B Laughlin,DJ Worrall,0,0,,,,,,"",""
+ball,2,19.6,Brisbane Heat,JJ Peirson,B Laughlin,DJ Worrall,4,0,,,,,,"",""

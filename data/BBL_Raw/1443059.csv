@@ -1,0 +1,319 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Adelaide Strikers
+info,team,Sydney Thunder
+info,gender,male
+info,season,2024/25
+info,date,2024/12/17
+info,event,Big Bash League
+info,match_number,3
+info,venue,"Manuka Oval, Canberra"
+info,city,Canberra
+info,toss_winner,Sydney Thunder
+info,toss_decision,field
+info,player_of_match,DR Sams
+info,umpire,MW Graham-Smith
+info,umpire,SA Lightbody
+info,reserve_umpire,Roberto Howard
+info,tv_umpire,CA Polosak
+info,match_referee,Kepler Wessels
+info,winner,Sydney Thunder
+info,winner_wickets,2
+info,player,Adelaide Strikers,MW Short
+info,player,Adelaide Strikers,J Weatherald
+info,player,Adelaide Strikers,CA Lynn
+info,player,Adelaide Strikers,HJ Nielsen
+info,player,Adelaide Strikers,AI Ross
+info,player,Adelaide Strikers,J Overton
+info,player,Adelaide Strikers,FA Allen
+info,player,Adelaide Strikers,JJ Bazley
+info,player,Adelaide Strikers,HTRY Thornton
+info,player,Adelaide Strikers,CJ Boyce
+info,player,Adelaide Strikers,L Pope
+info,player,Sydney Thunder,S Konstas
+info,player,Sydney Thunder,DA Warner
+info,player,Sydney Thunder,CT Bancroft
+info,player,Sydney Thunder,O Davies
+info,player,Sydney Thunder,SW Billings
+info,player,Sydney Thunder,SE Rutherford
+info,player,Sydney Thunder,CJ Green
+info,player,Sydney Thunder,DR Sams
+info,player,Sydney Thunder,N McAndrew
+info,player,Sydney Thunder,LH Ferguson
+info,player,Sydney Thunder,T Sangha
+info,registry,people,AI Ross,fb0d68b4
+info,registry,people,CA Lynn,45eda7c8
+info,registry,people,CA Polosak,26a360d2
+info,registry,people,CJ Boyce,51a60c16
+info,registry,people,CJ Green,19b9f399
+info,registry,people,CT Bancroft,399b0b94
+info,registry,people,DA Warner,dcce6f09
+info,registry,people,DJM Short,1a156c88
+info,registry,people,DR Sams,caf69bf7
+info,registry,people,FA Allen,b52ffbbd
+info,registry,people,HJ Nielsen,0ea1455a
+info,registry,people,HTRY Thornton,055be93a
+info,registry,people,J Overton,59559bc2
+info,registry,people,J Weatherald,edc7ddb6
+info,registry,people,JJ Bazley,003d49e6
+info,registry,people,Kepler Wessels,3bedaff0
+info,registry,people,L Pope,616a8149
+info,registry,people,LH Ferguson,2f9d0389
+info,registry,people,MW Graham-Smith,18aca3ce
+info,registry,people,MW Short,a90e53ec
+info,registry,people,N McAndrew,38c276e1
+info,registry,people,O Davies,0ea54eca
+info,registry,people,Roberto Howard,eec90c4b
+info,registry,people,S Konstas,3c34c9e1
+info,registry,people,SA Lightbody,680b8cbf
+info,registry,people,SE Rutherford,d014d5ac
+info,registry,people,SW Billings,c16d4035
+info,registry,people,T Sangha,52c952d9
+ball,1,0.1,Adelaide Strikers,MW Short,J Weatherald,N McAndrew,4,0,,,,,,"",""
+ball,1,0.2,Adelaide Strikers,MW Short,J Weatherald,N McAndrew,0,0,,,,,,"",""
+ball,1,0.3,Adelaide Strikers,MW Short,J Weatherald,N McAndrew,0,4,,,,4,,"",""
+ball,1,0.4,Adelaide Strikers,MW Short,J Weatherald,N McAndrew,0,0,,,,,,"",""
+ball,1,0.5,Adelaide Strikers,MW Short,J Weatherald,N McAndrew,3,0,,,,,,"",""
+ball,1,0.6,Adelaide Strikers,J Weatherald,MW Short,N McAndrew,1,0,,,,,,"",""
+ball,1,1.1,Adelaide Strikers,J Weatherald,MW Short,LH Ferguson,0,0,,,,,,"",""
+ball,1,1.2,Adelaide Strikers,J Weatherald,MW Short,LH Ferguson,1,0,,,,,,"",""
+ball,1,1.3,Adelaide Strikers,MW Short,J Weatherald,LH Ferguson,0,0,,,,,,bowled,MW Short
+ball,1,1.4,Adelaide Strikers,CA Lynn,J Weatherald,LH Ferguson,1,0,,,,,,"",""
+ball,1,1.5,Adelaide Strikers,J Weatherald,CA Lynn,LH Ferguson,0,5,5,,,,,"",""
+ball,1,1.6,Adelaide Strikers,J Weatherald,CA Lynn,LH Ferguson,1,0,,,,,,"",""
+ball,1,1.7,Adelaide Strikers,CA Lynn,J Weatherald,LH Ferguson,0,0,,,,,,"",""
+ball,1,2.1,Adelaide Strikers,J Weatherald,CA Lynn,N McAndrew,0,0,,,,,,"",""
+ball,1,2.2,Adelaide Strikers,J Weatherald,CA Lynn,N McAndrew,1,0,,,,,,"",""
+ball,1,2.3,Adelaide Strikers,CA Lynn,J Weatherald,N McAndrew,1,0,,,,,,"",""
+ball,1,2.4,Adelaide Strikers,J Weatherald,CA Lynn,N McAndrew,6,0,,,,,,"",""
+ball,1,2.5,Adelaide Strikers,J Weatherald,CA Lynn,N McAndrew,4,0,,,,,,"",""
+ball,1,2.6,Adelaide Strikers,J Weatherald,CA Lynn,N McAndrew,6,0,,,,,,"",""
+ball,1,3.1,Adelaide Strikers,CA Lynn,J Weatherald,CJ Green,0,0,,,,,,caught and bowled,CA Lynn
+ball,1,3.2,Adelaide Strikers,HJ Nielsen,J Weatherald,CJ Green,1,0,,,,,,"",""
+ball,1,3.3,Adelaide Strikers,J Weatherald,HJ Nielsen,CJ Green,0,0,,,,,,"",""
+ball,1,3.4,Adelaide Strikers,J Weatherald,HJ Nielsen,CJ Green,0,0,,,,,,"",""
+ball,1,3.5,Adelaide Strikers,J Weatherald,HJ Nielsen,CJ Green,4,0,,,,,,"",""
+ball,1,3.6,Adelaide Strikers,J Weatherald,HJ Nielsen,CJ Green,4,0,,,,,,"",""
+ball,1,4.1,Adelaide Strikers,HJ Nielsen,J Weatherald,DR Sams,1,0,,,,,,"",""
+ball,1,4.2,Adelaide Strikers,J Weatherald,HJ Nielsen,DR Sams,0,0,,,,,,"",""
+ball,1,4.3,Adelaide Strikers,J Weatherald,HJ Nielsen,DR Sams,4,0,,,,,,"",""
+ball,1,4.4,Adelaide Strikers,J Weatherald,HJ Nielsen,DR Sams,0,0,,,,,,"",""
+ball,1,4.5,Adelaide Strikers,J Weatherald,HJ Nielsen,DR Sams,4,0,,,,,,"",""
+ball,1,4.6,Adelaide Strikers,J Weatherald,HJ Nielsen,DR Sams,4,0,,,,,,"",""
+ball,1,5.1,Adelaide Strikers,HJ Nielsen,J Weatherald,CJ Green,1,0,,,,,,"",""
+ball,1,5.2,Adelaide Strikers,J Weatherald,HJ Nielsen,CJ Green,0,0,,,,,,caught,J Weatherald
+ball,1,5.3,Adelaide Strikers,AI Ross,HJ Nielsen,CJ Green,0,0,,,,,,"",""
+ball,1,5.4,Adelaide Strikers,AI Ross,HJ Nielsen,CJ Green,1,0,,,,,,"",""
+ball,1,5.5,Adelaide Strikers,HJ Nielsen,AI Ross,CJ Green,1,0,,,,,,"",""
+ball,1,5.6,Adelaide Strikers,AI Ross,HJ Nielsen,CJ Green,1,0,,,,,,"",""
+ball,1,6.1,Adelaide Strikers,AI Ross,HJ Nielsen,T Sangha,1,0,,,,,,"",""
+ball,1,6.2,Adelaide Strikers,HJ Nielsen,AI Ross,T Sangha,1,0,,,,,,"",""
+ball,1,6.3,Adelaide Strikers,AI Ross,HJ Nielsen,T Sangha,1,0,,,,,,"",""
+ball,1,6.4,Adelaide Strikers,HJ Nielsen,AI Ross,T Sangha,1,0,,,,,,"",""
+ball,1,6.5,Adelaide Strikers,AI Ross,HJ Nielsen,T Sangha,1,0,,,,,,"",""
+ball,1,6.6,Adelaide Strikers,HJ Nielsen,AI Ross,T Sangha,1,0,,,,,,"",""
+ball,1,7.1,Adelaide Strikers,HJ Nielsen,AI Ross,CJ Green,1,0,,,,,,"",""
+ball,1,7.2,Adelaide Strikers,AI Ross,HJ Nielsen,CJ Green,1,0,,,,,,"",""
+ball,1,7.3,Adelaide Strikers,HJ Nielsen,AI Ross,CJ Green,0,0,,,,,,bowled,HJ Nielsen
+ball,1,7.4,Adelaide Strikers,J Overton,AI Ross,CJ Green,0,0,,,,,,"",""
+ball,1,7.5,Adelaide Strikers,J Overton,AI Ross,CJ Green,1,0,,,,,,"",""
+ball,1,7.6,Adelaide Strikers,AI Ross,J Overton,CJ Green,1,0,,,,,,"",""
+ball,1,8.1,Adelaide Strikers,AI Ross,J Overton,T Sangha,1,0,,,,,,"",""
+ball,1,8.2,Adelaide Strikers,J Overton,AI Ross,T Sangha,1,0,,,,,,"",""
+ball,1,8.3,Adelaide Strikers,AI Ross,J Overton,T Sangha,4,0,,,,,,"",""
+ball,1,8.4,Adelaide Strikers,AI Ross,J Overton,T Sangha,1,0,,,,,,"",""
+ball,1,8.5,Adelaide Strikers,J Overton,AI Ross,T Sangha,0,0,,,,,,"",""
+ball,1,8.6,Adelaide Strikers,J Overton,AI Ross,T Sangha,0,0,,,,,,"",""
+ball,1,9.1,Adelaide Strikers,AI Ross,J Overton,LH Ferguson,0,0,,,,,,"",""
+ball,1,9.2,Adelaide Strikers,AI Ross,J Overton,LH Ferguson,1,0,,,,,,"",""
+ball,1,9.3,Adelaide Strikers,J Overton,AI Ross,LH Ferguson,0,0,,,,,,"",""
+ball,1,9.4,Adelaide Strikers,J Overton,AI Ross,LH Ferguson,1,0,,,,,,"",""
+ball,1,9.5,Adelaide Strikers,AI Ross,J Overton,LH Ferguson,0,0,,,,,,"",""
+ball,1,9.6,Adelaide Strikers,AI Ross,J Overton,LH Ferguson,1,0,,,,,,"",""
+ball,1,10.1,Adelaide Strikers,AI Ross,J Overton,T Sangha,6,0,,,,,,"",""
+ball,1,10.2,Adelaide Strikers,AI Ross,J Overton,T Sangha,1,0,,,,,,"",""
+ball,1,10.3,Adelaide Strikers,J Overton,AI Ross,T Sangha,1,0,,,,,,"",""
+ball,1,10.4,Adelaide Strikers,AI Ross,J Overton,T Sangha,0,0,,,,,,caught,AI Ross
+ball,1,10.5,Adelaide Strikers,FA Allen,J Overton,T Sangha,1,0,,,,,,"",""
+ball,1,10.6,Adelaide Strikers,J Overton,FA Allen,T Sangha,0,0,,,,,,"",""
+ball,1,11.1,Adelaide Strikers,FA Allen,J Overton,DR Sams,2,0,,,,,,"",""
+ball,1,11.2,Adelaide Strikers,FA Allen,J Overton,DR Sams,0,0,,,,,,"",""
+ball,1,11.3,Adelaide Strikers,FA Allen,J Overton,DR Sams,2,0,,,,,,"",""
+ball,1,11.4,Adelaide Strikers,FA Allen,J Overton,DR Sams,0,0,,,,,,"",""
+ball,1,11.5,Adelaide Strikers,FA Allen,J Overton,DR Sams,2,0,,,,,,"",""
+ball,1,11.6,Adelaide Strikers,FA Allen,J Overton,DR Sams,0,0,,,,,,"",""
+ball,1,12.1,Adelaide Strikers,J Overton,FA Allen,T Sangha,0,0,,,,,,"",""
+ball,1,12.2,Adelaide Strikers,J Overton,FA Allen,T Sangha,1,0,,,,,,"",""
+ball,1,12.3,Adelaide Strikers,FA Allen,J Overton,T Sangha,0,1,1,,,,,"",""
+ball,1,12.4,Adelaide Strikers,FA Allen,J Overton,T Sangha,0,0,,,,,,caught,FA Allen
+ball,1,12.5,Adelaide Strikers,JJ Bazley,J Overton,T Sangha,2,0,,,,,,"",""
+ball,1,12.6,Adelaide Strikers,JJ Bazley,J Overton,T Sangha,1,0,,,,,,"",""
+ball,1,12.7,Adelaide Strikers,J Overton,JJ Bazley,T Sangha,0,0,,,,,,"",""
+ball,1,13.1,Adelaide Strikers,JJ Bazley,J Overton,CJ Green,0,0,,,,,,"",""
+ball,1,13.2,Adelaide Strikers,JJ Bazley,J Overton,CJ Green,6,0,,,,,,"",""
+ball,1,13.3,Adelaide Strikers,JJ Bazley,J Overton,CJ Green,1,0,,,,,,"",""
+ball,1,13.4,Adelaide Strikers,J Overton,JJ Bazley,CJ Green,1,0,,,,,,"",""
+ball,1,13.5,Adelaide Strikers,JJ Bazley,J Overton,CJ Green,1,0,,,,,,"",""
+ball,1,13.6,Adelaide Strikers,J Overton,JJ Bazley,CJ Green,1,0,,,,,,"",""
+ball,1,14.1,Adelaide Strikers,J Overton,JJ Bazley,N McAndrew,1,0,,,,,,"",""
+ball,1,14.2,Adelaide Strikers,JJ Bazley,J Overton,N McAndrew,0,1,1,,,,,"",""
+ball,1,14.3,Adelaide Strikers,JJ Bazley,J Overton,N McAndrew,2,0,,,,,,"",""
+ball,1,14.4,Adelaide Strikers,JJ Bazley,J Overton,N McAndrew,6,0,,,,,,"",""
+ball,1,14.5,Adelaide Strikers,JJ Bazley,J Overton,N McAndrew,4,0,,,,,,"",""
+ball,1,14.6,Adelaide Strikers,JJ Bazley,J Overton,N McAndrew,4,0,,,,,,"",""
+ball,1,14.7,Adelaide Strikers,JJ Bazley,J Overton,N McAndrew,4,0,,,,,,"",""
+ball,1,15.1,Adelaide Strikers,J Overton,JJ Bazley,LH Ferguson,0,0,,,,,,"",""
+ball,1,15.2,Adelaide Strikers,J Overton,JJ Bazley,LH Ferguson,6,0,,,,,,"",""
+ball,1,15.3,Adelaide Strikers,J Overton,JJ Bazley,LH Ferguson,4,0,,,,,,"",""
+ball,1,15.4,Adelaide Strikers,J Overton,JJ Bazley,LH Ferguson,1,0,,,,,,"",""
+ball,1,15.5,Adelaide Strikers,JJ Bazley,J Overton,LH Ferguson,0,0,,,,,,bowled,JJ Bazley
+ball,1,15.6,Adelaide Strikers,HTRY Thornton,J Overton,LH Ferguson,0,0,,,,,,"",""
+ball,1,16.1,Adelaide Strikers,J Overton,HTRY Thornton,DR Sams,0,0,,,,,,"",""
+ball,1,16.2,Adelaide Strikers,J Overton,HTRY Thornton,DR Sams,6,0,,,,,,"",""
+ball,1,16.3,Adelaide Strikers,J Overton,HTRY Thornton,DR Sams,1,0,,,,,,"",""
+ball,1,16.4,Adelaide Strikers,HTRY Thornton,J Overton,DR Sams,1,0,,,,,,"",""
+ball,1,16.5,Adelaide Strikers,J Overton,HTRY Thornton,DR Sams,1,0,,,,,,"",""
+ball,1,16.6,Adelaide Strikers,HTRY Thornton,J Overton,DR Sams,1,0,,,,,,"",""
+ball,1,17.1,Adelaide Strikers,HTRY Thornton,J Overton,N McAndrew,0,0,,,,,,"",""
+ball,1,17.2,Adelaide Strikers,HTRY Thornton,J Overton,N McAndrew,1,0,,,,,,"",""
+ball,1,17.3,Adelaide Strikers,J Overton,HTRY Thornton,N McAndrew,1,0,,,,,,"",""
+ball,1,17.4,Adelaide Strikers,HTRY Thornton,J Overton,N McAndrew,1,0,,,,,,"",""
+ball,1,17.5,Adelaide Strikers,J Overton,HTRY Thornton,N McAndrew,0,1,1,,,,,"",""
+ball,1,17.6,Adelaide Strikers,J Overton,HTRY Thornton,N McAndrew,0,0,,,,,,"",""
+ball,1,17.7,Adelaide Strikers,J Overton,HTRY Thornton,N McAndrew,1,0,,,,,,"",""
+ball,1,18.1,Adelaide Strikers,J Overton,HTRY Thornton,DR Sams,6,0,,,,,,"",""
+ball,1,18.2,Adelaide Strikers,J Overton,HTRY Thornton,DR Sams,2,0,,,,,,"",""
+ball,1,18.3,Adelaide Strikers,J Overton,HTRY Thornton,DR Sams,0,0,,,,,,"",""
+ball,1,18.4,Adelaide Strikers,J Overton,HTRY Thornton,DR Sams,6,0,,,,,,"",""
+ball,1,18.5,Adelaide Strikers,J Overton,HTRY Thornton,DR Sams,0,0,,,,,,"",""
+ball,1,18.6,Adelaide Strikers,J Overton,HTRY Thornton,DR Sams,1,0,,,,,,"",""
+ball,1,19.1,Adelaide Strikers,J Overton,HTRY Thornton,LH Ferguson,1,0,,,,,,"",""
+ball,1,19.2,Adelaide Strikers,HTRY Thornton,J Overton,LH Ferguson,0,1,,,1,,,"",""
+ball,1,19.3,Adelaide Strikers,J Overton,HTRY Thornton,LH Ferguson,0,1,,,,1,,"",""
+ball,1,19.4,Adelaide Strikers,HTRY Thornton,J Overton,LH Ferguson,0,0,,,,,,bowled,HTRY Thornton
+ball,1,19.5,Adelaide Strikers,CJ Boyce,J Overton,LH Ferguson,1,0,,,,,,"",""
+ball,1,19.6,Adelaide Strikers,J Overton,CJ Boyce,LH Ferguson,0,1,,,,1,,"",""
+ball,2,0.1,Sydney Thunder,S Konstas,DA Warner,MW Short,4,0,,,,,,"",""
+ball,2,0.2,Sydney Thunder,S Konstas,DA Warner,MW Short,1,0,,,,,,"",""
+ball,2,0.3,Sydney Thunder,DA Warner,S Konstas,MW Short,4,0,,,,,,"",""
+ball,2,0.4,Sydney Thunder,DA Warner,S Konstas,MW Short,1,0,,,,,,"",""
+ball,2,0.5,Sydney Thunder,S Konstas,DA Warner,MW Short,0,0,,,,,,"",""
+ball,2,0.6,Sydney Thunder,S Konstas,DA Warner,MW Short,4,0,,,,,,"",""
+ball,2,1.1,Sydney Thunder,DA Warner,S Konstas,HTRY Thornton,2,0,,,,,,"",""
+ball,2,1.2,Sydney Thunder,DA Warner,S Konstas,HTRY Thornton,0,0,,,,,,"",""
+ball,2,1.3,Sydney Thunder,DA Warner,S Konstas,HTRY Thornton,0,0,,,,,,caught,DA Warner
+ball,2,1.4,Sydney Thunder,CT Bancroft,S Konstas,HTRY Thornton,0,0,,,,,,"",""
+ball,2,1.5,Sydney Thunder,CT Bancroft,S Konstas,HTRY Thornton,0,0,,,,,,"",""
+ball,2,1.6,Sydney Thunder,CT Bancroft,S Konstas,HTRY Thornton,2,0,,,,,,"",""
+ball,2,2.1,Sydney Thunder,S Konstas,CT Bancroft,JJ Bazley,4,0,,,,,,"",""
+ball,2,2.2,Sydney Thunder,S Konstas,CT Bancroft,JJ Bazley,0,1,,1,,,,"",""
+ball,2,2.3,Sydney Thunder,S Konstas,CT Bancroft,JJ Bazley,0,0,,,,,,"",""
+ball,2,2.4,Sydney Thunder,S Konstas,CT Bancroft,JJ Bazley,6,0,,,,,,"",""
+ball,2,2.5,Sydney Thunder,S Konstas,CT Bancroft,JJ Bazley,0,0,,,,,,"",""
+ball,2,2.6,Sydney Thunder,S Konstas,CT Bancroft,JJ Bazley,4,0,,,,,,"",""
+ball,2,2.7,Sydney Thunder,S Konstas,CT Bancroft,JJ Bazley,4,0,,,,,,"",""
+ball,2,3.1,Sydney Thunder,CT Bancroft,S Konstas,HTRY Thornton,1,0,,,,,,"",""
+ball,2,3.2,Sydney Thunder,S Konstas,CT Bancroft,HTRY Thornton,4,0,,,,,,"",""
+ball,2,3.3,Sydney Thunder,S Konstas,CT Bancroft,HTRY Thornton,0,0,,,,,,"",""
+ball,2,3.4,Sydney Thunder,S Konstas,CT Bancroft,HTRY Thornton,6,0,,,,,,"",""
+ball,2,3.5,Sydney Thunder,S Konstas,CT Bancroft,HTRY Thornton,0,0,,,,,,"",""
+ball,2,3.6,Sydney Thunder,S Konstas,CT Bancroft,HTRY Thornton,4,0,,,,,,"",""
+ball,2,4.1,Sydney Thunder,CT Bancroft,S Konstas,CJ Boyce,1,0,,,,,,"",""
+ball,2,4.2,Sydney Thunder,S Konstas,CT Bancroft,CJ Boyce,1,0,,,,,,"",""
+ball,2,4.3,Sydney Thunder,CT Bancroft,S Konstas,CJ Boyce,1,0,,,,,,"",""
+ball,2,4.4,Sydney Thunder,S Konstas,CT Bancroft,CJ Boyce,4,0,,,,,,"",""
+ball,2,4.5,Sydney Thunder,S Konstas,CT Bancroft,CJ Boyce,2,0,,,,,,"",""
+ball,2,4.6,Sydney Thunder,S Konstas,CT Bancroft,CJ Boyce,2,0,,,,,,"",""
+ball,2,5.1,Sydney Thunder,CT Bancroft,S Konstas,J Overton,0,0,,,,,,"",""
+ball,2,5.2,Sydney Thunder,CT Bancroft,S Konstas,J Overton,1,0,,,,,,"",""
+ball,2,5.3,Sydney Thunder,S Konstas,CT Bancroft,J Overton,2,0,,,,,,"",""
+ball,2,5.4,Sydney Thunder,S Konstas,CT Bancroft,J Overton,2,0,,,,,,"",""
+ball,2,5.5,Sydney Thunder,S Konstas,CT Bancroft,J Overton,1,0,,,,,,"",""
+ball,2,5.6,Sydney Thunder,CT Bancroft,S Konstas,J Overton,0,0,,,,,,bowled,CT Bancroft
+ball,2,6.1,Sydney Thunder,S Konstas,O Davies,FA Allen,0,0,,,,,,"",""
+ball,2,6.2,Sydney Thunder,S Konstas,O Davies,FA Allen,1,0,,,,,,"",""
+ball,2,6.3,Sydney Thunder,O Davies,S Konstas,FA Allen,1,0,,,,,,"",""
+ball,2,6.4,Sydney Thunder,S Konstas,O Davies,FA Allen,0,0,,,,,,"",""
+ball,2,6.5,Sydney Thunder,S Konstas,O Davies,FA Allen,0,0,,,,,,lbw,S Konstas
+ball,2,6.6,Sydney Thunder,SW Billings,O Davies,FA Allen,0,0,,,,,,"",""
+ball,2,7.1,Sydney Thunder,O Davies,SW Billings,HTRY Thornton,2,0,,,,,,"",""
+ball,2,7.2,Sydney Thunder,O Davies,SW Billings,HTRY Thornton,0,0,,,,,,"",""
+ball,2,7.3,Sydney Thunder,O Davies,SW Billings,HTRY Thornton,2,0,,,,,,"",""
+ball,2,7.4,Sydney Thunder,O Davies,SW Billings,HTRY Thornton,1,0,,,,,,"",""
+ball,2,7.5,Sydney Thunder,SW Billings,O Davies,HTRY Thornton,0,0,,,,,,"",""
+ball,2,7.6,Sydney Thunder,SW Billings,O Davies,HTRY Thornton,1,0,,,,,,"",""
+ball,2,8.1,Sydney Thunder,SW Billings,O Davies,FA Allen,1,0,,,,,,"",""
+ball,2,8.2,Sydney Thunder,O Davies,SW Billings,FA Allen,2,0,,,,,,"",""
+ball,2,8.3,Sydney Thunder,O Davies,SW Billings,FA Allen,4,0,,,,,,"",""
+ball,2,8.4,Sydney Thunder,O Davies,SW Billings,FA Allen,1,0,,,,,,"",""
+ball,2,8.5,Sydney Thunder,SW Billings,O Davies,FA Allen,0,0,,,,,,"",""
+ball,2,8.6,Sydney Thunder,SW Billings,O Davies,FA Allen,0,0,,,,,,"",""
+ball,2,9.1,Sydney Thunder,O Davies,SW Billings,J Overton,1,0,,,,,,"",""
+ball,2,9.2,Sydney Thunder,SW Billings,O Davies,J Overton,1,0,,,,,,"",""
+ball,2,9.3,Sydney Thunder,O Davies,SW Billings,J Overton,2,0,,,,,,"",""
+ball,2,9.4,Sydney Thunder,O Davies,SW Billings,J Overton,4,0,,,,,,"",""
+ball,2,9.5,Sydney Thunder,O Davies,SW Billings,J Overton,1,0,,,,,,"",""
+ball,2,9.6,Sydney Thunder,SW Billings,O Davies,J Overton,1,0,,,,,,"",""
+ball,2,10.1,Sydney Thunder,SW Billings,O Davies,L Pope,1,0,,,,,,"",""
+ball,2,10.2,Sydney Thunder,O Davies,SW Billings,L Pope,0,0,,,,,,"",""
+ball,2,10.3,Sydney Thunder,O Davies,SW Billings,L Pope,1,0,,,,,,"",""
+ball,2,10.4,Sydney Thunder,SW Billings,O Davies,L Pope,0,0,,,,,,"",""
+ball,2,10.5,Sydney Thunder,SW Billings,O Davies,L Pope,0,0,,,,,,"",""
+ball,2,10.6,Sydney Thunder,SW Billings,O Davies,L Pope,1,0,,,,,,"",""
+ball,2,11.1,Sydney Thunder,SW Billings,O Davies,CJ Boyce,4,0,,,,,,"",""
+ball,2,11.2,Sydney Thunder,SW Billings,O Davies,CJ Boyce,2,0,,,,,,"",""
+ball,2,11.3,Sydney Thunder,SW Billings,O Davies,CJ Boyce,2,0,,,,,,"",""
+ball,2,11.4,Sydney Thunder,SW Billings,O Davies,CJ Boyce,1,0,,,,,,"",""
+ball,2,11.5,Sydney Thunder,O Davies,SW Billings,CJ Boyce,0,0,,,,,,"",""
+ball,2,11.6,Sydney Thunder,O Davies,SW Billings,CJ Boyce,0,0,,,,,,"",""
+ball,2,12.1,Sydney Thunder,SW Billings,O Davies,L Pope,2,0,,,,,,"",""
+ball,2,12.2,Sydney Thunder,SW Billings,O Davies,L Pope,4,0,,,,,,"",""
+ball,2,12.3,Sydney Thunder,SW Billings,O Davies,L Pope,1,0,,,,,,"",""
+ball,2,12.4,Sydney Thunder,O Davies,SW Billings,L Pope,1,0,,,,,,"",""
+ball,2,12.5,Sydney Thunder,SW Billings,O Davies,L Pope,0,1,1,,,,,"",""
+ball,2,12.6,Sydney Thunder,SW Billings,O Davies,L Pope,1,0,,,,,,"",""
+ball,2,12.7,Sydney Thunder,O Davies,SW Billings,L Pope,0,0,,,,,,"",""
+ball,2,13.1,Sydney Thunder,SW Billings,O Davies,CJ Boyce,1,0,,,,,,"",""
+ball,2,13.2,Sydney Thunder,O Davies,SW Billings,CJ Boyce,0,0,,,,,,caught,O Davies
+ball,2,13.3,Sydney Thunder,SE Rutherford,SW Billings,CJ Boyce,0,0,,,,,,"",""
+ball,2,13.4,Sydney Thunder,SE Rutherford,SW Billings,CJ Boyce,0,0,,,,,,"",""
+ball,2,13.5,Sydney Thunder,SE Rutherford,SW Billings,CJ Boyce,1,0,,,,,,"",""
+ball,2,13.6,Sydney Thunder,SW Billings,SE Rutherford,CJ Boyce,4,0,,,,,,"",""
+ball,2,14.1,Sydney Thunder,SE Rutherford,SW Billings,MW Short,0,1,,,,1,,"",""
+ball,2,14.2,Sydney Thunder,SW Billings,SE Rutherford,MW Short,0,0,,,,,,"",""
+ball,2,14.3,Sydney Thunder,SW Billings,SE Rutherford,MW Short,1,0,,,,,,"",""
+ball,2,14.4,Sydney Thunder,SE Rutherford,SW Billings,MW Short,1,0,,,,,,"",""
+ball,2,14.5,Sydney Thunder,SW Billings,SE Rutherford,MW Short,0,0,,,,,,"",""
+ball,2,14.6,Sydney Thunder,SW Billings,SE Rutherford,MW Short,0,0,,,,,,caught,SW Billings
+ball,2,15.1,Sydney Thunder,SE Rutherford,CJ Green,L Pope,0,0,,,,,,"",""
+ball,2,15.2,Sydney Thunder,SE Rutherford,CJ Green,L Pope,1,0,,,,,,"",""
+ball,2,15.3,Sydney Thunder,CJ Green,SE Rutherford,L Pope,1,0,,,,,,"",""
+ball,2,15.4,Sydney Thunder,SE Rutherford,CJ Green,L Pope,0,0,,,,,,caught,SE Rutherford
+ball,2,15.5,Sydney Thunder,DR Sams,CJ Green,L Pope,2,0,,,,,,"",""
+ball,2,15.6,Sydney Thunder,DR Sams,CJ Green,L Pope,0,0,,,,,,"",""
+ball,2,16.1,Sydney Thunder,CJ Green,DR Sams,J Overton,4,0,,,,,,"",""
+ball,2,16.2,Sydney Thunder,CJ Green,DR Sams,J Overton,1,0,,,,,,"",""
+ball,2,16.3,Sydney Thunder,DR Sams,CJ Green,J Overton,0,0,,,,,,"",""
+ball,2,16.4,Sydney Thunder,DR Sams,CJ Green,J Overton,0,1,,,,1,,"",""
+ball,2,16.5,Sydney Thunder,CJ Green,DR Sams,J Overton,1,0,,,,,,"",""
+ball,2,16.6,Sydney Thunder,DR Sams,CJ Green,J Overton,3,0,,,,,,"",""
+ball,2,17.1,Sydney Thunder,DR Sams,CJ Green,HTRY Thornton,0,1,1,,,,,"",""
+ball,2,17.2,Sydney Thunder,DR Sams,CJ Green,HTRY Thornton,1,0,,,,,,"",""
+ball,2,17.3,Sydney Thunder,CJ Green,DR Sams,HTRY Thornton,1,0,,,,,,"",""
+ball,2,17.4,Sydney Thunder,DR Sams,CJ Green,HTRY Thornton,0,0,,,,,,"",""
+ball,2,17.5,Sydney Thunder,DR Sams,CJ Green,HTRY Thornton,4,0,,,,,,"",""
+ball,2,17.6,Sydney Thunder,DR Sams,CJ Green,HTRY Thornton,1,0,,,,,,"",""
+ball,2,17.7,Sydney Thunder,CJ Green,DR Sams,HTRY Thornton,0,1,1,,,,,"",""
+ball,2,17.8,Sydney Thunder,CJ Green,DR Sams,HTRY Thornton,0,0,,,,,,caught,CJ Green
+ball,2,18.1,Sydney Thunder,DR Sams,N McAndrew,L Pope,6,0,,,,,,"",""
+ball,2,18.2,Sydney Thunder,DR Sams,N McAndrew,L Pope,6,0,,,,,,"",""
+ball,2,18.3,Sydney Thunder,DR Sams,N McAndrew,L Pope,0,1,1,,,,,"",""
+ball,2,18.4,Sydney Thunder,DR Sams,N McAndrew,L Pope,4,0,,,,,,"",""
+ball,2,18.5,Sydney Thunder,DR Sams,N McAndrew,L Pope,6,0,,,,,,"",""
+ball,2,18.6,Sydney Thunder,DR Sams,N McAndrew,L Pope,4,0,,,,,,"",""
+ball,2,18.7,Sydney Thunder,DR Sams,N McAndrew,L Pope,4,0,,,,,,"",""
+ball,2,19.1,Sydney Thunder,N McAndrew,DR Sams,J Overton,0,0,,,,,,caught,N McAndrew
+ball,2,19.2,Sydney Thunder,LH Ferguson,DR Sams,J Overton,1,0,,,,,,"",""
+ball,2,19.3,Sydney Thunder,DR Sams,LH Ferguson,J Overton,0,1,,1,,,,"",""
+ball,2,19.4,Sydney Thunder,DR Sams,LH Ferguson,J Overton,0,0,,,,,,"",""
+ball,2,19.5,Sydney Thunder,DR Sams,LH Ferguson,J Overton,1,0,,,,,,"",""

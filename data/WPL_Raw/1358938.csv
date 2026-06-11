@@ -1,0 +1,307 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,UP Warriorz
+info,team,Mumbai Indians
+info,gender,female
+info,season,2022/23
+info,date,2023/03/12
+info,event,Women's Premier League
+info,match_number,10
+info,venue,"Brabourne Stadium, Mumbai"
+info,city,Mumbai
+info,toss_winner,UP Warriorz
+info,toss_decision,bat
+info,player_of_match,H Kaur
+info,umpire,N Janani
+info,umpire,PG Pathak
+info,reserve_umpire,Ranjeev Sharma
+info,tv_umpire,Chirra Ravikanthreddy
+info,match_referee,RB Kalita
+info,winner,Mumbai Indians
+info,winner_wickets,8
+info,player,UP Warriorz,AJ Healy
+info,player,UP Warriorz,DP Vaidya
+info,player,UP Warriorz,KP Navgire
+info,player,UP Warriorz,TM McGrath
+info,player,UP Warriorz,Simran Shaikh
+info,player,UP Warriorz,S Ecclestone
+info,player,UP Warriorz,DB Sharma
+info,player,UP Warriorz,S Sehrawat
+info,player,UP Warriorz,S Ismail
+info,player,UP Warriorz,K Anjali Sarvani
+info,player,UP Warriorz,RS Gayakwad
+info,player,Mumbai Indians,HK Matthews
+info,player,Mumbai Indians,YH Bhatia
+info,player,Mumbai Indians,NR Sciver-Brunt
+info,player,Mumbai Indians,H Kaur
+info,player,Mumbai Indians,AC Kerr
+info,player,Mumbai Indians,DV Gujjar
+info,player,Mumbai Indians,IECM Wong
+info,player,Mumbai Indians,HY Kazi
+info,player,Mumbai Indians,AB Kaur
+info,player,Mumbai Indians,JN Kalita
+info,player,Mumbai Indians,S Ishaque
+info,registry,people,AB Kaur,9565fda6
+info,registry,people,AC Kerr,7673c908
+info,registry,people,AJ Healy,321644de
+info,registry,people,Chirra Ravikanthreddy,8b680f55
+info,registry,people,DB Sharma,201fef33
+info,registry,people,DP Vaidya,f9ded29b
+info,registry,people,DV Gujjar,7d5f23c3
+info,registry,people,H Kaur,53cd8da6
+info,registry,people,HK Matthews,d32cf49a
+info,registry,people,HY Kazi,16954a36
+info,registry,people,IECM Wong,e5b17517
+info,registry,people,JN Kalita,4c3bbf03
+info,registry,people,K Anjali Sarvani,fa0bf9d9
+info,registry,people,KP Navgire,617a0b79
+info,registry,people,N Janani,d06a665d
+info,registry,people,NR Sciver-Brunt,f3a18a0c
+info,registry,people,PG Pathak,9f772ec5
+info,registry,people,RB Kalita,8d7ad5a6
+info,registry,people,RS Gayakwad,237ec05b
+info,registry,people,Ranjeev Sharma,d334aee7
+info,registry,people,S Ecclestone,cdb82f1c
+info,registry,people,S Ishaque,f2c1f0e5
+info,registry,people,S Ismail,108c4c09
+info,registry,people,S Sehrawat,0e9d4094
+info,registry,people,Simran Shaikh,4961601c
+info,registry,people,TM McGrath,ca5acfa4
+info,registry,people,YH Bhatia,9c3d4e8a
+ball,1,0.1,UP Warriorz,AJ Healy,DP Vaidya,NR Sciver-Brunt,0,0,,,,,,"",""
+ball,1,0.2,UP Warriorz,AJ Healy,DP Vaidya,NR Sciver-Brunt,1,0,,,,,,"",""
+ball,1,0.3,UP Warriorz,DP Vaidya,AJ Healy,NR Sciver-Brunt,0,0,,,,,,"",""
+ball,1,0.4,UP Warriorz,DP Vaidya,AJ Healy,NR Sciver-Brunt,1,0,,,,,,"",""
+ball,1,0.5,UP Warriorz,AJ Healy,DP Vaidya,NR Sciver-Brunt,0,0,,,,,,"",""
+ball,1,0.6,UP Warriorz,AJ Healy,DP Vaidya,NR Sciver-Brunt,0,0,,,,,,"",""
+ball,1,1.1,UP Warriorz,DP Vaidya,AJ Healy,S Ishaque,1,0,,,,,,"",""
+ball,1,1.2,UP Warriorz,AJ Healy,DP Vaidya,S Ishaque,0,0,,,,,,"",""
+ball,1,1.3,UP Warriorz,AJ Healy,DP Vaidya,S Ishaque,0,0,,,,,,"",""
+ball,1,1.4,UP Warriorz,AJ Healy,DP Vaidya,S Ishaque,1,0,,,,,,"",""
+ball,1,1.5,UP Warriorz,DP Vaidya,AJ Healy,S Ishaque,4,0,,,,,,"",""
+ball,1,1.6,UP Warriorz,DP Vaidya,AJ Healy,S Ishaque,0,0,,,,,,lbw,DP Vaidya
+ball,1,2.1,UP Warriorz,AJ Healy,KP Navgire,IECM Wong,0,1,1,,,,,"",""
+ball,1,2.2,UP Warriorz,AJ Healy,KP Navgire,IECM Wong,0,0,,,,,,"",""
+ball,1,2.3,UP Warriorz,AJ Healy,KP Navgire,IECM Wong,0,1,,,,1,,"",""
+ball,1,2.4,UP Warriorz,KP Navgire,AJ Healy,IECM Wong,4,0,,,,,,"",""
+ball,1,2.5,UP Warriorz,KP Navgire,AJ Healy,IECM Wong,0,1,,,,1,,"",""
+ball,1,2.6,UP Warriorz,AJ Healy,KP Navgire,IECM Wong,0,0,,,,,,"",""
+ball,1,2.7,UP Warriorz,AJ Healy,KP Navgire,IECM Wong,0,1,,,,1,,"",""
+ball,1,3.1,UP Warriorz,AJ Healy,KP Navgire,S Ishaque,4,0,,,,,,"",""
+ball,1,3.2,UP Warriorz,AJ Healy,KP Navgire,S Ishaque,1,0,,,,,,"",""
+ball,1,3.3,UP Warriorz,KP Navgire,AJ Healy,S Ishaque,1,0,,,,,,"",""
+ball,1,3.4,UP Warriorz,AJ Healy,KP Navgire,S Ishaque,4,0,,,,,,"",""
+ball,1,3.5,UP Warriorz,AJ Healy,KP Navgire,S Ishaque,4,0,,,,,,"",""
+ball,1,3.6,UP Warriorz,AJ Healy,KP Navgire,S Ishaque,4,0,,,,,,"",""
+ball,1,4.1,UP Warriorz,KP Navgire,AJ Healy,IECM Wong,0,0,,,,,,"",""
+ball,1,4.2,UP Warriorz,KP Navgire,AJ Healy,IECM Wong,0,0,,,,,,"",""
+ball,1,4.3,UP Warriorz,KP Navgire,AJ Healy,IECM Wong,1,0,,,,,,"",""
+ball,1,4.4,UP Warriorz,AJ Healy,KP Navgire,IECM Wong,0,0,,,,,,"",""
+ball,1,4.5,UP Warriorz,AJ Healy,KP Navgire,IECM Wong,4,0,,,,,,"",""
+ball,1,4.6,UP Warriorz,AJ Healy,KP Navgire,IECM Wong,0,0,,,,,,"",""
+ball,1,5.1,UP Warriorz,KP Navgire,AJ Healy,NR Sciver-Brunt,0,0,,,,,,"",""
+ball,1,5.2,UP Warriorz,KP Navgire,AJ Healy,NR Sciver-Brunt,1,0,,,,,,"",""
+ball,1,5.3,UP Warriorz,AJ Healy,KP Navgire,NR Sciver-Brunt,1,0,,,,,,"",""
+ball,1,5.4,UP Warriorz,KP Navgire,AJ Healy,NR Sciver-Brunt,0,0,,,,,,"",""
+ball,1,5.5,UP Warriorz,KP Navgire,AJ Healy,NR Sciver-Brunt,0,1,,,,1,,"",""
+ball,1,5.6,UP Warriorz,AJ Healy,KP Navgire,NR Sciver-Brunt,6,0,,,,,,"",""
+ball,1,6.1,UP Warriorz,KP Navgire,AJ Healy,AC Kerr,0,0,,,,,,"",""
+ball,1,6.2,UP Warriorz,KP Navgire,AJ Healy,AC Kerr,6,0,,,,,,"",""
+ball,1,6.3,UP Warriorz,KP Navgire,AJ Healy,AC Kerr,4,0,,,,,,"",""
+ball,1,6.4,UP Warriorz,KP Navgire,AJ Healy,AC Kerr,0,0,,,,,,caught,KP Navgire
+ball,1,6.5,UP Warriorz,TM McGrath,AJ Healy,AC Kerr,0,0,,,,,,"",""
+ball,1,6.6,UP Warriorz,TM McGrath,AJ Healy,AC Kerr,1,0,,,,,,"",""
+ball,1,7.1,UP Warriorz,TM McGrath,AJ Healy,HK Matthews,0,0,,,,,,"",""
+ball,1,7.2,UP Warriorz,TM McGrath,AJ Healy,HK Matthews,0,1,1,,,,,"",""
+ball,1,7.3,UP Warriorz,TM McGrath,AJ Healy,HK Matthews,4,0,,,,,,"",""
+ball,1,7.4,UP Warriorz,TM McGrath,AJ Healy,HK Matthews,0,0,,,,,,"",""
+ball,1,7.5,UP Warriorz,TM McGrath,AJ Healy,HK Matthews,1,0,,,,,,"",""
+ball,1,7.6,UP Warriorz,AJ Healy,TM McGrath,HK Matthews,0,0,,,,,,"",""
+ball,1,7.7,UP Warriorz,AJ Healy,TM McGrath,HK Matthews,1,0,,,,,,"",""
+ball,1,8.1,UP Warriorz,AJ Healy,TM McGrath,AC Kerr,1,0,,,,,,"",""
+ball,1,8.2,UP Warriorz,TM McGrath,AJ Healy,AC Kerr,4,0,,,,,,"",""
+ball,1,8.3,UP Warriorz,TM McGrath,AJ Healy,AC Kerr,4,0,,,,,,"",""
+ball,1,8.4,UP Warriorz,TM McGrath,AJ Healy,AC Kerr,0,0,,,,,,"",""
+ball,1,8.5,UP Warriorz,TM McGrath,AJ Healy,AC Kerr,0,0,,,,,,"",""
+ball,1,8.6,UP Warriorz,TM McGrath,AJ Healy,AC Kerr,4,0,,,,,,"",""
+ball,1,9.1,UP Warriorz,AJ Healy,TM McGrath,HK Matthews,0,0,,,,,,"",""
+ball,1,9.2,UP Warriorz,AJ Healy,TM McGrath,HK Matthews,1,0,,,,,,"",""
+ball,1,9.3,UP Warriorz,TM McGrath,AJ Healy,HK Matthews,0,0,,,,,,"",""
+ball,1,9.4,UP Warriorz,TM McGrath,AJ Healy,HK Matthews,0,0,,,,,,"",""
+ball,1,9.5,UP Warriorz,TM McGrath,AJ Healy,HK Matthews,4,0,,,,,,"",""
+ball,1,9.6,UP Warriorz,TM McGrath,AJ Healy,HK Matthews,1,0,,,,,,"",""
+ball,1,10.1,UP Warriorz,TM McGrath,AJ Healy,S Ishaque,0,0,,,,,,"",""
+ball,1,10.2,UP Warriorz,TM McGrath,AJ Healy,S Ishaque,0,0,,,,,,"",""
+ball,1,10.3,UP Warriorz,TM McGrath,AJ Healy,S Ishaque,4,0,,,,,,"",""
+ball,1,10.4,UP Warriorz,TM McGrath,AJ Healy,S Ishaque,1,0,,,,,,"",""
+ball,1,10.5,UP Warriorz,AJ Healy,TM McGrath,S Ishaque,0,0,,,,,,"",""
+ball,1,10.6,UP Warriorz,AJ Healy,TM McGrath,S Ishaque,1,0,,,,,,"",""
+ball,1,11.1,UP Warriorz,AJ Healy,TM McGrath,JN Kalita,2,0,,,,,,"",""
+ball,1,11.2,UP Warriorz,AJ Healy,TM McGrath,JN Kalita,1,0,,,,,,"",""
+ball,1,11.3,UP Warriorz,TM McGrath,AJ Healy,JN Kalita,1,0,,,,,,"",""
+ball,1,11.4,UP Warriorz,AJ Healy,TM McGrath,JN Kalita,1,0,,,,,,"",""
+ball,1,11.5,UP Warriorz,TM McGrath,AJ Healy,JN Kalita,4,0,,,,,,"",""
+ball,1,11.6,UP Warriorz,TM McGrath,AJ Healy,JN Kalita,2,1,,1,,,,"",""
+ball,1,11.7,UP Warriorz,TM McGrath,AJ Healy,JN Kalita,1,0,,,,,,"",""
+ball,1,12.1,UP Warriorz,TM McGrath,AJ Healy,NR Sciver-Brunt,1,0,,,,,,"",""
+ball,1,12.2,UP Warriorz,AJ Healy,TM McGrath,NR Sciver-Brunt,1,0,,,,,,"",""
+ball,1,12.3,UP Warriorz,TM McGrath,AJ Healy,NR Sciver-Brunt,0,1,,1,,,,"",""
+ball,1,12.4,UP Warriorz,TM McGrath,AJ Healy,NR Sciver-Brunt,0,0,,,,,,"",""
+ball,1,12.5,UP Warriorz,TM McGrath,AJ Healy,NR Sciver-Brunt,1,0,,,,,,"",""
+ball,1,12.6,UP Warriorz,AJ Healy,TM McGrath,NR Sciver-Brunt,4,0,,,,,,"",""
+ball,1,12.7,UP Warriorz,AJ Healy,TM McGrath,NR Sciver-Brunt,1,0,,,,,,"",""
+ball,1,13.1,UP Warriorz,AJ Healy,TM McGrath,HK Matthews,4,0,,,,,,"",""
+ball,1,13.2,UP Warriorz,AJ Healy,TM McGrath,HK Matthews,2,0,,,,,,"",""
+ball,1,13.3,UP Warriorz,AJ Healy,TM McGrath,HK Matthews,1,0,,,,,,"",""
+ball,1,13.4,UP Warriorz,TM McGrath,AJ Healy,HK Matthews,0,1,,,,1,,"",""
+ball,1,13.5,UP Warriorz,AJ Healy,TM McGrath,HK Matthews,1,0,,,,,,"",""
+ball,1,13.6,UP Warriorz,TM McGrath,AJ Healy,HK Matthews,1,0,,,,,,"",""
+ball,1,14.1,UP Warriorz,TM McGrath,AJ Healy,IECM Wong,1,0,,,,,,"",""
+ball,1,14.2,UP Warriorz,AJ Healy,TM McGrath,IECM Wong,0,0,,,,,,"",""
+ball,1,14.3,UP Warriorz,AJ Healy,TM McGrath,IECM Wong,1,0,,,,,,"",""
+ball,1,14.4,UP Warriorz,TM McGrath,AJ Healy,IECM Wong,0,0,,,,,,"",""
+ball,1,14.5,UP Warriorz,TM McGrath,AJ Healy,IECM Wong,4,0,,,,,,"",""
+ball,1,14.6,UP Warriorz,TM McGrath,AJ Healy,IECM Wong,4,0,,,,,,"",""
+ball,1,15.1,UP Warriorz,AJ Healy,TM McGrath,AC Kerr,1,0,,,,,,"",""
+ball,1,15.2,UP Warriorz,TM McGrath,AJ Healy,AC Kerr,1,0,,,,,,"",""
+ball,1,15.3,UP Warriorz,AJ Healy,TM McGrath,AC Kerr,2,0,,,,,,"",""
+ball,1,15.4,UP Warriorz,AJ Healy,TM McGrath,AC Kerr,0,0,,,,,,"",""
+ball,1,15.5,UP Warriorz,AJ Healy,TM McGrath,AC Kerr,1,0,,,,,,"",""
+ball,1,15.6,UP Warriorz,TM McGrath,AJ Healy,AC Kerr,0,0,,,,,,"",""
+ball,1,16.1,UP Warriorz,AJ Healy,TM McGrath,S Ishaque,1,0,,,,,,"",""
+ball,1,16.2,UP Warriorz,TM McGrath,AJ Healy,S Ishaque,1,0,,,,,,"",""
+ball,1,16.3,UP Warriorz,AJ Healy,TM McGrath,S Ishaque,0,0,,,,,,lbw,AJ Healy
+ball,1,16.4,UP Warriorz,Simran Shaikh,TM McGrath,S Ishaque,1,0,,,,,,"",""
+ball,1,16.5,UP Warriorz,TM McGrath,Simran Shaikh,S Ishaque,0,0,,,,,,stumped,TM McGrath
+ball,1,16.6,UP Warriorz,S Ecclestone,Simran Shaikh,S Ishaque,0,0,,,,,,"",""
+ball,1,17.1,UP Warriorz,Simran Shaikh,S Ecclestone,HK Matthews,2,0,,,,,,"",""
+ball,1,17.2,UP Warriorz,Simran Shaikh,S Ecclestone,HK Matthews,1,0,,,,,,"",""
+ball,1,17.3,UP Warriorz,S Ecclestone,Simran Shaikh,HK Matthews,1,0,,,,,,"",""
+ball,1,17.4,UP Warriorz,Simran Shaikh,S Ecclestone,HK Matthews,1,0,,,,,,"",""
+ball,1,17.5,UP Warriorz,S Ecclestone,Simran Shaikh,HK Matthews,0,0,,,,,,"",""
+ball,1,17.6,UP Warriorz,S Ecclestone,Simran Shaikh,HK Matthews,0,0,,,,,,caught,S Ecclestone
+ball,1,18.1,UP Warriorz,Simran Shaikh,DB Sharma,IECM Wong,1,0,,,,,,"",""
+ball,1,18.2,UP Warriorz,DB Sharma,Simran Shaikh,IECM Wong,0,0,,,,,,"",""
+ball,1,18.3,UP Warriorz,DB Sharma,Simran Shaikh,IECM Wong,4,0,,,,,,"",""
+ball,1,18.4,UP Warriorz,DB Sharma,Simran Shaikh,IECM Wong,2,0,,,,,,"",""
+ball,1,18.5,UP Warriorz,DB Sharma,Simran Shaikh,IECM Wong,1,0,,,,,,"",""
+ball,1,18.6,UP Warriorz,Simran Shaikh,DB Sharma,IECM Wong,1,0,,,,,,"",""
+ball,1,19.1,UP Warriorz,Simran Shaikh,DB Sharma,AC Kerr,1,0,,,,,,"",""
+ball,1,19.2,UP Warriorz,DB Sharma,Simran Shaikh,AC Kerr,0,0,,,,,,"",""
+ball,1,19.3,UP Warriorz,DB Sharma,Simran Shaikh,AC Kerr,0,0,,,,,,stumped,DB Sharma
+ball,1,19.4,UP Warriorz,S Sehrawat,Simran Shaikh,AC Kerr,1,0,,,,,,"",""
+ball,1,19.5,UP Warriorz,Simran Shaikh,S Sehrawat,AC Kerr,1,0,,,,,,"",""
+ball,1,19.6,UP Warriorz,S Sehrawat,Simran Shaikh,AC Kerr,1,0,,,,,,"",""
+ball,2,0.1,Mumbai Indians,HK Matthews,YH Bhatia,RS Gayakwad,0,0,,,,,,"",""
+ball,2,0.2,Mumbai Indians,HK Matthews,YH Bhatia,RS Gayakwad,4,0,,,,,,"",""
+ball,2,0.3,Mumbai Indians,HK Matthews,YH Bhatia,RS Gayakwad,0,0,,,,,,"",""
+ball,2,0.4,Mumbai Indians,HK Matthews,YH Bhatia,RS Gayakwad,0,0,,,,,,"",""
+ball,2,0.5,Mumbai Indians,HK Matthews,YH Bhatia,RS Gayakwad,4,0,,,,,,"",""
+ball,2,0.6,Mumbai Indians,HK Matthews,YH Bhatia,RS Gayakwad,0,0,,,,,,"",""
+ball,2,1.1,Mumbai Indians,YH Bhatia,HK Matthews,S Ismail,0,0,,,,,,"",""
+ball,2,1.2,Mumbai Indians,YH Bhatia,HK Matthews,S Ismail,0,0,,,,,,"",""
+ball,2,1.3,Mumbai Indians,YH Bhatia,HK Matthews,S Ismail,4,0,,,,,,"",""
+ball,2,1.4,Mumbai Indians,YH Bhatia,HK Matthews,S Ismail,0,0,,,,,,"",""
+ball,2,1.5,Mumbai Indians,YH Bhatia,HK Matthews,S Ismail,4,0,,,,,,"",""
+ball,2,1.6,Mumbai Indians,YH Bhatia,HK Matthews,S Ismail,1,0,,,,,,"",""
+ball,2,2.1,Mumbai Indians,YH Bhatia,HK Matthews,DB Sharma,0,0,,,,,,"",""
+ball,2,2.2,Mumbai Indians,YH Bhatia,HK Matthews,DB Sharma,1,0,,,,,,"",""
+ball,2,2.3,Mumbai Indians,HK Matthews,YH Bhatia,DB Sharma,1,0,,,,,,"",""
+ball,2,2.4,Mumbai Indians,YH Bhatia,HK Matthews,DB Sharma,0,0,,,,,,"",""
+ball,2,2.5,Mumbai Indians,YH Bhatia,HK Matthews,DB Sharma,4,0,,,,,,"",""
+ball,2,2.6,Mumbai Indians,YH Bhatia,HK Matthews,DB Sharma,1,0,,,,,,"",""
+ball,2,3.1,Mumbai Indians,YH Bhatia,HK Matthews,K Anjali Sarvani,0,1,1,,,,,"",""
+ball,2,3.2,Mumbai Indians,YH Bhatia,HK Matthews,K Anjali Sarvani,0,1,1,,,,,"",""
+ball,2,3.3,Mumbai Indians,YH Bhatia,HK Matthews,K Anjali Sarvani,0,0,,,,,,"",""
+ball,2,3.4,Mumbai Indians,YH Bhatia,HK Matthews,K Anjali Sarvani,4,0,,,,,,"",""
+ball,2,3.5,Mumbai Indians,YH Bhatia,HK Matthews,K Anjali Sarvani,0,0,,,,,,"",""
+ball,2,3.6,Mumbai Indians,YH Bhatia,HK Matthews,K Anjali Sarvani,0,0,,,,,,"",""
+ball,2,3.7,Mumbai Indians,YH Bhatia,HK Matthews,K Anjali Sarvani,4,0,,,,,,"",""
+ball,2,3.8,Mumbai Indians,YH Bhatia,HK Matthews,K Anjali Sarvani,0,0,,,,,,"",""
+ball,2,4.1,Mumbai Indians,HK Matthews,YH Bhatia,S Ecclestone,1,0,,,,,,"",""
+ball,2,4.2,Mumbai Indians,YH Bhatia,HK Matthews,S Ecclestone,4,0,,,,,,"",""
+ball,2,4.3,Mumbai Indians,YH Bhatia,HK Matthews,S Ecclestone,1,0,,,,,,"",""
+ball,2,4.4,Mumbai Indians,HK Matthews,YH Bhatia,S Ecclestone,0,0,,,,,,"",""
+ball,2,4.5,Mumbai Indians,HK Matthews,YH Bhatia,S Ecclestone,0,0,,,,,,"",""
+ball,2,4.6,Mumbai Indians,HK Matthews,YH Bhatia,S Ecclestone,0,0,,,,,,"",""
+ball,2,5.1,Mumbai Indians,YH Bhatia,HK Matthews,S Ismail,0,0,,,,,,"",""
+ball,2,5.2,Mumbai Indians,YH Bhatia,HK Matthews,S Ismail,4,0,,,,,,"",""
+ball,2,5.3,Mumbai Indians,YH Bhatia,HK Matthews,S Ismail,4,1,,1,,,,"",""
+ball,2,5.4,Mumbai Indians,YH Bhatia,HK Matthews,S Ismail,0,1,,,1,,,"",""
+ball,2,5.5,Mumbai Indians,HK Matthews,YH Bhatia,S Ismail,1,0,,,,,,"",""
+ball,2,5.6,Mumbai Indians,YH Bhatia,HK Matthews,S Ismail,0,0,,,,,,"",""
+ball,2,5.7,Mumbai Indians,YH Bhatia,HK Matthews,S Ismail,0,0,,,,,,"",""
+ball,2,6.1,Mumbai Indians,HK Matthews,YH Bhatia,RS Gayakwad,0,0,,,,,,"",""
+ball,2,6.2,Mumbai Indians,HK Matthews,YH Bhatia,RS Gayakwad,0,0,,,,,,"",""
+ball,2,6.3,Mumbai Indians,HK Matthews,YH Bhatia,RS Gayakwad,1,0,,,,,,"",""
+ball,2,6.4,Mumbai Indians,YH Bhatia,HK Matthews,RS Gayakwad,6,0,,,,,,"",""
+ball,2,6.5,Mumbai Indians,YH Bhatia,HK Matthews,RS Gayakwad,0,0,,,,,,caught,YH Bhatia
+ball,2,6.6,Mumbai Indians,NR Sciver-Brunt,HK Matthews,RS Gayakwad,0,0,,,,,,"",""
+ball,2,7.1,Mumbai Indians,HK Matthews,NR Sciver-Brunt,S Ecclestone,0,0,,,,,,"",""
+ball,2,7.2,Mumbai Indians,HK Matthews,NR Sciver-Brunt,S Ecclestone,0,0,,,,,,caught and bowled,HK Matthews
+ball,2,7.3,Mumbai Indians,H Kaur,NR Sciver-Brunt,S Ecclestone,0,0,,,,,,"",""
+ball,2,7.4,Mumbai Indians,H Kaur,NR Sciver-Brunt,S Ecclestone,0,0,,,,,,"",""
+ball,2,7.5,Mumbai Indians,H Kaur,NR Sciver-Brunt,S Ecclestone,0,0,,,,,,"",""
+ball,2,7.6,Mumbai Indians,H Kaur,NR Sciver-Brunt,S Ecclestone,0,1,1,,,,,"",""
+ball,2,7.7,Mumbai Indians,H Kaur,NR Sciver-Brunt,S Ecclestone,0,0,,,,,,"",""
+ball,2,8.1,Mumbai Indians,NR Sciver-Brunt,H Kaur,S Ismail,0,1,,,,1,,"",""
+ball,2,8.2,Mumbai Indians,H Kaur,NR Sciver-Brunt,S Ismail,0,0,,,,,,"",""
+ball,2,8.3,Mumbai Indians,H Kaur,NR Sciver-Brunt,S Ismail,0,1,,1,,,,"",""
+ball,2,8.4,Mumbai Indians,H Kaur,NR Sciver-Brunt,S Ismail,1,0,,,,,,"",""
+ball,2,8.5,Mumbai Indians,NR Sciver-Brunt,H Kaur,S Ismail,2,0,,,,,,"",""
+ball,2,8.6,Mumbai Indians,NR Sciver-Brunt,H Kaur,S Ismail,0,0,,,,,,"",""
+ball,2,8.7,Mumbai Indians,NR Sciver-Brunt,H Kaur,S Ismail,0,0,,,,,,"",""
+ball,2,9.1,Mumbai Indians,H Kaur,NR Sciver-Brunt,RS Gayakwad,0,0,,,,,,"",""
+ball,2,9.2,Mumbai Indians,H Kaur,NR Sciver-Brunt,RS Gayakwad,1,0,,,,,,"",""
+ball,2,9.3,Mumbai Indians,NR Sciver-Brunt,H Kaur,RS Gayakwad,1,0,,,,,,"",""
+ball,2,9.4,Mumbai Indians,H Kaur,NR Sciver-Brunt,RS Gayakwad,4,0,,,,,,"",""
+ball,2,9.5,Mumbai Indians,H Kaur,NR Sciver-Brunt,RS Gayakwad,1,0,,,,,,"",""
+ball,2,9.6,Mumbai Indians,NR Sciver-Brunt,H Kaur,RS Gayakwad,1,0,,,,,,"",""
+ball,2,10.1,Mumbai Indians,NR Sciver-Brunt,H Kaur,K Anjali Sarvani,0,0,,,,,,"",""
+ball,2,10.2,Mumbai Indians,NR Sciver-Brunt,H Kaur,K Anjali Sarvani,1,0,,,,,,"",""
+ball,2,10.3,Mumbai Indians,H Kaur,NR Sciver-Brunt,K Anjali Sarvani,0,1,1,,,,,"",""
+ball,2,10.4,Mumbai Indians,H Kaur,NR Sciver-Brunt,K Anjali Sarvani,0,0,,,,,,"",""
+ball,2,10.5,Mumbai Indians,H Kaur,NR Sciver-Brunt,K Anjali Sarvani,1,0,,,,,,"",""
+ball,2,10.6,Mumbai Indians,NR Sciver-Brunt,H Kaur,K Anjali Sarvani,1,0,,,,,,"",""
+ball,2,10.7,Mumbai Indians,H Kaur,NR Sciver-Brunt,K Anjali Sarvani,0,0,,,,,,"",""
+ball,2,11.1,Mumbai Indians,NR Sciver-Brunt,H Kaur,DB Sharma,4,0,,,,,,"",""
+ball,2,11.2,Mumbai Indians,NR Sciver-Brunt,H Kaur,DB Sharma,1,0,,,,,,"",""
+ball,2,11.3,Mumbai Indians,H Kaur,NR Sciver-Brunt,DB Sharma,1,0,,,,,,"",""
+ball,2,11.4,Mumbai Indians,NR Sciver-Brunt,H Kaur,DB Sharma,4,0,,,,,,"",""
+ball,2,11.5,Mumbai Indians,NR Sciver-Brunt,H Kaur,DB Sharma,0,0,,,,,,"",""
+ball,2,11.6,Mumbai Indians,NR Sciver-Brunt,H Kaur,DB Sharma,1,0,,,,,,"",""
+ball,2,12.1,Mumbai Indians,NR Sciver-Brunt,H Kaur,S Ecclestone,0,0,,,,,,"",""
+ball,2,12.2,Mumbai Indians,NR Sciver-Brunt,H Kaur,S Ecclestone,4,0,,,,,,"",""
+ball,2,12.3,Mumbai Indians,NR Sciver-Brunt,H Kaur,S Ecclestone,1,0,,,,,,"",""
+ball,2,12.4,Mumbai Indians,H Kaur,NR Sciver-Brunt,S Ecclestone,2,0,,,,,,"",""
+ball,2,12.5,Mumbai Indians,H Kaur,NR Sciver-Brunt,S Ecclestone,4,0,,,,,,"",""
+ball,2,12.6,Mumbai Indians,H Kaur,NR Sciver-Brunt,S Ecclestone,1,0,,,,,,"",""
+ball,2,13.1,Mumbai Indians,H Kaur,NR Sciver-Brunt,RS Gayakwad,1,0,,,,,,"",""
+ball,2,13.2,Mumbai Indians,NR Sciver-Brunt,H Kaur,RS Gayakwad,0,2,,,2,,,"",""
+ball,2,13.3,Mumbai Indians,NR Sciver-Brunt,H Kaur,RS Gayakwad,0,0,,,,,,"",""
+ball,2,13.4,Mumbai Indians,NR Sciver-Brunt,H Kaur,RS Gayakwad,1,0,,,,,,"",""
+ball,2,13.5,Mumbai Indians,H Kaur,NR Sciver-Brunt,RS Gayakwad,4,0,,,,,,"",""
+ball,2,13.6,Mumbai Indians,H Kaur,NR Sciver-Brunt,RS Gayakwad,4,0,,,,,,"",""
+ball,2,14.1,Mumbai Indians,NR Sciver-Brunt,H Kaur,DB Sharma,1,0,,,,,,"",""
+ball,2,14.2,Mumbai Indians,H Kaur,NR Sciver-Brunt,DB Sharma,4,0,,,,,,"",""
+ball,2,14.3,Mumbai Indians,H Kaur,NR Sciver-Brunt,DB Sharma,1,0,,,,,,"",""
+ball,2,14.4,Mumbai Indians,NR Sciver-Brunt,H Kaur,DB Sharma,4,0,,,,,,"",""
+ball,2,14.5,Mumbai Indians,NR Sciver-Brunt,H Kaur,DB Sharma,1,0,,,,,,"",""
+ball,2,14.6,Mumbai Indians,H Kaur,NR Sciver-Brunt,DB Sharma,1,0,,,,,,"",""
+ball,2,15.1,Mumbai Indians,H Kaur,NR Sciver-Brunt,TM McGrath,0,0,,,,,,"",""
+ball,2,15.2,Mumbai Indians,H Kaur,NR Sciver-Brunt,TM McGrath,4,0,,,,,,"",""
+ball,2,15.3,Mumbai Indians,H Kaur,NR Sciver-Brunt,TM McGrath,6,0,,,,,,"",""
+ball,2,15.4,Mumbai Indians,H Kaur,NR Sciver-Brunt,TM McGrath,4,0,,,,,,"",""
+ball,2,15.5,Mumbai Indians,H Kaur,NR Sciver-Brunt,TM McGrath,4,0,,,,,,"",""
+ball,2,15.6,Mumbai Indians,H Kaur,NR Sciver-Brunt,TM McGrath,0,1,1,,,,,"",""
+ball,2,15.7,Mumbai Indians,H Kaur,NR Sciver-Brunt,TM McGrath,0,0,,,,,,"",""
+ball,2,16.1,Mumbai Indians,NR Sciver-Brunt,H Kaur,S Ecclestone,2,0,,,,,,"",""
+ball,2,16.2,Mumbai Indians,NR Sciver-Brunt,H Kaur,S Ecclestone,4,0,,,,,,"",""
+ball,2,16.3,Mumbai Indians,NR Sciver-Brunt,H Kaur,S Ecclestone,1,0,,,,,,"",""
+ball,2,16.4,Mumbai Indians,H Kaur,NR Sciver-Brunt,S Ecclestone,4,0,,,,,,"",""
+ball,2,16.5,Mumbai Indians,H Kaur,NR Sciver-Brunt,S Ecclestone,0,0,,,,,,"",""
+ball,2,16.6,Mumbai Indians,H Kaur,NR Sciver-Brunt,S Ecclestone,0,0,,,,,,"",""
+ball,2,17.1,Mumbai Indians,NR Sciver-Brunt,H Kaur,S Ismail,0,0,,,,,,"",""
+ball,2,17.2,Mumbai Indians,NR Sciver-Brunt,H Kaur,S Ismail,0,1,,1,,,,"",""
+ball,2,17.3,Mumbai Indians,NR Sciver-Brunt,H Kaur,S Ismail,4,0,,,,,,"",""
+ball,2,17.4,Mumbai Indians,NR Sciver-Brunt,H Kaur,S Ismail,6,0,,,,,,"",""

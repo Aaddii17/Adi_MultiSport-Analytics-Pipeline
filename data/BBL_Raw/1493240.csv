@@ -1,0 +1,315 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Sydney Thunder
+info,team,Hobart Hurricanes
+info,gender,male
+info,season,2025/26
+info,date,2025/12/16
+info,event,Big Bash League
+info,match_number,3
+info,venue,"Bellerive Oval, Hobart"
+info,city,Hobart
+info,toss_winner,Hobart Hurricanes
+info,toss_decision,field
+info,player_of_match,CJ Jordan
+info,umpire,MW Graham-Smith
+info,umpire,Sharad Patel
+info,reserve_umpire,M Qureshi
+info,tv_umpire,Eloise Sheridan
+info,match_referee,David Johnston
+info,winner,Hobart Hurricanes
+info,winner_wickets,4
+info,player,Sydney Thunder,M Gilkes
+info,player,Sydney Thunder,S Konstas
+info,player,Sydney Thunder,CT Bancroft
+info,player,Sydney Thunder,SW Billings
+info,player,Sydney Thunder,O Davies
+info,player,Sydney Thunder,Shadab Khan
+info,player,Sydney Thunder,DR Sams
+info,player,Sydney Thunder,CJ Green
+info,player,Sydney Thunder,N McAndrew
+info,player,Sydney Thunder,T Sangha
+info,player,Sydney Thunder,RJW Topley
+info,player,Hobart Hurricanes,MJ Owen
+info,player,Hobart Hurricanes,Nikhil Chaudhary
+info,player,Hobart Hurricanes,BR McDermott
+info,player,Hobart Hurricanes,TH David
+info,player,Hobart Hurricanes,MS Wade
+info,player,Hobart Hurricanes,Rehan Ahmed
+info,player,Hobart Hurricanes,CJ Jordan
+info,player,Hobart Hurricanes,NT Ellis
+info,player,Hobart Hurricanes,Rishad Hossain
+info,player,Hobart Hurricanes,RP Meredith
+info,player,Hobart Hurricanes,B Stanlake
+info,registry,people,B Nikitaras,d4e39566
+info,registry,people,B Stanlake,6834d1f2
+info,registry,people,BR McDermott,c41043e6
+info,registry,people,CJ Green,19b9f399
+info,registry,people,CJ Jordan,ffe699c0
+info,registry,people,CT Bancroft,399b0b94
+info,registry,people,DR Sams,caf69bf7
+info,registry,people,David Johnston,92cef862
+info,registry,people,Eloise Sheridan,d8d43840
+info,registry,people,M Gilkes,d85b0f8b
+info,registry,people,M Qureshi,cf34fbef
+info,registry,people,MJ Owen,f2c936d7
+info,registry,people,MS Wade,afa7e784
+info,registry,people,MW Graham-Smith,18aca3ce
+info,registry,people,N McAndrew,38c276e1
+info,registry,people,NT Ellis,9eb1455b
+info,registry,people,Nikhil Chaudhary,1f84183a
+info,registry,people,O Davies,0ea54eca
+info,registry,people,RJW Topley,8db7f47f
+info,registry,people,RP Meredith,64775749
+info,registry,people,Rehan Ahmed,0ecb4de6
+info,registry,people,Rishad Hossain,5935d694
+info,registry,people,S Konstas,3c34c9e1
+info,registry,people,SW Billings,c16d4035
+info,registry,people,Shadab Khan,9de62878
+info,registry,people,Sharad Patel,8e6dd3ba
+info,registry,people,T Sangha,52c952d9
+info,registry,people,TH David,f1f99156
+ball,1,0.1,Sydney Thunder,M Gilkes,S Konstas,RP Meredith,4,0,,,,,,"",""
+ball,1,0.2,Sydney Thunder,M Gilkes,S Konstas,RP Meredith,1,0,,,,,,"",""
+ball,1,0.3,Sydney Thunder,S Konstas,M Gilkes,RP Meredith,0,1,1,,,,,"",""
+ball,1,0.4,Sydney Thunder,S Konstas,M Gilkes,RP Meredith,0,0,,,,,,"",""
+ball,1,0.5,Sydney Thunder,S Konstas,M Gilkes,RP Meredith,1,0,,,,,,"",""
+ball,1,0.6,Sydney Thunder,M Gilkes,S Konstas,RP Meredith,1,0,,,,,,"",""
+ball,1,0.7,Sydney Thunder,S Konstas,M Gilkes,RP Meredith,1,0,,,,,,"",""
+ball,1,1.1,Sydney Thunder,S Konstas,M Gilkes,B Stanlake,0,0,,,,,,"",""
+ball,1,1.2,Sydney Thunder,S Konstas,M Gilkes,B Stanlake,1,0,,,,,,"",""
+ball,1,1.3,Sydney Thunder,M Gilkes,S Konstas,B Stanlake,6,0,,,,,,"",""
+ball,1,1.4,Sydney Thunder,M Gilkes,S Konstas,B Stanlake,4,0,,,,,,"",""
+ball,1,1.5,Sydney Thunder,M Gilkes,S Konstas,B Stanlake,4,0,,,,,,"",""
+ball,1,1.6,Sydney Thunder,M Gilkes,S Konstas,B Stanlake,0,0,,,,,,caught,M Gilkes
+ball,1,2.1,Sydney Thunder,S Konstas,CT Bancroft,RP Meredith,0,0,,,,,,"",""
+ball,1,2.2,Sydney Thunder,S Konstas,CT Bancroft,RP Meredith,4,0,,,,,,"",""
+ball,1,2.3,Sydney Thunder,S Konstas,CT Bancroft,RP Meredith,0,0,,,,,,"",""
+ball,1,2.4,Sydney Thunder,S Konstas,CT Bancroft,RP Meredith,6,0,,,,,,"",""
+ball,1,2.5,Sydney Thunder,S Konstas,CT Bancroft,RP Meredith,4,0,,,,,,"",""
+ball,1,2.6,Sydney Thunder,S Konstas,CT Bancroft,RP Meredith,1,0,,,,,,"",""
+ball,1,3.1,Sydney Thunder,S Konstas,CT Bancroft,NT Ellis,1,0,,,,,,"",""
+ball,1,3.2,Sydney Thunder,CT Bancroft,S Konstas,NT Ellis,1,0,,,,,,"",""
+ball,1,3.3,Sydney Thunder,S Konstas,CT Bancroft,NT Ellis,0,0,,,,,,"",""
+ball,1,3.4,Sydney Thunder,S Konstas,CT Bancroft,NT Ellis,1,0,,,,,,"",""
+ball,1,3.5,Sydney Thunder,CT Bancroft,S Konstas,NT Ellis,0,0,,,,,,"",""
+ball,1,3.6,Sydney Thunder,CT Bancroft,S Konstas,NT Ellis,4,0,,,,,,"",""
+ball,1,4.1,Sydney Thunder,S Konstas,CT Bancroft,Rishad Hossain,1,0,,,,,,"",""
+ball,1,4.2,Sydney Thunder,CT Bancroft,S Konstas,Rishad Hossain,1,0,,,,,,"",""
+ball,1,4.3,Sydney Thunder,S Konstas,CT Bancroft,Rishad Hossain,1,0,,,,,,"",""
+ball,1,4.4,Sydney Thunder,CT Bancroft,S Konstas,Rishad Hossain,2,0,,,,,,"",""
+ball,1,4.5,Sydney Thunder,CT Bancroft,S Konstas,Rishad Hossain,0,0,,,,,,"",""
+ball,1,4.6,Sydney Thunder,CT Bancroft,S Konstas,Rishad Hossain,1,0,,,,,,"",""
+ball,1,5.1,Sydney Thunder,CT Bancroft,S Konstas,CJ Jordan,1,0,,,,,,"",""
+ball,1,5.2,Sydney Thunder,S Konstas,CT Bancroft,CJ Jordan,2,0,,,,,,"",""
+ball,1,5.3,Sydney Thunder,S Konstas,CT Bancroft,CJ Jordan,1,0,,,,,,"",""
+ball,1,5.4,Sydney Thunder,CT Bancroft,S Konstas,CJ Jordan,4,0,,,,,,"",""
+ball,1,5.5,Sydney Thunder,CT Bancroft,S Konstas,CJ Jordan,1,0,,,,,,"",""
+ball,1,5.6,Sydney Thunder,S Konstas,CT Bancroft,CJ Jordan,1,0,,,,,,"",""
+ball,1,6.1,Sydney Thunder,S Konstas,CT Bancroft,Rishad Hossain,1,0,,,,,,"",""
+ball,1,6.2,Sydney Thunder,CT Bancroft,S Konstas,Rishad Hossain,1,0,,,,,,"",""
+ball,1,6.3,Sydney Thunder,S Konstas,CT Bancroft,Rishad Hossain,0,0,,,,,,"",""
+ball,1,6.4,Sydney Thunder,S Konstas,CT Bancroft,Rishad Hossain,1,0,,,,,,"",""
+ball,1,6.5,Sydney Thunder,CT Bancroft,S Konstas,Rishad Hossain,1,0,,,,,,"",""
+ball,1,6.6,Sydney Thunder,S Konstas,CT Bancroft,Rishad Hossain,0,0,,,,,,"",""
+ball,1,7.1,Sydney Thunder,CT Bancroft,S Konstas,B Stanlake,2,0,,,,,,"",""
+ball,1,7.2,Sydney Thunder,CT Bancroft,S Konstas,B Stanlake,1,0,,,,,,"",""
+ball,1,7.3,Sydney Thunder,S Konstas,CT Bancroft,B Stanlake,0,0,,,,,,"",""
+ball,1,7.4,Sydney Thunder,S Konstas,CT Bancroft,B Stanlake,0,0,,,,,,bowled,S Konstas
+ball,1,7.5,Sydney Thunder,SW Billings,CT Bancroft,B Stanlake,1,0,,,,,,"",""
+ball,1,7.6,Sydney Thunder,CT Bancroft,SW Billings,B Stanlake,1,0,,,,,,"",""
+ball,1,8.1,Sydney Thunder,CT Bancroft,SW Billings,Rehan Ahmed,0,0,,,,,,"",""
+ball,1,8.2,Sydney Thunder,CT Bancroft,SW Billings,Rehan Ahmed,1,0,,,,,,"",""
+ball,1,8.3,Sydney Thunder,SW Billings,CT Bancroft,Rehan Ahmed,1,0,,,,,,"",""
+ball,1,8.4,Sydney Thunder,CT Bancroft,SW Billings,Rehan Ahmed,1,0,,,,,,"",""
+ball,1,8.5,Sydney Thunder,SW Billings,CT Bancroft,Rehan Ahmed,1,0,,,,,,"",""
+ball,1,8.6,Sydney Thunder,CT Bancroft,SW Billings,Rehan Ahmed,1,0,,,,,,"",""
+ball,1,9.1,Sydney Thunder,CT Bancroft,SW Billings,CJ Jordan,1,0,,,,,,"",""
+ball,1,9.2,Sydney Thunder,SW Billings,CT Bancroft,CJ Jordan,0,0,,,,,,bowled,SW Billings
+ball,1,9.3,Sydney Thunder,O Davies,CT Bancroft,CJ Jordan,0,0,,,,,,"",""
+ball,1,9.4,Sydney Thunder,O Davies,CT Bancroft,CJ Jordan,0,0,,,,,,"",""
+ball,1,9.5,Sydney Thunder,O Davies,CT Bancroft,CJ Jordan,2,0,,,,,,"",""
+ball,1,9.6,Sydney Thunder,O Davies,CT Bancroft,CJ Jordan,0,0,,,,,,bowled,O Davies
+ball,1,10.1,Sydney Thunder,CT Bancroft,Shadab Khan,B Stanlake,1,0,,,,,,"",""
+ball,1,10.2,Sydney Thunder,Shadab Khan,CT Bancroft,B Stanlake,0,0,,,,,,"",""
+ball,1,10.3,Sydney Thunder,Shadab Khan,CT Bancroft,B Stanlake,3,0,,,,,,"",""
+ball,1,10.4,Sydney Thunder,CT Bancroft,Shadab Khan,B Stanlake,1,0,,,,,,"",""
+ball,1,10.5,Sydney Thunder,Shadab Khan,CT Bancroft,B Stanlake,1,0,,,,,,"",""
+ball,1,10.6,Sydney Thunder,CT Bancroft,Shadab Khan,B Stanlake,1,0,,,,,,"",""
+ball,1,11.1,Sydney Thunder,CT Bancroft,Shadab Khan,NT Ellis,1,0,,,,,,"",""
+ball,1,11.2,Sydney Thunder,Shadab Khan,CT Bancroft,NT Ellis,1,0,,,,,,"",""
+ball,1,11.3,Sydney Thunder,CT Bancroft,Shadab Khan,NT Ellis,1,0,,,,,,"",""
+ball,1,11.4,Sydney Thunder,Shadab Khan,CT Bancroft,NT Ellis,1,0,,,,,,"",""
+ball,1,11.5,Sydney Thunder,CT Bancroft,Shadab Khan,NT Ellis,2,0,,,,,,"",""
+ball,1,11.6,Sydney Thunder,CT Bancroft,Shadab Khan,NT Ellis,2,0,,,,,,"",""
+ball,1,12.1,Sydney Thunder,Shadab Khan,CT Bancroft,Rishad Hossain,0,0,,,,,,"",""
+ball,1,12.2,Sydney Thunder,Shadab Khan,CT Bancroft,Rishad Hossain,1,0,,,,,,"",""
+ball,1,12.3,Sydney Thunder,CT Bancroft,Shadab Khan,Rishad Hossain,4,0,,,,,,"",""
+ball,1,12.4,Sydney Thunder,CT Bancroft,Shadab Khan,Rishad Hossain,1,0,,,,,,"",""
+ball,1,12.5,Sydney Thunder,Shadab Khan,CT Bancroft,Rishad Hossain,1,0,,,,,,"",""
+ball,1,12.6,Sydney Thunder,CT Bancroft,Shadab Khan,Rishad Hossain,1,0,,,,,,"",""
+ball,1,13.1,Sydney Thunder,CT Bancroft,Shadab Khan,RP Meredith,2,0,,,,,,"",""
+ball,1,13.2,Sydney Thunder,CT Bancroft,Shadab Khan,RP Meredith,1,0,,,,,,"",""
+ball,1,13.3,Sydney Thunder,Shadab Khan,CT Bancroft,RP Meredith,1,0,,,,,,"",""
+ball,1,13.4,Sydney Thunder,CT Bancroft,Shadab Khan,RP Meredith,0,1,1,,,,,"",""
+ball,1,13.5,Sydney Thunder,CT Bancroft,Shadab Khan,RP Meredith,2,0,,,,,,"",""
+ball,1,13.6,Sydney Thunder,CT Bancroft,Shadab Khan,RP Meredith,2,0,,,,,,"",""
+ball,1,13.7,Sydney Thunder,CT Bancroft,Shadab Khan,RP Meredith,1,0,,,,,,"",""
+ball,1,14.1,Sydney Thunder,CT Bancroft,Shadab Khan,CJ Jordan,1,0,,,,,,"",""
+ball,1,14.2,Sydney Thunder,Shadab Khan,CT Bancroft,CJ Jordan,0,0,,,,,,"",""
+ball,1,14.3,Sydney Thunder,Shadab Khan,CT Bancroft,CJ Jordan,2,0,,,,,,"",""
+ball,1,14.4,Sydney Thunder,Shadab Khan,CT Bancroft,CJ Jordan,1,0,,,,,,"",""
+ball,1,14.5,Sydney Thunder,CT Bancroft,Shadab Khan,CJ Jordan,1,0,,,,,,"",""
+ball,1,14.6,Sydney Thunder,Shadab Khan,CT Bancroft,CJ Jordan,1,0,,,,,,"",""
+ball,1,15.1,Sydney Thunder,Shadab Khan,CT Bancroft,NT Ellis,1,0,,,,,,"",""
+ball,1,15.2,Sydney Thunder,CT Bancroft,Shadab Khan,NT Ellis,6,0,,,,,,"",""
+ball,1,15.3,Sydney Thunder,CT Bancroft,Shadab Khan,NT Ellis,0,0,,,,,,"",""
+ball,1,15.4,Sydney Thunder,CT Bancroft,Shadab Khan,NT Ellis,4,0,,,,,,"",""
+ball,1,15.5,Sydney Thunder,CT Bancroft,Shadab Khan,NT Ellis,0,0,,,,,,"",""
+ball,1,15.6,Sydney Thunder,CT Bancroft,Shadab Khan,NT Ellis,1,0,,,,,,"",""
+ball,1,16.1,Sydney Thunder,CT Bancroft,Shadab Khan,B Stanlake,0,1,,,1,,,"",""
+ball,1,16.2,Sydney Thunder,Shadab Khan,CT Bancroft,B Stanlake,4,0,,,,,,"",""
+ball,1,16.3,Sydney Thunder,Shadab Khan,CT Bancroft,B Stanlake,2,0,,,,,,"",""
+ball,1,16.4,Sydney Thunder,Shadab Khan,CT Bancroft,B Stanlake,0,1,,,,1,,"",""
+ball,1,16.5,Sydney Thunder,CT Bancroft,Shadab Khan,B Stanlake,0,0,,,,,,bowled,CT Bancroft
+ball,1,16.6,Sydney Thunder,DR Sams,Shadab Khan,B Stanlake,1,0,,,,,,"",""
+ball,1,17.1,Sydney Thunder,DR Sams,Shadab Khan,CJ Jordan,4,0,,,,,,"",""
+ball,1,17.2,Sydney Thunder,DR Sams,Shadab Khan,CJ Jordan,6,0,,,,,,"",""
+ball,1,17.3,Sydney Thunder,DR Sams,Shadab Khan,CJ Jordan,2,0,,,,,,"",""
+ball,1,17.4,Sydney Thunder,DR Sams,Shadab Khan,CJ Jordan,2,0,,,,,,"",""
+ball,1,17.5,Sydney Thunder,DR Sams,Shadab Khan,CJ Jordan,2,0,,,,,,"",""
+ball,1,17.6,Sydney Thunder,DR Sams,Shadab Khan,CJ Jordan,1,0,,,,,,"",""
+ball,1,18.1,Sydney Thunder,DR Sams,Shadab Khan,RP Meredith,2,0,,,,,,"",""
+ball,1,18.2,Sydney Thunder,DR Sams,Shadab Khan,RP Meredith,0,1,,,,1,,"",""
+ball,1,18.3,Sydney Thunder,Shadab Khan,DR Sams,RP Meredith,0,0,,,,,,"",""
+ball,1,18.4,Sydney Thunder,Shadab Khan,DR Sams,RP Meredith,6,0,,,,,,"",""
+ball,1,18.5,Sydney Thunder,Shadab Khan,DR Sams,RP Meredith,1,0,,,,,,"",""
+ball,1,18.6,Sydney Thunder,DR Sams,Shadab Khan,RP Meredith,2,0,,,,,,"",""
+ball,1,19.1,Sydney Thunder,Shadab Khan,DR Sams,NT Ellis,1,0,,,,,,"",""
+ball,1,19.2,Sydney Thunder,DR Sams,Shadab Khan,NT Ellis,1,0,,,,,,"",""
+ball,1,19.3,Sydney Thunder,Shadab Khan,DR Sams,NT Ellis,4,0,,,,,,"",""
+ball,1,19.4,Sydney Thunder,Shadab Khan,DR Sams,NT Ellis,2,0,,,,,,"",""
+ball,1,19.5,Sydney Thunder,Shadab Khan,DR Sams,NT Ellis,0,0,,,,,,caught,Shadab Khan
+ball,1,19.6,Sydney Thunder,CJ Green,DR Sams,NT Ellis,4,0,,,,,,"",""
+ball,2,0.1,Hobart Hurricanes,MJ Owen,Nikhil Chaudhary,RJW Topley,1,0,,,,,,"",""
+ball,2,0.2,Hobart Hurricanes,Nikhil Chaudhary,MJ Owen,RJW Topley,0,0,,,,,,"",""
+ball,2,0.3,Hobart Hurricanes,Nikhil Chaudhary,MJ Owen,RJW Topley,1,0,,,,,,"",""
+ball,2,0.4,Hobart Hurricanes,MJ Owen,Nikhil Chaudhary,RJW Topley,4,0,,,,,,"",""
+ball,2,0.5,Hobart Hurricanes,MJ Owen,Nikhil Chaudhary,RJW Topley,6,0,,,,,,"",""
+ball,2,0.6,Hobart Hurricanes,MJ Owen,Nikhil Chaudhary,RJW Topley,4,0,,,,,,"",""
+ball,2,1.1,Hobart Hurricanes,Nikhil Chaudhary,MJ Owen,DR Sams,0,0,,,,,,"",""
+ball,2,1.2,Hobart Hurricanes,Nikhil Chaudhary,MJ Owen,DR Sams,1,0,,,,,,"",""
+ball,2,1.3,Hobart Hurricanes,MJ Owen,Nikhil Chaudhary,DR Sams,4,0,,,,,,"",""
+ball,2,1.4,Hobart Hurricanes,MJ Owen,Nikhil Chaudhary,DR Sams,0,0,,,,,,"",""
+ball,2,1.5,Hobart Hurricanes,MJ Owen,Nikhil Chaudhary,DR Sams,0,0,,,,,,"",""
+ball,2,1.6,Hobart Hurricanes,MJ Owen,Nikhil Chaudhary,DR Sams,4,0,,,,,,"",""
+ball,2,2.1,Hobart Hurricanes,Nikhil Chaudhary,MJ Owen,N McAndrew,6,0,,,,,,"",""
+ball,2,2.2,Hobart Hurricanes,Nikhil Chaudhary,MJ Owen,N McAndrew,0,0,,,,,,"",""
+ball,2,2.3,Hobart Hurricanes,Nikhil Chaudhary,MJ Owen,N McAndrew,0,0,,,,,,"",""
+ball,2,2.4,Hobart Hurricanes,Nikhil Chaudhary,MJ Owen,N McAndrew,0,0,,,,,,"",""
+ball,2,2.5,Hobart Hurricanes,Nikhil Chaudhary,MJ Owen,N McAndrew,0,0,,,,,,"",""
+ball,2,2.6,Hobart Hurricanes,Nikhil Chaudhary,MJ Owen,N McAndrew,6,0,,,,,,"",""
+ball,2,3.1,Hobart Hurricanes,MJ Owen,Nikhil Chaudhary,DR Sams,4,0,,,,,,"",""
+ball,2,3.2,Hobart Hurricanes,MJ Owen,Nikhil Chaudhary,DR Sams,4,0,,,,,,"",""
+ball,2,3.3,Hobart Hurricanes,MJ Owen,Nikhil Chaudhary,DR Sams,0,0,,,,,,"",""
+ball,2,3.4,Hobart Hurricanes,MJ Owen,Nikhil Chaudhary,DR Sams,1,0,,,,,,"",""
+ball,2,3.5,Hobart Hurricanes,Nikhil Chaudhary,MJ Owen,DR Sams,0,0,,,,,,"",""
+ball,2,3.6,Hobart Hurricanes,Nikhil Chaudhary,MJ Owen,DR Sams,1,0,,,,,,"",""
+ball,2,4.1,Hobart Hurricanes,Nikhil Chaudhary,MJ Owen,T Sangha,1,0,,,,,,"",""
+ball,2,4.2,Hobart Hurricanes,MJ Owen,Nikhil Chaudhary,T Sangha,0,0,,,,,,"",""
+ball,2,4.3,Hobart Hurricanes,MJ Owen,Nikhil Chaudhary,T Sangha,0,0,,,,,,caught,MJ Owen
+ball,2,4.4,Hobart Hurricanes,BR McDermott,Nikhil Chaudhary,T Sangha,0,0,,,,,,"",""
+ball,2,4.5,Hobart Hurricanes,BR McDermott,Nikhil Chaudhary,T Sangha,1,0,,,,,,"",""
+ball,2,4.6,Hobart Hurricanes,Nikhil Chaudhary,BR McDermott,T Sangha,1,0,,,,,,"",""
+ball,2,5.1,Hobart Hurricanes,Nikhil Chaudhary,BR McDermott,Shadab Khan,1,0,,,,,,"",""
+ball,2,5.2,Hobart Hurricanes,BR McDermott,Nikhil Chaudhary,Shadab Khan,0,0,,,,,,"",""
+ball,2,5.3,Hobart Hurricanes,BR McDermott,Nikhil Chaudhary,Shadab Khan,1,0,,,,,,"",""
+ball,2,5.4,Hobart Hurricanes,Nikhil Chaudhary,BR McDermott,Shadab Khan,3,0,,,,,,"",""
+ball,2,5.5,Hobart Hurricanes,BR McDermott,Nikhil Chaudhary,Shadab Khan,2,0,,,,,,"",""
+ball,2,5.6,Hobart Hurricanes,BR McDermott,Nikhil Chaudhary,Shadab Khan,0,0,,,,,,"",""
+ball,2,6.1,Hobart Hurricanes,Nikhil Chaudhary,BR McDermott,CJ Green,4,0,,,,,,"",""
+ball,2,6.2,Hobart Hurricanes,Nikhil Chaudhary,BR McDermott,CJ Green,1,0,,,,,,"",""
+ball,2,6.3,Hobart Hurricanes,BR McDermott,Nikhil Chaudhary,CJ Green,1,0,,,,,,"",""
+ball,2,6.4,Hobart Hurricanes,Nikhil Chaudhary,BR McDermott,CJ Green,0,0,,,,,,"",""
+ball,2,6.5,Hobart Hurricanes,Nikhil Chaudhary,BR McDermott,CJ Green,1,0,,,,,,"",""
+ball,2,6.6,Hobart Hurricanes,BR McDermott,Nikhil Chaudhary,CJ Green,1,0,,,,,,"",""
+ball,2,7.1,Hobart Hurricanes,BR McDermott,Nikhil Chaudhary,T Sangha,1,0,,,,,,"",""
+ball,2,7.2,Hobart Hurricanes,Nikhil Chaudhary,BR McDermott,T Sangha,1,0,,,,,,"",""
+ball,2,7.3,Hobart Hurricanes,BR McDermott,Nikhil Chaudhary,T Sangha,2,0,,,,,,"",""
+ball,2,7.4,Hobart Hurricanes,BR McDermott,Nikhil Chaudhary,T Sangha,4,0,,,,,,"",""
+ball,2,7.5,Hobart Hurricanes,BR McDermott,Nikhil Chaudhary,T Sangha,1,0,,,,,,"",""
+ball,2,7.6,Hobart Hurricanes,Nikhil Chaudhary,BR McDermott,T Sangha,1,0,,,,,,"",""
+ball,2,8.1,Hobart Hurricanes,Nikhil Chaudhary,BR McDermott,Shadab Khan,0,0,,,,,,"",""
+ball,2,8.2,Hobart Hurricanes,Nikhil Chaudhary,BR McDermott,Shadab Khan,1,0,,,,,,"",""
+ball,2,8.3,Hobart Hurricanes,BR McDermott,Nikhil Chaudhary,Shadab Khan,6,0,,,,,,"",""
+ball,2,8.4,Hobart Hurricanes,BR McDermott,Nikhil Chaudhary,Shadab Khan,1,0,,,,,,"",""
+ball,2,8.5,Hobart Hurricanes,Nikhil Chaudhary,BR McDermott,Shadab Khan,1,0,,,,,,"",""
+ball,2,8.6,Hobart Hurricanes,BR McDermott,Nikhil Chaudhary,Shadab Khan,0,0,,,,,,"",""
+ball,2,9.1,Hobart Hurricanes,Nikhil Chaudhary,BR McDermott,RJW Topley,1,0,,,,,,"",""
+ball,2,9.2,Hobart Hurricanes,BR McDermott,Nikhil Chaudhary,RJW Topley,0,0,,,,,,"",""
+ball,2,9.3,Hobart Hurricanes,BR McDermott,Nikhil Chaudhary,RJW Topley,6,0,,,,,,"",""
+ball,2,9.4,Hobart Hurricanes,BR McDermott,Nikhil Chaudhary,RJW Topley,6,0,,,,,,"",""
+ball,2,9.5,Hobart Hurricanes,BR McDermott,Nikhil Chaudhary,RJW Topley,1,0,,,,,,"",""
+ball,2,9.6,Hobart Hurricanes,Nikhil Chaudhary,BR McDermott,RJW Topley,0,0,,,,,,"",""
+ball,2,10.1,Hobart Hurricanes,BR McDermott,Nikhil Chaudhary,CJ Green,1,0,,,,,,"",""
+ball,2,10.2,Hobart Hurricanes,Nikhil Chaudhary,BR McDermott,CJ Green,1,0,,,,,,"",""
+ball,2,10.3,Hobart Hurricanes,BR McDermott,Nikhil Chaudhary,CJ Green,1,0,,,,,,"",""
+ball,2,10.4,Hobart Hurricanes,Nikhil Chaudhary,BR McDermott,CJ Green,6,0,,,,,,"",""
+ball,2,10.5,Hobart Hurricanes,Nikhil Chaudhary,BR McDermott,CJ Green,2,0,,,,,,"",""
+ball,2,10.6,Hobart Hurricanes,Nikhil Chaudhary,BR McDermott,CJ Green,0,0,,,,,,caught,Nikhil Chaudhary
+ball,2,11.1,Hobart Hurricanes,BR McDermott,TH David,T Sangha,1,0,,,,,,"",""
+ball,2,11.2,Hobart Hurricanes,TH David,BR McDermott,T Sangha,0,0,,,,,,"",""
+ball,2,11.3,Hobart Hurricanes,TH David,BR McDermott,T Sangha,0,0,,,,,,"",""
+ball,2,11.4,Hobart Hurricanes,TH David,BR McDermott,T Sangha,1,0,,,,,,"",""
+ball,2,11.5,Hobart Hurricanes,BR McDermott,TH David,T Sangha,1,0,,,,,,"",""
+ball,2,11.6,Hobart Hurricanes,TH David,BR McDermott,T Sangha,1,0,,,,,,"",""
+ball,2,12.1,Hobart Hurricanes,TH David,BR McDermott,Shadab Khan,6,0,,,,,,"",""
+ball,2,12.2,Hobart Hurricanes,TH David,BR McDermott,Shadab Khan,4,0,,,,,,"",""
+ball,2,12.3,Hobart Hurricanes,TH David,BR McDermott,Shadab Khan,1,0,,,,,,"",""
+ball,2,12.4,Hobart Hurricanes,BR McDermott,TH David,Shadab Khan,0,0,,,,,,bowled,BR McDermott
+ball,2,12.5,Hobart Hurricanes,MS Wade,TH David,Shadab Khan,1,0,,,,,,"",""
+ball,2,12.6,Hobart Hurricanes,TH David,MS Wade,Shadab Khan,4,0,,,,,,"",""
+ball,2,13.1,Hobart Hurricanes,MS Wade,TH David,DR Sams,4,0,,,,,,"",""
+ball,2,13.2,Hobart Hurricanes,MS Wade,TH David,DR Sams,0,0,,,,,,"",""
+ball,2,13.3,Hobart Hurricanes,MS Wade,TH David,DR Sams,6,0,,,,,,"",""
+ball,2,13.4,Hobart Hurricanes,MS Wade,TH David,DR Sams,1,0,,,,,,"",""
+ball,2,13.5,Hobart Hurricanes,TH David,MS Wade,DR Sams,0,1,1,,,,,"",""
+ball,2,13.6,Hobart Hurricanes,TH David,MS Wade,DR Sams,0,0,,,,,,caught,TH David
+ball,2,13.7,Hobart Hurricanes,Rehan Ahmed,MS Wade,DR Sams,0,0,,,,,,"",""
+ball,2,14.1,Hobart Hurricanes,MS Wade,Rehan Ahmed,CJ Green,2,0,,,,,,"",""
+ball,2,14.2,Hobart Hurricanes,MS Wade,Rehan Ahmed,CJ Green,1,0,,,,,,"",""
+ball,2,14.3,Hobart Hurricanes,Rehan Ahmed,MS Wade,CJ Green,0,0,,,,,,"",""
+ball,2,14.4,Hobart Hurricanes,Rehan Ahmed,MS Wade,CJ Green,1,0,,,,,,"",""
+ball,2,14.5,Hobart Hurricanes,MS Wade,Rehan Ahmed,CJ Green,4,0,,,,,,"",""
+ball,2,14.6,Hobart Hurricanes,MS Wade,Rehan Ahmed,CJ Green,0,0,,,,,,"",""
+ball,2,15.1,Hobart Hurricanes,Rehan Ahmed,MS Wade,Shadab Khan,1,0,,,,,,"",""
+ball,2,15.2,Hobart Hurricanes,MS Wade,Rehan Ahmed,Shadab Khan,1,0,,,,,,"",""
+ball,2,15.3,Hobart Hurricanes,Rehan Ahmed,MS Wade,Shadab Khan,0,0,,,,,,caught,Rehan Ahmed
+ball,2,15.4,Hobart Hurricanes,CJ Jordan,MS Wade,Shadab Khan,0,0,,,,,,"",""
+ball,2,15.5,Hobart Hurricanes,CJ Jordan,MS Wade,Shadab Khan,1,0,,,,,,"",""
+ball,2,15.6,Hobart Hurricanes,MS Wade,CJ Jordan,Shadab Khan,1,0,,,,,,"",""
+ball,2,16.1,Hobart Hurricanes,MS Wade,CJ Jordan,CJ Green,2,0,,,,,,"",""
+ball,2,16.2,Hobart Hurricanes,MS Wade,CJ Jordan,CJ Green,1,0,,,,,,"",""
+ball,2,16.3,Hobart Hurricanes,CJ Jordan,MS Wade,CJ Green,2,0,,,,,,"",""
+ball,2,16.4,Hobart Hurricanes,CJ Jordan,MS Wade,CJ Green,0,0,,,,,,"",""
+ball,2,16.5,Hobart Hurricanes,CJ Jordan,MS Wade,CJ Green,0,0,,,,,,"",""
+ball,2,16.6,Hobart Hurricanes,CJ Jordan,MS Wade,CJ Green,1,0,,,,,,"",""
+ball,2,17.1,Hobart Hurricanes,CJ Jordan,MS Wade,T Sangha,0,3,3,,,,,"",""
+ball,2,17.2,Hobart Hurricanes,CJ Jordan,MS Wade,T Sangha,0,0,,,,,,"",""
+ball,2,17.3,Hobart Hurricanes,CJ Jordan,MS Wade,T Sangha,2,0,,,,,,"",""
+ball,2,17.4,Hobart Hurricanes,CJ Jordan,MS Wade,T Sangha,1,0,,,,,,"",""
+ball,2,17.5,Hobart Hurricanes,MS Wade,CJ Jordan,T Sangha,0,0,,,,,,"",""
+ball,2,17.6,Hobart Hurricanes,MS Wade,CJ Jordan,T Sangha,1,0,,,,,,"",""
+ball,2,17.7,Hobart Hurricanes,CJ Jordan,MS Wade,T Sangha,2,0,,,,,,"",""
+ball,2,18.1,Hobart Hurricanes,MS Wade,CJ Jordan,N McAndrew,0,0,,,,,,caught,MS Wade
+ball,2,18.2,Hobart Hurricanes,NT Ellis,CJ Jordan,N McAndrew,1,0,,,,,,"",""
+ball,2,18.3,Hobart Hurricanes,CJ Jordan,NT Ellis,N McAndrew,4,0,,,,,,"",""
+ball,2,18.4,Hobart Hurricanes,CJ Jordan,NT Ellis,N McAndrew,2,0,,,,,,"",""
+ball,2,18.5,Hobart Hurricanes,CJ Jordan,NT Ellis,N McAndrew,1,0,,,,,,"",""
+ball,2,18.6,Hobart Hurricanes,NT Ellis,CJ Jordan,N McAndrew,1,0,,,,,,"",""
+ball,2,19.1,Hobart Hurricanes,NT Ellis,CJ Jordan,DR Sams,0,1,,1,,,,"",""
+ball,2,19.2,Hobart Hurricanes,NT Ellis,CJ Jordan,DR Sams,2,0,,,,,,"",""
+ball,2,19.3,Hobart Hurricanes,NT Ellis,CJ Jordan,DR Sams,0,0,,,,,,"",""
+ball,2,19.4,Hobart Hurricanes,NT Ellis,CJ Jordan,DR Sams,0,0,,,,,,"",""
+ball,2,19.5,Hobart Hurricanes,NT Ellis,CJ Jordan,DR Sams,0,0,,,,,,"",""
+ball,2,19.6,Hobart Hurricanes,NT Ellis,CJ Jordan,DR Sams,1,0,,,,,,"",""

@@ -1,0 +1,309 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Sunrisers Eastern Cape
+info,team,Pretoria Capitals
+info,gender,male
+info,season,2025/26
+info,date,2026/01/21
+info,event,SA20
+info,venue,"Kingsmead, Durban"
+info,city,Durban
+info,toss_winner,Sunrisers Eastern Cape
+info,toss_decision,bat
+info,player_of_match,B Parsons
+info,umpire,A Paleker
+info,umpire,A Jacobs
+info,reserve_umpire,Stephen Harris
+info,tv_umpire,BP Jele
+info,match_referee,GH Pienaar
+info,winner,Pretoria Capitals
+info,winner_wickets,7
+info,player,Sunrisers Eastern Cape,Q de Kock
+info,player,Sunrisers Eastern Cape,JM Bairstow
+info,player,Sunrisers Eastern Cape,J Hermann
+info,player,Sunrisers Eastern Cape,T Stubbs
+info,player,Sunrisers Eastern Cape,M Jansen
+info,player,Sunrisers Eastern Cape,CJ Green
+info,player,Sunrisers Eastern Cape,MP Breetzke
+info,player,Sunrisers Eastern Cape,JM Coles
+info,player,Sunrisers Eastern Cape,L Gregory
+info,player,Sunrisers Eastern Cape,S Muthusamy
+info,player,Sunrisers Eastern Cape,A Nortje
+info,player,Pretoria Capitals,SD Hope
+info,player,Pretoria Capitals,B Parsons
+info,player,Pretoria Capitals,C Esterhuizen
+info,player,Pretoria Capitals,D Brevis
+info,player,Pretoria Capitals,SE Rutherford
+info,player,Pretoria Capitals,JM Cox
+info,player,Pretoria Capitals,RL Chase
+info,player,Pretoria Capitals,KA Maharaj
+info,player,Pretoria Capitals,LB Williams
+info,player,Pretoria Capitals,L Ngidi
+info,player,Pretoria Capitals,GG Peters
+info,registry,people,A Jacobs,70d117de
+info,registry,people,A Nortje,acdc62f5
+info,registry,people,A Paleker,634b11ac
+info,registry,people,B Parsons,fc60e81a
+info,registry,people,BP Jele,7bb1331e
+info,registry,people,C Esterhuizen,ef9acbcc
+info,registry,people,CJ Green,19b9f399
+info,registry,people,D Brevis,844e79d1
+info,registry,people,GG Peters,360f4e4b
+info,registry,people,GH Pienaar,3516e46b
+info,registry,people,J Hermann,e87aeca2
+info,registry,people,JM Bairstow,abb83e27
+info,registry,people,JM Coles,9c643d7b
+info,registry,people,JM Cox,ff154ecd
+info,registry,people,KA Maharaj,0b60eb09
+info,registry,people,L Gregory,06c2de82
+info,registry,people,L Ngidi,f834dcfc
+info,registry,people,LB Williams,a1d95bd8
+info,registry,people,M Jansen,81c36ee9
+info,registry,people,MP Breetzke,35f173a0
+info,registry,people,Q de Kock,372455c4
+info,registry,people,RL Chase,3feda4fa
+info,registry,people,S Muthusamy,7dfb8890
+info,registry,people,SD Hope,1fc6ef83
+info,registry,people,SE Rutherford,d014d5ac
+info,registry,people,Stephen Harris,fdcfd4aa
+info,registry,people,T Stubbs,85b3fab2
+info,registry,people,WJ Lubbe,10f42013
+ball,1,0.1,Sunrisers Eastern Cape,Q de Kock,JM Bairstow,L Ngidi,0,0,,,,,,"",""
+ball,1,0.2,Sunrisers Eastern Cape,Q de Kock,JM Bairstow,L Ngidi,0,0,,,,,,"",""
+ball,1,0.3,Sunrisers Eastern Cape,Q de Kock,JM Bairstow,L Ngidi,1,0,,,,,,"",""
+ball,1,0.4,Sunrisers Eastern Cape,JM Bairstow,Q de Kock,L Ngidi,0,0,,,,,,"",""
+ball,1,0.5,Sunrisers Eastern Cape,JM Bairstow,Q de Kock,L Ngidi,1,0,,,,,,"",""
+ball,1,0.6,Sunrisers Eastern Cape,Q de Kock,JM Bairstow,L Ngidi,1,0,,,,,,"",""
+ball,1,1.1,Sunrisers Eastern Cape,Q de Kock,JM Bairstow,RL Chase,0,0,,,,,,"",""
+ball,1,1.2,Sunrisers Eastern Cape,Q de Kock,JM Bairstow,RL Chase,0,0,,,,,,"",""
+ball,1,1.3,Sunrisers Eastern Cape,Q de Kock,JM Bairstow,RL Chase,4,0,,,,,,"",""
+ball,1,1.4,Sunrisers Eastern Cape,Q de Kock,JM Bairstow,RL Chase,4,0,,,,,,"",""
+ball,1,1.5,Sunrisers Eastern Cape,Q de Kock,JM Bairstow,RL Chase,0,0,,,,,,"",""
+ball,1,1.6,Sunrisers Eastern Cape,Q de Kock,JM Bairstow,RL Chase,0,0,,,,,,"",""
+ball,1,2.1,Sunrisers Eastern Cape,JM Bairstow,Q de Kock,L Ngidi,1,0,,,,,,"",""
+ball,1,2.2,Sunrisers Eastern Cape,Q de Kock,JM Bairstow,L Ngidi,1,0,,,,,,"",""
+ball,1,2.3,Sunrisers Eastern Cape,JM Bairstow,Q de Kock,L Ngidi,0,0,,,,,,"",""
+ball,1,2.4,Sunrisers Eastern Cape,JM Bairstow,Q de Kock,L Ngidi,4,0,,,,,,"",""
+ball,1,2.5,Sunrisers Eastern Cape,JM Bairstow,Q de Kock,L Ngidi,1,0,,,,,,"",""
+ball,1,2.6,Sunrisers Eastern Cape,Q de Kock,JM Bairstow,L Ngidi,1,0,,,,,,"",""
+ball,1,3.1,Sunrisers Eastern Cape,Q de Kock,JM Bairstow,RL Chase,1,0,,,,,,"",""
+ball,1,3.2,Sunrisers Eastern Cape,JM Bairstow,Q de Kock,RL Chase,4,0,,,,,,"",""
+ball,1,3.3,Sunrisers Eastern Cape,JM Bairstow,Q de Kock,RL Chase,1,0,,,,,,"",""
+ball,1,3.4,Sunrisers Eastern Cape,Q de Kock,JM Bairstow,RL Chase,6,0,,,,,,"",""
+ball,1,3.5,Sunrisers Eastern Cape,Q de Kock,JM Bairstow,RL Chase,0,0,,,,,,bowled,Q de Kock
+ball,1,3.6,Sunrisers Eastern Cape,J Hermann,JM Bairstow,RL Chase,0,0,,,,,,"",""
+ball,1,4.1,Sunrisers Eastern Cape,JM Bairstow,J Hermann,GG Peters,1,0,,,,,,"",""
+ball,1,4.2,Sunrisers Eastern Cape,J Hermann,JM Bairstow,GG Peters,0,1,1,,,,,"",""
+ball,1,4.3,Sunrisers Eastern Cape,J Hermann,JM Bairstow,GG Peters,2,0,,,,,,"",""
+ball,1,4.4,Sunrisers Eastern Cape,J Hermann,JM Bairstow,GG Peters,0,1,1,,,,,"",""
+ball,1,4.5,Sunrisers Eastern Cape,J Hermann,JM Bairstow,GG Peters,4,0,,,,,,"",""
+ball,1,4.6,Sunrisers Eastern Cape,J Hermann,JM Bairstow,GG Peters,0,0,,,,,,"",""
+ball,1,4.7,Sunrisers Eastern Cape,J Hermann,JM Bairstow,GG Peters,1,0,,,,,,"",""
+ball,1,4.8,Sunrisers Eastern Cape,JM Bairstow,J Hermann,GG Peters,0,0,,,,,,"",""
+ball,1,5.1,Sunrisers Eastern Cape,J Hermann,JM Bairstow,RL Chase,4,0,,,,,,"",""
+ball,1,5.2,Sunrisers Eastern Cape,J Hermann,JM Bairstow,RL Chase,1,0,,,,,,"",""
+ball,1,5.3,Sunrisers Eastern Cape,JM Bairstow,J Hermann,RL Chase,0,0,,,,,,"",""
+ball,1,5.4,Sunrisers Eastern Cape,JM Bairstow,J Hermann,RL Chase,1,0,,,,,,"",""
+ball,1,5.5,Sunrisers Eastern Cape,J Hermann,JM Bairstow,RL Chase,0,0,,,,,,"",""
+ball,1,5.6,Sunrisers Eastern Cape,J Hermann,JM Bairstow,RL Chase,2,0,,,,,,"",""
+ball,1,6.1,Sunrisers Eastern Cape,JM Bairstow,J Hermann,KA Maharaj,0,0,,,,,,"",""
+ball,1,6.2,Sunrisers Eastern Cape,JM Bairstow,J Hermann,KA Maharaj,1,0,,,,,,"",""
+ball,1,6.3,Sunrisers Eastern Cape,J Hermann,JM Bairstow,KA Maharaj,0,0,,,,,,"",""
+ball,1,6.4,Sunrisers Eastern Cape,J Hermann,JM Bairstow,KA Maharaj,1,0,,,,,,"",""
+ball,1,6.5,Sunrisers Eastern Cape,JM Bairstow,J Hermann,KA Maharaj,0,0,,,,,,"",""
+ball,1,6.6,Sunrisers Eastern Cape,JM Bairstow,J Hermann,KA Maharaj,4,0,,,,,,"",""
+ball,1,7.1,Sunrisers Eastern Cape,J Hermann,JM Bairstow,LB Williams,1,0,,,,,,"",""
+ball,1,7.2,Sunrisers Eastern Cape,JM Bairstow,J Hermann,LB Williams,0,1,,1,,,,"",""
+ball,1,7.3,Sunrisers Eastern Cape,JM Bairstow,J Hermann,LB Williams,1,0,,,,,,"",""
+ball,1,7.4,Sunrisers Eastern Cape,J Hermann,JM Bairstow,LB Williams,1,0,,,,,,"",""
+ball,1,7.5,Sunrisers Eastern Cape,JM Bairstow,J Hermann,LB Williams,1,0,,,,,,"",""
+ball,1,7.6,Sunrisers Eastern Cape,J Hermann,JM Bairstow,LB Williams,1,0,,,,,,"",""
+ball,1,7.7,Sunrisers Eastern Cape,JM Bairstow,J Hermann,LB Williams,1,0,,,,,,"",""
+ball,1,8.1,Sunrisers Eastern Cape,JM Bairstow,J Hermann,KA Maharaj,0,1,1,,,,,"",""
+ball,1,8.2,Sunrisers Eastern Cape,JM Bairstow,J Hermann,KA Maharaj,2,0,,,,,,"",""
+ball,1,8.3,Sunrisers Eastern Cape,JM Bairstow,J Hermann,KA Maharaj,2,0,,,,,,"",""
+ball,1,8.4,Sunrisers Eastern Cape,JM Bairstow,J Hermann,KA Maharaj,0,0,,,,,,"",""
+ball,1,8.5,Sunrisers Eastern Cape,JM Bairstow,J Hermann,KA Maharaj,1,0,,,,,,"",""
+ball,1,8.6,Sunrisers Eastern Cape,J Hermann,JM Bairstow,KA Maharaj,1,0,,,,,,"",""
+ball,1,8.7,Sunrisers Eastern Cape,JM Bairstow,J Hermann,KA Maharaj,4,0,,,,,,"",""
+ball,1,9.1,Sunrisers Eastern Cape,J Hermann,JM Bairstow,LB Williams,0,0,,,,,,"",""
+ball,1,9.2,Sunrisers Eastern Cape,J Hermann,JM Bairstow,LB Williams,2,0,,,,,,"",""
+ball,1,9.3,Sunrisers Eastern Cape,J Hermann,JM Bairstow,LB Williams,1,0,,,,,,"",""
+ball,1,9.4,Sunrisers Eastern Cape,JM Bairstow,J Hermann,LB Williams,0,0,,,,,,"",""
+ball,1,9.5,Sunrisers Eastern Cape,JM Bairstow,J Hermann,LB Williams,0,4,,,,4,,"",""
+ball,1,9.6,Sunrisers Eastern Cape,JM Bairstow,J Hermann,LB Williams,4,0,,,,,,"",""
+ball,1,10.1,Sunrisers Eastern Cape,J Hermann,JM Bairstow,GG Peters,0,0,,,,,,"",""
+ball,1,10.2,Sunrisers Eastern Cape,J Hermann,JM Bairstow,GG Peters,6,0,,,,,,"",""
+ball,1,10.3,Sunrisers Eastern Cape,J Hermann,JM Bairstow,GG Peters,0,1,1,,,,,"",""
+ball,1,10.4,Sunrisers Eastern Cape,J Hermann,JM Bairstow,GG Peters,1,0,,,,,,"",""
+ball,1,10.5,Sunrisers Eastern Cape,JM Bairstow,J Hermann,GG Peters,4,0,,,,,,"",""
+ball,1,10.6,Sunrisers Eastern Cape,JM Bairstow,J Hermann,GG Peters,1,0,,,,,,"",""
+ball,1,10.7,Sunrisers Eastern Cape,J Hermann,JM Bairstow,GG Peters,4,0,,,,,,"",""
+ball,1,11.1,Sunrisers Eastern Cape,JM Bairstow,J Hermann,RL Chase,1,0,,,,,,"",""
+ball,1,11.2,Sunrisers Eastern Cape,J Hermann,JM Bairstow,RL Chase,1,0,,,,,,"",""
+ball,1,11.3,Sunrisers Eastern Cape,JM Bairstow,J Hermann,RL Chase,6,0,,,,,,"",""
+ball,1,11.4,Sunrisers Eastern Cape,JM Bairstow,J Hermann,RL Chase,2,0,,,,,,"",""
+ball,1,11.5,Sunrisers Eastern Cape,JM Bairstow,J Hermann,RL Chase,0,0,,,,,,"",""
+ball,1,11.6,Sunrisers Eastern Cape,JM Bairstow,J Hermann,RL Chase,1,0,,,,,,"",""
+ball,1,12.1,Sunrisers Eastern Cape,JM Bairstow,J Hermann,KA Maharaj,0,0,,,,,,lbw,JM Bairstow
+ball,1,12.2,Sunrisers Eastern Cape,T Stubbs,J Hermann,KA Maharaj,1,0,,,,,,"",""
+ball,1,12.3,Sunrisers Eastern Cape,J Hermann,T Stubbs,KA Maharaj,1,0,,,,,,"",""
+ball,1,12.4,Sunrisers Eastern Cape,T Stubbs,J Hermann,KA Maharaj,1,0,,,,,,"",""
+ball,1,12.5,Sunrisers Eastern Cape,J Hermann,T Stubbs,KA Maharaj,1,0,,,,,,"",""
+ball,1,12.6,Sunrisers Eastern Cape,T Stubbs,J Hermann,KA Maharaj,0,0,,,,,,"",""
+ball,1,13.1,Sunrisers Eastern Cape,J Hermann,T Stubbs,SE Rutherford,0,1,1,,,,,"",""
+ball,1,13.2,Sunrisers Eastern Cape,J Hermann,T Stubbs,SE Rutherford,1,0,,,,,,"",""
+ball,1,13.3,Sunrisers Eastern Cape,T Stubbs,J Hermann,SE Rutherford,1,0,,,,,,"",""
+ball,1,13.4,Sunrisers Eastern Cape,J Hermann,T Stubbs,SE Rutherford,1,0,,,,,,"",""
+ball,1,13.5,Sunrisers Eastern Cape,T Stubbs,J Hermann,SE Rutherford,2,0,,,,,,"",""
+ball,1,13.6,Sunrisers Eastern Cape,T Stubbs,J Hermann,SE Rutherford,1,0,,,,,,"",""
+ball,1,13.7,Sunrisers Eastern Cape,J Hermann,T Stubbs,SE Rutherford,2,0,,,,,,"",""
+ball,1,14.1,Sunrisers Eastern Cape,T Stubbs,J Hermann,B Parsons,0,0,,,,,,"",""
+ball,1,14.2,Sunrisers Eastern Cape,T Stubbs,J Hermann,B Parsons,0,0,,,,,,"",""
+ball,1,14.3,Sunrisers Eastern Cape,T Stubbs,J Hermann,B Parsons,1,0,,,,,,"",""
+ball,1,14.4,Sunrisers Eastern Cape,J Hermann,T Stubbs,B Parsons,1,0,,,,,,"",""
+ball,1,14.5,Sunrisers Eastern Cape,T Stubbs,J Hermann,B Parsons,1,0,,,,,,"",""
+ball,1,14.6,Sunrisers Eastern Cape,J Hermann,T Stubbs,B Parsons,0,0,,,,,,bowled,J Hermann
+ball,1,15.1,Sunrisers Eastern Cape,T Stubbs,M Jansen,KA Maharaj,1,0,,,,,,"",""
+ball,1,15.2,Sunrisers Eastern Cape,M Jansen,T Stubbs,KA Maharaj,1,0,,,,,,"",""
+ball,1,15.3,Sunrisers Eastern Cape,T Stubbs,M Jansen,KA Maharaj,1,0,,,,,,"",""
+ball,1,15.4,Sunrisers Eastern Cape,M Jansen,T Stubbs,KA Maharaj,0,0,,,,,,"",""
+ball,1,15.5,Sunrisers Eastern Cape,M Jansen,T Stubbs,KA Maharaj,0,0,,,,,,"",""
+ball,1,15.6,Sunrisers Eastern Cape,M Jansen,T Stubbs,KA Maharaj,0,0,,,,,,caught,M Jansen
+ball,1,16.1,Sunrisers Eastern Cape,T Stubbs,CJ Green,B Parsons,1,0,,,,,,"",""
+ball,1,16.2,Sunrisers Eastern Cape,CJ Green,T Stubbs,B Parsons,1,0,,,,,,"",""
+ball,1,16.3,Sunrisers Eastern Cape,T Stubbs,CJ Green,B Parsons,1,0,,,,,,"",""
+ball,1,16.4,Sunrisers Eastern Cape,CJ Green,T Stubbs,B Parsons,0,0,,,,,,stumped,CJ Green
+ball,1,16.5,Sunrisers Eastern Cape,MP Breetzke,T Stubbs,B Parsons,1,0,,,,,,"",""
+ball,1,16.6,Sunrisers Eastern Cape,T Stubbs,MP Breetzke,B Parsons,1,0,,,,,,"",""
+ball,1,17.1,Sunrisers Eastern Cape,T Stubbs,MP Breetzke,LB Williams,1,0,,,,,,"",""
+ball,1,17.2,Sunrisers Eastern Cape,MP Breetzke,T Stubbs,LB Williams,1,0,,,,,,"",""
+ball,1,17.3,Sunrisers Eastern Cape,T Stubbs,MP Breetzke,LB Williams,2,0,,,,,,"",""
+ball,1,17.4,Sunrisers Eastern Cape,T Stubbs,MP Breetzke,LB Williams,2,0,,,,,,"",""
+ball,1,17.5,Sunrisers Eastern Cape,T Stubbs,MP Breetzke,LB Williams,4,0,,,,,,"",""
+ball,1,17.6,Sunrisers Eastern Cape,T Stubbs,MP Breetzke,LB Williams,2,0,,,,,,"",""
+ball,1,18.1,Sunrisers Eastern Cape,MP Breetzke,T Stubbs,B Parsons,1,0,,,,,,"",""
+ball,1,18.2,Sunrisers Eastern Cape,T Stubbs,MP Breetzke,B Parsons,1,0,,,,,,"",""
+ball,1,18.3,Sunrisers Eastern Cape,MP Breetzke,T Stubbs,B Parsons,0,0,,,,,,"",""
+ball,1,18.4,Sunrisers Eastern Cape,MP Breetzke,T Stubbs,B Parsons,0,0,,,,,,"",""
+ball,1,18.5,Sunrisers Eastern Cape,MP Breetzke,T Stubbs,B Parsons,0,0,,,,,,"",""
+ball,1,18.6,Sunrisers Eastern Cape,MP Breetzke,T Stubbs,B Parsons,0,0,,,,,,lbw,MP Breetzke
+ball,1,19.1,Sunrisers Eastern Cape,T Stubbs,JM Coles,LB Williams,1,0,,,,,,"",""
+ball,1,19.2,Sunrisers Eastern Cape,JM Coles,T Stubbs,LB Williams,6,0,,,,,,"",""
+ball,1,19.3,Sunrisers Eastern Cape,JM Coles,T Stubbs,LB Williams,4,0,,,,,,"",""
+ball,1,19.4,Sunrisers Eastern Cape,JM Coles,T Stubbs,LB Williams,6,0,,,,,,"",""
+ball,1,19.5,Sunrisers Eastern Cape,JM Coles,T Stubbs,LB Williams,1,0,,,,,,run out,JM Coles
+ball,1,19.6,Sunrisers Eastern Cape,L Gregory,T Stubbs,LB Williams,2,0,,,,,,"",""
+ball,2,0.1,Pretoria Capitals,SD Hope,B Parsons,M Jansen,0,0,,,,,,"",""
+ball,2,0.2,Pretoria Capitals,SD Hope,B Parsons,M Jansen,2,0,,,,,,"",""
+ball,2,0.3,Pretoria Capitals,SD Hope,B Parsons,M Jansen,1,0,,,,,,"",""
+ball,2,0.4,Pretoria Capitals,B Parsons,SD Hope,M Jansen,1,0,,,,,,"",""
+ball,2,0.5,Pretoria Capitals,SD Hope,B Parsons,M Jansen,4,0,,,,,,"",""
+ball,2,0.6,Pretoria Capitals,SD Hope,B Parsons,M Jansen,1,0,,,,,,"",""
+ball,2,1.1,Pretoria Capitals,SD Hope,B Parsons,L Gregory,1,0,,,,,,"",""
+ball,2,1.2,Pretoria Capitals,B Parsons,SD Hope,L Gregory,0,0,,,,,,"",""
+ball,2,1.3,Pretoria Capitals,B Parsons,SD Hope,L Gregory,3,0,,,,,,"",""
+ball,2,1.4,Pretoria Capitals,SD Hope,B Parsons,L Gregory,2,0,,,,,,"",""
+ball,2,1.5,Pretoria Capitals,SD Hope,B Parsons,L Gregory,0,0,,,,,,"",""
+ball,2,1.6,Pretoria Capitals,SD Hope,B Parsons,L Gregory,0,0,,,,,,caught,SD Hope
+ball,2,2.1,Pretoria Capitals,B Parsons,C Esterhuizen,M Jansen,4,0,,,,,,"",""
+ball,2,2.2,Pretoria Capitals,B Parsons,C Esterhuizen,M Jansen,0,0,,,,,,"",""
+ball,2,2.3,Pretoria Capitals,B Parsons,C Esterhuizen,M Jansen,1,0,,,,,,"",""
+ball,2,2.4,Pretoria Capitals,C Esterhuizen,B Parsons,M Jansen,4,0,,,,,,"",""
+ball,2,2.5,Pretoria Capitals,C Esterhuizen,B Parsons,M Jansen,0,0,,,,,,"",""
+ball,2,2.6,Pretoria Capitals,C Esterhuizen,B Parsons,M Jansen,0,0,,,,,,"",""
+ball,2,3.1,Pretoria Capitals,B Parsons,C Esterhuizen,L Gregory,0,0,,,,,,"",""
+ball,2,3.2,Pretoria Capitals,B Parsons,C Esterhuizen,L Gregory,0,0,,,,,,"",""
+ball,2,3.3,Pretoria Capitals,B Parsons,C Esterhuizen,L Gregory,4,0,,,,,,"",""
+ball,2,3.4,Pretoria Capitals,B Parsons,C Esterhuizen,L Gregory,0,0,,,,,,"",""
+ball,2,3.5,Pretoria Capitals,B Parsons,C Esterhuizen,L Gregory,1,0,,,,,,"",""
+ball,2,3.6,Pretoria Capitals,C Esterhuizen,B Parsons,L Gregory,0,0,,,,,,"",""
+ball,2,4.1,Pretoria Capitals,B Parsons,C Esterhuizen,A Nortje,1,0,,,,,,"",""
+ball,2,4.2,Pretoria Capitals,C Esterhuizen,B Parsons,A Nortje,0,0,,,,,,"",""
+ball,2,4.3,Pretoria Capitals,C Esterhuizen,B Parsons,A Nortje,0,0,,,,,,"",""
+ball,2,4.4,Pretoria Capitals,C Esterhuizen,B Parsons,A Nortje,4,0,,,,,,"",""
+ball,2,4.5,Pretoria Capitals,C Esterhuizen,B Parsons,A Nortje,1,0,,,,,,"",""
+ball,2,4.6,Pretoria Capitals,B Parsons,C Esterhuizen,A Nortje,1,0,,,,,,"",""
+ball,2,5.1,Pretoria Capitals,B Parsons,C Esterhuizen,CJ Green,1,0,,,,,,"",""
+ball,2,5.2,Pretoria Capitals,C Esterhuizen,B Parsons,CJ Green,0,0,,,,,,"",""
+ball,2,5.3,Pretoria Capitals,C Esterhuizen,B Parsons,CJ Green,2,0,,,,,,"",""
+ball,2,5.4,Pretoria Capitals,C Esterhuizen,B Parsons,CJ Green,0,0,,,,,,"",""
+ball,2,5.5,Pretoria Capitals,C Esterhuizen,B Parsons,CJ Green,6,0,,,,,,"",""
+ball,2,5.6,Pretoria Capitals,C Esterhuizen,B Parsons,CJ Green,1,0,,,,,,"",""
+ball,2,6.1,Pretoria Capitals,C Esterhuizen,B Parsons,S Muthusamy,1,0,,,,,,"",""
+ball,2,6.2,Pretoria Capitals,B Parsons,C Esterhuizen,S Muthusamy,1,0,,,,,,"",""
+ball,2,6.3,Pretoria Capitals,C Esterhuizen,B Parsons,S Muthusamy,1,0,,,,,,"",""
+ball,2,6.4,Pretoria Capitals,B Parsons,C Esterhuizen,S Muthusamy,2,0,,,,,,"",""
+ball,2,6.5,Pretoria Capitals,B Parsons,C Esterhuizen,S Muthusamy,1,0,,,,,,"",""
+ball,2,6.6,Pretoria Capitals,C Esterhuizen,B Parsons,S Muthusamy,1,0,,,,,,"",""
+ball,2,7.1,Pretoria Capitals,C Esterhuizen,B Parsons,CJ Green,0,0,,,,,,"",""
+ball,2,7.2,Pretoria Capitals,C Esterhuizen,B Parsons,CJ Green,1,0,,,,,,"",""
+ball,2,7.3,Pretoria Capitals,B Parsons,C Esterhuizen,CJ Green,6,0,,,,,,"",""
+ball,2,7.4,Pretoria Capitals,B Parsons,C Esterhuizen,CJ Green,1,0,,,,,,"",""
+ball,2,7.5,Pretoria Capitals,C Esterhuizen,B Parsons,CJ Green,0,0,,,,,,bowled,C Esterhuizen
+ball,2,7.6,Pretoria Capitals,D Brevis,B Parsons,CJ Green,0,0,,,,,,"",""
+ball,2,8.1,Pretoria Capitals,B Parsons,D Brevis,S Muthusamy,1,0,,,,,,"",""
+ball,2,8.2,Pretoria Capitals,D Brevis,B Parsons,S Muthusamy,1,0,,,,,,"",""
+ball,2,8.3,Pretoria Capitals,B Parsons,D Brevis,S Muthusamy,1,0,,,,,,"",""
+ball,2,8.4,Pretoria Capitals,D Brevis,B Parsons,S Muthusamy,1,0,,,,,,"",""
+ball,2,8.5,Pretoria Capitals,B Parsons,D Brevis,S Muthusamy,1,0,,,,,,"",""
+ball,2,8.6,Pretoria Capitals,D Brevis,B Parsons,S Muthusamy,0,0,,,,,,"",""
+ball,2,9.1,Pretoria Capitals,B Parsons,D Brevis,A Nortje,1,0,,,,,,"",""
+ball,2,9.2,Pretoria Capitals,D Brevis,B Parsons,A Nortje,4,0,,,,,,"",""
+ball,2,9.3,Pretoria Capitals,D Brevis,B Parsons,A Nortje,0,0,,,,,,"",""
+ball,2,9.4,Pretoria Capitals,D Brevis,B Parsons,A Nortje,0,0,,,,,,"",""
+ball,2,9.5,Pretoria Capitals,D Brevis,B Parsons,A Nortje,0,0,,,,,,"",""
+ball,2,9.6,Pretoria Capitals,D Brevis,B Parsons,A Nortje,6,0,,,,,,"",""
+ball,2,10.1,Pretoria Capitals,B Parsons,D Brevis,S Muthusamy,2,0,,,,,,"",""
+ball,2,10.2,Pretoria Capitals,B Parsons,D Brevis,S Muthusamy,1,0,,,,,,"",""
+ball,2,10.3,Pretoria Capitals,D Brevis,B Parsons,S Muthusamy,4,0,,,,,,"",""
+ball,2,10.4,Pretoria Capitals,D Brevis,B Parsons,S Muthusamy,0,0,,,,,,"",""
+ball,2,10.5,Pretoria Capitals,D Brevis,B Parsons,S Muthusamy,0,0,,,,,,"",""
+ball,2,10.6,Pretoria Capitals,D Brevis,B Parsons,S Muthusamy,1,0,,,,,,"",""
+ball,2,11.1,Pretoria Capitals,D Brevis,B Parsons,L Gregory,6,0,,,,,,"",""
+ball,2,11.2,Pretoria Capitals,D Brevis,B Parsons,L Gregory,1,0,,,,,,"",""
+ball,2,11.3,Pretoria Capitals,B Parsons,D Brevis,L Gregory,1,0,,,,,,"",""
+ball,2,11.4,Pretoria Capitals,D Brevis,B Parsons,L Gregory,2,0,,,,,,"",""
+ball,2,11.5,Pretoria Capitals,D Brevis,B Parsons,L Gregory,1,0,,,,,,"",""
+ball,2,11.6,Pretoria Capitals,B Parsons,D Brevis,L Gregory,1,0,,,,,,"",""
+ball,2,12.1,Pretoria Capitals,B Parsons,D Brevis,S Muthusamy,1,0,,,,,,"",""
+ball,2,12.2,Pretoria Capitals,D Brevis,B Parsons,S Muthusamy,2,0,,,,,,"",""
+ball,2,12.3,Pretoria Capitals,D Brevis,B Parsons,S Muthusamy,1,0,,,,,,"",""
+ball,2,12.4,Pretoria Capitals,B Parsons,D Brevis,S Muthusamy,1,0,,,,,,"",""
+ball,2,12.5,Pretoria Capitals,D Brevis,B Parsons,S Muthusamy,6,0,,,,,,"",""
+ball,2,12.6,Pretoria Capitals,D Brevis,B Parsons,S Muthusamy,0,0,,,,,,"",""
+ball,2,13.1,Pretoria Capitals,B Parsons,D Brevis,A Nortje,1,0,,,,,,"",""
+ball,2,13.2,Pretoria Capitals,D Brevis,B Parsons,A Nortje,1,0,,,,,,"",""
+ball,2,13.3,Pretoria Capitals,B Parsons,D Brevis,A Nortje,2,0,,,,,,"",""
+ball,2,13.4,Pretoria Capitals,B Parsons,D Brevis,A Nortje,4,0,,,,,,"",""
+ball,2,13.5,Pretoria Capitals,B Parsons,D Brevis,A Nortje,1,0,,,,,,"",""
+ball,2,13.6,Pretoria Capitals,D Brevis,B Parsons,A Nortje,0,0,,,,,,"",""
+ball,2,14.1,Pretoria Capitals,B Parsons,D Brevis,M Jansen,0,0,,,,,,"",""
+ball,2,14.2,Pretoria Capitals,B Parsons,D Brevis,M Jansen,0,0,,,,,,"",""
+ball,2,14.3,Pretoria Capitals,B Parsons,D Brevis,M Jansen,1,0,,,,,,"",""
+ball,2,14.4,Pretoria Capitals,D Brevis,B Parsons,M Jansen,4,0,,,,,,"",""
+ball,2,14.5,Pretoria Capitals,D Brevis,B Parsons,M Jansen,1,0,,,,,,"",""
+ball,2,14.6,Pretoria Capitals,B Parsons,D Brevis,M Jansen,0,0,,,,,,"",""
+ball,2,15.1,Pretoria Capitals,D Brevis,B Parsons,CJ Green,1,0,,,,,,"",""
+ball,2,15.2,Pretoria Capitals,B Parsons,D Brevis,CJ Green,1,0,,,,,,"",""
+ball,2,15.3,Pretoria Capitals,D Brevis,B Parsons,CJ Green,1,0,,,,,,"",""
+ball,2,15.4,Pretoria Capitals,B Parsons,D Brevis,CJ Green,0,0,,,,,,"",""
+ball,2,15.5,Pretoria Capitals,B Parsons,D Brevis,CJ Green,4,0,,,,,,"",""
+ball,2,15.6,Pretoria Capitals,B Parsons,D Brevis,CJ Green,6,0,,,,,,"",""
+ball,2,16.1,Pretoria Capitals,D Brevis,B Parsons,M Jansen,0,0,,,,,,"",""
+ball,2,16.2,Pretoria Capitals,D Brevis,B Parsons,M Jansen,1,0,,,,,,"",""
+ball,2,16.3,Pretoria Capitals,B Parsons,D Brevis,M Jansen,0,2,,,,2,,"",""
+ball,2,16.4,Pretoria Capitals,B Parsons,D Brevis,M Jansen,1,0,,,,,,"",""
+ball,2,16.5,Pretoria Capitals,D Brevis,B Parsons,M Jansen,6,0,,,,,,"",""
+ball,2,16.6,Pretoria Capitals,D Brevis,B Parsons,M Jansen,1,0,,,,,,"",""
+ball,2,17.1,Pretoria Capitals,D Brevis,B Parsons,A Nortje,4,0,,,,,,"",""
+ball,2,17.2,Pretoria Capitals,D Brevis,B Parsons,A Nortje,0,0,,,,,,"",""
+ball,2,17.3,Pretoria Capitals,D Brevis,B Parsons,A Nortje,0,0,,,,,,"",""
+ball,2,17.4,Pretoria Capitals,D Brevis,B Parsons,A Nortje,1,0,,,,,,"",""
+ball,2,17.5,Pretoria Capitals,B Parsons,D Brevis,A Nortje,0,0,,,,,,bowled,B Parsons
+ball,2,17.6,Pretoria Capitals,SE Rutherford,D Brevis,A Nortje,0,1,1,,,,,"",""
+ball,2,17.7,Pretoria Capitals,SE Rutherford,D Brevis,A Nortje,0,0,,,,,,"",""
+ball,2,18.1,Pretoria Capitals,D Brevis,SE Rutherford,L Gregory,6,0,,,,,,"",""
+ball,2,18.2,Pretoria Capitals,D Brevis,SE Rutherford,L Gregory,0,1,1,,,,,"",""
+ball,2,18.3,Pretoria Capitals,D Brevis,SE Rutherford,L Gregory,6,0,,,,,,"",""
+ball,2,18.4,Pretoria Capitals,D Brevis,SE Rutherford,L Gregory,6,0,,,,,,"",""

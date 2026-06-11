@@ -1,0 +1,278 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Adelaide Strikers
+info,team,Melbourne Stars
+info,gender,male
+info,season,2022/23
+info,date,2023/01/12
+info,event,Big Bash League
+info,match_number,38
+info,venue,Melbourne Cricket Ground
+info,city,Melbourne
+info,toss_winner,Melbourne Stars
+info,toss_decision,field
+info,player_of_match,LC Hatcher
+info,umpire,D Taylor
+info,umpire,DM Koch
+info,reserve_umpire,D Brigham
+info,tv_umpire,BC Treloar
+info,match_referee,RL Parry
+info,winner,Melbourne Stars
+info,winner_wickets,9
+info,player,Adelaide Strikers,MW Short
+info,player,Adelaide Strikers,RJ Gibson
+info,player,Adelaide Strikers,CA Lynn
+info,player,Adelaide Strikers,AJ Hose
+info,player,Adelaide Strikers,T Kelly
+info,player,Adelaide Strikers,HJ Nielsen
+info,player,Adelaide Strikers,BAD Manenti
+info,player,Adelaide Strikers,CJ Boyce
+info,player,Adelaide Strikers,WA Agar
+info,player,Adelaide Strikers,HTRY Thornton
+info,player,Adelaide Strikers,PM Siddle
+info,player,Melbourne Stars,JM Clarke
+info,player,Melbourne Stars,TF Rogers
+info,player,Melbourne Stars,HWR Cartwright
+info,player,Melbourne Stars,BJ Webster
+info,player,Melbourne Stars,NCR Larkin
+info,player,Melbourne Stars,J Seymour
+info,player,Melbourne Stars,CD Hinchliffe
+info,player,Melbourne Stars,NM Coulter-Nile
+info,player,Melbourne Stars,L Wood
+info,player,Melbourne Stars,LC Hatcher
+info,player,Melbourne Stars,A Zampa
+info,registry,people,A Zampa,14f96089
+info,registry,people,AJ Hose,104e88a4
+info,registry,people,BAD Manenti,ab21795b
+info,registry,people,BC Treloar,f7e8ee52
+info,registry,people,BJ Webster,56b93d46
+info,registry,people,CA Lynn,45eda7c8
+info,registry,people,CD Hinchliffe,8891669e
+info,registry,people,CJ Boyce,51a60c16
+info,registry,people,D Brigham,464daf41
+info,registry,people,D Taylor,b940a2b2
+info,registry,people,DM Koch,6d10c034
+info,registry,people,HJ Nielsen,0ea1455a
+info,registry,people,HTRY Thornton,055be93a
+info,registry,people,HWR Cartwright,ab965cad
+info,registry,people,J Seymour,cb54a1d6
+info,registry,people,JM Clarke,2eca67f5
+info,registry,people,L Wood,65b6943c
+info,registry,people,LC Hatcher,8f3fde65
+info,registry,people,MW Short,a90e53ec
+info,registry,people,NCR Larkin,02bce9a8
+info,registry,people,NM Coulter-Nile,56ab442f
+info,registry,people,PM Siddle,bd93fea4
+info,registry,people,RJ Gibson,50636767
+info,registry,people,RL Parry,86d151dc
+info,registry,people,T Kelly,6ceb94d0
+info,registry,people,TF Rogers,7f232d46
+info,registry,people,WA Agar,15de1f5d
+ball,1,0.1,Adelaide Strikers,MW Short,RJ Gibson,L Wood,6,0,,,,,,"",""
+ball,1,0.2,Adelaide Strikers,MW Short,RJ Gibson,L Wood,0,0,,,,,,"",""
+ball,1,0.3,Adelaide Strikers,MW Short,RJ Gibson,L Wood,6,0,,,,,,"",""
+ball,1,0.4,Adelaide Strikers,MW Short,RJ Gibson,L Wood,0,0,,,,,,"",""
+ball,1,0.5,Adelaide Strikers,MW Short,RJ Gibson,L Wood,4,0,,,,,,"",""
+ball,1,0.6,Adelaide Strikers,MW Short,RJ Gibson,L Wood,4,0,,,,,,"",""
+ball,1,1.1,Adelaide Strikers,RJ Gibson,MW Short,LC Hatcher,0,0,,,,,,"",""
+ball,1,1.2,Adelaide Strikers,RJ Gibson,MW Short,LC Hatcher,1,0,,,,,,"",""
+ball,1,1.3,Adelaide Strikers,MW Short,RJ Gibson,LC Hatcher,0,1,1,,,,,"",""
+ball,1,1.4,Adelaide Strikers,MW Short,RJ Gibson,LC Hatcher,0,1,1,,,,,"",""
+ball,1,1.5,Adelaide Strikers,MW Short,RJ Gibson,LC Hatcher,0,0,,,,,,"",""
+ball,1,1.6,Adelaide Strikers,MW Short,RJ Gibson,LC Hatcher,0,0,,,,,,"",""
+ball,1,1.7,Adelaide Strikers,MW Short,RJ Gibson,LC Hatcher,0,0,,,,,,caught,MW Short
+ball,1,1.8,Adelaide Strikers,CA Lynn,RJ Gibson,LC Hatcher,0,0,,,,,,"",""
+ball,1,2.1,Adelaide Strikers,RJ Gibson,CA Lynn,A Zampa,0,0,,,,,,"",""
+ball,1,2.2,Adelaide Strikers,RJ Gibson,CA Lynn,A Zampa,0,0,,,,,,"",""
+ball,1,2.3,Adelaide Strikers,RJ Gibson,CA Lynn,A Zampa,0,0,,,,,,"",""
+ball,1,2.4,Adelaide Strikers,RJ Gibson,CA Lynn,A Zampa,0,1,,,,1,,"",""
+ball,1,2.5,Adelaide Strikers,CA Lynn,RJ Gibson,A Zampa,0,0,,,,,,"",""
+ball,1,2.6,Adelaide Strikers,CA Lynn,RJ Gibson,A Zampa,1,0,,,,,,"",""
+ball,1,3.1,Adelaide Strikers,CA Lynn,RJ Gibson,LC Hatcher,0,0,,,,,,caught,CA Lynn
+ball,1,3.2,Adelaide Strikers,AJ Hose,RJ Gibson,LC Hatcher,1,0,,,,,,"",""
+ball,1,3.3,Adelaide Strikers,RJ Gibson,AJ Hose,LC Hatcher,1,0,,,,,,"",""
+ball,1,3.4,Adelaide Strikers,AJ Hose,RJ Gibson,LC Hatcher,1,0,,,,,,"",""
+ball,1,3.5,Adelaide Strikers,RJ Gibson,AJ Hose,LC Hatcher,0,0,,,,,,"",""
+ball,1,3.6,Adelaide Strikers,RJ Gibson,AJ Hose,LC Hatcher,0,1,1,,,,,"",""
+ball,1,3.7,Adelaide Strikers,RJ Gibson,AJ Hose,LC Hatcher,1,0,,,,,,"",""
+ball,1,4.1,Adelaide Strikers,RJ Gibson,AJ Hose,NM Coulter-Nile,1,0,,,,,,"",""
+ball,1,4.2,Adelaide Strikers,AJ Hose,RJ Gibson,NM Coulter-Nile,1,0,,,,,,"",""
+ball,1,4.3,Adelaide Strikers,RJ Gibson,AJ Hose,NM Coulter-Nile,4,0,,,,,,"",""
+ball,1,4.4,Adelaide Strikers,RJ Gibson,AJ Hose,NM Coulter-Nile,0,0,,,,,,"",""
+ball,1,4.5,Adelaide Strikers,RJ Gibson,AJ Hose,NM Coulter-Nile,0,0,,,,,,"",""
+ball,1,4.6,Adelaide Strikers,RJ Gibson,AJ Hose,NM Coulter-Nile,0,0,,,,,,"",""
+ball,1,5.1,Adelaide Strikers,AJ Hose,RJ Gibson,CD Hinchliffe,1,0,,,,,,"",""
+ball,1,5.2,Adelaide Strikers,RJ Gibson,AJ Hose,CD Hinchliffe,1,0,,,,,,"",""
+ball,1,5.3,Adelaide Strikers,AJ Hose,RJ Gibson,CD Hinchliffe,1,0,,,,,,"",""
+ball,1,5.4,Adelaide Strikers,RJ Gibson,AJ Hose,CD Hinchliffe,0,0,,,,,,"",""
+ball,1,5.5,Adelaide Strikers,RJ Gibson,AJ Hose,CD Hinchliffe,1,0,,,,,,"",""
+ball,1,5.6,Adelaide Strikers,AJ Hose,RJ Gibson,CD Hinchliffe,0,0,,,,,,"",""
+ball,1,6.1,Adelaide Strikers,RJ Gibson,AJ Hose,A Zampa,0,0,,,,,,bowled,RJ Gibson
+ball,1,6.2,Adelaide Strikers,T Kelly,AJ Hose,A Zampa,0,0,,,,,,"",""
+ball,1,6.3,Adelaide Strikers,T Kelly,AJ Hose,A Zampa,1,0,,,,,,"",""
+ball,1,6.4,Adelaide Strikers,AJ Hose,T Kelly,A Zampa,1,0,,,,,,"",""
+ball,1,6.5,Adelaide Strikers,T Kelly,AJ Hose,A Zampa,1,0,,,,,,"",""
+ball,1,6.6,Adelaide Strikers,AJ Hose,T Kelly,A Zampa,2,0,,,,,,"",""
+ball,1,7.1,Adelaide Strikers,T Kelly,AJ Hose,CD Hinchliffe,0,0,,,,,,"",""
+ball,1,7.2,Adelaide Strikers,T Kelly,AJ Hose,CD Hinchliffe,2,0,,,,,,"",""
+ball,1,7.3,Adelaide Strikers,T Kelly,AJ Hose,CD Hinchliffe,0,0,,,,,,"",""
+ball,1,7.4,Adelaide Strikers,T Kelly,AJ Hose,CD Hinchliffe,0,0,,,,,,"",""
+ball,1,7.5,Adelaide Strikers,T Kelly,AJ Hose,CD Hinchliffe,1,0,,,,,,"",""
+ball,1,7.6,Adelaide Strikers,AJ Hose,T Kelly,CD Hinchliffe,4,0,,,,,,"",""
+ball,1,8.1,Adelaide Strikers,T Kelly,AJ Hose,NM Coulter-Nile,1,0,,,,,,"",""
+ball,1,8.2,Adelaide Strikers,AJ Hose,T Kelly,NM Coulter-Nile,0,0,,,,,,"",""
+ball,1,8.3,Adelaide Strikers,AJ Hose,T Kelly,NM Coulter-Nile,2,0,,,,,,"",""
+ball,1,8.4,Adelaide Strikers,AJ Hose,T Kelly,NM Coulter-Nile,1,0,,,,,,"",""
+ball,1,8.5,Adelaide Strikers,T Kelly,AJ Hose,NM Coulter-Nile,0,0,,,,,,caught,T Kelly
+ball,1,8.6,Adelaide Strikers,HJ Nielsen,AJ Hose,NM Coulter-Nile,1,0,,,,,,"",""
+ball,1,9.1,Adelaide Strikers,HJ Nielsen,AJ Hose,L Wood,0,0,,,,,,"",""
+ball,1,9.2,Adelaide Strikers,HJ Nielsen,AJ Hose,L Wood,4,0,,,,,,"",""
+ball,1,9.3,Adelaide Strikers,HJ Nielsen,AJ Hose,L Wood,0,0,,,,,,"",""
+ball,1,9.4,Adelaide Strikers,HJ Nielsen,AJ Hose,L Wood,0,0,,,,,,"",""
+ball,1,9.5,Adelaide Strikers,HJ Nielsen,AJ Hose,L Wood,0,0,,,,,,"",""
+ball,1,9.6,Adelaide Strikers,HJ Nielsen,AJ Hose,L Wood,0,0,,,,,,"",""
+ball,1,10.1,Adelaide Strikers,AJ Hose,HJ Nielsen,NM Coulter-Nile,0,0,,,,,,"",""
+ball,1,10.2,Adelaide Strikers,AJ Hose,HJ Nielsen,NM Coulter-Nile,1,0,,,,,,"",""
+ball,1,10.3,Adelaide Strikers,HJ Nielsen,AJ Hose,NM Coulter-Nile,1,0,,,,,,"",""
+ball,1,10.4,Adelaide Strikers,AJ Hose,HJ Nielsen,NM Coulter-Nile,1,0,,,,,,"",""
+ball,1,10.5,Adelaide Strikers,HJ Nielsen,AJ Hose,NM Coulter-Nile,0,1,,,,1,,"",""
+ball,1,10.6,Adelaide Strikers,AJ Hose,HJ Nielsen,NM Coulter-Nile,1,0,,,,,,"",""
+ball,1,11.1,Adelaide Strikers,AJ Hose,HJ Nielsen,BJ Webster,1,0,,,,,,"",""
+ball,1,11.2,Adelaide Strikers,HJ Nielsen,AJ Hose,BJ Webster,0,0,,,,,,"",""
+ball,1,11.3,Adelaide Strikers,HJ Nielsen,AJ Hose,BJ Webster,0,0,,,,,,"",""
+ball,1,11.4,Adelaide Strikers,HJ Nielsen,AJ Hose,BJ Webster,2,0,,,,,,"",""
+ball,1,11.5,Adelaide Strikers,HJ Nielsen,AJ Hose,BJ Webster,0,0,,,,,,"",""
+ball,1,11.6,Adelaide Strikers,HJ Nielsen,AJ Hose,BJ Webster,0,0,,,,,,"",""
+ball,1,12.1,Adelaide Strikers,AJ Hose,HJ Nielsen,A Zampa,1,0,,,,,,"",""
+ball,1,12.2,Adelaide Strikers,HJ Nielsen,AJ Hose,A Zampa,2,0,,,,,,"",""
+ball,1,12.3,Adelaide Strikers,HJ Nielsen,AJ Hose,A Zampa,1,0,,,,,,"",""
+ball,1,12.4,Adelaide Strikers,AJ Hose,HJ Nielsen,A Zampa,0,0,,,,,,"",""
+ball,1,12.5,Adelaide Strikers,AJ Hose,HJ Nielsen,A Zampa,0,0,,,,,,"",""
+ball,1,12.6,Adelaide Strikers,AJ Hose,HJ Nielsen,A Zampa,0,0,,,,,,"",""
+ball,1,13.1,Adelaide Strikers,HJ Nielsen,AJ Hose,L Wood,0,0,,,,,,"",""
+ball,1,13.2,Adelaide Strikers,HJ Nielsen,AJ Hose,L Wood,0,0,,,,,,"",""
+ball,1,13.3,Adelaide Strikers,HJ Nielsen,AJ Hose,L Wood,1,0,,,,,,"",""
+ball,1,13.4,Adelaide Strikers,AJ Hose,HJ Nielsen,L Wood,1,0,,,,,,"",""
+ball,1,13.5,Adelaide Strikers,HJ Nielsen,AJ Hose,L Wood,4,0,,,,,,"",""
+ball,1,13.6,Adelaide Strikers,HJ Nielsen,AJ Hose,L Wood,3,0,,,,,,"",""
+ball,1,14.1,Adelaide Strikers,HJ Nielsen,AJ Hose,NM Coulter-Nile,1,0,,,,,,"",""
+ball,1,14.2,Adelaide Strikers,AJ Hose,HJ Nielsen,NM Coulter-Nile,0,0,,,,,,"",""
+ball,1,14.3,Adelaide Strikers,AJ Hose,HJ Nielsen,NM Coulter-Nile,0,1,,,1,,,"",""
+ball,1,14.4,Adelaide Strikers,HJ Nielsen,AJ Hose,NM Coulter-Nile,1,0,,,,,,"",""
+ball,1,14.5,Adelaide Strikers,AJ Hose,HJ Nielsen,NM Coulter-Nile,0,0,,,,,,caught,AJ Hose
+ball,1,14.6,Adelaide Strikers,BAD Manenti,HJ Nielsen,NM Coulter-Nile,0,0,,,,,,caught,BAD Manenti
+ball,1,15.1,Adelaide Strikers,HJ Nielsen,CJ Boyce,LC Hatcher,0,0,,,,,,"",""
+ball,1,15.2,Adelaide Strikers,HJ Nielsen,CJ Boyce,LC Hatcher,0,0,,,,,,"",""
+ball,1,15.3,Adelaide Strikers,HJ Nielsen,CJ Boyce,LC Hatcher,2,0,,,,,,"",""
+ball,1,15.4,Adelaide Strikers,HJ Nielsen,CJ Boyce,LC Hatcher,2,0,,,,,,"",""
+ball,1,15.5,Adelaide Strikers,HJ Nielsen,CJ Boyce,LC Hatcher,4,0,,,,,,"",""
+ball,1,15.6,Adelaide Strikers,HJ Nielsen,CJ Boyce,LC Hatcher,1,0,,,,,,"",""
+ball,1,16.1,Adelaide Strikers,HJ Nielsen,CJ Boyce,A Zampa,2,0,,,,,,"",""
+ball,1,16.2,Adelaide Strikers,HJ Nielsen,CJ Boyce,A Zampa,4,0,,,,,,"",""
+ball,1,16.3,Adelaide Strikers,HJ Nielsen,CJ Boyce,A Zampa,4,0,,,,,,"",""
+ball,1,16.4,Adelaide Strikers,HJ Nielsen,CJ Boyce,A Zampa,0,0,,,,,,bowled,HJ Nielsen
+ball,1,16.5,Adelaide Strikers,WA Agar,CJ Boyce,A Zampa,0,0,,,,,,"",""
+ball,1,16.6,Adelaide Strikers,WA Agar,CJ Boyce,A Zampa,0,0,,,,,,"",""
+ball,1,17.1,Adelaide Strikers,CJ Boyce,WA Agar,CD Hinchliffe,1,0,,,,,,"",""
+ball,1,17.2,Adelaide Strikers,WA Agar,CJ Boyce,CD Hinchliffe,0,0,,,,,,caught,WA Agar
+ball,1,17.3,Adelaide Strikers,HTRY Thornton,CJ Boyce,CD Hinchliffe,0,0,,,,,,"",""
+ball,1,17.4,Adelaide Strikers,HTRY Thornton,CJ Boyce,CD Hinchliffe,1,0,,,,,,"",""
+ball,1,17.5,Adelaide Strikers,CJ Boyce,HTRY Thornton,CD Hinchliffe,0,0,,,,,,"",""
+ball,1,17.6,Adelaide Strikers,CJ Boyce,HTRY Thornton,CD Hinchliffe,1,0,,,,,,"",""
+ball,1,18.1,Adelaide Strikers,CJ Boyce,HTRY Thornton,LC Hatcher,0,0,,,,,,"",""
+ball,1,18.2,Adelaide Strikers,CJ Boyce,HTRY Thornton,LC Hatcher,0,0,,,,,,"",""
+ball,1,18.3,Adelaide Strikers,CJ Boyce,HTRY Thornton,LC Hatcher,0,0,,,,,,"",""
+ball,1,18.4,Adelaide Strikers,CJ Boyce,HTRY Thornton,LC Hatcher,1,0,,,,,,"",""
+ball,1,18.5,Adelaide Strikers,HTRY Thornton,CJ Boyce,LC Hatcher,0,0,,,,,,"",""
+ball,1,18.6,Adelaide Strikers,HTRY Thornton,CJ Boyce,LC Hatcher,0,0,,,,,,"",""
+ball,1,19.1,Adelaide Strikers,CJ Boyce,HTRY Thornton,L Wood,0,0,,,,,,caught,CJ Boyce
+ball,1,19.2,Adelaide Strikers,PM Siddle,HTRY Thornton,L Wood,0,0,,,,,,run out,PM Siddle
+ball,2,0.1,Melbourne Stars,JM Clarke,TF Rogers,MW Short,1,0,,,,,,"",""
+ball,2,0.2,Melbourne Stars,TF Rogers,JM Clarke,MW Short,3,0,,,,,,"",""
+ball,2,0.3,Melbourne Stars,JM Clarke,TF Rogers,MW Short,1,0,,,,,,"",""
+ball,2,0.4,Melbourne Stars,TF Rogers,JM Clarke,MW Short,0,0,,,,,,"",""
+ball,2,0.5,Melbourne Stars,TF Rogers,JM Clarke,MW Short,0,0,,,,,,"",""
+ball,2,0.6,Melbourne Stars,TF Rogers,JM Clarke,MW Short,1,0,,,,,,"",""
+ball,2,1.1,Melbourne Stars,TF Rogers,JM Clarke,HTRY Thornton,0,0,,,,,,"",""
+ball,2,1.2,Melbourne Stars,TF Rogers,JM Clarke,HTRY Thornton,0,5,5,,,,,"",""
+ball,2,1.3,Melbourne Stars,TF Rogers,JM Clarke,HTRY Thornton,2,0,,,,,,"",""
+ball,2,1.4,Melbourne Stars,TF Rogers,JM Clarke,HTRY Thornton,0,0,,,,,,"",""
+ball,2,1.5,Melbourne Stars,TF Rogers,JM Clarke,HTRY Thornton,4,0,,,,,,"",""
+ball,2,1.6,Melbourne Stars,TF Rogers,JM Clarke,HTRY Thornton,0,0,,,,,,"",""
+ball,2,1.7,Melbourne Stars,TF Rogers,JM Clarke,HTRY Thornton,0,0,,,,,,"",""
+ball,2,2.1,Melbourne Stars,JM Clarke,TF Rogers,WA Agar,0,0,,,,,,"",""
+ball,2,2.2,Melbourne Stars,JM Clarke,TF Rogers,WA Agar,6,0,,,,,,"",""
+ball,2,2.3,Melbourne Stars,JM Clarke,TF Rogers,WA Agar,4,0,,,,,,"",""
+ball,2,2.4,Melbourne Stars,JM Clarke,TF Rogers,WA Agar,0,0,,,,,,"",""
+ball,2,2.5,Melbourne Stars,JM Clarke,TF Rogers,WA Agar,4,0,,,,,,"",""
+ball,2,2.6,Melbourne Stars,JM Clarke,TF Rogers,WA Agar,0,0,,,,,,"",""
+ball,2,3.1,Melbourne Stars,TF Rogers,JM Clarke,PM Siddle,0,0,,,,,,"",""
+ball,2,3.2,Melbourne Stars,TF Rogers,JM Clarke,PM Siddle,1,0,,,,,,"",""
+ball,2,3.3,Melbourne Stars,JM Clarke,TF Rogers,PM Siddle,2,0,,,,,,"",""
+ball,2,3.4,Melbourne Stars,JM Clarke,TF Rogers,PM Siddle,6,0,,,,,,"",""
+ball,2,3.5,Melbourne Stars,JM Clarke,TF Rogers,PM Siddle,0,0,,,,,,"",""
+ball,2,3.6,Melbourne Stars,JM Clarke,TF Rogers,PM Siddle,0,0,,,,,,"",""
+ball,2,4.1,Melbourne Stars,TF Rogers,JM Clarke,MW Short,1,0,,,,,,"",""
+ball,2,4.2,Melbourne Stars,JM Clarke,TF Rogers,MW Short,1,0,,,,,,"",""
+ball,2,4.3,Melbourne Stars,TF Rogers,JM Clarke,MW Short,1,0,,,,,,"",""
+ball,2,4.4,Melbourne Stars,JM Clarke,TF Rogers,MW Short,1,0,,,,,,"",""
+ball,2,4.5,Melbourne Stars,TF Rogers,JM Clarke,MW Short,0,2,2,,,,,"",""
+ball,2,4.6,Melbourne Stars,JM Clarke,TF Rogers,MW Short,1,0,,,,,,"",""
+ball,2,4.7,Melbourne Stars,TF Rogers,JM Clarke,MW Short,1,0,,,,,,"",""
+ball,2,5.1,Melbourne Stars,TF Rogers,JM Clarke,CJ Boyce,1,0,,,,,,"",""
+ball,2,5.2,Melbourne Stars,JM Clarke,TF Rogers,CJ Boyce,1,0,,,,,,"",""
+ball,2,5.3,Melbourne Stars,TF Rogers,JM Clarke,CJ Boyce,1,0,,,,,,"",""
+ball,2,5.4,Melbourne Stars,JM Clarke,TF Rogers,CJ Boyce,1,0,,,,,,"",""
+ball,2,5.5,Melbourne Stars,TF Rogers,JM Clarke,CJ Boyce,2,0,,,,,,"",""
+ball,2,5.6,Melbourne Stars,TF Rogers,JM Clarke,CJ Boyce,1,0,,,,,,"",""
+ball,2,6.1,Melbourne Stars,TF Rogers,JM Clarke,HTRY Thornton,1,0,,,,,,"",""
+ball,2,6.2,Melbourne Stars,JM Clarke,TF Rogers,HTRY Thornton,1,0,,,,,,"",""
+ball,2,6.3,Melbourne Stars,TF Rogers,JM Clarke,HTRY Thornton,0,0,,,,,,"",""
+ball,2,6.4,Melbourne Stars,TF Rogers,JM Clarke,HTRY Thornton,1,0,,,,,,"",""
+ball,2,6.5,Melbourne Stars,JM Clarke,TF Rogers,HTRY Thornton,0,0,,,,,,"",""
+ball,2,6.6,Melbourne Stars,JM Clarke,TF Rogers,HTRY Thornton,2,0,,,,,,"",""
+ball,2,7.1,Melbourne Stars,TF Rogers,JM Clarke,CJ Boyce,1,0,,,,,,"",""
+ball,2,7.2,Melbourne Stars,JM Clarke,TF Rogers,CJ Boyce,0,0,,,,,,"",""
+ball,2,7.3,Melbourne Stars,JM Clarke,TF Rogers,CJ Boyce,1,0,,,,,,"",""
+ball,2,7.4,Melbourne Stars,TF Rogers,JM Clarke,CJ Boyce,6,0,,,,,,"",""
+ball,2,7.5,Melbourne Stars,TF Rogers,JM Clarke,CJ Boyce,4,0,,,,,,"",""
+ball,2,7.6,Melbourne Stars,TF Rogers,JM Clarke,CJ Boyce,0,0,,,,,,"",""
+ball,2,8.1,Melbourne Stars,JM Clarke,TF Rogers,BAD Manenti,1,0,,,,,,"",""
+ball,2,8.2,Melbourne Stars,TF Rogers,JM Clarke,BAD Manenti,1,0,,,,,,"",""
+ball,2,8.3,Melbourne Stars,JM Clarke,TF Rogers,BAD Manenti,0,0,,,,,,"",""
+ball,2,8.4,Melbourne Stars,JM Clarke,TF Rogers,BAD Manenti,1,0,,,,,,"",""
+ball,2,8.5,Melbourne Stars,TF Rogers,JM Clarke,BAD Manenti,1,0,,,,,,"",""
+ball,2,8.6,Melbourne Stars,JM Clarke,TF Rogers,BAD Manenti,0,0,,,,,,"",""
+ball,2,9.1,Melbourne Stars,TF Rogers,JM Clarke,PM Siddle,1,0,,,,,,"",""
+ball,2,9.2,Melbourne Stars,JM Clarke,TF Rogers,PM Siddle,0,0,,,,,,"",""
+ball,2,9.3,Melbourne Stars,JM Clarke,TF Rogers,PM Siddle,0,0,,,,,,run out,JM Clarke
+ball,2,9.4,Melbourne Stars,TF Rogers,HWR Cartwright,PM Siddle,1,0,,,,,,"",""
+ball,2,9.5,Melbourne Stars,HWR Cartwright,TF Rogers,PM Siddle,1,0,,,,,,"",""
+ball,2,9.6,Melbourne Stars,TF Rogers,HWR Cartwright,PM Siddle,1,0,,,,,,"",""
+ball,2,10.1,Melbourne Stars,TF Rogers,HWR Cartwright,BAD Manenti,0,0,,,,,,"",""
+ball,2,10.2,Melbourne Stars,TF Rogers,HWR Cartwright,BAD Manenti,1,0,,,,,,"",""
+ball,2,10.3,Melbourne Stars,HWR Cartwright,TF Rogers,BAD Manenti,0,0,,,,,,"",""
+ball,2,10.4,Melbourne Stars,HWR Cartwright,TF Rogers,BAD Manenti,1,0,,,,,,"",""
+ball,2,10.5,Melbourne Stars,TF Rogers,HWR Cartwright,BAD Manenti,1,0,,,,,,"",""
+ball,2,10.6,Melbourne Stars,HWR Cartwright,TF Rogers,BAD Manenti,4,0,,,,,,"",""
+ball,2,11.1,Melbourne Stars,TF Rogers,HWR Cartwright,WA Agar,2,0,,,,,,"",""
+ball,2,11.2,Melbourne Stars,TF Rogers,HWR Cartwright,WA Agar,0,0,,,,,,"",""
+ball,2,11.3,Melbourne Stars,TF Rogers,HWR Cartwright,WA Agar,0,0,,,,,,"",""
+ball,2,11.4,Melbourne Stars,TF Rogers,HWR Cartwright,WA Agar,1,0,,,,,,"",""
+ball,2,11.5,Melbourne Stars,HWR Cartwright,TF Rogers,WA Agar,0,0,,,,,,"",""
+ball,2,11.6,Melbourne Stars,HWR Cartwright,TF Rogers,WA Agar,0,0,,,,,,"",""
+ball,2,12.1,Melbourne Stars,TF Rogers,HWR Cartwright,CJ Boyce,1,0,,,,,,"",""
+ball,2,12.2,Melbourne Stars,HWR Cartwright,TF Rogers,CJ Boyce,0,0,,,,,,"",""
+ball,2,12.3,Melbourne Stars,HWR Cartwright,TF Rogers,CJ Boyce,1,0,,,,,,"",""
+ball,2,12.4,Melbourne Stars,TF Rogers,HWR Cartwright,CJ Boyce,1,0,,,,,,"",""
+ball,2,12.5,Melbourne Stars,HWR Cartwright,TF Rogers,CJ Boyce,1,0,,,,,,"",""
+ball,2,12.6,Melbourne Stars,TF Rogers,HWR Cartwright,CJ Boyce,1,0,,,,,,"",""
+ball,2,13.1,Melbourne Stars,TF Rogers,HWR Cartwright,HTRY Thornton,0,0,,,,,,"",""
+ball,2,13.2,Melbourne Stars,TF Rogers,HWR Cartwright,HTRY Thornton,4,0,,,,,,"",""
+ball,2,13.3,Melbourne Stars,TF Rogers,HWR Cartwright,HTRY Thornton,1,0,,,,,,"",""
+ball,2,13.4,Melbourne Stars,HWR Cartwright,TF Rogers,HTRY Thornton,0,0,,,,,,"",""
+ball,2,13.5,Melbourne Stars,HWR Cartwright,TF Rogers,HTRY Thornton,4,0,,,,,,"",""
+ball,2,13.6,Melbourne Stars,HWR Cartwright,TF Rogers,HTRY Thornton,0,0,,,,,,"",""
+ball,2,14.1,Melbourne Stars,TF Rogers,HWR Cartwright,BAD Manenti,1,0,,,,,,"",""
+ball,2,14.2,Melbourne Stars,HWR Cartwright,TF Rogers,BAD Manenti,0,0,,,,,,"",""
+ball,2,14.3,Melbourne Stars,HWR Cartwright,TF Rogers,BAD Manenti,4,0,,,,,,"",""

@@ -1,0 +1,296 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Suriname
+info,team,Argentina
+info,gender,male
+info,season,2025/26
+info,date,2026/03/12
+info,event,ICC Men's T20 World Cup Sub Regional Americas Qualifier B
+info,match_number,8
+info,venue,"Jimmy Powell Oval, Cayman Islands"
+info,city,George Town
+info,toss_winner,Suriname
+info,toss_decision,bat
+info,player_of_match,Lucas Rossi
+info,umpire,Jermaine Lindo
+info,umpire,R Shah
+info,reserve_umpire,A Gajjar
+info,match_referee,Denavon Hayles
+info,winner,Argentina
+info,winner_wickets,7
+info,player,Suriname,V Hirlal
+info,player,Suriname,K Jaikaran
+info,player,Suriname,AK Gokoel
+info,player,Suriname,XSD Smith
+info,player,Suriname,G Singh
+info,player,Suriname,TA Dudnath
+info,player,Suriname,S Bharratt
+info,player,Suriname,V Shaw
+info,player,Suriname,KN Singh
+info,player,Suriname,J Perry
+info,player,Suriname,YP Dayal
+info,player,Argentina,P Baron
+info,player,Argentina,Lucas Rossi
+info,player,Argentina,A Kirschbaum
+info,player,Argentina,R Escobar
+info,player,Argentina,T Rossi
+info,player,Argentina,Manuel Iturbe
+info,player,Argentina,Ian Roberts
+info,player,Argentina,AAP Rivero
+info,player,Argentina,H Fennell
+info,player,Argentina,JP Cabrera
+info,player,Argentina,A Husain
+info,registry,people,A Gajjar,37db06ef
+info,registry,people,A Husain,034d3c52
+info,registry,people,A Kirschbaum,d953bf92
+info,registry,people,AAP Rivero,1911dcbc
+info,registry,people,AK Gokoel,2fff8b43
+info,registry,people,Denavon Hayles,5cbeeb02
+info,registry,people,G Singh,e93b6c95
+info,registry,people,H Fennell,0d38ab25
+info,registry,people,Ian Roberts,9f236a73
+info,registry,people,J Perry,f5c73a14
+info,registry,people,JP Cabrera,b30bfd44
+info,registry,people,Jermaine Lindo,1154bf4f
+info,registry,people,K Jaikaran,420431c9
+info,registry,people,KN Singh,74bff7ca
+info,registry,people,Lucas Rossi,2064e555
+info,registry,people,Manuel Iturbe,bddbf5ec
+info,registry,people,P Baron,c6d1b1e4
+info,registry,people,R Escobar,9fa5496f
+info,registry,people,R Shah,3424e050
+info,registry,people,S Bharratt,1335107b
+info,registry,people,T Rossi,5470418a
+info,registry,people,TA Dudnath,15322a7b
+info,registry,people,V Hirlal,3eb2a27b
+info,registry,people,V Shaw,e05dd44b
+info,registry,people,XSD Smith,f4f892a3
+info,registry,people,YP Dayal,990f1424
+ball,1,0.1,Suriname,V Hirlal,K Jaikaran,A Kirschbaum,0,0,,,,,,"",""
+ball,1,0.2,Suriname,V Hirlal,K Jaikaran,A Kirschbaum,0,0,,,,,,"",""
+ball,1,0.3,Suriname,V Hirlal,K Jaikaran,A Kirschbaum,0,0,,,,,,"",""
+ball,1,0.4,Suriname,V Hirlal,K Jaikaran,A Kirschbaum,0,0,,,,,,"",""
+ball,1,0.5,Suriname,V Hirlal,K Jaikaran,A Kirschbaum,0,0,,,,,,"",""
+ball,1,0.6,Suriname,V Hirlal,K Jaikaran,A Kirschbaum,0,0,,,,,,"",""
+ball,1,1.1,Suriname,K Jaikaran,V Hirlal,H Fennell,0,0,,,,,,"",""
+ball,1,1.2,Suriname,K Jaikaran,V Hirlal,H Fennell,0,0,,,,,,"",""
+ball,1,1.3,Suriname,K Jaikaran,V Hirlal,H Fennell,0,1,,,,1,,"",""
+ball,1,1.4,Suriname,V Hirlal,K Jaikaran,H Fennell,4,0,,,,,,"",""
+ball,1,1.5,Suriname,V Hirlal,K Jaikaran,H Fennell,0,0,,,,,,"",""
+ball,1,1.6,Suriname,V Hirlal,K Jaikaran,H Fennell,0,1,1,,,,,"",""
+ball,1,1.7,Suriname,V Hirlal,K Jaikaran,H Fennell,1,0,,,,,,"",""
+ball,1,2.1,Suriname,V Hirlal,K Jaikaran,A Kirschbaum,0,1,1,,,,,"",""
+ball,1,2.2,Suriname,V Hirlal,K Jaikaran,A Kirschbaum,1,0,,,,,,"",""
+ball,1,2.3,Suriname,K Jaikaran,V Hirlal,A Kirschbaum,0,0,,,,,,"",""
+ball,1,2.4,Suriname,K Jaikaran,V Hirlal,A Kirschbaum,0,0,,,,,,"",""
+ball,1,2.5,Suriname,K Jaikaran,V Hirlal,A Kirschbaum,1,0,,,,,,"",""
+ball,1,2.6,Suriname,V Hirlal,K Jaikaran,A Kirschbaum,1,0,,,,,,"",""
+ball,1,2.7,Suriname,K Jaikaran,V Hirlal,A Kirschbaum,0,0,,,,,,"",""
+ball,1,3.1,Suriname,V Hirlal,K Jaikaran,H Fennell,4,0,,,,,,"",""
+ball,1,3.2,Suriname,V Hirlal,K Jaikaran,H Fennell,1,0,,,,,,"",""
+ball,1,3.3,Suriname,K Jaikaran,V Hirlal,H Fennell,0,0,,,,,,"",""
+ball,1,3.4,Suriname,K Jaikaran,V Hirlal,H Fennell,4,0,,,,,,"",""
+ball,1,3.5,Suriname,K Jaikaran,V Hirlal,H Fennell,0,0,,,,,,"",""
+ball,1,3.6,Suriname,K Jaikaran,V Hirlal,H Fennell,1,0,,,,,,"",""
+ball,1,4.1,Suriname,K Jaikaran,V Hirlal,Lucas Rossi,0,0,,,,,,"",""
+ball,1,4.2,Suriname,K Jaikaran,V Hirlal,Lucas Rossi,2,0,,,,,,"",""
+ball,1,4.3,Suriname,K Jaikaran,V Hirlal,Lucas Rossi,0,0,,,,,,lbw,K Jaikaran
+ball,1,4.4,Suriname,AK Gokoel,V Hirlal,Lucas Rossi,0,0,,,,,,"",""
+ball,1,4.5,Suriname,AK Gokoel,V Hirlal,Lucas Rossi,0,0,,,,,,"",""
+ball,1,4.6,Suriname,AK Gokoel,V Hirlal,Lucas Rossi,0,0,,,,,,"",""
+ball,1,5.1,Suriname,V Hirlal,AK Gokoel,JP Cabrera,0,1,,,,1,,"",""
+ball,1,5.2,Suriname,AK Gokoel,V Hirlal,JP Cabrera,0,0,,,,,,"",""
+ball,1,5.3,Suriname,AK Gokoel,V Hirlal,JP Cabrera,1,0,,,,,,"",""
+ball,1,5.4,Suriname,V Hirlal,AK Gokoel,JP Cabrera,4,0,,,,,,"",""
+ball,1,5.5,Suriname,V Hirlal,AK Gokoel,JP Cabrera,2,0,,,,,,"",""
+ball,1,5.6,Suriname,V Hirlal,AK Gokoel,JP Cabrera,1,0,,,,,,"",""
+ball,1,6.1,Suriname,V Hirlal,AK Gokoel,Lucas Rossi,2,0,,,,,,"",""
+ball,1,6.2,Suriname,V Hirlal,AK Gokoel,Lucas Rossi,1,0,,,,,,"",""
+ball,1,6.3,Suriname,AK Gokoel,V Hirlal,Lucas Rossi,0,0,,,,,,"",""
+ball,1,6.4,Suriname,AK Gokoel,V Hirlal,Lucas Rossi,1,0,,,,,,"",""
+ball,1,6.5,Suriname,V Hirlal,AK Gokoel,Lucas Rossi,0,0,,,,,,"",""
+ball,1,6.6,Suriname,V Hirlal,AK Gokoel,Lucas Rossi,1,0,,,,,,"",""
+ball,1,7.1,Suriname,V Hirlal,AK Gokoel,JP Cabrera,1,0,,,,,,"",""
+ball,1,7.2,Suriname,AK Gokoel,V Hirlal,JP Cabrera,1,0,,,,,,"",""
+ball,1,7.3,Suriname,V Hirlal,AK Gokoel,JP Cabrera,1,0,,,,,,"",""
+ball,1,7.4,Suriname,AK Gokoel,V Hirlal,JP Cabrera,1,0,,,,,,"",""
+ball,1,7.5,Suriname,V Hirlal,AK Gokoel,JP Cabrera,1,0,,,,,,"",""
+ball,1,7.6,Suriname,AK Gokoel,V Hirlal,JP Cabrera,1,0,,,,,,"",""
+ball,1,8.1,Suriname,AK Gokoel,V Hirlal,Lucas Rossi,2,0,,,,,,"",""
+ball,1,8.2,Suriname,AK Gokoel,V Hirlal,Lucas Rossi,1,0,,,,,,"",""
+ball,1,8.3,Suriname,V Hirlal,AK Gokoel,Lucas Rossi,0,0,,,,,,bowled,V Hirlal
+ball,1,8.4,Suriname,XSD Smith,AK Gokoel,Lucas Rossi,0,0,,,,,,"",""
+ball,1,8.5,Suriname,XSD Smith,AK Gokoel,Lucas Rossi,1,0,,,,,,"",""
+ball,1,8.6,Suriname,AK Gokoel,XSD Smith,Lucas Rossi,1,0,,,,,,"",""
+ball,1,9.1,Suriname,AK Gokoel,XSD Smith,A Kirschbaum,0,0,,,,,,"",""
+ball,1,9.2,Suriname,AK Gokoel,XSD Smith,A Kirschbaum,1,0,,,,,,"",""
+ball,1,9.3,Suriname,XSD Smith,AK Gokoel,A Kirschbaum,1,0,,,,,,"",""
+ball,1,9.4,Suriname,AK Gokoel,XSD Smith,A Kirschbaum,1,0,,,,,,"",""
+ball,1,9.5,Suriname,XSD Smith,AK Gokoel,A Kirschbaum,0,0,,,,,,"",""
+ball,1,9.6,Suriname,XSD Smith,AK Gokoel,A Kirschbaum,1,0,,,,,,"",""
+ball,1,10.1,Suriname,XSD Smith,AK Gokoel,Lucas Rossi,0,0,,,,,,caught,XSD Smith
+ball,1,10.2,Suriname,G Singh,AK Gokoel,Lucas Rossi,1,0,,,,,,"",""
+ball,1,10.3,Suriname,AK Gokoel,G Singh,Lucas Rossi,1,0,,,,,,"",""
+ball,1,10.4,Suriname,G Singh,AK Gokoel,Lucas Rossi,0,0,,,,,,caught,G Singh
+ball,1,10.5,Suriname,TA Dudnath,AK Gokoel,Lucas Rossi,0,0,,,,,,"",""
+ball,1,10.6,Suriname,TA Dudnath,AK Gokoel,Lucas Rossi,1,0,,,,,,"",""
+ball,1,11.1,Suriname,TA Dudnath,AK Gokoel,A Kirschbaum,0,0,,,,,,"",""
+ball,1,11.2,Suriname,TA Dudnath,AK Gokoel,A Kirschbaum,0,0,,,,,,"",""
+ball,1,11.3,Suriname,TA Dudnath,AK Gokoel,A Kirschbaum,1,0,,,,,,"",""
+ball,1,11.4,Suriname,AK Gokoel,TA Dudnath,A Kirschbaum,1,0,,,,,,"",""
+ball,1,11.5,Suriname,TA Dudnath,AK Gokoel,A Kirschbaum,0,0,,,,,,"",""
+ball,1,11.6,Suriname,TA Dudnath,AK Gokoel,A Kirschbaum,0,0,,,,,,"",""
+ball,1,12.1,Suriname,AK Gokoel,TA Dudnath,AAP Rivero,0,0,,,,,,"",""
+ball,1,12.2,Suriname,AK Gokoel,TA Dudnath,AAP Rivero,1,0,,,,,,"",""
+ball,1,12.3,Suriname,TA Dudnath,AK Gokoel,AAP Rivero,2,0,,,,,,"",""
+ball,1,12.4,Suriname,TA Dudnath,AK Gokoel,AAP Rivero,0,0,,,,,,"",""
+ball,1,12.5,Suriname,TA Dudnath,AK Gokoel,AAP Rivero,0,4,,,4,,,"",""
+ball,1,12.6,Suriname,TA Dudnath,AK Gokoel,AAP Rivero,0,0,,,,,,"",""
+ball,1,13.1,Suriname,AK Gokoel,TA Dudnath,A Husain,1,0,,,,,,"",""
+ball,1,13.2,Suriname,TA Dudnath,AK Gokoel,A Husain,0,0,,,,,,"",""
+ball,1,13.3,Suriname,TA Dudnath,AK Gokoel,A Husain,0,0,,,,,,caught,TA Dudnath
+ball,1,13.4,Suriname,S Bharratt,AK Gokoel,A Husain,0,0,,,,,,lbw,S Bharratt
+ball,1,13.5,Suriname,V Shaw,AK Gokoel,A Husain,0,0,,,,,,"",""
+ball,1,13.6,Suriname,V Shaw,AK Gokoel,A Husain,0,0,,,,,,"",""
+ball,1,14.1,Suriname,AK Gokoel,V Shaw,AAP Rivero,1,0,,,,,,"",""
+ball,1,14.2,Suriname,V Shaw,AK Gokoel,AAP Rivero,1,0,,,,,,"",""
+ball,1,14.3,Suriname,AK Gokoel,V Shaw,AAP Rivero,1,0,,,,,,"",""
+ball,1,14.4,Suriname,V Shaw,AK Gokoel,AAP Rivero,0,0,,,,,,"",""
+ball,1,14.5,Suriname,V Shaw,AK Gokoel,AAP Rivero,0,0,,,,,,"",""
+ball,1,14.6,Suriname,V Shaw,AK Gokoel,AAP Rivero,0,0,,,,,,"",""
+ball,1,15.1,Suriname,AK Gokoel,V Shaw,A Husain,1,0,,,,,,"",""
+ball,1,15.2,Suriname,V Shaw,AK Gokoel,A Husain,1,0,,,,,,"",""
+ball,1,15.3,Suriname,AK Gokoel,V Shaw,A Husain,1,0,,,,,,"",""
+ball,1,15.4,Suriname,V Shaw,AK Gokoel,A Husain,6,0,,,,,,"",""
+ball,1,15.5,Suriname,V Shaw,AK Gokoel,A Husain,0,0,,,,,,"",""
+ball,1,15.6,Suriname,V Shaw,AK Gokoel,A Husain,1,0,,,,,,"",""
+ball,1,16.1,Suriname,V Shaw,AK Gokoel,AAP Rivero,2,0,,,,,,"",""
+ball,1,16.2,Suriname,V Shaw,AK Gokoel,AAP Rivero,0,0,,,,,,"",""
+ball,1,16.3,Suriname,V Shaw,AK Gokoel,AAP Rivero,1,0,,,,,,"",""
+ball,1,16.4,Suriname,AK Gokoel,V Shaw,AAP Rivero,0,0,,,,,,run out,V Shaw
+ball,1,16.5,Suriname,AK Gokoel,KN Singh,AAP Rivero,2,0,,,,,,"",""
+ball,1,16.6,Suriname,AK Gokoel,KN Singh,AAP Rivero,1,0,,,,,,"",""
+ball,1,17.1,Suriname,AK Gokoel,KN Singh,H Fennell,1,0,,,,,,"",""
+ball,1,17.2,Suriname,KN Singh,AK Gokoel,H Fennell,1,0,,,,,,"",""
+ball,1,17.3,Suriname,AK Gokoel,KN Singh,H Fennell,1,0,,,,,,"",""
+ball,1,17.4,Suriname,KN Singh,AK Gokoel,H Fennell,2,0,,,,,,"",""
+ball,1,17.5,Suriname,KN Singh,AK Gokoel,H Fennell,2,0,,,,,,"",""
+ball,1,17.6,Suriname,KN Singh,AK Gokoel,H Fennell,1,0,,,,,,"",""
+ball,1,18.1,Suriname,KN Singh,AK Gokoel,AAP Rivero,1,1,,1,,,,"",""
+ball,1,18.2,Suriname,AK Gokoel,KN Singh,AAP Rivero,1,0,,,,,,"",""
+ball,1,18.3,Suriname,KN Singh,AK Gokoel,AAP Rivero,0,0,,,,,,"",""
+ball,1,18.4,Suriname,KN Singh,AK Gokoel,AAP Rivero,1,0,,,,,,"",""
+ball,1,18.5,Suriname,AK Gokoel,KN Singh,AAP Rivero,1,0,,,,,,"",""
+ball,1,18.6,Suriname,KN Singh,AK Gokoel,AAP Rivero,1,0,,,,,,"",""
+ball,1,18.7,Suriname,AK Gokoel,KN Singh,AAP Rivero,1,0,,,,,,"",""
+ball,1,19.1,Suriname,AK Gokoel,KN Singh,H Fennell,4,0,,,,,,"",""
+ball,1,19.2,Suriname,AK Gokoel,KN Singh,H Fennell,0,0,,,,,,"",""
+ball,1,19.3,Suriname,AK Gokoel,KN Singh,H Fennell,2,0,,,,,,"",""
+ball,1,19.4,Suriname,AK Gokoel,KN Singh,H Fennell,1,0,,,,,,"",""
+ball,1,19.5,Suriname,KN Singh,AK Gokoel,H Fennell,0,0,,,,,,"",""
+ball,1,19.6,Suriname,KN Singh,AK Gokoel,H Fennell,1,0,,,,,,"",""
+ball,2,0.1,Argentina,P Baron,Lucas Rossi,KN Singh,4,0,,,,,,"",""
+ball,2,0.2,Argentina,P Baron,Lucas Rossi,KN Singh,4,0,,,,,,"",""
+ball,2,0.3,Argentina,P Baron,Lucas Rossi,KN Singh,4,0,,,,,,"",""
+ball,2,0.4,Argentina,P Baron,Lucas Rossi,KN Singh,2,0,,,,,,"",""
+ball,2,0.5,Argentina,P Baron,Lucas Rossi,KN Singh,0,1,1,,,,,"",""
+ball,2,0.6,Argentina,P Baron,Lucas Rossi,KN Singh,0,0,,,,,,"",""
+ball,2,0.7,Argentina,P Baron,Lucas Rossi,KN Singh,4,0,,,,,,"",""
+ball,2,1.1,Argentina,Lucas Rossi,P Baron,G Singh,0,0,,,,,,lbw,Lucas Rossi
+ball,2,1.2,Argentina,A Kirschbaum,P Baron,G Singh,1,0,,,,,,"",""
+ball,2,1.3,Argentina,P Baron,A Kirschbaum,G Singh,1,0,,,,,,"",""
+ball,2,1.4,Argentina,A Kirschbaum,P Baron,G Singh,0,0,,,,,,"",""
+ball,2,1.5,Argentina,A Kirschbaum,P Baron,G Singh,0,0,,,,,,"",""
+ball,2,1.6,Argentina,A Kirschbaum,P Baron,G Singh,0,0,,,,,,"",""
+ball,2,2.1,Argentina,P Baron,A Kirschbaum,YP Dayal,4,0,,,,,,"",""
+ball,2,2.2,Argentina,P Baron,A Kirschbaum,YP Dayal,4,0,,,,,,"",""
+ball,2,2.3,Argentina,P Baron,A Kirschbaum,YP Dayal,1,0,,,,,,"",""
+ball,2,2.4,Argentina,A Kirschbaum,P Baron,YP Dayal,1,0,,,,,,"",""
+ball,2,2.5,Argentina,P Baron,A Kirschbaum,YP Dayal,1,0,,,,,,"",""
+ball,2,2.6,Argentina,A Kirschbaum,P Baron,YP Dayal,0,0,,,,,,"",""
+ball,2,3.1,Argentina,P Baron,A Kirschbaum,G Singh,0,0,,,,,,"",""
+ball,2,3.2,Argentina,P Baron,A Kirschbaum,G Singh,1,0,,,,,,"",""
+ball,2,3.3,Argentina,A Kirschbaum,P Baron,G Singh,0,0,,,,,,"",""
+ball,2,3.4,Argentina,A Kirschbaum,P Baron,G Singh,1,0,,,,,,"",""
+ball,2,3.5,Argentina,P Baron,A Kirschbaum,G Singh,4,0,,,,,,"",""
+ball,2,3.6,Argentina,P Baron,A Kirschbaum,G Singh,0,1,1,,,,,"",""
+ball,2,3.7,Argentina,P Baron,A Kirschbaum,G Singh,4,0,,,,,,"",""
+ball,2,4.1,Argentina,A Kirschbaum,P Baron,XSD Smith,0,0,,,,,,"",""
+ball,2,4.2,Argentina,A Kirschbaum,P Baron,XSD Smith,0,0,,,,,,"",""
+ball,2,4.3,Argentina,A Kirschbaum,P Baron,XSD Smith,4,0,,,,,,"",""
+ball,2,4.4,Argentina,A Kirschbaum,P Baron,XSD Smith,0,0,,,,,,caught,A Kirschbaum
+ball,2,4.5,Argentina,R Escobar,P Baron,XSD Smith,0,0,,,,,,"",""
+ball,2,4.6,Argentina,R Escobar,P Baron,XSD Smith,0,0,,,,,,"",""
+ball,2,5.1,Argentina,P Baron,R Escobar,AK Gokoel,1,0,,,,,,"",""
+ball,2,5.2,Argentina,R Escobar,P Baron,AK Gokoel,1,0,,,,,,"",""
+ball,2,5.3,Argentina,P Baron,R Escobar,AK Gokoel,1,0,,,,,,"",""
+ball,2,5.4,Argentina,R Escobar,P Baron,AK Gokoel,1,0,,,,,,"",""
+ball,2,5.5,Argentina,P Baron,R Escobar,AK Gokoel,1,0,,,,,,"",""
+ball,2,5.6,Argentina,R Escobar,P Baron,AK Gokoel,0,0,,,,,,"",""
+ball,2,6.1,Argentina,P Baron,R Escobar,XSD Smith,0,0,,,,,,"",""
+ball,2,6.2,Argentina,P Baron,R Escobar,XSD Smith,0,0,,,,,,"",""
+ball,2,6.3,Argentina,P Baron,R Escobar,XSD Smith,1,0,,,,,,"",""
+ball,2,6.4,Argentina,R Escobar,P Baron,XSD Smith,0,0,,,,,,"",""
+ball,2,6.5,Argentina,R Escobar,P Baron,XSD Smith,1,0,,,,,,"",""
+ball,2,6.6,Argentina,P Baron,R Escobar,XSD Smith,1,0,,,,,,"",""
+ball,2,7.1,Argentina,P Baron,R Escobar,AK Gokoel,4,0,,,,,,"",""
+ball,2,7.2,Argentina,P Baron,R Escobar,AK Gokoel,0,0,,,,,,"",""
+ball,2,7.3,Argentina,P Baron,R Escobar,AK Gokoel,0,0,,,,,,"",""
+ball,2,7.4,Argentina,P Baron,R Escobar,AK Gokoel,1,0,,,,,,"",""
+ball,2,7.5,Argentina,R Escobar,P Baron,AK Gokoel,0,0,,,,,,"",""
+ball,2,7.6,Argentina,R Escobar,P Baron,AK Gokoel,0,0,,,,,,"",""
+ball,2,8.1,Argentina,P Baron,R Escobar,XSD Smith,0,0,,,,,,"",""
+ball,2,8.2,Argentina,P Baron,R Escobar,XSD Smith,1,0,,,,,,"",""
+ball,2,8.3,Argentina,R Escobar,P Baron,XSD Smith,1,0,,,,,,"",""
+ball,2,8.4,Argentina,P Baron,R Escobar,XSD Smith,0,0,,,,,,"",""
+ball,2,8.5,Argentina,P Baron,R Escobar,XSD Smith,1,0,,,,,,"",""
+ball,2,8.6,Argentina,R Escobar,P Baron,XSD Smith,0,0,,,,,,"",""
+ball,2,9.1,Argentina,P Baron,R Escobar,YP Dayal,1,0,,,,,,"",""
+ball,2,9.2,Argentina,R Escobar,P Baron,YP Dayal,0,0,,,,,,"",""
+ball,2,9.3,Argentina,R Escobar,P Baron,YP Dayal,0,0,,,,,,"",""
+ball,2,9.4,Argentina,R Escobar,P Baron,YP Dayal,0,0,,,,,,"",""
+ball,2,9.5,Argentina,R Escobar,P Baron,YP Dayal,0,0,,,,,,"",""
+ball,2,9.6,Argentina,R Escobar,P Baron,YP Dayal,0,0,,,,,,"",""
+ball,2,10.1,Argentina,P Baron,R Escobar,XSD Smith,0,0,,,,,,"",""
+ball,2,10.2,Argentina,P Baron,R Escobar,XSD Smith,2,0,,,,,,"",""
+ball,2,10.3,Argentina,P Baron,R Escobar,XSD Smith,1,0,,,,,,"",""
+ball,2,10.4,Argentina,R Escobar,P Baron,XSD Smith,1,0,,,,,,"",""
+ball,2,10.5,Argentina,P Baron,R Escobar,XSD Smith,0,0,,,,,,"",""
+ball,2,10.6,Argentina,P Baron,R Escobar,XSD Smith,0,0,,,,,,caught and bowled,P Baron
+ball,2,11.1,Argentina,R Escobar,T Rossi,AK Gokoel,1,0,,,,,,"",""
+ball,2,11.2,Argentina,T Rossi,R Escobar,AK Gokoel,2,0,,,,,,"",""
+ball,2,11.3,Argentina,T Rossi,R Escobar,AK Gokoel,1,0,,,,,,"",""
+ball,2,11.4,Argentina,R Escobar,T Rossi,AK Gokoel,0,0,,,,,,"",""
+ball,2,11.5,Argentina,R Escobar,T Rossi,AK Gokoel,1,0,,,,,,"",""
+ball,2,11.6,Argentina,T Rossi,R Escobar,AK Gokoel,0,0,,,,,,"",""
+ball,2,12.1,Argentina,R Escobar,T Rossi,YP Dayal,1,0,,,,,,"",""
+ball,2,12.2,Argentina,T Rossi,R Escobar,YP Dayal,1,0,,,,,,"",""
+ball,2,12.3,Argentina,R Escobar,T Rossi,YP Dayal,0,0,,,,,,"",""
+ball,2,12.4,Argentina,R Escobar,T Rossi,YP Dayal,1,0,,,,,,"",""
+ball,2,12.5,Argentina,T Rossi,R Escobar,YP Dayal,6,0,,,,,,"",""
+ball,2,12.6,Argentina,T Rossi,R Escobar,YP Dayal,0,0,,,,,,"",""
+ball,2,13.1,Argentina,R Escobar,T Rossi,AK Gokoel,0,0,,,,,,"",""
+ball,2,13.2,Argentina,R Escobar,T Rossi,AK Gokoel,0,0,,,,,,"",""
+ball,2,13.3,Argentina,R Escobar,T Rossi,AK Gokoel,1,0,,,,,,"",""
+ball,2,13.4,Argentina,T Rossi,R Escobar,AK Gokoel,1,0,,,,,,"",""
+ball,2,13.5,Argentina,R Escobar,T Rossi,AK Gokoel,1,0,,,,,,"",""
+ball,2,13.6,Argentina,T Rossi,R Escobar,AK Gokoel,1,0,,,,,,"",""
+ball,2,14.1,Argentina,T Rossi,R Escobar,YP Dayal,0,1,1,,,,,"",""
+ball,2,14.2,Argentina,T Rossi,R Escobar,YP Dayal,2,0,,,,,,"",""
+ball,2,14.3,Argentina,T Rossi,R Escobar,YP Dayal,1,0,,,,,,"",""
+ball,2,14.4,Argentina,R Escobar,T Rossi,YP Dayal,1,0,,,,,,"",""
+ball,2,14.5,Argentina,T Rossi,R Escobar,YP Dayal,0,0,,,,,,"",""
+ball,2,14.6,Argentina,T Rossi,R Escobar,YP Dayal,0,0,,,,,,"",""
+ball,2,14.7,Argentina,T Rossi,R Escobar,YP Dayal,0,0,,,,,,"",""
+ball,2,15.1,Argentina,R Escobar,T Rossi,G Singh,1,0,,,,,,"",""
+ball,2,15.2,Argentina,T Rossi,R Escobar,G Singh,1,0,,,,,,"",""
+ball,2,15.3,Argentina,R Escobar,T Rossi,G Singh,4,0,,,,,,"",""
+ball,2,15.4,Argentina,R Escobar,T Rossi,G Singh,1,0,,,,,,"",""
+ball,2,15.5,Argentina,T Rossi,R Escobar,G Singh,2,0,,,,,,"",""
+ball,2,15.6,Argentina,T Rossi,R Escobar,G Singh,1,0,,,,,,"",""
+ball,2,16.1,Argentina,T Rossi,R Escobar,KN Singh,1,0,,,,,,"",""
+ball,2,16.2,Argentina,R Escobar,T Rossi,KN Singh,0,0,,,,,,"",""
+ball,2,16.3,Argentina,R Escobar,T Rossi,KN Singh,0,0,,,,,,"",""
+ball,2,16.4,Argentina,R Escobar,T Rossi,KN Singh,0,0,,,,,,"",""
+ball,2,16.5,Argentina,R Escobar,T Rossi,KN Singh,1,0,,,,,,"",""
+ball,2,16.6,Argentina,T Rossi,R Escobar,KN Singh,6,0,,,,,,"",""

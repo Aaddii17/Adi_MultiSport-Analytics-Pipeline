@@ -1,0 +1,311 @@
+version,1.6.0
+info,balls_per_over,6
+info,team,Melbourne Renegades
+info,team,Brisbane Heat
+info,gender,male
+info,season,2020/21
+info,date,2021/01/14
+info,event,Big Bash League
+info,match_number,39
+info,venue,Manuka Oval
+info,city,Canberra
+info,toss_winner,Brisbane Heat
+info,toss_decision,field
+info,player_of_match,JA Burns
+info,umpire,GA Abood
+info,umpire,GJ Davidson
+info,reserve_umpire,Andrew Crozier
+info,tv_umpire,AK Wilds
+info,match_referee,RW Stratford
+info,winner,Brisbane Heat
+info,winner_wickets,5
+info,player,Melbourne Renegades,MW Harvey
+info,player,Melbourne Renegades,SE Marsh
+info,player,Melbourne Renegades,SB Harper
+info,player,Melbourne Renegades,AJ Finch
+info,player,Melbourne Renegades,J Fraser-McGurk
+info,player,Melbourne Renegades,BJ Webster
+info,player,Melbourne Renegades,JA Prestwidge
+info,player,Melbourne Renegades,Imad Wasim
+info,player,Melbourne Renegades,KW Richardson
+info,player,Melbourne Renegades,P Hatzoglou
+info,player,Melbourne Renegades,Noor Ahmad
+info,player,Brisbane Heat,M Bryant
+info,player,Brisbane Heat,CA Lynn
+info,player,Brisbane Heat,JL Denly
+info,player,Brisbane Heat,L Gregory
+info,player,Brisbane Heat,JA Burns
+info,player,Brisbane Heat,JJ Bazley
+info,player,Brisbane Heat,JJ Peirson
+info,player,Brisbane Heat,JD Wildermuth
+info,player,Brisbane Heat,MT Steketee
+info,player,Brisbane Heat,MP Kuhnemann
+info,player,Brisbane Heat,M Morkel
+info,player,Brisbane Heat,XC Bartlett
+info,registry,people,AJ Finch,b8d490fd
+info,registry,people,AK Wilds,de412f40
+info,registry,people,Andrew Crozier,00d07580
+info,registry,people,BJ Webster,56b93d46
+info,registry,people,CA Lynn,45eda7c8
+info,registry,people,GA Abood,a4af5528
+info,registry,people,GJ Davidson,31ad5973
+info,registry,people,Imad Wasim,9cb8d7a6
+info,registry,people,J Fraser-McGurk,9b6e1b3f
+info,registry,people,JA Burns,7a5f232a
+info,registry,people,JA Prestwidge,5f317fd4
+info,registry,people,JD Wildermuth,f1c61793
+info,registry,people,JJ Bazley,003d49e6
+info,registry,people,JJ Peirson,2b55c3b4
+info,registry,people,JL Denly,bdadf7da
+info,registry,people,KW Richardson,dfc4d8b5
+info,registry,people,L Gregory,06c2de82
+info,registry,people,M Bryant,f32012f4
+info,registry,people,M Morkel,5bb5a915
+info,registry,people,MP Kuhnemann,7b953689
+info,registry,people,MT Steketee,903560ed
+info,registry,people,MW Harvey,47dc9794
+info,registry,people,Noor Ahmad,efc04be7
+info,registry,people,P Hatzoglou,6f95e5fa
+info,registry,people,RW Stratford,85489579
+info,registry,people,SB Harper,a756e61a
+info,registry,people,SE Marsh,508a1ea7
+info,registry,people,XC Bartlett,3b53243a
+ball,1,0.1,Melbourne Renegades,MW Harvey,SE Marsh,XC Bartlett,0,0,,,,,,"",""
+ball,1,0.2,Melbourne Renegades,MW Harvey,SE Marsh,XC Bartlett,0,0,,,,,,"",""
+ball,1,0.3,Melbourne Renegades,MW Harvey,SE Marsh,XC Bartlett,1,0,,,,,,"",""
+ball,1,0.4,Melbourne Renegades,SE Marsh,MW Harvey,XC Bartlett,0,0,,,,,,lbw,SE Marsh
+ball,1,0.5,Melbourne Renegades,SB Harper,MW Harvey,XC Bartlett,0,0,,,,,,"",""
+ball,1,0.6,Melbourne Renegades,SB Harper,MW Harvey,XC Bartlett,1,0,,,,,,"",""
+ball,1,1.1,Melbourne Renegades,SB Harper,MW Harvey,JD Wildermuth,0,0,,,,,,"",""
+ball,1,1.2,Melbourne Renegades,SB Harper,MW Harvey,JD Wildermuth,2,0,,,,,,"",""
+ball,1,1.3,Melbourne Renegades,SB Harper,MW Harvey,JD Wildermuth,4,0,,,,,,"",""
+ball,1,1.4,Melbourne Renegades,SB Harper,MW Harvey,JD Wildermuth,1,0,,,,,,"",""
+ball,1,1.5,Melbourne Renegades,MW Harvey,SB Harper,JD Wildermuth,0,0,,,,,,"",""
+ball,1,1.6,Melbourne Renegades,MW Harvey,SB Harper,JD Wildermuth,4,0,,,,,,"",""
+ball,1,2.1,Melbourne Renegades,SB Harper,MW Harvey,MT Steketee,0,0,,,,,,"",""
+ball,1,2.2,Melbourne Renegades,SB Harper,MW Harvey,MT Steketee,4,0,,,,,,"",""
+ball,1,2.3,Melbourne Renegades,SB Harper,MW Harvey,MT Steketee,0,0,,,,,,"",""
+ball,1,2.4,Melbourne Renegades,SB Harper,MW Harvey,MT Steketee,1,0,,,,,,"",""
+ball,1,2.5,Melbourne Renegades,MW Harvey,SB Harper,MT Steketee,1,0,,,,,,"",""
+ball,1,2.6,Melbourne Renegades,SB Harper,MW Harvey,MT Steketee,0,0,,,,,,"",""
+ball,1,3.1,Melbourne Renegades,MW Harvey,SB Harper,JD Wildermuth,0,0,,,,,,"",""
+ball,1,3.2,Melbourne Renegades,MW Harvey,SB Harper,JD Wildermuth,6,0,,,,,,"",""
+ball,1,3.3,Melbourne Renegades,MW Harvey,SB Harper,JD Wildermuth,2,0,,,,,,"",""
+ball,1,3.4,Melbourne Renegades,MW Harvey,SB Harper,JD Wildermuth,4,0,,,,,,"",""
+ball,1,3.5,Melbourne Renegades,MW Harvey,SB Harper,JD Wildermuth,0,0,,,,,,"",""
+ball,1,3.6,Melbourne Renegades,MW Harvey,SB Harper,JD Wildermuth,1,0,,,,,,"",""
+ball,1,4.1,Melbourne Renegades,MW Harvey,SB Harper,MP Kuhnemann,1,0,,,,,,"",""
+ball,1,4.2,Melbourne Renegades,SB Harper,MW Harvey,MP Kuhnemann,1,0,,,,,,"",""
+ball,1,4.3,Melbourne Renegades,MW Harvey,SB Harper,MP Kuhnemann,0,0,,,,,,caught,MW Harvey
+ball,1,4.4,Melbourne Renegades,AJ Finch,SB Harper,MP Kuhnemann,0,0,,,,,,"",""
+ball,1,4.5,Melbourne Renegades,AJ Finch,SB Harper,MP Kuhnemann,1,0,,,,,,"",""
+ball,1,4.6,Melbourne Renegades,SB Harper,AJ Finch,MP Kuhnemann,1,0,,,,,,"",""
+ball,1,5.1,Melbourne Renegades,SB Harper,AJ Finch,MT Steketee,0,0,,,,,,caught,SB Harper
+ball,1,5.2,Melbourne Renegades,J Fraser-McGurk,AJ Finch,MT Steketee,1,0,,,,,,"",""
+ball,1,5.3,Melbourne Renegades,AJ Finch,J Fraser-McGurk,MT Steketee,0,0,,,,,,"",""
+ball,1,5.4,Melbourne Renegades,AJ Finch,J Fraser-McGurk,MT Steketee,0,1,,1,,,,"",""
+ball,1,5.5,Melbourne Renegades,AJ Finch,J Fraser-McGurk,MT Steketee,4,0,,,,,,"",""
+ball,1,5.6,Melbourne Renegades,AJ Finch,J Fraser-McGurk,MT Steketee,1,0,,,,,,"",""
+ball,1,5.7,Melbourne Renegades,J Fraser-McGurk,AJ Finch,MT Steketee,0,0,,,,,,"",""
+ball,1,6.1,Melbourne Renegades,AJ Finch,J Fraser-McGurk,MP Kuhnemann,0,0,,,,,,"",""
+ball,1,6.2,Melbourne Renegades,AJ Finch,J Fraser-McGurk,MP Kuhnemann,0,0,,,,,,"",""
+ball,1,6.3,Melbourne Renegades,AJ Finch,J Fraser-McGurk,MP Kuhnemann,1,0,,,,,,"",""
+ball,1,6.4,Melbourne Renegades,J Fraser-McGurk,AJ Finch,MP Kuhnemann,0,0,,,,,,"",""
+ball,1,6.5,Melbourne Renegades,J Fraser-McGurk,AJ Finch,MP Kuhnemann,1,0,,,,,,"",""
+ball,1,6.6,Melbourne Renegades,AJ Finch,J Fraser-McGurk,MP Kuhnemann,1,0,,,,,,"",""
+ball,1,7.1,Melbourne Renegades,AJ Finch,J Fraser-McGurk,JD Wildermuth,1,0,,,,,,"",""
+ball,1,7.2,Melbourne Renegades,J Fraser-McGurk,AJ Finch,JD Wildermuth,2,0,,,,,,"",""
+ball,1,7.3,Melbourne Renegades,J Fraser-McGurk,AJ Finch,JD Wildermuth,4,0,,,,,,"",""
+ball,1,7.4,Melbourne Renegades,J Fraser-McGurk,AJ Finch,JD Wildermuth,0,1,1,,,,,"",""
+ball,1,7.5,Melbourne Renegades,J Fraser-McGurk,AJ Finch,JD Wildermuth,1,0,,,,,,"",""
+ball,1,7.6,Melbourne Renegades,AJ Finch,J Fraser-McGurk,JD Wildermuth,4,0,,,,,,"",""
+ball,1,7.7,Melbourne Renegades,AJ Finch,J Fraser-McGurk,JD Wildermuth,0,0,,,,,,lbw,AJ Finch
+ball,1,8.1,Melbourne Renegades,J Fraser-McGurk,BJ Webster,MP Kuhnemann,0,0,,,,,,"",""
+ball,1,8.2,Melbourne Renegades,J Fraser-McGurk,BJ Webster,MP Kuhnemann,0,1,,,,1,,"",""
+ball,1,8.3,Melbourne Renegades,BJ Webster,J Fraser-McGurk,MP Kuhnemann,1,0,,,,,,"",""
+ball,1,8.4,Melbourne Renegades,J Fraser-McGurk,BJ Webster,MP Kuhnemann,1,0,,,,,,"",""
+ball,1,8.5,Melbourne Renegades,BJ Webster,J Fraser-McGurk,MP Kuhnemann,0,0,,,,,,"",""
+ball,1,8.6,Melbourne Renegades,BJ Webster,J Fraser-McGurk,MP Kuhnemann,0,0,,,,,,"",""
+ball,1,9.1,Melbourne Renegades,J Fraser-McGurk,BJ Webster,JJ Bazley,2,0,,,,,,"",""
+ball,1,9.2,Melbourne Renegades,J Fraser-McGurk,BJ Webster,JJ Bazley,0,0,,,,,,"",""
+ball,1,9.3,Melbourne Renegades,J Fraser-McGurk,BJ Webster,JJ Bazley,1,0,,,,,,"",""
+ball,1,9.4,Melbourne Renegades,BJ Webster,J Fraser-McGurk,JJ Bazley,2,0,,,,,,"",""
+ball,1,9.5,Melbourne Renegades,BJ Webster,J Fraser-McGurk,JJ Bazley,0,0,,,,,,"",""
+ball,1,9.6,Melbourne Renegades,BJ Webster,J Fraser-McGurk,JJ Bazley,0,4,,,,4,,"",""
+ball,1,10.1,Melbourne Renegades,J Fraser-McGurk,BJ Webster,MP Kuhnemann,4,0,,,,,,"",""
+ball,1,10.2,Melbourne Renegades,J Fraser-McGurk,BJ Webster,MP Kuhnemann,0,0,,,,,,"",""
+ball,1,10.3,Melbourne Renegades,J Fraser-McGurk,BJ Webster,MP Kuhnemann,1,0,,,,,,"",""
+ball,1,10.4,Melbourne Renegades,BJ Webster,J Fraser-McGurk,MP Kuhnemann,0,0,,,,,,"",""
+ball,1,10.5,Melbourne Renegades,BJ Webster,J Fraser-McGurk,MP Kuhnemann,0,0,,,,,,"",""
+ball,1,10.6,Melbourne Renegades,BJ Webster,J Fraser-McGurk,MP Kuhnemann,1,0,,,,,,"",""
+ball,1,11.1,Melbourne Renegades,BJ Webster,J Fraser-McGurk,M Morkel,1,0,,,,,,"",""
+ball,1,11.2,Melbourne Renegades,J Fraser-McGurk,BJ Webster,M Morkel,0,0,,,,,,"",""
+ball,1,11.3,Melbourne Renegades,J Fraser-McGurk,BJ Webster,M Morkel,0,0,,,,,,"",""
+ball,1,11.4,Melbourne Renegades,J Fraser-McGurk,BJ Webster,M Morkel,0,0,,,,,,"",""
+ball,1,11.5,Melbourne Renegades,J Fraser-McGurk,BJ Webster,M Morkel,1,0,,,,,,"",""
+ball,1,11.6,Melbourne Renegades,BJ Webster,J Fraser-McGurk,M Morkel,1,0,,,,,,"",""
+ball,1,12.1,Melbourne Renegades,BJ Webster,J Fraser-McGurk,JJ Bazley,1,0,,,,,,"",""
+ball,1,12.2,Melbourne Renegades,J Fraser-McGurk,BJ Webster,JJ Bazley,1,0,,,,,,"",""
+ball,1,12.3,Melbourne Renegades,BJ Webster,J Fraser-McGurk,JJ Bazley,1,0,,,,,,"",""
+ball,1,12.4,Melbourne Renegades,J Fraser-McGurk,BJ Webster,JJ Bazley,4,0,,,,,,"",""
+ball,1,12.5,Melbourne Renegades,J Fraser-McGurk,BJ Webster,JJ Bazley,1,0,,,,,,"",""
+ball,1,12.6,Melbourne Renegades,BJ Webster,J Fraser-McGurk,JJ Bazley,1,0,,,,,,"",""
+ball,1,13.1,Melbourne Renegades,BJ Webster,J Fraser-McGurk,JL Denly,0,0,,,,,,"",""
+ball,1,13.2,Melbourne Renegades,BJ Webster,J Fraser-McGurk,JL Denly,2,0,,,,,,"",""
+ball,1,13.3,Melbourne Renegades,BJ Webster,J Fraser-McGurk,JL Denly,4,0,,,,,,"",""
+ball,1,13.4,Melbourne Renegades,BJ Webster,J Fraser-McGurk,JL Denly,1,0,,,,,,"",""
+ball,1,13.5,Melbourne Renegades,J Fraser-McGurk,BJ Webster,JL Denly,1,0,,,,,,"",""
+ball,1,13.6,Melbourne Renegades,BJ Webster,J Fraser-McGurk,JL Denly,0,0,,,,,,"",""
+ball,1,14.1,Melbourne Renegades,J Fraser-McGurk,BJ Webster,MT Steketee,1,0,,,,,,"",""
+ball,1,14.2,Melbourne Renegades,BJ Webster,J Fraser-McGurk,MT Steketee,2,0,,,,,,"",""
+ball,1,14.3,Melbourne Renegades,BJ Webster,J Fraser-McGurk,MT Steketee,0,0,,,,,,"",""
+ball,1,14.4,Melbourne Renegades,BJ Webster,J Fraser-McGurk,MT Steketee,0,0,,,,,,"",""
+ball,1,14.5,Melbourne Renegades,BJ Webster,J Fraser-McGurk,MT Steketee,0,0,,,,,,"",""
+ball,1,14.6,Melbourne Renegades,BJ Webster,J Fraser-McGurk,MT Steketee,2,0,,,,,,"",""
+ball,1,15.1,Melbourne Renegades,J Fraser-McGurk,BJ Webster,M Morkel,2,0,,,,,,"",""
+ball,1,15.2,Melbourne Renegades,J Fraser-McGurk,BJ Webster,M Morkel,4,0,,,,,,"",""
+ball,1,15.3,Melbourne Renegades,J Fraser-McGurk,BJ Webster,M Morkel,0,0,,,,,,"",""
+ball,1,15.4,Melbourne Renegades,J Fraser-McGurk,BJ Webster,M Morkel,0,0,,,,,,"",""
+ball,1,15.5,Melbourne Renegades,J Fraser-McGurk,BJ Webster,M Morkel,1,0,,,,,,"",""
+ball,1,15.6,Melbourne Renegades,BJ Webster,J Fraser-McGurk,M Morkel,2,0,,,,,,"",""
+ball,1,16.1,Melbourne Renegades,J Fraser-McGurk,BJ Webster,MT Steketee,0,0,,,,,,"",""
+ball,1,16.2,Melbourne Renegades,J Fraser-McGurk,BJ Webster,MT Steketee,6,0,,,,,,"",""
+ball,1,16.3,Melbourne Renegades,J Fraser-McGurk,BJ Webster,MT Steketee,0,0,,,,,,caught,J Fraser-McGurk
+ball,1,16.4,Melbourne Renegades,BJ Webster,JA Prestwidge,MT Steketee,0,0,,,,,,"",""
+ball,1,16.5,Melbourne Renegades,BJ Webster,JA Prestwidge,MT Steketee,0,0,,,,,,"",""
+ball,1,16.6,Melbourne Renegades,BJ Webster,JA Prestwidge,MT Steketee,0,0,,,,,,"",""
+ball,1,17.1,Melbourne Renegades,JA Prestwidge,BJ Webster,M Morkel,0,0,,,,,,"",""
+ball,1,17.2,Melbourne Renegades,JA Prestwidge,BJ Webster,M Morkel,0,0,,,,,,caught,JA Prestwidge
+ball,1,17.3,Melbourne Renegades,BJ Webster,Imad Wasim,M Morkel,0,0,,,,,,"",""
+ball,1,17.4,Melbourne Renegades,BJ Webster,Imad Wasim,M Morkel,0,0,,,,,,"",""
+ball,1,17.5,Melbourne Renegades,BJ Webster,Imad Wasim,M Morkel,2,0,,,,,,"",""
+ball,1,17.6,Melbourne Renegades,BJ Webster,Imad Wasim,M Morkel,4,0,,,,,,"",""
+ball,1,18.1,Melbourne Renegades,Imad Wasim,BJ Webster,JD Wildermuth,1,0,,,,,,"",""
+ball,1,18.2,Melbourne Renegades,BJ Webster,Imad Wasim,JD Wildermuth,6,0,,,,,,"",""
+ball,1,18.3,Melbourne Renegades,BJ Webster,Imad Wasim,JD Wildermuth,4,0,,,,,,"",""
+ball,1,18.4,Melbourne Renegades,BJ Webster,Imad Wasim,JD Wildermuth,2,0,,,,,,"",""
+ball,1,18.5,Melbourne Renegades,BJ Webster,Imad Wasim,JD Wildermuth,1,0,,,,,,"",""
+ball,1,18.6,Melbourne Renegades,Imad Wasim,BJ Webster,JD Wildermuth,1,0,,,,,,"",""
+ball,1,19.1,Melbourne Renegades,Imad Wasim,BJ Webster,M Morkel,1,0,,,,,,"",""
+ball,1,19.2,Melbourne Renegades,BJ Webster,Imad Wasim,M Morkel,1,0,,,,,,"",""
+ball,1,19.3,Melbourne Renegades,Imad Wasim,BJ Webster,M Morkel,1,0,,,,,,"",""
+ball,1,19.4,Melbourne Renegades,BJ Webster,Imad Wasim,M Morkel,6,0,,,,,,"",""
+ball,1,19.5,Melbourne Renegades,BJ Webster,Imad Wasim,M Morkel,0,0,,,,,,"",""
+ball,1,19.6,Melbourne Renegades,BJ Webster,Imad Wasim,M Morkel,2,0,,,,,,"",""
+ball,2,0.1,Brisbane Heat,M Bryant,CA Lynn,Imad Wasim,0,0,,,,,,"",""
+ball,2,0.2,Brisbane Heat,M Bryant,CA Lynn,Imad Wasim,0,0,,,,,,"",""
+ball,2,0.3,Brisbane Heat,M Bryant,CA Lynn,Imad Wasim,0,0,,,,,,"",""
+ball,2,0.4,Brisbane Heat,M Bryant,CA Lynn,Imad Wasim,0,0,,,,,,"",""
+ball,2,0.5,Brisbane Heat,M Bryant,CA Lynn,Imad Wasim,1,0,,,,,,"",""
+ball,2,0.6,Brisbane Heat,CA Lynn,M Bryant,Imad Wasim,0,0,,,,,,"",""
+ball,2,1.1,Brisbane Heat,M Bryant,CA Lynn,KW Richardson,0,1,,,,1,,"",""
+ball,2,1.2,Brisbane Heat,CA Lynn,M Bryant,KW Richardson,0,1,,,,1,,"",""
+ball,2,1.3,Brisbane Heat,M Bryant,CA Lynn,KW Richardson,0,1,,,,1,,"",""
+ball,2,1.4,Brisbane Heat,CA Lynn,M Bryant,KW Richardson,0,0,,,,,,"",""
+ball,2,1.5,Brisbane Heat,CA Lynn,M Bryant,KW Richardson,1,0,,,,,,"",""
+ball,2,1.6,Brisbane Heat,M Bryant,CA Lynn,KW Richardson,1,0,,,,,,"",""
+ball,2,2.1,Brisbane Heat,M Bryant,CA Lynn,P Hatzoglou,0,0,,,,,,"",""
+ball,2,2.2,Brisbane Heat,M Bryant,CA Lynn,P Hatzoglou,2,0,,,,,,"",""
+ball,2,2.3,Brisbane Heat,M Bryant,CA Lynn,P Hatzoglou,0,0,,,,,,"",""
+ball,2,2.4,Brisbane Heat,M Bryant,CA Lynn,P Hatzoglou,4,0,,,,,,"",""
+ball,2,2.5,Brisbane Heat,M Bryant,CA Lynn,P Hatzoglou,0,0,,,,,,"",""
+ball,2,2.6,Brisbane Heat,M Bryant,CA Lynn,P Hatzoglou,0,0,,,,,,"",""
+ball,2,3.1,Brisbane Heat,CA Lynn,M Bryant,KW Richardson,3,0,,,,,,"",""
+ball,2,3.2,Brisbane Heat,M Bryant,CA Lynn,KW Richardson,4,0,,,,,,"",""
+ball,2,3.3,Brisbane Heat,M Bryant,CA Lynn,KW Richardson,4,0,,,,,,"",""
+ball,2,3.4,Brisbane Heat,M Bryant,CA Lynn,KW Richardson,0,0,,,,,,"",""
+ball,2,3.5,Brisbane Heat,M Bryant,CA Lynn,KW Richardson,1,0,,,,,,"",""
+ball,2,3.6,Brisbane Heat,CA Lynn,M Bryant,KW Richardson,1,0,,,,,,"",""
+ball,2,4.1,Brisbane Heat,CA Lynn,M Bryant,Imad Wasim,4,0,,,,,,"",""
+ball,2,4.2,Brisbane Heat,CA Lynn,M Bryant,Imad Wasim,4,0,,,,,,"",""
+ball,2,4.3,Brisbane Heat,CA Lynn,M Bryant,Imad Wasim,4,0,,,,,,"",""
+ball,2,4.4,Brisbane Heat,CA Lynn,M Bryant,Imad Wasim,1,0,,,,,,"",""
+ball,2,4.5,Brisbane Heat,M Bryant,CA Lynn,Imad Wasim,1,0,,,,,,"",""
+ball,2,4.6,Brisbane Heat,CA Lynn,M Bryant,Imad Wasim,0,0,,,,,,"",""
+ball,2,5.1,Brisbane Heat,M Bryant,CA Lynn,Noor Ahmad,1,0,,,,,,"",""
+ball,2,5.2,Brisbane Heat,CA Lynn,M Bryant,Noor Ahmad,0,0,,,,,,"",""
+ball,2,5.3,Brisbane Heat,CA Lynn,M Bryant,Noor Ahmad,0,0,,,,,,"",""
+ball,2,5.4,Brisbane Heat,CA Lynn,M Bryant,Noor Ahmad,0,1,,,,1,,"",""
+ball,2,5.5,Brisbane Heat,M Bryant,CA Lynn,Noor Ahmad,0,0,,,,,,"",""
+ball,2,5.6,Brisbane Heat,M Bryant,CA Lynn,Noor Ahmad,1,0,,,,,,"",""
+ball,2,6.1,Brisbane Heat,M Bryant,CA Lynn,P Hatzoglou,2,0,,,,,,"",""
+ball,2,6.2,Brisbane Heat,M Bryant,CA Lynn,P Hatzoglou,1,0,,,,,,"",""
+ball,2,6.3,Brisbane Heat,CA Lynn,M Bryant,P Hatzoglou,1,0,,,,,,"",""
+ball,2,6.4,Brisbane Heat,M Bryant,CA Lynn,P Hatzoglou,0,0,,,,,,"",""
+ball,2,6.5,Brisbane Heat,M Bryant,CA Lynn,P Hatzoglou,0,0,,,,,,caught,M Bryant
+ball,2,6.6,Brisbane Heat,JL Denly,CA Lynn,P Hatzoglou,0,0,,,,,,"",""
+ball,2,7.1,Brisbane Heat,CA Lynn,JL Denly,Noor Ahmad,0,0,,,,,,"",""
+ball,2,7.2,Brisbane Heat,CA Lynn,JL Denly,Noor Ahmad,1,0,,,,,,"",""
+ball,2,7.3,Brisbane Heat,JL Denly,CA Lynn,Noor Ahmad,0,0,,,,,,"",""
+ball,2,7.4,Brisbane Heat,JL Denly,CA Lynn,Noor Ahmad,4,0,,,,,,"",""
+ball,2,7.5,Brisbane Heat,JL Denly,CA Lynn,Noor Ahmad,1,0,,,,,,"",""
+ball,2,7.6,Brisbane Heat,CA Lynn,JL Denly,Noor Ahmad,2,0,,,,,,"",""
+ball,2,8.1,Brisbane Heat,JL Denly,CA Lynn,JA Prestwidge,0,0,,,,,,"",""
+ball,2,8.2,Brisbane Heat,JL Denly,CA Lynn,JA Prestwidge,1,0,,,,,,"",""
+ball,2,8.3,Brisbane Heat,CA Lynn,JL Denly,JA Prestwidge,0,1,1,,,,,"",""
+ball,2,8.4,Brisbane Heat,CA Lynn,JL Denly,JA Prestwidge,1,0,,,,,,"",""
+ball,2,8.5,Brisbane Heat,JL Denly,CA Lynn,JA Prestwidge,1,0,,,,,,"",""
+ball,2,8.6,Brisbane Heat,CA Lynn,JL Denly,JA Prestwidge,0,0,,,,,,"",""
+ball,2,8.7,Brisbane Heat,CA Lynn,JL Denly,JA Prestwidge,1,0,,,,,,"",""
+ball,2,9.1,Brisbane Heat,CA Lynn,JL Denly,Noor Ahmad,3,0,,,,,,"",""
+ball,2,9.2,Brisbane Heat,JL Denly,CA Lynn,Noor Ahmad,6,0,,,,,,"",""
+ball,2,9.3,Brisbane Heat,JL Denly,CA Lynn,Noor Ahmad,0,1,,,,1,,"",""
+ball,2,9.4,Brisbane Heat,CA Lynn,JL Denly,Noor Ahmad,1,0,,,,,,"",""
+ball,2,9.5,Brisbane Heat,JL Denly,CA Lynn,Noor Ahmad,1,0,,,,,,"",""
+ball,2,9.6,Brisbane Heat,CA Lynn,JL Denly,Noor Ahmad,1,0,,,,,,"",""
+ball,2,10.1,Brisbane Heat,CA Lynn,JL Denly,JA Prestwidge,6,0,,,,,,"",""
+ball,2,10.2,Brisbane Heat,CA Lynn,JL Denly,JA Prestwidge,0,0,,,,,,"",""
+ball,2,10.3,Brisbane Heat,CA Lynn,JL Denly,JA Prestwidge,0,0,,,,,,"",""
+ball,2,10.4,Brisbane Heat,CA Lynn,JL Denly,JA Prestwidge,0,1,,1,,,,"",""
+ball,2,10.5,Brisbane Heat,JL Denly,CA Lynn,JA Prestwidge,4,1,,1,,,,"",""
+ball,2,10.6,Brisbane Heat,JL Denly,CA Lynn,JA Prestwidge,1,0,,,,,,"",""
+ball,2,10.7,Brisbane Heat,CA Lynn,JL Denly,JA Prestwidge,2,0,,,,,,"",""
+ball,2,10.8,Brisbane Heat,CA Lynn,JL Denly,JA Prestwidge,1,0,,,,,,"",""
+ball,2,11.1,Brisbane Heat,CA Lynn,JL Denly,P Hatzoglou,1,0,,,,,,"",""
+ball,2,11.2,Brisbane Heat,JL Denly,CA Lynn,P Hatzoglou,0,0,,,,,,"",""
+ball,2,11.3,Brisbane Heat,JL Denly,CA Lynn,P Hatzoglou,0,1,1,,,,,"",""
+ball,2,11.4,Brisbane Heat,JL Denly,CA Lynn,P Hatzoglou,1,0,,,,,,"",""
+ball,2,11.5,Brisbane Heat,CA Lynn,JL Denly,P Hatzoglou,1,0,,,,,,"",""
+ball,2,11.6,Brisbane Heat,JL Denly,CA Lynn,P Hatzoglou,1,0,,,,,,"",""
+ball,2,11.7,Brisbane Heat,CA Lynn,JL Denly,P Hatzoglou,1,0,,,,,,"",""
+ball,2,12.1,Brisbane Heat,CA Lynn,JL Denly,Imad Wasim,2,0,,,,,,"",""
+ball,2,12.2,Brisbane Heat,CA Lynn,JL Denly,Imad Wasim,0,0,,,,,,"",""
+ball,2,12.3,Brisbane Heat,CA Lynn,JL Denly,Imad Wasim,4,0,,,,,,"",""
+ball,2,12.4,Brisbane Heat,CA Lynn,JL Denly,Imad Wasim,1,0,,,,,,"",""
+ball,2,12.5,Brisbane Heat,JL Denly,CA Lynn,Imad Wasim,0,0,,,,,,"",""
+ball,2,12.6,Brisbane Heat,JL Denly,CA Lynn,Imad Wasim,0,0,,,,,,"",""
+ball,2,13.1,Brisbane Heat,CA Lynn,JL Denly,KW Richardson,1,0,,,,,,"",""
+ball,2,13.2,Brisbane Heat,JL Denly,CA Lynn,KW Richardson,1,0,,,,,,"",""
+ball,2,13.3,Brisbane Heat,CA Lynn,JL Denly,KW Richardson,1,0,,,,,,"",""
+ball,2,13.4,Brisbane Heat,JL Denly,CA Lynn,KW Richardson,1,0,,,,,,"",""
+ball,2,13.5,Brisbane Heat,CA Lynn,JL Denly,KW Richardson,0,0,,,,,,bowled,CA Lynn
+ball,2,13.6,Brisbane Heat,L Gregory,JL Denly,KW Richardson,0,0,,,,,,"",""
+ball,2,14.1,Brisbane Heat,JL Denly,L Gregory,JA Prestwidge,0,0,,,,,,"",""
+ball,2,14.2,Brisbane Heat,JL Denly,L Gregory,JA Prestwidge,0,0,,,,,,"",""
+ball,2,14.3,Brisbane Heat,JL Denly,L Gregory,JA Prestwidge,4,0,,,,,,"",""
+ball,2,14.4,Brisbane Heat,JL Denly,L Gregory,JA Prestwidge,1,0,,,,,,"",""
+ball,2,14.5,Brisbane Heat,L Gregory,JL Denly,JA Prestwidge,0,0,,,,,,caught,L Gregory
+ball,2,14.6,Brisbane Heat,JA Burns,JL Denly,JA Prestwidge,0,0,,,,,,"",""
+ball,2,15.1,Brisbane Heat,JL Denly,JA Burns,Imad Wasim,3,0,,,,,,"",""
+ball,2,15.2,Brisbane Heat,JA Burns,JL Denly,Imad Wasim,0,0,,,,,,"",""
+ball,2,15.3,Brisbane Heat,JA Burns,JL Denly,Imad Wasim,1,0,,,,,,"",""
+ball,2,15.4,Brisbane Heat,JL Denly,JA Burns,Imad Wasim,0,0,,,,,,caught,JL Denly
+ball,2,15.5,Brisbane Heat,JA Burns,JJ Bazley,Imad Wasim,1,0,,,,,,"",""
+ball,2,15.6,Brisbane Heat,JJ Bazley,JA Burns,Imad Wasim,1,0,,,,,,"",""
+ball,2,16.1,Brisbane Heat,JJ Bazley,JA Burns,P Hatzoglou,0,1,1,,,,,"",""
+ball,2,16.2,Brisbane Heat,JJ Bazley,JA Burns,P Hatzoglou,0,0,,,,,,stumped,JJ Bazley
+ball,2,16.3,Brisbane Heat,JJ Peirson,JA Burns,P Hatzoglou,1,0,,,,,,"",""
+ball,2,16.4,Brisbane Heat,JA Burns,JJ Peirson,P Hatzoglou,2,0,,,,,,"",""
+ball,2,16.5,Brisbane Heat,JA Burns,JJ Peirson,P Hatzoglou,4,0,,,,,,"",""
+ball,2,16.6,Brisbane Heat,JA Burns,JJ Peirson,P Hatzoglou,0,0,,,,,,"",""
+ball,2,16.7,Brisbane Heat,JA Burns,JJ Peirson,P Hatzoglou,4,0,,,,,,"",""
+ball,2,17.1,Brisbane Heat,JJ Peirson,JA Burns,Noor Ahmad,1,0,,,,,,"",""
+ball,2,17.2,Brisbane Heat,JA Burns,JJ Peirson,Noor Ahmad,6,0,,,,,,"",""
+ball,2,17.3,Brisbane Heat,JA Burns,JJ Peirson,Noor Ahmad,1,0,,,,,,"",""
+ball,2,17.4,Brisbane Heat,JJ Peirson,JA Burns,Noor Ahmad,1,0,,,,,,"",""
+ball,2,17.5,Brisbane Heat,JA Burns,JJ Peirson,Noor Ahmad,2,0,,,,,,"",""
+ball,2,17.6,Brisbane Heat,JA Burns,JJ Peirson,Noor Ahmad,1,0,,,,,,"",""
+ball,2,18.1,Brisbane Heat,JA Burns,JJ Peirson,KW Richardson,4,0,,,,,,"",""
+ball,2,18.2,Brisbane Heat,JA Burns,JJ Peirson,KW Richardson,1,0,,,,,,"",""
+ball,2,18.3,Brisbane Heat,JJ Peirson,JA Burns,KW Richardson,1,0,,,,,,"",""
+ball,2,18.4,Brisbane Heat,JA Burns,JJ Peirson,KW Richardson,4,0,,,,,,"",""

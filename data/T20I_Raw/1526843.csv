@@ -1,0 +1,309 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,St Helena
+info,team,Seychelles
+info,gender,male
+info,season,2025/26
+info,date,2026/03/25
+info,event,ICC Men's T20 World Cup Africa Sub Regional Qualifier B
+info,match_number,4
+info,venue,"Achimota Senior Secondary School A Field, Accra"
+info,city,Accra
+info,toss_winner,Seychelles
+info,toss_decision,field
+info,player_of_match,STRA de Silva
+info,umpire,A Kassam
+info,umpire,Claus Schumacher
+info,reserve_umpire,D Odhiambo
+info,match_referee,O Chirombe
+info,winner,Seychelles
+info,winner_wickets,7
+info,player,St Helena,J Henry
+info,player,St Helena,J Essex
+info,player,St Helena,Delroy Leo
+info,player,St Helena,A Yon
+info,player,St Helena,J Thomas
+info,player,St Helena,R Francis
+info,player,St Helena,AR Leo
+info,player,St Helena,CR Richards
+info,player,St Helena,B Leo
+info,player,St Helena,BK Stroud
+info,player,St Helena,J Yon
+info,player,Seychelles,STRA de Silva
+info,player,Seychelles,M Mariyappan
+info,player,Seychelles,TKP Rajapaksha
+info,player,Seychelles,Mazharul Islam
+info,player,Seychelles,SR Mohan
+info,player,Seychelles,Mohomed Saddam
+info,player,Seychelles,Jobayer Hossen
+info,player,Seychelles,M Viswanathan
+info,player,Seychelles,Thilina Silva
+info,player,Seychelles,D Kalvin
+info,player,Seychelles,S Rukmal
+info,registry,people,A Kassam,7d13b388
+info,registry,people,A Yon,99bf1fb7
+info,registry,people,AR Leo,e13f8b16
+info,registry,people,B Leo,740a5494
+info,registry,people,BK Stroud,6577a6ad
+info,registry,people,CR Richards,c10a581f
+info,registry,people,Claus Schumacher,85645e62
+info,registry,people,D Kalvin,895ae8b6
+info,registry,people,D Odhiambo,45994517
+info,registry,people,Delroy Leo,e71f511e
+info,registry,people,J Essex,84012d7f
+info,registry,people,J Henry,68e7e8d5
+info,registry,people,J Thomas,11b785d6
+info,registry,people,J Yon,ecd41f8c
+info,registry,people,Jobayer Hossen,656fc15b
+info,registry,people,M Mariyappan,69cbd850
+info,registry,people,M Viswanathan,dd9ab45d
+info,registry,people,Mazharul Islam,30564b3e
+info,registry,people,Mohomed Saddam,e1043e7b
+info,registry,people,O Chirombe,6345307f
+info,registry,people,R Francis,06b766f4
+info,registry,people,S Rukmal,f5be7b08
+info,registry,people,SR Mohan,58533699
+info,registry,people,STRA de Silva,21fe743b
+info,registry,people,TKP Rajapaksha,b5dcec37
+info,registry,people,Thilina Silva,f0ad7a75
+ball,1,0.1,St Helena,J Henry,J Essex,S Rukmal,0,1,1,,,,,"",""
+ball,1,0.2,St Helena,J Henry,J Essex,S Rukmal,0,1,1,,,,,"",""
+ball,1,0.3,St Helena,J Henry,J Essex,S Rukmal,0,1,1,,,,,"",""
+ball,1,0.4,St Helena,J Henry,J Essex,S Rukmal,0,0,,,,,,"",""
+ball,1,0.5,St Helena,J Henry,J Essex,S Rukmal,0,0,,,,,,"",""
+ball,1,0.6,St Helena,J Henry,J Essex,S Rukmal,1,0,,,,,,"",""
+ball,1,0.7,St Helena,J Essex,J Henry,S Rukmal,0,0,,,,,,"",""
+ball,1,0.8,St Helena,J Essex,J Henry,S Rukmal,0,0,,,,,,"",""
+ball,1,0.9,St Helena,J Essex,J Henry,S Rukmal,0,0,,,,,,"",""
+ball,1,1.1,St Helena,J Henry,J Essex,Jobayer Hossen,0,0,,,,,,"",""
+ball,1,1.2,St Helena,J Henry,J Essex,Jobayer Hossen,1,0,,,,,,"",""
+ball,1,1.3,St Helena,J Essex,J Henry,Jobayer Hossen,0,0,,,,,,"",""
+ball,1,1.4,St Helena,J Essex,J Henry,Jobayer Hossen,0,0,,,,,,"",""
+ball,1,1.5,St Helena,J Essex,J Henry,Jobayer Hossen,2,0,,,,,,"",""
+ball,1,1.6,St Helena,J Essex,J Henry,Jobayer Hossen,0,0,,,,,,"",""
+ball,1,2.1,St Helena,J Henry,J Essex,S Rukmal,0,0,,,,,,"",""
+ball,1,2.2,St Helena,J Henry,J Essex,S Rukmal,0,0,,,,,,"",""
+ball,1,2.3,St Helena,J Henry,J Essex,S Rukmal,0,0,,,,,,caught and bowled,J Henry
+ball,1,2.4,St Helena,Delroy Leo,J Essex,S Rukmal,0,1,1,,,,,"",""
+ball,1,2.5,St Helena,Delroy Leo,J Essex,S Rukmal,1,0,,,,,,"",""
+ball,1,2.6,St Helena,J Essex,Delroy Leo,S Rukmal,0,0,,,,,,"",""
+ball,1,2.7,St Helena,J Essex,Delroy Leo,S Rukmal,0,0,,,,,,"",""
+ball,1,3.1,St Helena,Delroy Leo,J Essex,Jobayer Hossen,0,1,1,,,,,"",""
+ball,1,3.2,St Helena,Delroy Leo,J Essex,Jobayer Hossen,0,0,,,,,,"",""
+ball,1,3.3,St Helena,Delroy Leo,J Essex,Jobayer Hossen,0,0,,,,,,"",""
+ball,1,3.4,St Helena,Delroy Leo,J Essex,Jobayer Hossen,0,0,,,,,,"",""
+ball,1,3.5,St Helena,Delroy Leo,J Essex,Jobayer Hossen,1,0,,,,,,"",""
+ball,1,3.6,St Helena,J Essex,Delroy Leo,Jobayer Hossen,0,0,,,,,,"",""
+ball,1,3.7,St Helena,J Essex,Delroy Leo,Jobayer Hossen,1,0,,,,,,"",""
+ball,1,4.1,St Helena,J Essex,Delroy Leo,S Rukmal,4,0,,,,,,"",""
+ball,1,4.2,St Helena,J Essex,Delroy Leo,S Rukmal,0,1,1,,,,,"",""
+ball,1,4.3,St Helena,J Essex,Delroy Leo,S Rukmal,0,0,,,,,,"",""
+ball,1,4.4,St Helena,J Essex,Delroy Leo,S Rukmal,0,0,,,,,,"",""
+ball,1,4.5,St Helena,J Essex,Delroy Leo,S Rukmal,1,0,,,,,,"",""
+ball,1,4.6,St Helena,Delroy Leo,J Essex,S Rukmal,0,0,,,,,,lbw,Delroy Leo
+ball,1,4.7,St Helena,A Yon,J Essex,S Rukmal,0,0,,,,,,"",""
+ball,1,5.1,St Helena,J Essex,A Yon,Jobayer Hossen,1,0,,,,,,"",""
+ball,1,5.2,St Helena,A Yon,J Essex,Jobayer Hossen,0,1,1,,,,,"",""
+ball,1,5.3,St Helena,A Yon,J Essex,Jobayer Hossen,0,0,,,,,,"",""
+ball,1,5.4,St Helena,A Yon,J Essex,Jobayer Hossen,2,0,,,,,,"",""
+ball,1,5.5,St Helena,A Yon,J Essex,Jobayer Hossen,1,0,,,,,,"",""
+ball,1,5.6,St Helena,J Essex,A Yon,Jobayer Hossen,1,0,,,,,,"",""
+ball,1,5.7,St Helena,A Yon,J Essex,Jobayer Hossen,0,0,,,,,,"",""
+ball,1,6.1,St Helena,J Essex,A Yon,Thilina Silva,0,0,,,,,,"",""
+ball,1,6.2,St Helena,J Essex,A Yon,Thilina Silva,6,0,,,,,,"",""
+ball,1,6.3,St Helena,J Essex,A Yon,Thilina Silva,1,0,,,,,,"",""
+ball,1,6.4,St Helena,A Yon,J Essex,Thilina Silva,4,0,,,,,,"",""
+ball,1,6.5,St Helena,A Yon,J Essex,Thilina Silva,1,0,,,,,,"",""
+ball,1,6.6,St Helena,J Essex,A Yon,Thilina Silva,1,0,,,,,,"",""
+ball,1,7.1,St Helena,J Essex,A Yon,Mazharul Islam,0,0,,,,,,"",""
+ball,1,7.2,St Helena,J Essex,A Yon,Mazharul Islam,1,0,,,,,,"",""
+ball,1,7.3,St Helena,A Yon,J Essex,Mazharul Islam,1,0,,,,,,"",""
+ball,1,7.4,St Helena,J Essex,A Yon,Mazharul Islam,0,0,,,,,,stumped,J Essex
+ball,1,7.5,St Helena,J Thomas,A Yon,Mazharul Islam,0,0,,,,,,"",""
+ball,1,7.6,St Helena,J Thomas,A Yon,Mazharul Islam,0,0,,,,,,"",""
+ball,1,8.1,St Helena,A Yon,J Thomas,Thilina Silva,0,0,,,,,,"",""
+ball,1,8.2,St Helena,A Yon,J Thomas,Thilina Silva,6,0,,,,,,"",""
+ball,1,8.3,St Helena,A Yon,J Thomas,Thilina Silva,0,0,,,,,,caught,A Yon
+ball,1,8.4,St Helena,R Francis,J Thomas,Thilina Silva,0,0,,,,,,"",""
+ball,1,8.5,St Helena,R Francis,J Thomas,Thilina Silva,1,0,,,,,,"",""
+ball,1,8.6,St Helena,J Thomas,R Francis,Thilina Silva,0,0,,,,,,"",""
+ball,1,9.1,St Helena,R Francis,J Thomas,Mazharul Islam,0,0,,,,,,"",""
+ball,1,9.2,St Helena,R Francis,J Thomas,Mazharul Islam,0,0,,,,,,"",""
+ball,1,9.3,St Helena,R Francis,J Thomas,Mazharul Islam,4,0,,,,,,"",""
+ball,1,9.4,St Helena,R Francis,J Thomas,Mazharul Islam,2,0,,,,,,"",""
+ball,1,9.5,St Helena,R Francis,J Thomas,Mazharul Islam,0,0,,,,,,caught,R Francis
+ball,1,9.6,St Helena,AR Leo,J Thomas,Mazharul Islam,1,0,,,,,,"",""
+ball,1,10.1,St Helena,AR Leo,J Thomas,Thilina Silva,0,0,,,,,,"",""
+ball,1,10.2,St Helena,AR Leo,J Thomas,Thilina Silva,1,0,,,,,,"",""
+ball,1,10.3,St Helena,J Thomas,AR Leo,Thilina Silva,0,0,,,,,,"",""
+ball,1,10.4,St Helena,J Thomas,AR Leo,Thilina Silva,1,0,,,,,,"",""
+ball,1,10.5,St Helena,AR Leo,J Thomas,Thilina Silva,0,0,,,,,,"",""
+ball,1,10.6,St Helena,AR Leo,J Thomas,Thilina Silva,0,0,,,,,,"",""
+ball,1,11.1,St Helena,J Thomas,AR Leo,Mazharul Islam,0,0,,,,,,"",""
+ball,1,11.2,St Helena,J Thomas,AR Leo,Mazharul Islam,1,0,,,,,,"",""
+ball,1,11.3,St Helena,AR Leo,J Thomas,Mazharul Islam,0,0,,,,,,"",""
+ball,1,11.4,St Helena,AR Leo,J Thomas,Mazharul Islam,1,0,,,,,,"",""
+ball,1,11.5,St Helena,J Thomas,AR Leo,Mazharul Islam,1,0,,,,,,"",""
+ball,1,11.6,St Helena,AR Leo,J Thomas,Mazharul Islam,1,0,,,,,,"",""
+ball,1,12.1,St Helena,AR Leo,J Thomas,Thilina Silva,0,0,,,,,,"",""
+ball,1,12.2,St Helena,AR Leo,J Thomas,Thilina Silva,0,0,,,,,,"",""
+ball,1,12.3,St Helena,AR Leo,J Thomas,Thilina Silva,0,0,,,,,,"",""
+ball,1,12.4,St Helena,AR Leo,J Thomas,Thilina Silva,0,0,,,,,,"",""
+ball,1,12.5,St Helena,AR Leo,J Thomas,Thilina Silva,0,0,,,,,,"",""
+ball,1,12.6,St Helena,AR Leo,J Thomas,Thilina Silva,0,0,,,,,,"",""
+ball,1,13.1,St Helena,J Thomas,AR Leo,Mazharul Islam,0,0,,,,,,"",""
+ball,1,13.2,St Helena,J Thomas,AR Leo,Mazharul Islam,1,0,,,,,,"",""
+ball,1,13.3,St Helena,AR Leo,J Thomas,Mazharul Islam,1,0,,,,,,"",""
+ball,1,13.4,St Helena,J Thomas,AR Leo,Mazharul Islam,1,0,,,,,,"",""
+ball,1,13.5,St Helena,AR Leo,J Thomas,Mazharul Islam,0,0,,,,,,"",""
+ball,1,13.6,St Helena,AR Leo,J Thomas,Mazharul Islam,1,0,,,,,,"",""
+ball,1,14.1,St Helena,AR Leo,J Thomas,TKP Rajapaksha,1,0,,,,,,"",""
+ball,1,14.2,St Helena,J Thomas,AR Leo,TKP Rajapaksha,0,0,,,,,,"",""
+ball,1,14.3,St Helena,J Thomas,AR Leo,TKP Rajapaksha,1,0,,,,,,"",""
+ball,1,14.4,St Helena,AR Leo,J Thomas,TKP Rajapaksha,1,0,,,,,,"",""
+ball,1,14.5,St Helena,J Thomas,AR Leo,TKP Rajapaksha,0,1,1,,,,,"",""
+ball,1,14.6,St Helena,J Thomas,AR Leo,TKP Rajapaksha,1,0,,,,,,"",""
+ball,1,14.7,St Helena,AR Leo,J Thomas,TKP Rajapaksha,0,0,,,,,,"",""
+ball,1,15.1,St Helena,J Thomas,AR Leo,STRA de Silva,0,0,,,,,,"",""
+ball,1,15.2,St Helena,J Thomas,AR Leo,STRA de Silva,1,0,,,,,,"",""
+ball,1,15.3,St Helena,AR Leo,J Thomas,STRA de Silva,0,0,,,,,,caught,AR Leo
+ball,1,15.4,St Helena,CR Richards,J Thomas,STRA de Silva,0,0,,,,,,"",""
+ball,1,15.5,St Helena,CR Richards,J Thomas,STRA de Silva,1,0,,,,,,"",""
+ball,1,15.6,St Helena,J Thomas,CR Richards,STRA de Silva,2,0,,,,,,"",""
+ball,1,16.1,St Helena,CR Richards,J Thomas,TKP Rajapaksha,0,0,,,,,,"",""
+ball,1,16.2,St Helena,CR Richards,J Thomas,TKP Rajapaksha,0,1,1,,,,,"",""
+ball,1,16.3,St Helena,CR Richards,J Thomas,TKP Rajapaksha,1,0,,,,,,"",""
+ball,1,16.4,St Helena,J Thomas,CR Richards,TKP Rajapaksha,2,0,,,,,,"",""
+ball,1,16.5,St Helena,J Thomas,CR Richards,TKP Rajapaksha,0,0,,,,,,"",""
+ball,1,16.6,St Helena,J Thomas,CR Richards,TKP Rajapaksha,4,0,,,,,,"",""
+ball,1,16.7,St Helena,J Thomas,CR Richards,TKP Rajapaksha,1,0,,,,,,"",""
+ball,1,17.1,St Helena,J Thomas,CR Richards,STRA de Silva,1,0,,,,,,"",""
+ball,1,17.2,St Helena,CR Richards,J Thomas,STRA de Silva,0,0,,,,,,"",""
+ball,1,17.3,St Helena,CR Richards,J Thomas,STRA de Silva,0,0,,,,,,"",""
+ball,1,17.4,St Helena,CR Richards,J Thomas,STRA de Silva,4,0,,,,,,"",""
+ball,1,17.5,St Helena,CR Richards,J Thomas,STRA de Silva,1,0,,,,,,"",""
+ball,1,17.6,St Helena,J Thomas,CR Richards,STRA de Silva,0,0,,,,,,"",""
+ball,1,18.1,St Helena,CR Richards,J Thomas,S Rukmal,0,0,,,,,,"",""
+ball,1,18.2,St Helena,CR Richards,J Thomas,S Rukmal,0,0,,,,,,"",""
+ball,1,18.3,St Helena,CR Richards,J Thomas,S Rukmal,0,0,,,,,,"",""
+ball,1,18.4,St Helena,CR Richards,J Thomas,S Rukmal,0,0,,,,,,bowled,CR Richards
+ball,1,18.5,St Helena,B Leo,J Thomas,S Rukmal,0,0,,,,,,"",""
+ball,1,18.6,St Helena,B Leo,J Thomas,S Rukmal,0,0,,,,,,"",""
+ball,1,19.1,St Helena,J Thomas,B Leo,Jobayer Hossen,0,0,,,,,,"",""
+ball,1,19.2,St Helena,J Thomas,B Leo,Jobayer Hossen,4,0,,,,,,"",""
+ball,1,19.3,St Helena,J Thomas,B Leo,Jobayer Hossen,2,0,,,,,,"",""
+ball,1,19.4,St Helena,J Thomas,B Leo,Jobayer Hossen,0,0,,,,,,"",""
+ball,1,19.5,St Helena,J Thomas,B Leo,Jobayer Hossen,2,0,,,,,,"",""
+ball,1,19.6,St Helena,J Thomas,B Leo,Jobayer Hossen,0,0,,,,,,"",""
+ball,2,0.1,Seychelles,STRA de Silva,M Mariyappan,R Francis,1,0,,,,,,"",""
+ball,2,0.2,Seychelles,M Mariyappan,STRA de Silva,R Francis,0,0,,,,,,"",""
+ball,2,0.3,Seychelles,M Mariyappan,STRA de Silva,R Francis,1,0,,,,,,"",""
+ball,2,0.4,Seychelles,STRA de Silva,M Mariyappan,R Francis,0,0,,,,,,"",""
+ball,2,0.5,Seychelles,STRA de Silva,M Mariyappan,R Francis,0,0,,,,,,"",""
+ball,2,0.6,Seychelles,STRA de Silva,M Mariyappan,R Francis,1,0,,,,,,"",""
+ball,2,1.1,Seychelles,STRA de Silva,M Mariyappan,BK Stroud,0,0,,,,,,"",""
+ball,2,1.2,Seychelles,STRA de Silva,M Mariyappan,BK Stroud,0,0,,,,,,"",""
+ball,2,1.3,Seychelles,STRA de Silva,M Mariyappan,BK Stroud,0,0,,,,,,"",""
+ball,2,1.4,Seychelles,STRA de Silva,M Mariyappan,BK Stroud,0,0,,,,,,"",""
+ball,2,1.5,Seychelles,STRA de Silva,M Mariyappan,BK Stroud,0,0,,,,,,"",""
+ball,2,1.6,Seychelles,STRA de Silva,M Mariyappan,BK Stroud,1,0,,,,,,"",""
+ball,2,2.1,Seychelles,STRA de Silva,M Mariyappan,R Francis,1,0,,,,,,"",""
+ball,2,2.2,Seychelles,M Mariyappan,STRA de Silva,R Francis,0,1,,,,1,,"",""
+ball,2,2.3,Seychelles,STRA de Silva,M Mariyappan,R Francis,1,0,,,,,,"",""
+ball,2,2.4,Seychelles,M Mariyappan,STRA de Silva,R Francis,0,0,,,,,,"",""
+ball,2,2.5,Seychelles,M Mariyappan,STRA de Silva,R Francis,0,0,,,,,,"",""
+ball,2,2.6,Seychelles,M Mariyappan,STRA de Silva,R Francis,0,0,,,,,,"",""
+ball,2,3.1,Seychelles,STRA de Silva,M Mariyappan,BK Stroud,0,0,,,,,,"",""
+ball,2,3.2,Seychelles,STRA de Silva,M Mariyappan,BK Stroud,4,0,,,,,,"",""
+ball,2,3.3,Seychelles,STRA de Silva,M Mariyappan,BK Stroud,0,0,,,,,,"",""
+ball,2,3.4,Seychelles,STRA de Silva,M Mariyappan,BK Stroud,0,0,,,,,,"",""
+ball,2,3.5,Seychelles,STRA de Silva,M Mariyappan,BK Stroud,1,0,,,,,,"",""
+ball,2,3.6,Seychelles,M Mariyappan,STRA de Silva,BK Stroud,0,0,,,,,,"",""
+ball,2,4.1,Seychelles,STRA de Silva,M Mariyappan,R Francis,2,0,,,,,,"",""
+ball,2,4.2,Seychelles,STRA de Silva,M Mariyappan,R Francis,0,0,,,,,,"",""
+ball,2,4.3,Seychelles,STRA de Silva,M Mariyappan,R Francis,0,0,,,,,,"",""
+ball,2,4.4,Seychelles,STRA de Silva,M Mariyappan,R Francis,1,0,,,,,,"",""
+ball,2,4.5,Seychelles,M Mariyappan,STRA de Silva,R Francis,0,0,,,,,,run out,M Mariyappan
+ball,2,4.6,Seychelles,TKP Rajapaksha,STRA de Silva,R Francis,0,0,,,,,,"",""
+ball,2,5.1,Seychelles,STRA de Silva,TKP Rajapaksha,BK Stroud,2,0,,,,,,"",""
+ball,2,5.2,Seychelles,STRA de Silva,TKP Rajapaksha,BK Stroud,0,0,,,,,,"",""
+ball,2,5.3,Seychelles,STRA de Silva,TKP Rajapaksha,BK Stroud,0,0,,,,,,"",""
+ball,2,5.4,Seychelles,STRA de Silva,TKP Rajapaksha,BK Stroud,4,0,,,,,,"",""
+ball,2,5.5,Seychelles,STRA de Silva,TKP Rajapaksha,BK Stroud,1,0,,,,,,"",""
+ball,2,5.6,Seychelles,TKP Rajapaksha,STRA de Silva,BK Stroud,0,0,,,,,,"",""
+ball,2,6.1,Seychelles,STRA de Silva,TKP Rajapaksha,R Francis,0,0,,,,,,"",""
+ball,2,6.2,Seychelles,STRA de Silva,TKP Rajapaksha,R Francis,0,0,,,,,,"",""
+ball,2,6.3,Seychelles,STRA de Silva,TKP Rajapaksha,R Francis,0,0,,,,,,"",""
+ball,2,6.4,Seychelles,STRA de Silva,TKP Rajapaksha,R Francis,4,0,,,,,,"",""
+ball,2,6.5,Seychelles,STRA de Silva,TKP Rajapaksha,R Francis,0,0,,,,,,"",""
+ball,2,6.6,Seychelles,STRA de Silva,TKP Rajapaksha,R Francis,1,0,,,,,,"",""
+ball,2,7.1,Seychelles,STRA de Silva,TKP Rajapaksha,BK Stroud,1,0,,,,,,"",""
+ball,2,7.2,Seychelles,TKP Rajapaksha,STRA de Silva,BK Stroud,1,0,,,,,,"",""
+ball,2,7.3,Seychelles,STRA de Silva,TKP Rajapaksha,BK Stroud,0,0,,,,,,"",""
+ball,2,7.4,Seychelles,STRA de Silva,TKP Rajapaksha,BK Stroud,0,0,,,,,,"",""
+ball,2,7.5,Seychelles,STRA de Silva,TKP Rajapaksha,BK Stroud,1,0,,,,,,"",""
+ball,2,7.6,Seychelles,TKP Rajapaksha,STRA de Silva,BK Stroud,1,0,,,,,,"",""
+ball,2,8.1,Seychelles,TKP Rajapaksha,STRA de Silva,J Thomas,0,0,,,,,,"",""
+ball,2,8.2,Seychelles,TKP Rajapaksha,STRA de Silva,J Thomas,4,0,,,,,,"",""
+ball,2,8.3,Seychelles,TKP Rajapaksha,STRA de Silva,J Thomas,1,0,,,,,,"",""
+ball,2,8.4,Seychelles,STRA de Silva,TKP Rajapaksha,J Thomas,0,0,,,,,,"",""
+ball,2,8.5,Seychelles,STRA de Silva,TKP Rajapaksha,J Thomas,4,0,,,,,,"",""
+ball,2,8.6,Seychelles,STRA de Silva,TKP Rajapaksha,J Thomas,2,0,,,,,,"",""
+ball,2,9.1,Seychelles,TKP Rajapaksha,STRA de Silva,AR Leo,2,0,,,,,,"",""
+ball,2,9.2,Seychelles,TKP Rajapaksha,STRA de Silva,AR Leo,0,2,,,,2,,"",""
+ball,2,9.3,Seychelles,TKP Rajapaksha,STRA de Silva,AR Leo,0,1,1,,,,,"",""
+ball,2,9.4,Seychelles,TKP Rajapaksha,STRA de Silva,AR Leo,0,0,,,,,,"",""
+ball,2,9.5,Seychelles,TKP Rajapaksha,STRA de Silva,AR Leo,0,0,,,,,,"",""
+ball,2,9.6,Seychelles,TKP Rajapaksha,STRA de Silva,AR Leo,0,0,,,,,,"",""
+ball,2,9.7,Seychelles,TKP Rajapaksha,STRA de Silva,AR Leo,0,0,,,,,,"",""
+ball,2,10.1,Seychelles,STRA de Silva,TKP Rajapaksha,J Yon,0,1,1,,,,,"",""
+ball,2,10.2,Seychelles,STRA de Silva,TKP Rajapaksha,J Yon,0,0,,,,,,"",""
+ball,2,10.3,Seychelles,STRA de Silva,TKP Rajapaksha,J Yon,1,0,,,,,,"",""
+ball,2,10.4,Seychelles,TKP Rajapaksha,STRA de Silva,J Yon,1,0,,,,,,"",""
+ball,2,10.5,Seychelles,STRA de Silva,TKP Rajapaksha,J Yon,1,0,,,,,,"",""
+ball,2,10.6,Seychelles,TKP Rajapaksha,STRA de Silva,J Yon,1,0,,,,,,"",""
+ball,2,10.7,Seychelles,STRA de Silva,TKP Rajapaksha,J Yon,0,0,,,,,,"",""
+ball,2,11.1,Seychelles,TKP Rajapaksha,STRA de Silva,AR Leo,1,0,,,,,,"",""
+ball,2,11.2,Seychelles,STRA de Silva,TKP Rajapaksha,AR Leo,4,0,,,,,,"",""
+ball,2,11.3,Seychelles,STRA de Silva,TKP Rajapaksha,AR Leo,1,0,,,,,,"",""
+ball,2,11.4,Seychelles,TKP Rajapaksha,STRA de Silva,AR Leo,0,0,,,,,,"",""
+ball,2,11.5,Seychelles,TKP Rajapaksha,STRA de Silva,AR Leo,1,0,,,,,,"",""
+ball,2,11.6,Seychelles,STRA de Silva,TKP Rajapaksha,AR Leo,1,0,,,,,,"",""
+ball,2,12.1,Seychelles,STRA de Silva,TKP Rajapaksha,J Yon,0,1,1,,,,,"",""
+ball,2,12.2,Seychelles,STRA de Silva,TKP Rajapaksha,J Yon,0,0,,,,,,"",""
+ball,2,12.3,Seychelles,STRA de Silva,TKP Rajapaksha,J Yon,0,0,,,,,,"",""
+ball,2,12.4,Seychelles,STRA de Silva,TKP Rajapaksha,J Yon,5,0,,,,,,"",""
+ball,2,12.5,Seychelles,STRA de Silva,TKP Rajapaksha,J Yon,1,0,,,,,,"",""
+ball,2,12.6,Seychelles,TKP Rajapaksha,STRA de Silva,J Yon,4,0,,,,,,"",""
+ball,2,12.7,Seychelles,TKP Rajapaksha,STRA de Silva,J Yon,1,0,,,,,,"",""
+ball,2,13.1,Seychelles,TKP Rajapaksha,STRA de Silva,J Thomas,1,0,,,,,,"",""
+ball,2,13.2,Seychelles,STRA de Silva,TKP Rajapaksha,J Thomas,1,0,,,,,,"",""
+ball,2,13.3,Seychelles,TKP Rajapaksha,STRA de Silva,J Thomas,6,0,,,,,,"",""
+ball,2,13.4,Seychelles,TKP Rajapaksha,STRA de Silva,J Thomas,1,0,,,,,,"",""
+ball,2,13.5,Seychelles,STRA de Silva,TKP Rajapaksha,J Thomas,0,1,,,,1,,"",""
+ball,2,13.6,Seychelles,TKP Rajapaksha,STRA de Silva,J Thomas,0,0,,,,,,"",""
+ball,2,14.1,Seychelles,STRA de Silva,TKP Rajapaksha,J Henry,0,0,,,,,,"",""
+ball,2,14.2,Seychelles,STRA de Silva,TKP Rajapaksha,J Henry,1,0,,,,,,"",""
+ball,2,14.3,Seychelles,TKP Rajapaksha,STRA de Silva,J Henry,0,0,,,,,,caught,TKP Rajapaksha
+ball,2,14.4,Seychelles,Mazharul Islam,STRA de Silva,J Henry,0,0,,,,,,"",""
+ball,2,14.5,Seychelles,Mazharul Islam,STRA de Silva,J Henry,1,0,,,,,,"",""
+ball,2,14.6,Seychelles,STRA de Silva,Mazharul Islam,J Henry,0,0,,,,,,"",""
+ball,2,15.1,Seychelles,Mazharul Islam,STRA de Silva,J Essex,1,0,,,,,,"",""
+ball,2,15.2,Seychelles,STRA de Silva,Mazharul Islam,J Essex,1,0,,,,,,"",""
+ball,2,15.3,Seychelles,Mazharul Islam,STRA de Silva,J Essex,0,0,,,,,,"",""
+ball,2,15.4,Seychelles,Mazharul Islam,STRA de Silva,J Essex,1,0,,,,,,"",""
+ball,2,15.5,Seychelles,STRA de Silva,Mazharul Islam,J Essex,1,0,,,,,,"",""
+ball,2,15.6,Seychelles,Mazharul Islam,STRA de Silva,J Essex,1,0,,,,,,"",""
+ball,2,16.1,Seychelles,Mazharul Islam,STRA de Silva,J Henry,0,0,,,,,,"",""
+ball,2,16.2,Seychelles,Mazharul Islam,STRA de Silva,J Henry,2,0,,,,,,"",""
+ball,2,16.3,Seychelles,Mazharul Islam,STRA de Silva,J Henry,0,0,,,,,,run out,STRA de Silva
+ball,2,16.4,Seychelles,Mazharul Islam,SR Mohan,J Henry,0,0,,,,,,"",""
+ball,2,16.5,Seychelles,Mazharul Islam,SR Mohan,J Henry,0,0,,,,,,"",""
+ball,2,16.6,Seychelles,Mazharul Islam,SR Mohan,J Henry,1,0,,,,,,"",""
+ball,2,17.1,Seychelles,Mazharul Islam,SR Mohan,J Essex,1,0,,,,,,"",""
+ball,2,17.2,Seychelles,SR Mohan,Mazharul Islam,J Essex,1,0,,,,,,"",""
+ball,2,17.3,Seychelles,Mazharul Islam,SR Mohan,J Essex,0,0,,,,,,"",""
+ball,2,17.4,Seychelles,Mazharul Islam,SR Mohan,J Essex,0,0,,,,,,"",""
+ball,2,17.5,Seychelles,Mazharul Islam,SR Mohan,J Essex,0,0,,,,,,"",""
+ball,2,17.6,Seychelles,Mazharul Islam,SR Mohan,J Essex,1,0,,,,,,"",""
+ball,2,18.1,Seychelles,Mazharul Islam,SR Mohan,J Henry,0,1,1,,,,,"",""

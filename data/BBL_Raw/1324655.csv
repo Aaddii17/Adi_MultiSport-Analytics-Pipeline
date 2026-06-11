@@ -1,0 +1,308 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Hobart Hurricanes
+info,team,Melbourne Renegades
+info,gender,male
+info,season,2022/23
+info,date,2023/01/07
+info,event,Big Bash League
+info,match_number,32
+info,venue,"Docklands Stadium, Melbourne"
+info,city,Melbourne
+info,toss_winner,Melbourne Renegades
+info,toss_decision,field
+info,player_of_match,SB Harper
+info,umpire,GA Abood
+info,umpire,NR Johnstone
+info,reserve_umpire,Mattis van Eck
+info,tv_umpire,P Wilson
+info,match_referee,RL Parry
+info,winner,Melbourne Renegades
+info,winner_wickets,6
+info,player,Hobart Hurricanes,CP Jewell
+info,player,Hobart Hurricanes,BR McDermott
+info,player,Hobart Hurricanes,MS Wade
+info,player,Hobart Hurricanes,Z Crawley
+info,player,Hobart Hurricanes,TH David
+info,player,Hobart Hurricanes,Asif Ali
+info,player,Hobart Hurricanes,Faheem Ashraf
+info,player,Hobart Hurricanes,W Parker
+info,player,Hobart Hurricanes,JS Paris
+info,player,Hobart Hurricanes,NT Ellis
+info,player,Hobart Hurricanes,RP Meredith
+info,player,Melbourne Renegades,MJ Guptill
+info,player,Melbourne Renegades,MS Harris
+info,player,Melbourne Renegades,SB Harper
+info,player,Melbourne Renegades,AJ Finch
+info,player,Melbourne Renegades,JW Wells
+info,player,Melbourne Renegades,W Sutherland
+info,player,Melbourne Renegades,MW Harvey
+info,player,Melbourne Renegades,AJ Hosein
+info,player,Melbourne Renegades,TS Rogers
+info,player,Melbourne Renegades,KW Richardson
+info,player,Melbourne Renegades,Mujeeb Ur Rahman
+info,registry,people,AJ Finch,b8d490fd
+info,registry,people,AJ Hosein,4d7f517e
+info,registry,people,Asif Ali,0a4736eb
+info,registry,people,BR McDermott,c41043e6
+info,registry,people,CP Jewell,806c4e58
+info,registry,people,Faheem Ashraf,bd4ea627
+info,registry,people,GA Abood,a4af5528
+info,registry,people,JS Paris,7c8f533d
+info,registry,people,JW Wells,8bdac857
+info,registry,people,KW Richardson,dfc4d8b5
+info,registry,people,MJ Guptill,2be41edb
+info,registry,people,MS Harris,9e85455c
+info,registry,people,MS Wade,afa7e784
+info,registry,people,MW Harvey,47dc9794
+info,registry,people,Mattis van Eck,bf1a68c1
+info,registry,people,Mujeeb Ur Rahman,7d92277a
+info,registry,people,NR Johnstone,ce274b6a
+info,registry,people,NT Ellis,9eb1455b
+info,registry,people,P Wilson,68304a36
+info,registry,people,RL Parry,86d151dc
+info,registry,people,RP Meredith,64775749
+info,registry,people,SB Harper,a756e61a
+info,registry,people,TH David,f1f99156
+info,registry,people,TS Rogers,1b04e02b
+info,registry,people,W Parker,607c846c
+info,registry,people,W Sutherland,bc2d4f2e
+info,registry,people,Z Crawley,922e1b19
+ball,1,0.1,Hobart Hurricanes,CP Jewell,BR McDermott,TS Rogers,1,0,,,,,,"",""
+ball,1,0.2,Hobart Hurricanes,BR McDermott,CP Jewell,TS Rogers,0,0,,,,,,"",""
+ball,1,0.3,Hobart Hurricanes,BR McDermott,CP Jewell,TS Rogers,0,0,,,,,,"",""
+ball,1,0.4,Hobart Hurricanes,BR McDermott,CP Jewell,TS Rogers,2,0,,,,,,"",""
+ball,1,0.5,Hobart Hurricanes,BR McDermott,CP Jewell,TS Rogers,3,0,,,,,,"",""
+ball,1,0.6,Hobart Hurricanes,CP Jewell,BR McDermott,TS Rogers,0,0,,,,,,"",""
+ball,1,1.1,Hobart Hurricanes,BR McDermott,CP Jewell,Mujeeb Ur Rahman,0,0,,,,,,"",""
+ball,1,1.2,Hobart Hurricanes,BR McDermott,CP Jewell,Mujeeb Ur Rahman,0,0,,,,,,"",""
+ball,1,1.3,Hobart Hurricanes,BR McDermott,CP Jewell,Mujeeb Ur Rahman,1,0,,,,,,"",""
+ball,1,1.4,Hobart Hurricanes,CP Jewell,BR McDermott,Mujeeb Ur Rahman,0,0,,,,,,"",""
+ball,1,1.5,Hobart Hurricanes,CP Jewell,BR McDermott,Mujeeb Ur Rahman,0,0,,,,,,"",""
+ball,1,1.6,Hobart Hurricanes,CP Jewell,BR McDermott,Mujeeb Ur Rahman,6,0,,,,,,"",""
+ball,1,2.1,Hobart Hurricanes,BR McDermott,CP Jewell,KW Richardson,1,0,,,,,,"",""
+ball,1,2.2,Hobart Hurricanes,CP Jewell,BR McDermott,KW Richardson,0,0,,,,,,"",""
+ball,1,2.3,Hobart Hurricanes,CP Jewell,BR McDermott,KW Richardson,0,1,1,,,,,"",""
+ball,1,2.4,Hobart Hurricanes,CP Jewell,BR McDermott,KW Richardson,1,0,,,,,,"",""
+ball,1,2.5,Hobart Hurricanes,BR McDermott,CP Jewell,KW Richardson,0,1,1,,,,,"",""
+ball,1,2.6,Hobart Hurricanes,BR McDermott,CP Jewell,KW Richardson,6,0,,,,,,"",""
+ball,1,2.7,Hobart Hurricanes,BR McDermott,CP Jewell,KW Richardson,0,0,,,,,,"",""
+ball,1,2.8,Hobart Hurricanes,BR McDermott,CP Jewell,KW Richardson,0,0,,,,,,"",""
+ball,1,3.1,Hobart Hurricanes,CP Jewell,BR McDermott,Mujeeb Ur Rahman,6,0,,,,,,"",""
+ball,1,3.2,Hobart Hurricanes,CP Jewell,BR McDermott,Mujeeb Ur Rahman,0,0,,,,,,"",""
+ball,1,3.3,Hobart Hurricanes,CP Jewell,BR McDermott,Mujeeb Ur Rahman,1,0,,,,,,"",""
+ball,1,3.4,Hobart Hurricanes,BR McDermott,CP Jewell,Mujeeb Ur Rahman,0,0,,,,,,"",""
+ball,1,3.5,Hobart Hurricanes,BR McDermott,CP Jewell,Mujeeb Ur Rahman,0,0,,,,,,"",""
+ball,1,3.6,Hobart Hurricanes,BR McDermott,CP Jewell,Mujeeb Ur Rahman,4,0,,,,,,"",""
+ball,1,4.1,Hobart Hurricanes,CP Jewell,BR McDermott,W Sutherland,0,0,,,,,,"",""
+ball,1,4.2,Hobart Hurricanes,CP Jewell,BR McDermott,W Sutherland,0,0,,,,,,"",""
+ball,1,4.3,Hobart Hurricanes,CP Jewell,BR McDermott,W Sutherland,1,0,,,,,,"",""
+ball,1,4.4,Hobart Hurricanes,BR McDermott,CP Jewell,W Sutherland,0,0,,,,,,"",""
+ball,1,4.5,Hobart Hurricanes,BR McDermott,CP Jewell,W Sutherland,1,0,,,,,,"",""
+ball,1,4.6,Hobart Hurricanes,CP Jewell,BR McDermott,W Sutherland,4,0,,,,,,"",""
+ball,1,5.1,Hobart Hurricanes,BR McDermott,CP Jewell,TS Rogers,1,0,,,,,,"",""
+ball,1,5.2,Hobart Hurricanes,CP Jewell,BR McDermott,TS Rogers,2,0,,,,,,"",""
+ball,1,5.3,Hobart Hurricanes,CP Jewell,BR McDermott,TS Rogers,6,0,,,,,,"",""
+ball,1,5.4,Hobart Hurricanes,CP Jewell,BR McDermott,TS Rogers,0,0,,,,,,caught,CP Jewell
+ball,1,5.5,Hobart Hurricanes,MS Wade,BR McDermott,TS Rogers,1,0,,,,,,"",""
+ball,1,5.6,Hobart Hurricanes,BR McDermott,MS Wade,TS Rogers,0,0,,,,,,"",""
+ball,1,6.1,Hobart Hurricanes,MS Wade,BR McDermott,AJ Hosein,3,0,,,,,,"",""
+ball,1,6.2,Hobart Hurricanes,BR McDermott,MS Wade,AJ Hosein,1,0,,,,,,"",""
+ball,1,6.3,Hobart Hurricanes,MS Wade,BR McDermott,AJ Hosein,0,0,,,,,,"",""
+ball,1,6.4,Hobart Hurricanes,MS Wade,BR McDermott,AJ Hosein,2,0,,,,,,"",""
+ball,1,6.5,Hobart Hurricanes,MS Wade,BR McDermott,AJ Hosein,1,0,,,,,,"",""
+ball,1,6.6,Hobart Hurricanes,BR McDermott,MS Wade,AJ Hosein,6,0,,,,,,"",""
+ball,1,7.1,Hobart Hurricanes,MS Wade,BR McDermott,W Sutherland,0,1,1,,,,,"",""
+ball,1,7.2,Hobart Hurricanes,MS Wade,BR McDermott,W Sutherland,4,0,,,,,,"",""
+ball,1,7.3,Hobart Hurricanes,MS Wade,BR McDermott,W Sutherland,0,0,,,,,,"",""
+ball,1,7.4,Hobart Hurricanes,MS Wade,BR McDermott,W Sutherland,1,0,,,,,,"",""
+ball,1,7.5,Hobart Hurricanes,BR McDermott,MS Wade,W Sutherland,1,0,,,,,,"",""
+ball,1,7.6,Hobart Hurricanes,MS Wade,BR McDermott,W Sutherland,0,1,1,,,,,"",""
+ball,1,7.7,Hobart Hurricanes,MS Wade,BR McDermott,W Sutherland,1,0,,,,,,"",""
+ball,1,7.8,Hobart Hurricanes,BR McDermott,MS Wade,W Sutherland,1,0,,,,,,"",""
+ball,1,8.1,Hobart Hurricanes,BR McDermott,MS Wade,AJ Hosein,0,0,,,,,,caught,BR McDermott
+ball,1,8.2,Hobart Hurricanes,Z Crawley,MS Wade,AJ Hosein,2,0,,,,,,"",""
+ball,1,8.3,Hobart Hurricanes,Z Crawley,MS Wade,AJ Hosein,1,0,,,,,,"",""
+ball,1,8.4,Hobart Hurricanes,MS Wade,Z Crawley,AJ Hosein,0,1,,,,1,,"",""
+ball,1,8.5,Hobart Hurricanes,Z Crawley,MS Wade,AJ Hosein,1,0,,,,,,"",""
+ball,1,8.6,Hobart Hurricanes,MS Wade,Z Crawley,AJ Hosein,0,0,,,,,,"",""
+ball,1,9.1,Hobart Hurricanes,Z Crawley,MS Wade,W Sutherland,2,0,,,,,,"",""
+ball,1,9.2,Hobart Hurricanes,Z Crawley,MS Wade,W Sutherland,0,0,,,,,,"",""
+ball,1,9.3,Hobart Hurricanes,Z Crawley,MS Wade,W Sutherland,1,0,,,,,,"",""
+ball,1,9.4,Hobart Hurricanes,MS Wade,Z Crawley,W Sutherland,0,0,,,,,,"",""
+ball,1,9.5,Hobart Hurricanes,MS Wade,Z Crawley,W Sutherland,4,0,,,,,,"",""
+ball,1,9.6,Hobart Hurricanes,MS Wade,Z Crawley,W Sutherland,1,0,,,,,,"",""
+ball,1,10.1,Hobart Hurricanes,MS Wade,Z Crawley,Mujeeb Ur Rahman,1,0,,,,,,"",""
+ball,1,10.2,Hobart Hurricanes,Z Crawley,MS Wade,Mujeeb Ur Rahman,4,0,,,,,,"",""
+ball,1,10.3,Hobart Hurricanes,Z Crawley,MS Wade,Mujeeb Ur Rahman,1,0,,,,,,"",""
+ball,1,10.4,Hobart Hurricanes,MS Wade,Z Crawley,Mujeeb Ur Rahman,1,0,,,,,,"",""
+ball,1,10.5,Hobart Hurricanes,Z Crawley,MS Wade,Mujeeb Ur Rahman,0,0,,,,,,"",""
+ball,1,10.6,Hobart Hurricanes,Z Crawley,MS Wade,Mujeeb Ur Rahman,1,0,,,,,,"",""
+ball,1,11.1,Hobart Hurricanes,Z Crawley,MS Wade,KW Richardson,0,0,,,,,,caught,Z Crawley
+ball,1,11.2,Hobart Hurricanes,TH David,MS Wade,KW Richardson,1,0,,,,,,"",""
+ball,1,11.3,Hobart Hurricanes,MS Wade,TH David,KW Richardson,0,0,,,,,,run out,MS Wade
+ball,1,11.4,Hobart Hurricanes,Asif Ali,TH David,KW Richardson,0,0,,,,,,"",""
+ball,1,11.5,Hobart Hurricanes,Asif Ali,TH David,KW Richardson,0,0,,,,,,"",""
+ball,1,11.6,Hobart Hurricanes,Asif Ali,TH David,KW Richardson,0,0,,,,,,"",""
+ball,1,12.1,Hobart Hurricanes,TH David,Asif Ali,AJ Hosein,1,0,,,,,,"",""
+ball,1,12.2,Hobart Hurricanes,Asif Ali,TH David,AJ Hosein,0,0,,,,,,"",""
+ball,1,12.3,Hobart Hurricanes,Asif Ali,TH David,AJ Hosein,2,0,,,,,,"",""
+ball,1,12.4,Hobart Hurricanes,Asif Ali,TH David,AJ Hosein,6,0,,,,,,"",""
+ball,1,12.5,Hobart Hurricanes,Asif Ali,TH David,AJ Hosein,0,0,,,,,,"",""
+ball,1,12.6,Hobart Hurricanes,Asif Ali,TH David,AJ Hosein,0,0,,,,,,"",""
+ball,1,13.1,Hobart Hurricanes,TH David,Asif Ali,W Sutherland,1,0,,,,,,"",""
+ball,1,13.2,Hobart Hurricanes,Asif Ali,TH David,W Sutherland,0,0,,,,,,caught,Asif Ali
+ball,1,13.3,Hobart Hurricanes,Faheem Ashraf,TH David,W Sutherland,1,0,,,,,,"",""
+ball,1,13.4,Hobart Hurricanes,TH David,Faheem Ashraf,W Sutherland,1,0,,,,,,"",""
+ball,1,13.5,Hobart Hurricanes,Faheem Ashraf,TH David,W Sutherland,0,0,,,,,,"",""
+ball,1,13.6,Hobart Hurricanes,Faheem Ashraf,TH David,W Sutherland,4,0,,,,,,"",""
+ball,1,14.1,Hobart Hurricanes,TH David,Faheem Ashraf,AJ Hosein,4,0,,,,,,"",""
+ball,1,14.2,Hobart Hurricanes,TH David,Faheem Ashraf,AJ Hosein,0,1,,,,1,,"",""
+ball,1,14.3,Hobart Hurricanes,Faheem Ashraf,TH David,AJ Hosein,0,0,,,,,,"",""
+ball,1,14.4,Hobart Hurricanes,Faheem Ashraf,TH David,AJ Hosein,1,0,,,,,,"",""
+ball,1,14.5,Hobart Hurricanes,TH David,Faheem Ashraf,AJ Hosein,1,0,,,,,,"",""
+ball,1,14.6,Hobart Hurricanes,Faheem Ashraf,TH David,AJ Hosein,0,0,,,,,,run out,TH David
+ball,1,15.1,Hobart Hurricanes,W Parker,Faheem Ashraf,Mujeeb Ur Rahman,1,0,,,,,,"",""
+ball,1,15.2,Hobart Hurricanes,Faheem Ashraf,W Parker,Mujeeb Ur Rahman,2,0,,,,,,"",""
+ball,1,15.3,Hobart Hurricanes,Faheem Ashraf,W Parker,Mujeeb Ur Rahman,2,0,,,,,,"",""
+ball,1,15.4,Hobart Hurricanes,Faheem Ashraf,W Parker,Mujeeb Ur Rahman,0,0,,,,,,"",""
+ball,1,15.5,Hobart Hurricanes,Faheem Ashraf,W Parker,Mujeeb Ur Rahman,2,0,,,,,,"",""
+ball,1,15.6,Hobart Hurricanes,Faheem Ashraf,W Parker,Mujeeb Ur Rahman,4,0,,,,,,"",""
+ball,1,16.1,Hobart Hurricanes,W Parker,Faheem Ashraf,KW Richardson,0,0,,,,,,caught and bowled,W Parker
+ball,1,16.2,Hobart Hurricanes,JS Paris,Faheem Ashraf,KW Richardson,1,0,,,,,,"",""
+ball,1,16.3,Hobart Hurricanes,Faheem Ashraf,JS Paris,KW Richardson,0,0,,,,,,"",""
+ball,1,16.4,Hobart Hurricanes,Faheem Ashraf,JS Paris,KW Richardson,0,0,,,,,,"",""
+ball,1,16.5,Hobart Hurricanes,Faheem Ashraf,JS Paris,KW Richardson,0,0,,,,,,"",""
+ball,1,16.6,Hobart Hurricanes,Faheem Ashraf,JS Paris,KW Richardson,4,0,,,,,,"",""
+ball,1,17.1,Hobart Hurricanes,JS Paris,Faheem Ashraf,TS Rogers,1,0,,,,,,"",""
+ball,1,17.2,Hobart Hurricanes,Faheem Ashraf,JS Paris,TS Rogers,6,0,,,,,,"",""
+ball,1,17.3,Hobart Hurricanes,Faheem Ashraf,JS Paris,TS Rogers,0,0,,,,,,caught,Faheem Ashraf
+ball,1,17.4,Hobart Hurricanes,NT Ellis,JS Paris,TS Rogers,0,0,,,,,,"",""
+ball,1,17.5,Hobart Hurricanes,NT Ellis,JS Paris,TS Rogers,2,0,,,,,,"",""
+ball,1,17.6,Hobart Hurricanes,NT Ellis,JS Paris,TS Rogers,0,0,,,,,,"",""
+ball,1,18.1,Hobart Hurricanes,JS Paris,NT Ellis,KW Richardson,1,0,,,,,,"",""
+ball,1,18.2,Hobart Hurricanes,NT Ellis,JS Paris,KW Richardson,0,0,,,,,,"",""
+ball,1,18.3,Hobart Hurricanes,NT Ellis,JS Paris,KW Richardson,2,0,,,,,,"",""
+ball,1,18.4,Hobart Hurricanes,NT Ellis,JS Paris,KW Richardson,0,0,,,,,,"",""
+ball,1,18.5,Hobart Hurricanes,NT Ellis,JS Paris,KW Richardson,1,0,,,,,,"",""
+ball,1,18.6,Hobart Hurricanes,JS Paris,NT Ellis,KW Richardson,0,0,,,,,,"",""
+ball,1,19.1,Hobart Hurricanes,NT Ellis,JS Paris,TS Rogers,1,0,,,,,,"",""
+ball,1,19.2,Hobart Hurricanes,JS Paris,NT Ellis,TS Rogers,2,0,,,,,,"",""
+ball,1,19.3,Hobart Hurricanes,JS Paris,NT Ellis,TS Rogers,6,0,,,,,,"",""
+ball,1,19.4,Hobart Hurricanes,JS Paris,NT Ellis,TS Rogers,4,0,,,,,,"",""
+ball,1,19.5,Hobart Hurricanes,JS Paris,NT Ellis,TS Rogers,1,0,,,,,,"",""
+ball,1,19.6,Hobart Hurricanes,NT Ellis,JS Paris,TS Rogers,1,0,,,,,,"",""
+ball,2,0.1,Melbourne Renegades,MJ Guptill,MS Harris,JS Paris,0,0,,,,,,"",""
+ball,2,0.2,Melbourne Renegades,MJ Guptill,MS Harris,JS Paris,0,0,,,,,,"",""
+ball,2,0.3,Melbourne Renegades,MJ Guptill,MS Harris,JS Paris,4,0,,,,,,"",""
+ball,2,0.4,Melbourne Renegades,MJ Guptill,MS Harris,JS Paris,0,0,,,,,,"",""
+ball,2,0.5,Melbourne Renegades,MJ Guptill,MS Harris,JS Paris,0,0,,,,,,"",""
+ball,2,0.6,Melbourne Renegades,MJ Guptill,MS Harris,JS Paris,1,0,,,,,,"",""
+ball,2,1.1,Melbourne Renegades,MJ Guptill,MS Harris,RP Meredith,2,0,,,,,,"",""
+ball,2,1.2,Melbourne Renegades,MJ Guptill,MS Harris,RP Meredith,0,0,,,,,,"",""
+ball,2,1.3,Melbourne Renegades,MJ Guptill,MS Harris,RP Meredith,0,0,,,,,,"",""
+ball,2,1.4,Melbourne Renegades,MJ Guptill,MS Harris,RP Meredith,4,0,,,,,,"",""
+ball,2,1.5,Melbourne Renegades,MJ Guptill,MS Harris,RP Meredith,4,0,,,,,,"",""
+ball,2,1.6,Melbourne Renegades,MJ Guptill,MS Harris,RP Meredith,1,0,,,,,,"",""
+ball,2,2.1,Melbourne Renegades,MJ Guptill,MS Harris,Faheem Ashraf,6,0,,,,,,"",""
+ball,2,2.2,Melbourne Renegades,MJ Guptill,MS Harris,Faheem Ashraf,4,0,,,,,,"",""
+ball,2,2.3,Melbourne Renegades,MJ Guptill,MS Harris,Faheem Ashraf,4,0,,,,,,"",""
+ball,2,2.4,Melbourne Renegades,MJ Guptill,MS Harris,Faheem Ashraf,1,0,,,,,,"",""
+ball,2,2.5,Melbourne Renegades,MS Harris,MJ Guptill,Faheem Ashraf,0,0,,,,,,"",""
+ball,2,2.6,Melbourne Renegades,MS Harris,MJ Guptill,Faheem Ashraf,1,0,,,,,,"",""
+ball,2,3.1,Melbourne Renegades,MS Harris,MJ Guptill,RP Meredith,1,0,,,,,,"",""
+ball,2,3.2,Melbourne Renegades,MJ Guptill,MS Harris,RP Meredith,3,0,,,,,,"",""
+ball,2,3.3,Melbourne Renegades,MS Harris,MJ Guptill,RP Meredith,1,0,,,,,,"",""
+ball,2,3.4,Melbourne Renegades,MJ Guptill,MS Harris,RP Meredith,2,0,,,,,,"",""
+ball,2,3.5,Melbourne Renegades,MJ Guptill,MS Harris,RP Meredith,0,0,,,,,,caught,MJ Guptill
+ball,2,3.6,Melbourne Renegades,SB Harper,MS Harris,RP Meredith,0,0,,,,,,run out,MS Harris
+ball,2,4.1,Melbourne Renegades,AJ Finch,SB Harper,W Parker,1,0,,,,,,"",""
+ball,2,4.2,Melbourne Renegades,SB Harper,AJ Finch,W Parker,1,0,,,,,,"",""
+ball,2,4.3,Melbourne Renegades,AJ Finch,SB Harper,W Parker,1,0,,,,,,"",""
+ball,2,4.4,Melbourne Renegades,SB Harper,AJ Finch,W Parker,2,0,,,,,,"",""
+ball,2,4.5,Melbourne Renegades,SB Harper,AJ Finch,W Parker,1,0,,,,,,"",""
+ball,2,4.6,Melbourne Renegades,AJ Finch,SB Harper,W Parker,0,1,1,,,,,"",""
+ball,2,4.7,Melbourne Renegades,AJ Finch,SB Harper,W Parker,1,0,,,,,,"",""
+ball,2,5.1,Melbourne Renegades,AJ Finch,SB Harper,Faheem Ashraf,1,0,,,,,,"",""
+ball,2,5.2,Melbourne Renegades,SB Harper,AJ Finch,Faheem Ashraf,1,0,,,,,,"",""
+ball,2,5.3,Melbourne Renegades,AJ Finch,SB Harper,Faheem Ashraf,1,0,,,,,,"",""
+ball,2,5.4,Melbourne Renegades,SB Harper,AJ Finch,Faheem Ashraf,0,0,,,,,,"",""
+ball,2,5.5,Melbourne Renegades,SB Harper,AJ Finch,Faheem Ashraf,1,0,,,,,,"",""
+ball,2,5.6,Melbourne Renegades,AJ Finch,SB Harper,Faheem Ashraf,0,0,,,,,,"",""
+ball,2,6.1,Melbourne Renegades,SB Harper,AJ Finch,JS Paris,0,0,,,,,,"",""
+ball,2,6.2,Melbourne Renegades,SB Harper,AJ Finch,JS Paris,2,0,,,,,,"",""
+ball,2,6.3,Melbourne Renegades,SB Harper,AJ Finch,JS Paris,1,0,,,,,,"",""
+ball,2,6.4,Melbourne Renegades,AJ Finch,SB Harper,JS Paris,0,0,,,,,,caught,AJ Finch
+ball,2,6.5,Melbourne Renegades,JW Wells,SB Harper,JS Paris,0,0,,,,,,"",""
+ball,2,6.6,Melbourne Renegades,JW Wells,SB Harper,JS Paris,0,0,,,,,,"",""
+ball,2,7.1,Melbourne Renegades,SB Harper,JW Wells,NT Ellis,0,0,,,,,,"",""
+ball,2,7.2,Melbourne Renegades,SB Harper,JW Wells,NT Ellis,1,0,,,,,,"",""
+ball,2,7.3,Melbourne Renegades,JW Wells,SB Harper,NT Ellis,1,0,,,,,,"",""
+ball,2,7.4,Melbourne Renegades,SB Harper,JW Wells,NT Ellis,0,0,,,,,,"",""
+ball,2,7.5,Melbourne Renegades,SB Harper,JW Wells,NT Ellis,1,0,,,,,,"",""
+ball,2,7.6,Melbourne Renegades,JW Wells,SB Harper,NT Ellis,1,0,,,,,,"",""
+ball,2,8.1,Melbourne Renegades,JW Wells,SB Harper,W Parker,1,0,,,,,,"",""
+ball,2,8.2,Melbourne Renegades,SB Harper,JW Wells,W Parker,1,0,,,,,,"",""
+ball,2,8.3,Melbourne Renegades,JW Wells,SB Harper,W Parker,1,0,,,,,,"",""
+ball,2,8.4,Melbourne Renegades,SB Harper,JW Wells,W Parker,0,0,,,,,,"",""
+ball,2,8.5,Melbourne Renegades,SB Harper,JW Wells,W Parker,6,0,,,,,,"",""
+ball,2,8.6,Melbourne Renegades,SB Harper,JW Wells,W Parker,1,0,,,,,,"",""
+ball,2,9.1,Melbourne Renegades,SB Harper,JW Wells,TH David,1,0,,,,,,"",""
+ball,2,9.2,Melbourne Renegades,JW Wells,SB Harper,TH David,1,0,,,,,,"",""
+ball,2,9.3,Melbourne Renegades,SB Harper,JW Wells,TH David,2,0,,,,,,"",""
+ball,2,9.4,Melbourne Renegades,SB Harper,JW Wells,TH David,0,0,,,,,,"",""
+ball,2,9.5,Melbourne Renegades,SB Harper,JW Wells,TH David,0,1,1,,,,,"",""
+ball,2,9.6,Melbourne Renegades,SB Harper,JW Wells,TH David,2,0,,,,,,"",""
+ball,2,9.7,Melbourne Renegades,SB Harper,JW Wells,TH David,1,0,,,,,,"",""
+ball,2,10.1,Melbourne Renegades,SB Harper,JW Wells,RP Meredith,0,0,,,,,,"",""
+ball,2,10.2,Melbourne Renegades,SB Harper,JW Wells,RP Meredith,6,0,,,,,,"",""
+ball,2,10.3,Melbourne Renegades,SB Harper,JW Wells,RP Meredith,0,1,1,,,,,"",""
+ball,2,10.4,Melbourne Renegades,SB Harper,JW Wells,RP Meredith,1,0,,,,,,"",""
+ball,2,10.5,Melbourne Renegades,JW Wells,SB Harper,RP Meredith,1,0,,,,,,"",""
+ball,2,10.6,Melbourne Renegades,SB Harper,JW Wells,RP Meredith,4,0,,,,,,"",""
+ball,2,10.7,Melbourne Renegades,SB Harper,JW Wells,RP Meredith,1,0,,,,,,"",""
+ball,2,11.1,Melbourne Renegades,SB Harper,JW Wells,Faheem Ashraf,1,0,,,,,,"",""
+ball,2,11.2,Melbourne Renegades,JW Wells,SB Harper,Faheem Ashraf,0,0,,,,,,"",""
+ball,2,11.3,Melbourne Renegades,JW Wells,SB Harper,Faheem Ashraf,1,0,,,,,,"",""
+ball,2,11.4,Melbourne Renegades,SB Harper,JW Wells,Faheem Ashraf,1,0,,,,,,"",""
+ball,2,11.5,Melbourne Renegades,JW Wells,SB Harper,Faheem Ashraf,1,0,,,,,,"",""
+ball,2,11.6,Melbourne Renegades,SB Harper,JW Wells,Faheem Ashraf,0,0,,,,,,"",""
+ball,2,12.1,Melbourne Renegades,JW Wells,SB Harper,W Parker,1,0,,,,,,"",""
+ball,2,12.2,Melbourne Renegades,SB Harper,JW Wells,W Parker,1,0,,,,,,"",""
+ball,2,12.3,Melbourne Renegades,JW Wells,SB Harper,W Parker,1,0,,,,,,"",""
+ball,2,12.4,Melbourne Renegades,SB Harper,JW Wells,W Parker,2,0,,,,,,"",""
+ball,2,12.5,Melbourne Renegades,SB Harper,JW Wells,W Parker,4,0,,,,,,"",""
+ball,2,12.6,Melbourne Renegades,SB Harper,JW Wells,W Parker,6,0,,,,,,"",""
+ball,2,13.1,Melbourne Renegades,JW Wells,SB Harper,RP Meredith,1,0,,,,,,"",""
+ball,2,13.2,Melbourne Renegades,SB Harper,JW Wells,RP Meredith,6,0,,,,,,"",""
+ball,2,13.3,Melbourne Renegades,SB Harper,JW Wells,RP Meredith,0,0,,,,,,"",""
+ball,2,13.4,Melbourne Renegades,SB Harper,JW Wells,RP Meredith,1,0,,,,,,"",""
+ball,2,13.5,Melbourne Renegades,JW Wells,SB Harper,RP Meredith,0,0,,,,,,"",""
+ball,2,13.6,Melbourne Renegades,JW Wells,SB Harper,RP Meredith,1,0,,,,,,"",""
+ball,2,14.1,Melbourne Renegades,JW Wells,SB Harper,NT Ellis,0,0,,,,,,"",""
+ball,2,14.2,Melbourne Renegades,JW Wells,SB Harper,NT Ellis,1,0,,,,,,"",""
+ball,2,14.3,Melbourne Renegades,SB Harper,JW Wells,NT Ellis,0,0,,,,,,"",""
+ball,2,14.4,Melbourne Renegades,SB Harper,JW Wells,NT Ellis,2,0,,,,,,"",""
+ball,2,14.5,Melbourne Renegades,SB Harper,JW Wells,NT Ellis,1,0,,,,,,"",""
+ball,2,14.6,Melbourne Renegades,JW Wells,SB Harper,NT Ellis,2,0,,,,,,"",""
+ball,2,15.1,Melbourne Renegades,SB Harper,JW Wells,JS Paris,6,0,,,,,,"",""
+ball,2,15.2,Melbourne Renegades,SB Harper,JW Wells,JS Paris,6,0,,,,,,"",""
+ball,2,15.3,Melbourne Renegades,SB Harper,JW Wells,JS Paris,4,0,,,,,,"",""
+ball,2,15.4,Melbourne Renegades,SB Harper,JW Wells,JS Paris,0,1,1,,,,,"",""
+ball,2,15.5,Melbourne Renegades,SB Harper,JW Wells,JS Paris,6,0,,,,,,"",""
+ball,2,15.6,Melbourne Renegades,SB Harper,JW Wells,JS Paris,4,0,,,,,,"",""
+ball,2,15.7,Melbourne Renegades,SB Harper,JW Wells,JS Paris,1,0,,,,,,"",""
+ball,2,16.1,Melbourne Renegades,SB Harper,JW Wells,NT Ellis,0,0,,,,,,caught,SB Harper
+ball,2,16.2,Melbourne Renegades,W Sutherland,JW Wells,NT Ellis,0,0,,,,,,"",""
+ball,2,16.3,Melbourne Renegades,W Sutherland,JW Wells,NT Ellis,0,0,,,,,,"",""
+ball,2,16.4,Melbourne Renegades,W Sutherland,JW Wells,NT Ellis,1,0,,,,,,"",""
+ball,2,16.5,Melbourne Renegades,JW Wells,W Sutherland,NT Ellis,0,0,,,,,,"",""
+ball,2,16.6,Melbourne Renegades,JW Wells,W Sutherland,NT Ellis,2,0,,,,,,"",""
+ball,2,17.1,Melbourne Renegades,W Sutherland,JW Wells,TH David,0,1,1,,,,,"",""
+ball,2,17.2,Melbourne Renegades,W Sutherland,JW Wells,TH David,2,0,,,,,,"",""
+ball,2,17.3,Melbourne Renegades,W Sutherland,JW Wells,TH David,0,0,,,,,,"",""
+ball,2,17.4,Melbourne Renegades,W Sutherland,JW Wells,TH David,0,0,,,,,,"",""
+ball,2,17.5,Melbourne Renegades,W Sutherland,JW Wells,TH David,0,0,,,,,,"",""
+ball,2,17.6,Melbourne Renegades,W Sutherland,JW Wells,TH David,1,0,,,,,,"",""
+ball,2,17.7,Melbourne Renegades,JW Wells,W Sutherland,TH David,1,0,,,,,,"",""
+ball,2,18.1,Melbourne Renegades,JW Wells,W Sutherland,NT Ellis,4,0,,,,,,"",""

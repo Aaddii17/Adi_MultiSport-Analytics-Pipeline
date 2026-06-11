@@ -1,0 +1,313 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,West Indies
+info,team,England
+info,gender,male
+info,season,2025/26
+info,date,2026/02/11
+info,event,ICC Men's T20 World Cup
+info,match_number,15
+info,venue,"Wankhede Stadium, Mumbai"
+info,city,Mumbai
+info,toss_winner,England
+info,toss_decision,field
+info,player_of_match,SE Rutherford
+info,umpire,A Paleker
+info,umpire,DM Koch
+info,reserve_umpire,SJ Nogajski
+info,tv_umpire,CM Brown
+info,match_referee,J Srinath
+info,winner,West Indies
+info,winner_runs,30
+info,player,West Indies,BA King
+info,player,West Indies,SD Hope
+info,player,West Indies,SO Hetmyer
+info,player,West Indies,RL Chase
+info,player,West Indies,SE Rutherford
+info,player,West Indies,R Powell
+info,player,West Indies,JO Holder
+info,player,West Indies,R Shepherd
+info,player,West Indies,AJ Hosein
+info,player,West Indies,G Motie
+info,player,West Indies,S Joseph
+info,player,England,PD Salt
+info,player,England,JC Buttler
+info,player,England,JG Bethell
+info,player,England,T Banton
+info,player,England,HC Brook
+info,player,England,SM Curran
+info,player,England,WG Jacks
+info,player,England,J Overton
+info,player,England,JC Archer
+info,player,England,LA Dawson
+info,player,England,AU Rashid
+info,registry,people,A Paleker,634b11ac
+info,registry,people,AJ Hosein,4d7f517e
+info,registry,people,AU Rashid,249d60c9
+info,registry,people,BA King,7fca84b7
+info,registry,people,CM Brown,448f4f1c
+info,registry,people,DM Koch,6d10c034
+info,registry,people,G Motie,97bdec3d
+info,registry,people,HC Brook,4ae1755b
+info,registry,people,J Overton,59559bc2
+info,registry,people,J Srinath,bad31fac
+info,registry,people,JC Archer,5574750c
+info,registry,people,JC Buttler,99b75528
+info,registry,people,JG Bethell,3c55c703
+info,registry,people,JO Holder,0f721006
+info,registry,people,LA Dawson,4a461c24
+info,registry,people,PD Salt,3d284ca3
+info,registry,people,R Powell,650d5e49
+info,registry,people,R Shepherd,c5aef772
+info,registry,people,RL Chase,3feda4fa
+info,registry,people,S Joseph,97290faf
+info,registry,people,SD Hope,1fc6ef83
+info,registry,people,SE Rutherford,d014d5ac
+info,registry,people,SJ Nogajski,9b3f9323
+info,registry,people,SM Curran,e94915e6
+info,registry,people,SO Hetmyer,48a1d7b7
+info,registry,people,T Banton,25f7b7d6
+info,registry,people,WG Jacks,9caf69a1
+ball,1,0.1,West Indies,BA King,SD Hope,JC Archer,0,1,1,,,,,"",""
+ball,1,0.2,West Indies,BA King,SD Hope,JC Archer,0,0,,,,,,"",""
+ball,1,0.3,West Indies,BA King,SD Hope,JC Archer,1,0,,,,,,"",""
+ball,1,0.4,West Indies,SD Hope,BA King,JC Archer,0,0,,,,,,"",""
+ball,1,0.5,West Indies,SD Hope,BA King,JC Archer,0,5,5,,,,,"",""
+ball,1,0.6,West Indies,SD Hope,BA King,JC Archer,0,1,1,,,,,"",""
+ball,1,0.7,West Indies,SD Hope,BA King,JC Archer,0,0,,,,,,"",""
+ball,1,0.8,West Indies,SD Hope,BA King,JC Archer,0,0,,,,,,caught,SD Hope
+ball,1,0.9,West Indies,SO Hetmyer,BA King,JC Archer,0,0,,,,,,"",""
+ball,1,1.1,West Indies,BA King,SO Hetmyer,SM Curran,0,0,,,,,,caught,BA King
+ball,1,1.2,West Indies,RL Chase,SO Hetmyer,SM Curran,2,0,,,,,,"",""
+ball,1,1.3,West Indies,RL Chase,SO Hetmyer,SM Curran,0,0,,,,,,"",""
+ball,1,1.4,West Indies,RL Chase,SO Hetmyer,SM Curran,0,0,,,,,,"",""
+ball,1,1.5,West Indies,RL Chase,SO Hetmyer,SM Curran,0,0,,,,,,"",""
+ball,1,1.6,West Indies,RL Chase,SO Hetmyer,SM Curran,0,0,,,,,,"",""
+ball,1,2.1,West Indies,SO Hetmyer,RL Chase,JC Archer,4,0,,,,,,"",""
+ball,1,2.2,West Indies,SO Hetmyer,RL Chase,JC Archer,0,1,,,,1,,"",""
+ball,1,2.3,West Indies,RL Chase,SO Hetmyer,JC Archer,0,0,,,,,,"",""
+ball,1,2.4,West Indies,RL Chase,SO Hetmyer,JC Archer,4,0,,,,,,"",""
+ball,1,2.5,West Indies,RL Chase,SO Hetmyer,JC Archer,0,0,,,,,,"",""
+ball,1,2.6,West Indies,RL Chase,SO Hetmyer,JC Archer,0,0,,,,,,"",""
+ball,1,3.1,West Indies,SO Hetmyer,RL Chase,SM Curran,0,0,,,,,,"",""
+ball,1,3.2,West Indies,SO Hetmyer,RL Chase,SM Curran,2,0,,,,,,"",""
+ball,1,3.3,West Indies,SO Hetmyer,RL Chase,SM Curran,6,0,,,,,,"",""
+ball,1,3.4,West Indies,SO Hetmyer,RL Chase,SM Curran,4,0,,,,,,"",""
+ball,1,3.5,West Indies,SO Hetmyer,RL Chase,SM Curran,1,0,,,,,,"",""
+ball,1,3.6,West Indies,RL Chase,SO Hetmyer,SM Curran,1,0,,,,,,"",""
+ball,1,4.1,West Indies,RL Chase,SO Hetmyer,WG Jacks,0,0,,,,,,"",""
+ball,1,4.2,West Indies,RL Chase,SO Hetmyer,WG Jacks,4,0,,,,,,"",""
+ball,1,4.3,West Indies,RL Chase,SO Hetmyer,WG Jacks,4,0,,,,,,"",""
+ball,1,4.4,West Indies,RL Chase,SO Hetmyer,WG Jacks,4,0,,,,,,"",""
+ball,1,4.5,West Indies,RL Chase,SO Hetmyer,WG Jacks,1,0,,,,,,"",""
+ball,1,4.6,West Indies,SO Hetmyer,RL Chase,WG Jacks,6,0,,,,,,"",""
+ball,1,5.1,West Indies,RL Chase,SO Hetmyer,J Overton,0,0,,,,,,"",""
+ball,1,5.2,West Indies,RL Chase,SO Hetmyer,J Overton,1,0,,,,,,"",""
+ball,1,5.3,West Indies,SO Hetmyer,RL Chase,J Overton,0,0,,,,,,"",""
+ball,1,5.4,West Indies,SO Hetmyer,RL Chase,J Overton,0,2,,,,2,,"",""
+ball,1,5.5,West Indies,SO Hetmyer,RL Chase,J Overton,0,0,,,,,,caught,SO Hetmyer
+ball,1,5.6,West Indies,SE Rutherford,RL Chase,J Overton,0,0,,,,,,"",""
+ball,1,6.1,West Indies,RL Chase,SE Rutherford,AU Rashid,1,0,,,,,,"",""
+ball,1,6.2,West Indies,SE Rutherford,RL Chase,AU Rashid,1,0,,,,,,"",""
+ball,1,6.3,West Indies,RL Chase,SE Rutherford,AU Rashid,0,0,,,,,,"",""
+ball,1,6.4,West Indies,RL Chase,SE Rutherford,AU Rashid,1,0,,,,,,"",""
+ball,1,6.5,West Indies,SE Rutherford,RL Chase,AU Rashid,0,0,,,,,,"",""
+ball,1,6.6,West Indies,SE Rutherford,RL Chase,AU Rashid,0,0,,,,,,"",""
+ball,1,7.1,West Indies,RL Chase,SE Rutherford,J Overton,0,0,,,,,,"",""
+ball,1,7.2,West Indies,RL Chase,SE Rutherford,J Overton,1,0,,,,,,"",""
+ball,1,7.3,West Indies,SE Rutherford,RL Chase,J Overton,1,0,,,,,,"",""
+ball,1,7.4,West Indies,RL Chase,SE Rutherford,J Overton,0,0,,,,,,"",""
+ball,1,7.5,West Indies,RL Chase,SE Rutherford,J Overton,4,0,,,,,,"",""
+ball,1,7.6,West Indies,RL Chase,SE Rutherford,J Overton,0,0,,,,,,"",""
+ball,1,8.1,West Indies,SE Rutherford,RL Chase,LA Dawson,0,0,,,,,,"",""
+ball,1,8.2,West Indies,SE Rutherford,RL Chase,LA Dawson,2,0,,,,,,"",""
+ball,1,8.3,West Indies,SE Rutherford,RL Chase,LA Dawson,1,0,,,,,,"",""
+ball,1,8.4,West Indies,RL Chase,SE Rutherford,LA Dawson,4,0,,,,,,"",""
+ball,1,8.5,West Indies,RL Chase,SE Rutherford,LA Dawson,1,0,,,,,,"",""
+ball,1,8.6,West Indies,SE Rutherford,RL Chase,LA Dawson,2,0,,,,,,"",""
+ball,1,9.1,West Indies,RL Chase,SE Rutherford,AU Rashid,1,0,,,,,,"",""
+ball,1,9.2,West Indies,SE Rutherford,RL Chase,AU Rashid,0,1,1,,,,,"",""
+ball,1,9.3,West Indies,SE Rutherford,RL Chase,AU Rashid,1,0,,,,,,"",""
+ball,1,9.4,West Indies,RL Chase,SE Rutherford,AU Rashid,0,0,,,,,,lbw,RL Chase
+ball,1,9.5,West Indies,R Powell,SE Rutherford,AU Rashid,0,0,,,,,,"",""
+ball,1,9.6,West Indies,R Powell,SE Rutherford,AU Rashid,0,0,,,,,,"",""
+ball,1,9.7,West Indies,R Powell,SE Rutherford,AU Rashid,2,0,,,,,,"",""
+ball,1,10.1,West Indies,SE Rutherford,R Powell,LA Dawson,1,0,,,,,,"",""
+ball,1,10.2,West Indies,R Powell,SE Rutherford,LA Dawson,0,0,,,,,,"",""
+ball,1,10.3,West Indies,R Powell,SE Rutherford,LA Dawson,1,0,,,,,,"",""
+ball,1,10.4,West Indies,SE Rutherford,R Powell,LA Dawson,1,0,,,,,,"",""
+ball,1,10.5,West Indies,R Powell,SE Rutherford,LA Dawson,0,0,,,,,,"",""
+ball,1,10.6,West Indies,R Powell,SE Rutherford,LA Dawson,1,0,,,,,,"",""
+ball,1,11.1,West Indies,R Powell,SE Rutherford,WG Jacks,1,0,,,,,,"",""
+ball,1,11.2,West Indies,SE Rutherford,R Powell,WG Jacks,0,0,,,,,,"",""
+ball,1,11.3,West Indies,SE Rutherford,R Powell,WG Jacks,6,0,,,,,,"",""
+ball,1,11.4,West Indies,SE Rutherford,R Powell,WG Jacks,6,0,,,,,,"",""
+ball,1,11.5,West Indies,SE Rutherford,R Powell,WG Jacks,0,0,,,,,,"",""
+ball,1,11.6,West Indies,SE Rutherford,R Powell,WG Jacks,0,1,,,,1,,"",""
+ball,1,12.1,West Indies,SE Rutherford,R Powell,JC Archer,1,0,,,,,,"",""
+ball,1,12.2,West Indies,R Powell,SE Rutherford,JC Archer,4,0,,,,,,"",""
+ball,1,12.3,West Indies,R Powell,SE Rutherford,JC Archer,1,0,,,,,,"",""
+ball,1,12.4,West Indies,SE Rutherford,R Powell,JC Archer,6,0,,,,,,"",""
+ball,1,12.5,West Indies,SE Rutherford,R Powell,JC Archer,1,0,,,,,,"",""
+ball,1,12.6,West Indies,R Powell,SE Rutherford,JC Archer,4,0,,,,,,"",""
+ball,1,13.1,West Indies,SE Rutherford,R Powell,LA Dawson,4,0,,,,,,"",""
+ball,1,13.2,West Indies,SE Rutherford,R Powell,LA Dawson,0,1,1,,,,,"",""
+ball,1,13.3,West Indies,SE Rutherford,R Powell,LA Dawson,0,0,,,,,,"",""
+ball,1,13.4,West Indies,SE Rutherford,R Powell,LA Dawson,6,0,,,,,,"",""
+ball,1,13.5,West Indies,SE Rutherford,R Powell,LA Dawson,0,1,1,,,,,"",""
+ball,1,13.6,West Indies,SE Rutherford,R Powell,LA Dawson,0,0,,,,,,"",""
+ball,1,13.7,West Indies,SE Rutherford,R Powell,LA Dawson,1,0,,,,,,"",""
+ball,1,13.8,West Indies,R Powell,SE Rutherford,LA Dawson,0,0,,,,,,"",""
+ball,1,14.1,West Indies,SE Rutherford,R Powell,AU Rashid,1,0,,,,,,"",""
+ball,1,14.2,West Indies,R Powell,SE Rutherford,AU Rashid,0,0,,,,,,caught,R Powell
+ball,1,14.3,West Indies,JO Holder,SE Rutherford,AU Rashid,0,0,,,,,,"",""
+ball,1,14.4,West Indies,JO Holder,SE Rutherford,AU Rashid,0,0,,,,,,"",""
+ball,1,14.5,West Indies,JO Holder,SE Rutherford,AU Rashid,1,0,,,,,,"",""
+ball,1,14.6,West Indies,SE Rutherford,JO Holder,AU Rashid,1,0,,,,,,"",""
+ball,1,15.1,West Indies,SE Rutherford,JO Holder,J Overton,4,0,,,,,,"",""
+ball,1,15.2,West Indies,SE Rutherford,JO Holder,J Overton,6,0,,,,,,"",""
+ball,1,15.3,West Indies,SE Rutherford,JO Holder,J Overton,1,0,,,,,,"",""
+ball,1,15.4,West Indies,JO Holder,SE Rutherford,J Overton,1,0,,,,,,"",""
+ball,1,15.5,West Indies,SE Rutherford,JO Holder,J Overton,0,0,,,,,,"",""
+ball,1,15.6,West Indies,SE Rutherford,JO Holder,J Overton,0,0,,,,,,"",""
+ball,1,16.1,West Indies,JO Holder,SE Rutherford,SM Curran,0,0,,,,,,"",""
+ball,1,16.2,West Indies,JO Holder,SE Rutherford,SM Curran,6,0,,,,,,"",""
+ball,1,16.3,West Indies,JO Holder,SE Rutherford,SM Curran,6,0,,,,,,"",""
+ball,1,16.4,West Indies,JO Holder,SE Rutherford,SM Curran,1,0,,,,,,"",""
+ball,1,16.5,West Indies,SE Rutherford,JO Holder,SM Curran,1,0,,,,,,"",""
+ball,1,16.6,West Indies,JO Holder,SE Rutherford,SM Curran,6,0,,,,,,"",""
+ball,1,17.1,West Indies,SE Rutherford,JO Holder,AU Rashid,1,0,,,,,,"",""
+ball,1,17.2,West Indies,JO Holder,SE Rutherford,AU Rashid,0,0,,,,,,"",""
+ball,1,17.3,West Indies,JO Holder,SE Rutherford,AU Rashid,0,0,,,,,,"",""
+ball,1,17.4,West Indies,JO Holder,SE Rutherford,AU Rashid,1,0,,,,,,"",""
+ball,1,17.5,West Indies,SE Rutherford,JO Holder,AU Rashid,2,0,,,,,,"",""
+ball,1,17.6,West Indies,SE Rutherford,JO Holder,AU Rashid,1,0,,,,,,"",""
+ball,1,18.1,West Indies,SE Rutherford,JO Holder,JC Archer,1,0,,,,,,"",""
+ball,1,18.2,West Indies,JO Holder,SE Rutherford,JC Archer,4,0,,,,,,"",""
+ball,1,18.3,West Indies,JO Holder,SE Rutherford,JC Archer,1,0,,,,,,"",""
+ball,1,18.4,West Indies,SE Rutherford,JO Holder,JC Archer,6,0,,,,,,"",""
+ball,1,18.5,West Indies,SE Rutherford,JO Holder,JC Archer,2,0,,,,,,"",""
+ball,1,18.6,West Indies,SE Rutherford,JO Holder,JC Archer,1,0,,,,,,"",""
+ball,1,19.1,West Indies,SE Rutherford,JO Holder,J Overton,1,0,,,,,,"",""
+ball,1,19.2,West Indies,JO Holder,SE Rutherford,J Overton,6,0,,,,,,"",""
+ball,1,19.3,West Indies,JO Holder,SE Rutherford,J Overton,0,0,,,,,,"",""
+ball,1,19.4,West Indies,JO Holder,SE Rutherford,J Overton,0,0,,,,,,caught,JO Holder
+ball,1,19.5,West Indies,R Shepherd,SE Rutherford,J Overton,1,0,,,,,,"",""
+ball,1,19.6,West Indies,SE Rutherford,R Shepherd,J Overton,6,0,,,,,,"",""
+ball,2,0.1,England,PD Salt,JC Buttler,AJ Hosein,4,0,,,,,,"",""
+ball,2,0.2,England,PD Salt,JC Buttler,AJ Hosein,1,0,,,,,,"",""
+ball,2,0.3,England,JC Buttler,PD Salt,AJ Hosein,1,0,,,,,,"",""
+ball,2,0.4,England,PD Salt,JC Buttler,AJ Hosein,0,0,,,,,,"",""
+ball,2,0.5,England,PD Salt,JC Buttler,AJ Hosein,0,0,,,,,,"",""
+ball,2,0.6,England,PD Salt,JC Buttler,AJ Hosein,0,1,,,,1,,"",""
+ball,2,1.1,England,PD Salt,JC Buttler,JO Holder,6,0,,,,,,"",""
+ball,2,1.2,England,PD Salt,JC Buttler,JO Holder,4,0,,,,,,"",""
+ball,2,1.3,England,PD Salt,JC Buttler,JO Holder,4,0,,,,,,"",""
+ball,2,1.4,England,PD Salt,JC Buttler,JO Holder,0,0,,,,,,"",""
+ball,2,1.5,England,PD Salt,JC Buttler,JO Holder,6,0,,,,,,"",""
+ball,2,1.6,England,PD Salt,JC Buttler,JO Holder,4,0,,,,,,"",""
+ball,2,2.1,England,JC Buttler,PD Salt,AJ Hosein,0,0,,,,,,"",""
+ball,2,2.2,England,JC Buttler,PD Salt,AJ Hosein,0,0,,,,,,"",""
+ball,2,2.3,England,JC Buttler,PD Salt,AJ Hosein,4,0,,,,,,"",""
+ball,2,2.4,England,JC Buttler,PD Salt,AJ Hosein,1,0,,,,,,"",""
+ball,2,2.5,England,PD Salt,JC Buttler,AJ Hosein,1,0,,,,,,"",""
+ball,2,2.6,England,JC Buttler,PD Salt,AJ Hosein,0,0,,,,,,"",""
+ball,2,3.1,England,PD Salt,JC Buttler,R Shepherd,0,0,,,,,,"",""
+ball,2,3.2,England,PD Salt,JC Buttler,R Shepherd,0,1,1,,,,,"",""
+ball,2,3.3,England,PD Salt,JC Buttler,R Shepherd,0,0,,,,,,caught,PD Salt
+ball,2,3.4,England,JG Bethell,JC Buttler,R Shepherd,1,0,,,,,,"",""
+ball,2,3.5,England,JC Buttler,JG Bethell,R Shepherd,1,0,,,,,,"",""
+ball,2,3.6,England,JG Bethell,JC Buttler,R Shepherd,0,0,,,,,,"",""
+ball,2,3.7,England,JG Bethell,JC Buttler,R Shepherd,4,0,,,,,,"",""
+ball,2,4.1,England,JC Buttler,JG Bethell,AJ Hosein,1,0,,,,,,"",""
+ball,2,4.2,England,JG Bethell,JC Buttler,AJ Hosein,4,0,,,,,,"",""
+ball,2,4.3,England,JG Bethell,JC Buttler,AJ Hosein,4,0,,,,,,"",""
+ball,2,4.4,England,JG Bethell,JC Buttler,AJ Hosein,0,0,,,,,,"",""
+ball,2,4.5,England,JG Bethell,JC Buttler,AJ Hosein,4,0,,,,,,"",""
+ball,2,4.6,England,JG Bethell,JC Buttler,AJ Hosein,1,0,,,,,,"",""
+ball,2,5.1,England,JG Bethell,JC Buttler,S Joseph,1,0,,,,,,"",""
+ball,2,5.2,England,JC Buttler,JG Bethell,S Joseph,1,0,,,,,,"",""
+ball,2,5.3,England,JG Bethell,JC Buttler,S Joseph,0,0,,,,,,"",""
+ball,2,5.4,England,JG Bethell,JC Buttler,S Joseph,1,0,,,,,,"",""
+ball,2,5.5,England,JC Buttler,JG Bethell,S Joseph,2,0,,,,,,"",""
+ball,2,5.6,England,JC Buttler,JG Bethell,S Joseph,4,0,,,,,,"",""
+ball,2,6.1,England,JG Bethell,JC Buttler,RL Chase,1,0,,,,,,"",""
+ball,2,6.2,England,JC Buttler,JG Bethell,RL Chase,0,0,,,,,,"",""
+ball,2,6.3,England,JC Buttler,JG Bethell,RL Chase,6,0,,,,,,"",""
+ball,2,6.4,England,JC Buttler,JG Bethell,RL Chase,0,0,,,,,,caught,JC Buttler
+ball,2,6.5,England,T Banton,JG Bethell,RL Chase,1,0,,,,,,"",""
+ball,2,6.6,England,JG Bethell,T Banton,RL Chase,1,0,,,,,,"",""
+ball,2,7.1,England,JG Bethell,T Banton,G Motie,1,0,,,,,,"",""
+ball,2,7.2,England,T Banton,JG Bethell,G Motie,0,0,,,,,,"",""
+ball,2,7.3,England,T Banton,JG Bethell,G Motie,1,0,,,,,,"",""
+ball,2,7.4,England,JG Bethell,T Banton,G Motie,6,0,,,,,,"",""
+ball,2,7.5,England,JG Bethell,T Banton,G Motie,1,0,,,,,,"",""
+ball,2,7.6,England,T Banton,JG Bethell,G Motie,0,0,,,,,,caught,T Banton
+ball,2,8.1,England,JG Bethell,HC Brook,RL Chase,0,0,,,,,,"",""
+ball,2,8.2,England,JG Bethell,HC Brook,RL Chase,0,0,,,,,,"",""
+ball,2,8.3,England,JG Bethell,HC Brook,RL Chase,0,0,,,,,,"",""
+ball,2,8.4,England,JG Bethell,HC Brook,RL Chase,1,0,,,,,,"",""
+ball,2,8.5,England,HC Brook,JG Bethell,RL Chase,1,0,,,,,,"",""
+ball,2,8.6,England,JG Bethell,HC Brook,RL Chase,1,0,,,,,,"",""
+ball,2,9.1,England,JG Bethell,HC Brook,G Motie,1,0,,,,,,"",""
+ball,2,9.2,England,HC Brook,JG Bethell,G Motie,1,0,,,,,,"",""
+ball,2,9.3,England,JG Bethell,HC Brook,G Motie,0,0,,,,,,bowled,JG Bethell
+ball,2,9.4,England,SM Curran,HC Brook,G Motie,1,0,,,,,,"",""
+ball,2,9.5,England,HC Brook,SM Curran,G Motie,1,0,,,,,,"",""
+ball,2,9.6,England,SM Curran,HC Brook,G Motie,1,0,,,,,,"",""
+ball,2,10.1,England,SM Curran,HC Brook,S Joseph,4,0,,,,,,"",""
+ball,2,10.2,England,SM Curran,HC Brook,S Joseph,1,0,,,,,,"",""
+ball,2,10.3,England,HC Brook,SM Curran,S Joseph,1,0,,,,,,"",""
+ball,2,10.4,England,SM Curran,HC Brook,S Joseph,0,0,,,,,,"",""
+ball,2,10.5,England,SM Curran,HC Brook,S Joseph,0,0,,,,,,"",""
+ball,2,10.6,England,SM Curran,HC Brook,S Joseph,0,0,,,,,,"",""
+ball,2,11.1,England,HC Brook,SM Curran,G Motie,2,0,,,,,,"",""
+ball,2,11.2,England,HC Brook,SM Curran,G Motie,1,0,,,,,,"",""
+ball,2,11.3,England,SM Curran,HC Brook,G Motie,1,0,,,,,,"",""
+ball,2,11.4,England,HC Brook,SM Curran,G Motie,4,0,,,,,,"",""
+ball,2,11.5,England,HC Brook,SM Curran,G Motie,1,0,,,,,,"",""
+ball,2,11.6,England,SM Curran,HC Brook,G Motie,2,0,,,,,,"",""
+ball,2,12.1,England,HC Brook,SM Curran,RL Chase,1,0,,,,,,"",""
+ball,2,12.2,England,SM Curran,HC Brook,RL Chase,1,0,,,,,,"",""
+ball,2,12.3,England,HC Brook,SM Curran,RL Chase,0,1,1,,,,,"",""
+ball,2,12.4,England,HC Brook,SM Curran,RL Chase,0,0,,,,,,"",""
+ball,2,12.5,England,HC Brook,SM Curran,RL Chase,0,3,3,,,,,"",""
+ball,2,12.6,England,HC Brook,SM Curran,RL Chase,2,0,,,,,,"",""
+ball,2,12.7,England,HC Brook,SM Curran,RL Chase,1,0,,,,,,"",""
+ball,2,12.8,England,SM Curran,HC Brook,RL Chase,4,0,,,,,,"",""
+ball,2,13.1,England,HC Brook,SM Curran,G Motie,1,0,,,,,,"",""
+ball,2,13.2,England,SM Curran,HC Brook,G Motie,0,0,,,,,,"",""
+ball,2,13.3,England,SM Curran,HC Brook,G Motie,6,0,,,,,,"",""
+ball,2,13.4,England,SM Curran,HC Brook,G Motie,1,0,,,,,,"",""
+ball,2,13.5,England,HC Brook,SM Curran,G Motie,0,0,,,,,,caught and bowled,HC Brook
+ball,2,13.6,England,WG Jacks,SM Curran,G Motie,0,0,,,,,,"",""
+ball,2,14.1,England,SM Curran,WG Jacks,RL Chase,0,0,,,,,,"",""
+ball,2,14.2,England,SM Curran,WG Jacks,RL Chase,1,0,,,,,,"",""
+ball,2,14.3,England,WG Jacks,SM Curran,RL Chase,2,0,,,,,,"",""
+ball,2,14.4,England,WG Jacks,SM Curran,RL Chase,0,0,,,,,,lbw,WG Jacks
+ball,2,14.5,England,J Overton,SM Curran,RL Chase,0,0,,,,,,"",""
+ball,2,14.6,England,J Overton,SM Curran,RL Chase,1,0,,,,,,"",""
+ball,2,15.1,England,J Overton,SM Curran,AJ Hosein,1,0,,,,,,"",""
+ball,2,15.2,England,SM Curran,J Overton,AJ Hosein,1,0,,,,,,"",""
+ball,2,15.3,England,J Overton,SM Curran,AJ Hosein,2,0,,,,,,"",""
+ball,2,15.4,England,J Overton,SM Curran,AJ Hosein,1,0,,,,,,"",""
+ball,2,15.5,England,SM Curran,J Overton,AJ Hosein,1,0,,,,,,"",""
+ball,2,15.6,England,J Overton,SM Curran,AJ Hosein,0,0,,,,,,caught,J Overton
+ball,2,16.1,England,SM Curran,JC Archer,S Joseph,1,0,,,,,,"",""
+ball,2,16.2,England,JC Archer,SM Curran,S Joseph,1,0,,,,,,"",""
+ball,2,16.3,England,SM Curran,JC Archer,S Joseph,1,0,,,,,,"",""
+ball,2,16.4,England,JC Archer,SM Curran,S Joseph,4,0,,,,,,"",""
+ball,2,16.5,England,JC Archer,SM Curran,S Joseph,1,0,,,,,,"",""
+ball,2,16.6,England,SM Curran,JC Archer,S Joseph,1,0,,,,,,"",""
+ball,2,17.1,England,SM Curran,JC Archer,JO Holder,1,0,,,,,,"",""
+ball,2,17.2,England,JC Archer,SM Curran,JO Holder,0,0,,,,,,run out,JC Archer
+ball,2,17.3,England,SM Curran,LA Dawson,JO Holder,1,0,,,,,,"",""
+ball,2,17.4,England,LA Dawson,SM Curran,JO Holder,1,0,,,,,,"",""
+ball,2,17.5,England,SM Curran,LA Dawson,JO Holder,6,0,,,,,,"",""
+ball,2,17.6,England,SM Curran,LA Dawson,JO Holder,1,0,,,,,,"",""
+ball,2,18.1,England,SM Curran,LA Dawson,S Joseph,0,0,,,,,,"",""
+ball,2,18.2,England,SM Curran,LA Dawson,S Joseph,0,0,,,,,,"",""
+ball,2,18.3,England,SM Curran,LA Dawson,S Joseph,1,0,,,,,,run out,LA Dawson
+ball,2,18.4,England,SM Curran,AU Rashid,S Joseph,4,0,,,,,,"",""
+ball,2,18.5,England,SM Curran,AU Rashid,S Joseph,1,0,,,,,,"",""
+ball,2,18.6,England,AU Rashid,SM Curran,S Joseph,0,0,,,,,,caught,AU Rashid

@@ -1,0 +1,324 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Hobart Hurricanes
+info,team,Adelaide Strikers
+info,gender,male
+info,season,2022/23
+info,date,2023/01/05
+info,event,Big Bash League
+info,match_number,30
+info,venue,Adelaide Oval
+info,city,Adelaide
+info,toss_winner,Adelaide Strikers
+info,toss_decision,field
+info,player_of_match,MW Short
+info,umpire,BNJ Oxenford
+info,umpire,P Wilson
+info,reserve_umpire,Harsimran Singh
+info,tv_umpire,Eloise Sheridan
+info,match_referee,SD Fry
+info,winner,Adelaide Strikers
+info,winner_wickets,7
+info,player,Hobart Hurricanes,BR McDermott
+info,player,Hobart Hurricanes,CP Jewell
+info,player,Hobart Hurricanes,MS Wade
+info,player,Hobart Hurricanes,Z Crawley
+info,player,Hobart Hurricanes,MJ Owen
+info,player,Hobart Hurricanes,TH David
+info,player,Hobart Hurricanes,Asif Ali
+info,player,Hobart Hurricanes,Faheem Ashraf
+info,player,Hobart Hurricanes,NT Ellis
+info,player,Hobart Hurricanes,PG Dooley
+info,player,Hobart Hurricanes,RP Meredith
+info,player,Adelaide Strikers,MW Short
+info,player,Adelaide Strikers,RJ Gibson
+info,player,Adelaide Strikers,CA Lynn
+info,player,Adelaide Strikers,AJ Hose
+info,player,Adelaide Strikers,C de Grandhomme
+info,player,Adelaide Strikers,T Kelly
+info,player,Adelaide Strikers,HJ Nielsen
+info,player,Adelaide Strikers,Rashid Khan
+info,player,Adelaide Strikers,WA Agar
+info,player,Adelaide Strikers,HTRY Thornton
+info,player,Adelaide Strikers,HNA Conway
+info,registry,people,AJ Hose,104e88a4
+info,registry,people,Asif Ali,0a4736eb
+info,registry,people,BNJ Oxenford,c1add349
+info,registry,people,BR McDermott,c41043e6
+info,registry,people,C de Grandhomme,94d7f855
+info,registry,people,CA Lynn,45eda7c8
+info,registry,people,CP Jewell,806c4e58
+info,registry,people,Eloise Sheridan,d8d43840
+info,registry,people,Faheem Ashraf,bd4ea627
+info,registry,people,HJ Nielsen,0ea1455a
+info,registry,people,HNA Conway,272fc5ad
+info,registry,people,HTRY Thornton,055be93a
+info,registry,people,Harsimran Singh,bf4720ce
+info,registry,people,MJ Owen,f2c936d7
+info,registry,people,MS Wade,afa7e784
+info,registry,people,MW Short,a90e53ec
+info,registry,people,NT Ellis,9eb1455b
+info,registry,people,P Wilson,68304a36
+info,registry,people,PG Dooley,5e3054d0
+info,registry,people,RJ Gibson,50636767
+info,registry,people,RP Meredith,64775749
+info,registry,people,Rashid Khan,5f547c8b
+info,registry,people,SD Fry,6b725ed1
+info,registry,people,T Kelly,6ceb94d0
+info,registry,people,TH David,f1f99156
+info,registry,people,WA Agar,15de1f5d
+info,registry,people,Z Crawley,922e1b19
+ball,1,0.1,Hobart Hurricanes,BR McDermott,CP Jewell,MW Short,0,0,,,,,,"",""
+ball,1,0.2,Hobart Hurricanes,BR McDermott,CP Jewell,MW Short,0,0,,,,,,"",""
+ball,1,0.3,Hobart Hurricanes,BR McDermott,CP Jewell,MW Short,0,0,,,,,,"",""
+ball,1,0.4,Hobart Hurricanes,BR McDermott,CP Jewell,MW Short,2,0,,,,,,"",""
+ball,1,0.5,Hobart Hurricanes,BR McDermott,CP Jewell,MW Short,4,0,,,,,,"",""
+ball,1,0.6,Hobart Hurricanes,BR McDermott,CP Jewell,MW Short,2,0,,,,,,"",""
+ball,1,1.1,Hobart Hurricanes,CP Jewell,BR McDermott,HTRY Thornton,4,0,,,,,,"",""
+ball,1,1.2,Hobart Hurricanes,CP Jewell,BR McDermott,HTRY Thornton,4,0,,,,,,"",""
+ball,1,1.3,Hobart Hurricanes,CP Jewell,BR McDermott,HTRY Thornton,0,0,,,,,,"",""
+ball,1,1.4,Hobart Hurricanes,CP Jewell,BR McDermott,HTRY Thornton,0,0,,,,,,"",""
+ball,1,1.5,Hobart Hurricanes,CP Jewell,BR McDermott,HTRY Thornton,0,0,,,,,,"",""
+ball,1,1.6,Hobart Hurricanes,CP Jewell,BR McDermott,HTRY Thornton,0,0,,,,,,"",""
+ball,1,2.1,Hobart Hurricanes,BR McDermott,CP Jewell,HNA Conway,1,0,,,,,,"",""
+ball,1,2.2,Hobart Hurricanes,CP Jewell,BR McDermott,HNA Conway,4,0,,,,,,"",""
+ball,1,2.3,Hobart Hurricanes,CP Jewell,BR McDermott,HNA Conway,1,0,,,,,,"",""
+ball,1,2.4,Hobart Hurricanes,BR McDermott,CP Jewell,HNA Conway,6,0,,,,,,"",""
+ball,1,2.5,Hobart Hurricanes,BR McDermott,CP Jewell,HNA Conway,1,0,,,,,,"",""
+ball,1,2.6,Hobart Hurricanes,CP Jewell,BR McDermott,HNA Conway,1,0,,,,,,"",""
+ball,1,3.1,Hobart Hurricanes,CP Jewell,BR McDermott,HTRY Thornton,6,0,,,,,,"",""
+ball,1,3.2,Hobart Hurricanes,CP Jewell,BR McDermott,HTRY Thornton,0,0,,,,,,"",""
+ball,1,3.3,Hobart Hurricanes,CP Jewell,BR McDermott,HTRY Thornton,6,0,,,,,,"",""
+ball,1,3.4,Hobart Hurricanes,CP Jewell,BR McDermott,HTRY Thornton,0,0,,,,,,"",""
+ball,1,3.5,Hobart Hurricanes,CP Jewell,BR McDermott,HTRY Thornton,4,0,,,,,,"",""
+ball,1,3.6,Hobart Hurricanes,CP Jewell,BR McDermott,HTRY Thornton,2,0,,,,,,"",""
+ball,1,4.1,Hobart Hurricanes,BR McDermott,CP Jewell,Rashid Khan,0,0,,,,,,"",""
+ball,1,4.2,Hobart Hurricanes,BR McDermott,CP Jewell,Rashid Khan,0,0,,,,,,"",""
+ball,1,4.3,Hobart Hurricanes,BR McDermott,CP Jewell,Rashid Khan,1,0,,,,,,"",""
+ball,1,4.4,Hobart Hurricanes,CP Jewell,BR McDermott,Rashid Khan,1,0,,,,,,"",""
+ball,1,4.5,Hobart Hurricanes,BR McDermott,CP Jewell,Rashid Khan,2,0,,,,,,"",""
+ball,1,4.6,Hobart Hurricanes,BR McDermott,CP Jewell,Rashid Khan,0,0,,,,,,"",""
+ball,1,5.1,Hobart Hurricanes,CP Jewell,BR McDermott,WA Agar,4,0,,,,,,"",""
+ball,1,5.2,Hobart Hurricanes,CP Jewell,BR McDermott,WA Agar,6,0,,,,,,"",""
+ball,1,5.3,Hobart Hurricanes,CP Jewell,BR McDermott,WA Agar,1,0,,,,,,"",""
+ball,1,5.4,Hobart Hurricanes,BR McDermott,CP Jewell,WA Agar,6,0,,,,,,"",""
+ball,1,5.5,Hobart Hurricanes,BR McDermott,CP Jewell,WA Agar,0,0,,,,,,"",""
+ball,1,5.6,Hobart Hurricanes,BR McDermott,CP Jewell,WA Agar,6,0,,,,,,"",""
+ball,1,6.1,Hobart Hurricanes,CP Jewell,BR McDermott,MW Short,4,0,,,,,,"",""
+ball,1,6.2,Hobart Hurricanes,CP Jewell,BR McDermott,MW Short,1,0,,,,,,"",""
+ball,1,6.3,Hobart Hurricanes,BR McDermott,CP Jewell,MW Short,2,0,,,,,,"",""
+ball,1,6.4,Hobart Hurricanes,BR McDermott,CP Jewell,MW Short,1,0,,,,,,"",""
+ball,1,6.5,Hobart Hurricanes,CP Jewell,BR McDermott,MW Short,0,0,,,,,,"",""
+ball,1,6.6,Hobart Hurricanes,CP Jewell,BR McDermott,MW Short,1,0,,,,,,"",""
+ball,1,7.1,Hobart Hurricanes,CP Jewell,BR McDermott,C de Grandhomme,4,0,,,,,,"",""
+ball,1,7.2,Hobart Hurricanes,CP Jewell,BR McDermott,C de Grandhomme,0,0,,,,,,caught,CP Jewell
+ball,1,7.3,Hobart Hurricanes,MS Wade,BR McDermott,C de Grandhomme,1,0,,,,,,"",""
+ball,1,7.4,Hobart Hurricanes,BR McDermott,MS Wade,C de Grandhomme,1,0,,,,,,"",""
+ball,1,7.5,Hobart Hurricanes,MS Wade,BR McDermott,C de Grandhomme,0,0,,,,,,"",""
+ball,1,7.6,Hobart Hurricanes,MS Wade,BR McDermott,C de Grandhomme,1,0,,,,,,"",""
+ball,1,8.1,Hobart Hurricanes,MS Wade,BR McDermott,MW Short,0,0,,,,,,"",""
+ball,1,8.2,Hobart Hurricanes,MS Wade,BR McDermott,MW Short,4,0,,,,,,"",""
+ball,1,8.3,Hobart Hurricanes,MS Wade,BR McDermott,MW Short,0,0,,,,,,"",""
+ball,1,8.4,Hobart Hurricanes,MS Wade,BR McDermott,MW Short,1,0,,,,,,"",""
+ball,1,8.5,Hobart Hurricanes,BR McDermott,MS Wade,MW Short,2,0,,,,,,"",""
+ball,1,8.6,Hobart Hurricanes,BR McDermott,MS Wade,MW Short,1,0,,,,,,"",""
+ball,1,9.1,Hobart Hurricanes,BR McDermott,MS Wade,C de Grandhomme,6,0,,,,,,"",""
+ball,1,9.2,Hobart Hurricanes,BR McDermott,MS Wade,C de Grandhomme,0,0,,,,,,"",""
+ball,1,9.3,Hobart Hurricanes,BR McDermott,MS Wade,C de Grandhomme,4,0,,,,,,"",""
+ball,1,9.4,Hobart Hurricanes,BR McDermott,MS Wade,C de Grandhomme,1,0,,,,,,"",""
+ball,1,9.5,Hobart Hurricanes,MS Wade,BR McDermott,C de Grandhomme,1,0,,,,,,"",""
+ball,1,9.6,Hobart Hurricanes,BR McDermott,MS Wade,C de Grandhomme,1,0,,,,,,"",""
+ball,1,10.1,Hobart Hurricanes,BR McDermott,MS Wade,MW Short,3,0,,,,,,"",""
+ball,1,10.2,Hobart Hurricanes,MS Wade,BR McDermott,MW Short,1,0,,,,,,"",""
+ball,1,10.3,Hobart Hurricanes,BR McDermott,MS Wade,MW Short,4,0,,,,,,"",""
+ball,1,10.4,Hobart Hurricanes,BR McDermott,MS Wade,MW Short,0,0,,,,,,caught,BR McDermott
+ball,1,10.5,Hobart Hurricanes,Z Crawley,MS Wade,MW Short,1,0,,,,,,"",""
+ball,1,10.6,Hobart Hurricanes,MS Wade,Z Crawley,MW Short,0,0,,,,,,"",""
+ball,1,11.1,Hobart Hurricanes,Z Crawley,MS Wade,HNA Conway,4,0,,,,,,"",""
+ball,1,11.2,Hobart Hurricanes,Z Crawley,MS Wade,HNA Conway,1,0,,,,,,"",""
+ball,1,11.3,Hobart Hurricanes,MS Wade,Z Crawley,HNA Conway,0,0,,,,,,caught,MS Wade
+ball,1,11.4,Hobart Hurricanes,MJ Owen,Z Crawley,HNA Conway,1,0,,,,,,"",""
+ball,1,11.5,Hobart Hurricanes,Z Crawley,MJ Owen,HNA Conway,1,0,,,,,,"",""
+ball,1,11.6,Hobart Hurricanes,MJ Owen,Z Crawley,HNA Conway,6,0,,,,,,"",""
+ball,1,12.1,Hobart Hurricanes,Z Crawley,MJ Owen,Rashid Khan,1,0,,,,,,"",""
+ball,1,12.2,Hobart Hurricanes,MJ Owen,Z Crawley,Rashid Khan,1,0,,,,,,"",""
+ball,1,12.3,Hobart Hurricanes,Z Crawley,MJ Owen,Rashid Khan,1,0,,,,,,"",""
+ball,1,12.4,Hobart Hurricanes,MJ Owen,Z Crawley,Rashid Khan,0,0,,,,,,"",""
+ball,1,12.5,Hobart Hurricanes,MJ Owen,Z Crawley,Rashid Khan,1,0,,,,,,"",""
+ball,1,12.6,Hobart Hurricanes,Z Crawley,MJ Owen,Rashid Khan,0,0,,,,,,"",""
+ball,1,13.1,Hobart Hurricanes,MJ Owen,Z Crawley,C de Grandhomme,1,0,,,,,,"",""
+ball,1,13.2,Hobart Hurricanes,Z Crawley,MJ Owen,C de Grandhomme,1,0,,,,,,"",""
+ball,1,13.3,Hobart Hurricanes,MJ Owen,Z Crawley,C de Grandhomme,0,0,,,,,,caught,MJ Owen
+ball,1,13.4,Hobart Hurricanes,TH David,Z Crawley,C de Grandhomme,1,0,,,,,,"",""
+ball,1,13.5,Hobart Hurricanes,Z Crawley,TH David,C de Grandhomme,1,0,,,,,,"",""
+ball,1,13.6,Hobart Hurricanes,TH David,Z Crawley,C de Grandhomme,1,0,,,,,,"",""
+ball,1,14.1,Hobart Hurricanes,TH David,Z Crawley,Rashid Khan,0,0,,,,,,"",""
+ball,1,14.2,Hobart Hurricanes,TH David,Z Crawley,Rashid Khan,0,0,,,,,,"",""
+ball,1,14.3,Hobart Hurricanes,TH David,Z Crawley,Rashid Khan,1,0,,,,,,"",""
+ball,1,14.4,Hobart Hurricanes,Z Crawley,TH David,Rashid Khan,4,0,,,,,,"",""
+ball,1,14.5,Hobart Hurricanes,Z Crawley,TH David,Rashid Khan,0,0,,,,,,"",""
+ball,1,14.6,Hobart Hurricanes,Z Crawley,TH David,Rashid Khan,0,3,,,,3,,"",""
+ball,1,15.1,Hobart Hurricanes,Z Crawley,TH David,C de Grandhomme,4,0,,,,,,"",""
+ball,1,15.2,Hobart Hurricanes,Z Crawley,TH David,C de Grandhomme,1,0,,,,,,"",""
+ball,1,15.3,Hobart Hurricanes,TH David,Z Crawley,C de Grandhomme,6,0,,,,,,"",""
+ball,1,15.4,Hobart Hurricanes,TH David,Z Crawley,C de Grandhomme,1,0,,,,,,"",""
+ball,1,15.5,Hobart Hurricanes,Z Crawley,TH David,C de Grandhomme,2,0,,,,,,"",""
+ball,1,15.6,Hobart Hurricanes,Z Crawley,TH David,C de Grandhomme,6,0,,,,,,"",""
+ball,1,16.1,Hobart Hurricanes,TH David,Z Crawley,HTRY Thornton,1,0,,,,,,"",""
+ball,1,16.2,Hobart Hurricanes,Z Crawley,TH David,HTRY Thornton,4,0,,,,,,"",""
+ball,1,16.3,Hobart Hurricanes,Z Crawley,TH David,HTRY Thornton,0,1,,,,1,,"",""
+ball,1,16.4,Hobart Hurricanes,TH David,Z Crawley,HTRY Thornton,0,0,,,,,,"",""
+ball,1,16.5,Hobart Hurricanes,TH David,Z Crawley,HTRY Thornton,4,0,,,,,,"",""
+ball,1,16.6,Hobart Hurricanes,TH David,Z Crawley,HTRY Thornton,6,0,,,,,,"",""
+ball,1,17.1,Hobart Hurricanes,Z Crawley,TH David,Rashid Khan,1,0,,,,,,"",""
+ball,1,17.2,Hobart Hurricanes,TH David,Z Crawley,Rashid Khan,1,0,,,,,,"",""
+ball,1,17.3,Hobart Hurricanes,Z Crawley,TH David,Rashid Khan,6,0,,,,,,"",""
+ball,1,17.4,Hobart Hurricanes,Z Crawley,TH David,Rashid Khan,1,0,,,,,,"",""
+ball,1,17.5,Hobart Hurricanes,TH David,Z Crawley,Rashid Khan,1,0,,,,,,"",""
+ball,1,17.6,Hobart Hurricanes,Z Crawley,TH David,Rashid Khan,2,0,,,,,,"",""
+ball,1,18.1,Hobart Hurricanes,TH David,Z Crawley,HNA Conway,2,0,,,,,,"",""
+ball,1,18.2,Hobart Hurricanes,TH David,Z Crawley,HNA Conway,6,0,,,,,,"",""
+ball,1,18.3,Hobart Hurricanes,TH David,Z Crawley,HNA Conway,1,0,,,,,,"",""
+ball,1,18.4,Hobart Hurricanes,Z Crawley,TH David,HNA Conway,0,0,,,,,,"",""
+ball,1,18.5,Hobart Hurricanes,Z Crawley,TH David,HNA Conway,1,0,,,,,,"",""
+ball,1,18.6,Hobart Hurricanes,TH David,Z Crawley,HNA Conway,4,0,,,,,,"",""
+ball,1,19.1,Hobart Hurricanes,Z Crawley,TH David,WA Agar,4,0,,,,,,"",""
+ball,1,19.2,Hobart Hurricanes,Z Crawley,TH David,WA Agar,0,1,1,,,,,"",""
+ball,1,19.3,Hobart Hurricanes,Z Crawley,TH David,WA Agar,1,0,,,,,,"",""
+ball,1,19.4,Hobart Hurricanes,TH David,Z Crawley,WA Agar,2,1,,1,,,,"",""
+ball,1,19.5,Hobart Hurricanes,TH David,Z Crawley,WA Agar,0,0,,,,,,"",""
+ball,1,19.6,Hobart Hurricanes,TH David,Z Crawley,WA Agar,1,0,,,,,,"",""
+ball,1,19.7,Hobart Hurricanes,Z Crawley,TH David,WA Agar,0,0,,,,,,"",""
+ball,1,19.8,Hobart Hurricanes,Z Crawley,TH David,WA Agar,6,0,,,,,,"",""
+ball,2,0.1,Adelaide Strikers,MW Short,RJ Gibson,RP Meredith,1,0,,,,,,"",""
+ball,2,0.2,Adelaide Strikers,RJ Gibson,MW Short,RP Meredith,4,0,,,,,,"",""
+ball,2,0.3,Adelaide Strikers,RJ Gibson,MW Short,RP Meredith,0,0,,,,,,"",""
+ball,2,0.4,Adelaide Strikers,RJ Gibson,MW Short,RP Meredith,0,0,,,,,,"",""
+ball,2,0.5,Adelaide Strikers,RJ Gibson,MW Short,RP Meredith,1,0,,,,,,"",""
+ball,2,0.6,Adelaide Strikers,MW Short,RJ Gibson,RP Meredith,0,0,,,,,,"",""
+ball,2,1.1,Adelaide Strikers,RJ Gibson,MW Short,PG Dooley,0,0,,,,,,"",""
+ball,2,1.2,Adelaide Strikers,RJ Gibson,MW Short,PG Dooley,0,1,,,,1,,"",""
+ball,2,1.3,Adelaide Strikers,MW Short,RJ Gibson,PG Dooley,0,0,,,,,,"",""
+ball,2,1.4,Adelaide Strikers,MW Short,RJ Gibson,PG Dooley,1,0,,,,,,"",""
+ball,2,1.5,Adelaide Strikers,RJ Gibson,MW Short,PG Dooley,0,0,,,,,,bowled,RJ Gibson
+ball,2,1.6,Adelaide Strikers,CA Lynn,MW Short,PG Dooley,0,1,1,,,,,"",""
+ball,2,1.7,Adelaide Strikers,CA Lynn,MW Short,PG Dooley,1,0,,,,,,"",""
+ball,2,2.1,Adelaide Strikers,CA Lynn,MW Short,NT Ellis,1,0,,,,,,"",""
+ball,2,2.2,Adelaide Strikers,MW Short,CA Lynn,NT Ellis,1,0,,,,,,"",""
+ball,2,2.3,Adelaide Strikers,CA Lynn,MW Short,NT Ellis,0,1,1,,,,,"",""
+ball,2,2.4,Adelaide Strikers,CA Lynn,MW Short,NT Ellis,0,0,,,,,,"",""
+ball,2,2.5,Adelaide Strikers,CA Lynn,MW Short,NT Ellis,4,0,,,,,,"",""
+ball,2,2.6,Adelaide Strikers,CA Lynn,MW Short,NT Ellis,0,0,,,,,,"",""
+ball,2,2.7,Adelaide Strikers,CA Lynn,MW Short,NT Ellis,1,0,,,,,,"",""
+ball,2,3.1,Adelaide Strikers,CA Lynn,MW Short,Faheem Ashraf,4,0,,,,,,"",""
+ball,2,3.2,Adelaide Strikers,CA Lynn,MW Short,Faheem Ashraf,6,0,,,,,,"",""
+ball,2,3.3,Adelaide Strikers,CA Lynn,MW Short,Faheem Ashraf,0,1,1,,,,,"",""
+ball,2,3.4,Adelaide Strikers,CA Lynn,MW Short,Faheem Ashraf,4,0,,,,,,"",""
+ball,2,3.5,Adelaide Strikers,CA Lynn,MW Short,Faheem Ashraf,0,0,,,,,,"",""
+ball,2,3.6,Adelaide Strikers,CA Lynn,MW Short,Faheem Ashraf,1,0,,,,,,"",""
+ball,2,3.7,Adelaide Strikers,MW Short,CA Lynn,Faheem Ashraf,0,0,,,,,,"",""
+ball,2,4.1,Adelaide Strikers,CA Lynn,MW Short,PG Dooley,2,0,,,,,,"",""
+ball,2,4.2,Adelaide Strikers,CA Lynn,MW Short,PG Dooley,1,0,,,,,,"",""
+ball,2,4.3,Adelaide Strikers,MW Short,CA Lynn,PG Dooley,0,1,1,,,,,"",""
+ball,2,4.4,Adelaide Strikers,MW Short,CA Lynn,PG Dooley,2,0,,,,,,"",""
+ball,2,4.5,Adelaide Strikers,MW Short,CA Lynn,PG Dooley,0,0,,,,,,"",""
+ball,2,4.6,Adelaide Strikers,MW Short,CA Lynn,PG Dooley,0,0,,,,,,"",""
+ball,2,4.7,Adelaide Strikers,MW Short,CA Lynn,PG Dooley,1,0,,,,,,"",""
+ball,2,5.1,Adelaide Strikers,MW Short,CA Lynn,MJ Owen,0,1,1,,,,,"",""
+ball,2,5.2,Adelaide Strikers,MW Short,CA Lynn,MJ Owen,6,0,,,,,,"",""
+ball,2,5.3,Adelaide Strikers,MW Short,CA Lynn,MJ Owen,2,0,,,,,,"",""
+ball,2,5.4,Adelaide Strikers,MW Short,CA Lynn,MJ Owen,6,0,,,,,,"",""
+ball,2,5.5,Adelaide Strikers,MW Short,CA Lynn,MJ Owen,0,0,,,,,,"",""
+ball,2,5.6,Adelaide Strikers,MW Short,CA Lynn,MJ Owen,0,0,,,,,,"",""
+ball,2,5.7,Adelaide Strikers,MW Short,CA Lynn,MJ Owen,1,0,,,,,,"",""
+ball,2,6.1,Adelaide Strikers,MW Short,CA Lynn,RP Meredith,1,0,,,,,,"",""
+ball,2,6.2,Adelaide Strikers,CA Lynn,MW Short,RP Meredith,6,0,,,,,,"",""
+ball,2,6.3,Adelaide Strikers,CA Lynn,MW Short,RP Meredith,1,0,,,,,,"",""
+ball,2,6.4,Adelaide Strikers,MW Short,CA Lynn,RP Meredith,1,0,,,,,,"",""
+ball,2,6.5,Adelaide Strikers,CA Lynn,MW Short,RP Meredith,0,1,1,,,,,"",""
+ball,2,6.6,Adelaide Strikers,CA Lynn,MW Short,RP Meredith,4,0,,,,,,"",""
+ball,2,6.7,Adelaide Strikers,CA Lynn,MW Short,RP Meredith,1,0,,,,,,"",""
+ball,2,7.1,Adelaide Strikers,CA Lynn,MW Short,Faheem Ashraf,1,0,,,,,,"",""
+ball,2,7.2,Adelaide Strikers,MW Short,CA Lynn,Faheem Ashraf,2,0,,,,,,"",""
+ball,2,7.3,Adelaide Strikers,MW Short,CA Lynn,Faheem Ashraf,2,0,,,,,,"",""
+ball,2,7.4,Adelaide Strikers,MW Short,CA Lynn,Faheem Ashraf,1,0,,,,,,"",""
+ball,2,7.5,Adelaide Strikers,CA Lynn,MW Short,Faheem Ashraf,4,0,,,,,,"",""
+ball,2,7.6,Adelaide Strikers,CA Lynn,MW Short,Faheem Ashraf,1,0,,,,,,"",""
+ball,2,8.1,Adelaide Strikers,CA Lynn,MW Short,NT Ellis,2,0,,,,,,"",""
+ball,2,8.2,Adelaide Strikers,CA Lynn,MW Short,NT Ellis,1,0,,,,,,"",""
+ball,2,8.3,Adelaide Strikers,MW Short,CA Lynn,NT Ellis,1,0,,,,,,"",""
+ball,2,8.4,Adelaide Strikers,CA Lynn,MW Short,NT Ellis,1,0,,,,,,"",""
+ball,2,8.5,Adelaide Strikers,MW Short,CA Lynn,NT Ellis,0,1,1,,,,,"",""
+ball,2,8.6,Adelaide Strikers,MW Short,CA Lynn,NT Ellis,4,0,,,,,,"",""
+ball,2,8.7,Adelaide Strikers,MW Short,CA Lynn,NT Ellis,0,1,,,,1,,"",""
+ball,2,9.1,Adelaide Strikers,MW Short,CA Lynn,MJ Owen,1,0,,,,,,"",""
+ball,2,9.2,Adelaide Strikers,CA Lynn,MW Short,MJ Owen,1,0,,,,,,"",""
+ball,2,9.3,Adelaide Strikers,MW Short,CA Lynn,MJ Owen,6,0,,,,,,"",""
+ball,2,9.4,Adelaide Strikers,MW Short,CA Lynn,MJ Owen,4,0,,,,,,"",""
+ball,2,9.5,Adelaide Strikers,MW Short,CA Lynn,MJ Owen,4,0,,,,,,"",""
+ball,2,9.6,Adelaide Strikers,MW Short,CA Lynn,MJ Owen,1,0,,,,,,"",""
+ball,2,10.1,Adelaide Strikers,MW Short,CA Lynn,NT Ellis,2,0,,,,,,"",""
+ball,2,10.2,Adelaide Strikers,MW Short,CA Lynn,NT Ellis,0,0,,,,,,"",""
+ball,2,10.3,Adelaide Strikers,MW Short,CA Lynn,NT Ellis,1,0,,,,,,"",""
+ball,2,10.4,Adelaide Strikers,CA Lynn,MW Short,NT Ellis,0,0,,,,,,"",""
+ball,2,10.5,Adelaide Strikers,CA Lynn,MW Short,NT Ellis,4,0,,,,,,"",""
+ball,2,10.6,Adelaide Strikers,CA Lynn,MW Short,NT Ellis,6,0,,,,,,"",""
+ball,2,11.1,Adelaide Strikers,MW Short,CA Lynn,PG Dooley,1,0,,,,,,"",""
+ball,2,11.2,Adelaide Strikers,CA Lynn,MW Short,PG Dooley,6,0,,,,,,"",""
+ball,2,11.3,Adelaide Strikers,CA Lynn,MW Short,PG Dooley,0,1,1,,,,,"",""
+ball,2,11.4,Adelaide Strikers,CA Lynn,MW Short,PG Dooley,0,0,,,,,,caught,CA Lynn
+ball,2,11.5,Adelaide Strikers,AJ Hose,MW Short,PG Dooley,1,0,,,,,,"",""
+ball,2,11.6,Adelaide Strikers,MW Short,AJ Hose,PG Dooley,1,0,,,,,,"",""
+ball,2,11.7,Adelaide Strikers,AJ Hose,MW Short,PG Dooley,0,0,,,,,,"",""
+ball,2,12.1,Adelaide Strikers,MW Short,AJ Hose,RP Meredith,1,0,,,,,,"",""
+ball,2,12.2,Adelaide Strikers,AJ Hose,MW Short,RP Meredith,1,0,,,,,,"",""
+ball,2,12.3,Adelaide Strikers,MW Short,AJ Hose,RP Meredith,1,0,,,,,,"",""
+ball,2,12.4,Adelaide Strikers,AJ Hose,MW Short,RP Meredith,4,0,,,,,,"",""
+ball,2,12.5,Adelaide Strikers,AJ Hose,MW Short,RP Meredith,1,0,,,,,,"",""
+ball,2,12.6,Adelaide Strikers,MW Short,AJ Hose,RP Meredith,0,1,1,,,,,"",""
+ball,2,12.7,Adelaide Strikers,MW Short,AJ Hose,RP Meredith,4,0,,,,,,"",""
+ball,2,13.1,Adelaide Strikers,AJ Hose,MW Short,TH David,1,0,,,,,,"",""
+ball,2,13.2,Adelaide Strikers,MW Short,AJ Hose,TH David,2,0,,,,,,"",""
+ball,2,13.3,Adelaide Strikers,MW Short,AJ Hose,TH David,1,0,,,,,,"",""
+ball,2,13.4,Adelaide Strikers,AJ Hose,MW Short,TH David,0,0,,,,,,"",""
+ball,2,13.5,Adelaide Strikers,AJ Hose,MW Short,TH David,1,0,,,,,,"",""
+ball,2,13.6,Adelaide Strikers,MW Short,AJ Hose,TH David,2,0,,,,,,"",""
+ball,2,14.1,Adelaide Strikers,AJ Hose,MW Short,PG Dooley,1,0,,,,,,"",""
+ball,2,14.2,Adelaide Strikers,MW Short,AJ Hose,PG Dooley,2,0,,,,,,"",""
+ball,2,14.3,Adelaide Strikers,MW Short,AJ Hose,PG Dooley,2,0,,,,,,"",""
+ball,2,14.4,Adelaide Strikers,MW Short,AJ Hose,PG Dooley,0,4,,,4,,,"",""
+ball,2,14.5,Adelaide Strikers,MW Short,AJ Hose,PG Dooley,0,0,,,,,,"",""
+ball,2,14.6,Adelaide Strikers,MW Short,AJ Hose,PG Dooley,0,0,,,,,,"",""
+ball,2,15.1,Adelaide Strikers,AJ Hose,MW Short,RP Meredith,0,0,,,,,,"",""
+ball,2,15.2,Adelaide Strikers,AJ Hose,MW Short,RP Meredith,1,0,,,,,,"",""
+ball,2,15.3,Adelaide Strikers,MW Short,AJ Hose,RP Meredith,1,0,,,,,,"",""
+ball,2,15.4,Adelaide Strikers,AJ Hose,MW Short,RP Meredith,1,0,,,,,,"",""
+ball,2,15.5,Adelaide Strikers,MW Short,AJ Hose,RP Meredith,2,0,,,,,,"",""
+ball,2,15.6,Adelaide Strikers,MW Short,AJ Hose,RP Meredith,4,0,,,,,,"",""
+ball,2,16.1,Adelaide Strikers,AJ Hose,MW Short,Faheem Ashraf,6,0,,,,,,"",""
+ball,2,16.2,Adelaide Strikers,AJ Hose,MW Short,Faheem Ashraf,2,0,,,,,,"",""
+ball,2,16.3,Adelaide Strikers,AJ Hose,MW Short,Faheem Ashraf,0,0,,,,,,"",""
+ball,2,16.4,Adelaide Strikers,AJ Hose,MW Short,Faheem Ashraf,0,1,,1,,,,"",""
+ball,2,16.5,Adelaide Strikers,AJ Hose,MW Short,Faheem Ashraf,6,0,,,,,,"",""
+ball,2,16.6,Adelaide Strikers,AJ Hose,MW Short,Faheem Ashraf,0,1,1,,,,,"",""
+ball,2,16.7,Adelaide Strikers,AJ Hose,MW Short,Faheem Ashraf,0,0,,,,,,"",""
+ball,2,16.8,Adelaide Strikers,AJ Hose,MW Short,Faheem Ashraf,6,0,,,,,,"",""
+ball,2,17.1,Adelaide Strikers,MW Short,AJ Hose,TH David,2,0,,,,,,"",""
+ball,2,17.2,Adelaide Strikers,MW Short,AJ Hose,TH David,0,1,1,,,,,"",""
+ball,2,17.3,Adelaide Strikers,MW Short,AJ Hose,TH David,0,0,,,,,,"",""
+ball,2,17.4,Adelaide Strikers,MW Short,AJ Hose,TH David,1,0,,,,,,"",""
+ball,2,17.5,Adelaide Strikers,AJ Hose,MW Short,TH David,0,0,,,,,,"",""
+ball,2,17.6,Adelaide Strikers,AJ Hose,MW Short,TH David,6,0,,,,,,"",""
+ball,2,17.7,Adelaide Strikers,AJ Hose,MW Short,TH David,0,1,1,,,,,"",""
+ball,2,17.8,Adelaide Strikers,AJ Hose,MW Short,TH David,0,0,,,,,,lbw,AJ Hose
+ball,2,18.1,Adelaide Strikers,MW Short,C de Grandhomme,NT Ellis,0,1,1,,,,,"",""
+ball,2,18.2,Adelaide Strikers,MW Short,C de Grandhomme,NT Ellis,2,0,,,,,,"",""
+ball,2,18.3,Adelaide Strikers,MW Short,C de Grandhomme,NT Ellis,1,0,,,,,,"",""
+ball,2,18.4,Adelaide Strikers,C de Grandhomme,MW Short,NT Ellis,1,0,,,,,,"",""
+ball,2,18.5,Adelaide Strikers,MW Short,C de Grandhomme,NT Ellis,4,0,,,,,,"",""
+ball,2,18.6,Adelaide Strikers,MW Short,C de Grandhomme,NT Ellis,2,0,,,,,,"",""
+ball,2,18.7,Adelaide Strikers,MW Short,C de Grandhomme,NT Ellis,2,0,,,,,,"",""
+ball,2,19.1,Adelaide Strikers,C de Grandhomme,MW Short,Faheem Ashraf,1,1,,1,,,,"",""
+ball,2,19.2,Adelaide Strikers,MW Short,C de Grandhomme,Faheem Ashraf,2,0,,,,,,"",""
+ball,2,19.3,Adelaide Strikers,MW Short,C de Grandhomme,Faheem Ashraf,4,0,,,,,,"",""
+ball,2,19.4,Adelaide Strikers,MW Short,C de Grandhomme,Faheem Ashraf,4,0,,,,,,"",""

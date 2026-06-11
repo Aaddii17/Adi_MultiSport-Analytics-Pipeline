@@ -1,0 +1,317 @@
+version,1.6.0
+info,balls_per_over,6
+info,team,Melbourne Stars
+info,team,Melbourne Renegades
+info,gender,male
+info,season,2020/21
+info,date,2021/01/20
+info,event,Big Bash League
+info,match_number,45
+info,venue,Docklands Stadium
+info,city,Melbourne
+info,toss_winner,Melbourne Stars
+info,toss_decision,bat
+info,player_of_match,MW Harvey
+info,umpire,SJ Nogajski
+info,umpire,SAJ Craig
+info,reserve_umpire,PJ Gillespie
+info,tv_umpire,MW Graham-Smith
+info,match_referee,RW Stratford
+info,winner,Melbourne Renegades
+info,winner_wickets,5
+info,player,Melbourne Stars,ADS Fletcher
+info,player,Melbourne Stars,MP Stoinis
+info,player,Melbourne Stars,NCR Larkin
+info,player,Melbourne Stars,NM Coulter-Nile
+info,player,Melbourne Stars,GJ Maxwell
+info,player,Melbourne Stars,NJ Maddinson
+info,player,Melbourne Stars,HWR Cartwright
+info,player,Melbourne Stars,SE Gotch
+info,player,Melbourne Stars,A Zampa
+info,player,Melbourne Stars,LC Hatcher
+info,player,Melbourne Stars,Zahir Khan
+info,player,Melbourne Renegades,SE Marsh
+info,player,Melbourne Renegades,AJ Finch
+info,player,Melbourne Renegades,SB Harper
+info,player,Melbourne Renegades,J Fraser-McGurk
+info,player,Melbourne Renegades,JA Prestwidge
+info,player,Melbourne Renegades,MW Harvey
+info,player,Melbourne Renegades,BJ Webster
+info,player,Melbourne Renegades,Imad Wasim
+info,player,Melbourne Renegades,JK Lalor
+info,player,Melbourne Renegades,Z Evans
+info,player,Melbourne Renegades,P Hatzoglou
+info,registry,people,A Zampa,14f96089
+info,registry,people,ADS Fletcher,1bae756b
+info,registry,people,AJ Finch,b8d490fd
+info,registry,people,BJ Webster,56b93d46
+info,registry,people,GJ Maxwell,b681e71e
+info,registry,people,HWR Cartwright,ab965cad
+info,registry,people,Imad Wasim,9cb8d7a6
+info,registry,people,J Fraser-McGurk,9b6e1b3f
+info,registry,people,JA Prestwidge,5f317fd4
+info,registry,people,JK Lalor,88209c84
+info,registry,people,LC Hatcher,8f3fde65
+info,registry,people,MP Stoinis,d9273ee7
+info,registry,people,MW Graham-Smith,18aca3ce
+info,registry,people,MW Harvey,47dc9794
+info,registry,people,NCR Larkin,02bce9a8
+info,registry,people,NJ Maddinson,44afbf2d
+info,registry,people,NM Coulter-Nile,56ab442f
+info,registry,people,P Hatzoglou,6f95e5fa
+info,registry,people,PJ Gillespie,3e253a50
+info,registry,people,RW Stratford,85489579
+info,registry,people,SAJ Craig,689f2eed
+info,registry,people,SB Harper,a756e61a
+info,registry,people,SE Gotch,9a0e4ca5
+info,registry,people,SE Marsh,508a1ea7
+info,registry,people,SJ Nogajski,9b3f9323
+info,registry,people,Z Evans,8528effb
+info,registry,people,Zahir Khan,786b7fe8
+ball,1,0.1,Melbourne Stars,ADS Fletcher,MP Stoinis,JK Lalor,0,0,,,,,,"",""
+ball,1,0.2,Melbourne Stars,ADS Fletcher,MP Stoinis,JK Lalor,0,0,,,,,,"",""
+ball,1,0.3,Melbourne Stars,ADS Fletcher,MP Stoinis,JK Lalor,0,0,,,,,,"",""
+ball,1,0.4,Melbourne Stars,ADS Fletcher,MP Stoinis,JK Lalor,0,0,,,,,,"",""
+ball,1,0.5,Melbourne Stars,ADS Fletcher,MP Stoinis,JK Lalor,0,0,,,,,,"",""
+ball,1,0.6,Melbourne Stars,ADS Fletcher,MP Stoinis,JK Lalor,0,0,,,,,,"",""
+ball,1,1.1,Melbourne Stars,MP Stoinis,ADS Fletcher,Imad Wasim,4,0,,,,,,"",""
+ball,1,1.2,Melbourne Stars,MP Stoinis,ADS Fletcher,Imad Wasim,0,0,,,,,,"",""
+ball,1,1.3,Melbourne Stars,MP Stoinis,ADS Fletcher,Imad Wasim,0,0,,,,,,"",""
+ball,1,1.4,Melbourne Stars,MP Stoinis,ADS Fletcher,Imad Wasim,1,0,,,,,,"",""
+ball,1,1.5,Melbourne Stars,ADS Fletcher,MP Stoinis,Imad Wasim,0,0,,,,,,"",""
+ball,1,1.6,Melbourne Stars,ADS Fletcher,MP Stoinis,Imad Wasim,1,0,,,,,,"",""
+ball,1,2.1,Melbourne Stars,ADS Fletcher,MP Stoinis,JK Lalor,0,0,,,,,,"",""
+ball,1,2.2,Melbourne Stars,ADS Fletcher,MP Stoinis,JK Lalor,4,0,,,,,,"",""
+ball,1,2.3,Melbourne Stars,ADS Fletcher,MP Stoinis,JK Lalor,2,0,,,,,,"",""
+ball,1,2.4,Melbourne Stars,ADS Fletcher,MP Stoinis,JK Lalor,0,1,1,,,,,"",""
+ball,1,2.5,Melbourne Stars,ADS Fletcher,MP Stoinis,JK Lalor,0,0,,,,,,"",""
+ball,1,2.6,Melbourne Stars,ADS Fletcher,MP Stoinis,JK Lalor,4,0,,,,,,"",""
+ball,1,2.7,Melbourne Stars,ADS Fletcher,MP Stoinis,JK Lalor,0,0,,,,,,bowled,ADS Fletcher
+ball,1,3.1,Melbourne Stars,MP Stoinis,NCR Larkin,Z Evans,0,0,,,,,,"",""
+ball,1,3.2,Melbourne Stars,MP Stoinis,NCR Larkin,Z Evans,4,0,,,,,,"",""
+ball,1,3.3,Melbourne Stars,MP Stoinis,NCR Larkin,Z Evans,4,0,,,,,,"",""
+ball,1,3.4,Melbourne Stars,MP Stoinis,NCR Larkin,Z Evans,0,0,,,,,,"",""
+ball,1,3.5,Melbourne Stars,MP Stoinis,NCR Larkin,Z Evans,0,0,,,,,,"",""
+ball,1,3.6,Melbourne Stars,MP Stoinis,NCR Larkin,Z Evans,0,1,1,,,,,"",""
+ball,1,3.7,Melbourne Stars,MP Stoinis,NCR Larkin,Z Evans,1,0,,,,,,"",""
+ball,1,4.1,Melbourne Stars,MP Stoinis,NCR Larkin,P Hatzoglou,1,0,,,,,,"",""
+ball,1,4.2,Melbourne Stars,NCR Larkin,MP Stoinis,P Hatzoglou,0,0,,,,,,"",""
+ball,1,4.3,Melbourne Stars,NCR Larkin,MP Stoinis,P Hatzoglou,1,0,,,,,,"",""
+ball,1,4.4,Melbourne Stars,MP Stoinis,NCR Larkin,P Hatzoglou,4,0,,,,,,"",""
+ball,1,4.5,Melbourne Stars,MP Stoinis,NCR Larkin,P Hatzoglou,1,0,,,,,,"",""
+ball,1,4.6,Melbourne Stars,NCR Larkin,MP Stoinis,P Hatzoglou,0,1,1,,,,,"",""
+ball,1,4.7,Melbourne Stars,NCR Larkin,MP Stoinis,P Hatzoglou,0,0,,,,,,"",""
+ball,1,5.1,Melbourne Stars,MP Stoinis,NCR Larkin,Imad Wasim,0,0,,,,,,"",""
+ball,1,5.2,Melbourne Stars,MP Stoinis,NCR Larkin,Imad Wasim,1,0,,,,,,"",""
+ball,1,5.3,Melbourne Stars,NCR Larkin,MP Stoinis,Imad Wasim,0,0,,,,,,"",""
+ball,1,5.4,Melbourne Stars,NCR Larkin,MP Stoinis,Imad Wasim,0,0,,,,,,"",""
+ball,1,5.5,Melbourne Stars,NCR Larkin,MP Stoinis,Imad Wasim,1,0,,,,,,"",""
+ball,1,5.6,Melbourne Stars,MP Stoinis,NCR Larkin,Imad Wasim,1,0,,,,,,"",""
+ball,1,6.1,Melbourne Stars,MP Stoinis,NCR Larkin,P Hatzoglou,1,0,,,,,,"",""
+ball,1,6.2,Melbourne Stars,NCR Larkin,MP Stoinis,P Hatzoglou,0,0,,,,,,"",""
+ball,1,6.3,Melbourne Stars,NCR Larkin,MP Stoinis,P Hatzoglou,4,0,,,,,,"",""
+ball,1,6.4,Melbourne Stars,NCR Larkin,MP Stoinis,P Hatzoglou,1,0,,,,,,"",""
+ball,1,6.5,Melbourne Stars,MP Stoinis,NCR Larkin,P Hatzoglou,2,0,,,,,,"",""
+ball,1,6.6,Melbourne Stars,MP Stoinis,NCR Larkin,P Hatzoglou,1,0,,,,,,"",""
+ball,1,7.1,Melbourne Stars,MP Stoinis,NCR Larkin,JA Prestwidge,0,0,,,,,,"",""
+ball,1,7.2,Melbourne Stars,MP Stoinis,NCR Larkin,JA Prestwidge,0,0,,,,,,"",""
+ball,1,7.3,Melbourne Stars,MP Stoinis,NCR Larkin,JA Prestwidge,2,0,,,,,,"",""
+ball,1,7.4,Melbourne Stars,MP Stoinis,NCR Larkin,JA Prestwidge,4,0,,,,,,"",""
+ball,1,7.5,Melbourne Stars,MP Stoinis,NCR Larkin,JA Prestwidge,1,0,,,,,,"",""
+ball,1,7.6,Melbourne Stars,NCR Larkin,MP Stoinis,JA Prestwidge,0,0,,,,,,"",""
+ball,1,8.1,Melbourne Stars,MP Stoinis,NCR Larkin,Z Evans,4,0,,,,,,"",""
+ball,1,8.2,Melbourne Stars,MP Stoinis,NCR Larkin,Z Evans,0,0,,,,,,"",""
+ball,1,8.3,Melbourne Stars,MP Stoinis,NCR Larkin,Z Evans,0,0,,,,,,caught,MP Stoinis
+ball,1,8.4,Melbourne Stars,NM Coulter-Nile,NCR Larkin,Z Evans,0,0,,,,,,bowled,NM Coulter-Nile
+ball,1,8.5,Melbourne Stars,GJ Maxwell,NCR Larkin,Z Evans,0,0,,,,,,"",""
+ball,1,8.6,Melbourne Stars,GJ Maxwell,NCR Larkin,Z Evans,0,0,,,,,,"",""
+ball,1,9.1,Melbourne Stars,NCR Larkin,GJ Maxwell,JA Prestwidge,4,0,,,,,,"",""
+ball,1,9.2,Melbourne Stars,NCR Larkin,GJ Maxwell,JA Prestwidge,0,0,,,,,,"",""
+ball,1,9.3,Melbourne Stars,NCR Larkin,GJ Maxwell,JA Prestwidge,0,0,,,,,,"",""
+ball,1,9.4,Melbourne Stars,NCR Larkin,GJ Maxwell,JA Prestwidge,0,0,,,,,,"",""
+ball,1,9.5,Melbourne Stars,NCR Larkin,GJ Maxwell,JA Prestwidge,0,0,,,,,,"",""
+ball,1,9.6,Melbourne Stars,NCR Larkin,GJ Maxwell,JA Prestwidge,1,0,,,,,,"",""
+ball,1,10.1,Melbourne Stars,NCR Larkin,GJ Maxwell,P Hatzoglou,0,1,1,,,,,"",""
+ball,1,10.2,Melbourne Stars,NCR Larkin,GJ Maxwell,P Hatzoglou,0,0,,,,,,"",""
+ball,1,10.3,Melbourne Stars,NCR Larkin,GJ Maxwell,P Hatzoglou,0,5,5,,,,,"",""
+ball,1,10.4,Melbourne Stars,NCR Larkin,GJ Maxwell,P Hatzoglou,0,0,,,,,,"",""
+ball,1,10.5,Melbourne Stars,NCR Larkin,GJ Maxwell,P Hatzoglou,0,4,,,4,,,"",""
+ball,1,10.6,Melbourne Stars,NCR Larkin,GJ Maxwell,P Hatzoglou,1,0,,,,,,"",""
+ball,1,10.7,Melbourne Stars,GJ Maxwell,NCR Larkin,P Hatzoglou,1,0,,,,,,"",""
+ball,1,10.8,Melbourne Stars,NCR Larkin,GJ Maxwell,P Hatzoglou,1,0,,,,,,"",""
+ball,1,11.1,Melbourne Stars,NCR Larkin,GJ Maxwell,Imad Wasim,1,0,,,,,,"",""
+ball,1,11.2,Melbourne Stars,GJ Maxwell,NCR Larkin,Imad Wasim,0,0,,,,,,caught,GJ Maxwell
+ball,1,11.3,Melbourne Stars,NCR Larkin,NJ Maddinson,Imad Wasim,0,0,,,,,,"",""
+ball,1,11.4,Melbourne Stars,NCR Larkin,NJ Maddinson,Imad Wasim,0,0,,,,,,"",""
+ball,1,11.5,Melbourne Stars,NCR Larkin,NJ Maddinson,Imad Wasim,1,0,,,,,,"",""
+ball,1,11.6,Melbourne Stars,NJ Maddinson,NCR Larkin,Imad Wasim,0,0,,,,,,"",""
+ball,1,12.1,Melbourne Stars,NCR Larkin,NJ Maddinson,BJ Webster,3,0,,,,,,"",""
+ball,1,12.2,Melbourne Stars,NJ Maddinson,NCR Larkin,BJ Webster,0,0,,,,,,"",""
+ball,1,12.3,Melbourne Stars,NJ Maddinson,NCR Larkin,BJ Webster,0,0,,,,,,"",""
+ball,1,12.4,Melbourne Stars,NJ Maddinson,NCR Larkin,BJ Webster,1,0,,,,,,"",""
+ball,1,12.5,Melbourne Stars,NCR Larkin,NJ Maddinson,BJ Webster,1,0,,,,,,"",""
+ball,1,12.6,Melbourne Stars,NJ Maddinson,NCR Larkin,BJ Webster,0,0,,,,,,"",""
+ball,1,13.1,Melbourne Stars,NCR Larkin,NJ Maddinson,Z Evans,0,0,,,,,,"",""
+ball,1,13.2,Melbourne Stars,NCR Larkin,NJ Maddinson,Z Evans,1,0,,,,,,"",""
+ball,1,13.3,Melbourne Stars,NJ Maddinson,NCR Larkin,Z Evans,1,0,,,,,,"",""
+ball,1,13.4,Melbourne Stars,NCR Larkin,NJ Maddinson,Z Evans,1,0,,,,,,"",""
+ball,1,13.5,Melbourne Stars,NJ Maddinson,NCR Larkin,Z Evans,6,0,,,,,,"",""
+ball,1,13.6,Melbourne Stars,NJ Maddinson,NCR Larkin,Z Evans,0,0,,,,,,"",""
+ball,1,14.1,Melbourne Stars,NCR Larkin,NJ Maddinson,JK Lalor,4,0,,,,,,"",""
+ball,1,14.2,Melbourne Stars,NCR Larkin,NJ Maddinson,JK Lalor,1,0,,,,,,"",""
+ball,1,14.3,Melbourne Stars,NJ Maddinson,NCR Larkin,JK Lalor,1,0,,,,,,"",""
+ball,1,14.4,Melbourne Stars,NCR Larkin,NJ Maddinson,JK Lalor,1,0,,,,,,"",""
+ball,1,14.5,Melbourne Stars,NJ Maddinson,NCR Larkin,JK Lalor,0,0,,,,,,"",""
+ball,1,14.6,Melbourne Stars,NJ Maddinson,NCR Larkin,JK Lalor,1,0,,,,,,"",""
+ball,1,15.1,Melbourne Stars,NJ Maddinson,NCR Larkin,JA Prestwidge,0,0,,,,,,"",""
+ball,1,15.2,Melbourne Stars,NJ Maddinson,NCR Larkin,JA Prestwidge,6,0,,,,,,"",""
+ball,1,15.3,Melbourne Stars,NJ Maddinson,NCR Larkin,JA Prestwidge,0,0,,,,,,"",""
+ball,1,15.4,Melbourne Stars,NJ Maddinson,NCR Larkin,JA Prestwidge,0,0,,,,,,"",""
+ball,1,15.5,Melbourne Stars,NJ Maddinson,NCR Larkin,JA Prestwidge,4,0,,,,,,"",""
+ball,1,15.6,Melbourne Stars,NJ Maddinson,NCR Larkin,JA Prestwidge,1,0,,,,,,"",""
+ball,1,16.1,Melbourne Stars,NJ Maddinson,NCR Larkin,P Hatzoglou,0,0,,,,,,caught,NJ Maddinson
+ball,1,16.2,Melbourne Stars,HWR Cartwright,NCR Larkin,P Hatzoglou,4,0,,,,,,"",""
+ball,1,16.3,Melbourne Stars,HWR Cartwright,NCR Larkin,P Hatzoglou,0,1,1,,,,,"",""
+ball,1,16.4,Melbourne Stars,HWR Cartwright,NCR Larkin,P Hatzoglou,0,0,,,,,,"",""
+ball,1,16.5,Melbourne Stars,HWR Cartwright,NCR Larkin,P Hatzoglou,0,0,,,,,,"",""
+ball,1,16.6,Melbourne Stars,HWR Cartwright,NCR Larkin,P Hatzoglou,0,1,1,,,,,"",""
+ball,1,16.7,Melbourne Stars,HWR Cartwright,NCR Larkin,P Hatzoglou,0,0,,,,,,bowled,HWR Cartwright
+ball,1,16.8,Melbourne Stars,SE Gotch,NCR Larkin,P Hatzoglou,0,2,2,,,,,"",""
+ball,1,16.9,Melbourne Stars,NCR Larkin,SE Gotch,P Hatzoglou,0,0,,,,,,"",""
+ball,1,17.1,Melbourne Stars,SE Gotch,NCR Larkin,Imad Wasim,0,0,,,,,,"",""
+ball,1,17.2,Melbourne Stars,SE Gotch,NCR Larkin,Imad Wasim,1,0,,,,,,"",""
+ball,1,17.3,Melbourne Stars,NCR Larkin,SE Gotch,Imad Wasim,0,0,,,,,,"",""
+ball,1,17.4,Melbourne Stars,NCR Larkin,SE Gotch,Imad Wasim,6,0,,,,,,"",""
+ball,1,17.5,Melbourne Stars,NCR Larkin,SE Gotch,Imad Wasim,4,0,,,,,,"",""
+ball,1,17.6,Melbourne Stars,NCR Larkin,SE Gotch,Imad Wasim,2,0,,,,,,"",""
+ball,1,18.1,Melbourne Stars,SE Gotch,NCR Larkin,JK Lalor,3,0,,,,,,"",""
+ball,1,18.2,Melbourne Stars,NCR Larkin,SE Gotch,JK Lalor,1,0,,,,,,"",""
+ball,1,18.3,Melbourne Stars,SE Gotch,NCR Larkin,JK Lalor,1,0,,,,,,"",""
+ball,1,18.4,Melbourne Stars,NCR Larkin,SE Gotch,JK Lalor,4,0,,,,,,"",""
+ball,1,18.5,Melbourne Stars,NCR Larkin,SE Gotch,JK Lalor,2,0,,,,,,"",""
+ball,1,18.6,Melbourne Stars,NCR Larkin,SE Gotch,JK Lalor,1,0,,,,,,"",""
+ball,1,19.1,Melbourne Stars,NCR Larkin,SE Gotch,JA Prestwidge,0,0,,,,,,"",""
+ball,1,19.2,Melbourne Stars,NCR Larkin,SE Gotch,JA Prestwidge,4,0,,,,,,"",""
+ball,1,19.3,Melbourne Stars,NCR Larkin,SE Gotch,JA Prestwidge,4,0,,,,,,"",""
+ball,1,19.4,Melbourne Stars,NCR Larkin,SE Gotch,JA Prestwidge,1,0,,,,,,"",""
+ball,1,19.5,Melbourne Stars,SE Gotch,NCR Larkin,JA Prestwidge,1,0,,,,,,"",""
+ball,1,19.6,Melbourne Stars,NCR Larkin,SE Gotch,JA Prestwidge,4,0,,,,,,"",""
+ball,2,0.1,Melbourne Renegades,SE Marsh,AJ Finch,NM Coulter-Nile,0,0,,,,,,"",""
+ball,2,0.2,Melbourne Renegades,SE Marsh,AJ Finch,NM Coulter-Nile,1,0,,,,,,"",""
+ball,2,0.3,Melbourne Renegades,AJ Finch,SE Marsh,NM Coulter-Nile,0,0,,,,,,"",""
+ball,2,0.4,Melbourne Renegades,AJ Finch,SE Marsh,NM Coulter-Nile,0,0,,,,,,"",""
+ball,2,0.5,Melbourne Renegades,AJ Finch,SE Marsh,NM Coulter-Nile,1,0,,,,,,"",""
+ball,2,0.6,Melbourne Renegades,SE Marsh,AJ Finch,NM Coulter-Nile,0,0,,,,,,bowled,SE Marsh
+ball,2,1.1,Melbourne Renegades,AJ Finch,SB Harper,A Zampa,0,0,,,,,,"",""
+ball,2,1.2,Melbourne Renegades,AJ Finch,SB Harper,A Zampa,0,0,,,,,,"",""
+ball,2,1.3,Melbourne Renegades,AJ Finch,SB Harper,A Zampa,0,0,,,,,,"",""
+ball,2,1.4,Melbourne Renegades,AJ Finch,SB Harper,A Zampa,0,0,,,,,,"",""
+ball,2,1.5,Melbourne Renegades,AJ Finch,SB Harper,A Zampa,0,0,,,,,,"",""
+ball,2,1.6,Melbourne Renegades,AJ Finch,SB Harper,A Zampa,1,0,,,,,,"",""
+ball,2,2.1,Melbourne Renegades,AJ Finch,SB Harper,LC Hatcher,0,0,,,,,,"",""
+ball,2,2.2,Melbourne Renegades,AJ Finch,SB Harper,LC Hatcher,4,0,,,,,,"",""
+ball,2,2.3,Melbourne Renegades,AJ Finch,SB Harper,LC Hatcher,0,1,,,,1,,"",""
+ball,2,2.4,Melbourne Renegades,SB Harper,AJ Finch,LC Hatcher,2,0,,,,,,"",""
+ball,2,2.5,Melbourne Renegades,SB Harper,AJ Finch,LC Hatcher,0,0,,,,,,"",""
+ball,2,2.6,Melbourne Renegades,SB Harper,AJ Finch,LC Hatcher,0,1,1,,,,,"",""
+ball,2,2.7,Melbourne Renegades,SB Harper,AJ Finch,LC Hatcher,0,0,,,,,,"",""
+ball,2,3.1,Melbourne Renegades,AJ Finch,SB Harper,Zahir Khan,4,0,,,,,,"",""
+ball,2,3.2,Melbourne Renegades,AJ Finch,SB Harper,Zahir Khan,0,0,,,,,,bowled,AJ Finch
+ball,2,3.3,Melbourne Renegades,J Fraser-McGurk,SB Harper,Zahir Khan,0,0,,,,,,"",""
+ball,2,3.4,Melbourne Renegades,J Fraser-McGurk,SB Harper,Zahir Khan,0,0,,,,,,"",""
+ball,2,3.5,Melbourne Renegades,J Fraser-McGurk,SB Harper,Zahir Khan,1,0,,,,,,"",""
+ball,2,3.6,Melbourne Renegades,SB Harper,J Fraser-McGurk,Zahir Khan,1,0,,,,,,"",""
+ball,2,4.1,Melbourne Renegades,SB Harper,J Fraser-McGurk,NJ Maddinson,0,0,,,,,,"",""
+ball,2,4.2,Melbourne Renegades,SB Harper,J Fraser-McGurk,NJ Maddinson,1,0,,,,,,"",""
+ball,2,4.3,Melbourne Renegades,J Fraser-McGurk,SB Harper,NJ Maddinson,1,0,,,,,,"",""
+ball,2,4.4,Melbourne Renegades,SB Harper,J Fraser-McGurk,NJ Maddinson,4,0,,,,,,"",""
+ball,2,4.5,Melbourne Renegades,SB Harper,J Fraser-McGurk,NJ Maddinson,0,0,,,,,,"",""
+ball,2,4.6,Melbourne Renegades,SB Harper,J Fraser-McGurk,NJ Maddinson,1,0,,,,,,"",""
+ball,2,5.1,Melbourne Renegades,SB Harper,J Fraser-McGurk,A Zampa,1,0,,,,,,"",""
+ball,2,5.2,Melbourne Renegades,J Fraser-McGurk,SB Harper,A Zampa,2,0,,,,,,"",""
+ball,2,5.3,Melbourne Renegades,J Fraser-McGurk,SB Harper,A Zampa,0,0,,,,,,"",""
+ball,2,5.4,Melbourne Renegades,J Fraser-McGurk,SB Harper,A Zampa,1,0,,,,,,"",""
+ball,2,5.5,Melbourne Renegades,SB Harper,J Fraser-McGurk,A Zampa,1,0,,,,,,"",""
+ball,2,5.6,Melbourne Renegades,J Fraser-McGurk,SB Harper,A Zampa,1,0,,,,,,"",""
+ball,2,6.1,Melbourne Renegades,J Fraser-McGurk,SB Harper,MP Stoinis,1,0,,,,,,"",""
+ball,2,6.2,Melbourne Renegades,SB Harper,J Fraser-McGurk,MP Stoinis,1,0,,,,,,"",""
+ball,2,6.3,Melbourne Renegades,J Fraser-McGurk,SB Harper,MP Stoinis,0,0,,,,,,"",""
+ball,2,6.4,Melbourne Renegades,J Fraser-McGurk,SB Harper,MP Stoinis,0,0,,,,,,"",""
+ball,2,6.5,Melbourne Renegades,J Fraser-McGurk,SB Harper,MP Stoinis,1,0,,,,,,"",""
+ball,2,6.6,Melbourne Renegades,SB Harper,J Fraser-McGurk,MP Stoinis,1,0,,,,,,"",""
+ball,2,7.1,Melbourne Renegades,SB Harper,J Fraser-McGurk,Zahir Khan,0,0,,,,,,"",""
+ball,2,7.2,Melbourne Renegades,SB Harper,J Fraser-McGurk,Zahir Khan,0,0,,,,,,"",""
+ball,2,7.3,Melbourne Renegades,SB Harper,J Fraser-McGurk,Zahir Khan,0,0,,,,,,"",""
+ball,2,7.4,Melbourne Renegades,SB Harper,J Fraser-McGurk,Zahir Khan,0,1,,,,1,,"",""
+ball,2,7.5,Melbourne Renegades,J Fraser-McGurk,SB Harper,Zahir Khan,2,0,,,,,,"",""
+ball,2,7.6,Melbourne Renegades,J Fraser-McGurk,SB Harper,Zahir Khan,1,0,,,,,,"",""
+ball,2,8.1,Melbourne Renegades,J Fraser-McGurk,SB Harper,NM Coulter-Nile,1,0,,,,,,"",""
+ball,2,8.2,Melbourne Renegades,SB Harper,J Fraser-McGurk,NM Coulter-Nile,1,0,,,,,,"",""
+ball,2,8.3,Melbourne Renegades,J Fraser-McGurk,SB Harper,NM Coulter-Nile,6,0,,,,,,"",""
+ball,2,8.4,Melbourne Renegades,J Fraser-McGurk,SB Harper,NM Coulter-Nile,0,0,,,,,,"",""
+ball,2,8.5,Melbourne Renegades,J Fraser-McGurk,SB Harper,NM Coulter-Nile,2,0,,,,,,"",""
+ball,2,8.6,Melbourne Renegades,J Fraser-McGurk,SB Harper,NM Coulter-Nile,0,0,,,,,,caught,J Fraser-McGurk
+ball,2,9.1,Melbourne Renegades,SB Harper,JA Prestwidge,MP Stoinis,1,0,,,,,,"",""
+ball,2,9.2,Melbourne Renegades,JA Prestwidge,SB Harper,MP Stoinis,1,0,,,,,,"",""
+ball,2,9.3,Melbourne Renegades,SB Harper,JA Prestwidge,MP Stoinis,0,0,,,,,,"",""
+ball,2,9.4,Melbourne Renegades,SB Harper,JA Prestwidge,MP Stoinis,1,0,,,,,,"",""
+ball,2,9.5,Melbourne Renegades,JA Prestwidge,SB Harper,MP Stoinis,1,0,,,,,,"",""
+ball,2,9.6,Melbourne Renegades,SB Harper,JA Prestwidge,MP Stoinis,1,0,,,,,,"",""
+ball,2,10.1,Melbourne Renegades,SB Harper,JA Prestwidge,LC Hatcher,4,0,,,,,,"",""
+ball,2,10.2,Melbourne Renegades,SB Harper,JA Prestwidge,LC Hatcher,1,0,,,,,,"",""
+ball,2,10.3,Melbourne Renegades,JA Prestwidge,SB Harper,LC Hatcher,1,0,,,,,,"",""
+ball,2,10.4,Melbourne Renegades,SB Harper,JA Prestwidge,LC Hatcher,1,0,,,,,,"",""
+ball,2,10.5,Melbourne Renegades,JA Prestwidge,SB Harper,LC Hatcher,0,0,,,,,,"",""
+ball,2,10.6,Melbourne Renegades,JA Prestwidge,SB Harper,LC Hatcher,0,0,,,,,,"",""
+ball,2,11.1,Melbourne Renegades,SB Harper,JA Prestwidge,Zahir Khan,3,0,,,,,,"",""
+ball,2,11.2,Melbourne Renegades,JA Prestwidge,SB Harper,Zahir Khan,0,3,,,3,,,"",""
+ball,2,11.3,Melbourne Renegades,SB Harper,JA Prestwidge,Zahir Khan,0,0,,,,,,"",""
+ball,2,11.4,Melbourne Renegades,SB Harper,JA Prestwidge,Zahir Khan,1,0,,,,,,"",""
+ball,2,11.5,Melbourne Renegades,JA Prestwidge,SB Harper,Zahir Khan,1,0,,,,,,"",""
+ball,2,11.6,Melbourne Renegades,SB Harper,JA Prestwidge,Zahir Khan,1,0,,,,,,"",""
+ball,2,12.1,Melbourne Renegades,SB Harper,JA Prestwidge,A Zampa,0,0,,,,,,"",""
+ball,2,12.2,Melbourne Renegades,SB Harper,JA Prestwidge,A Zampa,1,0,,,,,,"",""
+ball,2,12.3,Melbourne Renegades,JA Prestwidge,SB Harper,A Zampa,0,0,,,,,,"",""
+ball,2,12.4,Melbourne Renegades,JA Prestwidge,SB Harper,A Zampa,4,0,,,,,,"",""
+ball,2,12.5,Melbourne Renegades,JA Prestwidge,SB Harper,A Zampa,0,0,,,,,,"",""
+ball,2,12.6,Melbourne Renegades,JA Prestwidge,SB Harper,A Zampa,1,0,,,,,,"",""
+ball,2,13.1,Melbourne Renegades,JA Prestwidge,SB Harper,MP Stoinis,2,0,,,,,,"",""
+ball,2,13.2,Melbourne Renegades,JA Prestwidge,SB Harper,MP Stoinis,1,0,,,,,,"",""
+ball,2,13.3,Melbourne Renegades,SB Harper,JA Prestwidge,MP Stoinis,4,0,,,,,,"",""
+ball,2,13.4,Melbourne Renegades,SB Harper,JA Prestwidge,MP Stoinis,6,0,,,,,,"",""
+ball,2,13.5,Melbourne Renegades,SB Harper,JA Prestwidge,MP Stoinis,0,0,,,,,,lbw,SB Harper
+ball,2,13.6,Melbourne Renegades,MW Harvey,JA Prestwidge,MP Stoinis,0,0,,,,,,"",""
+ball,2,14.1,Melbourne Renegades,JA Prestwidge,MW Harvey,Zahir Khan,1,0,,,,,,"",""
+ball,2,14.2,Melbourne Renegades,MW Harvey,JA Prestwidge,Zahir Khan,1,0,,,,,,"",""
+ball,2,14.3,Melbourne Renegades,JA Prestwidge,MW Harvey,Zahir Khan,1,0,,,,,,"",""
+ball,2,14.4,Melbourne Renegades,MW Harvey,JA Prestwidge,Zahir Khan,4,0,,,,,,"",""
+ball,2,14.5,Melbourne Renegades,MW Harvey,JA Prestwidge,Zahir Khan,1,0,,,,,,"",""
+ball,2,14.6,Melbourne Renegades,JA Prestwidge,MW Harvey,Zahir Khan,0,0,,,,,,"",""
+ball,2,15.1,Melbourne Renegades,MW Harvey,JA Prestwidge,NM Coulter-Nile,0,1,,,,1,,"",""
+ball,2,15.2,Melbourne Renegades,JA Prestwidge,MW Harvey,NM Coulter-Nile,0,0,,,,,,"",""
+ball,2,15.3,Melbourne Renegades,JA Prestwidge,MW Harvey,NM Coulter-Nile,0,0,,,,,,caught,JA Prestwidge
+ball,2,15.4,Melbourne Renegades,MW Harvey,BJ Webster,NM Coulter-Nile,4,0,,,,,,"",""
+ball,2,15.5,Melbourne Renegades,MW Harvey,BJ Webster,NM Coulter-Nile,6,0,,,,,,"",""
+ball,2,15.6,Melbourne Renegades,MW Harvey,BJ Webster,NM Coulter-Nile,0,0,,,,,,"",""
+ball,2,16.1,Melbourne Renegades,BJ Webster,MW Harvey,A Zampa,0,0,,,,,,"",""
+ball,2,16.2,Melbourne Renegades,BJ Webster,MW Harvey,A Zampa,1,0,,,,,,"",""
+ball,2,16.3,Melbourne Renegades,MW Harvey,BJ Webster,A Zampa,4,0,,,,,,"",""
+ball,2,16.4,Melbourne Renegades,MW Harvey,BJ Webster,A Zampa,0,0,,,,,,"",""
+ball,2,16.5,Melbourne Renegades,MW Harvey,BJ Webster,A Zampa,4,0,,,,,,"",""
+ball,2,16.6,Melbourne Renegades,MW Harvey,BJ Webster,A Zampa,2,0,,,,,,"",""
+ball,2,17.1,Melbourne Renegades,BJ Webster,MW Harvey,LC Hatcher,1,0,,,,,,"",""
+ball,2,17.2,Melbourne Renegades,MW Harvey,BJ Webster,LC Hatcher,2,0,,,,,,"",""
+ball,2,17.3,Melbourne Renegades,MW Harvey,BJ Webster,LC Hatcher,4,0,,,,,,"",""
+ball,2,17.4,Melbourne Renegades,MW Harvey,BJ Webster,LC Hatcher,4,0,,,,,,"",""
+ball,2,17.5,Melbourne Renegades,MW Harvey,BJ Webster,LC Hatcher,1,0,,,,,,"",""
+ball,2,17.6,Melbourne Renegades,BJ Webster,MW Harvey,LC Hatcher,4,0,,,,,,"",""
+ball,2,18.1,Melbourne Renegades,MW Harvey,BJ Webster,NM Coulter-Nile,6,0,,,,,,"",""
+ball,2,18.2,Melbourne Renegades,MW Harvey,BJ Webster,NM Coulter-Nile,1,0,,,,,,"",""
+ball,2,18.3,Melbourne Renegades,BJ Webster,MW Harvey,NM Coulter-Nile,1,0,,,,,,"",""
+ball,2,18.4,Melbourne Renegades,MW Harvey,BJ Webster,NM Coulter-Nile,1,0,,,,,,"",""
+ball,2,18.5,Melbourne Renegades,BJ Webster,MW Harvey,NM Coulter-Nile,4,0,,,,,,"",""
+ball,2,18.6,Melbourne Renegades,BJ Webster,MW Harvey,NM Coulter-Nile,6,0,,,,,,"",""
+ball,2,19.1,Melbourne Renegades,MW Harvey,BJ Webster,LC Hatcher,1,0,,,,,,"",""
+ball,2,19.2,Melbourne Renegades,BJ Webster,MW Harvey,LC Hatcher,1,0,,,,,,"",""
+ball,2,19.3,Melbourne Renegades,MW Harvey,BJ Webster,LC Hatcher,1,0,,,,,,"",""
+ball,2,19.4,Melbourne Renegades,BJ Webster,MW Harvey,LC Hatcher,4,0,,,,,,"",""

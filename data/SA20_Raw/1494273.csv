@@ -1,0 +1,317 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Sunrisers Eastern Cape
+info,team,Durban's Super Giants
+info,gender,male
+info,season,2025/26
+info,date,2026/01/11
+info,event,SA20
+info,match_number,21
+info,venue,"St George's Park, Gqeberha"
+info,city,Gqeberha
+info,toss_winner,Sunrisers Eastern Cape
+info,toss_decision,bat
+info,player_of_match,T Stubbs
+info,umpire,A Olivier
+info,umpire,Stephen Harris
+info,reserve_umpire,AM Sodumo
+info,tv_umpire,BP Jele
+info,match_referee,SA Fritz
+info,winner,Durban's Super Giants
+info,winner_wickets,2
+info,player,Sunrisers Eastern Cape,Q de Kock
+info,player,Sunrisers Eastern Cape,JM Bairstow
+info,player,Sunrisers Eastern Cape,MP Breetzke
+info,player,Sunrisers Eastern Cape,J Hermann
+info,player,Sunrisers Eastern Cape,T Stubbs
+info,player,Sunrisers Eastern Cape,M Jansen
+info,player,Sunrisers Eastern Cape,L Gregory
+info,player,Sunrisers Eastern Cape,S Muthusamy
+info,player,Sunrisers Eastern Cape,A Nortje
+info,player,Sunrisers Eastern Cape,AF Milne
+info,player,Sunrisers Eastern Cape,KTH Ratnayake
+info,player,Durban's Super Giants,AK Markram
+info,player,Durban's Super Giants,MJ Ackerman
+info,player,Durban's Super Giants,JC Buttler
+info,player,Durban's Super Giants,SP Narine
+info,player,Durban's Super Giants,H Klaasen
+info,player,Durban's Super Giants,DG Bedingham
+info,player,Durban's Super Giants,LS Livingstone
+info,player,Durban's Super Giants,E Jones
+info,player,Durban's Super Giants,G Coetzee
+info,player,Durban's Super Giants,KT Maphaka
+info,player,Durban's Super Giants,Noor Ahmad
+info,registry,people,A Nortje,acdc62f5
+info,registry,people,A Olivier,ccc12fa6
+info,registry,people,AF Milne,350bb1b1
+info,registry,people,AK Markram,6a26221c
+info,registry,people,AM Sodumo,cc6850ec
+info,registry,people,BP Jele,7bb1331e
+info,registry,people,DG Bedingham,a1b69936
+info,registry,people,E Jones,fbfea9c2
+info,registry,people,G Coetzee,3204c99f
+info,registry,people,H Klaasen,235c2bb6
+info,registry,people,J Hermann,e87aeca2
+info,registry,people,JC Buttler,99b75528
+info,registry,people,JM Bairstow,abb83e27
+info,registry,people,KT Maphaka,107c26fb
+info,registry,people,KTH Ratnayake,4eb02f2e
+info,registry,people,L Gregory,06c2de82
+info,registry,people,LS Livingstone,50c6bc2b
+info,registry,people,M Jansen,81c36ee9
+info,registry,people,MJ Ackerman,6287d981
+info,registry,people,MP Breetzke,35f173a0
+info,registry,people,Noor Ahmad,efc04be7
+info,registry,people,Q de Kock,372455c4
+info,registry,people,S Muthusamy,7dfb8890
+info,registry,people,SA Fritz,d15e60c8
+info,registry,people,SP Narine,9d430b40
+info,registry,people,Stephen Harris,fdcfd4aa
+info,registry,people,T Stubbs,85b3fab2
+ball,1,0.1,Sunrisers Eastern Cape,Q de Kock,JM Bairstow,KT Maphaka,0,0,,,,,,"",""
+ball,1,0.2,Sunrisers Eastern Cape,Q de Kock,JM Bairstow,KT Maphaka,0,0,,,,,,"",""
+ball,1,0.3,Sunrisers Eastern Cape,Q de Kock,JM Bairstow,KT Maphaka,0,0,,,,,,"",""
+ball,1,0.4,Sunrisers Eastern Cape,Q de Kock,JM Bairstow,KT Maphaka,0,1,1,,,,,"",""
+ball,1,0.5,Sunrisers Eastern Cape,Q de Kock,JM Bairstow,KT Maphaka,1,0,,,,,,"",""
+ball,1,0.6,Sunrisers Eastern Cape,JM Bairstow,Q de Kock,KT Maphaka,4,0,,,,,,"",""
+ball,1,0.7,Sunrisers Eastern Cape,JM Bairstow,Q de Kock,KT Maphaka,2,0,,,,,,"",""
+ball,1,1.1,Sunrisers Eastern Cape,Q de Kock,JM Bairstow,SP Narine,1,0,,,,,,"",""
+ball,1,1.2,Sunrisers Eastern Cape,JM Bairstow,Q de Kock,SP Narine,1,0,,,,,,"",""
+ball,1,1.3,Sunrisers Eastern Cape,Q de Kock,JM Bairstow,SP Narine,4,0,,,,,,"",""
+ball,1,1.4,Sunrisers Eastern Cape,Q de Kock,JM Bairstow,SP Narine,0,0,,,,,,"",""
+ball,1,1.5,Sunrisers Eastern Cape,Q de Kock,JM Bairstow,SP Narine,6,0,,,,,,"",""
+ball,1,1.6,Sunrisers Eastern Cape,Q de Kock,JM Bairstow,SP Narine,0,0,,,,,,"",""
+ball,1,2.1,Sunrisers Eastern Cape,JM Bairstow,Q de Kock,G Coetzee,0,0,,,,,,"",""
+ball,1,2.2,Sunrisers Eastern Cape,JM Bairstow,Q de Kock,G Coetzee,0,0,,,,,,"",""
+ball,1,2.3,Sunrisers Eastern Cape,JM Bairstow,Q de Kock,G Coetzee,4,0,,,,,,"",""
+ball,1,2.4,Sunrisers Eastern Cape,JM Bairstow,Q de Kock,G Coetzee,0,0,,,,,,caught,JM Bairstow
+ball,1,2.5,Sunrisers Eastern Cape,MP Breetzke,Q de Kock,G Coetzee,1,0,,,,,,"",""
+ball,1,2.6,Sunrisers Eastern Cape,Q de Kock,MP Breetzke,G Coetzee,1,0,,,,,,"",""
+ball,1,3.1,Sunrisers Eastern Cape,Q de Kock,MP Breetzke,SP Narine,0,0,,,,,,"",""
+ball,1,3.2,Sunrisers Eastern Cape,Q de Kock,MP Breetzke,SP Narine,0,0,,,,,,"",""
+ball,1,3.3,Sunrisers Eastern Cape,Q de Kock,MP Breetzke,SP Narine,0,0,,,,,,"",""
+ball,1,3.4,Sunrisers Eastern Cape,Q de Kock,MP Breetzke,SP Narine,0,0,,,,,,"",""
+ball,1,3.5,Sunrisers Eastern Cape,Q de Kock,MP Breetzke,SP Narine,0,0,,,,,,caught,Q de Kock
+ball,1,3.6,Sunrisers Eastern Cape,J Hermann,MP Breetzke,SP Narine,0,0,,,,,,"",""
+ball,1,4.1,Sunrisers Eastern Cape,MP Breetzke,J Hermann,G Coetzee,0,0,,,,,,"",""
+ball,1,4.2,Sunrisers Eastern Cape,MP Breetzke,J Hermann,G Coetzee,0,0,,,,,,"",""
+ball,1,4.3,Sunrisers Eastern Cape,MP Breetzke,J Hermann,G Coetzee,1,0,,,,,,"",""
+ball,1,4.4,Sunrisers Eastern Cape,J Hermann,MP Breetzke,G Coetzee,0,0,,,,,,"",""
+ball,1,4.5,Sunrisers Eastern Cape,J Hermann,MP Breetzke,G Coetzee,0,0,,,,,,"",""
+ball,1,4.6,Sunrisers Eastern Cape,J Hermann,MP Breetzke,G Coetzee,1,0,,,,,,"",""
+ball,1,5.1,Sunrisers Eastern Cape,J Hermann,MP Breetzke,SP Narine,2,0,,,,,,"",""
+ball,1,5.2,Sunrisers Eastern Cape,J Hermann,MP Breetzke,SP Narine,0,0,,,,,,"",""
+ball,1,5.3,Sunrisers Eastern Cape,J Hermann,MP Breetzke,SP Narine,4,0,,,,,,"",""
+ball,1,5.4,Sunrisers Eastern Cape,J Hermann,MP Breetzke,SP Narine,4,0,,,,,,"",""
+ball,1,5.5,Sunrisers Eastern Cape,J Hermann,MP Breetzke,SP Narine,0,0,,,,,,"",""
+ball,1,5.6,Sunrisers Eastern Cape,J Hermann,MP Breetzke,SP Narine,0,0,,,,,,"",""
+ball,1,6.1,Sunrisers Eastern Cape,MP Breetzke,J Hermann,Noor Ahmad,1,0,,,,,,"",""
+ball,1,6.2,Sunrisers Eastern Cape,J Hermann,MP Breetzke,Noor Ahmad,1,0,,,,,,"",""
+ball,1,6.3,Sunrisers Eastern Cape,MP Breetzke,J Hermann,Noor Ahmad,0,0,,,,,,"",""
+ball,1,6.4,Sunrisers Eastern Cape,MP Breetzke,J Hermann,Noor Ahmad,0,0,,,,,,"",""
+ball,1,6.5,Sunrisers Eastern Cape,MP Breetzke,J Hermann,Noor Ahmad,0,0,,,,,,"",""
+ball,1,6.6,Sunrisers Eastern Cape,MP Breetzke,J Hermann,Noor Ahmad,0,0,,,,,,"",""
+ball,1,7.1,Sunrisers Eastern Cape,J Hermann,MP Breetzke,LS Livingstone,0,0,,,,,,"",""
+ball,1,7.2,Sunrisers Eastern Cape,J Hermann,MP Breetzke,LS Livingstone,6,0,,,,,,"",""
+ball,1,7.3,Sunrisers Eastern Cape,J Hermann,MP Breetzke,LS Livingstone,4,0,,,,,,"",""
+ball,1,7.4,Sunrisers Eastern Cape,J Hermann,MP Breetzke,LS Livingstone,0,0,,,,,,"",""
+ball,1,7.5,Sunrisers Eastern Cape,J Hermann,MP Breetzke,LS Livingstone,4,0,,,,,,"",""
+ball,1,7.6,Sunrisers Eastern Cape,J Hermann,MP Breetzke,LS Livingstone,1,0,,,,,,"",""
+ball,1,8.1,Sunrisers Eastern Cape,J Hermann,MP Breetzke,Noor Ahmad,1,0,,,,,,"",""
+ball,1,8.2,Sunrisers Eastern Cape,MP Breetzke,J Hermann,Noor Ahmad,6,0,,,,,,"",""
+ball,1,8.3,Sunrisers Eastern Cape,MP Breetzke,J Hermann,Noor Ahmad,1,0,,,,,,"",""
+ball,1,8.4,Sunrisers Eastern Cape,J Hermann,MP Breetzke,Noor Ahmad,0,0,,,,,,"",""
+ball,1,8.5,Sunrisers Eastern Cape,J Hermann,MP Breetzke,Noor Ahmad,0,0,,,,,,"",""
+ball,1,8.6,Sunrisers Eastern Cape,J Hermann,MP Breetzke,Noor Ahmad,1,0,,,,,,"",""
+ball,1,9.1,Sunrisers Eastern Cape,J Hermann,MP Breetzke,KT Maphaka,0,0,,,,,,"",""
+ball,1,9.2,Sunrisers Eastern Cape,J Hermann,MP Breetzke,KT Maphaka,0,0,,,,,,"",""
+ball,1,9.3,Sunrisers Eastern Cape,J Hermann,MP Breetzke,KT Maphaka,0,0,,,,,,lbw,J Hermann
+ball,1,9.4,Sunrisers Eastern Cape,T Stubbs,MP Breetzke,KT Maphaka,1,0,,,,,,"",""
+ball,1,9.5,Sunrisers Eastern Cape,MP Breetzke,T Stubbs,KT Maphaka,2,0,,,,,,"",""
+ball,1,9.6,Sunrisers Eastern Cape,MP Breetzke,T Stubbs,KT Maphaka,1,0,,,,,,"",""
+ball,1,10.1,Sunrisers Eastern Cape,MP Breetzke,T Stubbs,LS Livingstone,0,0,,,,,,"",""
+ball,1,10.2,Sunrisers Eastern Cape,MP Breetzke,T Stubbs,LS Livingstone,1,0,,,,,,"",""
+ball,1,10.3,Sunrisers Eastern Cape,T Stubbs,MP Breetzke,LS Livingstone,0,0,,,,,,"",""
+ball,1,10.4,Sunrisers Eastern Cape,T Stubbs,MP Breetzke,LS Livingstone,1,0,,,,,,"",""
+ball,1,10.5,Sunrisers Eastern Cape,MP Breetzke,T Stubbs,LS Livingstone,1,0,,,,,,"",""
+ball,1,10.6,Sunrisers Eastern Cape,T Stubbs,MP Breetzke,LS Livingstone,0,0,,,,,,"",""
+ball,1,11.1,Sunrisers Eastern Cape,MP Breetzke,T Stubbs,G Coetzee,0,0,,,,,,"",""
+ball,1,11.2,Sunrisers Eastern Cape,MP Breetzke,T Stubbs,G Coetzee,1,0,,,,,,"",""
+ball,1,11.3,Sunrisers Eastern Cape,T Stubbs,MP Breetzke,G Coetzee,0,0,,,,,,"",""
+ball,1,11.4,Sunrisers Eastern Cape,T Stubbs,MP Breetzke,G Coetzee,0,0,,,,,,"",""
+ball,1,11.5,Sunrisers Eastern Cape,T Stubbs,MP Breetzke,G Coetzee,1,0,,,,,,"",""
+ball,1,11.6,Sunrisers Eastern Cape,MP Breetzke,T Stubbs,G Coetzee,2,0,,,,,,"",""
+ball,1,12.1,Sunrisers Eastern Cape,T Stubbs,MP Breetzke,LS Livingstone,1,0,,,,,,"",""
+ball,1,12.2,Sunrisers Eastern Cape,MP Breetzke,T Stubbs,LS Livingstone,2,0,,,,,,"",""
+ball,1,12.3,Sunrisers Eastern Cape,MP Breetzke,T Stubbs,LS Livingstone,0,2,,,,2,,"",""
+ball,1,12.4,Sunrisers Eastern Cape,MP Breetzke,T Stubbs,LS Livingstone,0,0,,,,,,caught,MP Breetzke
+ball,1,12.5,Sunrisers Eastern Cape,M Jansen,T Stubbs,LS Livingstone,4,0,,,,,,"",""
+ball,1,12.6,Sunrisers Eastern Cape,M Jansen,T Stubbs,LS Livingstone,1,0,,,,,,"",""
+ball,1,13.1,Sunrisers Eastern Cape,M Jansen,T Stubbs,Noor Ahmad,0,0,,,,,,"",""
+ball,1,13.2,Sunrisers Eastern Cape,M Jansen,T Stubbs,Noor Ahmad,0,0,,,,,,"",""
+ball,1,13.3,Sunrisers Eastern Cape,M Jansen,T Stubbs,Noor Ahmad,1,0,,,,,,"",""
+ball,1,13.4,Sunrisers Eastern Cape,T Stubbs,M Jansen,Noor Ahmad,1,0,,,,,,"",""
+ball,1,13.5,Sunrisers Eastern Cape,M Jansen,T Stubbs,Noor Ahmad,0,0,,,,,,caught,M Jansen
+ball,1,13.6,Sunrisers Eastern Cape,L Gregory,T Stubbs,Noor Ahmad,1,0,,,,,,"",""
+ball,1,14.1,Sunrisers Eastern Cape,L Gregory,T Stubbs,LS Livingstone,1,0,,,,,,"",""
+ball,1,14.2,Sunrisers Eastern Cape,T Stubbs,L Gregory,LS Livingstone,0,0,,,,,,"",""
+ball,1,14.3,Sunrisers Eastern Cape,T Stubbs,L Gregory,LS Livingstone,1,0,,,,,,"",""
+ball,1,14.4,Sunrisers Eastern Cape,L Gregory,T Stubbs,LS Livingstone,4,0,,,,,,"",""
+ball,1,14.5,Sunrisers Eastern Cape,L Gregory,T Stubbs,LS Livingstone,1,0,,,,,,"",""
+ball,1,14.6,Sunrisers Eastern Cape,T Stubbs,L Gregory,LS Livingstone,0,0,,,,,,"",""
+ball,1,15.1,Sunrisers Eastern Cape,L Gregory,T Stubbs,Noor Ahmad,1,0,,,,,,"",""
+ball,1,15.2,Sunrisers Eastern Cape,T Stubbs,L Gregory,Noor Ahmad,2,0,,,,,,"",""
+ball,1,15.3,Sunrisers Eastern Cape,T Stubbs,L Gregory,Noor Ahmad,1,0,,,,,,"",""
+ball,1,15.4,Sunrisers Eastern Cape,L Gregory,T Stubbs,Noor Ahmad,1,0,,,,,,"",""
+ball,1,15.5,Sunrisers Eastern Cape,T Stubbs,L Gregory,Noor Ahmad,0,0,,,,,,"",""
+ball,1,15.6,Sunrisers Eastern Cape,T Stubbs,L Gregory,Noor Ahmad,1,0,,,,,,"",""
+ball,1,16.1,Sunrisers Eastern Cape,T Stubbs,L Gregory,SP Narine,0,1,,,,1,,"",""
+ball,1,16.2,Sunrisers Eastern Cape,L Gregory,T Stubbs,SP Narine,0,0,,,,,,"",""
+ball,1,16.3,Sunrisers Eastern Cape,L Gregory,T Stubbs,SP Narine,0,1,,,,1,,"",""
+ball,1,16.4,Sunrisers Eastern Cape,T Stubbs,L Gregory,SP Narine,1,0,,,,,,"",""
+ball,1,16.5,Sunrisers Eastern Cape,L Gregory,T Stubbs,SP Narine,0,0,,,,,,"",""
+ball,1,16.6,Sunrisers Eastern Cape,L Gregory,T Stubbs,SP Narine,1,0,,,,,,"",""
+ball,1,17.1,Sunrisers Eastern Cape,L Gregory,T Stubbs,KT Maphaka,1,0,,,,,,"",""
+ball,1,17.2,Sunrisers Eastern Cape,T Stubbs,L Gregory,KT Maphaka,4,0,,,,,,"",""
+ball,1,17.3,Sunrisers Eastern Cape,T Stubbs,L Gregory,KT Maphaka,0,1,,,,1,,"",""
+ball,1,17.4,Sunrisers Eastern Cape,L Gregory,T Stubbs,KT Maphaka,1,0,,,,,,"",""
+ball,1,17.5,Sunrisers Eastern Cape,T Stubbs,L Gregory,KT Maphaka,1,0,,,,,,"",""
+ball,1,17.6,Sunrisers Eastern Cape,L Gregory,T Stubbs,KT Maphaka,6,0,,,,,,"",""
+ball,1,18.1,Sunrisers Eastern Cape,T Stubbs,L Gregory,G Coetzee,4,0,,,,,,"",""
+ball,1,18.2,Sunrisers Eastern Cape,T Stubbs,L Gregory,G Coetzee,4,0,,,,,,"",""
+ball,1,18.3,Sunrisers Eastern Cape,T Stubbs,L Gregory,G Coetzee,2,0,,,,,,"",""
+ball,1,18.4,Sunrisers Eastern Cape,T Stubbs,L Gregory,G Coetzee,2,0,,,,,,"",""
+ball,1,18.5,Sunrisers Eastern Cape,T Stubbs,L Gregory,G Coetzee,4,0,,,,,,"",""
+ball,1,18.6,Sunrisers Eastern Cape,T Stubbs,L Gregory,G Coetzee,4,0,,,,,,"",""
+ball,1,19.1,Sunrisers Eastern Cape,L Gregory,T Stubbs,KT Maphaka,1,0,,,,,,"",""
+ball,1,19.2,Sunrisers Eastern Cape,T Stubbs,L Gregory,KT Maphaka,6,1,,1,,,,"",""
+ball,1,19.3,Sunrisers Eastern Cape,T Stubbs,L Gregory,KT Maphaka,2,0,,,,,,"",""
+ball,1,19.4,Sunrisers Eastern Cape,T Stubbs,L Gregory,KT Maphaka,3,0,,,,,,"",""
+ball,1,19.5,Sunrisers Eastern Cape,L Gregory,T Stubbs,KT Maphaka,4,0,,,,,,"",""
+ball,1,19.6,Sunrisers Eastern Cape,L Gregory,T Stubbs,KT Maphaka,0,0,,,,,,"",""
+ball,1,19.7,Sunrisers Eastern Cape,L Gregory,T Stubbs,KT Maphaka,2,0,,,,,,"",""
+ball,2,0.1,Durban's Super Giants,AK Markram,MJ Ackerman,M Jansen,0,0,,,,,,"",""
+ball,2,0.2,Durban's Super Giants,AK Markram,MJ Ackerman,M Jansen,0,0,,,,,,"",""
+ball,2,0.3,Durban's Super Giants,AK Markram,MJ Ackerman,M Jansen,0,0,,,,,,"",""
+ball,2,0.4,Durban's Super Giants,AK Markram,MJ Ackerman,M Jansen,4,0,,,,,,"",""
+ball,2,0.5,Durban's Super Giants,AK Markram,MJ Ackerman,M Jansen,0,1,,,,1,,"",""
+ball,2,0.6,Durban's Super Giants,MJ Ackerman,AK Markram,M Jansen,0,0,,,,,,"",""
+ball,2,1.1,Durban's Super Giants,AK Markram,MJ Ackerman,AF Milne,4,0,,,,,,"",""
+ball,2,1.2,Durban's Super Giants,AK Markram,MJ Ackerman,AF Milne,0,0,,,,,,"",""
+ball,2,1.3,Durban's Super Giants,AK Markram,MJ Ackerman,AF Milne,4,0,,,,,,"",""
+ball,2,1.4,Durban's Super Giants,AK Markram,MJ Ackerman,AF Milne,4,0,,,,,,"",""
+ball,2,1.5,Durban's Super Giants,AK Markram,MJ Ackerman,AF Milne,4,0,,,,,,"",""
+ball,2,1.6,Durban's Super Giants,AK Markram,MJ Ackerman,AF Milne,4,0,,,,,,"",""
+ball,2,2.1,Durban's Super Giants,MJ Ackerman,AK Markram,M Jansen,2,0,,,,,,"",""
+ball,2,2.2,Durban's Super Giants,MJ Ackerman,AK Markram,M Jansen,4,0,,,,,,"",""
+ball,2,2.3,Durban's Super Giants,MJ Ackerman,AK Markram,M Jansen,2,0,,,,,,"",""
+ball,2,2.4,Durban's Super Giants,MJ Ackerman,AK Markram,M Jansen,2,0,,,,,,"",""
+ball,2,2.5,Durban's Super Giants,MJ Ackerman,AK Markram,M Jansen,0,1,1,,,,,"",""
+ball,2,2.6,Durban's Super Giants,MJ Ackerman,AK Markram,M Jansen,0,0,,,,,,"",""
+ball,2,2.7,Durban's Super Giants,MJ Ackerman,AK Markram,M Jansen,1,0,,,,,,"",""
+ball,2,3.1,Durban's Super Giants,MJ Ackerman,AK Markram,KTH Ratnayake,4,0,,,,,,"",""
+ball,2,3.2,Durban's Super Giants,MJ Ackerman,AK Markram,KTH Ratnayake,0,0,,,,,,"",""
+ball,2,3.3,Durban's Super Giants,MJ Ackerman,AK Markram,KTH Ratnayake,4,0,,,,,,"",""
+ball,2,3.4,Durban's Super Giants,MJ Ackerman,AK Markram,KTH Ratnayake,1,0,,,,,,"",""
+ball,2,3.5,Durban's Super Giants,AK Markram,MJ Ackerman,KTH Ratnayake,1,0,,,,,,"",""
+ball,2,3.6,Durban's Super Giants,MJ Ackerman,AK Markram,KTH Ratnayake,1,0,,,,,,"",""
+ball,2,4.1,Durban's Super Giants,MJ Ackerman,AK Markram,S Muthusamy,1,0,,,,,,"",""
+ball,2,4.2,Durban's Super Giants,AK Markram,MJ Ackerman,S Muthusamy,0,0,,,,,,caught,AK Markram
+ball,2,4.3,Durban's Super Giants,JC Buttler,MJ Ackerman,S Muthusamy,0,0,,,,,,"",""
+ball,2,4.4,Durban's Super Giants,JC Buttler,MJ Ackerman,S Muthusamy,1,0,,,,,,"",""
+ball,2,4.5,Durban's Super Giants,MJ Ackerman,JC Buttler,S Muthusamy,1,0,,,,,,"",""
+ball,2,4.6,Durban's Super Giants,JC Buttler,MJ Ackerman,S Muthusamy,0,0,,,,,,"",""
+ball,2,5.1,Durban's Super Giants,MJ Ackerman,JC Buttler,AF Milne,6,0,,,,,,"",""
+ball,2,5.2,Durban's Super Giants,MJ Ackerman,JC Buttler,AF Milne,4,0,,,,,,"",""
+ball,2,5.3,Durban's Super Giants,MJ Ackerman,JC Buttler,AF Milne,4,0,,,,,,"",""
+ball,2,5.4,Durban's Super Giants,MJ Ackerman,JC Buttler,AF Milne,0,1,1,,,,,"",""
+ball,2,5.5,Durban's Super Giants,MJ Ackerman,JC Buttler,AF Milne,0,1,1,,,,,"",""
+ball,2,5.6,Durban's Super Giants,MJ Ackerman,JC Buttler,AF Milne,0,0,,,,,,"",""
+ball,2,5.7,Durban's Super Giants,MJ Ackerman,JC Buttler,AF Milne,4,0,,,,,,"",""
+ball,2,5.8,Durban's Super Giants,MJ Ackerman,JC Buttler,AF Milne,0,0,,,,,,"",""
+ball,2,6.1,Durban's Super Giants,JC Buttler,MJ Ackerman,S Muthusamy,0,0,,,,,,"",""
+ball,2,6.2,Durban's Super Giants,JC Buttler,MJ Ackerman,S Muthusamy,1,0,,,,,,"",""
+ball,2,6.3,Durban's Super Giants,MJ Ackerman,JC Buttler,S Muthusamy,2,0,,,,,,"",""
+ball,2,6.4,Durban's Super Giants,MJ Ackerman,JC Buttler,S Muthusamy,1,0,,,,,,"",""
+ball,2,6.5,Durban's Super Giants,JC Buttler,MJ Ackerman,S Muthusamy,1,0,,,,,,"",""
+ball,2,6.6,Durban's Super Giants,MJ Ackerman,JC Buttler,S Muthusamy,0,0,,,,,,"",""
+ball,2,7.1,Durban's Super Giants,JC Buttler,MJ Ackerman,A Nortje,1,1,,1,,,,"",""
+ball,2,7.2,Durban's Super Giants,MJ Ackerman,JC Buttler,A Nortje,0,0,,,,,,"",""
+ball,2,7.3,Durban's Super Giants,MJ Ackerman,JC Buttler,A Nortje,1,0,,,,,,"",""
+ball,2,7.4,Durban's Super Giants,JC Buttler,MJ Ackerman,A Nortje,1,0,,,,,,"",""
+ball,2,7.5,Durban's Super Giants,MJ Ackerman,JC Buttler,A Nortje,0,0,,,,,,bowled,MJ Ackerman
+ball,2,7.6,Durban's Super Giants,SP Narine,JC Buttler,A Nortje,0,0,,,,,,"",""
+ball,2,7.7,Durban's Super Giants,SP Narine,JC Buttler,A Nortje,0,0,,,,,,"",""
+ball,2,8.1,Durban's Super Giants,JC Buttler,SP Narine,L Gregory,0,0,,,,,,"",""
+ball,2,8.2,Durban's Super Giants,JC Buttler,SP Narine,L Gregory,1,0,,,,,,"",""
+ball,2,8.3,Durban's Super Giants,SP Narine,JC Buttler,L Gregory,0,0,,,,,,caught,SP Narine
+ball,2,8.4,Durban's Super Giants,H Klaasen,JC Buttler,L Gregory,0,0,,,,,,"",""
+ball,2,8.5,Durban's Super Giants,H Klaasen,JC Buttler,L Gregory,0,0,,,,,,"",""
+ball,2,8.6,Durban's Super Giants,H Klaasen,JC Buttler,L Gregory,1,0,,,,,,"",""
+ball,2,9.1,Durban's Super Giants,H Klaasen,JC Buttler,A Nortje,1,0,,,,,,"",""
+ball,2,9.2,Durban's Super Giants,JC Buttler,H Klaasen,A Nortje,6,0,,,,,,"",""
+ball,2,9.3,Durban's Super Giants,JC Buttler,H Klaasen,A Nortje,4,0,,,,,,"",""
+ball,2,9.4,Durban's Super Giants,JC Buttler,H Klaasen,A Nortje,0,0,,,,,,"",""
+ball,2,9.5,Durban's Super Giants,JC Buttler,H Klaasen,A Nortje,1,0,,,,,,"",""
+ball,2,9.6,Durban's Super Giants,H Klaasen,JC Buttler,A Nortje,0,1,,1,,,,"",""
+ball,2,9.7,Durban's Super Giants,H Klaasen,JC Buttler,A Nortje,6,0,,,,,,"",""
+ball,2,10.1,Durban's Super Giants,JC Buttler,H Klaasen,S Muthusamy,1,0,,,,,,"",""
+ball,2,10.2,Durban's Super Giants,H Klaasen,JC Buttler,S Muthusamy,1,0,,,,,,"",""
+ball,2,10.3,Durban's Super Giants,JC Buttler,H Klaasen,S Muthusamy,1,0,,,,,,"",""
+ball,2,10.4,Durban's Super Giants,H Klaasen,JC Buttler,S Muthusamy,1,0,,,,,,"",""
+ball,2,10.5,Durban's Super Giants,JC Buttler,H Klaasen,S Muthusamy,1,0,,,,,,"",""
+ball,2,10.6,Durban's Super Giants,H Klaasen,JC Buttler,S Muthusamy,0,0,,,,,,"",""
+ball,2,11.1,Durban's Super Giants,JC Buttler,H Klaasen,KTH Ratnayake,1,0,,,,,,"",""
+ball,2,11.2,Durban's Super Giants,H Klaasen,JC Buttler,KTH Ratnayake,0,0,,,,,,"",""
+ball,2,11.3,Durban's Super Giants,H Klaasen,JC Buttler,KTH Ratnayake,0,0,,,,,,caught,H Klaasen
+ball,2,11.4,Durban's Super Giants,DG Bedingham,JC Buttler,KTH Ratnayake,0,1,1,,,,,"",""
+ball,2,11.5,Durban's Super Giants,DG Bedingham,JC Buttler,KTH Ratnayake,1,0,,,,,,"",""
+ball,2,11.6,Durban's Super Giants,JC Buttler,DG Bedingham,KTH Ratnayake,0,0,,,,,,"",""
+ball,2,11.7,Durban's Super Giants,JC Buttler,DG Bedingham,KTH Ratnayake,0,0,,,,,,"",""
+ball,2,12.1,Durban's Super Giants,DG Bedingham,JC Buttler,S Muthusamy,1,0,,,,,,"",""
+ball,2,12.2,Durban's Super Giants,JC Buttler,DG Bedingham,S Muthusamy,1,0,,,,,,"",""
+ball,2,12.3,Durban's Super Giants,DG Bedingham,JC Buttler,S Muthusamy,0,0,,,,,,"",""
+ball,2,12.4,Durban's Super Giants,DG Bedingham,JC Buttler,S Muthusamy,4,0,,,,,,"",""
+ball,2,12.5,Durban's Super Giants,DG Bedingham,JC Buttler,S Muthusamy,1,0,,,,,,"",""
+ball,2,12.6,Durban's Super Giants,JC Buttler,DG Bedingham,S Muthusamy,0,0,,,,,,caught,JC Buttler
+ball,2,13.1,Durban's Super Giants,DG Bedingham,LS Livingstone,KTH Ratnayake,2,0,,,,,,"",""
+ball,2,13.2,Durban's Super Giants,DG Bedingham,LS Livingstone,KTH Ratnayake,1,0,,,,,,"",""
+ball,2,13.3,Durban's Super Giants,LS Livingstone,DG Bedingham,KTH Ratnayake,0,0,,,,,,"",""
+ball,2,13.4,Durban's Super Giants,LS Livingstone,DG Bedingham,KTH Ratnayake,0,1,,,,1,,"",""
+ball,2,13.5,Durban's Super Giants,DG Bedingham,LS Livingstone,KTH Ratnayake,1,0,,,,,,"",""
+ball,2,13.6,Durban's Super Giants,LS Livingstone,DG Bedingham,KTH Ratnayake,1,0,,,,,,"",""
+ball,2,14.1,Durban's Super Giants,LS Livingstone,DG Bedingham,M Jansen,1,0,,,,,,"",""
+ball,2,14.2,Durban's Super Giants,DG Bedingham,LS Livingstone,M Jansen,1,0,,,,,,"",""
+ball,2,14.3,Durban's Super Giants,LS Livingstone,DG Bedingham,M Jansen,0,0,,,,,,"",""
+ball,2,14.4,Durban's Super Giants,LS Livingstone,DG Bedingham,M Jansen,2,0,,,,,,"",""
+ball,2,14.5,Durban's Super Giants,LS Livingstone,DG Bedingham,M Jansen,1,0,,,,,,"",""
+ball,2,14.6,Durban's Super Giants,DG Bedingham,LS Livingstone,M Jansen,1,0,,,,,,"",""
+ball,2,15.1,Durban's Super Giants,DG Bedingham,LS Livingstone,KTH Ratnayake,1,0,,,,,,"",""
+ball,2,15.2,Durban's Super Giants,LS Livingstone,DG Bedingham,KTH Ratnayake,1,0,,,,,,"",""
+ball,2,15.3,Durban's Super Giants,DG Bedingham,LS Livingstone,KTH Ratnayake,1,0,,,,,,"",""
+ball,2,15.4,Durban's Super Giants,LS Livingstone,DG Bedingham,KTH Ratnayake,1,0,,,,,,"",""
+ball,2,15.5,Durban's Super Giants,DG Bedingham,LS Livingstone,KTH Ratnayake,1,0,,,,,,"",""
+ball,2,15.6,Durban's Super Giants,LS Livingstone,DG Bedingham,KTH Ratnayake,1,0,,,,,,"",""
+ball,2,16.1,Durban's Super Giants,LS Livingstone,DG Bedingham,M Jansen,0,0,,,,,,"",""
+ball,2,16.2,Durban's Super Giants,LS Livingstone,DG Bedingham,M Jansen,1,0,,,,,,"",""
+ball,2,16.3,Durban's Super Giants,DG Bedingham,LS Livingstone,M Jansen,0,0,,,,,,caught,DG Bedingham
+ball,2,16.4,Durban's Super Giants,E Jones,LS Livingstone,M Jansen,1,0,,,,,,"",""
+ball,2,16.5,Durban's Super Giants,LS Livingstone,E Jones,M Jansen,0,0,,,,,,"",""
+ball,2,16.6,Durban's Super Giants,LS Livingstone,E Jones,M Jansen,1,0,,,,,,"",""
+ball,2,17.1,Durban's Super Giants,LS Livingstone,E Jones,A Nortje,0,0,,,,,,"",""
+ball,2,17.2,Durban's Super Giants,LS Livingstone,E Jones,A Nortje,0,0,,,,,,caught,LS Livingstone
+ball,2,17.3,Durban's Super Giants,G Coetzee,E Jones,A Nortje,4,0,,,,,,"",""
+ball,2,17.4,Durban's Super Giants,G Coetzee,E Jones,A Nortje,1,0,,,,,,"",""
+ball,2,17.5,Durban's Super Giants,E Jones,G Coetzee,A Nortje,1,0,,,,,,"",""
+ball,2,17.6,Durban's Super Giants,G Coetzee,E Jones,A Nortje,1,0,,,,,,"",""
+ball,2,18.1,Durban's Super Giants,G Coetzee,E Jones,AF Milne,1,0,,,,,,"",""
+ball,2,18.2,Durban's Super Giants,E Jones,G Coetzee,AF Milne,0,0,,,,,,"",""
+ball,2,18.3,Durban's Super Giants,E Jones,G Coetzee,AF Milne,1,0,,,,,,"",""
+ball,2,18.4,Durban's Super Giants,G Coetzee,E Jones,AF Milne,0,1,1,,,,,"",""
+ball,2,18.5,Durban's Super Giants,G Coetzee,E Jones,AF Milne,6,0,,,,,,"",""
+ball,2,18.6,Durban's Super Giants,G Coetzee,E Jones,AF Milne,0,1,1,,,,,"",""
+ball,2,18.7,Durban's Super Giants,G Coetzee,E Jones,AF Milne,0,0,,,,,,bowled,G Coetzee
+ball,2,18.8,Durban's Super Giants,KT Maphaka,E Jones,AF Milne,1,0,,,,,,"",""
+ball,2,19.1,Durban's Super Giants,KT Maphaka,E Jones,A Nortje,0,1,,,,1,,"",""
+ball,2,19.2,Durban's Super Giants,E Jones,KT Maphaka,A Nortje,0,2,,,,2,,"",""
+ball,2,19.3,Durban's Super Giants,E Jones,KT Maphaka,A Nortje,4,0,,,,,,"",""

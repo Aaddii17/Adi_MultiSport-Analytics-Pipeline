@@ -1,0 +1,300 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Delhi Capitals
+info,team,Royal Challengers Bangalore
+info,gender,female
+info,season,2023/24
+info,date,2024/03/17
+info,event,Women's Premier League
+info,venue,"Arun Jaitley Stadium, Delhi"
+info,city,Delhi
+info,toss_winner,Delhi Capitals
+info,toss_decision,bat
+info,player_of_match,S Molineux
+info,umpire,Abhijit Bhattacharya
+info,umpire,Gayathri Venugopal
+info,reserve_umpire,PG Pathak
+info,tv_umpire,P Joshi
+info,match_referee,GS Lakshmi
+info,winner,Royal Challengers Bangalore
+info,winner_wickets,8
+info,player,Delhi Capitals,MM Lanning
+info,player,Delhi Capitals,Shafali Verma
+info,player,Delhi Capitals,JI Rodrigues
+info,player,Delhi Capitals,A Capsey
+info,player,Delhi Capitals,M Kapp
+info,player,Delhi Capitals,JL Jonassen
+info,player,Delhi Capitals,RP Yadav
+info,player,Delhi Capitals,M Mani
+info,player,Delhi Capitals,A Reddy
+info,player,Delhi Capitals,S Pandey
+info,player,Delhi Capitals,T Bhatia
+info,player,Royal Challengers Bangalore,S Mandhana
+info,player,Royal Challengers Bangalore,SFM Devine
+info,player,Royal Challengers Bangalore,EA Perry
+info,player,Royal Challengers Bangalore,RM Ghosh
+info,player,Royal Challengers Bangalore,S Meghana
+info,player,Royal Challengers Bangalore,S Molineux
+info,player,Royal Challengers Bangalore,DD Kasat
+info,player,Royal Challengers Bangalore,G Wareham
+info,player,Royal Challengers Bangalore,SR Patil
+info,player,Royal Challengers Bangalore,S Asha
+info,player,Royal Challengers Bangalore,Renuka Singh
+info,registry,people,A Capsey,910dd54e
+info,registry,people,A Reddy,eadc8924
+info,registry,people,Abhijit Bhattacharya,59ec9638
+info,registry,people,DD Kasat,fc0155d9
+info,registry,people,EA Perry,be150fc8
+info,registry,people,G Wareham,f0b4e47d
+info,registry,people,GS Lakshmi,ba8d5615
+info,registry,people,Gayathri Venugopal,20e3ae99
+info,registry,people,JI Rodrigues,cb08b611
+info,registry,people,JL Jonassen,0475a86b
+info,registry,people,M Kapp,63e3b6b3
+info,registry,people,M Mani,8d1ade08
+info,registry,people,MM Lanning,27e003ce
+info,registry,people,P Joshi,ffc0e370
+info,registry,people,PG Pathak,9f772ec5
+info,registry,people,RM Ghosh,721e0199
+info,registry,people,RP Yadav,6c3aef71
+info,registry,people,Renuka Singh,7298db76
+info,registry,people,S Asha,77143581
+info,registry,people,S Mandhana,5d2eda89
+info,registry,people,S Meghana,302fb7ae
+info,registry,people,S Molineux,99e23670
+info,registry,people,S Pandey,5463cb7a
+info,registry,people,SFM Devine,de69af96
+info,registry,people,SR Patil,33946d69
+info,registry,people,Shafali Verma,d8f59089
+info,registry,people,T Bhatia,211dc1ce
+ball,1,0.1,Delhi Capitals,MM Lanning,Shafali Verma,Renuka Singh,0,0,,,,,,"",""
+ball,1,0.2,Delhi Capitals,MM Lanning,Shafali Verma,Renuka Singh,0,1,1,,,,,"",""
+ball,1,0.3,Delhi Capitals,MM Lanning,Shafali Verma,Renuka Singh,1,0,,,,,,"",""
+ball,1,0.4,Delhi Capitals,Shafali Verma,MM Lanning,Renuka Singh,2,0,,,,,,"",""
+ball,1,0.5,Delhi Capitals,Shafali Verma,MM Lanning,Renuka Singh,0,1,1,,,,,"",""
+ball,1,0.6,Delhi Capitals,Shafali Verma,MM Lanning,Renuka Singh,1,0,,,,,,"",""
+ball,1,0.7,Delhi Capitals,MM Lanning,Shafali Verma,Renuka Singh,1,0,,,,,,"",""
+ball,1,0.8,Delhi Capitals,Shafali Verma,MM Lanning,Renuka Singh,2,0,,,,,,"",""
+ball,1,1.1,Delhi Capitals,MM Lanning,Shafali Verma,S Molineux,0,0,,,,,,"",""
+ball,1,1.2,Delhi Capitals,MM Lanning,Shafali Verma,S Molineux,1,0,,,,,,"",""
+ball,1,1.3,Delhi Capitals,Shafali Verma,MM Lanning,S Molineux,1,0,,,,,,"",""
+ball,1,1.4,Delhi Capitals,MM Lanning,Shafali Verma,S Molineux,1,0,,,,,,"",""
+ball,1,1.5,Delhi Capitals,Shafali Verma,MM Lanning,S Molineux,6,0,,,,,,"",""
+ball,1,1.6,Delhi Capitals,Shafali Verma,MM Lanning,S Molineux,1,0,,,,,,"",""
+ball,1,2.1,Delhi Capitals,Shafali Verma,MM Lanning,EA Perry,1,0,,,,,,"",""
+ball,1,2.2,Delhi Capitals,MM Lanning,Shafali Verma,EA Perry,1,0,,,,,,"",""
+ball,1,2.3,Delhi Capitals,Shafali Verma,MM Lanning,EA Perry,1,0,,,,,,"",""
+ball,1,2.4,Delhi Capitals,MM Lanning,Shafali Verma,EA Perry,0,0,,,,,,"",""
+ball,1,2.5,Delhi Capitals,MM Lanning,Shafali Verma,EA Perry,0,0,,,,,,"",""
+ball,1,2.6,Delhi Capitals,MM Lanning,Shafali Verma,EA Perry,0,0,,,,,,"",""
+ball,1,3.1,Delhi Capitals,Shafali Verma,MM Lanning,Renuka Singh,6,0,,,,,,"",""
+ball,1,3.2,Delhi Capitals,Shafali Verma,MM Lanning,Renuka Singh,2,0,,,,,,"",""
+ball,1,3.3,Delhi Capitals,Shafali Verma,MM Lanning,Renuka Singh,2,0,,,,,,"",""
+ball,1,3.4,Delhi Capitals,Shafali Verma,MM Lanning,Renuka Singh,1,0,,,,,,"",""
+ball,1,3.5,Delhi Capitals,MM Lanning,Shafali Verma,Renuka Singh,4,0,,,,,,"",""
+ball,1,3.6,Delhi Capitals,MM Lanning,Shafali Verma,Renuka Singh,4,0,,,,,,"",""
+ball,1,4.1,Delhi Capitals,Shafali Verma,MM Lanning,EA Perry,0,0,,,,,,"",""
+ball,1,4.2,Delhi Capitals,Shafali Verma,MM Lanning,EA Perry,0,0,,,,,,"",""
+ball,1,4.3,Delhi Capitals,Shafali Verma,MM Lanning,EA Perry,6,0,,,,,,"",""
+ball,1,4.4,Delhi Capitals,Shafali Verma,MM Lanning,EA Perry,0,0,,,,,,"",""
+ball,1,4.5,Delhi Capitals,Shafali Verma,MM Lanning,EA Perry,4,0,,,,,,"",""
+ball,1,4.6,Delhi Capitals,Shafali Verma,MM Lanning,EA Perry,1,0,,,,,,"",""
+ball,1,5.1,Delhi Capitals,Shafali Verma,MM Lanning,SFM Devine,0,0,,,,,,"",""
+ball,1,5.2,Delhi Capitals,Shafali Verma,MM Lanning,SFM Devine,4,0,,,,,,"",""
+ball,1,5.3,Delhi Capitals,Shafali Verma,MM Lanning,SFM Devine,1,0,,,,,,"",""
+ball,1,5.4,Delhi Capitals,MM Lanning,Shafali Verma,SFM Devine,0,0,,,,,,"",""
+ball,1,5.5,Delhi Capitals,MM Lanning,Shafali Verma,SFM Devine,4,0,,,,,,"",""
+ball,1,5.6,Delhi Capitals,MM Lanning,Shafali Verma,SFM Devine,0,0,,,,,,"",""
+ball,1,6.1,Delhi Capitals,Shafali Verma,MM Lanning,G Wareham,0,0,,,,,,"",""
+ball,1,6.2,Delhi Capitals,Shafali Verma,MM Lanning,G Wareham,0,0,,,,,,"",""
+ball,1,6.3,Delhi Capitals,Shafali Verma,MM Lanning,G Wareham,1,0,,,,,,"",""
+ball,1,6.4,Delhi Capitals,MM Lanning,Shafali Verma,G Wareham,1,0,,,,,,"",""
+ball,1,6.5,Delhi Capitals,Shafali Verma,MM Lanning,G Wareham,0,0,,,,,,"",""
+ball,1,6.6,Delhi Capitals,Shafali Verma,MM Lanning,G Wareham,1,0,,,,,,"",""
+ball,1,7.1,Delhi Capitals,Shafali Verma,MM Lanning,S Molineux,0,0,,,,,,caught,Shafali Verma
+ball,1,7.2,Delhi Capitals,JI Rodrigues,MM Lanning,S Molineux,0,0,,,,,,"",""
+ball,1,7.3,Delhi Capitals,JI Rodrigues,MM Lanning,S Molineux,0,0,,,,,,bowled,JI Rodrigues
+ball,1,7.4,Delhi Capitals,A Capsey,MM Lanning,S Molineux,0,0,,,,,,bowled,A Capsey
+ball,1,7.5,Delhi Capitals,M Kapp,MM Lanning,S Molineux,0,0,,,,,,"",""
+ball,1,7.6,Delhi Capitals,M Kapp,MM Lanning,S Molineux,1,0,,,,,,"",""
+ball,1,8.1,Delhi Capitals,M Kapp,MM Lanning,SR Patil,0,0,,,,,,"",""
+ball,1,8.2,Delhi Capitals,M Kapp,MM Lanning,SR Patil,1,0,,,,,,"",""
+ball,1,8.3,Delhi Capitals,MM Lanning,M Kapp,SR Patil,1,0,,,,,,"",""
+ball,1,8.4,Delhi Capitals,M Kapp,MM Lanning,SR Patil,0,0,,,,,,"",""
+ball,1,8.5,Delhi Capitals,M Kapp,MM Lanning,SR Patil,1,0,,,,,,"",""
+ball,1,8.6,Delhi Capitals,MM Lanning,M Kapp,SR Patil,1,0,,,,,,"",""
+ball,1,9.1,Delhi Capitals,MM Lanning,M Kapp,S Molineux,1,0,,,,,,"",""
+ball,1,9.2,Delhi Capitals,M Kapp,MM Lanning,S Molineux,0,0,,,,,,"",""
+ball,1,9.3,Delhi Capitals,M Kapp,MM Lanning,S Molineux,0,0,,,,,,"",""
+ball,1,9.4,Delhi Capitals,M Kapp,MM Lanning,S Molineux,0,0,,,,,,"",""
+ball,1,9.5,Delhi Capitals,M Kapp,MM Lanning,S Molineux,1,0,,,,,,"",""
+ball,1,9.6,Delhi Capitals,MM Lanning,M Kapp,S Molineux,1,0,,,,,,"",""
+ball,1,10.1,Delhi Capitals,MM Lanning,M Kapp,SR Patil,1,0,,,,,,"",""
+ball,1,10.2,Delhi Capitals,M Kapp,MM Lanning,SR Patil,1,0,,,,,,"",""
+ball,1,10.3,Delhi Capitals,MM Lanning,M Kapp,SR Patil,0,0,,,,,,"",""
+ball,1,10.4,Delhi Capitals,MM Lanning,M Kapp,SR Patil,0,0,,,,,,lbw,MM Lanning
+ball,1,10.5,Delhi Capitals,JL Jonassen,M Kapp,SR Patil,1,0,,,,,,"",""
+ball,1,10.6,Delhi Capitals,M Kapp,JL Jonassen,SR Patil,0,0,,,,,,"",""
+ball,1,11.1,Delhi Capitals,JL Jonassen,M Kapp,S Asha,0,0,,,,,,"",""
+ball,1,11.2,Delhi Capitals,JL Jonassen,M Kapp,S Asha,0,0,,,,,,"",""
+ball,1,11.3,Delhi Capitals,JL Jonassen,M Kapp,S Asha,0,0,,,,,,"",""
+ball,1,11.4,Delhi Capitals,JL Jonassen,M Kapp,S Asha,1,0,,,,,,"",""
+ball,1,11.5,Delhi Capitals,M Kapp,JL Jonassen,S Asha,1,0,,,,,,"",""
+ball,1,11.6,Delhi Capitals,JL Jonassen,M Kapp,S Asha,0,0,,,,,,"",""
+ball,1,12.1,Delhi Capitals,M Kapp,JL Jonassen,G Wareham,1,0,,,,,,"",""
+ball,1,12.2,Delhi Capitals,JL Jonassen,M Kapp,G Wareham,0,0,,,,,,"",""
+ball,1,12.3,Delhi Capitals,JL Jonassen,M Kapp,G Wareham,0,0,,,,,,"",""
+ball,1,12.4,Delhi Capitals,JL Jonassen,M Kapp,G Wareham,1,0,,,,,,"",""
+ball,1,12.5,Delhi Capitals,M Kapp,JL Jonassen,G Wareham,1,0,,,,,,"",""
+ball,1,12.6,Delhi Capitals,JL Jonassen,M Kapp,G Wareham,0,0,,,,,,"",""
+ball,1,13.1,Delhi Capitals,M Kapp,JL Jonassen,S Asha,0,0,,,,,,caught,M Kapp
+ball,1,13.2,Delhi Capitals,RP Yadav,JL Jonassen,S Asha,1,0,,,,,,"",""
+ball,1,13.3,Delhi Capitals,JL Jonassen,RP Yadav,S Asha,0,0,,,,,,caught,JL Jonassen
+ball,1,13.4,Delhi Capitals,M Mani,RP Yadav,S Asha,0,1,1,,,,,"",""
+ball,1,13.5,Delhi Capitals,M Mani,RP Yadav,S Asha,4,0,,,,,,"",""
+ball,1,13.6,Delhi Capitals,M Mani,RP Yadav,S Asha,1,0,,,,,,"",""
+ball,1,13.7,Delhi Capitals,RP Yadav,M Mani,S Asha,0,0,,,,,,"",""
+ball,1,14.1,Delhi Capitals,M Mani,RP Yadav,SR Patil,0,0,,,,,,lbw,M Mani
+ball,1,14.2,Delhi Capitals,A Reddy,RP Yadav,SR Patil,1,0,,,,,,"",""
+ball,1,14.3,Delhi Capitals,RP Yadav,A Reddy,SR Patil,0,0,,,,,,"",""
+ball,1,14.4,Delhi Capitals,RP Yadav,A Reddy,SR Patil,1,0,,,,,,"",""
+ball,1,14.5,Delhi Capitals,A Reddy,RP Yadav,SR Patil,0,0,,,,,,"",""
+ball,1,14.6,Delhi Capitals,A Reddy,RP Yadav,SR Patil,1,0,,,,,,"",""
+ball,1,15.1,Delhi Capitals,A Reddy,RP Yadav,G Wareham,1,0,,,,,,"",""
+ball,1,15.2,Delhi Capitals,RP Yadav,A Reddy,G Wareham,4,0,,,,,,"",""
+ball,1,15.3,Delhi Capitals,RP Yadav,A Reddy,G Wareham,4,0,,,,,,"",""
+ball,1,15.4,Delhi Capitals,RP Yadav,A Reddy,G Wareham,0,0,,,,,,"",""
+ball,1,15.5,Delhi Capitals,RP Yadav,A Reddy,G Wareham,1,0,,,,,,"",""
+ball,1,15.6,Delhi Capitals,A Reddy,RP Yadav,G Wareham,0,0,,,,,,"",""
+ball,1,16.1,Delhi Capitals,RP Yadav,A Reddy,S Asha,1,0,,,,,,"",""
+ball,1,16.2,Delhi Capitals,A Reddy,RP Yadav,S Asha,0,0,,,,,,run out,RP Yadav
+ball,1,16.3,Delhi Capitals,A Reddy,S Pandey,S Asha,1,0,,,,,,"",""
+ball,1,16.4,Delhi Capitals,S Pandey,A Reddy,S Asha,1,0,,,,,,"",""
+ball,1,16.5,Delhi Capitals,A Reddy,S Pandey,S Asha,1,0,,,,,,"",""
+ball,1,16.6,Delhi Capitals,S Pandey,A Reddy,S Asha,1,0,,,,,,"",""
+ball,1,17.1,Delhi Capitals,S Pandey,A Reddy,S Molineux,1,0,,,,,,"",""
+ball,1,17.2,Delhi Capitals,A Reddy,S Pandey,S Molineux,1,0,,,,,,"",""
+ball,1,17.3,Delhi Capitals,S Pandey,A Reddy,S Molineux,1,0,,,,,,"",""
+ball,1,17.4,Delhi Capitals,A Reddy,S Pandey,S Molineux,1,0,,,,,,"",""
+ball,1,17.5,Delhi Capitals,S Pandey,A Reddy,S Molineux,1,0,,,,,,"",""
+ball,1,17.6,Delhi Capitals,A Reddy,S Pandey,S Molineux,1,0,,,,,,"",""
+ball,1,18.1,Delhi Capitals,A Reddy,S Pandey,SR Patil,2,0,,,,,,"",""
+ball,1,18.2,Delhi Capitals,A Reddy,S Pandey,SR Patil,0,0,,,,,,bowled,A Reddy
+ball,1,18.3,Delhi Capitals,T Bhatia,S Pandey,SR Patil,0,0,,,,,,caught,T Bhatia
+ball,2,0.1,Royal Challengers Bangalore,S Mandhana,SFM Devine,M Kapp,1,0,,,,,,"",""
+ball,2,0.2,Royal Challengers Bangalore,SFM Devine,S Mandhana,M Kapp,0,0,,,,,,"",""
+ball,2,0.3,Royal Challengers Bangalore,SFM Devine,S Mandhana,M Kapp,4,0,,,,,,"",""
+ball,2,0.4,Royal Challengers Bangalore,SFM Devine,S Mandhana,M Kapp,0,0,,,,,,"",""
+ball,2,0.5,Royal Challengers Bangalore,SFM Devine,S Mandhana,M Kapp,0,0,,,,,,"",""
+ball,2,0.6,Royal Challengers Bangalore,SFM Devine,S Mandhana,M Kapp,0,0,,,,,,"",""
+ball,2,1.1,Royal Challengers Bangalore,S Mandhana,SFM Devine,A Capsey,0,0,,,,,,"",""
+ball,2,1.2,Royal Challengers Bangalore,S Mandhana,SFM Devine,A Capsey,0,0,,,,,,"",""
+ball,2,1.3,Royal Challengers Bangalore,S Mandhana,SFM Devine,A Capsey,1,0,,,,,,"",""
+ball,2,1.4,Royal Challengers Bangalore,SFM Devine,S Mandhana,A Capsey,0,0,,,,,,"",""
+ball,2,1.5,Royal Challengers Bangalore,SFM Devine,S Mandhana,A Capsey,1,0,,,,,,"",""
+ball,2,1.6,Royal Challengers Bangalore,S Mandhana,SFM Devine,A Capsey,1,0,,,,,,"",""
+ball,2,2.1,Royal Challengers Bangalore,S Mandhana,SFM Devine,S Pandey,1,0,,,,,,"",""
+ball,2,2.2,Royal Challengers Bangalore,SFM Devine,S Mandhana,S Pandey,0,0,,,,,,"",""
+ball,2,2.3,Royal Challengers Bangalore,SFM Devine,S Mandhana,S Pandey,0,0,,,,,,"",""
+ball,2,2.4,Royal Challengers Bangalore,SFM Devine,S Mandhana,S Pandey,0,0,,,,,,"",""
+ball,2,2.5,Royal Challengers Bangalore,SFM Devine,S Mandhana,S Pandey,1,0,,,,,,"",""
+ball,2,2.6,Royal Challengers Bangalore,S Mandhana,SFM Devine,S Pandey,1,0,,,,,,"",""
+ball,2,3.1,Royal Challengers Bangalore,S Mandhana,SFM Devine,M Kapp,4,0,,,,,,"",""
+ball,2,3.2,Royal Challengers Bangalore,S Mandhana,SFM Devine,M Kapp,1,0,,,,,,"",""
+ball,2,3.3,Royal Challengers Bangalore,SFM Devine,S Mandhana,M Kapp,1,0,,,,,,"",""
+ball,2,3.4,Royal Challengers Bangalore,S Mandhana,SFM Devine,M Kapp,0,0,,,,,,"",""
+ball,2,3.5,Royal Challengers Bangalore,S Mandhana,SFM Devine,M Kapp,0,0,,,,,,"",""
+ball,2,3.6,Royal Challengers Bangalore,S Mandhana,SFM Devine,M Kapp,1,0,,,,,,"",""
+ball,2,4.1,Royal Challengers Bangalore,S Mandhana,SFM Devine,S Pandey,1,0,,,,,,"",""
+ball,2,4.2,Royal Challengers Bangalore,SFM Devine,S Mandhana,S Pandey,1,0,,,,,,"",""
+ball,2,4.3,Royal Challengers Bangalore,S Mandhana,SFM Devine,S Pandey,0,0,,,,,,"",""
+ball,2,4.4,Royal Challengers Bangalore,S Mandhana,SFM Devine,S Pandey,0,0,,,,,,"",""
+ball,2,4.5,Royal Challengers Bangalore,S Mandhana,SFM Devine,S Pandey,0,0,,,,,,"",""
+ball,2,4.6,Royal Challengers Bangalore,S Mandhana,SFM Devine,S Pandey,0,0,,,,,,"",""
+ball,2,5.1,Royal Challengers Bangalore,SFM Devine,S Mandhana,M Kapp,0,0,,,,,,"",""
+ball,2,5.2,Royal Challengers Bangalore,SFM Devine,S Mandhana,M Kapp,0,0,,,,,,"",""
+ball,2,5.3,Royal Challengers Bangalore,SFM Devine,S Mandhana,M Kapp,4,0,,,,,,"",""
+ball,2,5.4,Royal Challengers Bangalore,SFM Devine,S Mandhana,M Kapp,1,0,,,,,,"",""
+ball,2,5.5,Royal Challengers Bangalore,S Mandhana,SFM Devine,M Kapp,0,0,,,,,,"",""
+ball,2,5.6,Royal Challengers Bangalore,S Mandhana,SFM Devine,M Kapp,0,0,,,,,,"",""
+ball,2,6.1,Royal Challengers Bangalore,SFM Devine,S Mandhana,RP Yadav,4,0,,,,,,"",""
+ball,2,6.2,Royal Challengers Bangalore,SFM Devine,S Mandhana,RP Yadav,0,0,,,,,,"",""
+ball,2,6.3,Royal Challengers Bangalore,SFM Devine,S Mandhana,RP Yadav,4,0,,,,,,"",""
+ball,2,6.4,Royal Challengers Bangalore,SFM Devine,S Mandhana,RP Yadav,0,0,,,,,,"",""
+ball,2,6.5,Royal Challengers Bangalore,SFM Devine,S Mandhana,RP Yadav,6,0,,,,,,"",""
+ball,2,6.6,Royal Challengers Bangalore,SFM Devine,S Mandhana,RP Yadav,4,0,,,,,,"",""
+ball,2,7.1,Royal Challengers Bangalore,S Mandhana,SFM Devine,A Reddy,0,0,,,,,,"",""
+ball,2,7.2,Royal Challengers Bangalore,S Mandhana,SFM Devine,A Reddy,4,0,,,,,,"",""
+ball,2,7.3,Royal Challengers Bangalore,S Mandhana,SFM Devine,A Reddy,1,0,,,,,,"",""
+ball,2,7.4,Royal Challengers Bangalore,SFM Devine,S Mandhana,A Reddy,0,0,,,,,,"",""
+ball,2,7.5,Royal Challengers Bangalore,SFM Devine,S Mandhana,A Reddy,0,0,,,,,,"",""
+ball,2,7.6,Royal Challengers Bangalore,SFM Devine,S Mandhana,A Reddy,1,0,,,,,,"",""
+ball,2,8.1,Royal Challengers Bangalore,SFM Devine,S Mandhana,S Pandey,0,0,,,,,,lbw,SFM Devine
+ball,2,8.2,Royal Challengers Bangalore,EA Perry,S Mandhana,S Pandey,1,0,,,,,,"",""
+ball,2,8.3,Royal Challengers Bangalore,S Mandhana,EA Perry,S Pandey,1,0,,,,,,"",""
+ball,2,8.4,Royal Challengers Bangalore,EA Perry,S Mandhana,S Pandey,0,0,,,,,,"",""
+ball,2,8.5,Royal Challengers Bangalore,EA Perry,S Mandhana,S Pandey,1,0,,,,,,"",""
+ball,2,8.6,Royal Challengers Bangalore,S Mandhana,EA Perry,S Pandey,1,0,,,,,,"",""
+ball,2,9.1,Royal Challengers Bangalore,S Mandhana,EA Perry,A Reddy,1,0,,,,,,"",""
+ball,2,9.2,Royal Challengers Bangalore,EA Perry,S Mandhana,A Reddy,0,0,,,,,,"",""
+ball,2,9.3,Royal Challengers Bangalore,EA Perry,S Mandhana,A Reddy,0,0,,,,,,"",""
+ball,2,9.4,Royal Challengers Bangalore,EA Perry,S Mandhana,A Reddy,1,0,,,,,,"",""
+ball,2,9.5,Royal Challengers Bangalore,S Mandhana,EA Perry,A Reddy,1,0,,,,,,"",""
+ball,2,9.6,Royal Challengers Bangalore,EA Perry,S Mandhana,A Reddy,0,0,,,,,,"",""
+ball,2,10.1,Royal Challengers Bangalore,S Mandhana,EA Perry,M Kapp,1,0,,,,,,"",""
+ball,2,10.2,Royal Challengers Bangalore,EA Perry,S Mandhana,M Kapp,0,0,,,,,,"",""
+ball,2,10.3,Royal Challengers Bangalore,EA Perry,S Mandhana,M Kapp,0,0,,,,,,"",""
+ball,2,10.4,Royal Challengers Bangalore,EA Perry,S Mandhana,M Kapp,1,0,,,,,,"",""
+ball,2,10.5,Royal Challengers Bangalore,S Mandhana,EA Perry,M Kapp,1,0,,,,,,"",""
+ball,2,10.6,Royal Challengers Bangalore,EA Perry,S Mandhana,M Kapp,0,0,,,,,,"",""
+ball,2,11.1,Royal Challengers Bangalore,S Mandhana,EA Perry,S Pandey,0,0,,,,,,"",""
+ball,2,11.2,Royal Challengers Bangalore,S Mandhana,EA Perry,S Pandey,1,0,,,,,,"",""
+ball,2,11.3,Royal Challengers Bangalore,EA Perry,S Mandhana,S Pandey,0,0,,,,,,"",""
+ball,2,11.4,Royal Challengers Bangalore,EA Perry,S Mandhana,S Pandey,0,0,,,,,,"",""
+ball,2,11.5,Royal Challengers Bangalore,EA Perry,S Mandhana,S Pandey,0,0,,,,,,"",""
+ball,2,11.6,Royal Challengers Bangalore,EA Perry,S Mandhana,S Pandey,1,0,,,,,,"",""
+ball,2,12.1,Royal Challengers Bangalore,EA Perry,S Mandhana,A Reddy,1,0,,,,,,"",""
+ball,2,12.2,Royal Challengers Bangalore,S Mandhana,EA Perry,A Reddy,1,0,,,,,,"",""
+ball,2,12.3,Royal Challengers Bangalore,EA Perry,S Mandhana,A Reddy,4,0,,,,,,"",""
+ball,2,12.4,Royal Challengers Bangalore,EA Perry,S Mandhana,A Reddy,1,0,,,,,,"",""
+ball,2,12.5,Royal Challengers Bangalore,S Mandhana,EA Perry,A Reddy,0,0,,,,,,"",""
+ball,2,12.6,Royal Challengers Bangalore,S Mandhana,EA Perry,A Reddy,4,0,,,,,,"",""
+ball,2,13.1,Royal Challengers Bangalore,EA Perry,S Mandhana,JL Jonassen,1,0,,,,,,"",""
+ball,2,13.2,Royal Challengers Bangalore,S Mandhana,EA Perry,JL Jonassen,0,0,,,,,,"",""
+ball,2,13.3,Royal Challengers Bangalore,S Mandhana,EA Perry,JL Jonassen,0,0,,,,,,"",""
+ball,2,13.4,Royal Challengers Bangalore,S Mandhana,EA Perry,JL Jonassen,1,0,,,,,,"",""
+ball,2,13.5,Royal Challengers Bangalore,EA Perry,S Mandhana,JL Jonassen,4,0,,,,,,"",""
+ball,2,13.6,Royal Challengers Bangalore,EA Perry,S Mandhana,JL Jonassen,1,0,,,,,,"",""
+ball,2,14.1,Royal Challengers Bangalore,EA Perry,S Mandhana,M Mani,1,0,,,,,,"",""
+ball,2,14.2,Royal Challengers Bangalore,S Mandhana,EA Perry,M Mani,0,0,,,,,,"",""
+ball,2,14.3,Royal Challengers Bangalore,S Mandhana,EA Perry,M Mani,1,0,,,,,,"",""
+ball,2,14.4,Royal Challengers Bangalore,EA Perry,S Mandhana,M Mani,0,0,,,,,,"",""
+ball,2,14.5,Royal Challengers Bangalore,EA Perry,S Mandhana,M Mani,1,0,,,,,,"",""
+ball,2,14.6,Royal Challengers Bangalore,S Mandhana,EA Perry,M Mani,0,0,,,,,,caught,S Mandhana
+ball,2,15.1,Royal Challengers Bangalore,EA Perry,RM Ghosh,A Capsey,1,0,,,,,,"",""
+ball,2,15.2,Royal Challengers Bangalore,RM Ghosh,EA Perry,A Capsey,1,0,,,,,,"",""
+ball,2,15.3,Royal Challengers Bangalore,EA Perry,RM Ghosh,A Capsey,1,0,,,,,,"",""
+ball,2,15.4,Royal Challengers Bangalore,RM Ghosh,EA Perry,A Capsey,0,0,,,,,,"",""
+ball,2,15.5,Royal Challengers Bangalore,RM Ghosh,EA Perry,A Capsey,0,0,,,,,,"",""
+ball,2,15.6,Royal Challengers Bangalore,RM Ghosh,EA Perry,A Capsey,1,0,,,,,,"",""
+ball,2,16.1,Royal Challengers Bangalore,RM Ghosh,EA Perry,M Mani,1,0,,,,,,"",""
+ball,2,16.2,Royal Challengers Bangalore,EA Perry,RM Ghosh,M Mani,1,0,,,,,,"",""
+ball,2,16.3,Royal Challengers Bangalore,RM Ghosh,EA Perry,M Mani,4,0,,,,,,"",""
+ball,2,16.4,Royal Challengers Bangalore,RM Ghosh,EA Perry,M Mani,1,0,,,,,,"",""
+ball,2,16.5,Royal Challengers Bangalore,EA Perry,RM Ghosh,M Mani,1,0,,,,,,"",""
+ball,2,16.6,Royal Challengers Bangalore,RM Ghosh,EA Perry,M Mani,1,0,,,,,,"",""
+ball,2,17.1,Royal Challengers Bangalore,RM Ghosh,EA Perry,JL Jonassen,1,0,,,,,,"",""
+ball,2,17.2,Royal Challengers Bangalore,EA Perry,RM Ghosh,JL Jonassen,4,0,,,,,,"",""
+ball,2,17.3,Royal Challengers Bangalore,EA Perry,RM Ghosh,JL Jonassen,1,0,,,,,,"",""
+ball,2,17.4,Royal Challengers Bangalore,RM Ghosh,EA Perry,JL Jonassen,0,0,,,,,,"",""
+ball,2,17.5,Royal Challengers Bangalore,RM Ghosh,EA Perry,JL Jonassen,1,0,,,,,,"",""
+ball,2,17.6,Royal Challengers Bangalore,EA Perry,RM Ghosh,JL Jonassen,1,0,,,,,,"",""
+ball,2,18.1,Royal Challengers Bangalore,EA Perry,RM Ghosh,A Capsey,0,0,,,,,,"",""
+ball,2,18.2,Royal Challengers Bangalore,EA Perry,RM Ghosh,A Capsey,4,0,,,,,,"",""
+ball,2,18.3,Royal Challengers Bangalore,EA Perry,RM Ghosh,A Capsey,1,0,,,,,,"",""
+ball,2,18.4,Royal Challengers Bangalore,RM Ghosh,EA Perry,A Capsey,1,0,,,,,,"",""
+ball,2,18.5,Royal Challengers Bangalore,EA Perry,RM Ghosh,A Capsey,0,0,,,,,,"",""
+ball,2,18.6,Royal Challengers Bangalore,EA Perry,RM Ghosh,A Capsey,0,0,,,,,,"",""
+ball,2,19.1,Royal Challengers Bangalore,RM Ghosh,EA Perry,A Reddy,1,0,,,,,,"",""
+ball,2,19.2,Royal Challengers Bangalore,EA Perry,RM Ghosh,A Reddy,1,0,,,,,,"",""
+ball,2,19.3,Royal Challengers Bangalore,RM Ghosh,EA Perry,A Reddy,4,0,,,,,,"",""

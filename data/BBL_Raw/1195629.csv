@@ -1,0 +1,312 @@
+version,1.6.0
+info,balls_per_over,6
+info,team,Hobart Hurricanes
+info,team,Sydney Thunder
+info,gender,male
+info,season,2019/20
+info,date,2020/01/30
+info,event,Big Bash League
+info,venue,Bellerive Oval
+info,city,Hobart
+info,toss_winner,Sydney Thunder
+info,toss_decision,bat
+info,player_of_match,JD Cook
+info,umpire,P Wilson
+info,umpire,SAJ Craig
+info,reserve_umpire,GC Joshua
+info,tv_umpire,JD Ward
+info,match_referee,RL Parry
+info,winner,Sydney Thunder
+info,winner_runs,57
+info,player,Sydney Thunder,UT Khawaja
+info,player,Sydney Thunder,AD Hales
+info,player,Sydney Thunder,CJ Ferguson
+info,player,Sydney Thunder,AI Ross
+info,player,Sydney Thunder,CH Morris
+info,player,Sydney Thunder,DR Sams
+info,player,Sydney Thunder,AJ Nair
+info,player,Sydney Thunder,JS Lenton
+info,player,Sydney Thunder,JD Cook
+info,player,Sydney Thunder,CP Tremain
+info,player,Sydney Thunder,B Doggett
+info,player,Hobart Hurricanes,MS Wade
+info,player,Hobart Hurricanes,DJM Short
+info,player,Hobart Hurricanes,M Wright
+info,player,Hobart Hurricanes,BR McDermott
+info,player,Hobart Hurricanes,GJ Bailey
+info,player,Hobart Hurricanes,S Milenko
+info,player,Hobart Hurricanes,CA Rose
+info,player,Hobart Hurricanes,JP Faulkner
+info,player,Hobart Hurricanes,NT Ellis
+info,player,Hobart Hurricanes,Qais Ahmad
+info,player,Hobart Hurricanes,SM Boland
+info,registry,people,AD Hales,92aeac25
+info,registry,people,AI Ross,fb0d68b4
+info,registry,people,AJ Nair,4ba2c04d
+info,registry,people,B Doggett,898e628d
+info,registry,people,BR McDermott,c41043e6
+info,registry,people,CA Rose,7517d134
+info,registry,people,CH Morris,fb66ce1f
+info,registry,people,CJ Ferguson,9b4935c8
+info,registry,people,CJ Green,19b9f399
+info,registry,people,CP Tremain,96824e68
+info,registry,people,DJM Short,1a156c88
+info,registry,people,DR Sams,caf69bf7
+info,registry,people,GC Joshua,4c47ebf2
+info,registry,people,GJ Bailey,5056011d
+info,registry,people,JD Cook,45f56920
+info,registry,people,JD Ward,511299c1
+info,registry,people,JP Faulkner,808f425a
+info,registry,people,JS Lenton,8820c9ef
+info,registry,people,M Wright,bd920a2c
+info,registry,people,MS Wade,afa7e784
+info,registry,people,NT Ellis,9eb1455b
+info,registry,people,P Wilson,68304a36
+info,registry,people,Qais Ahmad,8d5d991e
+info,registry,people,RL Parry,86d151dc
+info,registry,people,S Milenko,479f9b04
+info,registry,people,SAJ Craig,689f2eed
+info,registry,people,SM Boland,d167edd3
+info,registry,people,UT Khawaja,331ea488
+ball,1,0.1,Sydney Thunder,UT Khawaja,AD Hales,JP Faulkner,0,0,,,,,,"",""
+ball,1,0.2,Sydney Thunder,UT Khawaja,AD Hales,JP Faulkner,2,0,,,,,,"",""
+ball,1,0.3,Sydney Thunder,UT Khawaja,AD Hales,JP Faulkner,1,0,,,,,,"",""
+ball,1,0.4,Sydney Thunder,AD Hales,UT Khawaja,JP Faulkner,0,0,,,,,,"",""
+ball,1,0.5,Sydney Thunder,AD Hales,UT Khawaja,JP Faulkner,1,0,,,,,,"",""
+ball,1,0.6,Sydney Thunder,UT Khawaja,AD Hales,JP Faulkner,2,0,,,,,,"",""
+ball,1,1.1,Sydney Thunder,AD Hales,UT Khawaja,CA Rose,1,0,,,,,,"",""
+ball,1,1.2,Sydney Thunder,UT Khawaja,AD Hales,CA Rose,1,0,,,,,,"",""
+ball,1,1.3,Sydney Thunder,AD Hales,UT Khawaja,CA Rose,0,0,,,,,,"",""
+ball,1,1.4,Sydney Thunder,AD Hales,UT Khawaja,CA Rose,0,0,,,,,,"",""
+ball,1,1.5,Sydney Thunder,AD Hales,UT Khawaja,CA Rose,4,0,,,,,,"",""
+ball,1,1.6,Sydney Thunder,AD Hales,UT Khawaja,CA Rose,4,0,,,,,,"",""
+ball,1,2.1,Sydney Thunder,UT Khawaja,AD Hales,JP Faulkner,1,0,,,,,,"",""
+ball,1,2.2,Sydney Thunder,AD Hales,UT Khawaja,JP Faulkner,4,0,,,,,,"",""
+ball,1,2.3,Sydney Thunder,AD Hales,UT Khawaja,JP Faulkner,1,0,,,,,,"",""
+ball,1,2.4,Sydney Thunder,UT Khawaja,AD Hales,JP Faulkner,4,0,,,,,,"",""
+ball,1,2.5,Sydney Thunder,UT Khawaja,AD Hales,JP Faulkner,4,0,,,,,,"",""
+ball,1,2.6,Sydney Thunder,UT Khawaja,AD Hales,JP Faulkner,0,0,,,,,,"",""
+ball,1,3.1,Sydney Thunder,AD Hales,UT Khawaja,NT Ellis,0,0,,,,,,"",""
+ball,1,3.2,Sydney Thunder,AD Hales,UT Khawaja,NT Ellis,0,0,,,,,,"",""
+ball,1,3.3,Sydney Thunder,AD Hales,UT Khawaja,NT Ellis,1,0,,,,,,"",""
+ball,1,3.4,Sydney Thunder,UT Khawaja,AD Hales,NT Ellis,1,0,,,,,,"",""
+ball,1,3.5,Sydney Thunder,AD Hales,UT Khawaja,NT Ellis,1,0,,,,,,"",""
+ball,1,3.6,Sydney Thunder,UT Khawaja,AD Hales,NT Ellis,1,0,,,,,,"",""
+ball,1,4.1,Sydney Thunder,UT Khawaja,AD Hales,SM Boland,4,0,,,,,,"",""
+ball,1,4.2,Sydney Thunder,UT Khawaja,AD Hales,SM Boland,4,0,,,,,,"",""
+ball,1,4.3,Sydney Thunder,UT Khawaja,AD Hales,SM Boland,4,0,,,,,,"",""
+ball,1,4.4,Sydney Thunder,UT Khawaja,AD Hales,SM Boland,2,0,,,,,,"",""
+ball,1,4.5,Sydney Thunder,UT Khawaja,AD Hales,SM Boland,0,0,,,,,,"",""
+ball,1,4.6,Sydney Thunder,UT Khawaja,AD Hales,SM Boland,1,0,,,,,,"",""
+ball,1,5.1,Sydney Thunder,UT Khawaja,AD Hales,NT Ellis,1,0,,,,,,"",""
+ball,1,5.2,Sydney Thunder,AD Hales,UT Khawaja,NT Ellis,1,0,,,,,,"",""
+ball,1,5.3,Sydney Thunder,UT Khawaja,AD Hales,NT Ellis,2,0,,,,,,"",""
+ball,1,5.4,Sydney Thunder,UT Khawaja,AD Hales,NT Ellis,0,0,,,,,,"",""
+ball,1,5.5,Sydney Thunder,UT Khawaja,AD Hales,NT Ellis,0,0,,,,,,"",""
+ball,1,5.6,Sydney Thunder,UT Khawaja,AD Hales,NT Ellis,0,1,,,,1,,"",""
+ball,1,6.1,Sydney Thunder,UT Khawaja,AD Hales,DJM Short,1,0,,,,,,"",""
+ball,1,6.2,Sydney Thunder,AD Hales,UT Khawaja,DJM Short,4,0,,,,,,"",""
+ball,1,6.3,Sydney Thunder,AD Hales,UT Khawaja,DJM Short,1,0,,,,,,"",""
+ball,1,6.4,Sydney Thunder,UT Khawaja,AD Hales,DJM Short,1,0,,,,,,"",""
+ball,1,6.5,Sydney Thunder,AD Hales,UT Khawaja,DJM Short,6,0,,,,,,"",""
+ball,1,6.6,Sydney Thunder,AD Hales,UT Khawaja,DJM Short,0,0,,,,,,"",""
+ball,1,7.1,Sydney Thunder,UT Khawaja,AD Hales,CA Rose,6,0,,,,,,"",""
+ball,1,7.2,Sydney Thunder,UT Khawaja,AD Hales,CA Rose,1,0,,,,,,"",""
+ball,1,7.3,Sydney Thunder,AD Hales,UT Khawaja,CA Rose,4,0,,,,,,"",""
+ball,1,7.4,Sydney Thunder,AD Hales,UT Khawaja,CA Rose,4,0,,,,,,"",""
+ball,1,7.5,Sydney Thunder,AD Hales,UT Khawaja,CA Rose,1,0,,,,,,"",""
+ball,1,7.6,Sydney Thunder,UT Khawaja,AD Hales,CA Rose,1,0,,,,,,"",""
+ball,1,8.1,Sydney Thunder,UT Khawaja,AD Hales,SM Boland,4,0,,,,,,"",""
+ball,1,8.2,Sydney Thunder,UT Khawaja,AD Hales,SM Boland,0,0,,,,,,"",""
+ball,1,8.3,Sydney Thunder,UT Khawaja,AD Hales,SM Boland,4,0,,,,,,"",""
+ball,1,8.4,Sydney Thunder,UT Khawaja,AD Hales,SM Boland,0,1,,,,1,,"",""
+ball,1,8.5,Sydney Thunder,AD Hales,UT Khawaja,SM Boland,2,0,,,,,,"",""
+ball,1,8.6,Sydney Thunder,AD Hales,UT Khawaja,SM Boland,6,0,,,,,,"",""
+ball,1,9.1,Sydney Thunder,UT Khawaja,AD Hales,JP Faulkner,0,0,,,,,,"",""
+ball,1,9.2,Sydney Thunder,UT Khawaja,AD Hales,JP Faulkner,1,0,,,,,,"",""
+ball,1,9.3,Sydney Thunder,AD Hales,UT Khawaja,JP Faulkner,0,0,,,,,,"",""
+ball,1,9.4,Sydney Thunder,AD Hales,UT Khawaja,JP Faulkner,1,0,,,,,,"",""
+ball,1,9.5,Sydney Thunder,UT Khawaja,AD Hales,JP Faulkner,0,0,,,,,,lbw,UT Khawaja
+ball,1,9.6,Sydney Thunder,CJ Ferguson,AD Hales,JP Faulkner,1,0,,,,,,"",""
+ball,1,10.1,Sydney Thunder,CJ Ferguson,AD Hales,Qais Ahmad,1,0,,,,,,"",""
+ball,1,10.2,Sydney Thunder,AD Hales,CJ Ferguson,Qais Ahmad,0,0,,,,,,"",""
+ball,1,10.3,Sydney Thunder,AD Hales,CJ Ferguson,Qais Ahmad,0,0,,,,,,"",""
+ball,1,10.4,Sydney Thunder,AD Hales,CJ Ferguson,Qais Ahmad,1,0,,,,,,"",""
+ball,1,10.5,Sydney Thunder,CJ Ferguson,AD Hales,Qais Ahmad,4,0,,,,,,"",""
+ball,1,10.6,Sydney Thunder,CJ Ferguson,AD Hales,Qais Ahmad,1,0,,,,,,"",""
+ball,1,11.1,Sydney Thunder,CJ Ferguson,AD Hales,SM Boland,0,0,,,,,,"",""
+ball,1,11.2,Sydney Thunder,CJ Ferguson,AD Hales,SM Boland,1,0,,,,,,"",""
+ball,1,11.3,Sydney Thunder,AD Hales,CJ Ferguson,SM Boland,1,0,,,,,,"",""
+ball,1,11.4,Sydney Thunder,CJ Ferguson,AD Hales,SM Boland,0,0,,,,,,"",""
+ball,1,11.5,Sydney Thunder,CJ Ferguson,AD Hales,SM Boland,1,0,,,,,,"",""
+ball,1,11.6,Sydney Thunder,AD Hales,CJ Ferguson,SM Boland,1,0,,,,,,"",""
+ball,1,12.1,Sydney Thunder,AD Hales,CJ Ferguson,Qais Ahmad,6,0,,,,,,"",""
+ball,1,12.2,Sydney Thunder,AD Hales,CJ Ferguson,Qais Ahmad,1,0,,,,,,"",""
+ball,1,12.3,Sydney Thunder,CJ Ferguson,AD Hales,Qais Ahmad,4,0,,,,,,"",""
+ball,1,12.4,Sydney Thunder,CJ Ferguson,AD Hales,Qais Ahmad,1,0,,,,,,"",""
+ball,1,12.5,Sydney Thunder,AD Hales,CJ Ferguson,Qais Ahmad,1,0,,,,,,"",""
+ball,1,12.6,Sydney Thunder,CJ Ferguson,AD Hales,Qais Ahmad,1,0,,,,,,"",""
+ball,1,13.1,Sydney Thunder,CJ Ferguson,AD Hales,DJM Short,2,0,,,,,,"",""
+ball,1,13.2,Sydney Thunder,CJ Ferguson,AD Hales,DJM Short,2,0,,,,,,"",""
+ball,1,13.3,Sydney Thunder,CJ Ferguson,AD Hales,DJM Short,1,0,,,,,,"",""
+ball,1,13.4,Sydney Thunder,AD Hales,CJ Ferguson,DJM Short,1,0,,,,,,"",""
+ball,1,13.5,Sydney Thunder,CJ Ferguson,AD Hales,DJM Short,4,0,,,,,,"",""
+ball,1,13.6,Sydney Thunder,CJ Ferguson,AD Hales,DJM Short,4,0,,,,,,"",""
+ball,1,14.1,Sydney Thunder,AD Hales,CJ Ferguson,SM Boland,0,0,,,,,,"",""
+ball,1,14.2,Sydney Thunder,AD Hales,CJ Ferguson,SM Boland,1,0,,,,,,"",""
+ball,1,14.3,Sydney Thunder,CJ Ferguson,AD Hales,SM Boland,1,0,,,,,,"",""
+ball,1,14.4,Sydney Thunder,AD Hales,CJ Ferguson,SM Boland,0,0,,,,,,caught,AD Hales
+ball,1,14.5,Sydney Thunder,CJ Ferguson,AI Ross,SM Boland,1,0,,,,,,"",""
+ball,1,14.6,Sydney Thunder,AI Ross,CJ Ferguson,SM Boland,1,0,,,,,,"",""
+ball,1,15.1,Sydney Thunder,AI Ross,CJ Ferguson,Qais Ahmad,4,0,,,,,,"",""
+ball,1,15.2,Sydney Thunder,AI Ross,CJ Ferguson,Qais Ahmad,1,0,,,,,,"",""
+ball,1,15.3,Sydney Thunder,CJ Ferguson,AI Ross,Qais Ahmad,1,0,,,,,,"",""
+ball,1,15.4,Sydney Thunder,AI Ross,CJ Ferguson,Qais Ahmad,0,0,,,,,,"",""
+ball,1,15.5,Sydney Thunder,AI Ross,CJ Ferguson,Qais Ahmad,1,0,,,,,,"",""
+ball,1,15.6,Sydney Thunder,CJ Ferguson,AI Ross,Qais Ahmad,2,0,,,,,,"",""
+ball,1,16.1,Sydney Thunder,AI Ross,CJ Ferguson,CA Rose,0,0,,,,,,"",""
+ball,1,16.2,Sydney Thunder,AI Ross,CJ Ferguson,CA Rose,4,0,,,,,,"",""
+ball,1,16.3,Sydney Thunder,AI Ross,CJ Ferguson,CA Rose,6,0,,,,,,"",""
+ball,1,16.4,Sydney Thunder,AI Ross,CJ Ferguson,CA Rose,0,1,1,,,,,"",""
+ball,1,16.5,Sydney Thunder,AI Ross,CJ Ferguson,CA Rose,1,0,,,,,,"",""
+ball,1,16.6,Sydney Thunder,CJ Ferguson,AI Ross,CA Rose,0,0,,,,,,"",""
+ball,1,16.7,Sydney Thunder,CJ Ferguson,AI Ross,CA Rose,0,0,,,,,,caught,CJ Ferguson
+ball,1,17.1,Sydney Thunder,AI Ross,CH Morris,NT Ellis,0,1,,,,1,,"",""
+ball,1,17.2,Sydney Thunder,CH Morris,AI Ross,NT Ellis,0,1,1,,,,,"",""
+ball,1,17.3,Sydney Thunder,CH Morris,AI Ross,NT Ellis,1,0,,,,,,"",""
+ball,1,17.4,Sydney Thunder,AI Ross,CH Morris,NT Ellis,1,0,,,,,,"",""
+ball,1,17.5,Sydney Thunder,CH Morris,AI Ross,NT Ellis,1,0,,,,,,"",""
+ball,1,17.6,Sydney Thunder,AI Ross,CH Morris,NT Ellis,1,0,,,,,,"",""
+ball,1,17.7,Sydney Thunder,CH Morris,AI Ross,NT Ellis,1,0,,,,,,"",""
+ball,1,18.1,Sydney Thunder,CH Morris,AI Ross,JP Faulkner,1,0,,,,,,"",""
+ball,1,18.2,Sydney Thunder,AI Ross,CH Morris,JP Faulkner,1,0,,,,,,"",""
+ball,1,18.3,Sydney Thunder,CH Morris,AI Ross,JP Faulkner,4,0,,,,,,"",""
+ball,1,18.4,Sydney Thunder,CH Morris,AI Ross,JP Faulkner,4,0,,,,,,"",""
+ball,1,18.5,Sydney Thunder,CH Morris,AI Ross,JP Faulkner,1,0,,,,,,run out,AI Ross
+ball,1,18.6,Sydney Thunder,DR Sams,CH Morris,JP Faulkner,0,1,1,,,,,"",""
+ball,1,18.7,Sydney Thunder,DR Sams,CH Morris,JP Faulkner,4,0,,,,,,"",""
+ball,1,19.1,Sydney Thunder,CH Morris,DR Sams,NT Ellis,1,0,,,,,,"",""
+ball,1,19.2,Sydney Thunder,DR Sams,CH Morris,NT Ellis,0,1,,,,1,,"",""
+ball,1,19.3,Sydney Thunder,CH Morris,DR Sams,NT Ellis,0,0,,,,,,caught,CH Morris
+ball,1,19.4,Sydney Thunder,DR Sams,AJ Nair,NT Ellis,2,0,,,,,,"",""
+ball,1,19.5,Sydney Thunder,DR Sams,AJ Nair,NT Ellis,1,0,,,,,,"",""
+ball,1,19.6,Sydney Thunder,AJ Nair,DR Sams,NT Ellis,0,1,,,1,,,"",""
+ball,2,0.1,Hobart Hurricanes,MS Wade,DJM Short,AJ Nair,0,0,,,,,,"",""
+ball,2,0.2,Hobart Hurricanes,MS Wade,DJM Short,AJ Nair,1,0,,,,,,"",""
+ball,2,0.3,Hobart Hurricanes,DJM Short,MS Wade,AJ Nair,4,0,,,,,,"",""
+ball,2,0.4,Hobart Hurricanes,DJM Short,MS Wade,AJ Nair,1,0,,,,,,"",""
+ball,2,0.5,Hobart Hurricanes,MS Wade,DJM Short,AJ Nair,1,0,,,,,,"",""
+ball,2,0.6,Hobart Hurricanes,DJM Short,MS Wade,AJ Nair,1,0,,,,,,"",""
+ball,2,1.1,Hobart Hurricanes,DJM Short,MS Wade,B Doggett,1,0,,,,,,"",""
+ball,2,1.2,Hobart Hurricanes,MS Wade,DJM Short,B Doggett,0,0,,,,,,"",""
+ball,2,1.3,Hobart Hurricanes,MS Wade,DJM Short,B Doggett,0,1,1,,,,,"",""
+ball,2,1.4,Hobart Hurricanes,MS Wade,DJM Short,B Doggett,0,0,,,,,,"",""
+ball,2,1.5,Hobart Hurricanes,MS Wade,DJM Short,B Doggett,6,0,,,,,,"",""
+ball,2,1.6,Hobart Hurricanes,MS Wade,DJM Short,B Doggett,0,1,1,,,,,"",""
+ball,2,1.7,Hobart Hurricanes,MS Wade,DJM Short,B Doggett,1,0,,,,,,"",""
+ball,2,1.8,Hobart Hurricanes,DJM Short,MS Wade,B Doggett,0,0,,,,,,"",""
+ball,2,2.1,Hobart Hurricanes,MS Wade,DJM Short,JD Cook,2,0,,,,,,"",""
+ball,2,2.2,Hobart Hurricanes,MS Wade,DJM Short,JD Cook,2,0,,,,,,"",""
+ball,2,2.3,Hobart Hurricanes,MS Wade,DJM Short,JD Cook,1,0,,,,,,"",""
+ball,2,2.4,Hobart Hurricanes,DJM Short,MS Wade,JD Cook,1,0,,,,,,"",""
+ball,2,2.5,Hobart Hurricanes,MS Wade,DJM Short,JD Cook,0,0,,,,,,caught,MS Wade
+ball,2,2.6,Hobart Hurricanes,DJM Short,M Wright,JD Cook,1,0,,,,,,"",""
+ball,2,3.1,Hobart Hurricanes,DJM Short,M Wright,CH Morris,4,0,,,,,,"",""
+ball,2,3.2,Hobart Hurricanes,DJM Short,M Wright,CH Morris,1,0,,,,,,"",""
+ball,2,3.3,Hobart Hurricanes,M Wright,DJM Short,CH Morris,0,0,,,,,,"",""
+ball,2,3.4,Hobart Hurricanes,M Wright,DJM Short,CH Morris,1,0,,,,,,"",""
+ball,2,3.5,Hobart Hurricanes,DJM Short,M Wright,CH Morris,0,1,1,,,,,"",""
+ball,2,3.6,Hobart Hurricanes,DJM Short,M Wright,CH Morris,0,1,,,,1,,"",""
+ball,2,3.7,Hobart Hurricanes,M Wright,DJM Short,CH Morris,0,0,,,,,,"",""
+ball,2,4.1,Hobart Hurricanes,DJM Short,M Wright,AJ Nair,6,0,,,,,,"",""
+ball,2,4.2,Hobart Hurricanes,DJM Short,M Wright,AJ Nair,4,0,,,,,,"",""
+ball,2,4.3,Hobart Hurricanes,DJM Short,M Wright,AJ Nair,0,0,,,,,,"",""
+ball,2,4.4,Hobart Hurricanes,DJM Short,M Wright,AJ Nair,4,0,,,,,,"",""
+ball,2,4.5,Hobart Hurricanes,DJM Short,M Wright,AJ Nair,0,0,,,,,,"",""
+ball,2,4.6,Hobart Hurricanes,DJM Short,M Wright,AJ Nair,1,0,,,,,,"",""
+ball,2,5.1,Hobart Hurricanes,DJM Short,M Wright,DR Sams,0,0,,,,,,"",""
+ball,2,5.2,Hobart Hurricanes,DJM Short,M Wright,DR Sams,0,0,,,,,,"",""
+ball,2,5.3,Hobart Hurricanes,DJM Short,M Wright,DR Sams,4,0,,,,,,"",""
+ball,2,5.4,Hobart Hurricanes,DJM Short,M Wright,DR Sams,0,0,,,,,,"",""
+ball,2,5.5,Hobart Hurricanes,DJM Short,M Wright,DR Sams,1,0,,,,,,"",""
+ball,2,5.6,Hobart Hurricanes,M Wright,DJM Short,DR Sams,2,0,,,,,,"",""
+ball,2,6.1,Hobart Hurricanes,DJM Short,M Wright,JD Cook,1,0,,,,,,"",""
+ball,2,6.2,Hobart Hurricanes,M Wright,DJM Short,JD Cook,1,0,,,,,,"",""
+ball,2,6.3,Hobart Hurricanes,DJM Short,M Wright,JD Cook,2,0,,,,,,"",""
+ball,2,6.4,Hobart Hurricanes,DJM Short,M Wright,JD Cook,0,0,,,,,,caught,DJM Short
+ball,2,6.5,Hobart Hurricanes,BR McDermott,M Wright,JD Cook,1,0,,,,,,"",""
+ball,2,6.6,Hobart Hurricanes,M Wright,BR McDermott,JD Cook,1,0,,,,,,"",""
+ball,2,7.1,Hobart Hurricanes,M Wright,BR McDermott,CP Tremain,0,0,,,,,,"",""
+ball,2,7.2,Hobart Hurricanes,M Wright,BR McDermott,CP Tremain,0,0,,,,,,caught,M Wright
+ball,2,7.3,Hobart Hurricanes,GJ Bailey,BR McDermott,CP Tremain,4,0,,,,,,"",""
+ball,2,7.4,Hobart Hurricanes,GJ Bailey,BR McDermott,CP Tremain,0,0,,,,,,"",""
+ball,2,7.5,Hobart Hurricanes,GJ Bailey,BR McDermott,CP Tremain,1,0,,,,,,"",""
+ball,2,7.6,Hobart Hurricanes,BR McDermott,GJ Bailey,CP Tremain,0,0,,,,,,"",""
+ball,2,8.1,Hobart Hurricanes,GJ Bailey,BR McDermott,CH Morris,4,0,,,,,,"",""
+ball,2,8.2,Hobart Hurricanes,GJ Bailey,BR McDermott,CH Morris,0,0,,,,,,"",""
+ball,2,8.3,Hobart Hurricanes,GJ Bailey,BR McDermott,CH Morris,4,0,,,,,,"",""
+ball,2,8.4,Hobart Hurricanes,GJ Bailey,BR McDermott,CH Morris,0,0,,,,,,caught,GJ Bailey
+ball,2,8.5,Hobart Hurricanes,S Milenko,BR McDermott,CH Morris,0,0,,,,,,"",""
+ball,2,8.6,Hobart Hurricanes,S Milenko,BR McDermott,CH Morris,0,0,,,,,,"",""
+ball,2,9.1,Hobart Hurricanes,BR McDermott,S Milenko,JD Cook,1,0,,,,,,"",""
+ball,2,9.2,Hobart Hurricanes,S Milenko,BR McDermott,JD Cook,0,0,,,,,,"",""
+ball,2,9.3,Hobart Hurricanes,S Milenko,BR McDermott,JD Cook,0,0,,,,,,"",""
+ball,2,9.4,Hobart Hurricanes,S Milenko,BR McDermott,JD Cook,1,0,,,,,,"",""
+ball,2,9.5,Hobart Hurricanes,BR McDermott,S Milenko,JD Cook,1,0,,,,,,"",""
+ball,2,9.6,Hobart Hurricanes,S Milenko,BR McDermott,JD Cook,1,0,,,,,,"",""
+ball,2,10.1,Hobart Hurricanes,S Milenko,BR McDermott,DR Sams,0,0,,,,,,"",""
+ball,2,10.2,Hobart Hurricanes,S Milenko,BR McDermott,DR Sams,1,0,,,,,,"",""
+ball,2,10.3,Hobart Hurricanes,BR McDermott,S Milenko,DR Sams,1,0,,,,,,"",""
+ball,2,10.4,Hobart Hurricanes,S Milenko,BR McDermott,DR Sams,0,0,,,,,,"",""
+ball,2,10.5,Hobart Hurricanes,S Milenko,BR McDermott,DR Sams,1,0,,,,,,"",""
+ball,2,10.6,Hobart Hurricanes,BR McDermott,S Milenko,DR Sams,0,0,,,,,,"",""
+ball,2,11.1,Hobart Hurricanes,S Milenko,BR McDermott,CP Tremain,4,0,,,,,,"",""
+ball,2,11.2,Hobart Hurricanes,S Milenko,BR McDermott,CP Tremain,0,1,,,,1,,"",""
+ball,2,11.3,Hobart Hurricanes,BR McDermott,S Milenko,CP Tremain,1,0,,,,,,"",""
+ball,2,11.4,Hobart Hurricanes,S Milenko,BR McDermott,CP Tremain,0,0,,,,,,"",""
+ball,2,11.5,Hobart Hurricanes,S Milenko,BR McDermott,CP Tremain,0,0,,,,,,"",""
+ball,2,11.6,Hobart Hurricanes,S Milenko,BR McDermott,CP Tremain,1,0,,,,,,"",""
+ball,2,12.1,Hobart Hurricanes,S Milenko,BR McDermott,B Doggett,4,0,,,,,,"",""
+ball,2,12.2,Hobart Hurricanes,S Milenko,BR McDermott,B Doggett,4,0,,,,,,"",""
+ball,2,12.3,Hobart Hurricanes,S Milenko,BR McDermott,B Doggett,1,0,,,,,,"",""
+ball,2,12.4,Hobart Hurricanes,BR McDermott,S Milenko,B Doggett,0,1,1,,,,,"",""
+ball,2,12.5,Hobart Hurricanes,BR McDermott,S Milenko,B Doggett,4,0,,,,,,"",""
+ball,2,12.6,Hobart Hurricanes,BR McDermott,S Milenko,B Doggett,2,0,,,,,,"",""
+ball,2,12.7,Hobart Hurricanes,BR McDermott,S Milenko,B Doggett,0,0,,,,,,"",""
+ball,2,13.1,Hobart Hurricanes,S Milenko,BR McDermott,DR Sams,2,0,,,,,,"",""
+ball,2,13.2,Hobart Hurricanes,S Milenko,BR McDermott,DR Sams,0,0,,,,,,"",""
+ball,2,13.3,Hobart Hurricanes,S Milenko,BR McDermott,DR Sams,1,0,,,,,,"",""
+ball,2,13.4,Hobart Hurricanes,BR McDermott,S Milenko,DR Sams,0,0,,,,,,"",""
+ball,2,13.5,Hobart Hurricanes,BR McDermott,S Milenko,DR Sams,1,0,,,,,,"",""
+ball,2,13.6,Hobart Hurricanes,S Milenko,BR McDermott,DR Sams,4,0,,,,,,"",""
+ball,2,14.1,Hobart Hurricanes,BR McDermott,S Milenko,CH Morris,1,0,,,,,,"",""
+ball,2,14.2,Hobart Hurricanes,S Milenko,BR McDermott,CH Morris,0,0,,,,,,"",""
+ball,2,14.3,Hobart Hurricanes,S Milenko,BR McDermott,CH Morris,0,1,1,,,,,"",""
+ball,2,14.4,Hobart Hurricanes,S Milenko,BR McDermott,CH Morris,1,0,,,,,,"",""
+ball,2,14.5,Hobart Hurricanes,BR McDermott,S Milenko,CH Morris,0,0,,,,,,caught,BR McDermott
+ball,2,14.6,Hobart Hurricanes,S Milenko,CA Rose,CH Morris,2,0,,,,,,"",""
+ball,2,14.7,Hobart Hurricanes,S Milenko,CA Rose,CH Morris,0,0,,,,,,"",""
+ball,2,15.1,Hobart Hurricanes,CA Rose,S Milenko,JD Cook,1,0,,,,,,"",""
+ball,2,15.2,Hobart Hurricanes,S Milenko,CA Rose,JD Cook,0,0,,,,,,caught,S Milenko
+ball,2,15.3,Hobart Hurricanes,CA Rose,JP Faulkner,JD Cook,0,0,,,,,,bowled,CA Rose
+ball,2,15.4,Hobart Hurricanes,NT Ellis,JP Faulkner,JD Cook,0,1,,,,1,,"",""
+ball,2,15.5,Hobart Hurricanes,JP Faulkner,NT Ellis,JD Cook,2,0,,,,,,"",""
+ball,2,15.6,Hobart Hurricanes,JP Faulkner,NT Ellis,JD Cook,1,0,,,,,,"",""
+ball,2,16.1,Hobart Hurricanes,JP Faulkner,NT Ellis,CH Morris,1,0,,,,,,"",""
+ball,2,16.2,Hobart Hurricanes,NT Ellis,JP Faulkner,CH Morris,1,0,,,,,,"",""
+ball,2,16.3,Hobart Hurricanes,JP Faulkner,NT Ellis,CH Morris,0,1,1,,,,,"",""
+ball,2,16.4,Hobart Hurricanes,JP Faulkner,NT Ellis,CH Morris,1,0,,,,,,"",""
+ball,2,16.5,Hobart Hurricanes,NT Ellis,JP Faulkner,CH Morris,1,0,,,,,,"",""
+ball,2,16.6,Hobart Hurricanes,JP Faulkner,NT Ellis,CH Morris,0,0,,,,,,caught,JP Faulkner
+ball,2,16.7,Hobart Hurricanes,NT Ellis,Qais Ahmad,CH Morris,0,1,1,,,,,"",""
+ball,2,16.8,Hobart Hurricanes,NT Ellis,Qais Ahmad,CH Morris,1,0,,,,,,"",""
+ball,2,17.1,Hobart Hurricanes,NT Ellis,Qais Ahmad,CP Tremain,0,1,1,,,,,"",""
+ball,2,17.2,Hobart Hurricanes,NT Ellis,Qais Ahmad,CP Tremain,1,0,,,,,,"",""
+ball,2,17.3,Hobart Hurricanes,Qais Ahmad,NT Ellis,CP Tremain,0,0,,,,,,"",""
+ball,2,17.4,Hobart Hurricanes,Qais Ahmad,NT Ellis,CP Tremain,1,0,,,,,,"",""
+ball,2,17.5,Hobart Hurricanes,NT Ellis,Qais Ahmad,CP Tremain,1,0,,,,,,"",""
+ball,2,17.6,Hobart Hurricanes,Qais Ahmad,NT Ellis,CP Tremain,0,0,,,,,,"",""
+ball,2,17.7,Hobart Hurricanes,Qais Ahmad,NT Ellis,CP Tremain,1,0,,,,,,"",""
+ball,2,18.1,Hobart Hurricanes,Qais Ahmad,NT Ellis,DR Sams,6,0,,,,,,"",""
+ball,2,18.2,Hobart Hurricanes,Qais Ahmad,NT Ellis,DR Sams,0,0,,,,,,caught,Qais Ahmad
+ball,2,18.3,Hobart Hurricanes,NT Ellis,SM Boland,DR Sams,0,0,,,,,,caught,NT Ellis

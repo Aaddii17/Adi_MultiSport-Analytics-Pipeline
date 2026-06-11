@@ -1,0 +1,231 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Joburg Super Kings
+info,team,Sunrisers Eastern Cape
+info,gender,male
+info,season,2023/24
+info,date,2024/01/31
+info,event,SA20
+info,match_number,25
+info,venue,"The Wanderers Stadium, Johannesburg"
+info,city,Johannesburg
+info,toss_winner,Sunrisers Eastern Cape
+info,toss_decision,field
+info,player_of_match,DJ Worrall
+info,umpire,A Jacobs
+info,umpire,PJ Vosloo
+info,reserve_umpire,Lauren Agenbag
+info,tv_umpire,BM White
+info,match_referee,SA Fritz
+info,winner,Sunrisers Eastern Cape
+info,winner_wickets,9
+info,player,Joburg Super Kings,JL du Plooy
+info,player,Joburg Super Kings,F du Plessis
+info,player,Joburg Super Kings,RR Hendricks
+info,player,Joburg Super Kings,WL Madsen
+info,player,Joburg Super Kings,MM Ali
+info,player,Joburg Super Kings,KI Simmonds
+info,player,Joburg Super Kings,D Ferreira
+info,player,Joburg Super Kings,DAJ Bracewell
+info,player,Joburg Super Kings,LB Williams
+info,player,Joburg Super Kings,N Burger
+info,player,Joburg Super Kings,Imran Tahir
+info,player,Sunrisers Eastern Cape,J Hermann
+info,player,Sunrisers Eastern Cape,DJ Malan
+info,player,Sunrisers Eastern Cape,TB Abell
+info,player,Sunrisers Eastern Cape,AK Markram
+info,player,Sunrisers Eastern Cape,T Stubbs
+info,player,Sunrisers Eastern Cape,PE Kruger
+info,player,Sunrisers Eastern Cape,M Jansen
+info,player,Sunrisers Eastern Cape,LA Dawson
+info,player,Sunrisers Eastern Cape,B Swanepoel
+info,player,Sunrisers Eastern Cape,SR Harmer
+info,player,Sunrisers Eastern Cape,DJ Worrall
+info,registry,people,A Jacobs,70d117de
+info,registry,people,AK Markram,6a26221c
+info,registry,people,B Swanepoel,6e0a2209
+info,registry,people,BM White,66c21d35
+info,registry,people,D Ferreira,f0af99a7
+info,registry,people,DAJ Bracewell,2e9fdf9b
+info,registry,people,DJ Malan,ad9c32a2
+info,registry,people,DJ Worrall,208f22ea
+info,registry,people,F du Plessis,3355b542
+info,registry,people,Imran Tahir,acee4cc4
+info,registry,people,J Hermann,e87aeca2
+info,registry,people,JL du Plooy,6e6fb538
+info,registry,people,KI Simmonds,3122c016
+info,registry,people,LA Dawson,4a461c24
+info,registry,people,LB Williams,a1d95bd8
+info,registry,people,Lauren Agenbag,40849abd
+info,registry,people,M Jansen,81c36ee9
+info,registry,people,MM Ali,bb351c23
+info,registry,people,N Burger,465aa633
+info,registry,people,PE Kruger,39181592
+info,registry,people,PJ Vosloo,93a6d2d0
+info,registry,people,RR Hendricks,b8cc58c9
+info,registry,people,SA Fritz,d15e60c8
+info,registry,people,SR Harmer,23638956
+info,registry,people,T Stubbs,85b3fab2
+info,registry,people,TB Abell,ba9258a7
+info,registry,people,WL Madsen,86e0f3f0
+ball,1,0.1,Joburg Super Kings,JL du Plooy,F du Plessis,LA Dawson,0,0,,,,,,"",""
+ball,1,0.2,Joburg Super Kings,JL du Plooy,F du Plessis,LA Dawson,4,0,,,,,,"",""
+ball,1,0.3,Joburg Super Kings,JL du Plooy,F du Plessis,LA Dawson,1,0,,,,,,"",""
+ball,1,0.4,Joburg Super Kings,F du Plessis,JL du Plooy,LA Dawson,0,0,,,,,,"",""
+ball,1,0.5,Joburg Super Kings,F du Plessis,JL du Plooy,LA Dawson,0,0,,,,,,"",""
+ball,1,0.6,Joburg Super Kings,F du Plessis,JL du Plooy,LA Dawson,0,0,,,,,,"",""
+ball,1,1.1,Joburg Super Kings,JL du Plooy,F du Plessis,DJ Worrall,4,0,,,,,,"",""
+ball,1,1.2,Joburg Super Kings,JL du Plooy,F du Plessis,DJ Worrall,0,0,,,,,,"",""
+ball,1,1.3,Joburg Super Kings,JL du Plooy,F du Plessis,DJ Worrall,1,0,,,,,,"",""
+ball,1,1.4,Joburg Super Kings,F du Plessis,JL du Plooy,DJ Worrall,0,0,,,,,,caught,F du Plessis
+ball,1,1.5,Joburg Super Kings,RR Hendricks,JL du Plooy,DJ Worrall,0,0,,,,,,caught,RR Hendricks
+ball,1,1.6,Joburg Super Kings,WL Madsen,JL du Plooy,DJ Worrall,0,0,,,,,,"",""
+ball,1,2.1,Joburg Super Kings,JL du Plooy,WL Madsen,M Jansen,1,0,,,,,,"",""
+ball,1,2.2,Joburg Super Kings,WL Madsen,JL du Plooy,M Jansen,4,0,,,,,,"",""
+ball,1,2.3,Joburg Super Kings,WL Madsen,JL du Plooy,M Jansen,0,0,,,,,,"",""
+ball,1,2.4,Joburg Super Kings,WL Madsen,JL du Plooy,M Jansen,0,0,,,,,,"",""
+ball,1,2.5,Joburg Super Kings,WL Madsen,JL du Plooy,M Jansen,0,0,,,,,,"",""
+ball,1,2.6,Joburg Super Kings,WL Madsen,JL du Plooy,M Jansen,4,0,,,,,,"",""
+ball,1,3.1,Joburg Super Kings,JL du Plooy,WL Madsen,DJ Worrall,4,0,,,,,,"",""
+ball,1,3.2,Joburg Super Kings,JL du Plooy,WL Madsen,DJ Worrall,2,0,,,,,,"",""
+ball,1,3.3,Joburg Super Kings,JL du Plooy,WL Madsen,DJ Worrall,0,0,,,,,,"",""
+ball,1,3.4,Joburg Super Kings,JL du Plooy,WL Madsen,DJ Worrall,1,0,,,,,,"",""
+ball,1,3.5,Joburg Super Kings,WL Madsen,JL du Plooy,DJ Worrall,6,0,,,,,,"",""
+ball,1,3.6,Joburg Super Kings,WL Madsen,JL du Plooy,DJ Worrall,0,0,,,,,,"",""
+ball,1,4.1,Joburg Super Kings,JL du Plooy,WL Madsen,B Swanepoel,0,0,,,,,,caught,JL du Plooy
+ball,1,4.2,Joburg Super Kings,MM Ali,WL Madsen,B Swanepoel,0,1,,,,1,,"",""
+ball,1,4.3,Joburg Super Kings,WL Madsen,MM Ali,B Swanepoel,0,0,,,,,,"",""
+ball,1,4.4,Joburg Super Kings,WL Madsen,MM Ali,B Swanepoel,4,0,,,,,,"",""
+ball,1,4.5,Joburg Super Kings,WL Madsen,MM Ali,B Swanepoel,0,0,,,,,,"",""
+ball,1,4.6,Joburg Super Kings,WL Madsen,MM Ali,B Swanepoel,4,0,,,,,,"",""
+ball,1,5.1,Joburg Super Kings,MM Ali,WL Madsen,M Jansen,0,0,,,,,,"",""
+ball,1,5.2,Joburg Super Kings,MM Ali,WL Madsen,M Jansen,0,0,,,,,,"",""
+ball,1,5.3,Joburg Super Kings,MM Ali,WL Madsen,M Jansen,0,0,,,,,,"",""
+ball,1,5.4,Joburg Super Kings,MM Ali,WL Madsen,M Jansen,0,0,,,,,,"",""
+ball,1,5.5,Joburg Super Kings,MM Ali,WL Madsen,M Jansen,0,0,,,,,,caught,MM Ali
+ball,1,5.6,Joburg Super Kings,KI Simmonds,WL Madsen,M Jansen,0,0,,,,,,"",""
+ball,1,6.1,Joburg Super Kings,WL Madsen,KI Simmonds,B Swanepoel,0,0,,,,,,"",""
+ball,1,6.2,Joburg Super Kings,WL Madsen,KI Simmonds,B Swanepoel,1,0,,,,,,"",""
+ball,1,6.3,Joburg Super Kings,KI Simmonds,WL Madsen,B Swanepoel,1,0,,,,,,"",""
+ball,1,6.4,Joburg Super Kings,WL Madsen,KI Simmonds,B Swanepoel,1,0,,,,,,"",""
+ball,1,6.5,Joburg Super Kings,KI Simmonds,WL Madsen,B Swanepoel,1,0,,,,,,"",""
+ball,1,6.6,Joburg Super Kings,WL Madsen,KI Simmonds,B Swanepoel,0,1,1,,,,,"",""
+ball,1,6.7,Joburg Super Kings,WL Madsen,KI Simmonds,B Swanepoel,0,0,,,,,,"",""
+ball,1,7.1,Joburg Super Kings,KI Simmonds,WL Madsen,LA Dawson,1,0,,,,,,"",""
+ball,1,7.2,Joburg Super Kings,WL Madsen,KI Simmonds,LA Dawson,4,0,,,,,,"",""
+ball,1,7.3,Joburg Super Kings,WL Madsen,KI Simmonds,LA Dawson,0,0,,,,,,"",""
+ball,1,7.4,Joburg Super Kings,WL Madsen,KI Simmonds,LA Dawson,1,0,,,,,,"",""
+ball,1,7.5,Joburg Super Kings,KI Simmonds,WL Madsen,LA Dawson,0,0,,,,,,"",""
+ball,1,7.6,Joburg Super Kings,KI Simmonds,WL Madsen,LA Dawson,0,0,,,,,,"",""
+ball,1,8.1,Joburg Super Kings,WL Madsen,KI Simmonds,DJ Worrall,1,0,,,,,,"",""
+ball,1,8.2,Joburg Super Kings,KI Simmonds,WL Madsen,DJ Worrall,0,0,,,,,,caught and bowled,KI Simmonds
+ball,1,8.3,Joburg Super Kings,D Ferreira,WL Madsen,DJ Worrall,0,0,,,,,,"",""
+ball,1,8.4,Joburg Super Kings,D Ferreira,WL Madsen,DJ Worrall,0,0,,,,,,"",""
+ball,1,8.5,Joburg Super Kings,D Ferreira,WL Madsen,DJ Worrall,0,0,,,,,,"",""
+ball,1,8.6,Joburg Super Kings,D Ferreira,WL Madsen,DJ Worrall,0,0,,,,,,"",""
+ball,1,9.1,Joburg Super Kings,WL Madsen,D Ferreira,SR Harmer,1,0,,,,,,"",""
+ball,1,9.2,Joburg Super Kings,D Ferreira,WL Madsen,SR Harmer,0,0,,,,,,"",""
+ball,1,9.3,Joburg Super Kings,D Ferreira,WL Madsen,SR Harmer,0,0,,,,,,"",""
+ball,1,9.4,Joburg Super Kings,D Ferreira,WL Madsen,SR Harmer,1,0,,,,,,"",""
+ball,1,9.5,Joburg Super Kings,WL Madsen,D Ferreira,SR Harmer,1,0,,,,,,"",""
+ball,1,9.6,Joburg Super Kings,D Ferreira,WL Madsen,SR Harmer,1,0,,,,,,"",""
+ball,1,10.1,Joburg Super Kings,D Ferreira,WL Madsen,PE Kruger,6,0,,,,,,"",""
+ball,1,10.2,Joburg Super Kings,D Ferreira,WL Madsen,PE Kruger,0,0,,,,,,"",""
+ball,1,10.3,Joburg Super Kings,D Ferreira,WL Madsen,PE Kruger,0,0,,,,,,caught,D Ferreira
+ball,1,10.4,Joburg Super Kings,DAJ Bracewell,WL Madsen,PE Kruger,1,0,,,,,,"",""
+ball,1,10.5,Joburg Super Kings,WL Madsen,DAJ Bracewell,PE Kruger,0,0,,,,,,caught,WL Madsen
+ball,1,10.6,Joburg Super Kings,LB Williams,DAJ Bracewell,PE Kruger,0,0,,,,,,"",""
+ball,1,11.1,Joburg Super Kings,DAJ Bracewell,LB Williams,M Jansen,1,0,,,,,,"",""
+ball,1,11.2,Joburg Super Kings,LB Williams,DAJ Bracewell,M Jansen,0,0,,,,,,"",""
+ball,1,11.3,Joburg Super Kings,LB Williams,DAJ Bracewell,M Jansen,0,0,,,,,,"",""
+ball,1,11.4,Joburg Super Kings,LB Williams,DAJ Bracewell,M Jansen,0,0,,,,,,"",""
+ball,1,11.5,Joburg Super Kings,LB Williams,DAJ Bracewell,M Jansen,1,0,,,,,,"",""
+ball,1,11.6,Joburg Super Kings,DAJ Bracewell,LB Williams,M Jansen,2,0,,,,,,"",""
+ball,1,12.1,Joburg Super Kings,LB Williams,DAJ Bracewell,B Swanepoel,0,0,,,,,,caught,LB Williams
+ball,1,12.2,Joburg Super Kings,N Burger,DAJ Bracewell,B Swanepoel,0,0,,,,,,"",""
+ball,1,12.3,Joburg Super Kings,N Burger,DAJ Bracewell,B Swanepoel,0,0,,,,,,"",""
+ball,1,12.4,Joburg Super Kings,N Burger,DAJ Bracewell,B Swanepoel,1,0,,,,,,"",""
+ball,1,12.5,Joburg Super Kings,DAJ Bracewell,N Burger,B Swanepoel,6,0,,,,,,"",""
+ball,1,12.6,Joburg Super Kings,DAJ Bracewell,N Burger,B Swanepoel,1,0,,,,,,"",""
+ball,1,13.1,Joburg Super Kings,DAJ Bracewell,N Burger,DJ Worrall,0,0,,,,,,"",""
+ball,1,13.2,Joburg Super Kings,DAJ Bracewell,N Burger,DJ Worrall,0,0,,,,,,"",""
+ball,1,13.3,Joburg Super Kings,DAJ Bracewell,N Burger,DJ Worrall,0,0,,,,,,"",""
+ball,1,13.4,Joburg Super Kings,DAJ Bracewell,N Burger,DJ Worrall,1,0,,,,,,"",""
+ball,1,13.5,Joburg Super Kings,N Burger,DAJ Bracewell,DJ Worrall,0,0,,,,,,"",""
+ball,1,13.6,Joburg Super Kings,N Burger,DAJ Bracewell,DJ Worrall,0,0,,,,,,"",""
+ball,1,14.1,Joburg Super Kings,DAJ Bracewell,N Burger,PE Kruger,0,0,,,,,,caught,DAJ Bracewell
+ball,1,14.2,Joburg Super Kings,Imran Tahir,N Burger,PE Kruger,0,0,,,,,,"",""
+ball,1,14.3,Joburg Super Kings,Imran Tahir,N Burger,PE Kruger,0,0,,,,,,"",""
+ball,1,14.4,Joburg Super Kings,Imran Tahir,N Burger,PE Kruger,0,0,,,,,,"",""
+ball,1,14.5,Joburg Super Kings,Imran Tahir,N Burger,PE Kruger,0,0,,,,,,"",""
+ball,1,14.6,Joburg Super Kings,Imran Tahir,N Burger,PE Kruger,1,0,,,,,,"",""
+ball,1,15.1,Joburg Super Kings,Imran Tahir,N Burger,M Jansen,0,0,,,,,,"",""
+ball,1,15.2,Joburg Super Kings,Imran Tahir,N Burger,M Jansen,0,0,,,,,,caught,Imran Tahir
+ball,2,0.1,Sunrisers Eastern Cape,J Hermann,DJ Malan,MM Ali,0,0,,,,,,"",""
+ball,2,0.2,Sunrisers Eastern Cape,J Hermann,DJ Malan,MM Ali,1,0,,,,,,"",""
+ball,2,0.3,Sunrisers Eastern Cape,DJ Malan,J Hermann,MM Ali,1,0,,,,,,"",""
+ball,2,0.4,Sunrisers Eastern Cape,J Hermann,DJ Malan,MM Ali,0,0,,,,,,"",""
+ball,2,0.5,Sunrisers Eastern Cape,J Hermann,DJ Malan,MM Ali,1,0,,,,,,"",""
+ball,2,0.6,Sunrisers Eastern Cape,DJ Malan,J Hermann,MM Ali,0,0,,,,,,"",""
+ball,2,1.1,Sunrisers Eastern Cape,J Hermann,DJ Malan,N Burger,1,0,,,,,,"",""
+ball,2,1.2,Sunrisers Eastern Cape,DJ Malan,J Hermann,N Burger,0,0,,,,,,"",""
+ball,2,1.3,Sunrisers Eastern Cape,DJ Malan,J Hermann,N Burger,0,0,,,,,,"",""
+ball,2,1.4,Sunrisers Eastern Cape,DJ Malan,J Hermann,N Burger,0,0,,,,,,"",""
+ball,2,1.5,Sunrisers Eastern Cape,DJ Malan,J Hermann,N Burger,0,0,,,,,,"",""
+ball,2,1.6,Sunrisers Eastern Cape,DJ Malan,J Hermann,N Burger,0,0,,,,,,"",""
+ball,2,2.1,Sunrisers Eastern Cape,J Hermann,DJ Malan,MM Ali,1,0,,,,,,"",""
+ball,2,2.2,Sunrisers Eastern Cape,DJ Malan,J Hermann,MM Ali,6,0,,,,,,"",""
+ball,2,2.3,Sunrisers Eastern Cape,DJ Malan,J Hermann,MM Ali,1,0,,,,,,"",""
+ball,2,2.4,Sunrisers Eastern Cape,J Hermann,DJ Malan,MM Ali,4,0,,,,,,"",""
+ball,2,2.5,Sunrisers Eastern Cape,J Hermann,DJ Malan,MM Ali,0,0,,,,,,"",""
+ball,2,2.6,Sunrisers Eastern Cape,J Hermann,DJ Malan,MM Ali,1,0,,,,,,"",""
+ball,2,3.1,Sunrisers Eastern Cape,J Hermann,DJ Malan,N Burger,0,0,,,,,,"",""
+ball,2,3.2,Sunrisers Eastern Cape,J Hermann,DJ Malan,N Burger,1,0,,,,,,"",""
+ball,2,3.3,Sunrisers Eastern Cape,DJ Malan,J Hermann,N Burger,4,0,,,,,,"",""
+ball,2,3.4,Sunrisers Eastern Cape,DJ Malan,J Hermann,N Burger,1,0,,,,,,"",""
+ball,2,3.5,Sunrisers Eastern Cape,J Hermann,DJ Malan,N Burger,1,0,,,,,,"",""
+ball,2,3.6,Sunrisers Eastern Cape,DJ Malan,J Hermann,N Burger,4,0,,,,,,"",""
+ball,2,4.1,Sunrisers Eastern Cape,J Hermann,DJ Malan,LB Williams,0,1,1,,,,,"",""
+ball,2,4.2,Sunrisers Eastern Cape,J Hermann,DJ Malan,LB Williams,0,0,,,,,,"",""
+ball,2,4.3,Sunrisers Eastern Cape,J Hermann,DJ Malan,LB Williams,0,0,,,,,,caught,J Hermann
+ball,2,4.4,Sunrisers Eastern Cape,TB Abell,DJ Malan,LB Williams,0,0,,,,,,"",""
+ball,2,4.5,Sunrisers Eastern Cape,TB Abell,DJ Malan,LB Williams,0,0,,,,,,"",""
+ball,2,4.6,Sunrisers Eastern Cape,TB Abell,DJ Malan,LB Williams,4,0,,,,,,"",""
+ball,2,4.7,Sunrisers Eastern Cape,TB Abell,DJ Malan,LB Williams,0,0,,,,,,"",""
+ball,2,5.1,Sunrisers Eastern Cape,DJ Malan,TB Abell,N Burger,0,0,,,,,,"",""
+ball,2,5.2,Sunrisers Eastern Cape,DJ Malan,TB Abell,N Burger,4,0,,,,,,"",""
+ball,2,5.3,Sunrisers Eastern Cape,DJ Malan,TB Abell,N Burger,4,0,,,,,,"",""
+ball,2,5.4,Sunrisers Eastern Cape,DJ Malan,TB Abell,N Burger,4,0,,,,,,"",""
+ball,2,5.5,Sunrisers Eastern Cape,DJ Malan,TB Abell,N Burger,0,0,,,,,,"",""
+ball,2,5.6,Sunrisers Eastern Cape,DJ Malan,TB Abell,N Burger,1,0,,,,,,"",""
+ball,2,6.1,Sunrisers Eastern Cape,DJ Malan,TB Abell,Imran Tahir,1,0,,,,,,"",""
+ball,2,6.2,Sunrisers Eastern Cape,TB Abell,DJ Malan,Imran Tahir,0,0,,,,,,"",""
+ball,2,6.3,Sunrisers Eastern Cape,TB Abell,DJ Malan,Imran Tahir,1,0,,,,,,"",""
+ball,2,6.4,Sunrisers Eastern Cape,DJ Malan,TB Abell,Imran Tahir,1,0,,,,,,"",""
+ball,2,6.5,Sunrisers Eastern Cape,TB Abell,DJ Malan,Imran Tahir,0,0,,,,,,"",""
+ball,2,6.6,Sunrisers Eastern Cape,TB Abell,DJ Malan,Imran Tahir,1,0,,,,,,"",""
+ball,2,7.1,Sunrisers Eastern Cape,TB Abell,DJ Malan,LB Williams,0,0,,,,,,"",""
+ball,2,7.2,Sunrisers Eastern Cape,TB Abell,DJ Malan,LB Williams,1,0,,,,,,"",""
+ball,2,7.3,Sunrisers Eastern Cape,DJ Malan,TB Abell,LB Williams,0,0,,,,,,"",""
+ball,2,7.4,Sunrisers Eastern Cape,DJ Malan,TB Abell,LB Williams,0,0,,,,,,"",""
+ball,2,7.5,Sunrisers Eastern Cape,DJ Malan,TB Abell,LB Williams,0,0,,,,,,"",""
+ball,2,7.6,Sunrisers Eastern Cape,DJ Malan,TB Abell,LB Williams,1,0,,,,,,"",""
+ball,2,8.1,Sunrisers Eastern Cape,DJ Malan,TB Abell,DAJ Bracewell,1,0,,,,,,"",""
+ball,2,8.2,Sunrisers Eastern Cape,TB Abell,DJ Malan,DAJ Bracewell,1,0,,,,,,"",""
+ball,2,8.3,Sunrisers Eastern Cape,DJ Malan,TB Abell,DAJ Bracewell,1,0,,,,,,"",""
+ball,2,8.4,Sunrisers Eastern Cape,TB Abell,DJ Malan,DAJ Bracewell,0,0,,,,,,"",""
+ball,2,8.5,Sunrisers Eastern Cape,TB Abell,DJ Malan,DAJ Bracewell,0,1,1,,,,,"",""
+ball,2,8.6,Sunrisers Eastern Cape,TB Abell,DJ Malan,DAJ Bracewell,1,0,,,,,,"",""
+ball,2,8.7,Sunrisers Eastern Cape,DJ Malan,TB Abell,DAJ Bracewell,1,0,,,,,,"",""
+ball,2,9.1,Sunrisers Eastern Cape,DJ Malan,TB Abell,Imran Tahir,0,0,,,,,,"",""
+ball,2,9.2,Sunrisers Eastern Cape,DJ Malan,TB Abell,Imran Tahir,1,0,,,,,,"",""
+ball,2,9.3,Sunrisers Eastern Cape,TB Abell,DJ Malan,Imran Tahir,4,0,,,,,,"",""
+ball,2,9.4,Sunrisers Eastern Cape,TB Abell,DJ Malan,Imran Tahir,0,0,,,,,,"",""
+ball,2,9.5,Sunrisers Eastern Cape,TB Abell,DJ Malan,Imran Tahir,1,0,,,,,,"",""
+ball,2,9.6,Sunrisers Eastern Cape,DJ Malan,TB Abell,Imran Tahir,1,0,,,,,,"",""
+ball,2,10.1,Sunrisers Eastern Cape,DJ Malan,TB Abell,DAJ Bracewell,1,0,,,,,,"",""
+ball,2,10.2,Sunrisers Eastern Cape,TB Abell,DJ Malan,DAJ Bracewell,4,0,,,,,,"",""
+ball,2,10.3,Sunrisers Eastern Cape,TB Abell,DJ Malan,DAJ Bracewell,6,0,,,,,,"",""
+ball,2,10.4,Sunrisers Eastern Cape,TB Abell,DJ Malan,DAJ Bracewell,1,0,,,,,,"",""
+ball,2,10.5,Sunrisers Eastern Cape,DJ Malan,TB Abell,DAJ Bracewell,1,0,,,,,,"",""
+ball,2,10.6,Sunrisers Eastern Cape,TB Abell,DJ Malan,DAJ Bracewell,1,0,,,,,,"",""

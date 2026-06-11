@@ -1,0 +1,301 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,France
+info,team,Norway
+info,gender,male
+info,season,2026
+info,date,2026/04/07
+info,event,Portugal T20 Tri-Series
+info,match_number,5
+info,venue,Santarem Cricket Ground
+info,city,Albergaria
+info,toss_winner,Norway
+info,toss_decision,field
+info,player_of_match,Mohammad Khan Rafah
+info,winner,France
+info,winner_runs,7
+info,player,France,Mukhtar Ghulami
+info,player,France,L Canessane
+info,player,France,Virk Ali
+info,player,France,C Roberts
+info,player,France,Zada Sher
+info,player,France,Mohammad Khan Rafah
+info,player,France,Noman Amjad
+info,player,France,Zaheer Zahiri
+info,player,France,Jamshid Nasiri
+info,player,France,Usman Khan
+info,player,France,Dawood Ahmadzai
+info,player,Norway,Khizer Ahmed
+info,player,Norway,D Abeyrathna
+info,player,Norway,Chaudhary Akram
+info,player,Norway,Junaid Mehmood
+info,player,Norway,Sher Sahak
+info,player,Norway,Faisal Raza
+info,player,Norway,Ibrahim Rahimi
+info,player,Norway,Syed Jawad Haider
+info,player,Norway,Vinay Ravi
+info,player,Norway,Qamar Mushtaque
+info,player,Norway,M Shahbaz Butt
+info,registry,people,C Roberts,07ac9c54
+info,registry,people,Chaudhary Akram,3e697d4a
+info,registry,people,D Abeyrathna,ee17d329
+info,registry,people,Dawood Ahmadzai,951686f5
+info,registry,people,Faisal Raza,dccb802c
+info,registry,people,Ibrahim Rahimi,f8ef3653
+info,registry,people,Jamshid Nasiri,2bc636df
+info,registry,people,Junaid Mehmood,3e46c4f3
+info,registry,people,Khizer Ahmed,723ca856
+info,registry,people,L Canessane,72a4c3b2
+info,registry,people,M Shahbaz Butt,5ef3c310
+info,registry,people,Mohammad Khan Rafah,bb5f73de
+info,registry,people,Mukhtar Ghulami,d3b1d991
+info,registry,people,Noman Amjad,c079c66a
+info,registry,people,Qamar Mushtaque,fc362c5d
+info,registry,people,Sher Sahak,8299b9a2
+info,registry,people,Syed Jawad Haider,26b96e00
+info,registry,people,Usman Khan,e8a552ef
+info,registry,people,Vinay Ravi,9c181b99
+info,registry,people,Virk Ali,f7f7bee0
+info,registry,people,Zada Sher,5cf163a5
+info,registry,people,Zaheer Zahiri,62f6d8ce
+ball,1,0.1,France,Mukhtar Ghulami,L Canessane,Vinay Ravi,0,0,,,,,,"",""
+ball,1,0.2,France,Mukhtar Ghulami,L Canessane,Vinay Ravi,0,0,,,,,,"",""
+ball,1,0.3,France,Mukhtar Ghulami,L Canessane,Vinay Ravi,0,0,,,,,,"",""
+ball,1,0.4,France,Mukhtar Ghulami,L Canessane,Vinay Ravi,2,0,,,,,,"",""
+ball,1,0.5,France,Mukhtar Ghulami,L Canessane,Vinay Ravi,0,0,,,,,,"",""
+ball,1,0.6,France,Mukhtar Ghulami,L Canessane,Vinay Ravi,1,0,,,,,,"",""
+ball,1,1.1,France,Mukhtar Ghulami,L Canessane,Qamar Mushtaque,6,0,,,,,,"",""
+ball,1,1.2,France,Mukhtar Ghulami,L Canessane,Qamar Mushtaque,1,0,,,,,,"",""
+ball,1,1.3,France,L Canessane,Mukhtar Ghulami,Qamar Mushtaque,0,0,,,,,,caught,L Canessane
+ball,1,1.4,France,Virk Ali,Mukhtar Ghulami,Qamar Mushtaque,0,0,,,,,,"",""
+ball,1,1.5,France,Virk Ali,Mukhtar Ghulami,Qamar Mushtaque,0,0,,,,,,"",""
+ball,1,1.6,France,Virk Ali,Mukhtar Ghulami,Qamar Mushtaque,0,0,,,,,,"",""
+ball,1,2.1,France,Mukhtar Ghulami,Virk Ali,Vinay Ravi,1,0,,,,,,"",""
+ball,1,2.2,France,Virk Ali,Mukhtar Ghulami,Vinay Ravi,1,0,,,,,,"",""
+ball,1,2.3,France,Mukhtar Ghulami,Virk Ali,Vinay Ravi,1,0,,,,,,"",""
+ball,1,2.4,France,Virk Ali,Mukhtar Ghulami,Vinay Ravi,0,0,,,,,,"",""
+ball,1,2.5,France,Virk Ali,Mukhtar Ghulami,Vinay Ravi,4,0,,,,,,"",""
+ball,1,2.6,France,Virk Ali,Mukhtar Ghulami,Vinay Ravi,0,0,,,,,,"",""
+ball,1,3.1,France,Mukhtar Ghulami,Virk Ali,Qamar Mushtaque,0,0,,,,,,"",""
+ball,1,3.2,France,Mukhtar Ghulami,Virk Ali,Qamar Mushtaque,0,1,,,,1,,"",""
+ball,1,3.3,France,Virk Ali,Mukhtar Ghulami,Qamar Mushtaque,2,0,,,,,,"",""
+ball,1,3.4,France,Virk Ali,Mukhtar Ghulami,Qamar Mushtaque,0,0,,,,,,"",""
+ball,1,3.5,France,Virk Ali,Mukhtar Ghulami,Qamar Mushtaque,4,0,,,,,,"",""
+ball,1,3.6,France,Virk Ali,Mukhtar Ghulami,Qamar Mushtaque,1,0,,,,,,"",""
+ball,1,4.1,France,Virk Ali,Mukhtar Ghulami,Vinay Ravi,0,0,,,,,,"",""
+ball,1,4.2,France,Virk Ali,Mukhtar Ghulami,Vinay Ravi,2,0,,,,,,"",""
+ball,1,4.3,France,Virk Ali,Mukhtar Ghulami,Vinay Ravi,1,0,,,,,,"",""
+ball,1,4.4,France,Mukhtar Ghulami,Virk Ali,Vinay Ravi,1,0,,,,,,"",""
+ball,1,4.5,France,Virk Ali,Mukhtar Ghulami,Vinay Ravi,0,0,,,,,,"",""
+ball,1,4.6,France,Virk Ali,Mukhtar Ghulami,Vinay Ravi,0,0,,,,,,"",""
+ball,1,5.1,France,Mukhtar Ghulami,Virk Ali,Chaudhary Akram,1,0,,,,,,"",""
+ball,1,5.2,France,Virk Ali,Mukhtar Ghulami,Chaudhary Akram,1,0,,,,,,"",""
+ball,1,5.3,France,Mukhtar Ghulami,Virk Ali,Chaudhary Akram,0,0,,,,,,caught,Mukhtar Ghulami
+ball,1,5.4,France,C Roberts,Virk Ali,Chaudhary Akram,1,0,,,,,,"",""
+ball,1,5.5,France,Virk Ali,C Roberts,Chaudhary Akram,0,0,,,,,,"",""
+ball,1,5.6,France,Virk Ali,C Roberts,Chaudhary Akram,0,0,,,,,,"",""
+ball,1,6.1,France,C Roberts,Virk Ali,M Shahbaz Butt,2,0,,,,,,"",""
+ball,1,6.2,France,C Roberts,Virk Ali,M Shahbaz Butt,0,0,,,,,,"",""
+ball,1,6.3,France,C Roberts,Virk Ali,M Shahbaz Butt,1,0,,,,,,"",""
+ball,1,6.4,France,Virk Ali,C Roberts,M Shahbaz Butt,0,0,,,,,,"",""
+ball,1,6.5,France,Virk Ali,C Roberts,M Shahbaz Butt,2,0,,,,,,"",""
+ball,1,6.6,France,Virk Ali,C Roberts,M Shahbaz Butt,0,0,,,,,,"",""
+ball,1,7.1,France,C Roberts,Virk Ali,D Abeyrathna,1,0,,,,,,"",""
+ball,1,7.2,France,Virk Ali,C Roberts,D Abeyrathna,2,0,,,,,,"",""
+ball,1,7.3,France,Virk Ali,C Roberts,D Abeyrathna,0,0,,,,,,"",""
+ball,1,7.4,France,Virk Ali,C Roberts,D Abeyrathna,4,0,,,,,,"",""
+ball,1,7.5,France,Virk Ali,C Roberts,D Abeyrathna,0,0,,,,,,"",""
+ball,1,7.6,France,Virk Ali,C Roberts,D Abeyrathna,0,0,,,,,,"",""
+ball,1,8.1,France,C Roberts,Virk Ali,M Shahbaz Butt,1,0,,,,,,"",""
+ball,1,8.2,France,Virk Ali,C Roberts,M Shahbaz Butt,0,0,,,,,,"",""
+ball,1,8.3,France,Virk Ali,C Roberts,M Shahbaz Butt,1,0,,,,,,"",""
+ball,1,8.4,France,C Roberts,Virk Ali,M Shahbaz Butt,1,0,,,,,,"",""
+ball,1,8.5,France,Virk Ali,C Roberts,M Shahbaz Butt,1,0,,,,,,"",""
+ball,1,8.6,France,C Roberts,Virk Ali,M Shahbaz Butt,0,0,,,,,,bowled,C Roberts
+ball,1,9.1,France,Virk Ali,Zada Sher,D Abeyrathna,1,0,,,,,,"",""
+ball,1,9.2,France,Zada Sher,Virk Ali,D Abeyrathna,0,0,,,,,,"",""
+ball,1,9.3,France,Zada Sher,Virk Ali,D Abeyrathna,4,0,,,,,,"",""
+ball,1,9.4,France,Zada Sher,Virk Ali,D Abeyrathna,1,0,,,,,,"",""
+ball,1,9.5,France,Virk Ali,Zada Sher,D Abeyrathna,0,0,,,,,,"",""
+ball,1,9.6,France,Virk Ali,Zada Sher,D Abeyrathna,6,0,,,,,,"",""
+ball,1,10.1,France,Zada Sher,Virk Ali,M Shahbaz Butt,1,0,,,,,,"",""
+ball,1,10.2,France,Virk Ali,Zada Sher,M Shahbaz Butt,1,0,,,,,,"",""
+ball,1,10.3,France,Zada Sher,Virk Ali,M Shahbaz Butt,0,0,,,,,,"",""
+ball,1,10.4,France,Zada Sher,Virk Ali,M Shahbaz Butt,1,0,,,,,,"",""
+ball,1,10.5,France,Virk Ali,Zada Sher,M Shahbaz Butt,1,0,,,,,,"",""
+ball,1,10.6,France,Zada Sher,Virk Ali,M Shahbaz Butt,2,0,,,,,,"",""
+ball,1,11.1,France,Virk Ali,Zada Sher,Syed Jawad Haider,1,0,,,,,,"",""
+ball,1,11.2,France,Zada Sher,Virk Ali,Syed Jawad Haider,1,0,,,,,,"",""
+ball,1,11.3,France,Virk Ali,Zada Sher,Syed Jawad Haider,1,0,,,,,,"",""
+ball,1,11.4,France,Zada Sher,Virk Ali,Syed Jawad Haider,2,0,,,,,,"",""
+ball,1,11.5,France,Zada Sher,Virk Ali,Syed Jawad Haider,4,0,,,,,,"",""
+ball,1,11.6,France,Zada Sher,Virk Ali,Syed Jawad Haider,4,0,,,,,,"",""
+ball,1,12.1,France,Virk Ali,Zada Sher,M Shahbaz Butt,0,1,,,1,,,"",""
+ball,1,12.2,France,Zada Sher,Virk Ali,M Shahbaz Butt,0,0,,,,,,"",""
+ball,1,12.3,France,Zada Sher,Virk Ali,M Shahbaz Butt,0,1,1,,,,,"",""
+ball,1,12.4,France,Zada Sher,Virk Ali,M Shahbaz Butt,2,0,,,,,,"",""
+ball,1,12.5,France,Zada Sher,Virk Ali,M Shahbaz Butt,1,0,,,,,,"",""
+ball,1,12.6,France,Virk Ali,Zada Sher,M Shahbaz Butt,0,0,,,,,,"",""
+ball,1,12.7,France,Virk Ali,Zada Sher,M Shahbaz Butt,4,0,,,,,,"",""
+ball,1,13.1,France,Zada Sher,Virk Ali,Syed Jawad Haider,4,0,,,,,,"",""
+ball,1,13.2,France,Zada Sher,Virk Ali,Syed Jawad Haider,0,3,3,,,,,"",""
+ball,1,13.3,France,Zada Sher,Virk Ali,Syed Jawad Haider,0,0,,,,,,caught,Zada Sher
+ball,1,13.4,France,Mohammad Khan Rafah,Virk Ali,Syed Jawad Haider,0,0,,,,,,"",""
+ball,1,13.5,France,Mohammad Khan Rafah,Virk Ali,Syed Jawad Haider,1,0,,,,,,"",""
+ball,1,13.6,France,Virk Ali,Mohammad Khan Rafah,Syed Jawad Haider,0,0,,,,,,"",""
+ball,1,13.7,France,Virk Ali,Mohammad Khan Rafah,Syed Jawad Haider,1,0,,,,,,"",""
+ball,1,14.1,France,Virk Ali,Mohammad Khan Rafah,Chaudhary Akram,4,0,,,,,,"",""
+ball,1,14.2,France,Virk Ali,Mohammad Khan Rafah,Chaudhary Akram,2,0,,,,,,"",""
+ball,1,14.3,France,Virk Ali,Mohammad Khan Rafah,Chaudhary Akram,1,0,,,,,,"",""
+ball,1,14.4,France,Mohammad Khan Rafah,Virk Ali,Chaudhary Akram,6,0,,,,,,"",""
+ball,1,14.5,France,Mohammad Khan Rafah,Virk Ali,Chaudhary Akram,2,0,,,,,,"",""
+ball,1,14.6,France,Mohammad Khan Rafah,Virk Ali,Chaudhary Akram,1,0,,,,,,"",""
+ball,1,15.1,France,Mohammad Khan Rafah,Virk Ali,Syed Jawad Haider,0,0,,,,,,"",""
+ball,1,15.2,France,Mohammad Khan Rafah,Virk Ali,Syed Jawad Haider,0,2,,,2,,,"",""
+ball,1,15.3,France,Mohammad Khan Rafah,Virk Ali,Syed Jawad Haider,0,0,,,,,,"",""
+ball,1,15.4,France,Mohammad Khan Rafah,Virk Ali,Syed Jawad Haider,4,0,,,,,,"",""
+ball,1,15.5,France,Mohammad Khan Rafah,Virk Ali,Syed Jawad Haider,0,1,1,,,,,"",""
+ball,1,15.6,France,Mohammad Khan Rafah,Virk Ali,Syed Jawad Haider,0,0,,,,,,"",""
+ball,1,15.7,France,Mohammad Khan Rafah,Virk Ali,Syed Jawad Haider,1,0,,,,,,"",""
+ball,1,16.1,France,Mohammad Khan Rafah,Virk Ali,Vinay Ravi,0,0,,,,,,"",""
+ball,1,16.2,France,Mohammad Khan Rafah,Virk Ali,Vinay Ravi,4,0,,,,,,"",""
+ball,1,16.3,France,Mohammad Khan Rafah,Virk Ali,Vinay Ravi,0,1,1,,,,,"",""
+ball,1,16.4,France,Mohammad Khan Rafah,Virk Ali,Vinay Ravi,0,0,,,,,,"",""
+ball,1,16.5,France,Mohammad Khan Rafah,Virk Ali,Vinay Ravi,0,0,,,,,,caught,Mohammad Khan Rafah
+ball,1,16.6,France,Noman Amjad,Virk Ali,Vinay Ravi,0,0,,,,,,caught,Noman Amjad
+ball,1,16.7,France,Zaheer Zahiri,Virk Ali,Vinay Ravi,0,0,,,,,,caught,Zaheer Zahiri
+ball,1,17.1,France,Virk Ali,Jamshid Nasiri,Qamar Mushtaque,0,0,,,,,,"",""
+ball,1,17.2,France,Virk Ali,Jamshid Nasiri,Qamar Mushtaque,1,0,,,,,,"",""
+ball,1,17.3,France,Jamshid Nasiri,Virk Ali,Qamar Mushtaque,0,0,,,,,,bowled,Jamshid Nasiri
+ball,1,17.4,France,Usman Khan,Virk Ali,Qamar Mushtaque,0,0,,,,,,bowled,Usman Khan
+ball,1,17.5,France,Dawood Ahmadzai,Virk Ali,Qamar Mushtaque,0,0,,,,,,"",""
+ball,1,17.6,France,Dawood Ahmadzai,Virk Ali,Qamar Mushtaque,1,0,,,,,,"",""
+ball,1,18.1,France,Dawood Ahmadzai,Virk Ali,Chaudhary Akram,1,0,,,,,,"",""
+ball,1,18.2,France,Virk Ali,Dawood Ahmadzai,Chaudhary Akram,1,0,,,,,,"",""
+ball,1,18.3,France,Dawood Ahmadzai,Virk Ali,Chaudhary Akram,1,0,,,,,,"",""
+ball,1,18.4,France,Virk Ali,Dawood Ahmadzai,Chaudhary Akram,0,0,,,,,,"",""
+ball,1,18.5,France,Virk Ali,Dawood Ahmadzai,Chaudhary Akram,2,0,,,,,,"",""
+ball,1,18.6,France,Virk Ali,Dawood Ahmadzai,Chaudhary Akram,0,0,,,,,,caught,Virk Ali
+ball,2,0.1,Norway,Khizer Ahmed,D Abeyrathna,Noman Amjad,4,0,,,,,,"",""
+ball,2,0.2,Norway,Khizer Ahmed,D Abeyrathna,Noman Amjad,4,0,,,,,,"",""
+ball,2,0.3,Norway,Khizer Ahmed,D Abeyrathna,Noman Amjad,0,0,,,,,,"",""
+ball,2,0.4,Norway,Khizer Ahmed,D Abeyrathna,Noman Amjad,0,0,,,,,,"",""
+ball,2,0.5,Norway,Khizer Ahmed,D Abeyrathna,Noman Amjad,0,0,,,,,,"",""
+ball,2,0.6,Norway,Khizer Ahmed,D Abeyrathna,Noman Amjad,0,0,,,,,,"",""
+ball,2,1.1,Norway,D Abeyrathna,Khizer Ahmed,Zaheer Zahiri,1,0,,,,,,"",""
+ball,2,1.2,Norway,Khizer Ahmed,D Abeyrathna,Zaheer Zahiri,0,0,,,,,,"",""
+ball,2,1.3,Norway,Khizer Ahmed,D Abeyrathna,Zaheer Zahiri,0,0,,,,,,"",""
+ball,2,1.4,Norway,Khizer Ahmed,D Abeyrathna,Zaheer Zahiri,2,0,,,,,,"",""
+ball,2,1.5,Norway,Khizer Ahmed,D Abeyrathna,Zaheer Zahiri,0,1,1,,,,,"",""
+ball,2,1.6,Norway,Khizer Ahmed,D Abeyrathna,Zaheer Zahiri,0,1,1,,,,,"",""
+ball,2,1.7,Norway,Khizer Ahmed,D Abeyrathna,Zaheer Zahiri,0,0,,,,,,"",""
+ball,2,1.8,Norway,Khizer Ahmed,D Abeyrathna,Zaheer Zahiri,0,0,,,,,,"",""
+ball,2,2.1,Norway,D Abeyrathna,Khizer Ahmed,Noman Amjad,0,0,,,,,,"",""
+ball,2,2.2,Norway,D Abeyrathna,Khizer Ahmed,Noman Amjad,0,0,,,,,,"",""
+ball,2,2.3,Norway,D Abeyrathna,Khizer Ahmed,Noman Amjad,6,0,,,,,,"",""
+ball,2,2.4,Norway,D Abeyrathna,Khizer Ahmed,Noman Amjad,0,0,,,,,,"",""
+ball,2,2.5,Norway,D Abeyrathna,Khizer Ahmed,Noman Amjad,1,0,,,,,,"",""
+ball,2,2.6,Norway,Khizer Ahmed,D Abeyrathna,Noman Amjad,0,0,,,,,,"",""
+ball,2,3.1,Norway,D Abeyrathna,Khizer Ahmed,Zaheer Zahiri,0,0,,,,,,caught,D Abeyrathna
+ball,2,3.2,Norway,Chaudhary Akram,Khizer Ahmed,Zaheer Zahiri,0,0,,,,,,"",""
+ball,2,3.3,Norway,Chaudhary Akram,Khizer Ahmed,Zaheer Zahiri,1,0,,,,,,"",""
+ball,2,3.4,Norway,Khizer Ahmed,Chaudhary Akram,Zaheer Zahiri,2,0,,,,,,"",""
+ball,2,3.5,Norway,Khizer Ahmed,Chaudhary Akram,Zaheer Zahiri,4,0,,,,,,"",""
+ball,2,3.6,Norway,Khizer Ahmed,Chaudhary Akram,Zaheer Zahiri,0,0,,,,,,"",""
+ball,2,4.1,Norway,Chaudhary Akram,Khizer Ahmed,Noman Amjad,1,0,,,,,,"",""
+ball,2,4.2,Norway,Khizer Ahmed,Chaudhary Akram,Noman Amjad,4,0,,,,,,"",""
+ball,2,4.3,Norway,Khizer Ahmed,Chaudhary Akram,Noman Amjad,4,0,,,,,,"",""
+ball,2,4.4,Norway,Khizer Ahmed,Chaudhary Akram,Noman Amjad,0,0,,,,,,run out,Chaudhary Akram
+ball,2,4.5,Norway,Junaid Mehmood,Khizer Ahmed,Noman Amjad,0,0,,,,,,"",""
+ball,2,4.6,Norway,Junaid Mehmood,Khizer Ahmed,Noman Amjad,0,0,,,,,,"",""
+ball,2,5.1,Norway,Khizer Ahmed,Junaid Mehmood,Zaheer Zahiri,0,0,,,,,,"",""
+ball,2,5.2,Norway,Khizer Ahmed,Junaid Mehmood,Zaheer Zahiri,1,0,,,,,,"",""
+ball,2,5.3,Norway,Junaid Mehmood,Khizer Ahmed,Zaheer Zahiri,1,0,,,,,,"",""
+ball,2,5.4,Norway,Khizer Ahmed,Junaid Mehmood,Zaheer Zahiri,3,0,,,,,,"",""
+ball,2,5.5,Norway,Junaid Mehmood,Khizer Ahmed,Zaheer Zahiri,0,0,,,,,,"",""
+ball,2,5.6,Norway,Junaid Mehmood,Khizer Ahmed,Zaheer Zahiri,0,0,,,,,,"",""
+ball,2,6.1,Norway,Khizer Ahmed,Junaid Mehmood,Dawood Ahmadzai,0,0,,,,,,lbw,Khizer Ahmed
+ball,2,6.2,Norway,Sher Sahak,Junaid Mehmood,Dawood Ahmadzai,0,0,,,,,,"",""
+ball,2,6.3,Norway,Sher Sahak,Junaid Mehmood,Dawood Ahmadzai,1,0,,,,,,"",""
+ball,2,6.4,Norway,Junaid Mehmood,Sher Sahak,Dawood Ahmadzai,0,0,,,,,,"",""
+ball,2,6.5,Norway,Junaid Mehmood,Sher Sahak,Dawood Ahmadzai,0,0,,,,,,"",""
+ball,2,6.6,Norway,Junaid Mehmood,Sher Sahak,Dawood Ahmadzai,1,0,,,,,,"",""
+ball,2,7.1,Norway,Junaid Mehmood,Sher Sahak,Zaheer Zahiri,1,0,,,,,,"",""
+ball,2,7.2,Norway,Sher Sahak,Junaid Mehmood,Zaheer Zahiri,1,0,,,,,,"",""
+ball,2,7.3,Norway,Junaid Mehmood,Sher Sahak,Zaheer Zahiri,0,0,,,,,,"",""
+ball,2,7.4,Norway,Junaid Mehmood,Sher Sahak,Zaheer Zahiri,1,0,,,,,,"",""
+ball,2,7.5,Norway,Sher Sahak,Junaid Mehmood,Zaheer Zahiri,6,0,,,,,,"",""
+ball,2,7.6,Norway,Sher Sahak,Junaid Mehmood,Zaheer Zahiri,1,1,,1,,,,"",""
+ball,2,7.7,Norway,Junaid Mehmood,Sher Sahak,Zaheer Zahiri,1,0,,,,,,"",""
+ball,2,8.1,Norway,Junaid Mehmood,Sher Sahak,Dawood Ahmadzai,0,0,,,,,,"",""
+ball,2,8.2,Norway,Junaid Mehmood,Sher Sahak,Dawood Ahmadzai,0,0,,,,,,"",""
+ball,2,8.3,Norway,Junaid Mehmood,Sher Sahak,Dawood Ahmadzai,2,0,,,,,,"",""
+ball,2,8.4,Norway,Junaid Mehmood,Sher Sahak,Dawood Ahmadzai,1,0,,,,,,"",""
+ball,2,8.5,Norway,Sher Sahak,Junaid Mehmood,Dawood Ahmadzai,0,0,,,,,,"",""
+ball,2,8.6,Norway,Sher Sahak,Junaid Mehmood,Dawood Ahmadzai,0,0,,,,,,"",""
+ball,2,9.1,Norway,Junaid Mehmood,Sher Sahak,Zada Sher,2,0,,,,,,"",""
+ball,2,9.2,Norway,Junaid Mehmood,Sher Sahak,Zada Sher,0,0,,,,,,lbw,Junaid Mehmood
+ball,2,9.3,Norway,Faisal Raza,Sher Sahak,Zada Sher,0,0,,,,,,"",""
+ball,2,9.4,Norway,Faisal Raza,Sher Sahak,Zada Sher,0,0,,,,,,"",""
+ball,2,9.5,Norway,Faisal Raza,Sher Sahak,Zada Sher,0,0,,,,,,"",""
+ball,2,9.6,Norway,Faisal Raza,Sher Sahak,Zada Sher,0,0,,,,,,"",""
+ball,2,10.1,Norway,Sher Sahak,Faisal Raza,Dawood Ahmadzai,2,0,,,,,,"",""
+ball,2,10.2,Norway,Sher Sahak,Faisal Raza,Dawood Ahmadzai,1,0,,,,,,"",""
+ball,2,10.3,Norway,Faisal Raza,Sher Sahak,Dawood Ahmadzai,0,0,,,,,,"",""
+ball,2,10.4,Norway,Faisal Raza,Sher Sahak,Dawood Ahmadzai,0,0,,,,,,"",""
+ball,2,10.5,Norway,Faisal Raza,Sher Sahak,Dawood Ahmadzai,1,0,,,,,,"",""
+ball,2,10.6,Norway,Sher Sahak,Faisal Raza,Dawood Ahmadzai,0,1,,,,1,,"",""
+ball,2,11.1,Norway,Sher Sahak,Faisal Raza,Zada Sher,0,0,,,,,,"",""
+ball,2,11.2,Norway,Sher Sahak,Faisal Raza,Zada Sher,3,0,,,,,,"",""
+ball,2,11.3,Norway,Faisal Raza,Sher Sahak,Zada Sher,0,0,,,,,,"",""
+ball,2,11.4,Norway,Faisal Raza,Sher Sahak,Zada Sher,0,0,,,,,,"",""
+ball,2,11.5,Norway,Faisal Raza,Sher Sahak,Zada Sher,6,0,,,,,,"",""
+ball,2,11.6,Norway,Faisal Raza,Sher Sahak,Zada Sher,1,0,,,,,,"",""
+ball,2,12.1,Norway,Faisal Raza,Sher Sahak,Dawood Ahmadzai,1,0,,,,,,"",""
+ball,2,12.2,Norway,Sher Sahak,Faisal Raza,Dawood Ahmadzai,1,0,,,,,,"",""
+ball,2,12.3,Norway,Faisal Raza,Sher Sahak,Dawood Ahmadzai,0,0,,,,,,"",""
+ball,2,12.4,Norway,Faisal Raza,Sher Sahak,Dawood Ahmadzai,0,0,,,,,,"",""
+ball,2,12.5,Norway,Faisal Raza,Sher Sahak,Dawood Ahmadzai,0,0,,,,,,"",""
+ball,2,12.6,Norway,Faisal Raza,Sher Sahak,Dawood Ahmadzai,0,0,,,,,,"",""
+ball,2,13.1,Norway,Sher Sahak,Faisal Raza,Jamshid Nasiri,1,0,,,,,,"",""
+ball,2,13.2,Norway,Faisal Raza,Sher Sahak,Jamshid Nasiri,2,0,,,,,,"",""
+ball,2,13.3,Norway,Faisal Raza,Sher Sahak,Jamshid Nasiri,6,0,,,,,,"",""
+ball,2,13.4,Norway,Faisal Raza,Sher Sahak,Jamshid Nasiri,0,0,,,,,,"",""
+ball,2,13.5,Norway,Faisal Raza,Sher Sahak,Jamshid Nasiri,0,0,,,,,,caught,Faisal Raza
+ball,2,13.6,Norway,Ibrahim Rahimi,Sher Sahak,Jamshid Nasiri,4,0,,,,,,"",""
+ball,2,14.1,Norway,Sher Sahak,Ibrahim Rahimi,Usman Khan,1,0,,,,,,"",""
+ball,2,14.2,Norway,Ibrahim Rahimi,Sher Sahak,Usman Khan,1,0,,,,,,"",""
+ball,2,14.3,Norway,Sher Sahak,Ibrahim Rahimi,Usman Khan,0,0,,,,,,"",""
+ball,2,14.4,Norway,Sher Sahak,Ibrahim Rahimi,Usman Khan,1,0,,,,,,"",""
+ball,2,14.5,Norway,Ibrahim Rahimi,Sher Sahak,Usman Khan,1,0,,,,,,"",""
+ball,2,14.6,Norway,Sher Sahak,Ibrahim Rahimi,Usman Khan,2,0,,,,,,"",""
+ball,2,15.1,Norway,Ibrahim Rahimi,Sher Sahak,Mohammad Khan Rafah,0,0,,,,,,"",""
+ball,2,15.2,Norway,Ibrahim Rahimi,Sher Sahak,Mohammad Khan Rafah,2,0,,,,,,"",""
+ball,2,15.3,Norway,Ibrahim Rahimi,Sher Sahak,Mohammad Khan Rafah,0,0,,,,,,"",""
+ball,2,15.4,Norway,Ibrahim Rahimi,Sher Sahak,Mohammad Khan Rafah,0,0,,,,,,"",""
+ball,2,15.5,Norway,Ibrahim Rahimi,Sher Sahak,Mohammad Khan Rafah,4,0,,,,,,"",""
+ball,2,15.6,Norway,Ibrahim Rahimi,Sher Sahak,Mohammad Khan Rafah,0,0,,,,,,"",""
+ball,2,16.1,Norway,Sher Sahak,Ibrahim Rahimi,Usman Khan,2,0,,,,,,"",""
+ball,2,16.2,Norway,Sher Sahak,Ibrahim Rahimi,Usman Khan,1,0,,,,,,"",""
+ball,2,16.3,Norway,Ibrahim Rahimi,Sher Sahak,Usman Khan,2,0,,,,,,"",""
+ball,2,16.4,Norway,Ibrahim Rahimi,Sher Sahak,Usman Khan,1,0,,,,,,"",""
+ball,2,16.5,Norway,Sher Sahak,Ibrahim Rahimi,Usman Khan,0,0,,,,,,"",""
+ball,2,16.6,Norway,Sher Sahak,Ibrahim Rahimi,Usman Khan,1,0,,,,,,"",""
+ball,2,17.1,Norway,Sher Sahak,Ibrahim Rahimi,Mohammad Khan Rafah,2,0,,,,,,"",""
+ball,2,17.2,Norway,Sher Sahak,Ibrahim Rahimi,Mohammad Khan Rafah,1,0,,,,,,"",""
+ball,2,17.3,Norway,Ibrahim Rahimi,Sher Sahak,Mohammad Khan Rafah,0,0,,,,,,caught,Ibrahim Rahimi
+ball,2,17.4,Norway,Syed Jawad Haider,Sher Sahak,Mohammad Khan Rafah,1,0,,,,,,"",""
+ball,2,17.5,Norway,Sher Sahak,Syed Jawad Haider,Mohammad Khan Rafah,1,0,,,,,,"",""
+ball,2,17.6,Norway,Syed Jawad Haider,Sher Sahak,Mohammad Khan Rafah,0,0,,,,,,"",""
+ball,2,18.1,Norway,Sher Sahak,Syed Jawad Haider,Usman Khan,6,0,,,,,,"",""
+ball,2,18.2,Norway,Sher Sahak,Syed Jawad Haider,Usman Khan,0,1,,,,1,,"",""
+ball,2,18.3,Norway,Syed Jawad Haider,Sher Sahak,Usman Khan,0,0,,,,,,"",""
+ball,2,18.4,Norway,Syed Jawad Haider,Sher Sahak,Usman Khan,1,0,,,,,,"",""
+ball,2,18.5,Norway,Sher Sahak,Syed Jawad Haider,Usman Khan,1,0,,,,,,"",""
+ball,2,18.6,Norway,Syed Jawad Haider,Sher Sahak,Usman Khan,0,0,,,,,,caught and bowled,Syed Jawad Haider
+ball,2,19.1,Norway,Sher Sahak,Vinay Ravi,Mohammad Khan Rafah,0,0,,,,,,caught and bowled,Sher Sahak
+ball,2,19.2,Norway,Qamar Mushtaque,Vinay Ravi,Mohammad Khan Rafah,0,1,,,1,,,"",""
+ball,2,19.3,Norway,Vinay Ravi,Qamar Mushtaque,Mohammad Khan Rafah,0,0,,,,,,"",""
+ball,2,19.4,Norway,Vinay Ravi,Qamar Mushtaque,Mohammad Khan Rafah,0,0,,,,,,caught,Vinay Ravi
+ball,2,19.5,Norway,M Shahbaz Butt,Qamar Mushtaque,Mohammad Khan Rafah,0,1,,,1,,,"",""
+ball,2,19.6,Norway,Qamar Mushtaque,M Shahbaz Butt,Mohammad Khan Rafah,1,0,,,,,,"",""

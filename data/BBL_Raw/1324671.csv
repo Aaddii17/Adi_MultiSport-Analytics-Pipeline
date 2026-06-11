@@ -1,0 +1,243 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Adelaide Strikers
+info,team,Perth Scorchers
+info,gender,male
+info,season,2022/23
+info,date,2023/01/20
+info,event,Big Bash League
+info,match_number,48
+info,venue,Adelaide Oval
+info,city,Adelaide
+info,toss_winner,Adelaide Strikers
+info,toss_decision,bat
+info,player_of_match,DA Payne
+info,umpire,NR Johnstone
+info,umpire,Troy Penman
+info,reserve_umpire,D Bhatt
+info,match_referee,SD Fry
+info,winner,Perth Scorchers
+info,winner_wickets,7
+info,player,Adelaide Strikers,TM Head
+info,player,Adelaide Strikers,MW Short
+info,player,Adelaide Strikers,T Kelly
+info,player,Adelaide Strikers,AT Carey
+info,player,Adelaide Strikers,AJ Hose
+info,player,Adelaide Strikers,C de Grandhomme
+info,player,Adelaide Strikers,HJ Nielsen
+info,player,Adelaide Strikers,BAD Manenti
+info,player,Adelaide Strikers,CJ Boyce
+info,player,Adelaide Strikers,WA Agar
+info,player,Adelaide Strikers,PM Siddle
+info,player,Perth Scorchers,SS Eskinazi
+info,player,Perth Scorchers,CT Bancroft
+info,player,Perth Scorchers,AM Hardie
+info,player,Perth Scorchers,JP Inglis
+info,player,Perth Scorchers,AJ Turner
+info,player,Perth Scorchers,NR Hobson
+info,player,Perth Scorchers,AC Agar
+info,player,Perth Scorchers,AJ Tye
+info,player,Perth Scorchers,DA Payne
+info,player,Perth Scorchers,P Hatzoglou
+info,player,Perth Scorchers,LR Morris
+info,registry,people,AC Agar,a2421394
+info,registry,people,AJ Hose,104e88a4
+info,registry,people,AJ Turner,ff1e12a0
+info,registry,people,AJ Tye,7c7d63a2
+info,registry,people,AM Hardie,d405c0d5
+info,registry,people,AT Carey,69d03465
+info,registry,people,BAD Manenti,ab21795b
+info,registry,people,C de Grandhomme,94d7f855
+info,registry,people,CJ Boyce,51a60c16
+info,registry,people,CT Bancroft,399b0b94
+info,registry,people,D Bhatt,b34f743c
+info,registry,people,DA Payne,6c79c098
+info,registry,people,HJ Nielsen,0ea1455a
+info,registry,people,JP Inglis,989889ff
+info,registry,people,LR Morris,b08e58e2
+info,registry,people,MW Short,a90e53ec
+info,registry,people,NR Hobson,4312e0fd
+info,registry,people,NR Johnstone,ce274b6a
+info,registry,people,P Hatzoglou,6f95e5fa
+info,registry,people,PM Siddle,bd93fea4
+info,registry,people,SD Fry,6b725ed1
+info,registry,people,SS Eskinazi,75cbed9b
+info,registry,people,T Kelly,6ceb94d0
+info,registry,people,TM Head,12b610c2
+info,registry,people,Troy Penman,0aa42c26
+info,registry,people,WA Agar,15de1f5d
+ball,1,0.1,Adelaide Strikers,TM Head,MW Short,DA Payne,1,0,,,,,,"",""
+ball,1,0.2,Adelaide Strikers,MW Short,TM Head,DA Payne,0,0,,,,,,"",""
+ball,1,0.3,Adelaide Strikers,MW Short,TM Head,DA Payne,0,0,,,,,,"",""
+ball,1,0.4,Adelaide Strikers,MW Short,TM Head,DA Payne,0,0,,,,,,"",""
+ball,1,0.5,Adelaide Strikers,MW Short,TM Head,DA Payne,0,0,,,,,,bowled,MW Short
+ball,1,0.6,Adelaide Strikers,T Kelly,TM Head,DA Payne,1,0,,,,,,"",""
+ball,1,1.1,Adelaide Strikers,T Kelly,TM Head,AC Agar,0,0,,,,,,"",""
+ball,1,1.2,Adelaide Strikers,T Kelly,TM Head,AC Agar,0,0,,,,,,"",""
+ball,1,1.3,Adelaide Strikers,T Kelly,TM Head,AC Agar,0,0,,,,,,"",""
+ball,1,1.4,Adelaide Strikers,T Kelly,TM Head,AC Agar,0,0,,,,,,"",""
+ball,1,1.5,Adelaide Strikers,T Kelly,TM Head,AC Agar,1,0,,,,,,"",""
+ball,1,1.6,Adelaide Strikers,TM Head,T Kelly,AC Agar,0,1,1,,,,,"",""
+ball,1,1.7,Adelaide Strikers,TM Head,T Kelly,AC Agar,0,0,,,,,,"",""
+ball,1,2.1,Adelaide Strikers,T Kelly,TM Head,DA Payne,3,0,,,,,,"",""
+ball,1,2.2,Adelaide Strikers,TM Head,T Kelly,DA Payne,0,1,1,,,,,"",""
+ball,1,2.3,Adelaide Strikers,TM Head,T Kelly,DA Payne,4,0,,,,,,"",""
+ball,1,2.4,Adelaide Strikers,TM Head,T Kelly,DA Payne,0,0,,,,,,"",""
+ball,1,2.5,Adelaide Strikers,TM Head,T Kelly,DA Payne,4,0,,,,,,"",""
+ball,1,2.6,Adelaide Strikers,TM Head,T Kelly,DA Payne,0,0,,,,,,caught,TM Head
+ball,1,2.7,Adelaide Strikers,AT Carey,T Kelly,DA Payne,0,0,,,,,,"",""
+ball,1,3.1,Adelaide Strikers,T Kelly,AT Carey,LR Morris,0,0,,,,,,"",""
+ball,1,3.2,Adelaide Strikers,T Kelly,AT Carey,LR Morris,0,0,,,,,,"",""
+ball,1,3.3,Adelaide Strikers,T Kelly,AT Carey,LR Morris,0,0,,,,,,"",""
+ball,1,3.4,Adelaide Strikers,T Kelly,AT Carey,LR Morris,4,0,,,,,,"",""
+ball,1,3.5,Adelaide Strikers,T Kelly,AT Carey,LR Morris,0,0,,,,,,"",""
+ball,1,3.6,Adelaide Strikers,T Kelly,AT Carey,LR Morris,0,0,,,,,,caught and bowled,T Kelly
+ball,1,4.1,Adelaide Strikers,AT Carey,AJ Hose,P Hatzoglou,0,0,,,,,,"",""
+ball,1,4.2,Adelaide Strikers,AT Carey,AJ Hose,P Hatzoglou,1,0,,,,,,"",""
+ball,1,4.3,Adelaide Strikers,AJ Hose,AT Carey,P Hatzoglou,1,0,,,,,,"",""
+ball,1,4.4,Adelaide Strikers,AT Carey,AJ Hose,P Hatzoglou,0,0,,,,,,"",""
+ball,1,4.5,Adelaide Strikers,AT Carey,AJ Hose,P Hatzoglou,0,0,,,,,,caught,AT Carey
+ball,1,4.6,Adelaide Strikers,C de Grandhomme,AJ Hose,P Hatzoglou,1,0,,,,,,"",""
+ball,1,5.1,Adelaide Strikers,C de Grandhomme,AJ Hose,AC Agar,4,0,,,,,,"",""
+ball,1,5.2,Adelaide Strikers,C de Grandhomme,AJ Hose,AC Agar,0,0,,,,,,"",""
+ball,1,5.3,Adelaide Strikers,C de Grandhomme,AJ Hose,AC Agar,2,0,,,,,,"",""
+ball,1,5.4,Adelaide Strikers,C de Grandhomme,AJ Hose,AC Agar,0,0,,,,,,"",""
+ball,1,5.5,Adelaide Strikers,C de Grandhomme,AJ Hose,AC Agar,0,0,,,,,,"",""
+ball,1,5.6,Adelaide Strikers,C de Grandhomme,AJ Hose,AC Agar,0,0,,,,,,"",""
+ball,1,6.1,Adelaide Strikers,AJ Hose,C de Grandhomme,LR Morris,1,0,,,,,,"",""
+ball,1,6.2,Adelaide Strikers,C de Grandhomme,AJ Hose,LR Morris,1,0,,,,,,"",""
+ball,1,6.3,Adelaide Strikers,AJ Hose,C de Grandhomme,LR Morris,0,0,,,,,,"",""
+ball,1,6.4,Adelaide Strikers,AJ Hose,C de Grandhomme,LR Morris,2,0,,,,,,"",""
+ball,1,6.5,Adelaide Strikers,AJ Hose,C de Grandhomme,LR Morris,1,0,,,,,,"",""
+ball,1,6.6,Adelaide Strikers,C de Grandhomme,AJ Hose,LR Morris,1,0,,,,,,"",""
+ball,1,7.1,Adelaide Strikers,C de Grandhomme,AJ Hose,P Hatzoglou,2,0,,,,,,"",""
+ball,1,7.2,Adelaide Strikers,C de Grandhomme,AJ Hose,P Hatzoglou,0,0,,,,,,caught,C de Grandhomme
+ball,1,7.3,Adelaide Strikers,HJ Nielsen,AJ Hose,P Hatzoglou,0,0,,,,,,"",""
+ball,1,7.4,Adelaide Strikers,HJ Nielsen,AJ Hose,P Hatzoglou,0,0,,,,,,"",""
+ball,1,7.5,Adelaide Strikers,HJ Nielsen,AJ Hose,P Hatzoglou,2,0,,,,,,"",""
+ball,1,7.6,Adelaide Strikers,HJ Nielsen,AJ Hose,P Hatzoglou,0,0,,,,,,"",""
+ball,1,8.1,Adelaide Strikers,AJ Hose,HJ Nielsen,AJ Tye,0,0,,,,,,"",""
+ball,1,8.2,Adelaide Strikers,AJ Hose,HJ Nielsen,AJ Tye,4,0,,,,,,"",""
+ball,1,8.3,Adelaide Strikers,AJ Hose,HJ Nielsen,AJ Tye,0,1,,,,1,,"",""
+ball,1,8.4,Adelaide Strikers,HJ Nielsen,AJ Hose,AJ Tye,0,0,,,,,,"",""
+ball,1,8.5,Adelaide Strikers,HJ Nielsen,AJ Hose,AJ Tye,0,0,,,,,,"",""
+ball,1,8.6,Adelaide Strikers,HJ Nielsen,AJ Hose,AJ Tye,0,0,,,,,,"",""
+ball,1,9.1,Adelaide Strikers,AJ Hose,HJ Nielsen,AC Agar,1,0,,,,,,"",""
+ball,1,9.2,Adelaide Strikers,HJ Nielsen,AJ Hose,AC Agar,0,0,,,,,,"",""
+ball,1,9.3,Adelaide Strikers,HJ Nielsen,AJ Hose,AC Agar,1,0,,,,,,"",""
+ball,1,9.4,Adelaide Strikers,AJ Hose,HJ Nielsen,AC Agar,1,0,,,,,,"",""
+ball,1,9.5,Adelaide Strikers,HJ Nielsen,AJ Hose,AC Agar,0,0,,,,,,"",""
+ball,1,9.6,Adelaide Strikers,HJ Nielsen,AJ Hose,AC Agar,1,0,,,,,,"",""
+ball,1,10.1,Adelaide Strikers,HJ Nielsen,AJ Hose,P Hatzoglou,4,0,,,,,,"",""
+ball,1,10.2,Adelaide Strikers,HJ Nielsen,AJ Hose,P Hatzoglou,0,0,,,,,,caught,HJ Nielsen
+ball,1,10.3,Adelaide Strikers,BAD Manenti,AJ Hose,P Hatzoglou,0,0,,,,,,"",""
+ball,1,10.4,Adelaide Strikers,BAD Manenti,AJ Hose,P Hatzoglou,1,0,,,,,,"",""
+ball,1,10.5,Adelaide Strikers,AJ Hose,BAD Manenti,P Hatzoglou,1,0,,,,,,"",""
+ball,1,10.6,Adelaide Strikers,BAD Manenti,AJ Hose,P Hatzoglou,1,0,,,,,,"",""
+ball,1,11.1,Adelaide Strikers,BAD Manenti,AJ Hose,AC Agar,0,0,,,,,,"",""
+ball,1,11.2,Adelaide Strikers,BAD Manenti,AJ Hose,AC Agar,1,0,,,,,,"",""
+ball,1,11.3,Adelaide Strikers,AJ Hose,BAD Manenti,AC Agar,1,0,,,,,,"",""
+ball,1,11.4,Adelaide Strikers,BAD Manenti,AJ Hose,AC Agar,1,0,,,,,,"",""
+ball,1,11.5,Adelaide Strikers,AJ Hose,BAD Manenti,AC Agar,0,0,,,,,,"",""
+ball,1,11.6,Adelaide Strikers,AJ Hose,BAD Manenti,AC Agar,1,0,,,,,,"",""
+ball,1,12.1,Adelaide Strikers,AJ Hose,BAD Manenti,LR Morris,0,0,,,,,,"",""
+ball,1,12.2,Adelaide Strikers,AJ Hose,BAD Manenti,LR Morris,1,0,,,,,,"",""
+ball,1,12.3,Adelaide Strikers,BAD Manenti,AJ Hose,LR Morris,0,0,,,,,,caught,BAD Manenti
+ball,1,12.4,Adelaide Strikers,CJ Boyce,AJ Hose,LR Morris,1,0,,,,,,"",""
+ball,1,12.5,Adelaide Strikers,AJ Hose,CJ Boyce,LR Morris,4,0,,,,,,"",""
+ball,1,12.6,Adelaide Strikers,AJ Hose,CJ Boyce,LR Morris,2,0,,,,,,"",""
+ball,1,13.1,Adelaide Strikers,CJ Boyce,AJ Hose,AJ Tye,0,0,,,,,,"",""
+ball,1,13.2,Adelaide Strikers,CJ Boyce,AJ Hose,AJ Tye,0,0,,,,,,"",""
+ball,1,13.3,Adelaide Strikers,CJ Boyce,AJ Hose,AJ Tye,1,0,,,,,,"",""
+ball,1,13.4,Adelaide Strikers,AJ Hose,CJ Boyce,AJ Tye,0,0,,,,,,"",""
+ball,1,13.5,Adelaide Strikers,AJ Hose,CJ Boyce,AJ Tye,4,0,,,,,,"",""
+ball,1,13.6,Adelaide Strikers,AJ Hose,CJ Boyce,AJ Tye,1,0,,,,,,"",""
+ball,1,14.1,Adelaide Strikers,AJ Hose,CJ Boyce,DA Payne,4,0,,,,,,"",""
+ball,1,14.2,Adelaide Strikers,AJ Hose,CJ Boyce,DA Payne,0,0,,,,,,caught and bowled,AJ Hose
+ball,1,14.3,Adelaide Strikers,WA Agar,CJ Boyce,DA Payne,0,0,,,,,,"",""
+ball,1,14.4,Adelaide Strikers,WA Agar,CJ Boyce,DA Payne,1,0,,,,,,"",""
+ball,1,14.5,Adelaide Strikers,CJ Boyce,WA Agar,DA Payne,0,0,,,,,,"",""
+ball,1,14.6,Adelaide Strikers,CJ Boyce,WA Agar,DA Payne,1,0,,,,,,"",""
+ball,1,15.1,Adelaide Strikers,CJ Boyce,WA Agar,AJ Tye,0,0,,,,,,caught,CJ Boyce
+ball,1,15.2,Adelaide Strikers,PM Siddle,WA Agar,AJ Tye,0,0,,,,,,"",""
+ball,1,15.3,Adelaide Strikers,PM Siddle,WA Agar,AJ Tye,0,0,,,,,,"",""
+ball,1,15.4,Adelaide Strikers,PM Siddle,WA Agar,AJ Tye,0,0,,,,,,"",""
+ball,1,15.5,Adelaide Strikers,PM Siddle,WA Agar,AJ Tye,1,0,,,,,,"",""
+ball,1,15.6,Adelaide Strikers,WA Agar,PM Siddle,AJ Tye,4,0,,,,,,"",""
+ball,1,16.1,Adelaide Strikers,PM Siddle,WA Agar,LR Morris,0,0,,,,,,"",""
+ball,1,16.2,Adelaide Strikers,PM Siddle,WA Agar,LR Morris,0,0,,,,,,"",""
+ball,1,16.3,Adelaide Strikers,PM Siddle,WA Agar,LR Morris,0,1,1,,,,,"",""
+ball,1,16.4,Adelaide Strikers,PM Siddle,WA Agar,LR Morris,1,0,,,,,,"",""
+ball,1,16.5,Adelaide Strikers,WA Agar,PM Siddle,LR Morris,4,0,,,,,,"",""
+ball,1,16.6,Adelaide Strikers,WA Agar,PM Siddle,LR Morris,2,0,,,,,,"",""
+ball,1,16.7,Adelaide Strikers,WA Agar,PM Siddle,LR Morris,0,0,,,,,,bowled,WA Agar
+ball,2,0.1,Perth Scorchers,SS Eskinazi,CT Bancroft,BAD Manenti,1,0,,,,,,"",""
+ball,2,0.2,Perth Scorchers,CT Bancroft,SS Eskinazi,BAD Manenti,1,0,,,,,,"",""
+ball,2,0.3,Perth Scorchers,SS Eskinazi,CT Bancroft,BAD Manenti,1,0,,,,,,"",""
+ball,2,0.4,Perth Scorchers,CT Bancroft,SS Eskinazi,BAD Manenti,4,0,,,,,,"",""
+ball,2,0.5,Perth Scorchers,CT Bancroft,SS Eskinazi,BAD Manenti,1,0,,,,,,"",""
+ball,2,0.6,Perth Scorchers,SS Eskinazi,CT Bancroft,BAD Manenti,0,0,,,,,,"",""
+ball,2,1.1,Perth Scorchers,CT Bancroft,SS Eskinazi,MW Short,0,0,,,,,,"",""
+ball,2,1.2,Perth Scorchers,CT Bancroft,SS Eskinazi,MW Short,1,0,,,,,,"",""
+ball,2,1.3,Perth Scorchers,SS Eskinazi,CT Bancroft,MW Short,2,0,,,,,,"",""
+ball,2,1.4,Perth Scorchers,SS Eskinazi,CT Bancroft,MW Short,0,1,1,,,,,"",""
+ball,2,1.5,Perth Scorchers,SS Eskinazi,CT Bancroft,MW Short,1,0,,,,,,"",""
+ball,2,1.6,Perth Scorchers,CT Bancroft,SS Eskinazi,MW Short,0,0,,,,,,run out,CT Bancroft
+ball,2,1.7,Perth Scorchers,AM Hardie,SS Eskinazi,MW Short,0,0,,,,,,"",""
+ball,2,2.1,Perth Scorchers,SS Eskinazi,AM Hardie,PM Siddle,3,0,,,,,,"",""
+ball,2,2.2,Perth Scorchers,AM Hardie,SS Eskinazi,PM Siddle,1,0,,,,,,"",""
+ball,2,2.3,Perth Scorchers,SS Eskinazi,AM Hardie,PM Siddle,1,0,,,,,,"",""
+ball,2,2.4,Perth Scorchers,AM Hardie,SS Eskinazi,PM Siddle,1,0,,,,,,"",""
+ball,2,2.5,Perth Scorchers,SS Eskinazi,AM Hardie,PM Siddle,4,0,,,,,,"",""
+ball,2,2.6,Perth Scorchers,SS Eskinazi,AM Hardie,PM Siddle,4,0,,,,,,"",""
+ball,2,3.1,Perth Scorchers,AM Hardie,SS Eskinazi,WA Agar,0,1,1,,,,,"",""
+ball,2,3.2,Perth Scorchers,AM Hardie,SS Eskinazi,WA Agar,0,0,,,,,,"",""
+ball,2,3.3,Perth Scorchers,AM Hardie,SS Eskinazi,WA Agar,0,0,,,,,,"",""
+ball,2,3.4,Perth Scorchers,AM Hardie,SS Eskinazi,WA Agar,0,0,,,,,,"",""
+ball,2,3.5,Perth Scorchers,AM Hardie,SS Eskinazi,WA Agar,4,0,,,,,,"",""
+ball,2,3.6,Perth Scorchers,AM Hardie,SS Eskinazi,WA Agar,1,0,,,,,,"",""
+ball,2,3.7,Perth Scorchers,SS Eskinazi,AM Hardie,WA Agar,0,0,,,,,,"",""
+ball,2,4.1,Perth Scorchers,AM Hardie,SS Eskinazi,CJ Boyce,1,0,,,,,,"",""
+ball,2,4.2,Perth Scorchers,SS Eskinazi,AM Hardie,CJ Boyce,0,0,,,,,,"",""
+ball,2,4.3,Perth Scorchers,SS Eskinazi,AM Hardie,CJ Boyce,0,0,,,,,,stumped,SS Eskinazi
+ball,2,4.4,Perth Scorchers,JP Inglis,AM Hardie,CJ Boyce,1,0,,,,,,"",""
+ball,2,4.5,Perth Scorchers,AM Hardie,JP Inglis,CJ Boyce,0,0,,,,,,"",""
+ball,2,4.6,Perth Scorchers,AM Hardie,JP Inglis,CJ Boyce,4,0,,,,,,"",""
+ball,2,5.1,Perth Scorchers,JP Inglis,AM Hardie,MW Short,1,0,,,,,,"",""
+ball,2,5.2,Perth Scorchers,AM Hardie,JP Inglis,MW Short,0,1,1,,,,,"",""
+ball,2,5.3,Perth Scorchers,AM Hardie,JP Inglis,MW Short,1,0,,,,,,"",""
+ball,2,5.4,Perth Scorchers,JP Inglis,AM Hardie,MW Short,0,0,,,,,,"",""
+ball,2,5.5,Perth Scorchers,JP Inglis,AM Hardie,MW Short,0,0,,,,,,"",""
+ball,2,5.6,Perth Scorchers,JP Inglis,AM Hardie,MW Short,1,0,,,,,,"",""
+ball,2,5.7,Perth Scorchers,AM Hardie,JP Inglis,MW Short,1,0,,,,,,"",""
+ball,2,6.1,Perth Scorchers,AM Hardie,JP Inglis,CJ Boyce,1,0,,,,,,"",""
+ball,2,6.2,Perth Scorchers,JP Inglis,AM Hardie,CJ Boyce,1,0,,,,,,"",""
+ball,2,6.3,Perth Scorchers,AM Hardie,JP Inglis,CJ Boyce,0,0,,,,,,"",""
+ball,2,6.4,Perth Scorchers,AM Hardie,JP Inglis,CJ Boyce,1,0,,,,,,"",""
+ball,2,6.5,Perth Scorchers,JP Inglis,AM Hardie,CJ Boyce,0,0,,,,,,"",""
+ball,2,6.6,Perth Scorchers,JP Inglis,AM Hardie,CJ Boyce,1,0,,,,,,"",""
+ball,2,7.1,Perth Scorchers,JP Inglis,AM Hardie,BAD Manenti,4,0,,,,,,"",""
+ball,2,7.2,Perth Scorchers,JP Inglis,AM Hardie,BAD Manenti,1,0,,,,,,"",""
+ball,2,7.3,Perth Scorchers,AM Hardie,JP Inglis,BAD Manenti,0,0,,,,,,"",""
+ball,2,7.4,Perth Scorchers,AM Hardie,JP Inglis,BAD Manenti,2,0,,,,,,"",""
+ball,2,7.5,Perth Scorchers,AM Hardie,JP Inglis,BAD Manenti,4,0,,,,,,"",""
+ball,2,7.6,Perth Scorchers,AM Hardie,JP Inglis,BAD Manenti,1,0,,,,,,"",""
+ball,2,8.1,Perth Scorchers,AM Hardie,JP Inglis,C de Grandhomme,0,0,,,,,,"",""
+ball,2,8.2,Perth Scorchers,AM Hardie,JP Inglis,C de Grandhomme,6,0,,,,,,"",""
+ball,2,8.3,Perth Scorchers,AM Hardie,JP Inglis,C de Grandhomme,6,0,,,,,,"",""
+ball,2,8.4,Perth Scorchers,AM Hardie,JP Inglis,C de Grandhomme,0,1,,,,1,,"",""
+ball,2,8.5,Perth Scorchers,JP Inglis,AM Hardie,C de Grandhomme,0,0,,,,,,"",""
+ball,2,8.6,Perth Scorchers,JP Inglis,AM Hardie,C de Grandhomme,6,0,,,,,,"",""
+ball,2,9.1,Perth Scorchers,AM Hardie,JP Inglis,MW Short,0,0,,,,,,"",""
+ball,2,9.2,Perth Scorchers,AM Hardie,JP Inglis,MW Short,6,0,,,,,,"",""
+ball,2,9.3,Perth Scorchers,AM Hardie,JP Inglis,MW Short,1,0,,,,,,"",""
+ball,2,9.4,Perth Scorchers,JP Inglis,AM Hardie,MW Short,0,0,,,,,,"",""
+ball,2,9.5,Perth Scorchers,JP Inglis,AM Hardie,MW Short,1,0,,,,,,"",""
+ball,2,9.6,Perth Scorchers,AM Hardie,JP Inglis,MW Short,1,0,,,,,,"",""
+ball,2,10.1,Perth Scorchers,AM Hardie,JP Inglis,CJ Boyce,0,0,,,,,,"",""
+ball,2,10.2,Perth Scorchers,AM Hardie,JP Inglis,CJ Boyce,0,0,,,,,,caught,AM Hardie
+ball,2,10.3,Perth Scorchers,AJ Turner,JP Inglis,CJ Boyce,0,0,,,,,,"",""
+ball,2,10.4,Perth Scorchers,AJ Turner,JP Inglis,CJ Boyce,1,0,,,,,,"",""
+ball,2,10.5,Perth Scorchers,JP Inglis,AJ Turner,CJ Boyce,1,0,,,,,,"",""
+ball,2,10.6,Perth Scorchers,AJ Turner,JP Inglis,CJ Boyce,0,0,,,,,,"",""
+ball,2,11.1,Perth Scorchers,JP Inglis,AJ Turner,MW Short,4,0,,,,,,"",""

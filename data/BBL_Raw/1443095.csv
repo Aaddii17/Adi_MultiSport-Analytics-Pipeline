@@ -1,0 +1,292 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Adelaide Strikers
+info,team,Perth Scorchers
+info,gender,male
+info,season,2024/25
+info,date,2025/01/18
+info,event,Big Bash League
+info,match_number,39
+info,venue,Perth Stadium
+info,city,Perth
+info,toss_winner,Perth Scorchers
+info,toss_decision,field
+info,player_of_match,JP Behrendorff
+info,umpire,GJ Davidson
+info,umpire,MW Graham-Smith
+info,reserve_umpire,D Taylor
+info,tv_umpire,S Patel
+info,match_referee,SD Fry
+info,winner,Perth Scorchers
+info,winner_wickets,5
+info,player,Adelaide Strikers,AT Carey
+info,player,Adelaide Strikers,MW Short
+info,player,Adelaide Strikers,OJ Pope
+info,player,Adelaide Strikers,L Scott
+info,player,Adelaide Strikers,AI Ross
+info,player,Adelaide Strikers,HJ Manenti
+info,player,Adelaide Strikers,DJM Short
+info,player,Adelaide Strikers,B Doggett
+info,player,Adelaide Strikers,L Haskett
+info,player,Adelaide Strikers,L Pope
+info,player,Adelaide Strikers,JS Buckingham
+info,player,Perth Scorchers,S Fanning
+info,player,Perth Scorchers,FH Allen
+info,player,Perth Scorchers,AM Hardie
+info,player,Perth Scorchers,C Connolly
+info,player,Perth Scorchers,AJ Turner
+info,player,Perth Scorchers,NR Hobson
+info,player,Perth Scorchers,M Spoors
+info,player,Perth Scorchers,AC Agar
+info,player,Perth Scorchers,JP Behrendorff
+info,player,Perth Scorchers,LR Morris
+info,player,Perth Scorchers,M Beardman
+info,registry,people,AC Agar,a2421394
+info,registry,people,AI Ross,fb0d68b4
+info,registry,people,AJ Turner,ff1e12a0
+info,registry,people,AM Hardie,d405c0d5
+info,registry,people,AT Carey,69d03465
+info,registry,people,B Doggett,898e628d
+info,registry,people,C Connolly,fe366f34
+info,registry,people,D Taylor,b940a2b2
+info,registry,people,DJM Short,1a156c88
+info,registry,people,FH Allen,bf74b130
+info,registry,people,GJ Davidson,31ad5973
+info,registry,people,HJ Manenti,0e56c514
+info,registry,people,JP Behrendorff,4933f499
+info,registry,people,JS Buckingham,10735e1d
+info,registry,people,L Haskett,037429dc
+info,registry,people,L Pope,616a8149
+info,registry,people,L Scott,0ebb3444
+info,registry,people,LR Morris,b08e58e2
+info,registry,people,M Beardman,b5a12740
+info,registry,people,M Spoors,da4a1e46
+info,registry,people,MW Graham-Smith,18aca3ce
+info,registry,people,MW Short,a90e53ec
+info,registry,people,NR Hobson,4312e0fd
+info,registry,people,OJ Pope,e94bc520
+info,registry,people,S Fanning,a9d2dab9
+info,registry,people,S Patel,c4ee6c06
+info,registry,people,SD Fry,6b725ed1
+ball,1,0.1,Adelaide Strikers,AT Carey,MW Short,JP Behrendorff,1,0,,,,,,"",""
+ball,1,0.2,Adelaide Strikers,MW Short,AT Carey,JP Behrendorff,0,0,,,,,,"",""
+ball,1,0.3,Adelaide Strikers,MW Short,AT Carey,JP Behrendorff,1,0,,,,,,"",""
+ball,1,0.4,Adelaide Strikers,AT Carey,MW Short,JP Behrendorff,6,0,,,,,,"",""
+ball,1,0.5,Adelaide Strikers,AT Carey,MW Short,JP Behrendorff,4,0,,,,,,"",""
+ball,1,0.6,Adelaide Strikers,AT Carey,MW Short,JP Behrendorff,1,0,,,,,,"",""
+ball,1,1.1,Adelaide Strikers,AT Carey,MW Short,LR Morris,4,0,,,,,,"",""
+ball,1,1.2,Adelaide Strikers,AT Carey,MW Short,LR Morris,6,0,,,,,,"",""
+ball,1,1.3,Adelaide Strikers,AT Carey,MW Short,LR Morris,0,0,,,,,,caught,AT Carey
+ball,1,1.4,Adelaide Strikers,OJ Pope,MW Short,LR Morris,1,0,,,,,,"",""
+ball,1,1.5,Adelaide Strikers,MW Short,OJ Pope,LR Morris,0,1,1,,,,,"",""
+ball,1,1.6,Adelaide Strikers,MW Short,OJ Pope,LR Morris,4,0,,,,,,"",""
+ball,1,1.7,Adelaide Strikers,MW Short,OJ Pope,LR Morris,4,0,,,,,,"",""
+ball,1,2.1,Adelaide Strikers,OJ Pope,MW Short,JP Behrendorff,0,0,,,,,,"",""
+ball,1,2.2,Adelaide Strikers,OJ Pope,MW Short,JP Behrendorff,0,1,,,1,,,"",""
+ball,1,2.3,Adelaide Strikers,MW Short,OJ Pope,JP Behrendorff,0,0,,,,,,"",""
+ball,1,2.4,Adelaide Strikers,MW Short,OJ Pope,JP Behrendorff,2,0,,,,,,"",""
+ball,1,2.5,Adelaide Strikers,MW Short,OJ Pope,JP Behrendorff,3,0,,,,,,"",""
+ball,1,2.6,Adelaide Strikers,OJ Pope,MW Short,JP Behrendorff,0,0,,,,,,caught,OJ Pope
+ball,1,3.1,Adelaide Strikers,MW Short,L Scott,LR Morris,2,0,,,,,,"",""
+ball,1,3.2,Adelaide Strikers,MW Short,L Scott,LR Morris,1,0,,,,,,"",""
+ball,1,3.3,Adelaide Strikers,L Scott,MW Short,LR Morris,0,2,2,,,,,"",""
+ball,1,3.4,Adelaide Strikers,MW Short,L Scott,LR Morris,4,0,,,,,,"",""
+ball,1,3.5,Adelaide Strikers,MW Short,L Scott,LR Morris,4,0,,,,,,"",""
+ball,1,3.6,Adelaide Strikers,MW Short,L Scott,LR Morris,0,0,,,,,,"",""
+ball,1,3.7,Adelaide Strikers,MW Short,L Scott,LR Morris,4,0,,,,,,"",""
+ball,1,4.1,Adelaide Strikers,L Scott,MW Short,AM Hardie,1,0,,,,,,"",""
+ball,1,4.2,Adelaide Strikers,MW Short,L Scott,AM Hardie,1,0,,,,,,"",""
+ball,1,4.3,Adelaide Strikers,L Scott,MW Short,AM Hardie,0,0,,,,,,"",""
+ball,1,4.4,Adelaide Strikers,L Scott,MW Short,AM Hardie,0,0,,,,,,"",""
+ball,1,4.5,Adelaide Strikers,L Scott,MW Short,AM Hardie,1,0,,,,,,"",""
+ball,1,4.6,Adelaide Strikers,MW Short,L Scott,AM Hardie,4,0,,,,,,"",""
+ball,1,5.1,Adelaide Strikers,L Scott,MW Short,M Spoors,6,0,,,,,,"",""
+ball,1,5.2,Adelaide Strikers,L Scott,MW Short,M Spoors,0,0,,,,,,"",""
+ball,1,5.3,Adelaide Strikers,L Scott,MW Short,M Spoors,6,0,,,,,,"",""
+ball,1,5.4,Adelaide Strikers,L Scott,MW Short,M Spoors,1,0,,,,,,"",""
+ball,1,5.5,Adelaide Strikers,MW Short,L Scott,M Spoors,1,0,,,,,,"",""
+ball,1,5.6,Adelaide Strikers,L Scott,MW Short,M Spoors,4,0,,,,,,"",""
+ball,1,6.1,Adelaide Strikers,MW Short,L Scott,AC Agar,2,0,,,,,,"",""
+ball,1,6.2,Adelaide Strikers,MW Short,L Scott,AC Agar,2,0,,,,,,"",""
+ball,1,6.3,Adelaide Strikers,MW Short,L Scott,AC Agar,1,0,,,,,,"",""
+ball,1,6.4,Adelaide Strikers,L Scott,MW Short,AC Agar,2,0,,,,,,"",""
+ball,1,6.5,Adelaide Strikers,L Scott,MW Short,AC Agar,0,0,,,,,,"",""
+ball,1,6.6,Adelaide Strikers,L Scott,MW Short,AC Agar,0,0,,,,,,"",""
+ball,1,7.1,Adelaide Strikers,MW Short,L Scott,C Connolly,0,0,,,,,,"",""
+ball,1,7.2,Adelaide Strikers,MW Short,L Scott,C Connolly,0,0,,,,,,stumped,MW Short
+ball,1,7.3,Adelaide Strikers,AI Ross,L Scott,C Connolly,0,0,,,,,,"",""
+ball,1,7.4,Adelaide Strikers,AI Ross,L Scott,C Connolly,1,0,,,,,,"",""
+ball,1,7.5,Adelaide Strikers,L Scott,AI Ross,C Connolly,0,0,,,,,,"",""
+ball,1,7.6,Adelaide Strikers,L Scott,AI Ross,C Connolly,0,0,,,,,,"",""
+ball,1,8.1,Adelaide Strikers,AI Ross,L Scott,M Beardman,1,0,,,,,,"",""
+ball,1,8.2,Adelaide Strikers,L Scott,AI Ross,M Beardman,1,0,,,,,,"",""
+ball,1,8.3,Adelaide Strikers,AI Ross,L Scott,M Beardman,4,0,,,,,,"",""
+ball,1,8.4,Adelaide Strikers,AI Ross,L Scott,M Beardman,0,0,,,,,,bowled,AI Ross
+ball,1,8.5,Adelaide Strikers,HJ Manenti,L Scott,M Beardman,0,0,,,,,,"",""
+ball,1,8.6,Adelaide Strikers,HJ Manenti,L Scott,M Beardman,1,0,,,,,,"",""
+ball,1,9.1,Adelaide Strikers,HJ Manenti,L Scott,C Connolly,1,0,,,,,,"",""
+ball,1,9.2,Adelaide Strikers,L Scott,HJ Manenti,C Connolly,0,0,,,,,,"",""
+ball,1,9.3,Adelaide Strikers,L Scott,HJ Manenti,C Connolly,2,0,,,,,,"",""
+ball,1,9.4,Adelaide Strikers,L Scott,HJ Manenti,C Connolly,1,0,,,,,,"",""
+ball,1,9.5,Adelaide Strikers,HJ Manenti,L Scott,C Connolly,1,0,,,,,,"",""
+ball,1,9.6,Adelaide Strikers,L Scott,HJ Manenti,C Connolly,0,0,,,,,,"",""
+ball,1,10.1,Adelaide Strikers,HJ Manenti,L Scott,M Beardman,0,0,,,,,,"",""
+ball,1,10.2,Adelaide Strikers,HJ Manenti,L Scott,M Beardman,0,0,,,,,,caught,HJ Manenti
+ball,1,10.3,Adelaide Strikers,DJM Short,L Scott,M Beardman,0,0,,,,,,"",""
+ball,1,10.4,Adelaide Strikers,DJM Short,L Scott,M Beardman,1,0,,,,,,"",""
+ball,1,10.5,Adelaide Strikers,L Scott,DJM Short,M Beardman,1,0,,,,,,"",""
+ball,1,10.6,Adelaide Strikers,DJM Short,L Scott,M Beardman,0,0,,,,,,"",""
+ball,1,11.1,Adelaide Strikers,L Scott,DJM Short,AC Agar,1,0,,,,,,"",""
+ball,1,11.2,Adelaide Strikers,DJM Short,L Scott,AC Agar,1,0,,,,,,"",""
+ball,1,11.3,Adelaide Strikers,L Scott,DJM Short,AC Agar,4,0,,,,,,"",""
+ball,1,11.4,Adelaide Strikers,L Scott,DJM Short,AC Agar,2,0,,,,,,"",""
+ball,1,11.5,Adelaide Strikers,L Scott,DJM Short,AC Agar,1,0,,,,,,"",""
+ball,1,11.6,Adelaide Strikers,DJM Short,L Scott,AC Agar,0,0,,,,,,"",""
+ball,1,12.1,Adelaide Strikers,L Scott,DJM Short,AM Hardie,0,0,,,,,,"",""
+ball,1,12.2,Adelaide Strikers,L Scott,DJM Short,AM Hardie,1,0,,,,,,"",""
+ball,1,12.3,Adelaide Strikers,DJM Short,L Scott,AM Hardie,4,0,,,,,,"",""
+ball,1,12.4,Adelaide Strikers,DJM Short,L Scott,AM Hardie,0,0,,,,,,"",""
+ball,1,12.5,Adelaide Strikers,DJM Short,L Scott,AM Hardie,1,0,,,,,,"",""
+ball,1,12.6,Adelaide Strikers,L Scott,DJM Short,AM Hardie,1,0,,,,,,"",""
+ball,1,13.1,Adelaide Strikers,L Scott,DJM Short,C Connolly,0,0,,,,,,"",""
+ball,1,13.2,Adelaide Strikers,L Scott,DJM Short,C Connolly,6,0,,,,,,"",""
+ball,1,13.3,Adelaide Strikers,L Scott,DJM Short,C Connolly,1,0,,,,,,"",""
+ball,1,13.4,Adelaide Strikers,DJM Short,L Scott,C Connolly,1,0,,,,,,"",""
+ball,1,13.5,Adelaide Strikers,L Scott,DJM Short,C Connolly,0,0,,,,,,"",""
+ball,1,13.6,Adelaide Strikers,L Scott,DJM Short,C Connolly,1,0,,,,,,"",""
+ball,1,14.1,Adelaide Strikers,L Scott,DJM Short,JP Behrendorff,0,0,,,,,,"",""
+ball,1,14.2,Adelaide Strikers,L Scott,DJM Short,JP Behrendorff,1,0,,,,,,"",""
+ball,1,14.3,Adelaide Strikers,DJM Short,L Scott,JP Behrendorff,2,0,,,,,,"",""
+ball,1,14.4,Adelaide Strikers,DJM Short,L Scott,JP Behrendorff,0,0,,,,,,"",""
+ball,1,14.5,Adelaide Strikers,DJM Short,L Scott,JP Behrendorff,0,0,,,,,,caught,DJM Short
+ball,1,14.6,Adelaide Strikers,B Doggett,L Scott,JP Behrendorff,0,0,,,,,,"",""
+ball,1,15.1,Adelaide Strikers,L Scott,B Doggett,LR Morris,0,0,,,,,,"",""
+ball,1,15.2,Adelaide Strikers,L Scott,B Doggett,LR Morris,6,0,,,,,,"",""
+ball,1,15.3,Adelaide Strikers,L Scott,B Doggett,LR Morris,6,0,,,,,,"",""
+ball,1,15.4,Adelaide Strikers,L Scott,B Doggett,LR Morris,0,0,,,,,,"",""
+ball,1,15.5,Adelaide Strikers,L Scott,B Doggett,LR Morris,4,0,,,,,,"",""
+ball,1,15.6,Adelaide Strikers,L Scott,B Doggett,LR Morris,1,0,,,,,,"",""
+ball,1,16.1,Adelaide Strikers,L Scott,B Doggett,M Beardman,4,0,,,,,,"",""
+ball,1,16.2,Adelaide Strikers,L Scott,B Doggett,M Beardman,1,0,,,,,,"",""
+ball,1,16.3,Adelaide Strikers,B Doggett,L Scott,M Beardman,0,0,,,,,,"",""
+ball,1,16.4,Adelaide Strikers,B Doggett,L Scott,M Beardman,2,0,,,,,,"",""
+ball,1,16.5,Adelaide Strikers,B Doggett,L Scott,M Beardman,0,0,,,,,,caught,B Doggett
+ball,1,16.6,Adelaide Strikers,L Haskett,L Scott,M Beardman,1,0,,,,,,"",""
+ball,1,17.1,Adelaide Strikers,L Haskett,L Scott,AC Agar,0,0,,,,,,"",""
+ball,1,17.2,Adelaide Strikers,L Haskett,L Scott,AC Agar,0,0,,,,,,"",""
+ball,1,17.3,Adelaide Strikers,L Haskett,L Scott,AC Agar,1,0,,,,,,"",""
+ball,1,17.4,Adelaide Strikers,L Scott,L Haskett,AC Agar,0,0,,,,,,caught,L Scott
+ball,1,17.5,Adelaide Strikers,L Pope,L Haskett,AC Agar,1,0,,,,,,"",""
+ball,1,17.6,Adelaide Strikers,L Haskett,L Pope,AC Agar,1,0,,,,,,"",""
+ball,1,18.1,Adelaide Strikers,L Haskett,L Pope,LR Morris,2,0,,,,,,"",""
+ball,1,18.2,Adelaide Strikers,L Haskett,L Pope,LR Morris,0,0,,,,,,"",""
+ball,1,18.3,Adelaide Strikers,L Haskett,L Pope,LR Morris,0,0,,,,,,"",""
+ball,1,18.4,Adelaide Strikers,L Haskett,L Pope,LR Morris,0,0,,,,,,caught,L Haskett
+ball,1,18.5,Adelaide Strikers,JS Buckingham,L Pope,LR Morris,0,0,,,,,,"",""
+ball,1,18.6,Adelaide Strikers,JS Buckingham,L Pope,LR Morris,0,0,,,,,,"",""
+ball,1,19.1,Adelaide Strikers,L Pope,JS Buckingham,JP Behrendorff,0,0,,,,,,caught,L Pope
+ball,2,0.1,Perth Scorchers,S Fanning,FH Allen,B Doggett,1,0,,,,,,"",""
+ball,2,0.2,Perth Scorchers,FH Allen,S Fanning,B Doggett,0,0,,,,,,"",""
+ball,2,0.3,Perth Scorchers,FH Allen,S Fanning,B Doggett,4,0,,,,,,"",""
+ball,2,0.4,Perth Scorchers,FH Allen,S Fanning,B Doggett,2,0,,,,,,"",""
+ball,2,0.5,Perth Scorchers,FH Allen,S Fanning,B Doggett,0,0,,,,,,"",""
+ball,2,0.6,Perth Scorchers,FH Allen,S Fanning,B Doggett,0,0,,,,,,"",""
+ball,2,1.1,Perth Scorchers,S Fanning,FH Allen,L Haskett,4,0,,,,,,"",""
+ball,2,1.2,Perth Scorchers,S Fanning,FH Allen,L Haskett,0,0,,,,,,"",""
+ball,2,1.3,Perth Scorchers,S Fanning,FH Allen,L Haskett,4,0,,,,,,"",""
+ball,2,1.4,Perth Scorchers,S Fanning,FH Allen,L Haskett,2,0,,,,,,"",""
+ball,2,1.5,Perth Scorchers,S Fanning,FH Allen,L Haskett,6,0,,,,,,"",""
+ball,2,1.6,Perth Scorchers,S Fanning,FH Allen,L Haskett,0,1,1,,,,,"",""
+ball,2,1.7,Perth Scorchers,S Fanning,FH Allen,L Haskett,4,0,,,,,,"",""
+ball,2,2.1,Perth Scorchers,FH Allen,S Fanning,B Doggett,4,0,,,,,,"",""
+ball,2,2.2,Perth Scorchers,FH Allen,S Fanning,B Doggett,0,1,1,,,,,"",""
+ball,2,2.3,Perth Scorchers,FH Allen,S Fanning,B Doggett,0,0,,,,,,caught,FH Allen
+ball,2,2.4,Perth Scorchers,AM Hardie,S Fanning,B Doggett,0,0,,,,,,"",""
+ball,2,2.5,Perth Scorchers,AM Hardie,S Fanning,B Doggett,0,0,,,,,,"",""
+ball,2,2.6,Perth Scorchers,AM Hardie,S Fanning,B Doggett,4,0,,,,,,"",""
+ball,2,2.7,Perth Scorchers,AM Hardie,S Fanning,B Doggett,0,0,,,,,,"",""
+ball,2,3.1,Perth Scorchers,S Fanning,AM Hardie,JS Buckingham,0,0,,,,,,"",""
+ball,2,3.2,Perth Scorchers,S Fanning,AM Hardie,JS Buckingham,0,0,,,,,,"",""
+ball,2,3.3,Perth Scorchers,S Fanning,AM Hardie,JS Buckingham,0,0,,,,,,"",""
+ball,2,3.4,Perth Scorchers,S Fanning,AM Hardie,JS Buckingham,0,0,,,,,,"",""
+ball,2,3.5,Perth Scorchers,S Fanning,AM Hardie,JS Buckingham,1,0,,,,,,"",""
+ball,2,3.6,Perth Scorchers,AM Hardie,S Fanning,JS Buckingham,4,0,,,,,,"",""
+ball,2,4.1,Perth Scorchers,S Fanning,AM Hardie,L Pope,1,0,,,,,,"",""
+ball,2,4.2,Perth Scorchers,AM Hardie,S Fanning,L Pope,2,0,,,,,,"",""
+ball,2,4.3,Perth Scorchers,AM Hardie,S Fanning,L Pope,1,0,,,,,,"",""
+ball,2,4.4,Perth Scorchers,S Fanning,AM Hardie,L Pope,1,0,,,,,,"",""
+ball,2,4.5,Perth Scorchers,AM Hardie,S Fanning,L Pope,1,0,,,,,,"",""
+ball,2,4.6,Perth Scorchers,S Fanning,AM Hardie,L Pope,1,0,,,,,,"",""
+ball,2,5.1,Perth Scorchers,S Fanning,AM Hardie,L Haskett,1,0,,,,,,"",""
+ball,2,5.2,Perth Scorchers,AM Hardie,S Fanning,L Haskett,4,0,,,,,,"",""
+ball,2,5.3,Perth Scorchers,AM Hardie,S Fanning,L Haskett,0,0,,,,,,"",""
+ball,2,5.4,Perth Scorchers,AM Hardie,S Fanning,L Haskett,1,0,,,,,,"",""
+ball,2,5.5,Perth Scorchers,S Fanning,AM Hardie,L Haskett,1,0,,,,,,"",""
+ball,2,5.6,Perth Scorchers,AM Hardie,S Fanning,L Haskett,6,0,,,,,,"",""
+ball,2,6.1,Perth Scorchers,S Fanning,AM Hardie,MW Short,1,0,,,,,,"",""
+ball,2,6.2,Perth Scorchers,AM Hardie,S Fanning,MW Short,2,0,,,,,,"",""
+ball,2,6.3,Perth Scorchers,AM Hardie,S Fanning,MW Short,1,0,,,,,,"",""
+ball,2,6.4,Perth Scorchers,S Fanning,AM Hardie,MW Short,0,0,,,,,,"",""
+ball,2,6.5,Perth Scorchers,S Fanning,AM Hardie,MW Short,1,0,,,,,,"",""
+ball,2,6.6,Perth Scorchers,AM Hardie,S Fanning,MW Short,1,0,,,,,,"",""
+ball,2,7.1,Perth Scorchers,AM Hardie,S Fanning,DJM Short,1,0,,,,,,run out,S Fanning
+ball,2,7.2,Perth Scorchers,C Connolly,AM Hardie,DJM Short,1,0,,,,,,"",""
+ball,2,7.3,Perth Scorchers,AM Hardie,C Connolly,DJM Short,0,0,,,,,,stumped,AM Hardie
+ball,2,7.4,Perth Scorchers,AJ Turner,C Connolly,DJM Short,1,0,,,,,,"",""
+ball,2,7.5,Perth Scorchers,C Connolly,AJ Turner,DJM Short,2,0,,,,,,"",""
+ball,2,7.6,Perth Scorchers,C Connolly,AJ Turner,DJM Short,1,0,,,,,,"",""
+ball,2,8.1,Perth Scorchers,C Connolly,AJ Turner,L Pope,1,0,,,,,,"",""
+ball,2,8.2,Perth Scorchers,AJ Turner,C Connolly,L Pope,2,0,,,,,,"",""
+ball,2,8.3,Perth Scorchers,AJ Turner,C Connolly,L Pope,0,1,,,,1,,"",""
+ball,2,8.4,Perth Scorchers,C Connolly,AJ Turner,L Pope,1,0,,,,,,"",""
+ball,2,8.5,Perth Scorchers,AJ Turner,C Connolly,L Pope,1,0,,,,,,"",""
+ball,2,8.6,Perth Scorchers,C Connolly,AJ Turner,L Pope,0,0,,,,,,"",""
+ball,2,9.1,Perth Scorchers,AJ Turner,C Connolly,DJM Short,1,0,,,,,,"",""
+ball,2,9.2,Perth Scorchers,C Connolly,AJ Turner,DJM Short,0,0,,,,,,"",""
+ball,2,9.3,Perth Scorchers,C Connolly,AJ Turner,DJM Short,0,0,,,,,,"",""
+ball,2,9.4,Perth Scorchers,C Connolly,AJ Turner,DJM Short,1,0,,,,,,"",""
+ball,2,9.5,Perth Scorchers,AJ Turner,C Connolly,DJM Short,2,0,,,,,,"",""
+ball,2,9.6,Perth Scorchers,AJ Turner,C Connolly,DJM Short,1,0,,,,,,"",""
+ball,2,10.1,Perth Scorchers,AJ Turner,C Connolly,MW Short,0,0,,,,,,"",""
+ball,2,10.2,Perth Scorchers,AJ Turner,C Connolly,MW Short,1,0,,,,,,"",""
+ball,2,10.3,Perth Scorchers,C Connolly,AJ Turner,MW Short,0,1,,,,1,,"",""
+ball,2,10.4,Perth Scorchers,AJ Turner,C Connolly,MW Short,2,0,,,,,,"",""
+ball,2,10.5,Perth Scorchers,AJ Turner,C Connolly,MW Short,2,0,,,,,,"",""
+ball,2,10.6,Perth Scorchers,AJ Turner,C Connolly,MW Short,1,0,,,,,,"",""
+ball,2,11.1,Perth Scorchers,AJ Turner,C Connolly,JS Buckingham,0,0,,,,,,"",""
+ball,2,11.2,Perth Scorchers,AJ Turner,C Connolly,JS Buckingham,1,0,,,,,,"",""
+ball,2,11.3,Perth Scorchers,C Connolly,AJ Turner,JS Buckingham,1,0,,,,,,"",""
+ball,2,11.4,Perth Scorchers,AJ Turner,C Connolly,JS Buckingham,1,0,,,,,,"",""
+ball,2,11.5,Perth Scorchers,C Connolly,AJ Turner,JS Buckingham,6,0,,,,,,"",""
+ball,2,11.6,Perth Scorchers,C Connolly,AJ Turner,JS Buckingham,0,0,,,,,,"",""
+ball,2,12.1,Perth Scorchers,AJ Turner,C Connolly,DJM Short,4,0,,,,,,"",""
+ball,2,12.2,Perth Scorchers,AJ Turner,C Connolly,DJM Short,1,0,,,,,,"",""
+ball,2,12.3,Perth Scorchers,C Connolly,AJ Turner,DJM Short,6,0,,,,,,"",""
+ball,2,12.4,Perth Scorchers,C Connolly,AJ Turner,DJM Short,1,0,,,,,,"",""
+ball,2,12.5,Perth Scorchers,AJ Turner,C Connolly,DJM Short,0,0,,,,,,caught,AJ Turner
+ball,2,12.6,Perth Scorchers,NR Hobson,C Connolly,DJM Short,0,1,,1,,,,"",""
+ball,2,12.7,Perth Scorchers,NR Hobson,C Connolly,DJM Short,1,0,,,,,,"",""
+ball,2,13.1,Perth Scorchers,NR Hobson,C Connolly,JS Buckingham,0,1,1,,,,,"",""
+ball,2,13.2,Perth Scorchers,NR Hobson,C Connolly,JS Buckingham,4,0,,,,,,"",""
+ball,2,13.3,Perth Scorchers,NR Hobson,C Connolly,JS Buckingham,2,0,,,,,,"",""
+ball,2,13.4,Perth Scorchers,NR Hobson,C Connolly,JS Buckingham,0,1,1,,,,,"",""
+ball,2,13.5,Perth Scorchers,NR Hobson,C Connolly,JS Buckingham,0,1,1,,,,,"",""
+ball,2,13.6,Perth Scorchers,NR Hobson,C Connolly,JS Buckingham,6,0,,,,,,"",""
+ball,2,13.7,Perth Scorchers,NR Hobson,C Connolly,JS Buckingham,0,0,,,,,,"",""
+ball,2,13.8,Perth Scorchers,NR Hobson,C Connolly,JS Buckingham,0,0,,,,,,"",""
+ball,2,13.9,Perth Scorchers,NR Hobson,C Connolly,JS Buckingham,2,0,,,,,,"",""
+ball,2,14.1,Perth Scorchers,C Connolly,NR Hobson,MW Short,2,0,,,,,,"",""
+ball,2,14.2,Perth Scorchers,C Connolly,NR Hobson,MW Short,1,0,,,,,,"",""
+ball,2,14.3,Perth Scorchers,NR Hobson,C Connolly,MW Short,0,0,,,,,,bowled,NR Hobson
+ball,2,14.4,Perth Scorchers,M Spoors,C Connolly,MW Short,0,0,,,,,,"",""
+ball,2,14.5,Perth Scorchers,M Spoors,C Connolly,MW Short,2,0,,,,,,"",""
+ball,2,14.6,Perth Scorchers,M Spoors,C Connolly,MW Short,4,0,,,,,,"",""
+ball,2,15.1,Perth Scorchers,C Connolly,M Spoors,L Pope,2,0,,,,,,"",""
+ball,2,15.2,Perth Scorchers,C Connolly,M Spoors,L Pope,0,4,4,,,,,"",""
+ball,2,15.3,Perth Scorchers,M Spoors,C Connolly,L Pope,0,0,,,,,,"",""
+ball,2,15.4,Perth Scorchers,M Spoors,C Connolly,L Pope,2,0,,,,,,"",""
+ball,2,15.5,Perth Scorchers,M Spoors,C Connolly,L Pope,0,1,,,,1,,"",""
+ball,2,15.6,Perth Scorchers,C Connolly,M Spoors,L Pope,1,0,,,,,,"",""
+ball,2,15.7,Perth Scorchers,M Spoors,C Connolly,L Pope,0,0,,,,,,"",""
+ball,2,16.1,Perth Scorchers,C Connolly,M Spoors,DJM Short,6,0,,,,,,"",""
+ball,2,16.2,Perth Scorchers,C Connolly,M Spoors,DJM Short,6,0,,,,,,"",""

@@ -1,0 +1,317 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Melbourne Renegades
+info,team,Melbourne Stars
+info,gender,male
+info,season,2024/25
+info,date,2025/01/04
+info,event,Big Bash League
+info,match_number,23
+info,venue,Melbourne Cricket Ground
+info,city,Melbourne
+info,toss_winner,Melbourne Stars
+info,toss_decision,field
+info,player_of_match,BM Duckett
+info,umpire,DM Koch
+info,umpire,SAJ Craig
+info,reserve_umpire,C Grant
+info,tv_umpire,SA Lightbody
+info,match_referee,RL Parry
+info,winner,Melbourne Stars
+info,winner_wickets,5
+info,player,Melbourne Renegades,J Brown
+info,player,Melbourne Renegades,J Fraser-McGurk
+info,player,Melbourne Renegades,TL Seifert
+info,player,Melbourne Renegades,JG Bethell
+info,player,Melbourne Renegades,JW Wells
+info,player,Melbourne Renegades,LJ Evans
+info,player,Melbourne Renegades,W Sutherland
+info,player,Melbourne Renegades,XA Crone
+info,player,Melbourne Renegades,TS Rogers
+info,player,Melbourne Renegades,GS Sandhu
+info,player,Melbourne Renegades,A Zampa
+info,player,Melbourne Stars,TF Rogers
+info,player,Melbourne Stars,BM Duckett
+info,player,Melbourne Stars,SB Harper
+info,player,Melbourne Stars,DW Lawrence
+info,player,Melbourne Stars,MP Stoinis
+info,player,Melbourne Stars,GJ Maxwell
+info,player,Melbourne Stars,HWR Cartwright
+info,player,Melbourne Stars,Usama Mir
+info,player,Melbourne Stars,JS Paris
+info,player,Melbourne Stars,MT Steketee
+info,player,Melbourne Stars,PM Siddle
+info,registry,people,A Zampa,14f96089
+info,registry,people,BM Duckett,5f26f677
+info,registry,people,C Grant,876ed858
+info,registry,people,DM Koch,6d10c034
+info,registry,people,DW Lawrence,4b685e2d
+info,registry,people,GJ Maxwell,b681e71e
+info,registry,people,GS Sandhu,1558d83b
+info,registry,people,HWR Cartwright,ab965cad
+info,registry,people,J Brown,647e7d44
+info,registry,people,J Fraser-McGurk,9b6e1b3f
+info,registry,people,JG Bethell,3c55c703
+info,registry,people,JS Paris,7c8f533d
+info,registry,people,JW Wells,8bdac857
+info,registry,people,LJ Evans,1c513d54
+info,registry,people,MP Stoinis,d9273ee7
+info,registry,people,MT Steketee,903560ed
+info,registry,people,PM Siddle,bd93fea4
+info,registry,people,RL Parry,86d151dc
+info,registry,people,SA Lightbody,680b8cbf
+info,registry,people,SAJ Craig,689f2eed
+info,registry,people,SB Harper,a756e61a
+info,registry,people,TF Rogers,7f232d46
+info,registry,people,TL Seifert,4663bd23
+info,registry,people,TS Rogers,1b04e02b
+info,registry,people,Usama Mir,6dd8b88c
+info,registry,people,W Sutherland,bc2d4f2e
+info,registry,people,XA Crone,e5ee7c83
+ball,1,0.1,Melbourne Renegades,J Brown,J Fraser-McGurk,JS Paris,0,0,,,,,,"",""
+ball,1,0.2,Melbourne Renegades,J Brown,J Fraser-McGurk,JS Paris,4,0,,,,,,"",""
+ball,1,0.3,Melbourne Renegades,J Brown,J Fraser-McGurk,JS Paris,2,0,,,,,,"",""
+ball,1,0.4,Melbourne Renegades,J Brown,J Fraser-McGurk,JS Paris,0,0,,,,,,caught,J Brown
+ball,1,0.5,Melbourne Renegades,TL Seifert,J Fraser-McGurk,JS Paris,0,0,,,,,,"",""
+ball,1,0.6,Melbourne Renegades,TL Seifert,J Fraser-McGurk,JS Paris,0,0,,,,,,"",""
+ball,1,1.1,Melbourne Renegades,J Fraser-McGurk,TL Seifert,MT Steketee,0,1,1,,,,,"",""
+ball,1,1.2,Melbourne Renegades,J Fraser-McGurk,TL Seifert,MT Steketee,0,0,,,,,,"",""
+ball,1,1.3,Melbourne Renegades,J Fraser-McGurk,TL Seifert,MT Steketee,0,0,,,,,,"",""
+ball,1,1.4,Melbourne Renegades,J Fraser-McGurk,TL Seifert,MT Steketee,0,0,,,,,,"",""
+ball,1,1.5,Melbourne Renegades,J Fraser-McGurk,TL Seifert,MT Steketee,0,0,,,,,,"",""
+ball,1,1.6,Melbourne Renegades,J Fraser-McGurk,TL Seifert,MT Steketee,4,0,,,,,,"",""
+ball,1,1.7,Melbourne Renegades,J Fraser-McGurk,TL Seifert,MT Steketee,1,0,,,,,,"",""
+ball,1,2.1,Melbourne Renegades,J Fraser-McGurk,TL Seifert,PM Siddle,0,0,,,,,,"",""
+ball,1,2.2,Melbourne Renegades,J Fraser-McGurk,TL Seifert,PM Siddle,0,0,,,,,,"",""
+ball,1,2.3,Melbourne Renegades,J Fraser-McGurk,TL Seifert,PM Siddle,0,0,,,,,,"",""
+ball,1,2.4,Melbourne Renegades,J Fraser-McGurk,TL Seifert,PM Siddle,0,0,,,,,,"",""
+ball,1,2.5,Melbourne Renegades,J Fraser-McGurk,TL Seifert,PM Siddle,1,0,,,,,,"",""
+ball,1,2.6,Melbourne Renegades,TL Seifert,J Fraser-McGurk,PM Siddle,0,0,,,,,,"",""
+ball,1,3.1,Melbourne Renegades,J Fraser-McGurk,TL Seifert,MT Steketee,0,0,,,,,,"",""
+ball,1,3.2,Melbourne Renegades,J Fraser-McGurk,TL Seifert,MT Steketee,6,0,,,,,,"",""
+ball,1,3.3,Melbourne Renegades,J Fraser-McGurk,TL Seifert,MT Steketee,0,0,,,,,,caught,J Fraser-McGurk
+ball,1,3.4,Melbourne Renegades,JG Bethell,TL Seifert,MT Steketee,2,0,,,,,,"",""
+ball,1,3.5,Melbourne Renegades,JG Bethell,TL Seifert,MT Steketee,0,0,,,,,,"",""
+ball,1,3.6,Melbourne Renegades,JG Bethell,TL Seifert,MT Steketee,0,0,,,,,,"",""
+ball,1,4.1,Melbourne Renegades,TL Seifert,JG Bethell,JS Paris,1,0,,,,,,"",""
+ball,1,4.2,Melbourne Renegades,JG Bethell,TL Seifert,JS Paris,0,0,,,,,,"",""
+ball,1,4.3,Melbourne Renegades,JG Bethell,TL Seifert,JS Paris,0,0,,,,,,"",""
+ball,1,4.4,Melbourne Renegades,JG Bethell,TL Seifert,JS Paris,0,0,,,,,,"",""
+ball,1,4.5,Melbourne Renegades,JG Bethell,TL Seifert,JS Paris,0,0,,,,,,"",""
+ball,1,4.6,Melbourne Renegades,JG Bethell,TL Seifert,JS Paris,0,0,,,,,,"",""
+ball,1,5.1,Melbourne Renegades,TL Seifert,JG Bethell,MP Stoinis,1,0,,,,,,"",""
+ball,1,5.2,Melbourne Renegades,JG Bethell,TL Seifert,MP Stoinis,1,0,,,,,,"",""
+ball,1,5.3,Melbourne Renegades,TL Seifert,JG Bethell,MP Stoinis,1,0,,,,,,"",""
+ball,1,5.4,Melbourne Renegades,JG Bethell,TL Seifert,MP Stoinis,2,0,,,,,,"",""
+ball,1,5.5,Melbourne Renegades,JG Bethell,TL Seifert,MP Stoinis,1,0,,,,,,"",""
+ball,1,5.6,Melbourne Renegades,TL Seifert,JG Bethell,MP Stoinis,4,0,,,,,,"",""
+ball,1,6.1,Melbourne Renegades,JG Bethell,TL Seifert,JS Paris,1,0,,,,,,"",""
+ball,1,6.2,Melbourne Renegades,TL Seifert,JG Bethell,JS Paris,0,0,,,,,,"",""
+ball,1,6.3,Melbourne Renegades,TL Seifert,JG Bethell,JS Paris,0,0,,,,,,"",""
+ball,1,6.4,Melbourne Renegades,TL Seifert,JG Bethell,JS Paris,1,0,,,,,,"",""
+ball,1,6.5,Melbourne Renegades,JG Bethell,TL Seifert,JS Paris,0,0,,,,,,"",""
+ball,1,6.6,Melbourne Renegades,JG Bethell,TL Seifert,JS Paris,4,0,,,,,,"",""
+ball,1,7.1,Melbourne Renegades,TL Seifert,JG Bethell,MP Stoinis,1,0,,,,,,"",""
+ball,1,7.2,Melbourne Renegades,JG Bethell,TL Seifert,MP Stoinis,1,0,,,,,,"",""
+ball,1,7.3,Melbourne Renegades,TL Seifert,JG Bethell,MP Stoinis,6,0,,,,,,"",""
+ball,1,7.4,Melbourne Renegades,TL Seifert,JG Bethell,MP Stoinis,1,0,,,,,,"",""
+ball,1,7.5,Melbourne Renegades,JG Bethell,TL Seifert,MP Stoinis,0,0,,,,,,"",""
+ball,1,7.6,Melbourne Renegades,JG Bethell,TL Seifert,MP Stoinis,4,0,,,,,,"",""
+ball,1,8.1,Melbourne Renegades,TL Seifert,JG Bethell,Usama Mir,1,0,,,,,,"",""
+ball,1,8.2,Melbourne Renegades,JG Bethell,TL Seifert,Usama Mir,1,0,,,,,,"",""
+ball,1,8.3,Melbourne Renegades,TL Seifert,JG Bethell,Usama Mir,0,0,,,,,,"",""
+ball,1,8.4,Melbourne Renegades,TL Seifert,JG Bethell,Usama Mir,0,0,,,,,,bowled,TL Seifert
+ball,1,8.5,Melbourne Renegades,JW Wells,JG Bethell,Usama Mir,0,0,,,,,,"",""
+ball,1,8.6,Melbourne Renegades,JW Wells,JG Bethell,Usama Mir,1,0,,,,,,"",""
+ball,1,9.1,Melbourne Renegades,JW Wells,JG Bethell,DW Lawrence,1,0,,,,,,"",""
+ball,1,9.2,Melbourne Renegades,JG Bethell,JW Wells,DW Lawrence,1,0,,,,,,"",""
+ball,1,9.3,Melbourne Renegades,JW Wells,JG Bethell,DW Lawrence,1,0,,,,,,"",""
+ball,1,9.4,Melbourne Renegades,JG Bethell,JW Wells,DW Lawrence,1,0,,,,,,"",""
+ball,1,9.5,Melbourne Renegades,JW Wells,JG Bethell,DW Lawrence,1,0,,,,,,"",""
+ball,1,9.6,Melbourne Renegades,JG Bethell,JW Wells,DW Lawrence,4,0,,,,,,"",""
+ball,1,10.1,Melbourne Renegades,JW Wells,JG Bethell,Usama Mir,1,0,,,,,,"",""
+ball,1,10.2,Melbourne Renegades,JG Bethell,JW Wells,Usama Mir,1,0,,,,,,"",""
+ball,1,10.3,Melbourne Renegades,JW Wells,JG Bethell,Usama Mir,1,0,,,,,,"",""
+ball,1,10.4,Melbourne Renegades,JG Bethell,JW Wells,Usama Mir,1,0,,,,,,"",""
+ball,1,10.5,Melbourne Renegades,JW Wells,JG Bethell,Usama Mir,1,0,,,,,,"",""
+ball,1,10.6,Melbourne Renegades,JG Bethell,JW Wells,Usama Mir,1,0,,,,,,"",""
+ball,1,11.1,Melbourne Renegades,JG Bethell,JW Wells,MT Steketee,1,0,,,,,,"",""
+ball,1,11.2,Melbourne Renegades,JW Wells,JG Bethell,MT Steketee,0,0,,,,,,"",""
+ball,1,11.3,Melbourne Renegades,JW Wells,JG Bethell,MT Steketee,2,0,,,,,,"",""
+ball,1,11.4,Melbourne Renegades,JW Wells,JG Bethell,MT Steketee,0,0,,,,,,"",""
+ball,1,11.5,Melbourne Renegades,JW Wells,JG Bethell,MT Steketee,1,0,,,,,,"",""
+ball,1,11.6,Melbourne Renegades,JG Bethell,JW Wells,MT Steketee,1,0,,,,,,"",""
+ball,1,12.1,Melbourne Renegades,JG Bethell,JW Wells,DW Lawrence,6,0,,,,,,"",""
+ball,1,12.2,Melbourne Renegades,JG Bethell,JW Wells,DW Lawrence,1,0,,,,,,"",""
+ball,1,12.3,Melbourne Renegades,JW Wells,JG Bethell,DW Lawrence,2,0,,,,,,"",""
+ball,1,12.4,Melbourne Renegades,JW Wells,JG Bethell,DW Lawrence,2,0,,,,,,"",""
+ball,1,12.5,Melbourne Renegades,JW Wells,JG Bethell,DW Lawrence,0,0,,,,,,"",""
+ball,1,12.6,Melbourne Renegades,JW Wells,JG Bethell,DW Lawrence,4,0,,,,,,"",""
+ball,1,13.1,Melbourne Renegades,JG Bethell,JW Wells,Usama Mir,1,0,,,,,,"",""
+ball,1,13.2,Melbourne Renegades,JW Wells,JG Bethell,Usama Mir,1,0,,,,,,"",""
+ball,1,13.3,Melbourne Renegades,JG Bethell,JW Wells,Usama Mir,6,0,,,,,,"",""
+ball,1,13.4,Melbourne Renegades,JG Bethell,JW Wells,Usama Mir,1,0,,,,,,"",""
+ball,1,13.5,Melbourne Renegades,JW Wells,JG Bethell,Usama Mir,1,0,,,,,,"",""
+ball,1,13.6,Melbourne Renegades,JG Bethell,JW Wells,Usama Mir,0,0,,,,,,"",""
+ball,1,14.1,Melbourne Renegades,JW Wells,JG Bethell,PM Siddle,4,0,,,,,,"",""
+ball,1,14.2,Melbourne Renegades,JW Wells,JG Bethell,PM Siddle,4,0,,,,,,"",""
+ball,1,14.3,Melbourne Renegades,JW Wells,JG Bethell,PM Siddle,0,0,,,,,,"",""
+ball,1,14.4,Melbourne Renegades,JW Wells,JG Bethell,PM Siddle,6,0,,,,,,"",""
+ball,1,14.5,Melbourne Renegades,JW Wells,JG Bethell,PM Siddle,0,0,,,,,,"",""
+ball,1,14.6,Melbourne Renegades,JW Wells,JG Bethell,PM Siddle,2,0,,,,,,"",""
+ball,1,15.1,Melbourne Renegades,JG Bethell,JW Wells,JS Paris,2,0,,,,,,"",""
+ball,1,15.2,Melbourne Renegades,JG Bethell,JW Wells,JS Paris,4,0,,,,,,"",""
+ball,1,15.3,Melbourne Renegades,JG Bethell,JW Wells,JS Paris,0,1,1,,,,,"",""
+ball,1,15.4,Melbourne Renegades,JG Bethell,JW Wells,JS Paris,0,1,,,,1,,"",""
+ball,1,15.5,Melbourne Renegades,JW Wells,JG Bethell,JS Paris,1,0,,,,,,"",""
+ball,1,15.6,Melbourne Renegades,JG Bethell,JW Wells,JS Paris,0,0,,,,,,caught,JG Bethell
+ball,1,15.7,Melbourne Renegades,LJ Evans,JW Wells,JS Paris,2,0,,,,,,"",""
+ball,1,16.1,Melbourne Renegades,JW Wells,LJ Evans,Usama Mir,0,0,,,,,,"",""
+ball,1,16.2,Melbourne Renegades,JW Wells,LJ Evans,Usama Mir,4,0,,,,,,"",""
+ball,1,16.3,Melbourne Renegades,JW Wells,LJ Evans,Usama Mir,2,0,,,,,,"",""
+ball,1,16.4,Melbourne Renegades,JW Wells,LJ Evans,Usama Mir,1,0,,,,,,"",""
+ball,1,16.5,Melbourne Renegades,LJ Evans,JW Wells,Usama Mir,1,0,,,,,,"",""
+ball,1,16.6,Melbourne Renegades,JW Wells,LJ Evans,Usama Mir,1,0,,,,,,"",""
+ball,1,17.1,Melbourne Renegades,JW Wells,LJ Evans,PM Siddle,0,0,,,,,,caught,JW Wells
+ball,1,17.2,Melbourne Renegades,W Sutherland,LJ Evans,PM Siddle,4,0,,,,,,"",""
+ball,1,17.3,Melbourne Renegades,W Sutherland,LJ Evans,PM Siddle,2,0,,,,,,"",""
+ball,1,17.4,Melbourne Renegades,W Sutherland,LJ Evans,PM Siddle,0,1,,,,1,,"",""
+ball,1,17.5,Melbourne Renegades,LJ Evans,W Sutherland,PM Siddle,0,1,1,,,,,"",""
+ball,1,17.6,Melbourne Renegades,LJ Evans,W Sutherland,PM Siddle,4,0,,,,,,"",""
+ball,1,17.7,Melbourne Renegades,LJ Evans,W Sutherland,PM Siddle,1,0,,,,,,"",""
+ball,1,18.1,Melbourne Renegades,LJ Evans,W Sutherland,MT Steketee,6,0,,,,,,"",""
+ball,1,18.2,Melbourne Renegades,LJ Evans,W Sutherland,MT Steketee,2,0,,,,,,"",""
+ball,1,18.3,Melbourne Renegades,LJ Evans,W Sutherland,MT Steketee,1,0,,,,,,"",""
+ball,1,18.4,Melbourne Renegades,W Sutherland,LJ Evans,MT Steketee,2,0,,,,,,"",""
+ball,1,18.5,Melbourne Renegades,W Sutherland,LJ Evans,MT Steketee,1,0,,,,,,"",""
+ball,1,18.6,Melbourne Renegades,LJ Evans,W Sutherland,MT Steketee,1,0,,,,,,"",""
+ball,1,19.1,Melbourne Renegades,LJ Evans,W Sutherland,PM Siddle,1,0,,,,,,"",""
+ball,1,19.2,Melbourne Renegades,W Sutherland,LJ Evans,PM Siddle,0,0,,,,,,caught,W Sutherland
+ball,1,19.3,Melbourne Renegades,XA Crone,LJ Evans,PM Siddle,1,0,,,,,,"",""
+ball,1,19.4,Melbourne Renegades,LJ Evans,XA Crone,PM Siddle,1,0,,,,,,"",""
+ball,1,19.5,Melbourne Renegades,XA Crone,LJ Evans,PM Siddle,0,0,,,,,,run out,XA Crone
+ball,1,19.6,Melbourne Renegades,LJ Evans,TS Rogers,PM Siddle,4,0,,,,,,"",""
+ball,2,0.1,Melbourne Stars,TF Rogers,BM Duckett,TS Rogers,0,0,,,,,,"",""
+ball,2,0.2,Melbourne Stars,TF Rogers,BM Duckett,TS Rogers,0,0,,,,,,"",""
+ball,2,0.3,Melbourne Stars,TF Rogers,BM Duckett,TS Rogers,0,0,,,,,,"",""
+ball,2,0.4,Melbourne Stars,TF Rogers,BM Duckett,TS Rogers,1,0,,,,,,"",""
+ball,2,0.5,Melbourne Stars,BM Duckett,TF Rogers,TS Rogers,0,0,,,,,,"",""
+ball,2,0.6,Melbourne Stars,BM Duckett,TF Rogers,TS Rogers,0,0,,,,,,"",""
+ball,2,1.1,Melbourne Stars,TF Rogers,BM Duckett,GS Sandhu,0,0,,,,,,bowled,TF Rogers
+ball,2,1.2,Melbourne Stars,SB Harper,BM Duckett,GS Sandhu,1,0,,,,,,"",""
+ball,2,1.3,Melbourne Stars,BM Duckett,SB Harper,GS Sandhu,1,0,,,,,,run out,SB Harper
+ball,2,1.4,Melbourne Stars,DW Lawrence,BM Duckett,GS Sandhu,1,0,,,,,,"",""
+ball,2,1.5,Melbourne Stars,BM Duckett,DW Lawrence,GS Sandhu,0,0,,,,,,"",""
+ball,2,1.6,Melbourne Stars,BM Duckett,DW Lawrence,GS Sandhu,1,0,,,,,,"",""
+ball,2,2.1,Melbourne Stars,BM Duckett,DW Lawrence,W Sutherland,0,0,,,,,,"",""
+ball,2,2.2,Melbourne Stars,BM Duckett,DW Lawrence,W Sutherland,6,0,,,,,,"",""
+ball,2,2.3,Melbourne Stars,BM Duckett,DW Lawrence,W Sutherland,0,0,,,,,,"",""
+ball,2,2.4,Melbourne Stars,BM Duckett,DW Lawrence,W Sutherland,4,0,,,,,,"",""
+ball,2,2.5,Melbourne Stars,BM Duckett,DW Lawrence,W Sutherland,0,0,,,,,,"",""
+ball,2,2.6,Melbourne Stars,BM Duckett,DW Lawrence,W Sutherland,0,1,1,,,,,"",""
+ball,2,2.7,Melbourne Stars,BM Duckett,DW Lawrence,W Sutherland,1,0,,,,,,"",""
+ball,2,3.1,Melbourne Stars,BM Duckett,DW Lawrence,TS Rogers,6,0,,,,,,"",""
+ball,2,3.2,Melbourne Stars,BM Duckett,DW Lawrence,TS Rogers,1,0,,,,,,"",""
+ball,2,3.3,Melbourne Stars,DW Lawrence,BM Duckett,TS Rogers,0,0,,,,,,"",""
+ball,2,3.4,Melbourne Stars,DW Lawrence,BM Duckett,TS Rogers,0,1,,,,1,,"",""
+ball,2,3.5,Melbourne Stars,BM Duckett,DW Lawrence,TS Rogers,6,0,,,,,,"",""
+ball,2,3.6,Melbourne Stars,BM Duckett,DW Lawrence,TS Rogers,1,0,,,,,,"",""
+ball,2,4.1,Melbourne Stars,BM Duckett,DW Lawrence,A Zampa,2,0,,,,,,"",""
+ball,2,4.2,Melbourne Stars,BM Duckett,DW Lawrence,A Zampa,0,0,,,,,,"",""
+ball,2,4.3,Melbourne Stars,BM Duckett,DW Lawrence,A Zampa,1,0,,,,,,"",""
+ball,2,4.4,Melbourne Stars,DW Lawrence,BM Duckett,A Zampa,1,0,,,,,,"",""
+ball,2,4.5,Melbourne Stars,BM Duckett,DW Lawrence,A Zampa,3,0,,,,,,"",""
+ball,2,4.6,Melbourne Stars,DW Lawrence,BM Duckett,A Zampa,0,0,,,,,,"",""
+ball,2,5.1,Melbourne Stars,BM Duckett,DW Lawrence,GS Sandhu,1,0,,,,,,"",""
+ball,2,5.2,Melbourne Stars,DW Lawrence,BM Duckett,GS Sandhu,0,1,1,,,,,"",""
+ball,2,5.3,Melbourne Stars,DW Lawrence,BM Duckett,GS Sandhu,0,0,,,,,,caught,DW Lawrence
+ball,2,5.4,Melbourne Stars,MP Stoinis,BM Duckett,GS Sandhu,1,0,,,,,,"",""
+ball,2,5.5,Melbourne Stars,BM Duckett,MP Stoinis,GS Sandhu,1,0,,,,,,"",""
+ball,2,5.6,Melbourne Stars,MP Stoinis,BM Duckett,GS Sandhu,1,0,,,,,,"",""
+ball,2,5.7,Melbourne Stars,BM Duckett,MP Stoinis,GS Sandhu,1,0,,,,,,"",""
+ball,2,6.1,Melbourne Stars,BM Duckett,MP Stoinis,JG Bethell,1,0,,,,,,"",""
+ball,2,6.2,Melbourne Stars,MP Stoinis,BM Duckett,JG Bethell,1,0,,,,,,"",""
+ball,2,6.3,Melbourne Stars,BM Duckett,MP Stoinis,JG Bethell,1,0,,,,,,"",""
+ball,2,6.4,Melbourne Stars,MP Stoinis,BM Duckett,JG Bethell,1,0,,,,,,"",""
+ball,2,6.5,Melbourne Stars,BM Duckett,MP Stoinis,JG Bethell,1,0,,,,,,"",""
+ball,2,6.6,Melbourne Stars,MP Stoinis,BM Duckett,JG Bethell,1,0,,,,,,"",""
+ball,2,7.1,Melbourne Stars,MP Stoinis,BM Duckett,XA Crone,1,0,,,,,,"",""
+ball,2,7.2,Melbourne Stars,BM Duckett,MP Stoinis,XA Crone,1,0,,,,,,"",""
+ball,2,7.3,Melbourne Stars,MP Stoinis,BM Duckett,XA Crone,4,0,,,,,,"",""
+ball,2,7.4,Melbourne Stars,MP Stoinis,BM Duckett,XA Crone,1,0,,,,,,"",""
+ball,2,7.5,Melbourne Stars,BM Duckett,MP Stoinis,XA Crone,1,0,,,,,,"",""
+ball,2,7.6,Melbourne Stars,MP Stoinis,BM Duckett,XA Crone,4,0,,,,,,"",""
+ball,2,8.1,Melbourne Stars,BM Duckett,MP Stoinis,A Zampa,0,0,,,,,,"",""
+ball,2,8.2,Melbourne Stars,BM Duckett,MP Stoinis,A Zampa,1,0,,,,,,"",""
+ball,2,8.3,Melbourne Stars,MP Stoinis,BM Duckett,A Zampa,6,0,,,,,,"",""
+ball,2,8.4,Melbourne Stars,MP Stoinis,BM Duckett,A Zampa,2,0,,,,,,"",""
+ball,2,8.5,Melbourne Stars,MP Stoinis,BM Duckett,A Zampa,0,0,,,,,,"",""
+ball,2,8.6,Melbourne Stars,MP Stoinis,BM Duckett,A Zampa,1,0,,,,,,"",""
+ball,2,9.1,Melbourne Stars,MP Stoinis,BM Duckett,W Sutherland,1,0,,,,,,"",""
+ball,2,9.2,Melbourne Stars,BM Duckett,MP Stoinis,W Sutherland,0,1,,,,1,,"",""
+ball,2,9.3,Melbourne Stars,MP Stoinis,BM Duckett,W Sutherland,1,0,,,,,,"",""
+ball,2,9.4,Melbourne Stars,BM Duckett,MP Stoinis,W Sutherland,4,0,,,,,,"",""
+ball,2,9.5,Melbourne Stars,BM Duckett,MP Stoinis,W Sutherland,1,0,,,,,,"",""
+ball,2,9.6,Melbourne Stars,MP Stoinis,BM Duckett,W Sutherland,0,0,,,,,,"",""
+ball,2,10.1,Melbourne Stars,BM Duckett,MP Stoinis,JG Bethell,1,0,,,,,,"",""
+ball,2,10.2,Melbourne Stars,MP Stoinis,BM Duckett,JG Bethell,4,0,,,,,,"",""
+ball,2,10.3,Melbourne Stars,MP Stoinis,BM Duckett,JG Bethell,1,0,,,,,,"",""
+ball,2,10.4,Melbourne Stars,BM Duckett,MP Stoinis,JG Bethell,1,0,,,,,,"",""
+ball,2,10.5,Melbourne Stars,MP Stoinis,BM Duckett,JG Bethell,1,0,,,,,,"",""
+ball,2,10.6,Melbourne Stars,BM Duckett,MP Stoinis,JG Bethell,1,0,,,,,,"",""
+ball,2,11.1,Melbourne Stars,BM Duckett,MP Stoinis,XA Crone,2,0,,,,,,"",""
+ball,2,11.2,Melbourne Stars,BM Duckett,MP Stoinis,XA Crone,1,0,,,,,,"",""
+ball,2,11.3,Melbourne Stars,MP Stoinis,BM Duckett,XA Crone,1,0,,,,,,"",""
+ball,2,11.4,Melbourne Stars,BM Duckett,MP Stoinis,XA Crone,4,0,,,,,,"",""
+ball,2,11.5,Melbourne Stars,BM Duckett,MP Stoinis,XA Crone,1,0,,,,,,"",""
+ball,2,11.6,Melbourne Stars,MP Stoinis,BM Duckett,XA Crone,1,0,,,,,,"",""
+ball,2,12.1,Melbourne Stars,MP Stoinis,BM Duckett,A Zampa,0,1,1,,,,,"",""
+ball,2,12.2,Melbourne Stars,MP Stoinis,BM Duckett,A Zampa,4,0,,,,,,"",""
+ball,2,12.3,Melbourne Stars,MP Stoinis,BM Duckett,A Zampa,1,0,,,,,,"",""
+ball,2,12.4,Melbourne Stars,BM Duckett,MP Stoinis,A Zampa,1,0,,,,,,"",""
+ball,2,12.5,Melbourne Stars,MP Stoinis,BM Duckett,A Zampa,0,0,,,,,,"",""
+ball,2,12.6,Melbourne Stars,MP Stoinis,BM Duckett,A Zampa,4,0,,,,,,"",""
+ball,2,12.7,Melbourne Stars,MP Stoinis,BM Duckett,A Zampa,1,0,,,,,,"",""
+ball,2,13.1,Melbourne Stars,MP Stoinis,BM Duckett,W Sutherland,0,0,,,,,,"",""
+ball,2,13.2,Melbourne Stars,MP Stoinis,BM Duckett,W Sutherland,1,0,,,,,,"",""
+ball,2,13.3,Melbourne Stars,BM Duckett,MP Stoinis,W Sutherland,1,0,,,,,,"",""
+ball,2,13.4,Melbourne Stars,MP Stoinis,BM Duckett,W Sutherland,1,0,,,,,,"",""
+ball,2,13.5,Melbourne Stars,BM Duckett,MP Stoinis,W Sutherland,1,0,,,,,,"",""
+ball,2,13.6,Melbourne Stars,MP Stoinis,BM Duckett,W Sutherland,0,0,,,,,,"",""
+ball,2,14.1,Melbourne Stars,BM Duckett,MP Stoinis,JG Bethell,0,0,,,,,,"",""
+ball,2,14.2,Melbourne Stars,BM Duckett,MP Stoinis,JG Bethell,1,0,,,,,,"",""
+ball,2,14.3,Melbourne Stars,MP Stoinis,BM Duckett,JG Bethell,0,1,1,,,,,"",""
+ball,2,14.4,Melbourne Stars,MP Stoinis,BM Duckett,JG Bethell,1,0,,,,,,"",""
+ball,2,14.5,Melbourne Stars,BM Duckett,MP Stoinis,JG Bethell,1,0,,,,,,"",""
+ball,2,14.6,Melbourne Stars,MP Stoinis,BM Duckett,JG Bethell,0,0,,,,,,"",""
+ball,2,14.7,Melbourne Stars,MP Stoinis,BM Duckett,JG Bethell,0,0,,,,,,"",""
+ball,2,15.1,Melbourne Stars,BM Duckett,MP Stoinis,GS Sandhu,0,0,,,,,,"",""
+ball,2,15.2,Melbourne Stars,BM Duckett,MP Stoinis,GS Sandhu,4,0,,,,,,"",""
+ball,2,15.3,Melbourne Stars,BM Duckett,MP Stoinis,GS Sandhu,0,0,,,,,,"",""
+ball,2,15.4,Melbourne Stars,BM Duckett,MP Stoinis,GS Sandhu,0,0,,,,,,caught,BM Duckett
+ball,2,15.5,Melbourne Stars,GJ Maxwell,MP Stoinis,GS Sandhu,1,0,,,,,,"",""
+ball,2,15.6,Melbourne Stars,MP Stoinis,GJ Maxwell,GS Sandhu,0,1,1,,,,,"",""
+ball,2,15.7,Melbourne Stars,MP Stoinis,GJ Maxwell,GS Sandhu,1,0,,,,,,"",""
+ball,2,16.1,Melbourne Stars,MP Stoinis,GJ Maxwell,TS Rogers,0,0,,,,,,caught,MP Stoinis
+ball,2,16.2,Melbourne Stars,HWR Cartwright,GJ Maxwell,TS Rogers,0,0,,,,,,"",""
+ball,2,16.3,Melbourne Stars,HWR Cartwright,GJ Maxwell,TS Rogers,2,0,,,,,,"",""
+ball,2,16.4,Melbourne Stars,HWR Cartwright,GJ Maxwell,TS Rogers,2,0,,,,,,"",""
+ball,2,16.5,Melbourne Stars,HWR Cartwright,GJ Maxwell,TS Rogers,0,0,,,,,,"",""
+ball,2,16.6,Melbourne Stars,HWR Cartwright,GJ Maxwell,TS Rogers,6,0,,,,,,"",""
+ball,2,17.1,Melbourne Stars,GJ Maxwell,HWR Cartwright,W Sutherland,6,0,,,,,,"",""
+ball,2,17.2,Melbourne Stars,GJ Maxwell,HWR Cartwright,W Sutherland,0,0,,,,,,"",""
+ball,2,17.3,Melbourne Stars,GJ Maxwell,HWR Cartwright,W Sutherland,1,0,,,,,,"",""
+ball,2,17.4,Melbourne Stars,HWR Cartwright,GJ Maxwell,W Sutherland,0,0,,,,,,"",""
+ball,2,17.5,Melbourne Stars,HWR Cartwright,GJ Maxwell,W Sutherland,1,0,,,,,,"",""
+ball,2,17.6,Melbourne Stars,GJ Maxwell,HWR Cartwright,W Sutherland,2,0,,,,,,"",""
+ball,2,18.1,Melbourne Stars,HWR Cartwright,GJ Maxwell,GS Sandhu,1,0,,,,,,"",""
+ball,2,18.2,Melbourne Stars,GJ Maxwell,HWR Cartwright,GS Sandhu,0,0,,,,,,"",""
+ball,2,18.3,Melbourne Stars,GJ Maxwell,HWR Cartwright,GS Sandhu,6,0,,,,,,"",""
+ball,2,18.4,Melbourne Stars,GJ Maxwell,HWR Cartwright,GS Sandhu,1,0,,,,,,"",""
+ball,2,18.5,Melbourne Stars,HWR Cartwright,GJ Maxwell,GS Sandhu,0,1,1,,,,,"",""
+ball,2,18.6,Melbourne Stars,HWR Cartwright,GJ Maxwell,GS Sandhu,1,0,,,,,,"",""
+ball,2,18.7,Melbourne Stars,GJ Maxwell,HWR Cartwright,GS Sandhu,2,0,,,,,,"",""
+ball,2,19.1,Melbourne Stars,HWR Cartwright,GJ Maxwell,TS Rogers,1,0,,,,,,"",""
+ball,2,19.2,Melbourne Stars,GJ Maxwell,HWR Cartwright,TS Rogers,1,0,,,,,,"",""
+ball,2,19.3,Melbourne Stars,HWR Cartwright,GJ Maxwell,TS Rogers,6,0,,,,,,"",""
+ball,2,19.4,Melbourne Stars,HWR Cartwright,GJ Maxwell,TS Rogers,4,0,,,,,,"",""

@@ -1,0 +1,309 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Tanzania
+info,team,St Helena
+info,gender,male
+info,season,2025/26
+info,date,2026/03/28
+info,event,ICC Men's T20 World Cup Africa Sub Regional Qualifier B
+info,match_number,10
+info,venue,"Achimota Senior Secondary School B Field, Accra"
+info,city,Accra
+info,toss_winner,Tanzania
+info,toss_decision,bat
+info,player_of_match,II Selemani
+info,umpire,A Jacobs
+info,umpire,D Odhiambo
+info,reserve_umpire,Patric Makumbi
+info,match_referee,O Chirombe
+info,winner,Tanzania
+info,winner_runs,161
+info,player,Tanzania,DA Mehta
+info,player,Tanzania,II Selemani
+info,player,Tanzania,A Augastin
+info,player,Tanzania,Arun Yadav
+info,player,Tanzania,MS Maker
+info,player,Tanzania,K Nassoro
+info,player,Tanzania,AM Kimote
+info,player,Tanzania,K Juma
+info,player,Tanzania,LS Barkania
+info,player,Tanzania,MO Kitunda
+info,player,Tanzania,YM Nkanya
+info,player,St Helena,J Essex
+info,player,St Helena,Delroy Leo
+info,player,St Helena,J Henry
+info,player,St Helena,A Yon
+info,player,St Helena,R Francis
+info,player,St Helena,J Thomas
+info,player,St Helena,AR Leo
+info,player,St Helena,CR Richards
+info,player,St Helena,Dane Leo
+info,player,St Helena,BK Stroud
+info,player,St Helena,J Yon
+info,registry,people,A Augastin,056e3558
+info,registry,people,A Jacobs,70d117de
+info,registry,people,A Yon,99bf1fb7
+info,registry,people,AM Kimote,34e36b65
+info,registry,people,AR Leo,e13f8b16
+info,registry,people,Arun Yadav,53ace082
+info,registry,people,BK Stroud,6577a6ad
+info,registry,people,CR Richards,c10a581f
+info,registry,people,D Odhiambo,45994517
+info,registry,people,DA Mehta,61a7d6e9
+info,registry,people,Dane Leo,391d8a48
+info,registry,people,Delroy Leo,e71f511e
+info,registry,people,II Selemani,b2dadc51
+info,registry,people,J Essex,84012d7f
+info,registry,people,J Henry,68e7e8d5
+info,registry,people,J Thomas,11b785d6
+info,registry,people,J Yon,ecd41f8c
+info,registry,people,K Juma,089ebf89
+info,registry,people,K Nassoro,29ee9bf9
+info,registry,people,LS Barkania,073126d6
+info,registry,people,MO Kitunda,badef0dc
+info,registry,people,MS Maker,14318ae4
+info,registry,people,O Chirombe,6345307f
+info,registry,people,Patric Makumbi,e4c69c16
+info,registry,people,R Francis,06b766f4
+info,registry,people,YM Nkanya,9238dd92
+ball,1,0.1,Tanzania,DA Mehta,II Selemani,R Francis,1,0,,,,,,"",""
+ball,1,0.2,Tanzania,II Selemani,DA Mehta,R Francis,4,0,,,,,,"",""
+ball,1,0.3,Tanzania,II Selemani,DA Mehta,R Francis,0,0,,,,,,"",""
+ball,1,0.4,Tanzania,II Selemani,DA Mehta,R Francis,6,0,,,,,,"",""
+ball,1,0.5,Tanzania,II Selemani,DA Mehta,R Francis,0,0,,,,,,"",""
+ball,1,0.6,Tanzania,II Selemani,DA Mehta,R Francis,4,0,,,,,,"",""
+ball,1,1.1,Tanzania,DA Mehta,II Selemani,BK Stroud,4,0,,,,,,"",""
+ball,1,1.2,Tanzania,DA Mehta,II Selemani,BK Stroud,1,0,,,,,,"",""
+ball,1,1.3,Tanzania,II Selemani,DA Mehta,BK Stroud,4,0,,,,,,"",""
+ball,1,1.4,Tanzania,II Selemani,DA Mehta,BK Stroud,0,0,,,,,,"",""
+ball,1,1.5,Tanzania,II Selemani,DA Mehta,BK Stroud,4,0,,,,,,"",""
+ball,1,1.6,Tanzania,II Selemani,DA Mehta,BK Stroud,0,0,,,,,,"",""
+ball,1,2.1,Tanzania,DA Mehta,II Selemani,R Francis,1,0,,,,,,"",""
+ball,1,2.2,Tanzania,II Selemani,DA Mehta,R Francis,1,0,,,,,,"",""
+ball,1,2.3,Tanzania,DA Mehta,II Selemani,R Francis,0,0,,,,,,"",""
+ball,1,2.4,Tanzania,DA Mehta,II Selemani,R Francis,0,0,,,,,,"",""
+ball,1,2.5,Tanzania,DA Mehta,II Selemani,R Francis,4,0,,,,,,"",""
+ball,1,2.6,Tanzania,DA Mehta,II Selemani,R Francis,0,0,,,,,,lbw,DA Mehta
+ball,1,3.1,Tanzania,II Selemani,A Augastin,J Yon,4,0,,,,,,"",""
+ball,1,3.2,Tanzania,II Selemani,A Augastin,J Yon,0,0,,,,,,"",""
+ball,1,3.3,Tanzania,II Selemani,A Augastin,J Yon,1,0,,,,,,"",""
+ball,1,3.4,Tanzania,A Augastin,II Selemani,J Yon,0,0,,,,,,"",""
+ball,1,3.5,Tanzania,A Augastin,II Selemani,J Yon,1,0,,,,,,"",""
+ball,1,3.6,Tanzania,II Selemani,A Augastin,J Yon,2,0,,,,,,"",""
+ball,1,4.1,Tanzania,A Augastin,II Selemani,R Francis,1,0,,,,,,"",""
+ball,1,4.2,Tanzania,II Selemani,A Augastin,R Francis,4,0,,,,,,"",""
+ball,1,4.3,Tanzania,II Selemani,A Augastin,R Francis,0,0,,,,,,"",""
+ball,1,4.4,Tanzania,II Selemani,A Augastin,R Francis,4,0,,,,,,"",""
+ball,1,4.5,Tanzania,II Selemani,A Augastin,R Francis,0,1,1,,,,,"",""
+ball,1,4.6,Tanzania,II Selemani,A Augastin,R Francis,0,1,1,,,,,"",""
+ball,1,4.7,Tanzania,II Selemani,A Augastin,R Francis,0,4,,,4,,,"",""
+ball,1,4.8,Tanzania,II Selemani,A Augastin,R Francis,1,0,,,,,,"",""
+ball,1,5.1,Tanzania,II Selemani,A Augastin,J Yon,0,0,,,,,,"",""
+ball,1,5.2,Tanzania,II Selemani,A Augastin,J Yon,1,0,,,,,,"",""
+ball,1,5.3,Tanzania,A Augastin,II Selemani,J Yon,1,0,,,,,,"",""
+ball,1,5.4,Tanzania,II Selemani,A Augastin,J Yon,0,1,1,,,,,"",""
+ball,1,5.5,Tanzania,II Selemani,A Augastin,J Yon,2,0,,,,,,"",""
+ball,1,5.6,Tanzania,II Selemani,A Augastin,J Yon,4,0,,,,,,"",""
+ball,1,5.7,Tanzania,II Selemani,A Augastin,J Yon,6,0,,,,,,"",""
+ball,1,6.1,Tanzania,A Augastin,II Selemani,J Henry,1,0,,,,,,"",""
+ball,1,6.2,Tanzania,II Selemani,A Augastin,J Henry,1,0,,,,,,"",""
+ball,1,6.3,Tanzania,A Augastin,II Selemani,J Henry,2,0,,,,,,"",""
+ball,1,6.4,Tanzania,A Augastin,II Selemani,J Henry,2,0,,,,,,"",""
+ball,1,6.5,Tanzania,A Augastin,II Selemani,J Henry,4,0,,,,,,"",""
+ball,1,6.6,Tanzania,A Augastin,II Selemani,J Henry,6,0,,,,,,"",""
+ball,1,7.1,Tanzania,II Selemani,A Augastin,AR Leo,0,2,2,,,,,"",""
+ball,1,7.2,Tanzania,A Augastin,II Selemani,AR Leo,4,0,,,,,,"",""
+ball,1,7.3,Tanzania,A Augastin,II Selemani,AR Leo,1,0,,,,,,"",""
+ball,1,7.4,Tanzania,II Selemani,A Augastin,AR Leo,0,1,,,1,,,"",""
+ball,1,7.5,Tanzania,A Augastin,II Selemani,AR Leo,4,0,,,,,,"",""
+ball,1,7.6,Tanzania,A Augastin,II Selemani,AR Leo,2,0,,,,,,"",""
+ball,1,7.7,Tanzania,A Augastin,II Selemani,AR Leo,1,0,,,,,,"",""
+ball,1,8.1,Tanzania,A Augastin,II Selemani,J Henry,1,0,,,,,,"",""
+ball,1,8.2,Tanzania,II Selemani,A Augastin,J Henry,2,0,,,,,,"",""
+ball,1,8.3,Tanzania,II Selemani,A Augastin,J Henry,6,0,,,,,,"",""
+ball,1,8.4,Tanzania,II Selemani,A Augastin,J Henry,2,0,,,,,,"",""
+ball,1,8.5,Tanzania,II Selemani,A Augastin,J Henry,0,0,,,,,,bowled,II Selemani
+ball,1,8.6,Tanzania,Arun Yadav,A Augastin,J Henry,2,0,,,,,,"",""
+ball,1,9.1,Tanzania,A Augastin,Arun Yadav,AR Leo,0,1,1,,,,,"",""
+ball,1,9.2,Tanzania,A Augastin,Arun Yadav,AR Leo,1,0,,,,,,"",""
+ball,1,9.3,Tanzania,Arun Yadav,A Augastin,AR Leo,2,0,,,,,,"",""
+ball,1,9.4,Tanzania,Arun Yadav,A Augastin,AR Leo,2,0,,,,,,"",""
+ball,1,9.5,Tanzania,Arun Yadav,A Augastin,AR Leo,4,0,,,,,,"",""
+ball,1,9.6,Tanzania,Arun Yadav,A Augastin,AR Leo,1,0,,,,,,"",""
+ball,1,9.7,Tanzania,A Augastin,Arun Yadav,AR Leo,0,1,1,,,,,"",""
+ball,1,9.8,Tanzania,A Augastin,Arun Yadav,AR Leo,0,1,1,,,,,"",""
+ball,1,9.9,Tanzania,A Augastin,Arun Yadav,AR Leo,1,0,,,,,,"",""
+ball,1,10.1,Tanzania,A Augastin,Arun Yadav,J Henry,1,0,,,,,,"",""
+ball,1,10.2,Tanzania,Arun Yadav,A Augastin,J Henry,1,0,,,,,,"",""
+ball,1,10.3,Tanzania,A Augastin,Arun Yadav,J Henry,2,0,,,,,,"",""
+ball,1,10.4,Tanzania,A Augastin,Arun Yadav,J Henry,1,0,,,,,,"",""
+ball,1,10.5,Tanzania,Arun Yadav,A Augastin,J Henry,0,0,,,,,,"",""
+ball,1,10.6,Tanzania,Arun Yadav,A Augastin,J Henry,4,0,,,,,,"",""
+ball,1,11.1,Tanzania,A Augastin,Arun Yadav,J Thomas,4,0,,,,,,"",""
+ball,1,11.2,Tanzania,A Augastin,Arun Yadav,J Thomas,2,0,,,,,,"",""
+ball,1,11.3,Tanzania,A Augastin,Arun Yadav,J Thomas,1,0,,,,,,"",""
+ball,1,11.4,Tanzania,Arun Yadav,A Augastin,J Thomas,1,0,,,,,,"",""
+ball,1,11.5,Tanzania,A Augastin,Arun Yadav,J Thomas,2,0,,,,,,"",""
+ball,1,11.6,Tanzania,A Augastin,Arun Yadav,J Thomas,2,0,,,,,,"",""
+ball,1,12.1,Tanzania,Arun Yadav,A Augastin,J Henry,1,0,,,,,,"",""
+ball,1,12.2,Tanzania,A Augastin,Arun Yadav,J Henry,6,0,,,,,,"",""
+ball,1,12.3,Tanzania,A Augastin,Arun Yadav,J Henry,1,0,,,,,,"",""
+ball,1,12.4,Tanzania,Arun Yadav,A Augastin,J Henry,2,0,,,,,,"",""
+ball,1,12.5,Tanzania,Arun Yadav,A Augastin,J Henry,1,0,,,,,,"",""
+ball,1,12.6,Tanzania,A Augastin,Arun Yadav,J Henry,0,0,,,,,,"",""
+ball,1,13.1,Tanzania,Arun Yadav,A Augastin,J Thomas,4,0,,,,,,"",""
+ball,1,13.2,Tanzania,Arun Yadav,A Augastin,J Thomas,0,0,,,,,,"",""
+ball,1,13.3,Tanzania,Arun Yadav,A Augastin,J Thomas,0,0,,,,,,"",""
+ball,1,13.4,Tanzania,Arun Yadav,A Augastin,J Thomas,1,0,,,,,,"",""
+ball,1,13.5,Tanzania,A Augastin,Arun Yadav,J Thomas,4,0,,,,,,"",""
+ball,1,13.6,Tanzania,A Augastin,Arun Yadav,J Thomas,1,0,,,,,,"",""
+ball,1,14.1,Tanzania,A Augastin,Arun Yadav,A Yon,0,0,,,,,,"",""
+ball,1,14.2,Tanzania,A Augastin,Arun Yadav,A Yon,1,0,,,,,,"",""
+ball,1,14.3,Tanzania,Arun Yadav,A Augastin,A Yon,0,0,,,,,,"",""
+ball,1,14.4,Tanzania,Arun Yadav,A Augastin,A Yon,1,0,,,,,,"",""
+ball,1,14.5,Tanzania,A Augastin,Arun Yadav,A Yon,0,0,,,,,,"",""
+ball,1,14.6,Tanzania,A Augastin,Arun Yadav,A Yon,1,0,,,,,,"",""
+ball,1,15.1,Tanzania,A Augastin,Arun Yadav,J Thomas,1,0,,,,,,"",""
+ball,1,15.2,Tanzania,Arun Yadav,A Augastin,J Thomas,6,0,,,,,,"",""
+ball,1,15.3,Tanzania,Arun Yadav,A Augastin,J Thomas,1,0,,,,,,"",""
+ball,1,15.4,Tanzania,A Augastin,Arun Yadav,J Thomas,0,0,,,,,,lbw,A Augastin
+ball,1,15.5,Tanzania,MS Maker,Arun Yadav,J Thomas,0,0,,,,,,"",""
+ball,1,15.6,Tanzania,MS Maker,Arun Yadav,J Thomas,4,0,,,,,,"",""
+ball,1,16.1,Tanzania,Arun Yadav,MS Maker,A Yon,0,4,,,,4,,"",""
+ball,1,16.2,Tanzania,Arun Yadav,MS Maker,A Yon,0,0,,,,,,"",""
+ball,1,16.3,Tanzania,Arun Yadav,MS Maker,A Yon,2,0,,,,,,"",""
+ball,1,16.4,Tanzania,Arun Yadav,MS Maker,A Yon,1,0,,,,,,"",""
+ball,1,16.5,Tanzania,MS Maker,Arun Yadav,A Yon,2,0,,,,,,"",""
+ball,1,16.6,Tanzania,MS Maker,Arun Yadav,A Yon,2,0,,,,,,"",""
+ball,1,17.1,Tanzania,Arun Yadav,MS Maker,J Thomas,2,0,,,,,,"",""
+ball,1,17.2,Tanzania,Arun Yadav,MS Maker,J Thomas,1,0,,,,,,"",""
+ball,1,17.3,Tanzania,MS Maker,Arun Yadav,J Thomas,1,0,,,,,,"",""
+ball,1,17.4,Tanzania,Arun Yadav,MS Maker,J Thomas,4,0,,,,,,"",""
+ball,1,17.5,Tanzania,Arun Yadav,MS Maker,J Thomas,2,0,,,,,,"",""
+ball,1,17.6,Tanzania,Arun Yadav,MS Maker,J Thomas,0,0,,,,,,bowled,Arun Yadav
+ball,1,18.1,Tanzania,MS Maker,K Nassoro,A Yon,1,0,,,,,,"",""
+ball,1,18.2,Tanzania,K Nassoro,MS Maker,A Yon,1,0,,,,,,"",""
+ball,1,18.3,Tanzania,MS Maker,K Nassoro,A Yon,2,0,,,,,,"",""
+ball,1,18.4,Tanzania,MS Maker,K Nassoro,A Yon,2,0,,,,,,"",""
+ball,1,18.5,Tanzania,MS Maker,K Nassoro,A Yon,2,0,,,,,,"",""
+ball,1,18.6,Tanzania,MS Maker,K Nassoro,A Yon,0,0,,,,,,"",""
+ball,1,19.1,Tanzania,K Nassoro,MS Maker,J Yon,2,0,,,,,,"",""
+ball,1,19.2,Tanzania,K Nassoro,MS Maker,J Yon,1,0,,,,,,"",""
+ball,1,19.3,Tanzania,MS Maker,K Nassoro,J Yon,4,0,,,,,,"",""
+ball,1,19.4,Tanzania,MS Maker,K Nassoro,J Yon,0,4,,,,4,,"",""
+ball,1,19.5,Tanzania,MS Maker,K Nassoro,J Yon,6,0,,,,,,"",""
+ball,1,19.6,Tanzania,MS Maker,K Nassoro,J Yon,2,0,,,,,,"",""
+ball,2,0.1,St Helena,J Essex,Delroy Leo,K Juma,0,0,,,,,,"",""
+ball,2,0.2,St Helena,J Essex,Delroy Leo,K Juma,0,0,,,,,,"",""
+ball,2,0.3,St Helena,J Essex,Delroy Leo,K Juma,1,0,,,,,,"",""
+ball,2,0.4,St Helena,Delroy Leo,J Essex,K Juma,1,0,,,,,,"",""
+ball,2,0.5,St Helena,J Essex,Delroy Leo,K Juma,0,0,,,,,,"",""
+ball,2,0.6,St Helena,J Essex,Delroy Leo,K Juma,2,0,,,,,,"",""
+ball,2,1.1,St Helena,Delroy Leo,J Essex,AM Kimote,0,0,,,,,,"",""
+ball,2,1.2,St Helena,Delroy Leo,J Essex,AM Kimote,1,0,,,,,,"",""
+ball,2,1.3,St Helena,J Essex,Delroy Leo,AM Kimote,0,1,1,,,,,"",""
+ball,2,1.4,St Helena,J Essex,Delroy Leo,AM Kimote,1,0,,,,,,"",""
+ball,2,1.5,St Helena,Delroy Leo,J Essex,AM Kimote,1,0,,,,,,"",""
+ball,2,1.6,St Helena,J Essex,Delroy Leo,AM Kimote,4,0,,,,,,"",""
+ball,2,1.7,St Helena,J Essex,Delroy Leo,AM Kimote,0,0,,,,,,"",""
+ball,2,2.1,St Helena,Delroy Leo,J Essex,K Juma,0,0,,,,,,"",""
+ball,2,2.2,St Helena,Delroy Leo,J Essex,K Juma,0,0,,,,,,"",""
+ball,2,2.3,St Helena,Delroy Leo,J Essex,K Juma,1,0,,,,,,"",""
+ball,2,2.4,St Helena,J Essex,Delroy Leo,K Juma,0,0,,,,,,"",""
+ball,2,2.5,St Helena,J Essex,Delroy Leo,K Juma,0,0,,,,,,"",""
+ball,2,2.6,St Helena,J Essex,Delroy Leo,K Juma,0,0,,,,,,"",""
+ball,2,3.1,St Helena,Delroy Leo,J Essex,AM Kimote,1,0,,,,,,"",""
+ball,2,3.2,St Helena,J Essex,Delroy Leo,AM Kimote,4,0,,,,,,"",""
+ball,2,3.3,St Helena,J Essex,Delroy Leo,AM Kimote,4,0,,,,,,"",""
+ball,2,3.4,St Helena,J Essex,Delroy Leo,AM Kimote,0,0,,,,,,lbw,J Essex
+ball,2,3.5,St Helena,J Henry,Delroy Leo,AM Kimote,0,0,,,,,,"",""
+ball,2,3.6,St Helena,J Henry,Delroy Leo,AM Kimote,4,0,,,,,,"",""
+ball,2,4.1,St Helena,Delroy Leo,J Henry,A Augastin,0,0,,,,,,"",""
+ball,2,4.2,St Helena,Delroy Leo,J Henry,A Augastin,0,0,,,,,,"",""
+ball,2,4.3,St Helena,Delroy Leo,J Henry,A Augastin,4,0,,,,,,"",""
+ball,2,4.4,St Helena,Delroy Leo,J Henry,A Augastin,0,0,,,,,,caught,Delroy Leo
+ball,2,4.5,St Helena,A Yon,J Henry,A Augastin,0,0,,,,,,"",""
+ball,2,4.6,St Helena,A Yon,J Henry,A Augastin,0,0,,,,,,"",""
+ball,2,5.1,St Helena,J Henry,A Yon,YM Nkanya,0,0,,,,,,"",""
+ball,2,5.2,St Helena,J Henry,A Yon,YM Nkanya,2,0,,,,,,"",""
+ball,2,5.3,St Helena,J Henry,A Yon,YM Nkanya,1,0,,,,,,"",""
+ball,2,5.4,St Helena,A Yon,J Henry,YM Nkanya,0,0,,,,,,"",""
+ball,2,5.5,St Helena,A Yon,J Henry,YM Nkanya,0,1,1,,,,,"",""
+ball,2,5.6,St Helena,A Yon,J Henry,YM Nkanya,0,0,,,,,,"",""
+ball,2,5.7,St Helena,A Yon,J Henry,YM Nkanya,0,0,,,,,,"",""
+ball,2,6.1,St Helena,J Henry,A Yon,A Augastin,0,0,,,,,,"",""
+ball,2,6.2,St Helena,J Henry,A Yon,A Augastin,6,0,,,,,,"",""
+ball,2,6.3,St Helena,J Henry,A Yon,A Augastin,0,0,,,,,,"",""
+ball,2,6.4,St Helena,J Henry,A Yon,A Augastin,0,0,,,,,,"",""
+ball,2,6.5,St Helena,J Henry,A Yon,A Augastin,0,0,,,,,,"",""
+ball,2,6.6,St Helena,J Henry,A Yon,A Augastin,0,0,,,,,,"",""
+ball,2,7.1,St Helena,A Yon,J Henry,YM Nkanya,0,0,,,,,,lbw,A Yon
+ball,2,7.2,St Helena,R Francis,J Henry,YM Nkanya,0,0,,,,,,"",""
+ball,2,7.3,St Helena,R Francis,J Henry,YM Nkanya,0,0,,,,,,"",""
+ball,2,7.4,St Helena,R Francis,J Henry,YM Nkanya,0,0,,,,,,"",""
+ball,2,7.5,St Helena,R Francis,J Henry,YM Nkanya,0,0,,,,,,"",""
+ball,2,7.6,St Helena,R Francis,J Henry,YM Nkanya,0,0,,,,,,"",""
+ball,2,8.1,St Helena,J Henry,R Francis,LS Barkania,0,0,,,,,,"",""
+ball,2,8.2,St Helena,J Henry,R Francis,LS Barkania,1,0,,,,,,"",""
+ball,2,8.3,St Helena,R Francis,J Henry,LS Barkania,0,0,,,,,,"",""
+ball,2,8.4,St Helena,R Francis,J Henry,LS Barkania,0,0,,,,,,"",""
+ball,2,8.5,St Helena,R Francis,J Henry,LS Barkania,0,0,,,,,,caught,R Francis
+ball,2,8.6,St Helena,J Thomas,J Henry,LS Barkania,0,0,,,,,,"",""
+ball,2,9.1,St Helena,J Henry,J Thomas,YM Nkanya,0,0,,,,,,"",""
+ball,2,9.2,St Helena,J Henry,J Thomas,YM Nkanya,2,0,,,,,,"",""
+ball,2,9.3,St Helena,J Henry,J Thomas,YM Nkanya,6,0,,,,,,"",""
+ball,2,9.4,St Helena,J Henry,J Thomas,YM Nkanya,0,0,,,,,,"",""
+ball,2,9.5,St Helena,J Henry,J Thomas,YM Nkanya,1,0,,,,,,"",""
+ball,2,9.6,St Helena,J Thomas,J Henry,YM Nkanya,1,0,,,,,,"",""
+ball,2,10.1,St Helena,J Thomas,J Henry,LS Barkania,0,0,,,,,,"",""
+ball,2,10.2,St Helena,J Thomas,J Henry,LS Barkania,0,0,,,,,,"",""
+ball,2,10.3,St Helena,J Thomas,J Henry,LS Barkania,1,0,,,,,,"",""
+ball,2,10.4,St Helena,J Henry,J Thomas,LS Barkania,0,0,,,,,,caught,J Henry
+ball,2,10.5,St Helena,AR Leo,J Thomas,LS Barkania,0,0,,,,,,"",""
+ball,2,10.6,St Helena,AR Leo,J Thomas,LS Barkania,0,0,,,,,,"",""
+ball,2,11.1,St Helena,J Thomas,AR Leo,YM Nkanya,0,0,,,,,,"",""
+ball,2,11.2,St Helena,J Thomas,AR Leo,YM Nkanya,2,0,,,,,,"",""
+ball,2,11.3,St Helena,J Thomas,AR Leo,YM Nkanya,0,0,,,,,,"",""
+ball,2,11.4,St Helena,J Thomas,AR Leo,YM Nkanya,0,0,,,,,,"",""
+ball,2,11.5,St Helena,J Thomas,AR Leo,YM Nkanya,0,0,,,,,,"",""
+ball,2,11.6,St Helena,J Thomas,AR Leo,YM Nkanya,1,0,,,,,,"",""
+ball,2,12.1,St Helena,J Thomas,AR Leo,LS Barkania,0,0,,,,,,"",""
+ball,2,12.2,St Helena,J Thomas,AR Leo,LS Barkania,0,0,,,,,,caught,J Thomas
+ball,2,12.3,St Helena,CR Richards,AR Leo,LS Barkania,1,0,,,,,,"",""
+ball,2,12.4,St Helena,AR Leo,CR Richards,LS Barkania,2,0,,,,,,"",""
+ball,2,12.5,St Helena,AR Leo,CR Richards,LS Barkania,1,0,,,,,,"",""
+ball,2,12.6,St Helena,CR Richards,AR Leo,LS Barkania,0,1,1,,,,,"",""
+ball,2,12.7,St Helena,CR Richards,AR Leo,LS Barkania,0,0,,,,,,"",""
+ball,2,13.1,St Helena,AR Leo,CR Richards,K Nassoro,1,0,,,,,,"",""
+ball,2,13.2,St Helena,CR Richards,AR Leo,K Nassoro,0,0,,,,,,"",""
+ball,2,13.3,St Helena,CR Richards,AR Leo,K Nassoro,0,0,,,,,,"",""
+ball,2,13.4,St Helena,CR Richards,AR Leo,K Nassoro,6,0,,,,,,"",""
+ball,2,13.5,St Helena,CR Richards,AR Leo,K Nassoro,0,0,,,,,,"",""
+ball,2,13.6,St Helena,CR Richards,AR Leo,K Nassoro,0,0,,,,,,bowled,CR Richards
+ball,2,14.1,St Helena,AR Leo,Dane Leo,LS Barkania,0,0,,,,,,"",""
+ball,2,14.2,St Helena,AR Leo,Dane Leo,LS Barkania,0,0,,,,,,"",""
+ball,2,14.3,St Helena,AR Leo,Dane Leo,LS Barkania,0,0,,,,,,"",""
+ball,2,14.4,St Helena,AR Leo,Dane Leo,LS Barkania,0,0,,,,,,"",""
+ball,2,14.5,St Helena,AR Leo,Dane Leo,LS Barkania,1,0,,,,,,"",""
+ball,2,14.6,St Helena,Dane Leo,AR Leo,LS Barkania,0,0,,,,,,"",""
+ball,2,15.1,St Helena,AR Leo,Dane Leo,K Nassoro,0,0,,,,,,"",""
+ball,2,15.2,St Helena,AR Leo,Dane Leo,K Nassoro,0,0,,,,,,caught,AR Leo
+ball,2,15.3,St Helena,BK Stroud,Dane Leo,K Nassoro,0,0,,,,,,"",""
+ball,2,15.4,St Helena,BK Stroud,Dane Leo,K Nassoro,0,0,,,,,,"",""
+ball,2,15.5,St Helena,BK Stroud,Dane Leo,K Nassoro,0,0,,,,,,"",""
+ball,2,15.6,St Helena,BK Stroud,Dane Leo,K Nassoro,0,0,,,,,,"",""
+ball,2,16.1,St Helena,Dane Leo,BK Stroud,K Juma,0,0,,,,,,"",""
+ball,2,16.2,St Helena,Dane Leo,BK Stroud,K Juma,0,0,,,,,,"",""
+ball,2,16.3,St Helena,Dane Leo,BK Stroud,K Juma,0,0,,,,,,"",""
+ball,2,16.4,St Helena,Dane Leo,BK Stroud,K Juma,4,0,,,,,,"",""
+ball,2,16.5,St Helena,Dane Leo,BK Stroud,K Juma,0,0,,,,,,"",""
+ball,2,16.6,St Helena,Dane Leo,BK Stroud,K Juma,0,0,,,,,,bowled,Dane Leo
+ball,2,17.1,St Helena,BK Stroud,J Yon,K Nassoro,0,0,,,,,,"",""
+ball,2,17.2,St Helena,BK Stroud,J Yon,K Nassoro,1,0,,,,,,"",""
+ball,2,17.3,St Helena,J Yon,BK Stroud,K Nassoro,1,0,,,,,,"",""
+ball,2,17.4,St Helena,BK Stroud,J Yon,K Nassoro,0,0,,,,,,"",""
+ball,2,17.5,St Helena,BK Stroud,J Yon,K Nassoro,0,0,,,,,,"",""
+ball,2,17.6,St Helena,BK Stroud,J Yon,K Nassoro,0,0,,,,,,"",""
+ball,2,18.1,St Helena,J Yon,BK Stroud,K Juma,0,1,,,1,,,"",""
+ball,2,18.2,St Helena,BK Stroud,J Yon,K Juma,0,0,,,,,,"",""
+ball,2,18.3,St Helena,BK Stroud,J Yon,K Juma,0,0,,,,,,bowled,BK Stroud

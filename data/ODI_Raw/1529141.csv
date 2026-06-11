@@ -1,0 +1,351 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Namibia
+info,team,Scotland
+info,gender,male
+info,season,2026
+info,date,2026/04/06
+info,event,ICC Men's Cricket World Cup League 2
+info,match_number,93
+info,venue,"Namibia Cricket Ground, Windhoek"
+info,city,Windhoek
+info,toss_winner,Scotland
+info,toss_decision,field
+info,umpire,Claus Schumacher
+info,umpire,Stephen Harris
+info,reserve_umpire,E Lassen
+info,match_referee,ET Dube
+info,outcome,no result
+info,player,Namibia,WP Myburgh
+info,player,Namibia,MB Kruger
+info,player,Namibia,JN Frylinck
+info,player,Namibia,MG Erasmus
+info,player,Namibia,L Steenkamp
+info,player,Namibia,ZE Green
+info,player,Namibia,DO Leicher
+info,player,Namibia,JJ Smit
+info,player,Namibia,R Trumpelmann
+info,player,Namibia,BM Scholtz
+info,player,Namibia,JT Brassell
+info,player,Scotland,HG Munsey
+info,player,Scotland,FDW McCreath
+info,player,Scotland,BJ McMullen
+info,player,Scotland,RD Berrington
+info,player,Scotland,MRJ Watt
+info,player,Scotland,CM McBride
+info,player,Scotland,MH Cross
+info,player,Scotland,MA Leask
+info,player,Scotland,J Jarvis
+info,player,Scotland,O Davidson
+info,player,Scotland,SM Sharif
+info,registry,people,BJ McMullen,436c763a
+info,registry,people,BM Scholtz,e85d03d6
+info,registry,people,CM McBride,9ec74db8
+info,registry,people,Claus Schumacher,85645e62
+info,registry,people,DO Leicher,e28bb0b9
+info,registry,people,E Lassen,a476d6d0
+info,registry,people,ET Dube,4c0891bc
+info,registry,people,FDW McCreath,bccead86
+info,registry,people,HG Munsey,ff014c34
+info,registry,people,J Jarvis,ab54f9e7
+info,registry,people,JJ Smit,bb134e5c
+info,registry,people,JN Frylinck,3c87f0c3
+info,registry,people,JT Brassell,537021f5
+info,registry,people,L Steenkamp,8bd9fd13
+info,registry,people,MA Leask,28131839
+info,registry,people,MB Kruger,c51add25
+info,registry,people,MG Erasmus,95a5e066
+info,registry,people,MH Cross,8b261d84
+info,registry,people,MRJ Watt,1252f71a
+info,registry,people,O Davidson,63249474
+info,registry,people,R Trumpelmann,ff6a7ab5
+info,registry,people,RD Berrington,e21bc7f3
+info,registry,people,SM Sharif,f43dd8c2
+info,registry,people,Stephen Harris,fdcfd4aa
+info,registry,people,WP Myburgh,f1a042e5
+info,registry,people,ZE Green,8716233e
+ball,1,0.1,Namibia,WP Myburgh,MB Kruger,BJ McMullen,0,0,,,,,,"",""
+ball,1,0.2,Namibia,WP Myburgh,MB Kruger,BJ McMullen,0,0,,,,,,"",""
+ball,1,0.3,Namibia,WP Myburgh,MB Kruger,BJ McMullen,0,0,,,,,,"",""
+ball,1,0.4,Namibia,WP Myburgh,MB Kruger,BJ McMullen,0,0,,,,,,"",""
+ball,1,0.5,Namibia,WP Myburgh,MB Kruger,BJ McMullen,0,0,,,,,,"",""
+ball,1,0.6,Namibia,WP Myburgh,MB Kruger,BJ McMullen,0,0,,,,,,"",""
+ball,1,1.1,Namibia,MB Kruger,WP Myburgh,J Jarvis,0,0,,,,,,"",""
+ball,1,1.2,Namibia,MB Kruger,WP Myburgh,J Jarvis,1,0,,,,,,"",""
+ball,1,1.3,Namibia,WP Myburgh,MB Kruger,J Jarvis,0,0,,,,,,"",""
+ball,1,1.4,Namibia,WP Myburgh,MB Kruger,J Jarvis,0,0,,,,,,"",""
+ball,1,1.5,Namibia,WP Myburgh,MB Kruger,J Jarvis,0,0,,,,,,"",""
+ball,1,1.6,Namibia,WP Myburgh,MB Kruger,J Jarvis,0,0,,,,,,bowled,WP Myburgh
+ball,1,2.1,Namibia,MB Kruger,JN Frylinck,BJ McMullen,0,0,,,,,,"",""
+ball,1,2.2,Namibia,MB Kruger,JN Frylinck,BJ McMullen,0,0,,,,,,"",""
+ball,1,2.3,Namibia,MB Kruger,JN Frylinck,BJ McMullen,0,0,,,,,,"",""
+ball,1,2.4,Namibia,MB Kruger,JN Frylinck,BJ McMullen,0,0,,,,,,"",""
+ball,1,2.5,Namibia,MB Kruger,JN Frylinck,BJ McMullen,1,0,,,,,,"",""
+ball,1,2.6,Namibia,JN Frylinck,MB Kruger,BJ McMullen,0,0,,,,,,"",""
+ball,1,3.1,Namibia,MB Kruger,JN Frylinck,J Jarvis,1,0,,,,,,"",""
+ball,1,3.2,Namibia,JN Frylinck,MB Kruger,J Jarvis,4,0,,,,,,"",""
+ball,1,3.3,Namibia,JN Frylinck,MB Kruger,J Jarvis,0,0,,,,,,"",""
+ball,1,3.4,Namibia,JN Frylinck,MB Kruger,J Jarvis,0,1,1,,,,,"",""
+ball,1,3.5,Namibia,JN Frylinck,MB Kruger,J Jarvis,0,0,,,,,,"",""
+ball,1,3.6,Namibia,JN Frylinck,MB Kruger,J Jarvis,0,0,,,,,,"",""
+ball,1,3.7,Namibia,JN Frylinck,MB Kruger,J Jarvis,0,0,,,,,,"",""
+ball,1,4.1,Namibia,MB Kruger,JN Frylinck,BJ McMullen,0,0,,,,,,"",""
+ball,1,4.2,Namibia,MB Kruger,JN Frylinck,BJ McMullen,0,0,,,,,,"",""
+ball,1,4.3,Namibia,MB Kruger,JN Frylinck,BJ McMullen,0,0,,,,,,"",""
+ball,1,4.4,Namibia,MB Kruger,JN Frylinck,BJ McMullen,0,0,,,,,,"",""
+ball,1,4.5,Namibia,MB Kruger,JN Frylinck,BJ McMullen,0,0,,,,,,"",""
+ball,1,4.6,Namibia,MB Kruger,JN Frylinck,BJ McMullen,0,0,,,,,,"",""
+ball,1,5.1,Namibia,JN Frylinck,MB Kruger,J Jarvis,0,1,1,,,,,"",""
+ball,1,5.2,Namibia,JN Frylinck,MB Kruger,J Jarvis,0,0,,,,,,"",""
+ball,1,5.3,Namibia,JN Frylinck,MB Kruger,J Jarvis,0,0,,,,,,"",""
+ball,1,5.4,Namibia,JN Frylinck,MB Kruger,J Jarvis,4,0,,,,,,"",""
+ball,1,5.5,Namibia,JN Frylinck,MB Kruger,J Jarvis,0,0,,,,,,"",""
+ball,1,5.6,Namibia,JN Frylinck,MB Kruger,J Jarvis,0,0,,,,,,"",""
+ball,1,5.7,Namibia,JN Frylinck,MB Kruger,J Jarvis,0,1,,,,1,,"",""
+ball,1,6.1,Namibia,JN Frylinck,MB Kruger,BJ McMullen,1,0,,,,,,"",""
+ball,1,6.2,Namibia,MB Kruger,JN Frylinck,BJ McMullen,0,0,,,,,,bowled,MB Kruger
+ball,1,6.3,Namibia,MG Erasmus,JN Frylinck,BJ McMullen,0,0,,,,,,"",""
+ball,1,6.4,Namibia,MG Erasmus,JN Frylinck,BJ McMullen,0,0,,,,,,"",""
+ball,1,6.5,Namibia,MG Erasmus,JN Frylinck,BJ McMullen,0,0,,,,,,"",""
+ball,1,6.6,Namibia,MG Erasmus,JN Frylinck,BJ McMullen,0,0,,,,,,"",""
+ball,1,7.1,Namibia,JN Frylinck,MG Erasmus,J Jarvis,0,0,,,,,,"",""
+ball,1,7.2,Namibia,JN Frylinck,MG Erasmus,J Jarvis,0,0,,,,,,"",""
+ball,1,7.3,Namibia,JN Frylinck,MG Erasmus,J Jarvis,0,0,,,,,,"",""
+ball,1,7.4,Namibia,JN Frylinck,MG Erasmus,J Jarvis,0,0,,,,,,"",""
+ball,1,7.5,Namibia,JN Frylinck,MG Erasmus,J Jarvis,0,0,,,,,,"",""
+ball,1,7.6,Namibia,JN Frylinck,MG Erasmus,J Jarvis,0,1,1,,,,,"",""
+ball,1,7.7,Namibia,JN Frylinck,MG Erasmus,J Jarvis,0,1,1,,,,,"",""
+ball,1,7.8,Namibia,JN Frylinck,MG Erasmus,J Jarvis,1,0,,,,,,"",""
+ball,1,8.1,Namibia,JN Frylinck,MG Erasmus,BJ McMullen,4,0,,,,,,"",""
+ball,1,8.2,Namibia,JN Frylinck,MG Erasmus,BJ McMullen,0,0,,,,,,"",""
+ball,1,8.3,Namibia,JN Frylinck,MG Erasmus,BJ McMullen,0,0,,,,,,"",""
+ball,1,8.4,Namibia,JN Frylinck,MG Erasmus,BJ McMullen,0,0,,,,,,"",""
+ball,1,8.5,Namibia,JN Frylinck,MG Erasmus,BJ McMullen,0,0,,,,,,"",""
+ball,1,8.6,Namibia,JN Frylinck,MG Erasmus,BJ McMullen,0,0,,,,,,"",""
+ball,1,9.1,Namibia,MG Erasmus,JN Frylinck,SM Sharif,0,0,,,,,,"",""
+ball,1,9.2,Namibia,MG Erasmus,JN Frylinck,SM Sharif,0,0,,,,,,"",""
+ball,1,9.3,Namibia,MG Erasmus,JN Frylinck,SM Sharif,1,0,,,,,,"",""
+ball,1,9.4,Namibia,JN Frylinck,MG Erasmus,SM Sharif,0,0,,,,,,bowled,JN Frylinck
+ball,1,9.5,Namibia,L Steenkamp,MG Erasmus,SM Sharif,0,0,,,,,,"",""
+ball,1,9.6,Namibia,L Steenkamp,MG Erasmus,SM Sharif,4,0,,,,,,"",""
+ball,1,10.1,Namibia,MG Erasmus,L Steenkamp,BJ McMullen,1,0,,,,,,"",""
+ball,1,10.2,Namibia,L Steenkamp,MG Erasmus,BJ McMullen,0,0,,,,,,"",""
+ball,1,10.3,Namibia,L Steenkamp,MG Erasmus,BJ McMullen,0,0,,,,,,"",""
+ball,1,10.4,Namibia,L Steenkamp,MG Erasmus,BJ McMullen,0,0,,,,,,"",""
+ball,1,10.5,Namibia,L Steenkamp,MG Erasmus,BJ McMullen,0,0,,,,,,"",""
+ball,1,10.6,Namibia,L Steenkamp,MG Erasmus,BJ McMullen,0,0,,,,,,"",""
+ball,1,11.1,Namibia,MG Erasmus,L Steenkamp,SM Sharif,3,0,,,,,,"",""
+ball,1,11.2,Namibia,L Steenkamp,MG Erasmus,SM Sharif,0,0,,,,,,"",""
+ball,1,11.3,Namibia,L Steenkamp,MG Erasmus,SM Sharif,0,0,,,,,,"",""
+ball,1,11.4,Namibia,L Steenkamp,MG Erasmus,SM Sharif,0,0,,,,,,"",""
+ball,1,11.5,Namibia,L Steenkamp,MG Erasmus,SM Sharif,1,0,,,,,,"",""
+ball,1,11.6,Namibia,MG Erasmus,L Steenkamp,SM Sharif,0,0,,,,,,"",""
+ball,1,12.1,Namibia,L Steenkamp,MG Erasmus,BJ McMullen,0,0,,,,,,"",""
+ball,1,12.2,Namibia,L Steenkamp,MG Erasmus,BJ McMullen,1,0,,,,,,"",""
+ball,1,12.3,Namibia,MG Erasmus,L Steenkamp,BJ McMullen,3,0,,,,,,"",""
+ball,1,12.4,Namibia,L Steenkamp,MG Erasmus,BJ McMullen,0,0,,,,,,"",""
+ball,1,12.5,Namibia,L Steenkamp,MG Erasmus,BJ McMullen,0,0,,,,,,"",""
+ball,1,12.6,Namibia,L Steenkamp,MG Erasmus,BJ McMullen,0,0,,,,,,"",""
+ball,1,13.1,Namibia,MG Erasmus,L Steenkamp,SM Sharif,0,0,,,,,,"",""
+ball,1,13.2,Namibia,MG Erasmus,L Steenkamp,SM Sharif,0,0,,,,,,"",""
+ball,1,13.3,Namibia,MG Erasmus,L Steenkamp,SM Sharif,0,0,,,,,,caught,MG Erasmus
+ball,1,13.4,Namibia,ZE Green,L Steenkamp,SM Sharif,0,0,,,,,,"",""
+ball,1,13.5,Namibia,ZE Green,L Steenkamp,SM Sharif,0,0,,,,,,"",""
+ball,1,13.6,Namibia,ZE Green,L Steenkamp,SM Sharif,1,0,,,,,,"",""
+ball,1,14.1,Namibia,ZE Green,L Steenkamp,J Jarvis,0,0,,,,,,"",""
+ball,1,14.2,Namibia,ZE Green,L Steenkamp,J Jarvis,0,0,,,,,,"",""
+ball,1,14.3,Namibia,ZE Green,L Steenkamp,J Jarvis,0,0,,,,,,"",""
+ball,1,14.4,Namibia,ZE Green,L Steenkamp,J Jarvis,0,0,,,,,,"",""
+ball,1,14.5,Namibia,ZE Green,L Steenkamp,J Jarvis,2,0,,,,,,"",""
+ball,1,14.6,Namibia,ZE Green,L Steenkamp,J Jarvis,0,0,,,,,,"",""
+ball,1,15.1,Namibia,L Steenkamp,ZE Green,SM Sharif,4,0,,,,,,"",""
+ball,1,15.2,Namibia,L Steenkamp,ZE Green,SM Sharif,0,0,,,,,,"",""
+ball,1,15.3,Namibia,L Steenkamp,ZE Green,SM Sharif,0,0,,,,,,"",""
+ball,1,15.4,Namibia,L Steenkamp,ZE Green,SM Sharif,1,0,,,,,,"",""
+ball,1,15.5,Namibia,ZE Green,L Steenkamp,SM Sharif,4,0,,,,,,"",""
+ball,1,15.6,Namibia,ZE Green,L Steenkamp,SM Sharif,0,0,,,,,,"",""
+ball,1,16.1,Namibia,L Steenkamp,ZE Green,J Jarvis,1,0,,,,,,"",""
+ball,1,16.2,Namibia,ZE Green,L Steenkamp,J Jarvis,0,0,,,,,,"",""
+ball,1,16.3,Namibia,ZE Green,L Steenkamp,J Jarvis,0,0,,,,,,"",""
+ball,1,16.4,Namibia,ZE Green,L Steenkamp,J Jarvis,0,0,,,,,,"",""
+ball,1,16.5,Namibia,ZE Green,L Steenkamp,J Jarvis,0,1,1,,,,,"",""
+ball,1,16.6,Namibia,ZE Green,L Steenkamp,J Jarvis,0,0,,,,,,"",""
+ball,1,16.7,Namibia,ZE Green,L Steenkamp,J Jarvis,0,0,,,,,,"",""
+ball,1,17.1,Namibia,L Steenkamp,ZE Green,MRJ Watt,0,0,,,,,,"",""
+ball,1,17.2,Namibia,L Steenkamp,ZE Green,MRJ Watt,0,0,,,,,,"",""
+ball,1,17.3,Namibia,L Steenkamp,ZE Green,MRJ Watt,1,0,,,,,,"",""
+ball,1,17.4,Namibia,ZE Green,L Steenkamp,MRJ Watt,0,0,,,,,,"",""
+ball,1,17.5,Namibia,ZE Green,L Steenkamp,MRJ Watt,0,0,,,,,,"",""
+ball,1,17.6,Namibia,ZE Green,L Steenkamp,MRJ Watt,0,0,,,,,,"",""
+ball,1,18.1,Namibia,L Steenkamp,ZE Green,J Jarvis,0,0,,,,,,"",""
+ball,1,18.2,Namibia,L Steenkamp,ZE Green,J Jarvis,0,0,,,,,,"",""
+ball,1,18.3,Namibia,L Steenkamp,ZE Green,J Jarvis,0,0,,,,,,"",""
+ball,1,18.4,Namibia,L Steenkamp,ZE Green,J Jarvis,1,0,,,,,,"",""
+ball,1,18.5,Namibia,ZE Green,L Steenkamp,J Jarvis,4,0,,,,,,"",""
+ball,1,18.6,Namibia,ZE Green,L Steenkamp,J Jarvis,2,0,,,,,,"",""
+ball,1,19.1,Namibia,L Steenkamp,ZE Green,MRJ Watt,1,0,,,,,,"",""
+ball,1,19.2,Namibia,ZE Green,L Steenkamp,MRJ Watt,0,0,,,,,,"",""
+ball,1,19.3,Namibia,ZE Green,L Steenkamp,MRJ Watt,0,0,,,,,,"",""
+ball,1,19.4,Namibia,ZE Green,L Steenkamp,MRJ Watt,0,0,,,,,,"",""
+ball,1,19.5,Namibia,ZE Green,L Steenkamp,MRJ Watt,2,0,,,,,,"",""
+ball,1,19.6,Namibia,ZE Green,L Steenkamp,MRJ Watt,0,0,,,,,,"",""
+ball,1,20.1,Namibia,L Steenkamp,ZE Green,CM McBride,0,0,,,,,,"",""
+ball,1,20.2,Namibia,L Steenkamp,ZE Green,CM McBride,2,0,,,,,,"",""
+ball,1,20.3,Namibia,L Steenkamp,ZE Green,CM McBride,1,0,,,,,,"",""
+ball,1,20.4,Namibia,ZE Green,L Steenkamp,CM McBride,1,0,,,,,,"",""
+ball,1,20.5,Namibia,L Steenkamp,ZE Green,CM McBride,0,0,,,,,,"",""
+ball,1,20.6,Namibia,L Steenkamp,ZE Green,CM McBride,1,0,,,,,,"",""
+ball,1,21.1,Namibia,L Steenkamp,ZE Green,MRJ Watt,0,0,,,,,,"",""
+ball,1,21.2,Namibia,L Steenkamp,ZE Green,MRJ Watt,0,0,,,,,,"",""
+ball,1,21.3,Namibia,L Steenkamp,ZE Green,MRJ Watt,0,0,,,,,,"",""
+ball,1,21.4,Namibia,L Steenkamp,ZE Green,MRJ Watt,0,0,,,,,,"",""
+ball,1,21.5,Namibia,L Steenkamp,ZE Green,MRJ Watt,0,0,,,,,,"",""
+ball,1,21.6,Namibia,L Steenkamp,ZE Green,MRJ Watt,0,0,,,,,,"",""
+ball,1,22.1,Namibia,ZE Green,L Steenkamp,CM McBride,4,0,,,,,,"",""
+ball,1,22.2,Namibia,ZE Green,L Steenkamp,CM McBride,1,0,,,,,,"",""
+ball,1,22.3,Namibia,L Steenkamp,ZE Green,CM McBride,0,0,,,,,,"",""
+ball,1,22.4,Namibia,L Steenkamp,ZE Green,CM McBride,1,0,,,,,,"",""
+ball,1,22.5,Namibia,ZE Green,L Steenkamp,CM McBride,0,0,,,,,,"",""
+ball,1,22.6,Namibia,ZE Green,L Steenkamp,CM McBride,0,0,,,,,,"",""
+ball,1,23.1,Namibia,L Steenkamp,ZE Green,MRJ Watt,0,0,,,,,,"",""
+ball,1,23.2,Namibia,L Steenkamp,ZE Green,MRJ Watt,0,0,,,,,,"",""
+ball,1,23.3,Namibia,L Steenkamp,ZE Green,MRJ Watt,0,0,,,,,,"",""
+ball,1,23.4,Namibia,L Steenkamp,ZE Green,MRJ Watt,0,0,,,,,,"",""
+ball,1,23.5,Namibia,L Steenkamp,ZE Green,MRJ Watt,4,0,,,,,,"",""
+ball,1,23.6,Namibia,L Steenkamp,ZE Green,MRJ Watt,0,0,,,,,,"",""
+ball,1,24.1,Namibia,ZE Green,L Steenkamp,CM McBride,0,0,,,,,,"",""
+ball,1,24.2,Namibia,ZE Green,L Steenkamp,CM McBride,1,0,,,,,,"",""
+ball,1,24.3,Namibia,L Steenkamp,ZE Green,CM McBride,4,0,,,,,,"",""
+ball,1,24.4,Namibia,L Steenkamp,ZE Green,CM McBride,1,0,,,,,,"",""
+ball,1,24.5,Namibia,ZE Green,L Steenkamp,CM McBride,1,0,,,,,,"",""
+ball,1,24.6,Namibia,L Steenkamp,ZE Green,CM McBride,1,0,,,,,,"",""
+ball,1,25.1,Namibia,L Steenkamp,ZE Green,MRJ Watt,1,0,,,,,,"",""
+ball,1,25.2,Namibia,ZE Green,L Steenkamp,MRJ Watt,1,0,,,,,,"",""
+ball,1,25.3,Namibia,L Steenkamp,ZE Green,MRJ Watt,1,0,,,,,,"",""
+ball,1,25.4,Namibia,ZE Green,L Steenkamp,MRJ Watt,0,0,,,,,,"",""
+ball,1,25.5,Namibia,ZE Green,L Steenkamp,MRJ Watt,1,0,,,,,,"",""
+ball,1,25.6,Namibia,L Steenkamp,ZE Green,MRJ Watt,0,0,,,,,,"",""
+ball,1,26.1,Namibia,ZE Green,L Steenkamp,MA Leask,1,0,,,,,,"",""
+ball,1,26.2,Namibia,L Steenkamp,ZE Green,MA Leask,2,0,,,,,,"",""
+ball,1,26.3,Namibia,L Steenkamp,ZE Green,MA Leask,0,0,,,,,,"",""
+ball,1,26.4,Namibia,L Steenkamp,ZE Green,MA Leask,1,0,,,,,,"",""
+ball,1,26.5,Namibia,ZE Green,L Steenkamp,MA Leask,0,0,,,,,,"",""
+ball,1,26.6,Namibia,ZE Green,L Steenkamp,MA Leask,0,0,,,,,,"",""
+ball,1,27.1,Namibia,L Steenkamp,ZE Green,MRJ Watt,1,0,,,,,,"",""
+ball,1,27.2,Namibia,ZE Green,L Steenkamp,MRJ Watt,0,0,,,,,,"",""
+ball,1,27.3,Namibia,ZE Green,L Steenkamp,MRJ Watt,0,0,,,,,,"",""
+ball,1,27.4,Namibia,ZE Green,L Steenkamp,MRJ Watt,1,0,,,,,,"",""
+ball,1,27.5,Namibia,L Steenkamp,ZE Green,MRJ Watt,1,0,,,,,,"",""
+ball,1,27.6,Namibia,ZE Green,L Steenkamp,MRJ Watt,1,0,,,,,,"",""
+ball,1,28.1,Namibia,ZE Green,L Steenkamp,MA Leask,0,0,,,,,,"",""
+ball,1,28.2,Namibia,ZE Green,L Steenkamp,MA Leask,0,0,,,,,,"",""
+ball,1,28.3,Namibia,ZE Green,L Steenkamp,MA Leask,1,0,,,,,,"",""
+ball,1,28.4,Namibia,L Steenkamp,ZE Green,MA Leask,1,0,,,,,,"",""
+ball,1,28.5,Namibia,ZE Green,L Steenkamp,MA Leask,0,0,,,,,,"",""
+ball,1,28.6,Namibia,ZE Green,L Steenkamp,MA Leask,1,0,,,,,,"",""
+ball,1,29.1,Namibia,ZE Green,L Steenkamp,O Davidson,4,0,,,,,,"",""
+ball,1,29.2,Namibia,ZE Green,L Steenkamp,O Davidson,0,0,,,,,,"",""
+ball,1,29.3,Namibia,ZE Green,L Steenkamp,O Davidson,1,0,,,,,,"",""
+ball,1,29.4,Namibia,L Steenkamp,ZE Green,O Davidson,0,0,,,,,,"",""
+ball,1,29.5,Namibia,L Steenkamp,ZE Green,O Davidson,1,0,,,,,,"",""
+ball,1,29.6,Namibia,ZE Green,L Steenkamp,O Davidson,0,0,,,,,,"",""
+ball,1,30.1,Namibia,L Steenkamp,ZE Green,MA Leask,1,0,,,,,,"",""
+ball,1,30.2,Namibia,ZE Green,L Steenkamp,MA Leask,0,0,,,,,,"",""
+ball,1,30.3,Namibia,ZE Green,L Steenkamp,MA Leask,1,0,,,,,,"",""
+ball,1,30.4,Namibia,L Steenkamp,ZE Green,MA Leask,1,0,,,,,,"",""
+ball,1,30.5,Namibia,ZE Green,L Steenkamp,MA Leask,1,0,,,,,,"",""
+ball,1,30.6,Namibia,L Steenkamp,ZE Green,MA Leask,1,0,,,,,,"",""
+ball,1,31.1,Namibia,L Steenkamp,ZE Green,O Davidson,1,0,,,,,,"",""
+ball,1,31.2,Namibia,ZE Green,L Steenkamp,O Davidson,0,0,,,,,,"",""
+ball,1,31.3,Namibia,ZE Green,L Steenkamp,O Davidson,1,0,,,,,,"",""
+ball,1,31.4,Namibia,L Steenkamp,ZE Green,O Davidson,0,0,,,,,,"",""
+ball,1,31.5,Namibia,L Steenkamp,ZE Green,O Davidson,0,0,,,,,,"",""
+ball,1,31.6,Namibia,L Steenkamp,ZE Green,O Davidson,0,0,,,,,,"",""
+ball,1,32.1,Namibia,ZE Green,L Steenkamp,MA Leask,0,0,,,,,,"",""
+ball,1,32.2,Namibia,ZE Green,L Steenkamp,MA Leask,1,0,,,,,,"",""
+ball,1,32.3,Namibia,L Steenkamp,ZE Green,MA Leask,2,0,,,,,,"",""
+ball,1,32.4,Namibia,L Steenkamp,ZE Green,MA Leask,1,0,,,,,,"",""
+ball,1,32.5,Namibia,ZE Green,L Steenkamp,MA Leask,1,0,,,,,,"",""
+ball,1,32.6,Namibia,L Steenkamp,ZE Green,MA Leask,1,0,,,,,,"",""
+ball,1,33.1,Namibia,L Steenkamp,ZE Green,O Davidson,0,0,,,,,,"",""
+ball,1,33.2,Namibia,L Steenkamp,ZE Green,O Davidson,1,0,,,,,,"",""
+ball,1,33.3,Namibia,ZE Green,L Steenkamp,O Davidson,1,0,,,,,,"",""
+ball,1,33.4,Namibia,L Steenkamp,ZE Green,O Davidson,0,0,,,,,,"",""
+ball,1,33.5,Namibia,L Steenkamp,ZE Green,O Davidson,1,0,,,,,,"",""
+ball,1,33.6,Namibia,ZE Green,L Steenkamp,O Davidson,4,0,,,,,,"",""
+ball,1,34.1,Namibia,L Steenkamp,ZE Green,SM Sharif,1,0,,,,,,"",""
+ball,1,34.2,Namibia,ZE Green,L Steenkamp,SM Sharif,1,0,,,,,,"",""
+ball,1,34.3,Namibia,L Steenkamp,ZE Green,SM Sharif,4,0,,,,,,"",""
+ball,1,34.4,Namibia,L Steenkamp,ZE Green,SM Sharif,4,0,,,,,,"",""
+ball,1,34.5,Namibia,L Steenkamp,ZE Green,SM Sharif,0,1,,,,1,,"",""
+ball,1,34.6,Namibia,ZE Green,L Steenkamp,SM Sharif,0,0,,,,,,"",""
+ball,1,35.1,Namibia,L Steenkamp,ZE Green,O Davidson,0,0,,,,,,"",""
+ball,1,35.2,Namibia,L Steenkamp,ZE Green,O Davidson,0,0,,,,,,"",""
+ball,1,35.3,Namibia,L Steenkamp,ZE Green,O Davidson,2,0,,,,,,"",""
+ball,1,35.4,Namibia,L Steenkamp,ZE Green,O Davidson,0,0,,,,,,"",""
+ball,1,35.5,Namibia,L Steenkamp,ZE Green,O Davidson,1,0,,,,,,"",""
+ball,1,35.6,Namibia,ZE Green,L Steenkamp,O Davidson,0,0,,,,,,"",""
+ball,1,36.1,Namibia,L Steenkamp,ZE Green,SM Sharif,0,0,,,,,,"",""
+ball,1,36.2,Namibia,L Steenkamp,ZE Green,SM Sharif,6,0,,,,,,"",""
+ball,1,36.3,Namibia,L Steenkamp,ZE Green,SM Sharif,0,0,,,,,,"",""
+ball,1,36.4,Namibia,L Steenkamp,ZE Green,SM Sharif,0,0,,,,,,"",""
+ball,1,36.5,Namibia,L Steenkamp,ZE Green,SM Sharif,0,0,,,,,,"",""
+ball,1,36.6,Namibia,L Steenkamp,ZE Green,SM Sharif,1,0,,,,,,"",""
+ball,1,37.1,Namibia,L Steenkamp,ZE Green,O Davidson,2,0,,,,,,"",""
+ball,1,37.2,Namibia,L Steenkamp,ZE Green,O Davidson,1,0,,,,,,"",""
+ball,1,37.3,Namibia,ZE Green,L Steenkamp,O Davidson,0,0,,,,,,"",""
+ball,1,37.4,Namibia,ZE Green,L Steenkamp,O Davidson,1,0,,,,,,"",""
+ball,1,37.5,Namibia,L Steenkamp,ZE Green,O Davidson,0,0,,,,,,"",""
+ball,1,37.6,Namibia,L Steenkamp,ZE Green,O Davidson,6,0,,,,,,"",""
+ball,1,38.1,Namibia,ZE Green,L Steenkamp,SM Sharif,0,0,,,,,,"",""
+ball,1,38.2,Namibia,ZE Green,L Steenkamp,SM Sharif,0,0,,,,,,"",""
+ball,1,38.3,Namibia,ZE Green,L Steenkamp,SM Sharif,1,0,,,,,,"",""
+ball,1,38.4,Namibia,L Steenkamp,ZE Green,SM Sharif,0,0,,,,,,"",""
+ball,1,38.5,Namibia,L Steenkamp,ZE Green,SM Sharif,1,0,,,,,,"",""
+ball,1,38.6,Namibia,ZE Green,L Steenkamp,SM Sharif,1,0,,,,,,"",""
+ball,1,39.1,Namibia,ZE Green,L Steenkamp,MRJ Watt,1,0,,,,,,"",""
+ball,1,39.2,Namibia,L Steenkamp,ZE Green,MRJ Watt,0,0,,,,,,"",""
+ball,1,39.3,Namibia,L Steenkamp,ZE Green,MRJ Watt,0,0,,,,,,caught,L Steenkamp
+ball,1,39.4,Namibia,DO Leicher,ZE Green,MRJ Watt,0,0,,,,,,"",""
+ball,1,39.5,Namibia,DO Leicher,ZE Green,MRJ Watt,0,0,,,,,,"",""
+ball,1,39.6,Namibia,DO Leicher,ZE Green,MRJ Watt,1,0,,,,,,"",""
+ball,1,40.1,Namibia,DO Leicher,ZE Green,BJ McMullen,0,0,,,,,,"",""
+ball,1,40.2,Namibia,DO Leicher,ZE Green,BJ McMullen,1,0,,,,,,"",""
+ball,1,40.3,Namibia,ZE Green,DO Leicher,BJ McMullen,0,0,,,,,,"",""
+ball,1,40.4,Namibia,ZE Green,DO Leicher,BJ McMullen,1,0,,,,,,"",""
+ball,1,40.5,Namibia,DO Leicher,ZE Green,BJ McMullen,0,0,,,,,,"",""
+ball,1,40.6,Namibia,DO Leicher,ZE Green,BJ McMullen,1,0,,,,,,"",""
+ball,1,41.1,Namibia,DO Leicher,ZE Green,MRJ Watt,1,0,,,,,,"",""
+ball,1,41.2,Namibia,ZE Green,DO Leicher,MRJ Watt,0,0,,,,,,"",""
+ball,1,41.3,Namibia,ZE Green,DO Leicher,MRJ Watt,0,0,,,,,,"",""
+ball,1,41.4,Namibia,ZE Green,DO Leicher,MRJ Watt,1,0,,,,,,"",""
+ball,1,41.5,Namibia,DO Leicher,ZE Green,MRJ Watt,0,0,,,,,,"",""
+ball,1,41.6,Namibia,DO Leicher,ZE Green,MRJ Watt,0,0,,,,,,"",""
+ball,1,42.1,Namibia,ZE Green,DO Leicher,BJ McMullen,2,0,,,,,,"",""
+ball,1,42.2,Namibia,ZE Green,DO Leicher,BJ McMullen,4,0,,,,,,"",""
+ball,1,42.3,Namibia,ZE Green,DO Leicher,BJ McMullen,0,1,,,1,,,"",""
+ball,1,42.4,Namibia,DO Leicher,ZE Green,BJ McMullen,2,0,,,,,,"",""
+ball,1,42.5,Namibia,DO Leicher,ZE Green,BJ McMullen,0,0,,,,,,"",""
+ball,1,42.6,Namibia,DO Leicher,ZE Green,BJ McMullen,0,0,,,,,,"",""
+ball,1,43.1,Namibia,ZE Green,DO Leicher,MRJ Watt,1,0,,,,,,"",""
+ball,1,43.2,Namibia,DO Leicher,ZE Green,MRJ Watt,2,0,,,,,,"",""
+ball,1,43.3,Namibia,DO Leicher,ZE Green,MRJ Watt,0,0,,,,,,"",""
+ball,1,43.4,Namibia,DO Leicher,ZE Green,MRJ Watt,1,0,,,,,,"",""
+ball,1,43.5,Namibia,ZE Green,DO Leicher,MRJ Watt,0,0,,,,,,"",""
+ball,1,43.6,Namibia,ZE Green,DO Leicher,MRJ Watt,0,0,,,,,,"",""
+ball,1,44.1,Namibia,DO Leicher,ZE Green,J Jarvis,0,0,,,,,,bowled,DO Leicher
+ball,1,44.2,Namibia,JJ Smit,ZE Green,J Jarvis,1,0,,,,,,"",""
+ball,1,44.3,Namibia,ZE Green,JJ Smit,J Jarvis,2,0,,,,,,"",""
+ball,1,44.4,Namibia,ZE Green,JJ Smit,J Jarvis,1,0,,,,,,"",""
+ball,1,44.5,Namibia,JJ Smit,ZE Green,J Jarvis,0,0,,,,,,"",""
+ball,1,44.6,Namibia,JJ Smit,ZE Green,J Jarvis,1,0,,,,,,"",""
+ball,1,45.1,Namibia,JJ Smit,ZE Green,MRJ Watt,0,0,,,,,,"",""
+ball,1,45.2,Namibia,JJ Smit,ZE Green,MRJ Watt,0,0,,,,,,"",""
+ball,1,45.3,Namibia,JJ Smit,ZE Green,MRJ Watt,1,0,,,,,,"",""
+ball,1,45.4,Namibia,ZE Green,JJ Smit,MRJ Watt,0,0,,,,,,caught,ZE Green
+ball,1,45.5,Namibia,R Trumpelmann,JJ Smit,MRJ Watt,0,0,,,,,,"",""
+ball,1,45.6,Namibia,R Trumpelmann,JJ Smit,MRJ Watt,0,0,,,,,,"",""
+ball,1,46.1,Namibia,JJ Smit,R Trumpelmann,J Jarvis,1,0,,,,,,"",""
+ball,1,46.2,Namibia,R Trumpelmann,JJ Smit,J Jarvis,2,0,,,,,,"",""
+ball,1,46.3,Namibia,R Trumpelmann,JJ Smit,J Jarvis,1,0,,,,,,"",""
+ball,1,46.4,Namibia,JJ Smit,R Trumpelmann,J Jarvis,0,0,,,,,,caught,JJ Smit

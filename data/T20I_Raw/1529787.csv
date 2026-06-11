@@ -1,0 +1,300 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Indonesia
+info,team,Sweden
+info,gender,male
+info,season,2026
+info,date,2026/04/07
+info,event,Sweden tour of Indonesia
+info,match_number,1
+info,venue,Udayana Cricket Ground
+info,city,Bali
+info,toss_winner,Sweden
+info,toss_decision,field
+info,player_of_match,Samiullah Rahmani
+info,umpire,Anwesh Bose
+info,umpire,IGS Arsa
+info,match_referee,Febri Irwanto
+info,winner,Sweden
+info,winner_wickets,4
+info,player,Indonesia,GA Priandana
+info,player,Indonesia,KB Tember
+info,player,Indonesia,KN Chaddha
+info,player,Indonesia,S Jegannathan
+info,player,Indonesia,GD Arta
+info,player,Indonesia,DJ Hawoe
+info,player,Indonesia,S Kharvi
+info,player,Indonesia,IKEG Artawan
+info,player,Indonesia,Anjar Tadarus
+info,player,Indonesia,F Banunaek
+info,player,Indonesia,DK Shetty
+info,player,Sweden,Imal Zuwak
+info,player,Sweden,A Mundra
+info,player,Sweden,Awais Ahmad
+info,player,Sweden,DB Lakhani
+info,player,Sweden,W Boshoff
+info,player,Sweden,Zaid Ahmad
+info,player,Sweden,A Dhabe
+info,player,Sweden,Zain Muzaffar
+info,player,Sweden,Samiullah Rahmani
+info,player,Sweden,SN Swamy
+info,player,Sweden,Zabiullah Zahid
+info,registry,people,A Dhabe,5a0dbdeb
+info,registry,people,A Mundra,30ffaf85
+info,registry,people,Anjar Tadarus,72275237
+info,registry,people,Anwesh Bose,3bdae121
+info,registry,people,Awais Ahmad,518a21ed
+info,registry,people,DB Lakhani,03adc956
+info,registry,people,DJ Hawoe,a62f55ba
+info,registry,people,DK Shetty,65cfc56b
+info,registry,people,F Banunaek,3c8faed4
+info,registry,people,Febri Irwanto,762ac6fc
+info,registry,people,GA Priandana,2af0e3b1
+info,registry,people,GD Arta,e969e580
+info,registry,people,IGS Arsa,68d52634
+info,registry,people,IKEG Artawan,190957d2
+info,registry,people,Imal Zuwak,1283e17b
+info,registry,people,KB Tember,8a027c6a
+info,registry,people,KN Chaddha,a88e4013
+info,registry,people,S Jegannathan,866e9f3d
+info,registry,people,S Kharvi,41a61623
+info,registry,people,SN Swamy,95382501
+info,registry,people,Samiullah Rahmani,d5c38041
+info,registry,people,W Boshoff,cad11a02
+info,registry,people,YS Chauhan,fb3233d4
+info,registry,people,Zabiullah Zahid,6d024ce3
+info,registry,people,Zaid Ahmad,45828106
+info,registry,people,Zain Muzaffar,19b4fa25
+ball,1,0.1,Indonesia,GA Priandana,KB Tember,Zain Muzaffar,2,0,,,,,,"",""
+ball,1,0.2,Indonesia,GA Priandana,KB Tember,Zain Muzaffar,1,0,,,,,,"",""
+ball,1,0.3,Indonesia,KB Tember,GA Priandana,Zain Muzaffar,0,0,,,,,,bowled,KB Tember
+ball,1,0.4,Indonesia,KN Chaddha,GA Priandana,Zain Muzaffar,0,0,,,,,,"",""
+ball,1,0.5,Indonesia,KN Chaddha,GA Priandana,Zain Muzaffar,1,0,,,,,,run out,GA Priandana
+ball,1,0.6,Indonesia,S Jegannathan,KN Chaddha,Zain Muzaffar,0,0,,,,,,"",""
+ball,1,1.1,Indonesia,KN Chaddha,S Jegannathan,Zabiullah Zahid,0,0,,,,,,"",""
+ball,1,1.2,Indonesia,KN Chaddha,S Jegannathan,Zabiullah Zahid,0,0,,,,,,"",""
+ball,1,1.3,Indonesia,KN Chaddha,S Jegannathan,Zabiullah Zahid,0,0,,,,,,"",""
+ball,1,1.4,Indonesia,KN Chaddha,S Jegannathan,Zabiullah Zahid,0,0,,,,,,"",""
+ball,1,1.5,Indonesia,KN Chaddha,S Jegannathan,Zabiullah Zahid,0,0,,,,,,"",""
+ball,1,1.6,Indonesia,KN Chaddha,S Jegannathan,Zabiullah Zahid,0,0,,,,,,"",""
+ball,1,2.1,Indonesia,S Jegannathan,KN Chaddha,Zain Muzaffar,0,0,,,,,,"",""
+ball,1,2.2,Indonesia,S Jegannathan,KN Chaddha,Zain Muzaffar,0,0,,,,,,"",""
+ball,1,2.3,Indonesia,S Jegannathan,KN Chaddha,Zain Muzaffar,6,0,,,,,,"",""
+ball,1,2.4,Indonesia,S Jegannathan,KN Chaddha,Zain Muzaffar,0,1,1,,,,,"",""
+ball,1,2.5,Indonesia,S Jegannathan,KN Chaddha,Zain Muzaffar,1,0,,,,,,"",""
+ball,1,2.6,Indonesia,KN Chaddha,S Jegannathan,Zain Muzaffar,0,1,1,,,,,"",""
+ball,1,2.7,Indonesia,KN Chaddha,S Jegannathan,Zain Muzaffar,0,0,,,,,,"",""
+ball,1,2.8,Indonesia,KN Chaddha,S Jegannathan,Zain Muzaffar,1,0,,,,,,"",""
+ball,1,3.1,Indonesia,KN Chaddha,S Jegannathan,Zabiullah Zahid,4,0,,,,,,"",""
+ball,1,3.2,Indonesia,KN Chaddha,S Jegannathan,Zabiullah Zahid,4,0,,,,,,"",""
+ball,1,3.3,Indonesia,KN Chaddha,S Jegannathan,Zabiullah Zahid,0,0,,,,,,"",""
+ball,1,3.4,Indonesia,KN Chaddha,S Jegannathan,Zabiullah Zahid,2,0,,,,,,"",""
+ball,1,3.5,Indonesia,KN Chaddha,S Jegannathan,Zabiullah Zahid,0,0,,,,,,"",""
+ball,1,3.6,Indonesia,KN Chaddha,S Jegannathan,Zabiullah Zahid,0,2,2,,,,,"",""
+ball,1,3.7,Indonesia,S Jegannathan,KN Chaddha,Zabiullah Zahid,1,0,,,,,,"",""
+ball,1,4.1,Indonesia,S Jegannathan,KN Chaddha,Zain Muzaffar,1,0,,,,,,"",""
+ball,1,4.2,Indonesia,KN Chaddha,S Jegannathan,Zain Muzaffar,4,0,,,,,,"",""
+ball,1,4.3,Indonesia,KN Chaddha,S Jegannathan,Zain Muzaffar,6,0,,,,,,"",""
+ball,1,4.4,Indonesia,KN Chaddha,S Jegannathan,Zain Muzaffar,0,1,1,,,,,"",""
+ball,1,4.5,Indonesia,KN Chaddha,S Jegannathan,Zain Muzaffar,1,0,,,,,,"",""
+ball,1,4.6,Indonesia,S Jegannathan,KN Chaddha,Zain Muzaffar,0,0,,,,,,"",""
+ball,1,4.7,Indonesia,S Jegannathan,KN Chaddha,Zain Muzaffar,2,0,,,,,,"",""
+ball,1,5.1,Indonesia,KN Chaddha,S Jegannathan,Zaid Ahmad,0,0,,,,,,"",""
+ball,1,5.2,Indonesia,KN Chaddha,S Jegannathan,Zaid Ahmad,0,0,,,,,,"",""
+ball,1,5.3,Indonesia,KN Chaddha,S Jegannathan,Zaid Ahmad,0,0,,,,,,"",""
+ball,1,5.4,Indonesia,KN Chaddha,S Jegannathan,Zaid Ahmad,4,0,,,,,,"",""
+ball,1,5.5,Indonesia,KN Chaddha,S Jegannathan,Zaid Ahmad,0,0,,,,,,"",""
+ball,1,5.6,Indonesia,KN Chaddha,S Jegannathan,Zaid Ahmad,1,0,,,,,,"",""
+ball,1,6.1,Indonesia,KN Chaddha,S Jegannathan,SN Swamy,1,0,,,,,,"",""
+ball,1,6.2,Indonesia,S Jegannathan,KN Chaddha,SN Swamy,4,0,,,,,,"",""
+ball,1,6.3,Indonesia,S Jegannathan,KN Chaddha,SN Swamy,4,0,,,,,,"",""
+ball,1,6.4,Indonesia,S Jegannathan,KN Chaddha,SN Swamy,0,0,,,,,,"",""
+ball,1,6.5,Indonesia,S Jegannathan,KN Chaddha,SN Swamy,1,0,,,,,,"",""
+ball,1,6.6,Indonesia,KN Chaddha,S Jegannathan,SN Swamy,0,0,,,,,,"",""
+ball,1,7.1,Indonesia,S Jegannathan,KN Chaddha,Zaid Ahmad,4,0,,,,,,"",""
+ball,1,7.2,Indonesia,S Jegannathan,KN Chaddha,Zaid Ahmad,0,0,,,,,,"",""
+ball,1,7.3,Indonesia,S Jegannathan,KN Chaddha,Zaid Ahmad,1,0,,,,,,"",""
+ball,1,7.4,Indonesia,KN Chaddha,S Jegannathan,Zaid Ahmad,0,0,,,,,,"",""
+ball,1,7.5,Indonesia,KN Chaddha,S Jegannathan,Zaid Ahmad,1,0,,,,,,"",""
+ball,1,7.6,Indonesia,S Jegannathan,KN Chaddha,Zaid Ahmad,0,0,,,,,,"",""
+ball,1,8.1,Indonesia,KN Chaddha,S Jegannathan,A Dhabe,1,0,,,,,,"",""
+ball,1,8.2,Indonesia,S Jegannathan,KN Chaddha,A Dhabe,1,0,,,,,,"",""
+ball,1,8.3,Indonesia,KN Chaddha,S Jegannathan,A Dhabe,1,0,,,,,,"",""
+ball,1,8.4,Indonesia,S Jegannathan,KN Chaddha,A Dhabe,0,0,,,,,,"",""
+ball,1,8.5,Indonesia,S Jegannathan,KN Chaddha,A Dhabe,1,0,,,,,,"",""
+ball,1,8.6,Indonesia,KN Chaddha,S Jegannathan,A Dhabe,1,0,,,,,,"",""
+ball,1,9.1,Indonesia,KN Chaddha,S Jegannathan,Samiullah Rahmani,0,0,,,,,,"",""
+ball,1,9.2,Indonesia,KN Chaddha,S Jegannathan,Samiullah Rahmani,0,0,,,,,,"",""
+ball,1,9.3,Indonesia,KN Chaddha,S Jegannathan,Samiullah Rahmani,1,0,,,,,,"",""
+ball,1,9.4,Indonesia,S Jegannathan,KN Chaddha,Samiullah Rahmani,1,0,,,,,,"",""
+ball,1,9.5,Indonesia,KN Chaddha,S Jegannathan,Samiullah Rahmani,4,0,,,,,,"",""
+ball,1,9.6,Indonesia,KN Chaddha,S Jegannathan,Samiullah Rahmani,1,0,,,,,,"",""
+ball,1,10.1,Indonesia,KN Chaddha,S Jegannathan,A Dhabe,1,0,,,,,,"",""
+ball,1,10.2,Indonesia,S Jegannathan,KN Chaddha,A Dhabe,0,0,,,,,,"",""
+ball,1,10.3,Indonesia,S Jegannathan,KN Chaddha,A Dhabe,1,0,,,,,,"",""
+ball,1,10.4,Indonesia,KN Chaddha,S Jegannathan,A Dhabe,0,0,,,,,,"",""
+ball,1,10.5,Indonesia,KN Chaddha,S Jegannathan,A Dhabe,4,0,,,,,,"",""
+ball,1,10.6,Indonesia,KN Chaddha,S Jegannathan,A Dhabe,1,0,,,,,,"",""
+ball,1,11.1,Indonesia,KN Chaddha,S Jegannathan,Samiullah Rahmani,0,0,,,,,,"",""
+ball,1,11.2,Indonesia,KN Chaddha,S Jegannathan,Samiullah Rahmani,0,0,,,,,,"",""
+ball,1,11.3,Indonesia,KN Chaddha,S Jegannathan,Samiullah Rahmani,0,0,,,,,,bowled,KN Chaddha
+ball,1,11.4,Indonesia,GD Arta,S Jegannathan,Samiullah Rahmani,0,0,,,,,,caught and bowled,GD Arta
+ball,1,11.5,Indonesia,DJ Hawoe,S Jegannathan,Samiullah Rahmani,0,1,1,,,,,"",""
+ball,1,11.6,Indonesia,DJ Hawoe,S Jegannathan,Samiullah Rahmani,0,0,,,,,,lbw,DJ Hawoe
+ball,1,11.7,Indonesia,S Kharvi,S Jegannathan,Samiullah Rahmani,0,0,,,,,,"",""
+ball,1,12.1,Indonesia,S Jegannathan,S Kharvi,A Dhabe,0,0,,,,,,"",""
+ball,1,12.2,Indonesia,S Jegannathan,S Kharvi,A Dhabe,0,0,,,,,,"",""
+ball,1,12.3,Indonesia,S Jegannathan,S Kharvi,A Dhabe,4,0,,,,,,"",""
+ball,1,12.4,Indonesia,S Jegannathan,S Kharvi,A Dhabe,1,0,,,,,,"",""
+ball,1,12.5,Indonesia,S Kharvi,S Jegannathan,A Dhabe,1,0,,,,,,"",""
+ball,1,12.6,Indonesia,S Jegannathan,S Kharvi,A Dhabe,0,0,,,,,,"",""
+ball,1,13.1,Indonesia,S Kharvi,S Jegannathan,Samiullah Rahmani,0,0,,,,,,caught,S Kharvi
+ball,1,13.2,Indonesia,IKEG Artawan,S Jegannathan,Samiullah Rahmani,0,0,,,,,,"",""
+ball,1,13.3,Indonesia,IKEG Artawan,S Jegannathan,Samiullah Rahmani,2,0,,,,,,"",""
+ball,1,13.4,Indonesia,IKEG Artawan,S Jegannathan,Samiullah Rahmani,4,0,,,,,,"",""
+ball,1,13.5,Indonesia,IKEG Artawan,S Jegannathan,Samiullah Rahmani,1,0,,,,,,"",""
+ball,1,13.6,Indonesia,S Jegannathan,IKEG Artawan,Samiullah Rahmani,1,0,,,,,,"",""
+ball,1,14.1,Indonesia,S Jegannathan,IKEG Artawan,SN Swamy,0,0,,,,,,"",""
+ball,1,14.2,Indonesia,S Jegannathan,IKEG Artawan,SN Swamy,1,0,,,,,,"",""
+ball,1,14.3,Indonesia,IKEG Artawan,S Jegannathan,SN Swamy,1,0,,,,,,"",""
+ball,1,14.4,Indonesia,S Jegannathan,IKEG Artawan,SN Swamy,0,0,,,,,,"",""
+ball,1,14.5,Indonesia,S Jegannathan,IKEG Artawan,SN Swamy,1,0,,,,,,"",""
+ball,1,14.6,Indonesia,IKEG Artawan,S Jegannathan,SN Swamy,0,0,,,,,,"",""
+ball,1,15.1,Indonesia,S Jegannathan,IKEG Artawan,A Dhabe,0,0,,,,,,"",""
+ball,1,15.2,Indonesia,S Jegannathan,IKEG Artawan,A Dhabe,0,0,,,,,,"",""
+ball,1,15.3,Indonesia,S Jegannathan,IKEG Artawan,A Dhabe,1,0,,,,,,"",""
+ball,1,15.4,Indonesia,IKEG Artawan,S Jegannathan,A Dhabe,4,0,,,,,,"",""
+ball,1,15.5,Indonesia,IKEG Artawan,S Jegannathan,A Dhabe,2,0,,,,,,"",""
+ball,1,15.6,Indonesia,IKEG Artawan,S Jegannathan,A Dhabe,4,0,,,,,,"",""
+ball,1,16.1,Indonesia,S Jegannathan,IKEG Artawan,SN Swamy,0,0,,,,,,caught,S Jegannathan
+ball,1,16.2,Indonesia,Anjar Tadarus,IKEG Artawan,SN Swamy,0,0,,,,,,run out,Anjar Tadarus
+ball,1,16.3,Indonesia,F Banunaek,IKEG Artawan,SN Swamy,0,0,,,,,,"",""
+ball,1,16.4,Indonesia,F Banunaek,IKEG Artawan,SN Swamy,1,0,,,,,,"",""
+ball,1,16.5,Indonesia,IKEG Artawan,F Banunaek,SN Swamy,4,0,,,,,,"",""
+ball,1,16.6,Indonesia,IKEG Artawan,F Banunaek,SN Swamy,0,0,,,,,,"",""
+ball,1,17.1,Indonesia,F Banunaek,IKEG Artawan,Zabiullah Zahid,1,0,,,,,,"",""
+ball,1,17.2,Indonesia,IKEG Artawan,F Banunaek,Zabiullah Zahid,1,0,,,,,,"",""
+ball,1,17.3,Indonesia,F Banunaek,IKEG Artawan,Zabiullah Zahid,0,0,,,,,,caught,F Banunaek
+ball,1,17.4,Indonesia,DK Shetty,IKEG Artawan,Zabiullah Zahid,1,0,,,,,,"",""
+ball,1,17.5,Indonesia,IKEG Artawan,DK Shetty,Zabiullah Zahid,0,0,,,,,,caught,IKEG Artawan
+ball,2,0.1,Sweden,Imal Zuwak,A Mundra,F Banunaek,0,0,,,,,,"",""
+ball,2,0.2,Sweden,Imal Zuwak,A Mundra,F Banunaek,0,0,,,,,,"",""
+ball,2,0.3,Sweden,Imal Zuwak,A Mundra,F Banunaek,1,0,,,,,,"",""
+ball,2,0.4,Sweden,A Mundra,Imal Zuwak,F Banunaek,4,0,,,,,,"",""
+ball,2,0.5,Sweden,A Mundra,Imal Zuwak,F Banunaek,0,0,,,,,,"",""
+ball,2,0.6,Sweden,A Mundra,Imal Zuwak,F Banunaek,0,1,1,,,,,"",""
+ball,2,0.7,Sweden,A Mundra,Imal Zuwak,F Banunaek,0,0,,,,,,"",""
+ball,2,1.1,Sweden,Imal Zuwak,A Mundra,DK Shetty,0,0,,,,,,"",""
+ball,2,1.2,Sweden,Imal Zuwak,A Mundra,DK Shetty,0,0,,,,,,"",""
+ball,2,1.3,Sweden,Imal Zuwak,A Mundra,DK Shetty,1,0,,,,,,"",""
+ball,2,1.4,Sweden,A Mundra,Imal Zuwak,DK Shetty,4,0,,,,,,"",""
+ball,2,1.5,Sweden,A Mundra,Imal Zuwak,DK Shetty,1,0,,,,,,"",""
+ball,2,1.6,Sweden,Imal Zuwak,A Mundra,DK Shetty,0,0,,,,,,"",""
+ball,2,2.1,Sweden,A Mundra,Imal Zuwak,F Banunaek,1,0,,,,,,"",""
+ball,2,2.2,Sweden,Imal Zuwak,A Mundra,F Banunaek,0,0,,,,,,"",""
+ball,2,2.3,Sweden,Imal Zuwak,A Mundra,F Banunaek,1,0,,,,,,"",""
+ball,2,2.4,Sweden,A Mundra,Imal Zuwak,F Banunaek,0,0,,,,,,"",""
+ball,2,2.5,Sweden,A Mundra,Imal Zuwak,F Banunaek,0,1,1,,,,,"",""
+ball,2,2.6,Sweden,A Mundra,Imal Zuwak,F Banunaek,0,0,,,,,,"",""
+ball,2,2.7,Sweden,A Mundra,Imal Zuwak,F Banunaek,4,0,,,,,,"",""
+ball,2,3.1,Sweden,Imal Zuwak,A Mundra,DK Shetty,4,0,,,,,,"",""
+ball,2,3.2,Sweden,Imal Zuwak,A Mundra,DK Shetty,0,0,,,,,,"",""
+ball,2,3.3,Sweden,Imal Zuwak,A Mundra,DK Shetty,0,0,,,,,,"",""
+ball,2,3.4,Sweden,Imal Zuwak,A Mundra,DK Shetty,0,0,,,,,,"",""
+ball,2,3.5,Sweden,Imal Zuwak,A Mundra,DK Shetty,1,0,,,,,,"",""
+ball,2,3.6,Sweden,A Mundra,Imal Zuwak,DK Shetty,0,0,,,,,,caught,A Mundra
+ball,2,4.1,Sweden,Imal Zuwak,Awais Ahmad,F Banunaek,0,1,1,,,,,"",""
+ball,2,4.2,Sweden,Imal Zuwak,Awais Ahmad,F Banunaek,1,0,,,,,,"",""
+ball,2,4.3,Sweden,Awais Ahmad,Imal Zuwak,F Banunaek,0,0,,,,,,"",""
+ball,2,4.4,Sweden,Awais Ahmad,Imal Zuwak,F Banunaek,1,0,,,,,,"",""
+ball,2,4.5,Sweden,Imal Zuwak,Awais Ahmad,F Banunaek,0,0,,,,,,"",""
+ball,2,4.6,Sweden,Imal Zuwak,Awais Ahmad,F Banunaek,0,0,,,,,,"",""
+ball,2,4.7,Sweden,Imal Zuwak,Awais Ahmad,F Banunaek,1,0,,,,,,"",""
+ball,2,5.1,Sweden,Imal Zuwak,Awais Ahmad,DK Shetty,0,0,,,,,,"",""
+ball,2,5.2,Sweden,Imal Zuwak,Awais Ahmad,DK Shetty,1,0,,,,,,"",""
+ball,2,5.3,Sweden,Awais Ahmad,Imal Zuwak,DK Shetty,0,0,,,,,,caught,Awais Ahmad
+ball,2,5.4,Sweden,DB Lakhani,Imal Zuwak,DK Shetty,0,0,,,,,,"",""
+ball,2,5.5,Sweden,DB Lakhani,Imal Zuwak,DK Shetty,0,0,,,,,,"",""
+ball,2,5.6,Sweden,DB Lakhani,Imal Zuwak,DK Shetty,1,0,,,,,,"",""
+ball,2,6.1,Sweden,DB Lakhani,Imal Zuwak,Anjar Tadarus,0,0,,,,,,"",""
+ball,2,6.2,Sweden,DB Lakhani,Imal Zuwak,Anjar Tadarus,1,0,,,,,,"",""
+ball,2,6.3,Sweden,Imal Zuwak,DB Lakhani,Anjar Tadarus,1,0,,,,,,"",""
+ball,2,6.4,Sweden,DB Lakhani,Imal Zuwak,Anjar Tadarus,0,0,,,,,,"",""
+ball,2,6.5,Sweden,DB Lakhani,Imal Zuwak,Anjar Tadarus,0,0,,,,,,"",""
+ball,2,6.6,Sweden,DB Lakhani,Imal Zuwak,Anjar Tadarus,0,0,,,,,,"",""
+ball,2,7.1,Sweden,Imal Zuwak,DB Lakhani,DJ Hawoe,2,0,,,,,,"",""
+ball,2,7.2,Sweden,Imal Zuwak,DB Lakhani,DJ Hawoe,4,0,,,,,,"",""
+ball,2,7.3,Sweden,Imal Zuwak,DB Lakhani,DJ Hawoe,0,0,,,,,,"",""
+ball,2,7.4,Sweden,Imal Zuwak,DB Lakhani,DJ Hawoe,0,0,,,,,,caught,Imal Zuwak
+ball,2,7.5,Sweden,W Boshoff,DB Lakhani,DJ Hawoe,0,0,,,,,,"",""
+ball,2,7.6,Sweden,W Boshoff,DB Lakhani,DJ Hawoe,1,0,,,,,,"",""
+ball,2,8.1,Sweden,W Boshoff,DB Lakhani,Anjar Tadarus,0,0,,,,,,"",""
+ball,2,8.2,Sweden,W Boshoff,DB Lakhani,Anjar Tadarus,2,0,,,,,,"",""
+ball,2,8.3,Sweden,W Boshoff,DB Lakhani,Anjar Tadarus,1,0,,,,,,"",""
+ball,2,8.4,Sweden,DB Lakhani,W Boshoff,Anjar Tadarus,0,0,,,,,,"",""
+ball,2,8.5,Sweden,DB Lakhani,W Boshoff,Anjar Tadarus,4,0,,,,,,"",""
+ball,2,8.6,Sweden,DB Lakhani,W Boshoff,Anjar Tadarus,1,0,,,,,,"",""
+ball,2,9.1,Sweden,DB Lakhani,W Boshoff,DJ Hawoe,0,0,,,,,,"",""
+ball,2,9.2,Sweden,DB Lakhani,W Boshoff,DJ Hawoe,0,0,,,,,,"",""
+ball,2,9.3,Sweden,DB Lakhani,W Boshoff,DJ Hawoe,4,0,,,,,,"",""
+ball,2,9.4,Sweden,DB Lakhani,W Boshoff,DJ Hawoe,0,0,,,,,,"",""
+ball,2,9.5,Sweden,DB Lakhani,W Boshoff,DJ Hawoe,1,0,,,,,,"",""
+ball,2,9.6,Sweden,W Boshoff,DB Lakhani,DJ Hawoe,0,0,,,,,,"",""
+ball,2,10.1,Sweden,DB Lakhani,W Boshoff,IKEG Artawan,0,1,1,,,,,"",""
+ball,2,10.2,Sweden,DB Lakhani,W Boshoff,IKEG Artawan,2,0,,,,,,"",""
+ball,2,10.3,Sweden,DB Lakhani,W Boshoff,IKEG Artawan,1,0,,,,,,"",""
+ball,2,10.4,Sweden,W Boshoff,DB Lakhani,IKEG Artawan,1,0,,,,,,"",""
+ball,2,10.5,Sweden,DB Lakhani,W Boshoff,IKEG Artawan,0,0,,,,,,"",""
+ball,2,10.6,Sweden,DB Lakhani,W Boshoff,IKEG Artawan,0,0,,,,,,"",""
+ball,2,10.7,Sweden,DB Lakhani,W Boshoff,IKEG Artawan,1,0,,,,,,"",""
+ball,2,11.1,Sweden,DB Lakhani,W Boshoff,Anjar Tadarus,1,0,,,,,,"",""
+ball,2,11.2,Sweden,W Boshoff,DB Lakhani,Anjar Tadarus,1,0,,,,,,"",""
+ball,2,11.3,Sweden,DB Lakhani,W Boshoff,Anjar Tadarus,0,0,,,,,,lbw,DB Lakhani
+ball,2,11.4,Sweden,Zaid Ahmad,W Boshoff,Anjar Tadarus,1,0,,,,,,"",""
+ball,2,11.5,Sweden,W Boshoff,Zaid Ahmad,Anjar Tadarus,1,0,,,,,,"",""
+ball,2,11.6,Sweden,Zaid Ahmad,W Boshoff,Anjar Tadarus,1,0,,,,,,"",""
+ball,2,12.1,Sweden,Zaid Ahmad,W Boshoff,IKEG Artawan,2,0,,,,,,"",""
+ball,2,12.2,Sweden,Zaid Ahmad,W Boshoff,IKEG Artawan,1,0,,,,,,"",""
+ball,2,12.3,Sweden,W Boshoff,Zaid Ahmad,IKEG Artawan,1,0,,,,,,"",""
+ball,2,12.4,Sweden,Zaid Ahmad,W Boshoff,IKEG Artawan,1,0,,,,,,"",""
+ball,2,12.5,Sweden,W Boshoff,Zaid Ahmad,IKEG Artawan,1,0,,,,,,"",""
+ball,2,12.6,Sweden,Zaid Ahmad,W Boshoff,IKEG Artawan,4,0,,,,,,"",""
+ball,2,13.1,Sweden,W Boshoff,Zaid Ahmad,Anjar Tadarus,1,0,,,,,,"",""
+ball,2,13.2,Sweden,Zaid Ahmad,W Boshoff,Anjar Tadarus,2,0,,,,,,"",""
+ball,2,13.3,Sweden,Zaid Ahmad,W Boshoff,Anjar Tadarus,1,0,,,,,,"",""
+ball,2,13.4,Sweden,W Boshoff,Zaid Ahmad,Anjar Tadarus,2,0,,,,,,"",""
+ball,2,13.5,Sweden,W Boshoff,Zaid Ahmad,Anjar Tadarus,1,0,,,,,,"",""
+ball,2,13.6,Sweden,Zaid Ahmad,W Boshoff,Anjar Tadarus,0,0,,,,,,"",""
+ball,2,14.1,Sweden,W Boshoff,Zaid Ahmad,GA Priandana,1,0,,,,,,"",""
+ball,2,14.2,Sweden,Zaid Ahmad,W Boshoff,GA Priandana,1,0,,,,,,"",""
+ball,2,14.3,Sweden,W Boshoff,Zaid Ahmad,GA Priandana,0,0,,,,,,"",""
+ball,2,14.4,Sweden,W Boshoff,Zaid Ahmad,GA Priandana,1,0,,,,,,"",""
+ball,2,14.5,Sweden,Zaid Ahmad,W Boshoff,GA Priandana,1,0,,,,,,"",""
+ball,2,14.6,Sweden,W Boshoff,Zaid Ahmad,GA Priandana,0,0,,,,,,"",""
+ball,2,15.1,Sweden,Zaid Ahmad,W Boshoff,DK Shetty,1,0,,,,,,"",""
+ball,2,15.2,Sweden,W Boshoff,Zaid Ahmad,DK Shetty,1,0,,,,,,"",""
+ball,2,15.3,Sweden,Zaid Ahmad,W Boshoff,DK Shetty,1,0,,,,,,"",""
+ball,2,15.4,Sweden,W Boshoff,Zaid Ahmad,DK Shetty,1,0,,,,,,"",""
+ball,2,15.5,Sweden,Zaid Ahmad,W Boshoff,DK Shetty,0,0,,,,,,"",""
+ball,2,15.6,Sweden,Zaid Ahmad,W Boshoff,DK Shetty,0,0,,,,,,caught,Zaid Ahmad
+ball,2,16.1,Sweden,W Boshoff,A Dhabe,GA Priandana,0,0,,,,,,caught,W Boshoff
+ball,2,16.2,Sweden,Zain Muzaffar,A Dhabe,GA Priandana,1,0,,,,,,"",""
+ball,2,16.3,Sweden,A Dhabe,Zain Muzaffar,GA Priandana,1,0,,,,,,"",""
+ball,2,16.4,Sweden,Zain Muzaffar,A Dhabe,GA Priandana,1,0,,,,,,"",""
+ball,2,16.5,Sweden,A Dhabe,Zain Muzaffar,GA Priandana,0,0,,,,,,"",""
+ball,2,16.6,Sweden,A Dhabe,Zain Muzaffar,GA Priandana,2,0,,,,,,"",""
+ball,2,17.1,Sweden,Zain Muzaffar,A Dhabe,DJ Hawoe,1,0,,,,,,"",""
+ball,2,17.2,Sweden,A Dhabe,Zain Muzaffar,DJ Hawoe,1,0,,,,,,"",""
+ball,2,17.3,Sweden,Zain Muzaffar,A Dhabe,DJ Hawoe,0,0,,,,,,"",""
+ball,2,17.4,Sweden,Zain Muzaffar,A Dhabe,DJ Hawoe,4,0,,,,,,"",""
+ball,2,17.5,Sweden,Zain Muzaffar,A Dhabe,DJ Hawoe,1,0,,,,,,"",""
+ball,2,17.6,Sweden,A Dhabe,Zain Muzaffar,DJ Hawoe,1,0,,,,,,"",""
+ball,2,18.1,Sweden,A Dhabe,Zain Muzaffar,GA Priandana,0,0,,,,,,"",""
+ball,2,18.2,Sweden,A Dhabe,Zain Muzaffar,GA Priandana,4,0,,,,,,"",""
+ball,2,18.3,Sweden,A Dhabe,Zain Muzaffar,GA Priandana,4,0,,,,,,"",""
+ball,2,18.4,Sweden,A Dhabe,Zain Muzaffar,GA Priandana,1,0,,,,,,"",""
+ball,2,18.5,Sweden,Zain Muzaffar,A Dhabe,GA Priandana,1,0,,,,,,"",""
+ball,2,18.6,Sweden,A Dhabe,Zain Muzaffar,GA Priandana,6,0,,,,,,"",""
+ball,2,19.1,Sweden,Zain Muzaffar,A Dhabe,F Banunaek,1,0,,,,,,"",""
+ball,2,19.2,Sweden,A Dhabe,Zain Muzaffar,F Banunaek,1,0,,,,,,"",""
+ball,2,19.3,Sweden,Zain Muzaffar,A Dhabe,F Banunaek,6,0,,,,,,"",""

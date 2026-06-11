@@ -1,0 +1,232 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Bangladesh
+info,team,New Zealand
+info,gender,male
+info,season,2026
+info,date,2026/05/02
+info,event,New Zealand tour of Bangladesh
+info,match_number,3
+info,venue,"Shere Bangla National Stadium, Mirpur"
+info,city,Dhaka
+info,toss_winner,New Zealand
+info,toss_decision,field
+info,player_of_match,BJ Jacobs
+info,umpire,Gazi Sohel
+info,umpire,Masudur Rahman
+info,reserve_umpire,Tanvir Ahmed
+info,tv_umpire,Morshed Ali Khan
+info,match_referee,AJ Pycroft
+info,winner,New Zealand
+info,winner_wickets,6
+info,method,D/L
+info,player,Bangladesh,Saif Hassan
+info,player,Bangladesh,Tanzid Hasan
+info,player,Bangladesh,Liton Das
+info,player,Bangladesh,Parvez Hossain Emon
+info,player,Bangladesh,Towhid Hridoy
+info,player,Bangladesh,Shamim Hossain
+info,player,Bangladesh,Mahedi Hasan
+info,player,Bangladesh,Mohammad Saifuddin
+info,player,Bangladesh,Rishad Hossain
+info,player,Bangladesh,Shoriful Islam
+info,player,Bangladesh,R Mondol
+info,player,New Zealand,TB Robinson
+info,player,New Zealand,KD Clarke
+info,player,New Zealand,D Cleaver
+info,player,New Zealand,NF Kelly
+info,player,New Zealand,BJ Jacobs
+info,player,New Zealand,D Foxcroft
+info,player,New Zealand,JA Clarkson
+info,player,New Zealand,NG Smith
+info,player,New Zealand,IS Sodhi
+info,player,New Zealand,JR Lennox
+info,player,New Zealand,BV Sears
+info,registry,people,AJ Pycroft,685d3f80
+info,registry,people,BJ Jacobs,972f217b
+info,registry,people,BV Sears,e1891e00
+info,registry,people,D Cleaver,e3a949be
+info,registry,people,D Foxcroft,ed6894af
+info,registry,people,Gazi Sohel,f0df3ed7
+info,registry,people,IS Sodhi,641ac5ff
+info,registry,people,JA Clarkson,bed90114
+info,registry,people,JR Lennox,07793daf
+info,registry,people,KD Clarke,7a12be0a
+info,registry,people,Liton Das,0404d43c
+info,registry,people,Mahedi Hasan,9dad0f2e
+info,registry,people,Masudur Rahman,9581ac6b
+info,registry,people,Mohammad Saifuddin,b3a28446
+info,registry,people,Morshed Ali Khan,a7c3cf5f
+info,registry,people,NF Kelly,97f437ed
+info,registry,people,NG Smith,05b1aef8
+info,registry,people,Parvez Hossain Emon,489aaf0a
+info,registry,people,R Mondol,492ff0c2
+info,registry,people,Rishad Hossain,5935d694
+info,registry,people,Saif Hassan,bb95564b
+info,registry,people,Shamim Hossain,711249d1
+info,registry,people,Shoriful Islam,bb34fd31
+info,registry,people,TB Robinson,5d664346
+info,registry,people,Tanvir Ahmed,ea2df1f1
+info,registry,people,Tanzid Hasan,80fe764d
+info,registry,people,Towhid Hridoy,9e52a414
+ball,1,0.1,Bangladesh,Saif Hassan,Tanzid Hasan,D Foxcroft,0,0,,,,,,"",""
+ball,1,0.2,Bangladesh,Saif Hassan,Tanzid Hasan,D Foxcroft,0,0,,,,,,"",""
+ball,1,0.3,Bangladesh,Saif Hassan,Tanzid Hasan,D Foxcroft,3,0,,,,,,"",""
+ball,1,0.4,Bangladesh,Tanzid Hasan,Saif Hassan,D Foxcroft,0,0,,,,,,"",""
+ball,1,0.5,Bangladesh,Tanzid Hasan,Saif Hassan,D Foxcroft,1,0,,,,,,"",""
+ball,1,0.6,Bangladesh,Saif Hassan,Tanzid Hasan,D Foxcroft,1,0,,,,,,"",""
+ball,1,1.1,Bangladesh,Saif Hassan,Tanzid Hasan,NG Smith,4,0,,,,,,"",""
+ball,1,1.2,Bangladesh,Saif Hassan,Tanzid Hasan,NG Smith,2,0,,,,,,"",""
+ball,1,1.3,Bangladesh,Saif Hassan,Tanzid Hasan,NG Smith,2,0,,,,,,"",""
+ball,1,1.4,Bangladesh,Saif Hassan,Tanzid Hasan,NG Smith,0,0,,,,,,"",""
+ball,1,1.5,Bangladesh,Saif Hassan,Tanzid Hasan,NG Smith,4,0,,,,,,"",""
+ball,1,1.6,Bangladesh,Saif Hassan,Tanzid Hasan,NG Smith,0,0,,,,,,"",""
+ball,1,2.1,Bangladesh,Tanzid Hasan,Saif Hassan,BV Sears,0,0,,,,,,"",""
+ball,1,2.2,Bangladesh,Tanzid Hasan,Saif Hassan,BV Sears,2,0,,,,,,"",""
+ball,1,2.3,Bangladesh,Tanzid Hasan,Saif Hassan,BV Sears,2,0,,,,,,"",""
+ball,1,2.4,Bangladesh,Tanzid Hasan,Saif Hassan,BV Sears,0,0,,,,,,"",""
+ball,1,2.5,Bangladesh,Tanzid Hasan,Saif Hassan,BV Sears,0,0,,,,,,"",""
+ball,1,2.6,Bangladesh,Tanzid Hasan,Saif Hassan,BV Sears,0,0,,,,,,"",""
+ball,1,3.1,Bangladesh,Saif Hassan,Tanzid Hasan,JR Lennox,0,0,,,,,,caught,Saif Hassan
+ball,1,3.2,Bangladesh,Liton Das,Tanzid Hasan,JR Lennox,0,0,,,,,,"",""
+ball,1,3.3,Bangladesh,Liton Das,Tanzid Hasan,JR Lennox,4,0,,,,,,"",""
+ball,1,3.4,Bangladesh,Liton Das,Tanzid Hasan,JR Lennox,2,0,,,,,,"",""
+ball,1,3.5,Bangladesh,Liton Das,Tanzid Hasan,JR Lennox,6,0,,,,,,"",""
+ball,1,3.6,Bangladesh,Liton Das,Tanzid Hasan,JR Lennox,0,0,,,,,,"",""
+ball,1,4.1,Bangladesh,Tanzid Hasan,Liton Das,NG Smith,1,0,,,,,,"",""
+ball,1,4.2,Bangladesh,Liton Das,Tanzid Hasan,NG Smith,1,0,,,,,,"",""
+ball,1,4.3,Bangladesh,Tanzid Hasan,Liton Das,NG Smith,0,0,,,,,,bowled,Tanzid Hasan
+ball,1,4.4,Bangladesh,Parvez Hossain Emon,Liton Das,NG Smith,0,0,,,,,,caught,Parvez Hossain Emon
+ball,1,4.5,Bangladesh,Towhid Hridoy,Liton Das,NG Smith,0,0,,,,,,"",""
+ball,1,4.6,Bangladesh,Towhid Hridoy,Liton Das,NG Smith,0,0,,,,,,"",""
+ball,1,5.1,Bangladesh,Liton Das,Towhid Hridoy,BV Sears,0,0,,,,,,"",""
+ball,1,5.2,Bangladesh,Liton Das,Towhid Hridoy,BV Sears,0,0,,,,,,"",""
+ball,1,5.3,Bangladesh,Liton Das,Towhid Hridoy,BV Sears,1,0,,,,,,"",""
+ball,1,5.4,Bangladesh,Towhid Hridoy,Liton Das,BV Sears,1,0,,,,,,"",""
+ball,1,5.5,Bangladesh,Liton Das,Towhid Hridoy,BV Sears,4,0,,,,,,"",""
+ball,1,5.6,Bangladesh,Liton Das,Towhid Hridoy,BV Sears,2,0,,,,,,"",""
+ball,1,6.1,Bangladesh,Towhid Hridoy,Liton Das,IS Sodhi,0,1,1,,,,,"",""
+ball,1,6.2,Bangladesh,Towhid Hridoy,Liton Das,IS Sodhi,1,0,,,,,,"",""
+ball,1,6.3,Bangladesh,Liton Das,Towhid Hridoy,IS Sodhi,4,0,,,,,,"",""
+ball,1,6.4,Bangladesh,Liton Das,Towhid Hridoy,IS Sodhi,1,0,,,,,,"",""
+ball,1,6.5,Bangladesh,Towhid Hridoy,Liton Das,IS Sodhi,0,0,,,,,,"",""
+ball,1,6.6,Bangladesh,Towhid Hridoy,Liton Das,IS Sodhi,4,0,,,,,,"",""
+ball,1,6.7,Bangladesh,Towhid Hridoy,Liton Das,IS Sodhi,0,0,,,,,,"",""
+ball,1,7.1,Bangladesh,Liton Das,Towhid Hridoy,JR Lennox,0,0,,,,,,"",""
+ball,1,7.2,Bangladesh,Liton Das,Towhid Hridoy,JR Lennox,0,0,,,,,,"",""
+ball,1,7.3,Bangladesh,Liton Das,Towhid Hridoy,JR Lennox,1,0,,,,,,"",""
+ball,1,7.4,Bangladesh,Towhid Hridoy,Liton Das,JR Lennox,0,0,,,,,,"",""
+ball,1,7.5,Bangladesh,Towhid Hridoy,Liton Das,JR Lennox,6,0,,,,,,"",""
+ball,1,7.6,Bangladesh,Towhid Hridoy,Liton Das,JR Lennox,1,0,,,,,,"",""
+ball,1,8.1,Bangladesh,Towhid Hridoy,Liton Das,JA Clarkson,1,0,,,,,,"",""
+ball,1,8.2,Bangladesh,Liton Das,Towhid Hridoy,JA Clarkson,0,0,,,,,,caught,Liton Das
+ball,1,8.3,Bangladesh,Shamim Hossain,Towhid Hridoy,JA Clarkson,0,0,,,,,,"",""
+ball,1,8.4,Bangladesh,Shamim Hossain,Towhid Hridoy,JA Clarkson,0,0,,,,,,"",""
+ball,1,8.5,Bangladesh,Shamim Hossain,Towhid Hridoy,JA Clarkson,1,0,,,,,,"",""
+ball,1,8.6,Bangladesh,Towhid Hridoy,Shamim Hossain,JA Clarkson,1,0,,,,,,"",""
+ball,1,9.1,Bangladesh,Towhid Hridoy,Shamim Hossain,IS Sodhi,0,0,,,,,,"",""
+ball,1,9.2,Bangladesh,Towhid Hridoy,Shamim Hossain,IS Sodhi,0,1,1,,,,,"",""
+ball,1,9.3,Bangladesh,Towhid Hridoy,Shamim Hossain,IS Sodhi,0,0,,,,,,"",""
+ball,1,9.4,Bangladesh,Towhid Hridoy,Shamim Hossain,IS Sodhi,0,1,1,,,,,"",""
+ball,1,9.5,Bangladesh,Towhid Hridoy,Shamim Hossain,IS Sodhi,4,0,,,,,,"",""
+ball,1,9.6,Bangladesh,Towhid Hridoy,Shamim Hossain,IS Sodhi,1,0,,,,,,"",""
+ball,1,9.7,Bangladesh,Shamim Hossain,Towhid Hridoy,IS Sodhi,0,0,,,,,,"",""
+ball,1,9.8,Bangladesh,Shamim Hossain,Towhid Hridoy,IS Sodhi,0,0,,,,,,"",""
+ball,1,10.1,Bangladesh,Towhid Hridoy,Shamim Hossain,D Foxcroft,4,0,,,,,,"",""
+ball,1,10.2,Bangladesh,Towhid Hridoy,Shamim Hossain,D Foxcroft,6,0,,,,,,"",""
+ball,1,10.3,Bangladesh,Towhid Hridoy,Shamim Hossain,D Foxcroft,0,0,,,,,,"",""
+ball,1,10.4,Bangladesh,Towhid Hridoy,Shamim Hossain,D Foxcroft,0,0,,,,,,"",""
+ball,1,10.5,Bangladesh,Towhid Hridoy,Shamim Hossain,D Foxcroft,1,0,,,,,,"",""
+ball,1,10.6,Bangladesh,Shamim Hossain,Towhid Hridoy,D Foxcroft,1,0,,,,,,"",""
+ball,1,11.1,Bangladesh,Shamim Hossain,Towhid Hridoy,IS Sodhi,1,0,,,,,,"",""
+ball,1,11.2,Bangladesh,Towhid Hridoy,Shamim Hossain,IS Sodhi,1,0,,,,,,"",""
+ball,1,11.3,Bangladesh,Shamim Hossain,Towhid Hridoy,IS Sodhi,0,0,,,,,,caught,Shamim Hossain
+ball,1,11.4,Bangladesh,Mahedi Hasan,Towhid Hridoy,IS Sodhi,0,0,,,,,,"",""
+ball,1,11.5,Bangladesh,Mahedi Hasan,Towhid Hridoy,IS Sodhi,1,0,,,,,,"",""
+ball,1,11.6,Bangladesh,Towhid Hridoy,Mahedi Hasan,IS Sodhi,1,0,,,,,,"",""
+ball,1,12.1,Bangladesh,Towhid Hridoy,Mahedi Hasan,JA Clarkson,0,0,,,,,,caught,Towhid Hridoy
+ball,1,12.2,Bangladesh,Mohammad Saifuddin,Mahedi Hasan,JA Clarkson,0,1,1,,,,,"",""
+ball,1,12.3,Bangladesh,Mohammad Saifuddin,Mahedi Hasan,JA Clarkson,0,0,,,,,,caught,Mohammad Saifuddin
+ball,1,12.4,Bangladesh,Rishad Hossain,Mahedi Hasan,JA Clarkson,1,0,,,,,,"",""
+ball,1,12.5,Bangladesh,Mahedi Hasan,Rishad Hossain,JA Clarkson,1,0,,,,,,"",""
+ball,1,12.6,Bangladesh,Rishad Hossain,Mahedi Hasan,JA Clarkson,2,0,,,,,,"",""
+ball,1,12.7,Bangladesh,Rishad Hossain,Mahedi Hasan,JA Clarkson,1,0,,,,,,"",""
+ball,1,13.1,Bangladesh,Rishad Hossain,Mahedi Hasan,JR Lennox,1,0,,,,,,run out,Rishad Hossain
+ball,1,13.2,Bangladesh,Shoriful Islam,Mahedi Hasan,JR Lennox,1,0,,,,,,"",""
+ball,1,13.3,Bangladesh,Mahedi Hasan,Shoriful Islam,JR Lennox,0,0,,,,,,"",""
+ball,1,13.4,Bangladesh,Mahedi Hasan,Shoriful Islam,JR Lennox,4,0,,,,,,"",""
+ball,1,13.5,Bangladesh,Mahedi Hasan,Shoriful Islam,JR Lennox,1,0,,,,,,"",""
+ball,1,13.6,Bangladesh,Shoriful Islam,Mahedi Hasan,JR Lennox,1,0,,,,,,"",""
+ball,1,14.1,Bangladesh,Shoriful Islam,Mahedi Hasan,BV Sears,0,0,,,,,,bowled,Shoriful Islam
+ball,1,14.2,Bangladesh,R Mondol,Mahedi Hasan,BV Sears,0,0,,,,,,bowled,R Mondol
+ball,2,0.1,New Zealand,TB Robinson,KD Clarke,Mahedi Hasan,1,0,,,,,,"",""
+ball,2,0.2,New Zealand,KD Clarke,TB Robinson,Mahedi Hasan,1,0,,,,,,"",""
+ball,2,0.3,New Zealand,TB Robinson,KD Clarke,Mahedi Hasan,4,0,,,,,,"",""
+ball,2,0.4,New Zealand,TB Robinson,KD Clarke,Mahedi Hasan,0,0,,,,,,"",""
+ball,2,0.5,New Zealand,TB Robinson,KD Clarke,Mahedi Hasan,2,0,,,,,,"",""
+ball,2,0.6,New Zealand,TB Robinson,KD Clarke,Mahedi Hasan,1,0,,,,,,"",""
+ball,2,1.1,New Zealand,TB Robinson,KD Clarke,Shoriful Islam,1,0,,,,,,"",""
+ball,2,1.2,New Zealand,KD Clarke,TB Robinson,Shoriful Islam,0,0,,,,,,caught,KD Clarke
+ball,2,1.3,New Zealand,D Cleaver,TB Robinson,Shoriful Islam,0,0,,,,,,"",""
+ball,2,1.4,New Zealand,D Cleaver,TB Robinson,Shoriful Islam,1,0,,,,,,"",""
+ball,2,1.5,New Zealand,TB Robinson,D Cleaver,Shoriful Islam,1,0,,,,,,"",""
+ball,2,1.6,New Zealand,D Cleaver,TB Robinson,Shoriful Islam,0,0,,,,,,caught,D Cleaver
+ball,2,2.1,New Zealand,TB Robinson,NF Kelly,R Mondol,4,0,,,,,,"",""
+ball,2,2.2,New Zealand,TB Robinson,NF Kelly,R Mondol,6,0,,,,,,"",""
+ball,2,2.3,New Zealand,TB Robinson,NF Kelly,R Mondol,0,0,,,,,,"",""
+ball,2,2.4,New Zealand,TB Robinson,NF Kelly,R Mondol,2,0,,,,,,"",""
+ball,2,2.5,New Zealand,TB Robinson,NF Kelly,R Mondol,0,0,,,,,,"",""
+ball,2,2.6,New Zealand,TB Robinson,NF Kelly,R Mondol,1,0,,,,,,"",""
+ball,2,3.1,New Zealand,TB Robinson,NF Kelly,Shoriful Islam,0,0,,,,,,bowled,TB Robinson
+ball,2,3.2,New Zealand,BJ Jacobs,NF Kelly,Shoriful Islam,0,0,,,,,,"",""
+ball,2,3.3,New Zealand,BJ Jacobs,NF Kelly,Shoriful Islam,1,0,,,,,,"",""
+ball,2,3.4,New Zealand,NF Kelly,BJ Jacobs,Shoriful Islam,0,0,,,,,,"",""
+ball,2,3.5,New Zealand,NF Kelly,BJ Jacobs,Shoriful Islam,0,0,,,,,,"",""
+ball,2,3.6,New Zealand,NF Kelly,BJ Jacobs,Shoriful Islam,0,0,,,,,,"",""
+ball,2,4.1,New Zealand,BJ Jacobs,NF Kelly,Mahedi Hasan,4,0,,,,,,"",""
+ball,2,4.2,New Zealand,BJ Jacobs,NF Kelly,Mahedi Hasan,0,0,,,,,,"",""
+ball,2,4.3,New Zealand,BJ Jacobs,NF Kelly,Mahedi Hasan,1,0,,,,,,"",""
+ball,2,4.4,New Zealand,NF Kelly,BJ Jacobs,Mahedi Hasan,1,0,,,,,,"",""
+ball,2,4.5,New Zealand,BJ Jacobs,NF Kelly,Mahedi Hasan,1,0,,,,,,"",""
+ball,2,4.6,New Zealand,NF Kelly,BJ Jacobs,Mahedi Hasan,0,0,,,,,,bowled,NF Kelly
+ball,2,5.1,New Zealand,BJ Jacobs,D Foxcroft,Shoriful Islam,1,0,,,,,,"",""
+ball,2,5.2,New Zealand,D Foxcroft,BJ Jacobs,Shoriful Islam,1,0,,,,,,"",""
+ball,2,5.3,New Zealand,BJ Jacobs,D Foxcroft,Shoriful Islam,4,0,,,,,,"",""
+ball,2,5.4,New Zealand,BJ Jacobs,D Foxcroft,Shoriful Islam,4,0,,,,,,"",""
+ball,2,5.5,New Zealand,BJ Jacobs,D Foxcroft,Shoriful Islam,1,0,,,,,,"",""
+ball,2,5.6,New Zealand,D Foxcroft,BJ Jacobs,Shoriful Islam,4,0,,,,,,"",""
+ball,2,6.1,New Zealand,BJ Jacobs,D Foxcroft,Rishad Hossain,0,0,,,,,,"",""
+ball,2,6.2,New Zealand,BJ Jacobs,D Foxcroft,Rishad Hossain,2,0,,,,,,"",""
+ball,2,6.3,New Zealand,BJ Jacobs,D Foxcroft,Rishad Hossain,1,0,,,,,,"",""
+ball,2,6.4,New Zealand,D Foxcroft,BJ Jacobs,Rishad Hossain,1,0,,,,,,"",""
+ball,2,6.5,New Zealand,BJ Jacobs,D Foxcroft,Rishad Hossain,1,0,,,,,,"",""
+ball,2,6.6,New Zealand,D Foxcroft,BJ Jacobs,Rishad Hossain,1,0,,,,,,"",""
+ball,2,7.1,New Zealand,D Foxcroft,BJ Jacobs,Mohammad Saifuddin,1,0,,,,,,"",""
+ball,2,7.2,New Zealand,BJ Jacobs,D Foxcroft,Mohammad Saifuddin,1,0,,,,,,"",""
+ball,2,7.3,New Zealand,D Foxcroft,BJ Jacobs,Mohammad Saifuddin,1,0,,,,,,"",""
+ball,2,7.4,New Zealand,BJ Jacobs,D Foxcroft,Mohammad Saifuddin,3,0,,,,,,"",""
+ball,2,7.5,New Zealand,D Foxcroft,BJ Jacobs,Mohammad Saifuddin,0,1,1,,,,,"",""
+ball,2,7.6,New Zealand,D Foxcroft,BJ Jacobs,Mohammad Saifuddin,0,0,,,,,,"",""
+ball,2,7.7,New Zealand,D Foxcroft,BJ Jacobs,Mohammad Saifuddin,0,0,,,,,,"",""
+ball,2,8.1,New Zealand,BJ Jacobs,D Foxcroft,Rishad Hossain,1,0,,,,,,"",""
+ball,2,8.2,New Zealand,D Foxcroft,BJ Jacobs,Rishad Hossain,1,0,,,,,,"",""
+ball,2,8.3,New Zealand,BJ Jacobs,D Foxcroft,Rishad Hossain,1,0,,,,,,"",""
+ball,2,8.4,New Zealand,D Foxcroft,BJ Jacobs,Rishad Hossain,1,0,,,,,,"",""
+ball,2,8.5,New Zealand,BJ Jacobs,D Foxcroft,Rishad Hossain,0,0,,,,,,"",""
+ball,2,8.6,New Zealand,BJ Jacobs,D Foxcroft,Rishad Hossain,4,0,,,,,,"",""
+ball,2,9.1,New Zealand,D Foxcroft,BJ Jacobs,R Mondol,1,0,,,,,,"",""
+ball,2,9.2,New Zealand,BJ Jacobs,D Foxcroft,R Mondol,0,0,,,,,,"",""
+ball,2,9.3,New Zealand,BJ Jacobs,D Foxcroft,R Mondol,6,0,,,,,,"",""
+ball,2,9.4,New Zealand,BJ Jacobs,D Foxcroft,R Mondol,2,0,,,,,,"",""
+ball,2,9.5,New Zealand,BJ Jacobs,D Foxcroft,R Mondol,2,0,,,,,,"",""
+ball,2,9.6,New Zealand,BJ Jacobs,D Foxcroft,R Mondol,3,0,,,,,,"",""
+ball,2,10.1,New Zealand,BJ Jacobs,D Foxcroft,Mahedi Hasan,1,0,,,,,,"",""
+ball,2,10.2,New Zealand,D Foxcroft,BJ Jacobs,Mahedi Hasan,1,0,,,,,,"",""
+ball,2,10.3,New Zealand,BJ Jacobs,D Foxcroft,Mahedi Hasan,0,0,,,,,,"",""
+ball,2,10.4,New Zealand,BJ Jacobs,D Foxcroft,Mahedi Hasan,1,0,,,,,,"",""
+ball,2,10.5,New Zealand,D Foxcroft,BJ Jacobs,Mahedi Hasan,0,0,,,,,,"",""
+ball,2,10.6,New Zealand,D Foxcroft,BJ Jacobs,Mahedi Hasan,1,0,,,,,,"",""
+ball,2,11.1,New Zealand,D Foxcroft,BJ Jacobs,Rishad Hossain,1,0,,,,,,"",""
+ball,2,11.2,New Zealand,BJ Jacobs,D Foxcroft,Rishad Hossain,6,0,,,,,,"",""
+ball,2,11.3,New Zealand,BJ Jacobs,D Foxcroft,Rishad Hossain,4,0,,,,,,"",""
+ball,2,11.4,New Zealand,BJ Jacobs,D Foxcroft,Rishad Hossain,6,0,,,,,,"",""

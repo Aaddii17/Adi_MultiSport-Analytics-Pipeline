@@ -1,0 +1,315 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Zimbabwe
+info,team,Australia
+info,gender,male
+info,season,2025/26
+info,date,2026/02/13
+info,event,ICC Men's T20 World Cup
+info,match_number,19
+info,venue,"R Premadasa Stadium, Colombo"
+info,city,Colombo
+info,toss_winner,Australia
+info,toss_decision,field
+info,player_of_match,B Muzarabani
+info,umpire,CB Gaffaney
+info,umpire,RR Wimalasiri
+info,reserve_umpire,HDPK Dharmasena
+info,tv_umpire,RK Illingworth
+info,match_referee,RB Richardson
+info,winner,Zimbabwe
+info,winner_runs,23
+info,player,Zimbabwe,BJ Bennett
+info,player,Zimbabwe,T Marumani
+info,player,Zimbabwe,RP Burl
+info,player,Zimbabwe,Sikandar Raza
+info,player,Zimbabwe,D Myers
+info,player,Zimbabwe,T Munyonga
+info,player,Zimbabwe,T Musekiwa
+info,player,Zimbabwe,B Evans
+info,player,Zimbabwe,WP Masakadza
+info,player,Zimbabwe,AG Cremer
+info,player,Zimbabwe,B Muzarabani
+info,player,Australia,JP Inglis
+info,player,Australia,TM Head
+info,player,Australia,C Green
+info,player,Australia,TH David
+info,player,Australia,GJ Maxwell
+info,player,Australia,MT Renshaw
+info,player,Australia,MP Stoinis
+info,player,Australia,BJ Dwarshuis
+info,player,Australia,NT Ellis
+info,player,Australia,A Zampa
+info,player,Australia,MP Kuhnemann
+info,registry,people,A Zampa,14f96089
+info,registry,people,AG Cremer,9f0270e0
+info,registry,people,B Evans,e7e86505
+info,registry,people,B Muzarabani,449f4e3c
+info,registry,people,BJ Bennett,eaa36b2a
+info,registry,people,BJ Dwarshuis,e1b9f3a9
+info,registry,people,C Green,eaa76d3c
+info,registry,people,CB Gaffaney,d5ac41d8
+info,registry,people,D Myers,d96165b5
+info,registry,people,GJ Maxwell,b681e71e
+info,registry,people,HDPK Dharmasena,323e4c16
+info,registry,people,JP Inglis,989889ff
+info,registry,people,MP Kuhnemann,7b953689
+info,registry,people,MP Stoinis,d9273ee7
+info,registry,people,MT Renshaw,218d4d78
+info,registry,people,NT Ellis,9eb1455b
+info,registry,people,RB Richardson,410e2f12
+info,registry,people,RK Illingworth,20672246
+info,registry,people,RP Burl,b08252b8
+info,registry,people,RR Wimalasiri,4950c8db
+info,registry,people,Sikandar Raza,26d041c4
+info,registry,people,T Marumani,3d5d51a5
+info,registry,people,T Munyonga,fbcfa528
+info,registry,people,T Musekiwa,06fc82b8
+info,registry,people,TH David,f1f99156
+info,registry,people,TM Head,12b610c2
+info,registry,people,WP Masakadza,4bc0a378
+info,registry,people,XC Bartlett,3b53243a
+ball,1,0.1,Zimbabwe,BJ Bennett,T Marumani,BJ Dwarshuis,0,0,,,,,,"",""
+ball,1,0.2,Zimbabwe,BJ Bennett,T Marumani,BJ Dwarshuis,0,0,,,,,,"",""
+ball,1,0.3,Zimbabwe,BJ Bennett,T Marumani,BJ Dwarshuis,2,0,,,,,,"",""
+ball,1,0.4,Zimbabwe,BJ Bennett,T Marumani,BJ Dwarshuis,0,0,,,,,,"",""
+ball,1,0.5,Zimbabwe,BJ Bennett,T Marumani,BJ Dwarshuis,2,0,,,,,,"",""
+ball,1,0.6,Zimbabwe,BJ Bennett,T Marumani,BJ Dwarshuis,0,0,,,,,,"",""
+ball,1,1.1,Zimbabwe,T Marumani,BJ Bennett,MP Stoinis,0,1,1,,,,,"",""
+ball,1,1.2,Zimbabwe,T Marumani,BJ Bennett,MP Stoinis,0,0,,,,,,"",""
+ball,1,1.3,Zimbabwe,T Marumani,BJ Bennett,MP Stoinis,1,0,,,,,,"",""
+ball,1,1.4,Zimbabwe,BJ Bennett,T Marumani,MP Stoinis,0,1,,,,1,,"",""
+ball,1,1.5,Zimbabwe,T Marumani,BJ Bennett,MP Stoinis,1,0,,,,,,"",""
+ball,1,1.6,Zimbabwe,BJ Bennett,T Marumani,MP Stoinis,0,0,,,,,,"",""
+ball,1,1.7,Zimbabwe,BJ Bennett,T Marumani,MP Stoinis,0,0,,,,,,"",""
+ball,1,2.1,Zimbabwe,T Marumani,BJ Bennett,BJ Dwarshuis,0,0,,,,,,"",""
+ball,1,2.2,Zimbabwe,T Marumani,BJ Bennett,BJ Dwarshuis,4,0,,,,,,"",""
+ball,1,2.3,Zimbabwe,T Marumani,BJ Bennett,BJ Dwarshuis,4,0,,,,,,"",""
+ball,1,2.4,Zimbabwe,T Marumani,BJ Bennett,BJ Dwarshuis,1,0,,,,,,"",""
+ball,1,2.5,Zimbabwe,BJ Bennett,T Marumani,BJ Dwarshuis,0,0,,,,,,"",""
+ball,1,2.6,Zimbabwe,BJ Bennett,T Marumani,BJ Dwarshuis,0,0,,,,,,"",""
+ball,1,3.1,Zimbabwe,T Marumani,BJ Bennett,GJ Maxwell,4,0,,,,,,"",""
+ball,1,3.2,Zimbabwe,T Marumani,BJ Bennett,GJ Maxwell,1,0,,,,,,"",""
+ball,1,3.3,Zimbabwe,BJ Bennett,T Marumani,GJ Maxwell,1,0,,,,,,"",""
+ball,1,3.4,Zimbabwe,T Marumani,BJ Bennett,GJ Maxwell,4,0,,,,,,"",""
+ball,1,3.5,Zimbabwe,T Marumani,BJ Bennett,GJ Maxwell,4,0,,,,,,"",""
+ball,1,3.6,Zimbabwe,T Marumani,BJ Bennett,GJ Maxwell,0,0,,,,,,"",""
+ball,1,4.1,Zimbabwe,BJ Bennett,T Marumani,MP Kuhnemann,4,0,,,,,,"",""
+ball,1,4.2,Zimbabwe,BJ Bennett,T Marumani,MP Kuhnemann,0,0,,,,,,"",""
+ball,1,4.3,Zimbabwe,BJ Bennett,T Marumani,MP Kuhnemann,0,0,,,,,,"",""
+ball,1,4.4,Zimbabwe,BJ Bennett,T Marumani,MP Kuhnemann,0,0,,,,,,"",""
+ball,1,4.5,Zimbabwe,BJ Bennett,T Marumani,MP Kuhnemann,4,0,,,,,,"",""
+ball,1,4.6,Zimbabwe,BJ Bennett,T Marumani,MP Kuhnemann,1,0,,,,,,"",""
+ball,1,5.1,Zimbabwe,BJ Bennett,T Marumani,NT Ellis,0,0,,,,,,"",""
+ball,1,5.2,Zimbabwe,BJ Bennett,T Marumani,NT Ellis,4,0,,,,,,"",""
+ball,1,5.3,Zimbabwe,BJ Bennett,T Marumani,NT Ellis,1,0,,,,,,"",""
+ball,1,5.4,Zimbabwe,T Marumani,BJ Bennett,NT Ellis,0,0,,,,,,"",""
+ball,1,5.5,Zimbabwe,T Marumani,BJ Bennett,NT Ellis,2,0,,,,,,"",""
+ball,1,5.6,Zimbabwe,T Marumani,BJ Bennett,NT Ellis,0,0,,,,,,"",""
+ball,1,6.1,Zimbabwe,BJ Bennett,T Marumani,A Zampa,0,0,,,,,,"",""
+ball,1,6.2,Zimbabwe,BJ Bennett,T Marumani,A Zampa,4,0,,,,,,"",""
+ball,1,6.3,Zimbabwe,BJ Bennett,T Marumani,A Zampa,1,0,,,,,,"",""
+ball,1,6.4,Zimbabwe,T Marumani,BJ Bennett,A Zampa,4,0,,,,,,"",""
+ball,1,6.5,Zimbabwe,T Marumani,BJ Bennett,A Zampa,0,0,,,,,,"",""
+ball,1,6.6,Zimbabwe,T Marumani,BJ Bennett,A Zampa,1,0,,,,,,"",""
+ball,1,7.1,Zimbabwe,T Marumani,BJ Bennett,MP Stoinis,0,0,,,,,,"",""
+ball,1,7.2,Zimbabwe,T Marumani,BJ Bennett,MP Stoinis,4,0,,,,,,"",""
+ball,1,7.3,Zimbabwe,T Marumani,BJ Bennett,MP Stoinis,0,0,,,,,,caught,T Marumani
+ball,1,7.4,Zimbabwe,RP Burl,BJ Bennett,MP Stoinis,1,0,,,,,,"",""
+ball,1,7.5,Zimbabwe,BJ Bennett,RP Burl,MP Stoinis,2,0,,,,,,"",""
+ball,1,7.6,Zimbabwe,BJ Bennett,RP Burl,MP Stoinis,0,1,1,,,,,"",""
+ball,1,7.7,Zimbabwe,BJ Bennett,RP Burl,MP Stoinis,0,1,,,,1,,"",""
+ball,1,8.1,Zimbabwe,BJ Bennett,RP Burl,A Zampa,2,0,,,,,,"",""
+ball,1,8.2,Zimbabwe,BJ Bennett,RP Burl,A Zampa,1,0,,,,,,"",""
+ball,1,8.3,Zimbabwe,RP Burl,BJ Bennett,A Zampa,0,0,,,,,,"",""
+ball,1,8.4,Zimbabwe,RP Burl,BJ Bennett,A Zampa,1,0,,,,,,"",""
+ball,1,8.5,Zimbabwe,BJ Bennett,RP Burl,A Zampa,0,0,,,,,,"",""
+ball,1,8.6,Zimbabwe,BJ Bennett,RP Burl,A Zampa,2,0,,,,,,"",""
+ball,1,9.1,Zimbabwe,RP Burl,BJ Bennett,C Green,0,1,,,,1,,"",""
+ball,1,9.2,Zimbabwe,BJ Bennett,RP Burl,C Green,0,0,,,,,,"",""
+ball,1,9.3,Zimbabwe,BJ Bennett,RP Burl,C Green,1,0,,,,,,"",""
+ball,1,9.4,Zimbabwe,RP Burl,BJ Bennett,C Green,1,0,,,,,,"",""
+ball,1,9.5,Zimbabwe,BJ Bennett,RP Burl,C Green,0,3,3,,,,,"",""
+ball,1,9.6,Zimbabwe,BJ Bennett,RP Burl,C Green,1,0,,,,,,"",""
+ball,1,9.7,Zimbabwe,RP Burl,BJ Bennett,C Green,0,0,,,,,,"",""
+ball,1,10.1,Zimbabwe,BJ Bennett,RP Burl,MP Kuhnemann,1,0,,,,,,"",""
+ball,1,10.2,Zimbabwe,RP Burl,BJ Bennett,MP Kuhnemann,2,0,,,,,,"",""
+ball,1,10.3,Zimbabwe,RP Burl,BJ Bennett,MP Kuhnemann,2,0,,,,,,"",""
+ball,1,10.4,Zimbabwe,RP Burl,BJ Bennett,MP Kuhnemann,1,0,,,,,,"",""
+ball,1,10.5,Zimbabwe,BJ Bennett,RP Burl,MP Kuhnemann,1,0,,,,,,"",""
+ball,1,10.6,Zimbabwe,RP Burl,BJ Bennett,MP Kuhnemann,1,0,,,,,,"",""
+ball,1,11.1,Zimbabwe,RP Burl,BJ Bennett,NT Ellis,2,0,,,,,,"",""
+ball,1,11.2,Zimbabwe,RP Burl,BJ Bennett,NT Ellis,4,0,,,,,,"",""
+ball,1,11.3,Zimbabwe,RP Burl,BJ Bennett,NT Ellis,0,0,,,,,,"",""
+ball,1,11.4,Zimbabwe,RP Burl,BJ Bennett,NT Ellis,4,0,,,,,,"",""
+ball,1,11.5,Zimbabwe,RP Burl,BJ Bennett,NT Ellis,0,1,1,,,,,"",""
+ball,1,11.6,Zimbabwe,RP Burl,BJ Bennett,NT Ellis,1,0,,,,,,"",""
+ball,1,11.7,Zimbabwe,BJ Bennett,RP Burl,NT Ellis,0,0,,,,,,"",""
+ball,1,12.1,Zimbabwe,RP Burl,BJ Bennett,MP Kuhnemann,0,0,,,,,,"",""
+ball,1,12.2,Zimbabwe,RP Burl,BJ Bennett,MP Kuhnemann,1,0,,,,,,"",""
+ball,1,12.3,Zimbabwe,BJ Bennett,RP Burl,MP Kuhnemann,1,0,,,,,,"",""
+ball,1,12.4,Zimbabwe,RP Burl,BJ Bennett,MP Kuhnemann,4,0,,,,,,"",""
+ball,1,12.5,Zimbabwe,RP Burl,BJ Bennett,MP Kuhnemann,0,0,,,,,,"",""
+ball,1,12.6,Zimbabwe,RP Burl,BJ Bennett,MP Kuhnemann,1,0,,,,,,"",""
+ball,1,13.1,Zimbabwe,RP Burl,BJ Bennett,BJ Dwarshuis,1,0,,,,,,"",""
+ball,1,13.2,Zimbabwe,BJ Bennett,RP Burl,BJ Dwarshuis,4,0,,,,,,"",""
+ball,1,13.3,Zimbabwe,BJ Bennett,RP Burl,BJ Dwarshuis,2,0,,,,,,"",""
+ball,1,13.4,Zimbabwe,BJ Bennett,RP Burl,BJ Dwarshuis,1,0,,,,,,"",""
+ball,1,13.5,Zimbabwe,RP Burl,BJ Bennett,BJ Dwarshuis,0,1,1,,,,,"",""
+ball,1,13.6,Zimbabwe,RP Burl,BJ Bennett,BJ Dwarshuis,1,0,,,,,,"",""
+ball,1,13.7,Zimbabwe,BJ Bennett,RP Burl,BJ Dwarshuis,2,0,,,,,,"",""
+ball,1,14.1,Zimbabwe,RP Burl,BJ Bennett,A Zampa,0,0,,,,,,"",""
+ball,1,14.2,Zimbabwe,RP Burl,BJ Bennett,A Zampa,0,0,,,,,,"",""
+ball,1,14.3,Zimbabwe,RP Burl,BJ Bennett,A Zampa,1,0,,,,,,"",""
+ball,1,14.4,Zimbabwe,BJ Bennett,RP Burl,A Zampa,4,0,,,,,,"",""
+ball,1,14.5,Zimbabwe,BJ Bennett,RP Burl,A Zampa,1,0,,,,,,"",""
+ball,1,14.6,Zimbabwe,RP Burl,BJ Bennett,A Zampa,1,0,,,,,,"",""
+ball,1,15.1,Zimbabwe,RP Burl,BJ Bennett,MP Stoinis,1,0,,,,,,"",""
+ball,1,15.2,Zimbabwe,BJ Bennett,RP Burl,MP Stoinis,0,0,,,,,,"",""
+ball,1,15.3,Zimbabwe,BJ Bennett,RP Burl,MP Stoinis,1,0,,,,,,"",""
+ball,1,15.4,Zimbabwe,RP Burl,BJ Bennett,MP Stoinis,4,0,,,,,,"",""
+ball,1,15.5,Zimbabwe,RP Burl,BJ Bennett,MP Stoinis,0,0,,,,,,"",""
+ball,1,15.6,Zimbabwe,RP Burl,BJ Bennett,C Green,0,0,,,,,,caught,RP Burl
+ball,1,16.1,Zimbabwe,BJ Bennett,Sikandar Raza,NT Ellis,1,0,,,,,,"",""
+ball,1,16.2,Zimbabwe,Sikandar Raza,BJ Bennett,NT Ellis,1,0,,,,,,"",""
+ball,1,16.3,Zimbabwe,BJ Bennett,Sikandar Raza,NT Ellis,0,0,,,,,,"",""
+ball,1,16.4,Zimbabwe,BJ Bennett,Sikandar Raza,NT Ellis,1,0,,,,,,"",""
+ball,1,16.5,Zimbabwe,Sikandar Raza,BJ Bennett,NT Ellis,0,0,,,,,,"",""
+ball,1,16.6,Zimbabwe,Sikandar Raza,BJ Bennett,NT Ellis,1,0,,,,,,"",""
+ball,1,17.1,Zimbabwe,Sikandar Raza,BJ Bennett,BJ Dwarshuis,4,0,,,,,,"",""
+ball,1,17.2,Zimbabwe,Sikandar Raza,BJ Bennett,BJ Dwarshuis,0,0,,,,,,"",""
+ball,1,17.3,Zimbabwe,Sikandar Raza,BJ Bennett,BJ Dwarshuis,4,0,,,,,,"",""
+ball,1,17.4,Zimbabwe,Sikandar Raza,BJ Bennett,BJ Dwarshuis,1,0,,,,,,"",""
+ball,1,17.5,Zimbabwe,BJ Bennett,Sikandar Raza,BJ Dwarshuis,2,0,,,,,,"",""
+ball,1,17.6,Zimbabwe,BJ Bennett,Sikandar Raza,BJ Dwarshuis,4,0,,,,,,"",""
+ball,1,18.1,Zimbabwe,Sikandar Raza,BJ Bennett,A Zampa,2,0,,,,,,"",""
+ball,1,18.2,Zimbabwe,Sikandar Raza,BJ Bennett,A Zampa,1,0,,,,,,"",""
+ball,1,18.3,Zimbabwe,BJ Bennett,Sikandar Raza,A Zampa,1,0,,,,,,"",""
+ball,1,18.4,Zimbabwe,Sikandar Raza,BJ Bennett,A Zampa,1,0,,,,,,"",""
+ball,1,18.5,Zimbabwe,BJ Bennett,Sikandar Raza,A Zampa,1,0,,,,,,"",""
+ball,1,18.6,Zimbabwe,Sikandar Raza,BJ Bennett,A Zampa,2,0,,,,,,"",""
+ball,1,19.1,Zimbabwe,BJ Bennett,Sikandar Raza,NT Ellis,0,0,,,,,,"",""
+ball,1,19.2,Zimbabwe,BJ Bennett,Sikandar Raza,NT Ellis,2,0,,,,,,"",""
+ball,1,19.3,Zimbabwe,BJ Bennett,Sikandar Raza,NT Ellis,0,0,,,,,,"",""
+ball,1,19.4,Zimbabwe,BJ Bennett,Sikandar Raza,NT Ellis,1,0,,,,,,"",""
+ball,1,19.5,Zimbabwe,Sikandar Raza,BJ Bennett,NT Ellis,2,0,,,,,,"",""
+ball,1,19.6,Zimbabwe,Sikandar Raza,BJ Bennett,NT Ellis,6,0,,,,,,"",""
+ball,2,0.1,Australia,JP Inglis,TM Head,Sikandar Raza,1,0,,,,,,"",""
+ball,2,0.2,Australia,TM Head,JP Inglis,Sikandar Raza,4,0,,,,,,"",""
+ball,2,0.3,Australia,TM Head,JP Inglis,Sikandar Raza,1,0,,,,,,"",""
+ball,2,0.4,Australia,JP Inglis,TM Head,Sikandar Raza,6,0,,,,,,"",""
+ball,2,0.5,Australia,JP Inglis,TM Head,Sikandar Raza,1,0,,,,,,"",""
+ball,2,0.6,Australia,TM Head,JP Inglis,Sikandar Raza,0,0,,,,,,"",""
+ball,2,1.1,Australia,JP Inglis,TM Head,B Muzarabani,0,0,,,,,,caught,JP Inglis
+ball,2,1.2,Australia,C Green,TM Head,B Muzarabani,0,1,,,,1,,"",""
+ball,2,1.3,Australia,TM Head,C Green,B Muzarabani,0,0,,,,,,"",""
+ball,2,1.4,Australia,TM Head,C Green,B Muzarabani,0,0,,,,,,"",""
+ball,2,1.5,Australia,TM Head,C Green,B Muzarabani,4,0,,,,,,"",""
+ball,2,1.6,Australia,TM Head,C Green,B Muzarabani,1,0,,,,,,"",""
+ball,2,2.1,Australia,TM Head,C Green,B Evans,0,0,,,,,,"",""
+ball,2,2.2,Australia,TM Head,C Green,B Evans,4,0,,,,,,"",""
+ball,2,2.3,Australia,TM Head,C Green,B Evans,0,0,,,,,,"",""
+ball,2,2.4,Australia,TM Head,C Green,B Evans,1,0,,,,,,"",""
+ball,2,2.5,Australia,C Green,TM Head,B Evans,0,0,,,,,,caught,C Green
+ball,2,2.6,Australia,TH David,TM Head,B Evans,0,0,,,,,,"",""
+ball,2,3.1,Australia,TM Head,TH David,B Muzarabani,1,0,,,,,,"",""
+ball,2,3.2,Australia,TH David,TM Head,B Muzarabani,0,0,,,,,,caught,TH David
+ball,2,3.3,Australia,GJ Maxwell,TM Head,B Muzarabani,0,1,,,,1,,"",""
+ball,2,3.4,Australia,TM Head,GJ Maxwell,B Muzarabani,0,0,,,,,,"",""
+ball,2,3.5,Australia,TM Head,GJ Maxwell,B Muzarabani,1,0,,,,,,"",""
+ball,2,3.6,Australia,GJ Maxwell,TM Head,B Muzarabani,1,0,,,,,,"",""
+ball,2,4.1,Australia,GJ Maxwell,TM Head,B Evans,0,0,,,,,,"",""
+ball,2,4.2,Australia,GJ Maxwell,TM Head,B Evans,1,0,,,,,,"",""
+ball,2,4.3,Australia,TM Head,GJ Maxwell,B Evans,0,0,,,,,,bowled,TM Head
+ball,2,4.4,Australia,MT Renshaw,GJ Maxwell,B Evans,2,0,,,,,,"",""
+ball,2,4.5,Australia,MT Renshaw,GJ Maxwell,B Evans,0,1,1,,,,,"",""
+ball,2,4.6,Australia,MT Renshaw,GJ Maxwell,B Evans,1,0,,,,,,"",""
+ball,2,4.7,Australia,GJ Maxwell,MT Renshaw,B Evans,1,0,,,,,,"",""
+ball,2,5.1,Australia,GJ Maxwell,MT Renshaw,B Muzarabani,0,0,,,,,,"",""
+ball,2,5.2,Australia,GJ Maxwell,MT Renshaw,B Muzarabani,2,0,,,,,,"",""
+ball,2,5.3,Australia,GJ Maxwell,MT Renshaw,B Muzarabani,1,0,,,,,,"",""
+ball,2,5.4,Australia,MT Renshaw,GJ Maxwell,B Muzarabani,0,0,,,,,,"",""
+ball,2,5.5,Australia,MT Renshaw,GJ Maxwell,B Muzarabani,0,0,,,,,,"",""
+ball,2,5.6,Australia,MT Renshaw,GJ Maxwell,B Muzarabani,1,0,,,,,,"",""
+ball,2,6.1,Australia,MT Renshaw,GJ Maxwell,Sikandar Raza,1,0,,,,,,"",""
+ball,2,6.2,Australia,GJ Maxwell,MT Renshaw,Sikandar Raza,1,0,,,,,,"",""
+ball,2,6.3,Australia,MT Renshaw,GJ Maxwell,Sikandar Raza,0,0,,,,,,"",""
+ball,2,6.4,Australia,MT Renshaw,GJ Maxwell,Sikandar Raza,1,0,,,,,,"",""
+ball,2,6.5,Australia,GJ Maxwell,MT Renshaw,Sikandar Raza,0,0,,,,,,"",""
+ball,2,6.6,Australia,GJ Maxwell,MT Renshaw,Sikandar Raza,1,0,,,,,,"",""
+ball,2,7.1,Australia,GJ Maxwell,MT Renshaw,D Myers,1,0,,,,,,"",""
+ball,2,7.2,Australia,MT Renshaw,GJ Maxwell,D Myers,4,0,,,,,,"",""
+ball,2,7.3,Australia,MT Renshaw,GJ Maxwell,D Myers,2,0,,,,,,"",""
+ball,2,7.4,Australia,MT Renshaw,GJ Maxwell,D Myers,0,1,1,,,,,"",""
+ball,2,7.5,Australia,MT Renshaw,GJ Maxwell,D Myers,1,0,,,,,,"",""
+ball,2,7.6,Australia,GJ Maxwell,MT Renshaw,D Myers,0,0,,,,,,"",""
+ball,2,7.7,Australia,GJ Maxwell,MT Renshaw,D Myers,0,0,,,,,,"",""
+ball,2,8.1,Australia,MT Renshaw,GJ Maxwell,AG Cremer,2,0,,,,,,"",""
+ball,2,8.2,Australia,MT Renshaw,GJ Maxwell,AG Cremer,1,0,,,,,,"",""
+ball,2,8.3,Australia,GJ Maxwell,MT Renshaw,AG Cremer,1,0,,,,,,"",""
+ball,2,8.4,Australia,MT Renshaw,GJ Maxwell,AG Cremer,2,0,,,,,,"",""
+ball,2,8.5,Australia,MT Renshaw,GJ Maxwell,AG Cremer,1,0,,,,,,"",""
+ball,2,8.6,Australia,GJ Maxwell,MT Renshaw,AG Cremer,4,0,,,,,,"",""
+ball,2,9.1,Australia,MT Renshaw,GJ Maxwell,WP Masakadza,0,0,,,,,,"",""
+ball,2,9.2,Australia,MT Renshaw,GJ Maxwell,WP Masakadza,1,0,,,,,,"",""
+ball,2,9.3,Australia,GJ Maxwell,MT Renshaw,WP Masakadza,1,0,,,,,,"",""
+ball,2,9.4,Australia,MT Renshaw,GJ Maxwell,WP Masakadza,1,0,,,,,,"",""
+ball,2,9.5,Australia,GJ Maxwell,MT Renshaw,WP Masakadza,2,0,,,,,,"",""
+ball,2,9.6,Australia,GJ Maxwell,MT Renshaw,WP Masakadza,0,0,,,,,,"",""
+ball,2,10.1,Australia,MT Renshaw,GJ Maxwell,AG Cremer,1,0,,,,,,"",""
+ball,2,10.2,Australia,GJ Maxwell,MT Renshaw,AG Cremer,0,0,,,,,,"",""
+ball,2,10.3,Australia,GJ Maxwell,MT Renshaw,AG Cremer,1,0,,,,,,"",""
+ball,2,10.4,Australia,MT Renshaw,GJ Maxwell,AG Cremer,1,0,,,,,,"",""
+ball,2,10.5,Australia,GJ Maxwell,MT Renshaw,AG Cremer,1,0,,,,,,"",""
+ball,2,10.6,Australia,MT Renshaw,GJ Maxwell,AG Cremer,1,0,,,,,,"",""
+ball,2,11.1,Australia,MT Renshaw,GJ Maxwell,WP Masakadza,1,0,,,,,,"",""
+ball,2,11.2,Australia,GJ Maxwell,MT Renshaw,WP Masakadza,1,0,,,,,,"",""
+ball,2,11.3,Australia,MT Renshaw,GJ Maxwell,WP Masakadza,1,0,,,,,,"",""
+ball,2,11.4,Australia,GJ Maxwell,MT Renshaw,WP Masakadza,0,0,,,,,,"",""
+ball,2,11.5,Australia,GJ Maxwell,MT Renshaw,WP Masakadza,6,0,,,,,,"",""
+ball,2,11.6,Australia,GJ Maxwell,MT Renshaw,WP Masakadza,2,0,,,,,,"",""
+ball,2,12.1,Australia,MT Renshaw,GJ Maxwell,AG Cremer,4,0,,,,,,"",""
+ball,2,12.2,Australia,MT Renshaw,GJ Maxwell,AG Cremer,1,0,,,,,,"",""
+ball,2,12.3,Australia,GJ Maxwell,MT Renshaw,AG Cremer,1,0,,,,,,"",""
+ball,2,12.4,Australia,MT Renshaw,GJ Maxwell,AG Cremer,2,0,,,,,,"",""
+ball,2,12.5,Australia,MT Renshaw,GJ Maxwell,AG Cremer,1,0,,,,,,"",""
+ball,2,12.6,Australia,GJ Maxwell,MT Renshaw,AG Cremer,1,0,,,,,,"",""
+ball,2,13.1,Australia,GJ Maxwell,MT Renshaw,WP Masakadza,0,0,,,,,,"",""
+ball,2,13.2,Australia,GJ Maxwell,MT Renshaw,WP Masakadza,1,0,,,,,,"",""
+ball,2,13.3,Australia,MT Renshaw,GJ Maxwell,WP Masakadza,6,0,,,,,,"",""
+ball,2,13.4,Australia,MT Renshaw,GJ Maxwell,WP Masakadza,4,0,,,,,,"",""
+ball,2,13.5,Australia,MT Renshaw,GJ Maxwell,WP Masakadza,1,0,,,,,,"",""
+ball,2,13.6,Australia,GJ Maxwell,MT Renshaw,WP Masakadza,0,0,,,,,,"",""
+ball,2,14.1,Australia,MT Renshaw,GJ Maxwell,RP Burl,1,0,,,,,,"",""
+ball,2,14.2,Australia,GJ Maxwell,MT Renshaw,RP Burl,0,0,,,,,,bowled,GJ Maxwell
+ball,2,14.3,Australia,MP Stoinis,MT Renshaw,RP Burl,4,0,,,,,,"",""
+ball,2,14.4,Australia,MP Stoinis,MT Renshaw,RP Burl,1,0,,,,,,"",""
+ball,2,14.5,Australia,MT Renshaw,MP Stoinis,RP Burl,2,0,,,,,,"",""
+ball,2,14.6,Australia,MT Renshaw,MP Stoinis,RP Burl,1,0,,,,,,"",""
+ball,2,15.1,Australia,MT Renshaw,MP Stoinis,WP Masakadza,1,0,,,,,,"",""
+ball,2,15.2,Australia,MP Stoinis,MT Renshaw,WP Masakadza,1,0,,,,,,"",""
+ball,2,15.3,Australia,MT Renshaw,MP Stoinis,WP Masakadza,1,0,,,,,,"",""
+ball,2,15.4,Australia,MP Stoinis,MT Renshaw,WP Masakadza,0,0,,,,,,caught,MP Stoinis
+ball,2,15.5,Australia,BJ Dwarshuis,MT Renshaw,WP Masakadza,1,0,,,,,,"",""
+ball,2,15.6,Australia,MT Renshaw,BJ Dwarshuis,WP Masakadza,4,0,,,,,,"",""
+ball,2,16.1,Australia,BJ Dwarshuis,MT Renshaw,AG Cremer,0,0,,,,,,"",""
+ball,2,16.2,Australia,BJ Dwarshuis,MT Renshaw,AG Cremer,1,0,,,,,,"",""
+ball,2,16.3,Australia,MT Renshaw,BJ Dwarshuis,AG Cremer,1,0,,,,,,"",""
+ball,2,16.4,Australia,BJ Dwarshuis,MT Renshaw,AG Cremer,2,0,,,,,,"",""
+ball,2,16.5,Australia,BJ Dwarshuis,MT Renshaw,AG Cremer,1,0,,,,,,"",""
+ball,2,16.6,Australia,MT Renshaw,BJ Dwarshuis,AG Cremer,2,0,,,,,,"",""
+ball,2,17.1,Australia,BJ Dwarshuis,MT Renshaw,B Evans,1,0,,,,,,"",""
+ball,2,17.2,Australia,MT Renshaw,BJ Dwarshuis,B Evans,0,0,,,,,,"",""
+ball,2,17.3,Australia,MT Renshaw,BJ Dwarshuis,B Evans,1,0,,,,,,"",""
+ball,2,17.4,Australia,BJ Dwarshuis,MT Renshaw,B Evans,0,0,,,,,,caught,BJ Dwarshuis
+ball,2,17.5,Australia,NT Ellis,MT Renshaw,B Evans,1,0,,,,,,"",""
+ball,2,17.6,Australia,MT Renshaw,NT Ellis,B Evans,4,0,,,,,,"",""
+ball,2,18.1,Australia,NT Ellis,MT Renshaw,B Muzarabani,1,0,,,,,,"",""
+ball,2,18.2,Australia,MT Renshaw,NT Ellis,B Muzarabani,0,0,,,,,,"",""
+ball,2,18.3,Australia,MT Renshaw,NT Ellis,B Muzarabani,2,0,,,,,,"",""
+ball,2,18.4,Australia,MT Renshaw,NT Ellis,B Muzarabani,0,0,,,,,,caught,MT Renshaw
+ball,2,18.5,Australia,A Zampa,NT Ellis,B Muzarabani,2,0,,,,,,"",""
+ball,2,18.6,Australia,A Zampa,NT Ellis,B Muzarabani,0,0,,,,,,bowled,A Zampa
+ball,2,19.1,Australia,NT Ellis,MP Kuhnemann,B Evans,4,0,,,,,,"",""
+ball,2,19.2,Australia,NT Ellis,MP Kuhnemann,B Evans,1,0,,,,,,"",""
+ball,2,19.3,Australia,MP Kuhnemann,NT Ellis,B Evans,0,0,,,,,,run out,MP Kuhnemann

@@ -1,0 +1,322 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Mexico
+info,team,Brazil
+info,gender,male
+info,season,2026
+info,date,2026/04/03
+info,event,Central American Cricket Championships
+info,match_number,4
+info,venue,"Reforma Athletic Club, Naucalpan"
+info,city,Naucalpan
+info,toss_winner,Brazil
+info,toss_decision,field
+info,player_of_match,SK Lahiri
+info,winner,Mexico
+info,winner_runs,16
+info,player,Mexico,Shantanu Kaveri
+info,player,Mexico,Ankush Singh
+info,player,Mexico,KB Patil
+info,player,Mexico,D Panda
+info,player,Mexico,Amir Butt
+info,player,Mexico,D Ebersohn
+info,player,Mexico,S Sharma
+info,player,Mexico,DV Devjani Mutreja
+info,player,Mexico,SK Lahiri
+info,player,Mexico,Pratik Singh Bais
+info,player,Mexico,Hassan Nasir
+info,player,Brazil,LF Muller
+info,player,Brazil,LH Rodrigues
+info,player,Brazil,MFI Assuncao
+info,player,Brazil,CC Machado
+info,player,Brazil,Yasar Haroon
+info,player,Brazil,W Maximo
+info,player,Brazil,LA Goncalves
+info,player,Brazil,LG Moras
+info,player,Brazil,G Oliveira
+info,player,Brazil,RV Nascimento
+info,player,Brazil,L Maximo
+info,registry,people,Amir Butt,5bdf2343
+info,registry,people,Ankush Singh,c2887e22
+info,registry,people,CC Machado,5992ef03
+info,registry,people,D Ebersohn,6ca4e7bf
+info,registry,people,D Panda,bad1af65
+info,registry,people,DV Devjani Mutreja,c872d657
+info,registry,people,G Oliveira,b4c52f5f
+info,registry,people,Hassan Nasir,d32f3102
+info,registry,people,KB Patil,0474fd64
+info,registry,people,L Maximo,58c0c30c
+info,registry,people,LA Goncalves,40ff8e58
+info,registry,people,LF Muller,f6411545
+info,registry,people,LG Moras,d5dea4e7
+info,registry,people,LH Rodrigues,57c95c3c
+info,registry,people,MFI Assuncao,d8e48e1b
+info,registry,people,Pratik Singh Bais,5b351aff
+info,registry,people,RV Nascimento,d9ba93c0
+info,registry,people,S Sharma,d6d2ac95
+info,registry,people,SK Lahiri,84df22bd
+info,registry,people,Shantanu Kaveri,091880f7
+info,registry,people,W Maximo,e41dee27
+info,registry,people,Yasar Haroon,5a8dc41e
+ball,1,0.1,Mexico,Shantanu Kaveri,Ankush Singh,RV Nascimento,4,0,,,,,,"",""
+ball,1,0.2,Mexico,Shantanu Kaveri,Ankush Singh,RV Nascimento,0,0,,,,,,"",""
+ball,1,0.3,Mexico,Shantanu Kaveri,Ankush Singh,RV Nascimento,1,0,,,,,,"",""
+ball,1,0.4,Mexico,Ankush Singh,Shantanu Kaveri,RV Nascimento,0,0,,,,,,"",""
+ball,1,0.5,Mexico,Ankush Singh,Shantanu Kaveri,RV Nascimento,1,0,,,,,,"",""
+ball,1,0.6,Mexico,Shantanu Kaveri,Ankush Singh,RV Nascimento,0,0,,,,,,"",""
+ball,1,1.1,Mexico,Ankush Singh,Shantanu Kaveri,LH Rodrigues,1,0,,,,,,"",""
+ball,1,1.2,Mexico,Shantanu Kaveri,Ankush Singh,LH Rodrigues,0,0,,,,,,"",""
+ball,1,1.3,Mexico,Shantanu Kaveri,Ankush Singh,LH Rodrigues,1,0,,,,,,"",""
+ball,1,1.4,Mexico,Ankush Singh,Shantanu Kaveri,LH Rodrigues,4,0,,,,,,"",""
+ball,1,1.5,Mexico,Ankush Singh,Shantanu Kaveri,LH Rodrigues,0,0,,,,,,"",""
+ball,1,1.6,Mexico,Ankush Singh,Shantanu Kaveri,LH Rodrigues,2,0,,,,,,"",""
+ball,1,2.1,Mexico,Shantanu Kaveri,Ankush Singh,RV Nascimento,0,0,,,,,,"",""
+ball,1,2.2,Mexico,Shantanu Kaveri,Ankush Singh,RV Nascimento,1,0,,,,,,"",""
+ball,1,2.3,Mexico,Ankush Singh,Shantanu Kaveri,RV Nascimento,0,0,,,,,,"",""
+ball,1,2.4,Mexico,Ankush Singh,Shantanu Kaveri,RV Nascimento,1,0,,,,,,"",""
+ball,1,2.5,Mexico,Shantanu Kaveri,Ankush Singh,RV Nascimento,1,0,,,,,,"",""
+ball,1,2.6,Mexico,Ankush Singh,Shantanu Kaveri,RV Nascimento,4,0,,,,,,"",""
+ball,1,3.1,Mexico,Shantanu Kaveri,Ankush Singh,LH Rodrigues,0,0,,,,,,"",""
+ball,1,3.2,Mexico,Shantanu Kaveri,Ankush Singh,LH Rodrigues,0,0,,,,,,"",""
+ball,1,3.3,Mexico,Shantanu Kaveri,Ankush Singh,LH Rodrigues,0,0,,,,,,"",""
+ball,1,3.4,Mexico,Shantanu Kaveri,Ankush Singh,LH Rodrigues,4,0,,,,,,"",""
+ball,1,3.5,Mexico,Shantanu Kaveri,Ankush Singh,LH Rodrigues,1,0,,,,,,"",""
+ball,1,3.6,Mexico,Ankush Singh,Shantanu Kaveri,LH Rodrigues,0,0,,,,,,"",""
+ball,1,4.1,Mexico,Shantanu Kaveri,Ankush Singh,LG Moras,0,1,1,,,,,"",""
+ball,1,4.2,Mexico,Shantanu Kaveri,Ankush Singh,LG Moras,0,0,,,,,,"",""
+ball,1,4.3,Mexico,Shantanu Kaveri,Ankush Singh,LG Moras,2,0,,,,,,"",""
+ball,1,4.4,Mexico,Shantanu Kaveri,Ankush Singh,LG Moras,1,0,,,,,,"",""
+ball,1,4.5,Mexico,Ankush Singh,Shantanu Kaveri,LG Moras,0,0,,,,,,"",""
+ball,1,4.6,Mexico,Ankush Singh,Shantanu Kaveri,LG Moras,6,0,,,,,,"",""
+ball,1,4.7,Mexico,Ankush Singh,Shantanu Kaveri,LG Moras,0,0,,,,,,"",""
+ball,1,5.1,Mexico,Shantanu Kaveri,Ankush Singh,LH Rodrigues,0,1,1,,,,,"",""
+ball,1,5.2,Mexico,Shantanu Kaveri,Ankush Singh,LH Rodrigues,1,0,,,,,,"",""
+ball,1,5.3,Mexico,Ankush Singh,Shantanu Kaveri,LH Rodrigues,1,0,,,,,,"",""
+ball,1,5.4,Mexico,Shantanu Kaveri,Ankush Singh,LH Rodrigues,2,0,,,,,,"",""
+ball,1,5.5,Mexico,Shantanu Kaveri,Ankush Singh,LH Rodrigues,1,0,,,,,,"",""
+ball,1,5.6,Mexico,Ankush Singh,Shantanu Kaveri,LH Rodrigues,0,1,1,,,,,"",""
+ball,1,5.7,Mexico,Ankush Singh,Shantanu Kaveri,LH Rodrigues,0,1,,,1,,,"",""
+ball,1,5.8,Mexico,Shantanu Kaveri,Ankush Singh,LH Rodrigues,2,0,,,,,,"",""
+ball,1,6.1,Mexico,Ankush Singh,Shantanu Kaveri,LG Moras,0,0,,,,,,"",""
+ball,1,6.2,Mexico,Ankush Singh,Shantanu Kaveri,LG Moras,0,1,1,,,,,"",""
+ball,1,6.3,Mexico,Ankush Singh,Shantanu Kaveri,LG Moras,0,1,1,,,,,"",""
+ball,1,6.4,Mexico,Ankush Singh,Shantanu Kaveri,LG Moras,0,1,,,,1,,"",""
+ball,1,6.5,Mexico,Shantanu Kaveri,Ankush Singh,LG Moras,0,2,2,,,,,"",""
+ball,1,6.6,Mexico,Ankush Singh,Shantanu Kaveri,LG Moras,0,0,,,,,,"",""
+ball,1,6.7,Mexico,Ankush Singh,Shantanu Kaveri,LG Moras,4,0,,,,,,"",""
+ball,1,6.8,Mexico,Ankush Singh,Shantanu Kaveri,LG Moras,6,0,,,,,,"",""
+ball,1,6.9,Mexico,Ankush Singh,Shantanu Kaveri,LG Moras,0,0,,,,,,"",""
+ball,1,7.1,Mexico,Shantanu Kaveri,Ankush Singh,Yasar Haroon,0,0,,,,,,"",""
+ball,1,7.2,Mexico,Shantanu Kaveri,Ankush Singh,Yasar Haroon,0,0,,,,,,"",""
+ball,1,7.3,Mexico,Shantanu Kaveri,Ankush Singh,Yasar Haroon,1,0,,,,,,"",""
+ball,1,7.4,Mexico,Ankush Singh,Shantanu Kaveri,Yasar Haroon,6,0,,,,,,"",""
+ball,1,7.5,Mexico,Ankush Singh,Shantanu Kaveri,Yasar Haroon,0,0,,,,,,"",""
+ball,1,7.6,Mexico,Ankush Singh,Shantanu Kaveri,Yasar Haroon,0,0,,,,,,"",""
+ball,1,8.1,Mexico,Shantanu Kaveri,Ankush Singh,LA Goncalves,1,0,,,,,,"",""
+ball,1,8.2,Mexico,Ankush Singh,Shantanu Kaveri,LA Goncalves,0,0,,,,,,"",""
+ball,1,8.3,Mexico,Ankush Singh,Shantanu Kaveri,LA Goncalves,0,0,,,,,,"",""
+ball,1,8.4,Mexico,Ankush Singh,Shantanu Kaveri,LA Goncalves,0,0,,,,,,bowled,Ankush Singh
+ball,1,8.5,Mexico,KB Patil,Shantanu Kaveri,LA Goncalves,0,0,,,,,,"",""
+ball,1,8.6,Mexico,KB Patil,Shantanu Kaveri,LA Goncalves,0,0,,,,,,"",""
+ball,1,9.1,Mexico,Shantanu Kaveri,KB Patil,Yasar Haroon,0,0,,,,,,stumped,Shantanu Kaveri
+ball,1,9.2,Mexico,D Panda,KB Patil,Yasar Haroon,1,0,,,,,,"",""
+ball,1,9.3,Mexico,KB Patil,D Panda,Yasar Haroon,0,0,,,,,,"",""
+ball,1,9.4,Mexico,KB Patil,D Panda,Yasar Haroon,0,0,,,,,,"",""
+ball,1,9.5,Mexico,KB Patil,D Panda,Yasar Haroon,0,0,,,,,,"",""
+ball,1,9.6,Mexico,KB Patil,D Panda,Yasar Haroon,4,0,,,,,,"",""
+ball,1,10.1,Mexico,D Panda,KB Patil,LA Goncalves,0,0,,,,,,"",""
+ball,1,10.2,Mexico,D Panda,KB Patil,LA Goncalves,1,0,,,,,,"",""
+ball,1,10.3,Mexico,KB Patil,D Panda,LA Goncalves,1,1,,1,,,,"",""
+ball,1,10.4,Mexico,D Panda,KB Patil,LA Goncalves,0,0,,,,,,"",""
+ball,1,10.5,Mexico,D Panda,KB Patil,LA Goncalves,0,0,,,,,,"",""
+ball,1,10.6,Mexico,D Panda,KB Patil,LA Goncalves,0,0,,,,,,"",""
+ball,1,10.7,Mexico,D Panda,KB Patil,LA Goncalves,0,1,1,,,,,"",""
+ball,1,10.8,Mexico,D Panda,KB Patil,LA Goncalves,0,0,,,,,,"",""
+ball,1,11.1,Mexico,KB Patil,D Panda,Yasar Haroon,4,0,,,,,,"",""
+ball,1,11.2,Mexico,KB Patil,D Panda,Yasar Haroon,0,0,,,,,,bowled,KB Patil
+ball,1,11.3,Mexico,Amir Butt,D Panda,Yasar Haroon,1,0,,,,,,"",""
+ball,1,11.4,Mexico,D Panda,Amir Butt,Yasar Haroon,1,0,,,,,,"",""
+ball,1,11.5,Mexico,Amir Butt,D Panda,Yasar Haroon,0,1,1,,,,,"",""
+ball,1,11.6,Mexico,Amir Butt,D Panda,Yasar Haroon,1,0,,,,,,"",""
+ball,1,11.7,Mexico,D Panda,Amir Butt,Yasar Haroon,6,0,,,,,,"",""
+ball,1,12.1,Mexico,Amir Butt,D Panda,LA Goncalves,6,0,,,,,,"",""
+ball,1,12.2,Mexico,Amir Butt,D Panda,LA Goncalves,4,0,,,,,,"",""
+ball,1,12.3,Mexico,Amir Butt,D Panda,LA Goncalves,4,0,,,,,,"",""
+ball,1,12.4,Mexico,Amir Butt,D Panda,LA Goncalves,0,0,,,,,,"",""
+ball,1,12.5,Mexico,Amir Butt,D Panda,LA Goncalves,0,0,,,,,,"",""
+ball,1,12.6,Mexico,Amir Butt,D Panda,LA Goncalves,2,0,,,,,,"",""
+ball,1,13.1,Mexico,D Panda,Amir Butt,LF Muller,0,1,1,,,,,"",""
+ball,1,13.2,Mexico,D Panda,Amir Butt,LF Muller,0,0,,,,,,"",""
+ball,1,13.3,Mexico,D Panda,Amir Butt,LF Muller,0,0,,,,,,"",""
+ball,1,13.4,Mexico,D Panda,Amir Butt,LF Muller,0,0,,,,,,"",""
+ball,1,13.5,Mexico,D Panda,Amir Butt,LF Muller,2,0,,,,,,"",""
+ball,1,13.6,Mexico,D Panda,Amir Butt,LF Muller,1,0,,,,,,"",""
+ball,1,13.7,Mexico,Amir Butt,D Panda,LF Muller,6,0,,,,,,"",""
+ball,1,14.1,Mexico,D Panda,Amir Butt,G Oliveira,0,0,,,,,,"",""
+ball,1,14.2,Mexico,D Panda,Amir Butt,G Oliveira,0,0,,,,,,"",""
+ball,1,14.3,Mexico,D Panda,Amir Butt,G Oliveira,0,1,,,,1,,"",""
+ball,1,14.4,Mexico,Amir Butt,D Panda,G Oliveira,1,0,,,,,,"",""
+ball,1,14.5,Mexico,D Panda,Amir Butt,G Oliveira,1,0,,,,,,"",""
+ball,1,14.6,Mexico,Amir Butt,D Panda,G Oliveira,1,0,,,,,,"",""
+ball,1,15.1,Mexico,Amir Butt,D Panda,LF Muller,1,0,,,,,,"",""
+ball,1,15.2,Mexico,D Panda,Amir Butt,LF Muller,0,0,,,,,,caught,D Panda
+ball,1,15.3,Mexico,D Ebersohn,Amir Butt,LF Muller,1,0,,,,,,"",""
+ball,1,15.4,Mexico,Amir Butt,D Ebersohn,LF Muller,0,0,,,,,,bowled,Amir Butt
+ball,1,15.5,Mexico,S Sharma,D Ebersohn,LF Muller,0,0,,,,,,"",""
+ball,1,15.6,Mexico,S Sharma,D Ebersohn,LF Muller,0,5,5,,,,,"",""
+ball,1,15.7,Mexico,S Sharma,D Ebersohn,LF Muller,0,1,,,1,,,"",""
+ball,1,16.1,Mexico,S Sharma,D Ebersohn,G Oliveira,0,0,,,,,,"",""
+ball,1,16.2,Mexico,S Sharma,D Ebersohn,G Oliveira,0,0,,,,,,"",""
+ball,1,16.3,Mexico,S Sharma,D Ebersohn,G Oliveira,1,0,,,,,,run out,D Ebersohn
+ball,1,16.4,Mexico,S Sharma,DV Devjani Mutreja,G Oliveira,0,0,,,,,,"",""
+ball,1,16.5,Mexico,S Sharma,DV Devjani Mutreja,G Oliveira,1,0,,,,,,"",""
+ball,1,16.6,Mexico,DV Devjani Mutreja,S Sharma,G Oliveira,1,0,,,,,,"",""
+ball,1,17.1,Mexico,DV Devjani Mutreja,S Sharma,LG Moras,1,0,,,,,,"",""
+ball,1,17.2,Mexico,S Sharma,DV Devjani Mutreja,LG Moras,6,0,,,,,,"",""
+ball,1,17.3,Mexico,S Sharma,DV Devjani Mutreja,LG Moras,6,0,,,,,,"",""
+ball,1,17.4,Mexico,S Sharma,DV Devjani Mutreja,LG Moras,0,0,,,,,,"",""
+ball,1,17.5,Mexico,S Sharma,DV Devjani Mutreja,LG Moras,0,1,1,,,,,"",""
+ball,1,17.6,Mexico,S Sharma,DV Devjani Mutreja,LG Moras,0,0,,,,,,"",""
+ball,1,17.7,Mexico,S Sharma,DV Devjani Mutreja,LG Moras,0,0,,,,,,"",""
+ball,1,18.1,Mexico,DV Devjani Mutreja,S Sharma,RV Nascimento,1,0,,,,,,"",""
+ball,1,18.2,Mexico,S Sharma,DV Devjani Mutreja,RV Nascimento,6,0,,,,,,"",""
+ball,1,18.3,Mexico,S Sharma,DV Devjani Mutreja,RV Nascimento,0,0,,,,,,"",""
+ball,1,18.4,Mexico,S Sharma,DV Devjani Mutreja,RV Nascimento,1,0,,,,,,"",""
+ball,1,18.5,Mexico,DV Devjani Mutreja,S Sharma,RV Nascimento,0,0,,,,,,"",""
+ball,1,18.6,Mexico,DV Devjani Mutreja,S Sharma,RV Nascimento,1,0,,,,,,run out,DV Devjani Mutreja
+ball,1,19.1,Mexico,S Sharma,SK Lahiri,LH Rodrigues,0,0,,,,,,bowled,S Sharma
+ball,1,19.2,Mexico,Pratik Singh Bais,SK Lahiri,LH Rodrigues,0,0,,,,,,caught,Pratik Singh Bais
+ball,1,19.3,Mexico,Hassan Nasir,SK Lahiri,LH Rodrigues,1,0,,,,,,"",""
+ball,1,19.4,Mexico,SK Lahiri,Hassan Nasir,LH Rodrigues,1,0,,,,,,"",""
+ball,1,19.5,Mexico,Hassan Nasir,SK Lahiri,LH Rodrigues,0,0,,,,,,"",""
+ball,1,19.6,Mexico,Hassan Nasir,SK Lahiri,LH Rodrigues,2,0,,,,,,"",""
+ball,2,0.1,Brazil,LF Muller,LH Rodrigues,Pratik Singh Bais,1,0,,,,,,"",""
+ball,2,0.2,Brazil,LH Rodrigues,LF Muller,Pratik Singh Bais,0,0,,,,,,"",""
+ball,2,0.3,Brazil,LH Rodrigues,LF Muller,Pratik Singh Bais,4,0,,,,,,"",""
+ball,2,0.4,Brazil,LH Rodrigues,LF Muller,Pratik Singh Bais,1,0,,,,,,"",""
+ball,2,0.5,Brazil,LF Muller,LH Rodrigues,Pratik Singh Bais,0,0,,,,,,"",""
+ball,2,0.6,Brazil,LF Muller,LH Rodrigues,Pratik Singh Bais,0,0,,,,,,"",""
+ball,2,1.1,Brazil,LH Rodrigues,LF Muller,Hassan Nasir,1,0,,,,,,"",""
+ball,2,1.2,Brazil,LF Muller,LH Rodrigues,Hassan Nasir,1,0,,,,,,"",""
+ball,2,1.3,Brazil,LH Rodrigues,LF Muller,Hassan Nasir,1,0,,,,,,"",""
+ball,2,1.4,Brazil,LF Muller,LH Rodrigues,Hassan Nasir,1,0,,,,,,"",""
+ball,2,1.5,Brazil,LH Rodrigues,LF Muller,Hassan Nasir,1,0,,,,,,"",""
+ball,2,1.6,Brazil,LF Muller,LH Rodrigues,Hassan Nasir,2,0,,,,,,"",""
+ball,2,2.1,Brazil,LH Rodrigues,LF Muller,Pratik Singh Bais,2,0,,,,,,"",""
+ball,2,2.2,Brazil,LH Rodrigues,LF Muller,Pratik Singh Bais,2,0,,,,,,"",""
+ball,2,2.3,Brazil,LH Rodrigues,LF Muller,Pratik Singh Bais,0,0,,,,,,"",""
+ball,2,2.4,Brazil,LH Rodrigues,LF Muller,Pratik Singh Bais,0,0,,,,,,"",""
+ball,2,2.5,Brazil,LH Rodrigues,LF Muller,Pratik Singh Bais,0,0,,,,,,"",""
+ball,2,2.6,Brazil,LH Rodrigues,LF Muller,Pratik Singh Bais,1,0,,,,,,"",""
+ball,2,3.1,Brazil,LH Rodrigues,LF Muller,Hassan Nasir,1,0,,,,,,"",""
+ball,2,3.2,Brazil,LF Muller,LH Rodrigues,Hassan Nasir,0,0,,,,,,"",""
+ball,2,3.3,Brazil,LF Muller,LH Rodrigues,Hassan Nasir,0,0,,,,,,"",""
+ball,2,3.4,Brazil,LF Muller,LH Rodrigues,Hassan Nasir,1,0,,,,,,"",""
+ball,2,3.5,Brazil,LH Rodrigues,LF Muller,Hassan Nasir,0,4,,,4,,,"",""
+ball,2,3.6,Brazil,LH Rodrigues,LF Muller,Hassan Nasir,0,0,,,,,,"",""
+ball,2,4.1,Brazil,LF Muller,LH Rodrigues,Pratik Singh Bais,4,0,,,,,,"",""
+ball,2,4.2,Brazil,LF Muller,LH Rodrigues,Pratik Singh Bais,0,0,,,,,,"",""
+ball,2,4.3,Brazil,LF Muller,LH Rodrigues,Pratik Singh Bais,1,0,,,,,,"",""
+ball,2,4.4,Brazil,LH Rodrigues,LF Muller,Pratik Singh Bais,0,1,,,,1,,"",""
+ball,2,4.5,Brazil,LF Muller,LH Rodrigues,Pratik Singh Bais,6,0,,,,,,"",""
+ball,2,4.6,Brazil,LF Muller,LH Rodrigues,Pratik Singh Bais,0,0,,,,,,"",""
+ball,2,5.1,Brazil,LH Rodrigues,LF Muller,S Sharma,2,0,,,,,,"",""
+ball,2,5.2,Brazil,LH Rodrigues,LF Muller,S Sharma,0,0,,,,,,"",""
+ball,2,5.3,Brazil,LH Rodrigues,LF Muller,S Sharma,0,0,,,,,,"",""
+ball,2,5.4,Brazil,LH Rodrigues,LF Muller,S Sharma,4,0,,,,,,"",""
+ball,2,5.5,Brazil,LH Rodrigues,LF Muller,S Sharma,0,0,,,,,,"",""
+ball,2,5.6,Brazil,LH Rodrigues,LF Muller,S Sharma,0,0,,,,,,"",""
+ball,2,6.1,Brazil,LF Muller,LH Rodrigues,SK Lahiri,4,0,,,,,,"",""
+ball,2,6.2,Brazil,LF Muller,LH Rodrigues,SK Lahiri,0,0,,,,,,caught and bowled,LF Muller
+ball,2,6.3,Brazil,MFI Assuncao,LH Rodrigues,SK Lahiri,1,0,,,,,,"",""
+ball,2,6.4,Brazil,LH Rodrigues,MFI Assuncao,SK Lahiri,1,0,,,,,,"",""
+ball,2,6.5,Brazil,MFI Assuncao,LH Rodrigues,SK Lahiri,1,0,,,,,,"",""
+ball,2,6.6,Brazil,LH Rodrigues,MFI Assuncao,SK Lahiri,6,0,,,,,,"",""
+ball,2,7.1,Brazil,MFI Assuncao,LH Rodrigues,S Sharma,0,0,,,,,,"",""
+ball,2,7.2,Brazil,MFI Assuncao,LH Rodrigues,S Sharma,2,0,,,,,,"",""
+ball,2,7.3,Brazil,MFI Assuncao,LH Rodrigues,S Sharma,0,1,1,,,,,"",""
+ball,2,7.4,Brazil,MFI Assuncao,LH Rodrigues,S Sharma,0,0,,,,,,"",""
+ball,2,7.5,Brazil,MFI Assuncao,LH Rodrigues,S Sharma,3,0,,,,,,"",""
+ball,2,7.6,Brazil,LH Rodrigues,MFI Assuncao,S Sharma,0,0,,,,,,"",""
+ball,2,7.7,Brazil,LH Rodrigues,MFI Assuncao,S Sharma,0,0,,,,,,caught,LH Rodrigues
+ball,2,8.1,Brazil,MFI Assuncao,CC Machado,SK Lahiri,0,0,,,,,,"",""
+ball,2,8.2,Brazil,MFI Assuncao,CC Machado,SK Lahiri,2,0,,,,,,"",""
+ball,2,8.3,Brazil,MFI Assuncao,CC Machado,SK Lahiri,4,0,,,,,,"",""
+ball,2,8.4,Brazil,MFI Assuncao,CC Machado,SK Lahiri,0,0,,,,,,"",""
+ball,2,8.5,Brazil,MFI Assuncao,CC Machado,SK Lahiri,0,0,,,,,,"",""
+ball,2,8.6,Brazil,MFI Assuncao,CC Machado,SK Lahiri,0,0,,,,,,caught,MFI Assuncao
+ball,2,9.1,Brazil,CC Machado,Yasar Haroon,S Sharma,1,0,,,,,,"",""
+ball,2,9.2,Brazil,Yasar Haroon,CC Machado,S Sharma,0,0,,,,,,"",""
+ball,2,9.3,Brazil,Yasar Haroon,CC Machado,S Sharma,0,0,,,,,,"",""
+ball,2,9.4,Brazil,Yasar Haroon,CC Machado,S Sharma,1,0,,,,,,"",""
+ball,2,9.5,Brazil,CC Machado,Yasar Haroon,S Sharma,0,0,,,,,,"",""
+ball,2,9.6,Brazil,CC Machado,Yasar Haroon,S Sharma,2,0,,,,,,"",""
+ball,2,10.1,Brazil,Yasar Haroon,CC Machado,SK Lahiri,0,0,,,,,,bowled,Yasar Haroon
+ball,2,10.2,Brazil,W Maximo,CC Machado,SK Lahiri,0,0,,,,,,"",""
+ball,2,10.3,Brazil,W Maximo,CC Machado,SK Lahiri,2,0,,,,,,"",""
+ball,2,10.4,Brazil,W Maximo,CC Machado,SK Lahiri,1,0,,,,,,"",""
+ball,2,10.5,Brazil,CC Machado,W Maximo,SK Lahiri,0,1,1,,,,,"",""
+ball,2,10.6,Brazil,CC Machado,W Maximo,SK Lahiri,1,0,,,,,,"",""
+ball,2,10.7,Brazil,W Maximo,CC Machado,SK Lahiri,0,0,,,,,,"",""
+ball,2,11.1,Brazil,CC Machado,W Maximo,S Sharma,2,0,,,,,,"",""
+ball,2,11.2,Brazil,CC Machado,W Maximo,S Sharma,2,0,,,,,,"",""
+ball,2,11.3,Brazil,CC Machado,W Maximo,S Sharma,0,0,,,,,,"",""
+ball,2,11.4,Brazil,CC Machado,W Maximo,S Sharma,0,1,1,,,,,"",""
+ball,2,11.5,Brazil,CC Machado,W Maximo,S Sharma,1,0,,,,,,"",""
+ball,2,11.6,Brazil,W Maximo,CC Machado,S Sharma,0,0,,,,,,"",""
+ball,2,11.7,Brazil,W Maximo,CC Machado,S Sharma,0,0,,,,,,"",""
+ball,2,12.1,Brazil,CC Machado,W Maximo,DV Devjani Mutreja,1,0,,,,,,"",""
+ball,2,12.2,Brazil,W Maximo,CC Machado,DV Devjani Mutreja,0,0,,,,,,"",""
+ball,2,12.3,Brazil,W Maximo,CC Machado,DV Devjani Mutreja,2,0,,,,,,"",""
+ball,2,12.4,Brazil,W Maximo,CC Machado,DV Devjani Mutreja,1,0,,,,,,"",""
+ball,2,12.5,Brazil,CC Machado,W Maximo,DV Devjani Mutreja,0,0,,,,,,"",""
+ball,2,12.6,Brazil,CC Machado,W Maximo,DV Devjani Mutreja,4,0,,,,,,"",""
+ball,2,13.1,Brazil,W Maximo,CC Machado,Ankush Singh,3,0,,,,,,"",""
+ball,2,13.2,Brazil,CC Machado,W Maximo,Ankush Singh,0,0,,,,,,"",""
+ball,2,13.3,Brazil,CC Machado,W Maximo,Ankush Singh,0,0,,,,,,bowled,CC Machado
+ball,2,13.4,Brazil,LA Goncalves,W Maximo,Ankush Singh,0,0,,,,,,"",""
+ball,2,13.5,Brazil,LA Goncalves,W Maximo,Ankush Singh,0,1,1,,,,,"",""
+ball,2,13.6,Brazil,LA Goncalves,W Maximo,Ankush Singh,0,0,,,,,,"",""
+ball,2,13.7,Brazil,LA Goncalves,W Maximo,Ankush Singh,1,0,,,,,,"",""
+ball,2,14.1,Brazil,LA Goncalves,W Maximo,DV Devjani Mutreja,0,1,1,,,,,"",""
+ball,2,14.2,Brazil,LA Goncalves,W Maximo,DV Devjani Mutreja,0,1,1,,,,,"",""
+ball,2,14.3,Brazil,LA Goncalves,W Maximo,DV Devjani Mutreja,2,0,,,,,,"",""
+ball,2,14.4,Brazil,LA Goncalves,W Maximo,DV Devjani Mutreja,2,0,,,,,,"",""
+ball,2,14.5,Brazil,LA Goncalves,W Maximo,DV Devjani Mutreja,0,0,,,,,,"",""
+ball,2,14.6,Brazil,LA Goncalves,W Maximo,DV Devjani Mutreja,0,0,,,,,,"",""
+ball,2,14.7,Brazil,LA Goncalves,W Maximo,DV Devjani Mutreja,0,0,,,,,,"",""
+ball,2,14.8,Brazil,LA Goncalves,W Maximo,DV Devjani Mutreja,4,0,,,,,,"",""
+ball,2,15.1,Brazil,W Maximo,LA Goncalves,Ankush Singh,0,0,,,,,,"",""
+ball,2,15.2,Brazil,W Maximo,LA Goncalves,Ankush Singh,0,0,,,,,,"",""
+ball,2,15.3,Brazil,W Maximo,LA Goncalves,Ankush Singh,0,1,,1,,,,"",""
+ball,2,15.4,Brazil,W Maximo,LA Goncalves,Ankush Singh,0,0,,,,,,"",""
+ball,2,15.5,Brazil,W Maximo,LA Goncalves,Ankush Singh,0,1,1,,,,,"",""
+ball,2,15.6,Brazil,W Maximo,LA Goncalves,Ankush Singh,2,0,,,,,,"",""
+ball,2,15.7,Brazil,W Maximo,LA Goncalves,Ankush Singh,1,0,,,,,,"",""
+ball,2,15.8,Brazil,LA Goncalves,W Maximo,Ankush Singh,1,0,,,,,,"",""
+ball,2,16.1,Brazil,LA Goncalves,W Maximo,Hassan Nasir,1,0,,,,,,run out,LA Goncalves
+ball,2,16.2,Brazil,LG Moras,W Maximo,Hassan Nasir,1,0,,,,,,"",""
+ball,2,16.3,Brazil,W Maximo,LG Moras,Hassan Nasir,4,0,,,,,,"",""
+ball,2,16.4,Brazil,W Maximo,LG Moras,Hassan Nasir,1,0,,,,,,"",""
+ball,2,16.5,Brazil,LG Moras,W Maximo,Hassan Nasir,0,0,,,,,,"",""
+ball,2,16.6,Brazil,LG Moras,W Maximo,Hassan Nasir,0,1,1,,,,,"",""
+ball,2,16.7,Brazil,LG Moras,W Maximo,Hassan Nasir,0,0,,,,,,"",""
+ball,2,17.1,Brazil,W Maximo,LG Moras,Amir Butt,0,0,,,,,,bowled,W Maximo
+ball,2,17.2,Brazil,G Oliveira,LG Moras,Amir Butt,1,0,,,,,,"",""
+ball,2,17.3,Brazil,LG Moras,G Oliveira,Amir Butt,0,1,1,,,,,"",""
+ball,2,17.4,Brazil,LG Moras,G Oliveira,Amir Butt,2,0,,,,,,"",""
+ball,2,17.5,Brazil,LG Moras,G Oliveira,Amir Butt,0,0,,,,,,"",""
+ball,2,17.6,Brazil,LG Moras,G Oliveira,Amir Butt,0,0,,,,,,"",""
+ball,2,17.7,Brazil,LG Moras,G Oliveira,Amir Butt,1,0,,,,,,"",""
+ball,2,18.1,Brazil,LG Moras,G Oliveira,Hassan Nasir,0,0,,,,,,"",""
+ball,2,18.2,Brazil,LG Moras,G Oliveira,Hassan Nasir,0,0,,,,,,"",""
+ball,2,18.3,Brazil,LG Moras,G Oliveira,Hassan Nasir,1,0,,,,,,"",""
+ball,2,18.4,Brazil,G Oliveira,LG Moras,Hassan Nasir,4,0,,,,,,"",""
+ball,2,18.5,Brazil,G Oliveira,LG Moras,Hassan Nasir,6,0,,,,,,"",""
+ball,2,18.6,Brazil,G Oliveira,LG Moras,Hassan Nasir,0,0,,,,,,"",""
+ball,2,19.1,Brazil,LG Moras,G Oliveira,Amir Butt,4,0,,,,,,"",""
+ball,2,19.2,Brazil,LG Moras,G Oliveira,Amir Butt,0,0,,,,,,"",""
+ball,2,19.3,Brazil,LG Moras,G Oliveira,Amir Butt,4,0,,,,,,"",""
+ball,2,19.4,Brazil,LG Moras,G Oliveira,Amir Butt,0,0,,,,,,run out,LG Moras
+ball,2,19.5,Brazil,RV Nascimento,G Oliveira,Amir Butt,1,0,,,,,,"",""
+ball,2,19.6,Brazil,G Oliveira,RV Nascimento,Amir Butt,0,0,,,,,,"",""

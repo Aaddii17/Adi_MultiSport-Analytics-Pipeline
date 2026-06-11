@@ -1,0 +1,310 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Perth Scorchers
+info,team,Hobart Hurricanes
+info,gender,male
+info,season,2021/22
+info,date,2021/12/14
+info,event,Big Bash League
+info,match_number,12
+info,venue,"Bellerive Oval, Hobart"
+info,city,Hobart
+info,toss_winner,Perth Scorchers
+info,toss_decision,bat
+info,player_of_match,MR Marsh
+info,umpire,DM Koch
+info,umpire,GA Abood
+info,reserve_umpire,M Qureshi
+info,tv_umpire,DR Close
+info,match_referee,David Johnston
+info,winner,Perth Scorchers
+info,winner_runs,53
+info,player,Perth Scorchers,KR Patterson
+info,player,Perth Scorchers,C Munro
+info,player,Perth Scorchers,MR Marsh
+info,player,Perth Scorchers,JP Inglis
+info,player,Perth Scorchers,AJ Turner
+info,player,Perth Scorchers,LJ Evans
+info,player,Perth Scorchers,AC Agar
+info,player,Perth Scorchers,AJ Tye
+info,player,Perth Scorchers,JP Behrendorff
+info,player,Perth Scorchers,P Hatzoglou
+info,player,Perth Scorchers,TS Mills
+info,player,Hobart Hurricanes,MS Wade
+info,player,Hobart Hurricanes,DJM Short
+info,player,Hobart Hurricanes,CP Jewell
+info,player,Hobart Hurricanes,BR McDermott
+info,player,Hobart Hurricanes,HC Brook
+info,player,Hobart Hurricanes,PSP Handscomb
+info,player,Hobart Hurricanes,TH David
+info,player,Hobart Hurricanes,NT Ellis
+info,player,Hobart Hurricanes,SM Boland
+info,player,Hobart Hurricanes,S Lamichhane
+info,player,Hobart Hurricanes,JS Paris
+info,registry,people,AC Agar,a2421394
+info,registry,people,AJ Turner,ff1e12a0
+info,registry,people,AJ Tye,7c7d63a2
+info,registry,people,BR McDermott,c41043e6
+info,registry,people,C Munro,af2c687b
+info,registry,people,CP Jewell,806c4e58
+info,registry,people,DJM Short,1a156c88
+info,registry,people,DM Koch,6d10c034
+info,registry,people,DR Close,4cae2b0c
+info,registry,people,David Johnston,92cef862
+info,registry,people,GA Abood,a4af5528
+info,registry,people,HC Brook,4ae1755b
+info,registry,people,JP Behrendorff,4933f499
+info,registry,people,JP Inglis,989889ff
+info,registry,people,JS Paris,7c8f533d
+info,registry,people,KR Patterson,e3bf8356
+info,registry,people,LJ Evans,1c513d54
+info,registry,people,M Qureshi,cf34fbef
+info,registry,people,MR Marsh,3d8feaf8
+info,registry,people,MS Wade,afa7e784
+info,registry,people,NT Ellis,9eb1455b
+info,registry,people,P Hatzoglou,6f95e5fa
+info,registry,people,PSP Handscomb,ada15e88
+info,registry,people,S Lamichhane,b410bd3d
+info,registry,people,SM Boland,d167edd3
+info,registry,people,TH David,f1f99156
+info,registry,people,TS Mills,245c97cb
+ball,1,0.1,Perth Scorchers,KR Patterson,C Munro,JS Paris,2,0,,,,,,"",""
+ball,1,0.2,Perth Scorchers,KR Patterson,C Munro,JS Paris,1,0,,,,,,"",""
+ball,1,0.3,Perth Scorchers,C Munro,KR Patterson,JS Paris,0,0,,,,,,"",""
+ball,1,0.4,Perth Scorchers,C Munro,KR Patterson,JS Paris,0,0,,,,,,caught,C Munro
+ball,1,0.5,Perth Scorchers,KR Patterson,MR Marsh,JS Paris,0,0,,,,,,"",""
+ball,1,0.6,Perth Scorchers,KR Patterson,MR Marsh,JS Paris,0,0,,,,,,"",""
+ball,1,1.1,Perth Scorchers,MR Marsh,KR Patterson,SM Boland,4,0,,,,,,"",""
+ball,1,1.2,Perth Scorchers,MR Marsh,KR Patterson,SM Boland,6,0,,,,,,"",""
+ball,1,1.3,Perth Scorchers,MR Marsh,KR Patterson,SM Boland,1,0,,,,,,"",""
+ball,1,1.4,Perth Scorchers,KR Patterson,MR Marsh,SM Boland,0,0,,,,,,"",""
+ball,1,1.5,Perth Scorchers,KR Patterson,MR Marsh,SM Boland,1,0,,,,,,"",""
+ball,1,1.6,Perth Scorchers,MR Marsh,KR Patterson,SM Boland,1,0,,,,,,"",""
+ball,1,2.1,Perth Scorchers,MR Marsh,KR Patterson,JS Paris,0,0,,,,,,"",""
+ball,1,2.2,Perth Scorchers,MR Marsh,KR Patterson,JS Paris,1,0,,,,,,"",""
+ball,1,2.3,Perth Scorchers,KR Patterson,MR Marsh,JS Paris,4,0,,,,,,"",""
+ball,1,2.4,Perth Scorchers,KR Patterson,MR Marsh,JS Paris,0,1,1,,,,,"",""
+ball,1,2.5,Perth Scorchers,KR Patterson,MR Marsh,JS Paris,4,0,,,,,,"",""
+ball,1,2.6,Perth Scorchers,KR Patterson,MR Marsh,TH David,1,0,,,,,,"",""
+ball,1,2.7,Perth Scorchers,MR Marsh,KR Patterson,TH David,1,0,,,,,,"",""
+ball,1,3.1,Perth Scorchers,MR Marsh,KR Patterson,NT Ellis,4,0,,,,,,"",""
+ball,1,3.2,Perth Scorchers,MR Marsh,KR Patterson,NT Ellis,0,0,,,,,,"",""
+ball,1,3.3,Perth Scorchers,MR Marsh,KR Patterson,NT Ellis,1,0,,,,,,"",""
+ball,1,3.4,Perth Scorchers,KR Patterson,MR Marsh,NT Ellis,0,0,,,,,,caught,KR Patterson
+ball,1,3.5,Perth Scorchers,MR Marsh,JP Inglis,NT Ellis,0,0,,,,,,"",""
+ball,1,3.6,Perth Scorchers,MR Marsh,JP Inglis,NT Ellis,1,0,,,,,,"",""
+ball,1,4.1,Perth Scorchers,MR Marsh,JP Inglis,DJM Short,2,0,,,,,,"",""
+ball,1,4.2,Perth Scorchers,MR Marsh,JP Inglis,DJM Short,1,0,,,,,,"",""
+ball,1,4.3,Perth Scorchers,JP Inglis,MR Marsh,DJM Short,1,0,,,,,,"",""
+ball,1,4.4,Perth Scorchers,MR Marsh,JP Inglis,DJM Short,0,0,,,,,,"",""
+ball,1,4.5,Perth Scorchers,MR Marsh,JP Inglis,DJM Short,1,0,,,,,,"",""
+ball,1,4.6,Perth Scorchers,JP Inglis,MR Marsh,DJM Short,1,0,,,,,,"",""
+ball,1,5.1,Perth Scorchers,JP Inglis,MR Marsh,S Lamichhane,0,0,,,,,,caught,JP Inglis
+ball,1,5.2,Perth Scorchers,AJ Turner,MR Marsh,S Lamichhane,1,0,,,,,,"",""
+ball,1,5.3,Perth Scorchers,MR Marsh,AJ Turner,S Lamichhane,1,0,,,,,,"",""
+ball,1,5.4,Perth Scorchers,AJ Turner,MR Marsh,S Lamichhane,1,0,,,,,,"",""
+ball,1,5.5,Perth Scorchers,MR Marsh,AJ Turner,S Lamichhane,1,0,,,,,,"",""
+ball,1,5.6,Perth Scorchers,AJ Turner,MR Marsh,S Lamichhane,1,0,,,,,,"",""
+ball,1,6.1,Perth Scorchers,AJ Turner,MR Marsh,TH David,1,0,,,,,,"",""
+ball,1,6.2,Perth Scorchers,MR Marsh,AJ Turner,TH David,1,0,,,,,,"",""
+ball,1,6.3,Perth Scorchers,AJ Turner,MR Marsh,TH David,1,0,,,,,,"",""
+ball,1,6.4,Perth Scorchers,MR Marsh,AJ Turner,TH David,1,0,,,,,,"",""
+ball,1,6.5,Perth Scorchers,AJ Turner,MR Marsh,TH David,2,0,,,,,,"",""
+ball,1,6.6,Perth Scorchers,AJ Turner,MR Marsh,TH David,1,0,,,,,,"",""
+ball,1,7.1,Perth Scorchers,AJ Turner,MR Marsh,S Lamichhane,1,0,,,,,,"",""
+ball,1,7.2,Perth Scorchers,MR Marsh,AJ Turner,S Lamichhane,1,0,,,,,,"",""
+ball,1,7.3,Perth Scorchers,AJ Turner,MR Marsh,S Lamichhane,0,0,,,,,,"",""
+ball,1,7.4,Perth Scorchers,AJ Turner,MR Marsh,S Lamichhane,1,0,,,,,,"",""
+ball,1,7.5,Perth Scorchers,MR Marsh,AJ Turner,S Lamichhane,1,0,,,,,,"",""
+ball,1,7.6,Perth Scorchers,AJ Turner,MR Marsh,S Lamichhane,6,0,,,,,,"",""
+ball,1,8.1,Perth Scorchers,MR Marsh,AJ Turner,DJM Short,0,0,,,,,,"",""
+ball,1,8.2,Perth Scorchers,MR Marsh,AJ Turner,DJM Short,2,0,,,,,,"",""
+ball,1,8.3,Perth Scorchers,MR Marsh,AJ Turner,DJM Short,1,0,,,,,,"",""
+ball,1,8.4,Perth Scorchers,AJ Turner,MR Marsh,DJM Short,1,0,,,,,,"",""
+ball,1,8.5,Perth Scorchers,MR Marsh,AJ Turner,DJM Short,1,0,,,,,,"",""
+ball,1,8.6,Perth Scorchers,AJ Turner,MR Marsh,DJM Short,0,0,,,,,,"",""
+ball,1,9.1,Perth Scorchers,MR Marsh,AJ Turner,SM Boland,2,0,,,,,,"",""
+ball,1,9.2,Perth Scorchers,MR Marsh,AJ Turner,SM Boland,4,0,,,,,,"",""
+ball,1,9.3,Perth Scorchers,MR Marsh,AJ Turner,SM Boland,1,0,,,,,,"",""
+ball,1,9.4,Perth Scorchers,AJ Turner,MR Marsh,SM Boland,0,0,,,,,,caught,AJ Turner
+ball,1,9.5,Perth Scorchers,MR Marsh,LJ Evans,SM Boland,1,0,,,,,,"",""
+ball,1,9.6,Perth Scorchers,LJ Evans,MR Marsh,SM Boland,0,0,,,,,,"",""
+ball,1,10.1,Perth Scorchers,MR Marsh,LJ Evans,DJM Short,1,0,,,,,,"",""
+ball,1,10.2,Perth Scorchers,LJ Evans,MR Marsh,DJM Short,1,0,,,,,,"",""
+ball,1,10.3,Perth Scorchers,MR Marsh,LJ Evans,DJM Short,1,0,,,,,,"",""
+ball,1,10.4,Perth Scorchers,LJ Evans,MR Marsh,DJM Short,1,0,,,,,,"",""
+ball,1,10.5,Perth Scorchers,MR Marsh,LJ Evans,DJM Short,1,0,,,,,,"",""
+ball,1,10.6,Perth Scorchers,LJ Evans,MR Marsh,DJM Short,0,0,,,,,,"",""
+ball,1,11.1,Perth Scorchers,MR Marsh,LJ Evans,NT Ellis,1,0,,,,,,"",""
+ball,1,11.2,Perth Scorchers,LJ Evans,MR Marsh,NT Ellis,0,0,,,,,,"",""
+ball,1,11.3,Perth Scorchers,LJ Evans,MR Marsh,NT Ellis,4,0,,,,,,"",""
+ball,1,11.4,Perth Scorchers,LJ Evans,MR Marsh,NT Ellis,4,0,,,,,,"",""
+ball,1,11.5,Perth Scorchers,LJ Evans,MR Marsh,NT Ellis,2,0,,,,,,"",""
+ball,1,11.6,Perth Scorchers,LJ Evans,MR Marsh,NT Ellis,0,0,,,,,,"",""
+ball,1,12.1,Perth Scorchers,MR Marsh,LJ Evans,S Lamichhane,1,0,,,,,,"",""
+ball,1,12.2,Perth Scorchers,LJ Evans,MR Marsh,S Lamichhane,0,1,,,,1,,"",""
+ball,1,12.3,Perth Scorchers,MR Marsh,LJ Evans,S Lamichhane,0,0,,,,,,"",""
+ball,1,12.4,Perth Scorchers,MR Marsh,LJ Evans,S Lamichhane,4,0,,,,,,"",""
+ball,1,12.5,Perth Scorchers,MR Marsh,LJ Evans,S Lamichhane,1,0,,,,,,"",""
+ball,1,12.6,Perth Scorchers,LJ Evans,MR Marsh,S Lamichhane,4,0,,,,,,"",""
+ball,1,13.1,Perth Scorchers,MR Marsh,LJ Evans,SM Boland,2,0,,,,,,"",""
+ball,1,13.2,Perth Scorchers,MR Marsh,LJ Evans,SM Boland,2,0,,,,,,"",""
+ball,1,13.3,Perth Scorchers,MR Marsh,LJ Evans,SM Boland,1,0,,,,,,"",""
+ball,1,13.4,Perth Scorchers,LJ Evans,MR Marsh,SM Boland,1,0,,,,,,"",""
+ball,1,13.5,Perth Scorchers,MR Marsh,LJ Evans,SM Boland,1,0,,,,,,"",""
+ball,1,13.6,Perth Scorchers,LJ Evans,MR Marsh,SM Boland,1,0,,,,,,"",""
+ball,1,14.1,Perth Scorchers,LJ Evans,MR Marsh,TH David,0,0,,,,,,"",""
+ball,1,14.2,Perth Scorchers,LJ Evans,MR Marsh,TH David,1,0,,,,,,"",""
+ball,1,14.3,Perth Scorchers,MR Marsh,LJ Evans,TH David,1,0,,,,,,"",""
+ball,1,14.4,Perth Scorchers,LJ Evans,MR Marsh,TH David,4,0,,,,,,"",""
+ball,1,14.5,Perth Scorchers,LJ Evans,MR Marsh,TH David,1,0,,,,,,"",""
+ball,1,14.6,Perth Scorchers,MR Marsh,LJ Evans,TH David,1,0,,,,,,"",""
+ball,1,15.1,Perth Scorchers,MR Marsh,LJ Evans,S Lamichhane,4,0,,,,,,"",""
+ball,1,15.2,Perth Scorchers,MR Marsh,LJ Evans,S Lamichhane,1,0,,,,,,"",""
+ball,1,15.3,Perth Scorchers,LJ Evans,MR Marsh,S Lamichhane,1,0,,,,,,"",""
+ball,1,15.4,Perth Scorchers,MR Marsh,LJ Evans,S Lamichhane,0,0,,,,,,"",""
+ball,1,15.5,Perth Scorchers,MR Marsh,LJ Evans,S Lamichhane,0,0,,,,,,"",""
+ball,1,15.6,Perth Scorchers,MR Marsh,LJ Evans,S Lamichhane,1,0,,,,,,"",""
+ball,1,16.1,Perth Scorchers,MR Marsh,LJ Evans,SM Boland,1,0,,,,,,"",""
+ball,1,16.2,Perth Scorchers,LJ Evans,MR Marsh,SM Boland,6,0,,,,,,"",""
+ball,1,16.3,Perth Scorchers,LJ Evans,MR Marsh,SM Boland,4,0,,,,,,"",""
+ball,1,16.4,Perth Scorchers,LJ Evans,MR Marsh,SM Boland,2,0,,,,,,"",""
+ball,1,16.5,Perth Scorchers,LJ Evans,MR Marsh,SM Boland,2,0,,,,,,"",""
+ball,1,16.6,Perth Scorchers,LJ Evans,MR Marsh,SM Boland,1,0,,,,,,"",""
+ball,1,17.1,Perth Scorchers,LJ Evans,MR Marsh,NT Ellis,0,0,,,,,,caught,LJ Evans
+ball,1,17.2,Perth Scorchers,AC Agar,MR Marsh,NT Ellis,1,0,,,,,,"",""
+ball,1,17.3,Perth Scorchers,MR Marsh,AC Agar,NT Ellis,1,0,,,,,,"",""
+ball,1,17.4,Perth Scorchers,AC Agar,MR Marsh,NT Ellis,0,0,,,,,,"",""
+ball,1,17.5,Perth Scorchers,AC Agar,MR Marsh,NT Ellis,2,0,,,,,,"",""
+ball,1,17.6,Perth Scorchers,AC Agar,MR Marsh,NT Ellis,1,0,,,,,,"",""
+ball,1,18.1,Perth Scorchers,AC Agar,MR Marsh,DJM Short,1,0,,,,,,"",""
+ball,1,18.2,Perth Scorchers,MR Marsh,AC Agar,DJM Short,6,0,,,,,,"",""
+ball,1,18.3,Perth Scorchers,MR Marsh,AC Agar,DJM Short,1,0,,,,,,"",""
+ball,1,18.4,Perth Scorchers,AC Agar,MR Marsh,DJM Short,0,1,,1,,,,"",""
+ball,1,18.5,Perth Scorchers,MR Marsh,AC Agar,DJM Short,6,0,,,,,,"",""
+ball,1,18.6,Perth Scorchers,MR Marsh,AC Agar,DJM Short,4,0,,,,,,"",""
+ball,1,18.7,Perth Scorchers,MR Marsh,AC Agar,DJM Short,6,0,,,,,,"",""
+ball,1,19.1,Perth Scorchers,AC Agar,MR Marsh,NT Ellis,1,0,,,,,,"",""
+ball,1,19.2,Perth Scorchers,MR Marsh,AC Agar,NT Ellis,2,0,,,,,,"",""
+ball,1,19.3,Perth Scorchers,MR Marsh,AC Agar,NT Ellis,6,0,,,,,,"",""
+ball,1,19.4,Perth Scorchers,MR Marsh,AC Agar,NT Ellis,0,0,,,,,,"",""
+ball,1,19.5,Perth Scorchers,MR Marsh,AC Agar,NT Ellis,1,0,,,,,,"",""
+ball,1,19.6,Perth Scorchers,AC Agar,MR Marsh,NT Ellis,1,0,,,,,,"",""
+ball,2,0.1,Hobart Hurricanes,MS Wade,DJM Short,JP Behrendorff,0,1,1,,,,,"",""
+ball,2,0.2,Hobart Hurricanes,MS Wade,DJM Short,JP Behrendorff,4,0,,,,,,"",""
+ball,2,0.3,Hobart Hurricanes,MS Wade,DJM Short,JP Behrendorff,0,0,,,,,,"",""
+ball,2,0.4,Hobart Hurricanes,MS Wade,DJM Short,JP Behrendorff,0,0,,,,,,"",""
+ball,2,0.5,Hobart Hurricanes,MS Wade,DJM Short,JP Behrendorff,0,0,,,,,,"",""
+ball,2,0.6,Hobart Hurricanes,MS Wade,DJM Short,JP Behrendorff,0,0,,,,,,caught,MS Wade
+ball,2,0.7,Hobart Hurricanes,DJM Short,CP Jewell,JP Behrendorff,0,0,,,,,,"",""
+ball,2,1.1,Hobart Hurricanes,CP Jewell,DJM Short,TS Mills,2,0,,,,,,"",""
+ball,2,1.2,Hobart Hurricanes,CP Jewell,DJM Short,TS Mills,0,0,,,,,,lbw,CP Jewell
+ball,2,1.3,Hobart Hurricanes,BR McDermott,DJM Short,TS Mills,0,0,,,,,,"",""
+ball,2,1.4,Hobart Hurricanes,BR McDermott,DJM Short,TS Mills,0,0,,,,,,"",""
+ball,2,1.5,Hobart Hurricanes,BR McDermott,DJM Short,TS Mills,0,0,,,,,,"",""
+ball,2,1.6,Hobart Hurricanes,BR McDermott,DJM Short,TS Mills,0,0,,,,,,"",""
+ball,2,2.1,Hobart Hurricanes,DJM Short,BR McDermott,JP Behrendorff,4,0,,,,,,"",""
+ball,2,2.2,Hobart Hurricanes,DJM Short,BR McDermott,JP Behrendorff,0,0,,,,,,"",""
+ball,2,2.3,Hobart Hurricanes,DJM Short,BR McDermott,JP Behrendorff,0,0,,,,,,"",""
+ball,2,2.4,Hobart Hurricanes,DJM Short,BR McDermott,JP Behrendorff,0,0,,,,,,"",""
+ball,2,2.5,Hobart Hurricanes,DJM Short,BR McDermott,JP Behrendorff,0,0,,,,,,"",""
+ball,2,2.6,Hobart Hurricanes,DJM Short,BR McDermott,JP Behrendorff,0,0,,,,,,"",""
+ball,2,3.1,Hobart Hurricanes,BR McDermott,DJM Short,AC Agar,1,0,,,,,,"",""
+ball,2,3.2,Hobart Hurricanes,DJM Short,BR McDermott,AC Agar,0,0,,,,,,"",""
+ball,2,3.3,Hobart Hurricanes,DJM Short,BR McDermott,AC Agar,1,0,,,,,,"",""
+ball,2,3.4,Hobart Hurricanes,BR McDermott,DJM Short,AC Agar,1,0,,,,,,"",""
+ball,2,3.5,Hobart Hurricanes,DJM Short,BR McDermott,AC Agar,1,0,,,,,,"",""
+ball,2,3.6,Hobart Hurricanes,BR McDermott,DJM Short,AC Agar,0,0,,,,,,"",""
+ball,2,4.1,Hobart Hurricanes,DJM Short,BR McDermott,JP Behrendorff,1,0,,,,,,"",""
+ball,2,4.2,Hobart Hurricanes,BR McDermott,DJM Short,JP Behrendorff,4,0,,,,,,"",""
+ball,2,4.3,Hobart Hurricanes,BR McDermott,DJM Short,JP Behrendorff,0,0,,,,,,"",""
+ball,2,4.4,Hobart Hurricanes,BR McDermott,DJM Short,JP Behrendorff,0,0,,,,,,"",""
+ball,2,4.5,Hobart Hurricanes,BR McDermott,DJM Short,JP Behrendorff,0,0,,,,,,"",""
+ball,2,4.6,Hobart Hurricanes,BR McDermott,DJM Short,JP Behrendorff,0,0,,,,,,"",""
+ball,2,5.1,Hobart Hurricanes,DJM Short,BR McDermott,P Hatzoglou,1,0,,,,,,"",""
+ball,2,5.2,Hobart Hurricanes,BR McDermott,DJM Short,P Hatzoglou,1,0,,,,,,"",""
+ball,2,5.3,Hobart Hurricanes,DJM Short,BR McDermott,P Hatzoglou,1,0,,,,,,"",""
+ball,2,5.4,Hobart Hurricanes,BR McDermott,DJM Short,P Hatzoglou,1,0,,,,,,"",""
+ball,2,5.5,Hobart Hurricanes,DJM Short,BR McDermott,P Hatzoglou,1,0,,,,,,"",""
+ball,2,5.6,Hobart Hurricanes,BR McDermott,DJM Short,P Hatzoglou,1,0,,,,,,"",""
+ball,2,6.1,Hobart Hurricanes,BR McDermott,DJM Short,AJ Tye,0,0,,,,,,"",""
+ball,2,6.2,Hobart Hurricanes,BR McDermott,DJM Short,AJ Tye,4,0,,,,,,"",""
+ball,2,6.3,Hobart Hurricanes,BR McDermott,DJM Short,AJ Tye,1,0,,,,,,"",""
+ball,2,6.4,Hobart Hurricanes,DJM Short,BR McDermott,AJ Tye,0,1,,1,,,,"",""
+ball,2,6.5,Hobart Hurricanes,DJM Short,BR McDermott,AJ Tye,0,0,,,,,,"",""
+ball,2,6.6,Hobart Hurricanes,DJM Short,BR McDermott,AJ Tye,1,0,,,,,,"",""
+ball,2,6.7,Hobart Hurricanes,BR McDermott,DJM Short,AJ Tye,6,0,,,,,,"",""
+ball,2,7.1,Hobart Hurricanes,DJM Short,BR McDermott,P Hatzoglou,1,0,,,,,,"",""
+ball,2,7.2,Hobart Hurricanes,BR McDermott,DJM Short,P Hatzoglou,1,0,,,,,,"",""
+ball,2,7.3,Hobart Hurricanes,DJM Short,BR McDermott,P Hatzoglou,6,0,,,,,,"",""
+ball,2,7.4,Hobart Hurricanes,DJM Short,BR McDermott,P Hatzoglou,1,0,,,,,,"",""
+ball,2,7.5,Hobart Hurricanes,BR McDermott,DJM Short,P Hatzoglou,1,0,,,,,,"",""
+ball,2,7.6,Hobart Hurricanes,DJM Short,BR McDermott,P Hatzoglou,6,0,,,,,,"",""
+ball,2,8.1,Hobart Hurricanes,BR McDermott,DJM Short,AC Agar,0,0,,,,,,"",""
+ball,2,8.2,Hobart Hurricanes,BR McDermott,DJM Short,AC Agar,6,0,,,,,,"",""
+ball,2,8.3,Hobart Hurricanes,BR McDermott,DJM Short,AC Agar,1,0,,,,,,"",""
+ball,2,8.4,Hobart Hurricanes,DJM Short,BR McDermott,AC Agar,1,0,,,,,,"",""
+ball,2,8.5,Hobart Hurricanes,BR McDermott,DJM Short,AC Agar,2,0,,,,,,"",""
+ball,2,8.6,Hobart Hurricanes,BR McDermott,DJM Short,AC Agar,0,0,,,,,,"",""
+ball,2,9.1,Hobart Hurricanes,DJM Short,BR McDermott,TS Mills,0,0,,,,,,"",""
+ball,2,9.2,Hobart Hurricanes,DJM Short,BR McDermott,TS Mills,1,0,,,,,,"",""
+ball,2,9.3,Hobart Hurricanes,BR McDermott,DJM Short,TS Mills,6,0,,,,,,"",""
+ball,2,9.4,Hobart Hurricanes,BR McDermott,DJM Short,TS Mills,4,0,,,,,,"",""
+ball,2,9.5,Hobart Hurricanes,BR McDermott,DJM Short,TS Mills,0,0,,,,,,caught,BR McDermott
+ball,2,9.6,Hobart Hurricanes,HC Brook,DJM Short,TS Mills,0,0,,,,,,"",""
+ball,2,10.1,Hobart Hurricanes,DJM Short,HC Brook,P Hatzoglou,1,0,,,,,,"",""
+ball,2,10.2,Hobart Hurricanes,HC Brook,DJM Short,P Hatzoglou,1,0,,,,,,"",""
+ball,2,10.3,Hobart Hurricanes,DJM Short,HC Brook,P Hatzoglou,1,0,,,,,,"",""
+ball,2,10.4,Hobart Hurricanes,HC Brook,DJM Short,P Hatzoglou,0,0,,,,,,"",""
+ball,2,10.5,Hobart Hurricanes,HC Brook,DJM Short,P Hatzoglou,0,0,,,,,,stumped,HC Brook
+ball,2,10.6,Hobart Hurricanes,PSP Handscomb,DJM Short,P Hatzoglou,1,0,,,,,,"",""
+ball,2,11.1,Hobart Hurricanes,PSP Handscomb,DJM Short,AJ Tye,2,0,,,,,,"",""
+ball,2,11.2,Hobart Hurricanes,PSP Handscomb,DJM Short,AJ Tye,0,0,,,,,,"",""
+ball,2,11.3,Hobart Hurricanes,PSP Handscomb,DJM Short,AJ Tye,0,0,,,,,,"",""
+ball,2,11.4,Hobart Hurricanes,PSP Handscomb,DJM Short,AJ Tye,0,0,,,,,,caught,PSP Handscomb
+ball,2,11.5,Hobart Hurricanes,TH David,DJM Short,AJ Tye,1,0,,,,,,"",""
+ball,2,11.6,Hobart Hurricanes,DJM Short,TH David,AJ Tye,1,0,,,,,,"",""
+ball,2,12.1,Hobart Hurricanes,DJM Short,TH David,AC Agar,1,0,,,,,,"",""
+ball,2,12.2,Hobart Hurricanes,TH David,DJM Short,AC Agar,0,0,,,,,,"",""
+ball,2,12.3,Hobart Hurricanes,TH David,DJM Short,AC Agar,1,0,,,,,,"",""
+ball,2,12.4,Hobart Hurricanes,DJM Short,TH David,AC Agar,0,0,,,,,,caught,DJM Short
+ball,2,12.5,Hobart Hurricanes,TH David,NT Ellis,AC Agar,1,0,,,,,,"",""
+ball,2,12.6,Hobart Hurricanes,NT Ellis,TH David,AC Agar,1,0,,,,,,"",""
+ball,2,13.1,Hobart Hurricanes,NT Ellis,TH David,TS Mills,0,0,,,,,,bowled,NT Ellis
+ball,2,13.2,Hobart Hurricanes,SM Boland,TH David,TS Mills,0,0,,,,,,"",""
+ball,2,13.3,Hobart Hurricanes,SM Boland,TH David,TS Mills,0,0,,,,,,"",""
+ball,2,13.4,Hobart Hurricanes,SM Boland,TH David,TS Mills,0,0,,,,,,"",""
+ball,2,13.5,Hobart Hurricanes,SM Boland,TH David,TS Mills,4,0,,,,,,"",""
+ball,2,13.6,Hobart Hurricanes,SM Boland,TH David,TS Mills,0,0,,,,,,"",""
+ball,2,14.1,Hobart Hurricanes,TH David,SM Boland,AJ Tye,0,0,,,,,,"",""
+ball,2,14.2,Hobart Hurricanes,TH David,SM Boland,AJ Tye,2,0,,,,,,"",""
+ball,2,14.3,Hobart Hurricanes,TH David,SM Boland,AJ Tye,6,0,,,,,,"",""
+ball,2,14.4,Hobart Hurricanes,TH David,SM Boland,AJ Tye,4,0,,,,,,"",""
+ball,2,14.5,Hobart Hurricanes,TH David,SM Boland,AJ Tye,2,0,,,,,,"",""
+ball,2,14.6,Hobart Hurricanes,TH David,SM Boland,AJ Tye,0,0,,,,,,caught,TH David
+ball,2,15.1,Hobart Hurricanes,SM Boland,S Lamichhane,TS Mills,0,0,,,,,,"",""
+ball,2,15.2,Hobart Hurricanes,SM Boland,S Lamichhane,TS Mills,4,0,,,,,,"",""
+ball,2,15.3,Hobart Hurricanes,SM Boland,S Lamichhane,TS Mills,0,0,,,,,,"",""
+ball,2,15.4,Hobart Hurricanes,SM Boland,S Lamichhane,TS Mills,0,0,,,,,,"",""
+ball,2,15.5,Hobart Hurricanes,SM Boland,S Lamichhane,TS Mills,0,1,1,,,,,"",""
+ball,2,15.6,Hobart Hurricanes,SM Boland,S Lamichhane,TS Mills,0,0,,,,,,"",""
+ball,2,15.7,Hobart Hurricanes,SM Boland,S Lamichhane,TS Mills,1,0,,,,,,"",""
+ball,2,16.1,Hobart Hurricanes,SM Boland,S Lamichhane,AC Agar,1,0,,,,,,"",""
+ball,2,16.2,Hobart Hurricanes,S Lamichhane,SM Boland,AC Agar,0,0,,,,,,"",""
+ball,2,16.3,Hobart Hurricanes,S Lamichhane,SM Boland,AC Agar,1,0,,,,,,"",""
+ball,2,16.4,Hobart Hurricanes,SM Boland,S Lamichhane,AC Agar,0,0,,,,,,stumped,SM Boland
+ball,2,16.5,Hobart Hurricanes,JS Paris,S Lamichhane,AC Agar,1,0,,,,,,"",""
+ball,2,16.6,Hobart Hurricanes,S Lamichhane,JS Paris,AC Agar,0,0,,,,,,"",""
+ball,2,17.1,Hobart Hurricanes,JS Paris,S Lamichhane,P Hatzoglou,0,0,,,,,,"",""
+ball,2,17.2,Hobart Hurricanes,JS Paris,S Lamichhane,P Hatzoglou,0,0,,,,,,"",""
+ball,2,17.3,Hobart Hurricanes,JS Paris,S Lamichhane,P Hatzoglou,1,0,,,,,,"",""
+ball,2,17.4,Hobart Hurricanes,S Lamichhane,JS Paris,P Hatzoglou,1,0,,,,,,"",""
+ball,2,17.5,Hobart Hurricanes,JS Paris,S Lamichhane,P Hatzoglou,0,0,,,,,,"",""
+ball,2,17.6,Hobart Hurricanes,JS Paris,S Lamichhane,P Hatzoglou,0,0,,,,,,"",""
+ball,2,18.1,Hobart Hurricanes,S Lamichhane,JS Paris,AJ Turner,6,0,,,,,,"",""
+ball,2,18.2,Hobart Hurricanes,S Lamichhane,JS Paris,AJ Turner,0,0,,,,,,"",""
+ball,2,18.3,Hobart Hurricanes,S Lamichhane,JS Paris,AJ Turner,2,0,,,,,,"",""
+ball,2,18.4,Hobart Hurricanes,S Lamichhane,JS Paris,AJ Turner,0,1,1,,,,,"",""
+ball,2,18.5,Hobart Hurricanes,S Lamichhane,JS Paris,AJ Turner,2,0,,,,,,"",""
+ball,2,18.6,Hobart Hurricanes,S Lamichhane,JS Paris,AJ Turner,1,0,,,,,,"",""
+ball,2,18.7,Hobart Hurricanes,JS Paris,S Lamichhane,AJ Turner,0,0,,,,,,caught,JS Paris

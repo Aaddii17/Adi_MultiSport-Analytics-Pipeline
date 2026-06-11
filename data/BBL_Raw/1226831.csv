@@ -1,0 +1,317 @@
+version,1.6.0
+info,balls_per_over,6
+info,team,Perth Scorchers
+info,team,Sydney Thunder
+info,gender,male
+info,season,2020/21
+info,date,2020/12/22
+info,event,Big Bash League
+info,match_number,12
+info,venue,Manuka Oval
+info,city,Canberra
+info,toss_winner,Sydney Thunder
+info,toss_decision,field
+info,player_of_match,CJ Ferguson
+info,umpire,DM Koch
+info,umpire,SA Lightbody
+info,reserve_umpire,NR Johnstone
+info,tv_umpire,P Wilson
+info,match_referee,Kent Hannam
+info,winner,Sydney Thunder
+info,winner_wickets,7
+info,player,Perth Scorchers,JP Inglis
+info,player,Perth Scorchers,C Munro
+info,player,Perth Scorchers,JM Clarke
+info,player,Perth Scorchers,MR Marsh
+info,player,Perth Scorchers,AJ Turner
+info,player,Perth Scorchers,JA Richardson
+info,player,Perth Scorchers,CT Bancroft
+info,player,Perth Scorchers,AM Hardie
+info,player,Perth Scorchers,AJ Tye
+info,player,Perth Scorchers,JP Behrendorff
+info,player,Perth Scorchers,Fawad Ahmed
+info,player,Sydney Thunder,UT Khawaja
+info,player,Sydney Thunder,AD Hales
+info,player,Sydney Thunder,CJ Ferguson
+info,player,Sydney Thunder,O Davies
+info,player,Sydney Thunder,BCJ Cutting
+info,player,Sydney Thunder,BJ Holt
+info,player,Sydney Thunder,DR Sams
+info,player,Sydney Thunder,CJ Green
+info,player,Sydney Thunder,N McAndrew
+info,player,Sydney Thunder,AF Milne
+info,player,Sydney Thunder,T Sangha
+info,registry,people,AD Hales,92aeac25
+info,registry,people,AF Milne,350bb1b1
+info,registry,people,AJ Turner,ff1e12a0
+info,registry,people,AJ Tye,7c7d63a2
+info,registry,people,AM Hardie,d405c0d5
+info,registry,people,BCJ Cutting,2e11c706
+info,registry,people,BJ Holt,f05d1564
+info,registry,people,C Munro,af2c687b
+info,registry,people,CJ Ferguson,9b4935c8
+info,registry,people,CJ Green,19b9f399
+info,registry,people,CT Bancroft,399b0b94
+info,registry,people,DM Koch,6d10c034
+info,registry,people,DR Sams,caf69bf7
+info,registry,people,Fawad Ahmed,22ae3041
+info,registry,people,JA Richardson,1ee08e9a
+info,registry,people,JM Clarke,2eca67f5
+info,registry,people,JP Behrendorff,4933f499
+info,registry,people,JP Inglis,989889ff
+info,registry,people,Kent Hannam,8cc171e7
+info,registry,people,MR Marsh,3d8feaf8
+info,registry,people,N McAndrew,38c276e1
+info,registry,people,NR Johnstone,ce274b6a
+info,registry,people,O Davies,0ea54eca
+info,registry,people,P Wilson,68304a36
+info,registry,people,SA Lightbody,680b8cbf
+info,registry,people,T Sangha,52c952d9
+info,registry,people,UT Khawaja,331ea488
+ball,1,0.1,Perth Scorchers,JP Inglis,C Munro,AF Milne,0,1,1,,,,,"",""
+ball,1,0.2,Perth Scorchers,JP Inglis,C Munro,AF Milne,0,0,,,,,,"",""
+ball,1,0.3,Perth Scorchers,JP Inglis,C Munro,AF Milne,1,0,,,,,,"",""
+ball,1,0.4,Perth Scorchers,C Munro,JP Inglis,AF Milne,0,0,,,,,,"",""
+ball,1,0.5,Perth Scorchers,C Munro,JP Inglis,AF Milne,1,0,,,,,,"",""
+ball,1,0.6,Perth Scorchers,JP Inglis,C Munro,AF Milne,0,0,,,,,,"",""
+ball,1,0.7,Perth Scorchers,JP Inglis,C Munro,AF Milne,0,0,,,,,,"",""
+ball,1,1.1,Perth Scorchers,C Munro,JP Inglis,DR Sams,0,0,,,,,,"",""
+ball,1,1.2,Perth Scorchers,C Munro,JP Inglis,DR Sams,0,0,,,,,,"",""
+ball,1,1.3,Perth Scorchers,C Munro,JP Inglis,DR Sams,0,0,,,,,,"",""
+ball,1,1.4,Perth Scorchers,C Munro,JP Inglis,DR Sams,0,4,,,,4,,"",""
+ball,1,1.5,Perth Scorchers,C Munro,JP Inglis,DR Sams,4,0,,,,,,"",""
+ball,1,1.6,Perth Scorchers,C Munro,JP Inglis,DR Sams,0,0,,,,,,"",""
+ball,1,2.1,Perth Scorchers,JP Inglis,C Munro,N McAndrew,1,0,,,,,,"",""
+ball,1,2.2,Perth Scorchers,C Munro,JP Inglis,N McAndrew,4,0,,,,,,"",""
+ball,1,2.3,Perth Scorchers,C Munro,JP Inglis,N McAndrew,0,0,,,,,,"",""
+ball,1,2.4,Perth Scorchers,C Munro,JP Inglis,N McAndrew,0,0,,,,,,"",""
+ball,1,2.5,Perth Scorchers,C Munro,JP Inglis,N McAndrew,1,0,,,,,,"",""
+ball,1,2.6,Perth Scorchers,JP Inglis,C Munro,N McAndrew,0,0,,,,,,"",""
+ball,1,3.1,Perth Scorchers,C Munro,JP Inglis,AF Milne,1,0,,,,,,"",""
+ball,1,3.2,Perth Scorchers,JP Inglis,C Munro,AF Milne,1,0,,,,,,"",""
+ball,1,3.3,Perth Scorchers,C Munro,JP Inglis,AF Milne,1,0,,,,,,"",""
+ball,1,3.4,Perth Scorchers,JP Inglis,C Munro,AF Milne,0,0,,,,,,"",""
+ball,1,3.5,Perth Scorchers,JP Inglis,C Munro,AF Milne,1,0,,,,,,"",""
+ball,1,3.6,Perth Scorchers,C Munro,JP Inglis,AF Milne,1,0,,,,,,"",""
+ball,1,4.1,Perth Scorchers,C Munro,JP Inglis,N McAndrew,1,0,,,,,,"",""
+ball,1,4.2,Perth Scorchers,JP Inglis,C Munro,N McAndrew,0,0,,,,,,"",""
+ball,1,4.3,Perth Scorchers,JP Inglis,C Munro,N McAndrew,0,0,,,,,,caught,JP Inglis
+ball,1,4.4,Perth Scorchers,C Munro,JM Clarke,N McAndrew,1,0,,,,,,"",""
+ball,1,4.5,Perth Scorchers,JM Clarke,C Munro,N McAndrew,0,0,,,,,,"",""
+ball,1,4.6,Perth Scorchers,JM Clarke,C Munro,N McAndrew,0,0,,,,,,run out,JM Clarke
+ball,1,5.1,Perth Scorchers,MR Marsh,C Munro,T Sangha,1,0,,,,,,"",""
+ball,1,5.2,Perth Scorchers,C Munro,MR Marsh,T Sangha,1,0,,,,,,"",""
+ball,1,5.3,Perth Scorchers,MR Marsh,C Munro,T Sangha,1,0,,,,,,"",""
+ball,1,5.4,Perth Scorchers,C Munro,MR Marsh,T Sangha,2,0,,,,,,"",""
+ball,1,5.5,Perth Scorchers,C Munro,MR Marsh,T Sangha,6,0,,,,,,"",""
+ball,1,5.6,Perth Scorchers,C Munro,MR Marsh,T Sangha,1,0,,,,,,"",""
+ball,1,6.1,Perth Scorchers,C Munro,MR Marsh,BCJ Cutting,0,0,,,,,,caught,C Munro
+ball,1,6.2,Perth Scorchers,AJ Turner,MR Marsh,BCJ Cutting,1,0,,,,,,"",""
+ball,1,6.3,Perth Scorchers,MR Marsh,AJ Turner,BCJ Cutting,0,0,,,,,,"",""
+ball,1,6.4,Perth Scorchers,MR Marsh,AJ Turner,BCJ Cutting,1,0,,,,,,"",""
+ball,1,6.5,Perth Scorchers,AJ Turner,MR Marsh,BCJ Cutting,0,0,,,,,,"",""
+ball,1,6.6,Perth Scorchers,AJ Turner,MR Marsh,BCJ Cutting,0,0,,,,,,"",""
+ball,1,7.1,Perth Scorchers,MR Marsh,AJ Turner,T Sangha,0,0,,,,,,"",""
+ball,1,7.2,Perth Scorchers,MR Marsh,AJ Turner,T Sangha,0,0,,,,,,"",""
+ball,1,7.3,Perth Scorchers,MR Marsh,AJ Turner,T Sangha,2,0,,,,,,"",""
+ball,1,7.4,Perth Scorchers,MR Marsh,AJ Turner,T Sangha,2,0,,,,,,"",""
+ball,1,7.5,Perth Scorchers,MR Marsh,AJ Turner,T Sangha,1,0,,,,,,"",""
+ball,1,7.6,Perth Scorchers,AJ Turner,MR Marsh,T Sangha,0,0,,,,,,"",""
+ball,1,8.1,Perth Scorchers,MR Marsh,AJ Turner,CJ Green,1,0,,,,,,"",""
+ball,1,8.2,Perth Scorchers,AJ Turner,MR Marsh,CJ Green,2,0,,,,,,"",""
+ball,1,8.3,Perth Scorchers,AJ Turner,MR Marsh,CJ Green,1,0,,,,,,"",""
+ball,1,8.4,Perth Scorchers,MR Marsh,AJ Turner,CJ Green,1,0,,,,,,"",""
+ball,1,8.5,Perth Scorchers,AJ Turner,MR Marsh,CJ Green,1,0,,,,,,"",""
+ball,1,8.6,Perth Scorchers,MR Marsh,AJ Turner,CJ Green,1,0,,,,,,"",""
+ball,1,9.1,Perth Scorchers,MR Marsh,AJ Turner,BCJ Cutting,2,0,,,,,,"",""
+ball,1,9.2,Perth Scorchers,MR Marsh,AJ Turner,BCJ Cutting,1,0,,,,,,"",""
+ball,1,9.3,Perth Scorchers,AJ Turner,MR Marsh,BCJ Cutting,2,0,,,,,,"",""
+ball,1,9.4,Perth Scorchers,AJ Turner,MR Marsh,BCJ Cutting,1,0,,,,,,"",""
+ball,1,9.5,Perth Scorchers,MR Marsh,AJ Turner,BCJ Cutting,0,0,,,,,,"",""
+ball,1,9.6,Perth Scorchers,MR Marsh,AJ Turner,BCJ Cutting,0,0,,,,,,"",""
+ball,1,10.1,Perth Scorchers,AJ Turner,MR Marsh,DR Sams,4,0,,,,,,"",""
+ball,1,10.2,Perth Scorchers,AJ Turner,MR Marsh,DR Sams,0,1,1,,,,,"",""
+ball,1,10.3,Perth Scorchers,AJ Turner,MR Marsh,DR Sams,1,0,,,,,,"",""
+ball,1,10.4,Perth Scorchers,MR Marsh,AJ Turner,DR Sams,0,1,,,,1,,"",""
+ball,1,10.5,Perth Scorchers,AJ Turner,MR Marsh,DR Sams,6,0,,,,,,"",""
+ball,1,10.6,Perth Scorchers,AJ Turner,MR Marsh,DR Sams,4,0,,,,,,"",""
+ball,1,10.7,Perth Scorchers,AJ Turner,MR Marsh,DR Sams,0,0,,,,,,caught,AJ Turner
+ball,1,11.1,Perth Scorchers,MR Marsh,JA Richardson,N McAndrew,6,0,,,,,,"",""
+ball,1,11.2,Perth Scorchers,MR Marsh,JA Richardson,N McAndrew,1,0,,,,,,"",""
+ball,1,11.3,Perth Scorchers,JA Richardson,MR Marsh,N McAndrew,4,0,,,,,,"",""
+ball,1,11.4,Perth Scorchers,JA Richardson,MR Marsh,N McAndrew,0,0,,,,,,"",""
+ball,1,11.5,Perth Scorchers,JA Richardson,MR Marsh,N McAndrew,1,0,,,,,,"",""
+ball,1,11.6,Perth Scorchers,MR Marsh,JA Richardson,N McAndrew,1,0,,,,,,"",""
+ball,1,12.1,Perth Scorchers,MR Marsh,JA Richardson,T Sangha,4,0,,,,,,"",""
+ball,1,12.2,Perth Scorchers,MR Marsh,JA Richardson,T Sangha,0,0,,,,,,"",""
+ball,1,12.3,Perth Scorchers,MR Marsh,JA Richardson,T Sangha,1,0,,,,,,"",""
+ball,1,12.4,Perth Scorchers,JA Richardson,MR Marsh,T Sangha,0,0,,,,,,caught,JA Richardson
+ball,1,12.5,Perth Scorchers,MR Marsh,CT Bancroft,T Sangha,1,0,,,,,,"",""
+ball,1,12.6,Perth Scorchers,CT Bancroft,MR Marsh,T Sangha,0,0,,,,,,"",""
+ball,1,13.1,Perth Scorchers,MR Marsh,CT Bancroft,AF Milne,0,0,,,,,,"",""
+ball,1,13.2,Perth Scorchers,MR Marsh,CT Bancroft,AF Milne,0,0,,,,,,"",""
+ball,1,13.3,Perth Scorchers,MR Marsh,CT Bancroft,AF Milne,0,0,,,,,,"",""
+ball,1,13.4,Perth Scorchers,MR Marsh,CT Bancroft,AF Milne,1,0,,,,,,"",""
+ball,1,13.5,Perth Scorchers,CT Bancroft,MR Marsh,AF Milne,0,0,,,,,,"",""
+ball,1,13.6,Perth Scorchers,CT Bancroft,MR Marsh,AF Milne,1,0,,,,,,"",""
+ball,1,14.1,Perth Scorchers,CT Bancroft,MR Marsh,BCJ Cutting,2,0,,,,,,"",""
+ball,1,14.2,Perth Scorchers,CT Bancroft,MR Marsh,BCJ Cutting,1,0,,,,,,"",""
+ball,1,14.3,Perth Scorchers,MR Marsh,CT Bancroft,BCJ Cutting,1,0,,,,,,"",""
+ball,1,14.4,Perth Scorchers,CT Bancroft,MR Marsh,BCJ Cutting,1,0,,,,,,"",""
+ball,1,14.5,Perth Scorchers,MR Marsh,CT Bancroft,BCJ Cutting,2,0,,,,,,"",""
+ball,1,14.6,Perth Scorchers,MR Marsh,CT Bancroft,BCJ Cutting,1,0,,,,,,"",""
+ball,1,15.1,Perth Scorchers,MR Marsh,CT Bancroft,T Sangha,6,0,,,,,,"",""
+ball,1,15.2,Perth Scorchers,MR Marsh,CT Bancroft,T Sangha,1,0,,,,,,"",""
+ball,1,15.3,Perth Scorchers,CT Bancroft,MR Marsh,T Sangha,2,0,,,,,,"",""
+ball,1,15.4,Perth Scorchers,CT Bancroft,MR Marsh,T Sangha,1,0,,,,,,"",""
+ball,1,15.5,Perth Scorchers,MR Marsh,CT Bancroft,T Sangha,2,0,,,,,,"",""
+ball,1,15.6,Perth Scorchers,MR Marsh,CT Bancroft,T Sangha,1,0,,,,,,"",""
+ball,1,16.1,Perth Scorchers,MR Marsh,CT Bancroft,N McAndrew,1,0,,,,,,"",""
+ball,1,16.2,Perth Scorchers,CT Bancroft,MR Marsh,N McAndrew,0,0,,,,,,"",""
+ball,1,16.3,Perth Scorchers,CT Bancroft,MR Marsh,N McAndrew,2,0,,,,,,"",""
+ball,1,16.4,Perth Scorchers,CT Bancroft,MR Marsh,N McAndrew,4,0,,,,,,"",""
+ball,1,16.5,Perth Scorchers,CT Bancroft,MR Marsh,N McAndrew,1,0,,,,,,"",""
+ball,1,16.6,Perth Scorchers,MR Marsh,CT Bancroft,N McAndrew,0,0,,,,,,"",""
+ball,1,17.1,Perth Scorchers,CT Bancroft,MR Marsh,DR Sams,2,0,,,,,,"",""
+ball,1,17.2,Perth Scorchers,CT Bancroft,MR Marsh,DR Sams,2,0,,,,,,"",""
+ball,1,17.3,Perth Scorchers,CT Bancroft,MR Marsh,DR Sams,0,0,,,,,,"",""
+ball,1,17.4,Perth Scorchers,CT Bancroft,MR Marsh,DR Sams,1,0,,,,,,"",""
+ball,1,17.5,Perth Scorchers,MR Marsh,CT Bancroft,DR Sams,0,0,,,,,,"",""
+ball,1,17.6,Perth Scorchers,MR Marsh,CT Bancroft,DR Sams,6,0,,,,,,"",""
+ball,1,18.1,Perth Scorchers,CT Bancroft,MR Marsh,AF Milne,0,0,,,,,,"",""
+ball,1,18.2,Perth Scorchers,CT Bancroft,MR Marsh,AF Milne,0,0,,,,,,"",""
+ball,1,18.3,Perth Scorchers,CT Bancroft,MR Marsh,AF Milne,2,0,,,,,,"",""
+ball,1,18.4,Perth Scorchers,CT Bancroft,MR Marsh,AF Milne,3,0,,,,,,"",""
+ball,1,18.5,Perth Scorchers,MR Marsh,CT Bancroft,AF Milne,1,0,,,,,,"",""
+ball,1,18.6,Perth Scorchers,CT Bancroft,MR Marsh,AF Milne,1,0,,,,,,"",""
+ball,1,19.1,Perth Scorchers,CT Bancroft,MR Marsh,DR Sams,0,1,,,1,,,"",""
+ball,1,19.2,Perth Scorchers,MR Marsh,CT Bancroft,DR Sams,1,0,,,,,,"",""
+ball,1,19.3,Perth Scorchers,CT Bancroft,MR Marsh,DR Sams,4,0,,,,,,"",""
+ball,1,19.4,Perth Scorchers,CT Bancroft,MR Marsh,DR Sams,2,0,,,,,,"",""
+ball,1,19.5,Perth Scorchers,CT Bancroft,MR Marsh,DR Sams,2,0,,,,,,"",""
+ball,1,19.6,Perth Scorchers,CT Bancroft,MR Marsh,DR Sams,0,1,,,1,,,"",""
+ball,2,0.1,Sydney Thunder,UT Khawaja,AD Hales,JP Behrendorff,0,0,,,,,,"",""
+ball,2,0.2,Sydney Thunder,UT Khawaja,AD Hales,JP Behrendorff,4,0,,,,,,"",""
+ball,2,0.3,Sydney Thunder,UT Khawaja,AD Hales,JP Behrendorff,0,0,,,,,,"",""
+ball,2,0.4,Sydney Thunder,UT Khawaja,AD Hales,JP Behrendorff,0,0,,,,,,"",""
+ball,2,0.5,Sydney Thunder,UT Khawaja,AD Hales,JP Behrendorff,1,0,,,,,,"",""
+ball,2,0.6,Sydney Thunder,AD Hales,UT Khawaja,JP Behrendorff,0,1,1,,,,,"",""
+ball,2,0.7,Sydney Thunder,AD Hales,UT Khawaja,JP Behrendorff,0,0,,,,,,bowled,AD Hales
+ball,2,1.1,Sydney Thunder,UT Khawaja,CJ Ferguson,JA Richardson,0,0,,,,,,"",""
+ball,2,1.2,Sydney Thunder,UT Khawaja,CJ Ferguson,JA Richardson,1,0,,,,,,"",""
+ball,2,1.3,Sydney Thunder,CJ Ferguson,UT Khawaja,JA Richardson,0,0,,,,,,"",""
+ball,2,1.4,Sydney Thunder,CJ Ferguson,UT Khawaja,JA Richardson,0,0,,,,,,"",""
+ball,2,1.5,Sydney Thunder,CJ Ferguson,UT Khawaja,JA Richardson,0,0,,,,,,"",""
+ball,2,1.6,Sydney Thunder,CJ Ferguson,UT Khawaja,JA Richardson,0,1,1,,,,,"",""
+ball,2,1.7,Sydney Thunder,CJ Ferguson,UT Khawaja,JA Richardson,0,0,,,,,,"",""
+ball,2,2.1,Sydney Thunder,UT Khawaja,CJ Ferguson,JP Behrendorff,0,0,,,,,,"",""
+ball,2,2.2,Sydney Thunder,UT Khawaja,CJ Ferguson,JP Behrendorff,0,0,,,,,,"",""
+ball,2,2.3,Sydney Thunder,UT Khawaja,CJ Ferguson,JP Behrendorff,0,0,,,,,,"",""
+ball,2,2.4,Sydney Thunder,UT Khawaja,CJ Ferguson,JP Behrendorff,0,0,,,,,,"",""
+ball,2,2.5,Sydney Thunder,UT Khawaja,CJ Ferguson,JP Behrendorff,4,0,,,,,,"",""
+ball,2,2.6,Sydney Thunder,UT Khawaja,CJ Ferguson,JP Behrendorff,4,0,,,,,,"",""
+ball,2,3.1,Sydney Thunder,CJ Ferguson,UT Khawaja,JA Richardson,1,0,,,,,,"",""
+ball,2,3.2,Sydney Thunder,UT Khawaja,CJ Ferguson,JA Richardson,1,0,,,,,,"",""
+ball,2,3.3,Sydney Thunder,CJ Ferguson,UT Khawaja,JA Richardson,1,0,,,,,,"",""
+ball,2,3.4,Sydney Thunder,UT Khawaja,CJ Ferguson,JA Richardson,0,0,,,,,,"",""
+ball,2,3.5,Sydney Thunder,UT Khawaja,CJ Ferguson,JA Richardson,1,0,,,,,,"",""
+ball,2,3.6,Sydney Thunder,CJ Ferguson,UT Khawaja,JA Richardson,0,0,,,,,,"",""
+ball,2,4.1,Sydney Thunder,UT Khawaja,CJ Ferguson,JP Behrendorff,1,0,,,,,,"",""
+ball,2,4.2,Sydney Thunder,CJ Ferguson,UT Khawaja,JP Behrendorff,0,0,,,,,,"",""
+ball,2,4.3,Sydney Thunder,CJ Ferguson,UT Khawaja,JP Behrendorff,0,0,,,,,,"",""
+ball,2,4.4,Sydney Thunder,CJ Ferguson,UT Khawaja,JP Behrendorff,1,0,,,,,,"",""
+ball,2,4.5,Sydney Thunder,UT Khawaja,CJ Ferguson,JP Behrendorff,0,0,,,,,,"",""
+ball,2,4.6,Sydney Thunder,UT Khawaja,CJ Ferguson,JP Behrendorff,1,0,,,,,,"",""
+ball,2,5.1,Sydney Thunder,UT Khawaja,CJ Ferguson,AJ Tye,0,0,,,,,,"",""
+ball,2,5.2,Sydney Thunder,UT Khawaja,CJ Ferguson,AJ Tye,1,0,,,,,,"",""
+ball,2,5.3,Sydney Thunder,CJ Ferguson,UT Khawaja,AJ Tye,4,0,,,,,,"",""
+ball,2,5.4,Sydney Thunder,CJ Ferguson,UT Khawaja,AJ Tye,0,1,1,,,,,"",""
+ball,2,5.5,Sydney Thunder,CJ Ferguson,UT Khawaja,AJ Tye,1,0,,,,,,"",""
+ball,2,5.6,Sydney Thunder,UT Khawaja,CJ Ferguson,AJ Tye,0,0,,,,,,"",""
+ball,2,5.7,Sydney Thunder,UT Khawaja,CJ Ferguson,AJ Tye,0,1,1,,,,,"",""
+ball,2,5.8,Sydney Thunder,UT Khawaja,CJ Ferguson,AJ Tye,1,0,,,,,,"",""
+ball,2,6.1,Sydney Thunder,UT Khawaja,CJ Ferguson,AM Hardie,1,0,,,,,,"",""
+ball,2,6.2,Sydney Thunder,CJ Ferguson,UT Khawaja,AM Hardie,0,0,,,,,,"",""
+ball,2,6.3,Sydney Thunder,CJ Ferguson,UT Khawaja,AM Hardie,1,0,,,,,,"",""
+ball,2,6.4,Sydney Thunder,UT Khawaja,CJ Ferguson,AM Hardie,0,0,,,,,,caught,UT Khawaja
+ball,2,6.5,Sydney Thunder,CJ Ferguson,O Davies,AM Hardie,4,0,,,,,,"",""
+ball,2,6.6,Sydney Thunder,CJ Ferguson,O Davies,AM Hardie,0,0,,,,,,"",""
+ball,2,7.1,Sydney Thunder,O Davies,CJ Ferguson,Fawad Ahmed,1,0,,,,,,"",""
+ball,2,7.2,Sydney Thunder,CJ Ferguson,O Davies,Fawad Ahmed,4,0,,,,,,"",""
+ball,2,7.3,Sydney Thunder,CJ Ferguson,O Davies,Fawad Ahmed,4,0,,,,,,"",""
+ball,2,7.4,Sydney Thunder,CJ Ferguson,O Davies,Fawad Ahmed,0,0,,,,,,"",""
+ball,2,7.5,Sydney Thunder,CJ Ferguson,O Davies,Fawad Ahmed,1,0,,,,,,"",""
+ball,2,7.6,Sydney Thunder,O Davies,CJ Ferguson,Fawad Ahmed,1,0,,,,,,"",""
+ball,2,8.1,Sydney Thunder,O Davies,CJ Ferguson,AJ Tye,1,0,,,,,,"",""
+ball,2,8.2,Sydney Thunder,CJ Ferguson,O Davies,AJ Tye,0,0,,,,,,"",""
+ball,2,8.3,Sydney Thunder,CJ Ferguson,O Davies,AJ Tye,1,0,,,,,,"",""
+ball,2,8.4,Sydney Thunder,O Davies,CJ Ferguson,AJ Tye,1,0,,,,,,"",""
+ball,2,8.5,Sydney Thunder,CJ Ferguson,O Davies,AJ Tye,0,1,1,,,,,"",""
+ball,2,8.6,Sydney Thunder,CJ Ferguson,O Davies,AJ Tye,0,0,,,,,,"",""
+ball,2,8.7,Sydney Thunder,CJ Ferguson,O Davies,AJ Tye,0,0,,,,,,"",""
+ball,2,9.1,Sydney Thunder,O Davies,CJ Ferguson,AM Hardie,0,1,,,,1,,"",""
+ball,2,9.2,Sydney Thunder,CJ Ferguson,O Davies,AM Hardie,2,0,,,,,,"",""
+ball,2,9.3,Sydney Thunder,CJ Ferguson,O Davies,AM Hardie,1,0,,,,,,"",""
+ball,2,9.4,Sydney Thunder,O Davies,CJ Ferguson,AM Hardie,0,0,,,,,,"",""
+ball,2,9.5,Sydney Thunder,O Davies,CJ Ferguson,AM Hardie,0,0,,,,,,"",""
+ball,2,9.6,Sydney Thunder,O Davies,CJ Ferguson,AM Hardie,1,0,,,,,,"",""
+ball,2,10.1,Sydney Thunder,O Davies,CJ Ferguson,JP Behrendorff,6,0,,,,,,"",""
+ball,2,10.2,Sydney Thunder,O Davies,CJ Ferguson,JP Behrendorff,1,0,,,,,,"",""
+ball,2,10.3,Sydney Thunder,CJ Ferguson,O Davies,JP Behrendorff,1,0,,,,,,"",""
+ball,2,10.4,Sydney Thunder,O Davies,CJ Ferguson,JP Behrendorff,6,0,,,,,,"",""
+ball,2,10.5,Sydney Thunder,O Davies,CJ Ferguson,JP Behrendorff,0,0,,,,,,"",""
+ball,2,10.6,Sydney Thunder,O Davies,CJ Ferguson,JP Behrendorff,1,0,,,,,,"",""
+ball,2,11.1,Sydney Thunder,O Davies,CJ Ferguson,Fawad Ahmed,0,0,,,,,,"",""
+ball,2,11.2,Sydney Thunder,O Davies,CJ Ferguson,Fawad Ahmed,1,0,,,,,,"",""
+ball,2,11.3,Sydney Thunder,CJ Ferguson,O Davies,Fawad Ahmed,0,0,,,,,,"",""
+ball,2,11.4,Sydney Thunder,CJ Ferguson,O Davies,Fawad Ahmed,0,0,,,,,,"",""
+ball,2,11.5,Sydney Thunder,CJ Ferguson,O Davies,Fawad Ahmed,1,0,,,,,,"",""
+ball,2,11.6,Sydney Thunder,O Davies,CJ Ferguson,Fawad Ahmed,4,0,,,,,,"",""
+ball,2,12.1,Sydney Thunder,CJ Ferguson,O Davies,AM Hardie,0,1,1,,,,,"",""
+ball,2,12.2,Sydney Thunder,CJ Ferguson,O Davies,AM Hardie,1,0,,,,,,"",""
+ball,2,12.3,Sydney Thunder,O Davies,CJ Ferguson,AM Hardie,2,0,,,,,,"",""
+ball,2,12.4,Sydney Thunder,O Davies,CJ Ferguson,AM Hardie,0,1,1,,,,,"",""
+ball,2,12.5,Sydney Thunder,O Davies,CJ Ferguson,AM Hardie,1,0,,,,,,"",""
+ball,2,12.6,Sydney Thunder,CJ Ferguson,O Davies,AM Hardie,6,0,,,,,,"",""
+ball,2,12.7,Sydney Thunder,CJ Ferguson,O Davies,AM Hardie,0,0,,,,,,"",""
+ball,2,12.8,Sydney Thunder,CJ Ferguson,O Davies,AM Hardie,4,0,,,,,,"",""
+ball,2,13.1,Sydney Thunder,O Davies,CJ Ferguson,Fawad Ahmed,1,0,,,,,,"",""
+ball,2,13.2,Sydney Thunder,CJ Ferguson,O Davies,Fawad Ahmed,4,0,,,,,,"",""
+ball,2,13.3,Sydney Thunder,CJ Ferguson,O Davies,Fawad Ahmed,1,0,,,,,,"",""
+ball,2,13.4,Sydney Thunder,O Davies,CJ Ferguson,Fawad Ahmed,2,0,,,,,,"",""
+ball,2,13.5,Sydney Thunder,O Davies,CJ Ferguson,Fawad Ahmed,6,0,,,,,,"",""
+ball,2,13.6,Sydney Thunder,O Davies,CJ Ferguson,Fawad Ahmed,0,0,,,,,,stumped,O Davies
+ball,2,14.1,Sydney Thunder,CJ Ferguson,BCJ Cutting,AM Hardie,1,0,,,,,,"",""
+ball,2,14.2,Sydney Thunder,BCJ Cutting,CJ Ferguson,AM Hardie,0,0,,,,,,"",""
+ball,2,14.3,Sydney Thunder,BCJ Cutting,CJ Ferguson,AM Hardie,0,0,,,,,,"",""
+ball,2,14.4,Sydney Thunder,BCJ Cutting,CJ Ferguson,AM Hardie,1,0,,,,,,"",""
+ball,2,14.5,Sydney Thunder,CJ Ferguson,BCJ Cutting,AM Hardie,4,0,,,,,,"",""
+ball,2,14.6,Sydney Thunder,CJ Ferguson,BCJ Cutting,AM Hardie,1,0,,,,,,"",""
+ball,2,15.1,Sydney Thunder,CJ Ferguson,BCJ Cutting,JA Richardson,1,0,,,,,,"",""
+ball,2,15.2,Sydney Thunder,BCJ Cutting,CJ Ferguson,JA Richardson,4,0,,,,,,"",""
+ball,2,15.3,Sydney Thunder,BCJ Cutting,CJ Ferguson,JA Richardson,6,0,,,,,,"",""
+ball,2,15.4,Sydney Thunder,BCJ Cutting,CJ Ferguson,JA Richardson,0,0,,,,,,"",""
+ball,2,15.5,Sydney Thunder,BCJ Cutting,CJ Ferguson,JA Richardson,1,0,,,,,,"",""
+ball,2,15.6,Sydney Thunder,CJ Ferguson,BCJ Cutting,JA Richardson,3,0,,,,,,"",""
+ball,2,16.1,Sydney Thunder,CJ Ferguson,BCJ Cutting,AJ Tye,0,0,,,,,,"",""
+ball,2,16.2,Sydney Thunder,CJ Ferguson,BCJ Cutting,AJ Tye,0,0,,,,,,"",""
+ball,2,16.3,Sydney Thunder,CJ Ferguson,BCJ Cutting,AJ Tye,2,0,,,,,,"",""
+ball,2,16.4,Sydney Thunder,CJ Ferguson,BCJ Cutting,AJ Tye,0,0,,,,,,"",""
+ball,2,16.5,Sydney Thunder,CJ Ferguson,BCJ Cutting,AJ Tye,0,1,1,,,,,"",""
+ball,2,16.6,Sydney Thunder,CJ Ferguson,BCJ Cutting,AJ Tye,1,0,,,,,,"",""
+ball,2,16.7,Sydney Thunder,BCJ Cutting,CJ Ferguson,AJ Tye,0,0,,,,,,"",""
+ball,2,17.1,Sydney Thunder,CJ Ferguson,BCJ Cutting,Fawad Ahmed,0,0,,,,,,"",""
+ball,2,17.2,Sydney Thunder,CJ Ferguson,BCJ Cutting,Fawad Ahmed,0,0,,,,,,"",""
+ball,2,17.3,Sydney Thunder,CJ Ferguson,BCJ Cutting,Fawad Ahmed,0,0,,,,,,"",""
+ball,2,17.4,Sydney Thunder,CJ Ferguson,BCJ Cutting,Fawad Ahmed,0,0,,,,,,"",""
+ball,2,17.5,Sydney Thunder,CJ Ferguson,BCJ Cutting,Fawad Ahmed,2,0,,,,,,"",""
+ball,2,17.6,Sydney Thunder,CJ Ferguson,BCJ Cutting,Fawad Ahmed,1,0,,,,,,"",""
+ball,2,18.1,Sydney Thunder,CJ Ferguson,BCJ Cutting,JA Richardson,1,0,,,,,,"",""
+ball,2,18.2,Sydney Thunder,BCJ Cutting,CJ Ferguson,JA Richardson,2,0,,,,,,"",""
+ball,2,18.3,Sydney Thunder,BCJ Cutting,CJ Ferguson,JA Richardson,4,0,,,,,,"",""
+ball,2,18.4,Sydney Thunder,BCJ Cutting,CJ Ferguson,JA Richardson,0,0,,,,,,"",""
+ball,2,18.5,Sydney Thunder,BCJ Cutting,CJ Ferguson,JA Richardson,2,0,,,,,,"",""
+ball,2,18.6,Sydney Thunder,BCJ Cutting,CJ Ferguson,JA Richardson,1,0,,,,,,"",""
+ball,2,19.1,Sydney Thunder,BCJ Cutting,CJ Ferguson,AJ Tye,4,0,,,,,,"",""
+ball,2,19.2,Sydney Thunder,BCJ Cutting,CJ Ferguson,AJ Tye,0,0,,,,,,"",""
+ball,2,19.3,Sydney Thunder,BCJ Cutting,CJ Ferguson,AJ Tye,4,0,,,,,,"",""

@@ -1,0 +1,306 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Durban's Super Giants
+info,team,Joburg Super Kings
+info,gender,male
+info,season,2023/24
+info,date,2024/02/08
+info,event,SA20
+info,venue,"The Wanderers Stadium, Johannesburg"
+info,city,Johannesburg
+info,toss_winner,Joburg Super Kings
+info,toss_decision,field
+info,player_of_match,H Klaasen
+info,umpire,A Jacobs
+info,umpire,Stephen Harris
+info,reserve_umpire,Siphelele Gasa
+info,tv_umpire,LB Gcuma
+info,match_referee,SB Lambson
+info,winner,Durban's Super Giants
+info,winner_runs,69
+info,player,Durban's Super Giants,MP Breetzke
+info,player,Durban's Super Giants,Q de Kock
+info,player,Durban's Super Giants,JT Smuts
+info,player,Durban's Super Giants,PBB Rajapaksa
+info,player,Durban's Super Giants,H Klaasen
+info,player,Durban's Super Giants,PWA Mulder
+info,player,Durban's Super Giants,D Pretorius
+info,player,Durban's Super Giants,KA Maharaj
+info,player,Durban's Super Giants,CJ Dala
+info,player,Durban's Super Giants,Naveen-ul-Haq
+info,player,Durban's Super Giants,RJW Topley
+info,player,Joburg Super Kings,F du Plessis
+info,player,Joburg Super Kings,JL du Plooy
+info,player,Joburg Super Kings,RR Hendricks
+info,player,Joburg Super Kings,BS Makhanya
+info,player,Joburg Super Kings,MM Ali
+info,player,Joburg Super Kings,D Ferreira
+info,player,Joburg Super Kings,DAJ Bracewell
+info,player,Joburg Super Kings,Dayyaan Galiem
+info,player,Joburg Super Kings,SJ Cook
+info,player,Joburg Super Kings,N Burger
+info,player,Joburg Super Kings,Imran Tahir
+info,registry,people,A Jacobs,70d117de
+info,registry,people,BS Makhanya,1b42a100
+info,registry,people,CJ Dala,1cb14aa4
+info,registry,people,D Ferreira,f0af99a7
+info,registry,people,D Pretorius,11614d87
+info,registry,people,DAJ Bracewell,2e9fdf9b
+info,registry,people,Dayyaan Galiem,47c449c5
+info,registry,people,F du Plessis,3355b542
+info,registry,people,H Klaasen,235c2bb6
+info,registry,people,Imran Tahir,acee4cc4
+info,registry,people,JL du Plooy,6e6fb538
+info,registry,people,JT Smuts,42172c3c
+info,registry,people,KA Maharaj,0b60eb09
+info,registry,people,LB Gcuma,02ba88e3
+info,registry,people,MM Ali,bb351c23
+info,registry,people,MP Breetzke,35f173a0
+info,registry,people,N Burger,465aa633
+info,registry,people,Naveen-ul-Haq,c0c411cb
+info,registry,people,PBB Rajapaksa,6c882e9a
+info,registry,people,PWA Mulder,c96f6ac5
+info,registry,people,Q de Kock,372455c4
+info,registry,people,RJW Topley,8db7f47f
+info,registry,people,RR Hendricks,b8cc58c9
+info,registry,people,SB Lambson,4146063f
+info,registry,people,SJ Cook,679cd31e
+info,registry,people,Siphelele Gasa,e50baa87
+info,registry,people,Stephen Harris,fdcfd4aa
+ball,1,0.1,Durban's Super Giants,MP Breetzke,Q de Kock,MM Ali,1,0,,,,,,"",""
+ball,1,0.2,Durban's Super Giants,Q de Kock,MP Breetzke,MM Ali,4,0,,,,,,"",""
+ball,1,0.3,Durban's Super Giants,Q de Kock,MP Breetzke,MM Ali,0,0,,,,,,"",""
+ball,1,0.4,Durban's Super Giants,Q de Kock,MP Breetzke,MM Ali,0,0,,,,,,"",""
+ball,1,0.5,Durban's Super Giants,Q de Kock,MP Breetzke,MM Ali,0,0,,,,,,"",""
+ball,1,0.6,Durban's Super Giants,Q de Kock,MP Breetzke,MM Ali,4,0,,,,,,"",""
+ball,1,1.1,Durban's Super Giants,MP Breetzke,Q de Kock,SJ Cook,2,0,,,,,,"",""
+ball,1,1.2,Durban's Super Giants,MP Breetzke,Q de Kock,SJ Cook,0,0,,,,,,"",""
+ball,1,1.3,Durban's Super Giants,MP Breetzke,Q de Kock,SJ Cook,4,0,,,,,,"",""
+ball,1,1.4,Durban's Super Giants,MP Breetzke,Q de Kock,SJ Cook,0,0,,,,,,"",""
+ball,1,1.5,Durban's Super Giants,MP Breetzke,Q de Kock,SJ Cook,0,0,,,,,,"",""
+ball,1,1.6,Durban's Super Giants,MP Breetzke,Q de Kock,SJ Cook,4,0,,,,,,"",""
+ball,1,2.1,Durban's Super Giants,Q de Kock,MP Breetzke,N Burger,4,0,,,,,,"",""
+ball,1,2.2,Durban's Super Giants,Q de Kock,MP Breetzke,N Burger,0,0,,,,,,"",""
+ball,1,2.3,Durban's Super Giants,Q de Kock,MP Breetzke,N Burger,0,0,,,,,,"",""
+ball,1,2.4,Durban's Super Giants,Q de Kock,MP Breetzke,N Burger,2,0,,,,,,"",""
+ball,1,2.5,Durban's Super Giants,Q de Kock,MP Breetzke,N Burger,0,0,,,,,,"",""
+ball,1,2.6,Durban's Super Giants,Q de Kock,MP Breetzke,N Burger,4,0,,,,,,"",""
+ball,1,3.1,Durban's Super Giants,MP Breetzke,Q de Kock,SJ Cook,1,0,,,,,,"",""
+ball,1,3.2,Durban's Super Giants,Q de Kock,MP Breetzke,SJ Cook,0,0,,,,,,"",""
+ball,1,3.3,Durban's Super Giants,Q de Kock,MP Breetzke,SJ Cook,4,0,,,,,,"",""
+ball,1,3.4,Durban's Super Giants,Q de Kock,MP Breetzke,SJ Cook,0,1,,,,1,,"",""
+ball,1,3.5,Durban's Super Giants,MP Breetzke,Q de Kock,SJ Cook,0,0,,,,,,"",""
+ball,1,3.6,Durban's Super Giants,MP Breetzke,Q de Kock,SJ Cook,0,0,,,,,,lbw,MP Breetzke
+ball,1,4.1,Durban's Super Giants,Q de Kock,JT Smuts,N Burger,0,0,,,,,,"",""
+ball,1,4.2,Durban's Super Giants,Q de Kock,JT Smuts,N Burger,1,0,,,,,,"",""
+ball,1,4.3,Durban's Super Giants,JT Smuts,Q de Kock,N Burger,1,0,,,,,,"",""
+ball,1,4.4,Durban's Super Giants,Q de Kock,JT Smuts,N Burger,0,0,,,,,,bowled,Q de Kock
+ball,1,4.5,Durban's Super Giants,PBB Rajapaksa,JT Smuts,N Burger,0,0,,,,,,"",""
+ball,1,4.6,Durban's Super Giants,PBB Rajapaksa,JT Smuts,N Burger,4,0,,,,,,"",""
+ball,1,5.1,Durban's Super Giants,JT Smuts,PBB Rajapaksa,DAJ Bracewell,0,0,,,,,,"",""
+ball,1,5.2,Durban's Super Giants,JT Smuts,PBB Rajapaksa,DAJ Bracewell,4,0,,,,,,"",""
+ball,1,5.3,Durban's Super Giants,JT Smuts,PBB Rajapaksa,DAJ Bracewell,0,0,,,,,,"",""
+ball,1,5.4,Durban's Super Giants,JT Smuts,PBB Rajapaksa,DAJ Bracewell,0,0,,,,,,"",""
+ball,1,5.5,Durban's Super Giants,JT Smuts,PBB Rajapaksa,DAJ Bracewell,0,0,,,,,,"",""
+ball,1,5.6,Durban's Super Giants,JT Smuts,PBB Rajapaksa,DAJ Bracewell,1,0,,,,,,"",""
+ball,1,6.1,Durban's Super Giants,JT Smuts,PBB Rajapaksa,Dayyaan Galiem,4,0,,,,,,"",""
+ball,1,6.2,Durban's Super Giants,JT Smuts,PBB Rajapaksa,Dayyaan Galiem,1,0,,,,,,"",""
+ball,1,6.3,Durban's Super Giants,PBB Rajapaksa,JT Smuts,Dayyaan Galiem,1,0,,,,,,"",""
+ball,1,6.4,Durban's Super Giants,JT Smuts,PBB Rajapaksa,Dayyaan Galiem,0,0,,,,,,"",""
+ball,1,6.5,Durban's Super Giants,JT Smuts,PBB Rajapaksa,Dayyaan Galiem,0,0,,,,,,"",""
+ball,1,6.6,Durban's Super Giants,JT Smuts,PBB Rajapaksa,Dayyaan Galiem,0,0,,,,,,caught,JT Smuts
+ball,1,7.1,Durban's Super Giants,PBB Rajapaksa,H Klaasen,Imran Tahir,1,0,,,,,,"",""
+ball,1,7.2,Durban's Super Giants,H Klaasen,PBB Rajapaksa,Imran Tahir,1,0,,,,,,"",""
+ball,1,7.3,Durban's Super Giants,PBB Rajapaksa,H Klaasen,Imran Tahir,4,0,,,,,,"",""
+ball,1,7.4,Durban's Super Giants,PBB Rajapaksa,H Klaasen,Imran Tahir,4,0,,,,,,"",""
+ball,1,7.5,Durban's Super Giants,PBB Rajapaksa,H Klaasen,Imran Tahir,1,0,,,,,,"",""
+ball,1,7.6,Durban's Super Giants,H Klaasen,PBB Rajapaksa,Imran Tahir,1,0,,,,,,"",""
+ball,1,8.1,Durban's Super Giants,H Klaasen,PBB Rajapaksa,Dayyaan Galiem,1,0,,,,,,"",""
+ball,1,8.2,Durban's Super Giants,PBB Rajapaksa,H Klaasen,Dayyaan Galiem,4,0,,,,,,"",""
+ball,1,8.3,Durban's Super Giants,PBB Rajapaksa,H Klaasen,Dayyaan Galiem,1,0,,,,,,"",""
+ball,1,8.4,Durban's Super Giants,H Klaasen,PBB Rajapaksa,Dayyaan Galiem,2,0,,,,,,"",""
+ball,1,8.5,Durban's Super Giants,H Klaasen,PBB Rajapaksa,Dayyaan Galiem,1,0,,,,,,"",""
+ball,1,8.6,Durban's Super Giants,PBB Rajapaksa,H Klaasen,Dayyaan Galiem,0,0,,,,,,"",""
+ball,1,9.1,Durban's Super Giants,H Klaasen,PBB Rajapaksa,Imran Tahir,1,0,,,,,,"",""
+ball,1,9.2,Durban's Super Giants,PBB Rajapaksa,H Klaasen,Imran Tahir,0,0,,,,,,"",""
+ball,1,9.3,Durban's Super Giants,PBB Rajapaksa,H Klaasen,Imran Tahir,0,0,,,,,,"",""
+ball,1,9.4,Durban's Super Giants,PBB Rajapaksa,H Klaasen,Imran Tahir,1,0,,,,,,"",""
+ball,1,9.5,Durban's Super Giants,H Klaasen,PBB Rajapaksa,Imran Tahir,1,0,,,,,,"",""
+ball,1,9.6,Durban's Super Giants,PBB Rajapaksa,H Klaasen,Imran Tahir,1,0,,,,,,"",""
+ball,1,10.1,Durban's Super Giants,PBB Rajapaksa,H Klaasen,Dayyaan Galiem,1,0,,,,,,"",""
+ball,1,10.2,Durban's Super Giants,H Klaasen,PBB Rajapaksa,Dayyaan Galiem,2,0,,,,,,"",""
+ball,1,10.3,Durban's Super Giants,H Klaasen,PBB Rajapaksa,Dayyaan Galiem,1,0,,,,,,"",""
+ball,1,10.4,Durban's Super Giants,PBB Rajapaksa,H Klaasen,Dayyaan Galiem,4,0,,,,,,"",""
+ball,1,10.5,Durban's Super Giants,PBB Rajapaksa,H Klaasen,Dayyaan Galiem,4,0,,,,,,"",""
+ball,1,10.6,Durban's Super Giants,PBB Rajapaksa,H Klaasen,Dayyaan Galiem,1,0,,,,,,"",""
+ball,1,11.1,Durban's Super Giants,PBB Rajapaksa,H Klaasen,N Burger,1,0,,,,,,"",""
+ball,1,11.2,Durban's Super Giants,H Klaasen,PBB Rajapaksa,N Burger,1,0,,,,,,"",""
+ball,1,11.3,Durban's Super Giants,PBB Rajapaksa,H Klaasen,N Burger,1,0,,,,,,"",""
+ball,1,11.4,Durban's Super Giants,H Klaasen,PBB Rajapaksa,N Burger,1,0,,,,,,"",""
+ball,1,11.5,Durban's Super Giants,PBB Rajapaksa,H Klaasen,N Burger,0,0,,,,,,"",""
+ball,1,11.6,Durban's Super Giants,PBB Rajapaksa,H Klaasen,N Burger,1,0,,,,,,"",""
+ball,1,12.1,Durban's Super Giants,PBB Rajapaksa,H Klaasen,DAJ Bracewell,0,0,,,,,,caught,PBB Rajapaksa
+ball,1,12.2,Durban's Super Giants,PWA Mulder,H Klaasen,DAJ Bracewell,0,0,,,,,,"",""
+ball,1,12.3,Durban's Super Giants,PWA Mulder,H Klaasen,DAJ Bracewell,1,0,,,,,,"",""
+ball,1,12.4,Durban's Super Giants,H Klaasen,PWA Mulder,DAJ Bracewell,1,0,,,,,,"",""
+ball,1,12.5,Durban's Super Giants,PWA Mulder,H Klaasen,DAJ Bracewell,0,0,,,,,,"",""
+ball,1,12.6,Durban's Super Giants,PWA Mulder,H Klaasen,DAJ Bracewell,2,0,,,,,,"",""
+ball,1,13.1,Durban's Super Giants,H Klaasen,PWA Mulder,Dayyaan Galiem,1,0,,,,,,"",""
+ball,1,13.2,Durban's Super Giants,PWA Mulder,H Klaasen,Dayyaan Galiem,2,0,,,,,,"",""
+ball,1,13.3,Durban's Super Giants,PWA Mulder,H Klaasen,Dayyaan Galiem,0,0,,,,,,"",""
+ball,1,13.4,Durban's Super Giants,PWA Mulder,H Klaasen,Dayyaan Galiem,2,0,,,,,,"",""
+ball,1,13.5,Durban's Super Giants,PWA Mulder,H Klaasen,Dayyaan Galiem,4,0,,,,,,"",""
+ball,1,13.6,Durban's Super Giants,PWA Mulder,H Klaasen,Dayyaan Galiem,1,0,,,,,,"",""
+ball,1,14.1,Durban's Super Giants,PWA Mulder,H Klaasen,Imran Tahir,6,0,,,,,,"",""
+ball,1,14.2,Durban's Super Giants,PWA Mulder,H Klaasen,Imran Tahir,1,0,,,,,,"",""
+ball,1,14.3,Durban's Super Giants,H Klaasen,PWA Mulder,Imran Tahir,6,0,,,,,,"",""
+ball,1,14.4,Durban's Super Giants,H Klaasen,PWA Mulder,Imran Tahir,6,0,,,,,,"",""
+ball,1,14.5,Durban's Super Giants,H Klaasen,PWA Mulder,Imran Tahir,4,0,,,,,,"",""
+ball,1,14.6,Durban's Super Giants,H Klaasen,PWA Mulder,Imran Tahir,6,0,,,,,,"",""
+ball,1,15.1,Durban's Super Giants,PWA Mulder,H Klaasen,SJ Cook,4,0,,,,,,"",""
+ball,1,15.2,Durban's Super Giants,PWA Mulder,H Klaasen,SJ Cook,1,0,,,,,,"",""
+ball,1,15.3,Durban's Super Giants,H Klaasen,PWA Mulder,SJ Cook,4,0,,,,,,"",""
+ball,1,15.4,Durban's Super Giants,H Klaasen,PWA Mulder,SJ Cook,1,0,,,,,,"",""
+ball,1,15.5,Durban's Super Giants,PWA Mulder,H Klaasen,SJ Cook,2,0,,,,,,"",""
+ball,1,15.6,Durban's Super Giants,PWA Mulder,H Klaasen,SJ Cook,2,0,,,,,,"",""
+ball,1,16.1,Durban's Super Giants,H Klaasen,PWA Mulder,DAJ Bracewell,6,0,,,,,,"",""
+ball,1,16.2,Durban's Super Giants,H Klaasen,PWA Mulder,DAJ Bracewell,1,0,,,,,,"",""
+ball,1,16.3,Durban's Super Giants,PWA Mulder,H Klaasen,DAJ Bracewell,1,0,,,,,,"",""
+ball,1,16.4,Durban's Super Giants,H Klaasen,PWA Mulder,DAJ Bracewell,1,0,,,,,,"",""
+ball,1,16.5,Durban's Super Giants,PWA Mulder,H Klaasen,DAJ Bracewell,1,0,,,,,,"",""
+ball,1,16.6,Durban's Super Giants,H Klaasen,PWA Mulder,DAJ Bracewell,1,0,,,,,,"",""
+ball,1,17.1,Durban's Super Giants,H Klaasen,PWA Mulder,SJ Cook,6,0,,,,,,"",""
+ball,1,17.2,Durban's Super Giants,H Klaasen,PWA Mulder,SJ Cook,6,0,,,,,,"",""
+ball,1,17.3,Durban's Super Giants,H Klaasen,PWA Mulder,SJ Cook,6,0,,,,,,"",""
+ball,1,17.4,Durban's Super Giants,H Klaasen,PWA Mulder,SJ Cook,1,0,,,,,,"",""
+ball,1,17.5,Durban's Super Giants,PWA Mulder,H Klaasen,SJ Cook,6,0,,,,,,"",""
+ball,1,17.6,Durban's Super Giants,PWA Mulder,H Klaasen,SJ Cook,4,0,,,,,,"",""
+ball,1,18.1,Durban's Super Giants,H Klaasen,PWA Mulder,N Burger,4,0,,,,,,"",""
+ball,1,18.2,Durban's Super Giants,H Klaasen,PWA Mulder,N Burger,0,0,,,,,,"",""
+ball,1,18.3,Durban's Super Giants,H Klaasen,PWA Mulder,N Burger,0,0,,,,,,caught,H Klaasen
+ball,1,18.4,Durban's Super Giants,D Pretorius,PWA Mulder,N Burger,1,0,,,,,,"",""
+ball,1,18.5,Durban's Super Giants,PWA Mulder,D Pretorius,N Burger,1,0,,,,,,"",""
+ball,1,18.6,Durban's Super Giants,D Pretorius,PWA Mulder,N Burger,0,0,,,,,,"",""
+ball,1,19.1,Durban's Super Giants,PWA Mulder,D Pretorius,DAJ Bracewell,1,0,,,,,,"",""
+ball,1,19.2,Durban's Super Giants,D Pretorius,PWA Mulder,DAJ Bracewell,0,1,1,,,,,"",""
+ball,1,19.3,Durban's Super Giants,D Pretorius,PWA Mulder,DAJ Bracewell,2,0,,,,,,"",""
+ball,1,19.4,Durban's Super Giants,D Pretorius,PWA Mulder,DAJ Bracewell,0,0,,,,,,bowled,D Pretorius
+ball,1,19.5,Durban's Super Giants,KA Maharaj,PWA Mulder,DAJ Bracewell,1,0,,,,,,"",""
+ball,1,19.6,Durban's Super Giants,PWA Mulder,KA Maharaj,DAJ Bracewell,6,0,,,,,,"",""
+ball,1,19.7,Durban's Super Giants,PWA Mulder,KA Maharaj,DAJ Bracewell,2,0,,,,,,"",""
+ball,2,0.1,Joburg Super Kings,F du Plessis,JL du Plooy,RJW Topley,0,0,,,,,,"",""
+ball,2,0.2,Joburg Super Kings,F du Plessis,JL du Plooy,RJW Topley,0,0,,,,,,"",""
+ball,2,0.3,Joburg Super Kings,F du Plessis,JL du Plooy,RJW Topley,1,0,,,,,,"",""
+ball,2,0.4,Joburg Super Kings,JL du Plooy,F du Plessis,RJW Topley,1,0,,,,,,"",""
+ball,2,0.5,Joburg Super Kings,F du Plessis,JL du Plooy,RJW Topley,0,0,,,,,,"",""
+ball,2,0.6,Joburg Super Kings,F du Plessis,JL du Plooy,RJW Topley,1,0,,,,,,"",""
+ball,2,1.1,Joburg Super Kings,F du Plessis,JL du Plooy,Naveen-ul-Haq,1,0,,,,,,"",""
+ball,2,1.2,Joburg Super Kings,JL du Plooy,F du Plessis,Naveen-ul-Haq,1,0,,,,,,"",""
+ball,2,1.3,Joburg Super Kings,F du Plessis,JL du Plooy,Naveen-ul-Haq,0,0,,,,,,caught,F du Plessis
+ball,2,1.4,Joburg Super Kings,RR Hendricks,JL du Plooy,Naveen-ul-Haq,0,0,,,,,,"",""
+ball,2,1.5,Joburg Super Kings,RR Hendricks,JL du Plooy,Naveen-ul-Haq,0,0,,,,,,"",""
+ball,2,1.6,Joburg Super Kings,RR Hendricks,JL du Plooy,Naveen-ul-Haq,0,0,,,,,,"",""
+ball,2,2.1,Joburg Super Kings,JL du Plooy,RR Hendricks,RJW Topley,0,0,,,,,,"",""
+ball,2,2.2,Joburg Super Kings,JL du Plooy,RR Hendricks,RJW Topley,4,0,,,,,,"",""
+ball,2,2.3,Joburg Super Kings,JL du Plooy,RR Hendricks,RJW Topley,0,0,,,,,,"",""
+ball,2,2.4,Joburg Super Kings,JL du Plooy,RR Hendricks,RJW Topley,4,0,,,,,,"",""
+ball,2,2.5,Joburg Super Kings,JL du Plooy,RR Hendricks,RJW Topley,0,0,,,,,,caught,JL du Plooy
+ball,2,2.6,Joburg Super Kings,BS Makhanya,RR Hendricks,RJW Topley,1,0,,,,,,"",""
+ball,2,3.1,Joburg Super Kings,BS Makhanya,RR Hendricks,Naveen-ul-Haq,1,0,,,,,,"",""
+ball,2,3.2,Joburg Super Kings,RR Hendricks,BS Makhanya,Naveen-ul-Haq,0,0,,,,,,"",""
+ball,2,3.3,Joburg Super Kings,RR Hendricks,BS Makhanya,Naveen-ul-Haq,0,0,,,,,,"",""
+ball,2,3.4,Joburg Super Kings,RR Hendricks,BS Makhanya,Naveen-ul-Haq,0,0,,,,,,"",""
+ball,2,3.5,Joburg Super Kings,RR Hendricks,BS Makhanya,Naveen-ul-Haq,0,0,,,,,,"",""
+ball,2,3.6,Joburg Super Kings,RR Hendricks,BS Makhanya,Naveen-ul-Haq,1,0,,,,,,"",""
+ball,2,4.1,Joburg Super Kings,RR Hendricks,BS Makhanya,RJW Topley,3,0,,,,,,"",""
+ball,2,4.2,Joburg Super Kings,BS Makhanya,RR Hendricks,RJW Topley,0,0,,,,,,"",""
+ball,2,4.3,Joburg Super Kings,BS Makhanya,RR Hendricks,RJW Topley,0,0,,,,,,"",""
+ball,2,4.4,Joburg Super Kings,BS Makhanya,RR Hendricks,RJW Topley,4,0,,,,,,"",""
+ball,2,4.5,Joburg Super Kings,BS Makhanya,RR Hendricks,RJW Topley,1,0,,,,,,"",""
+ball,2,4.6,Joburg Super Kings,RR Hendricks,BS Makhanya,RJW Topley,4,0,,,,,,"",""
+ball,2,5.1,Joburg Super Kings,BS Makhanya,RR Hendricks,PWA Mulder,4,0,,,,,,"",""
+ball,2,5.2,Joburg Super Kings,BS Makhanya,RR Hendricks,PWA Mulder,0,0,,,,,,caught,BS Makhanya
+ball,2,5.3,Joburg Super Kings,MM Ali,RR Hendricks,PWA Mulder,0,0,,,,,,"",""
+ball,2,5.4,Joburg Super Kings,MM Ali,RR Hendricks,PWA Mulder,0,0,,,,,,"",""
+ball,2,5.5,Joburg Super Kings,MM Ali,RR Hendricks,PWA Mulder,0,0,,,,,,"",""
+ball,2,5.6,Joburg Super Kings,MM Ali,RR Hendricks,PWA Mulder,0,0,,,,,,"",""
+ball,2,6.1,Joburg Super Kings,RR Hendricks,MM Ali,CJ Dala,1,0,,,,,,"",""
+ball,2,6.2,Joburg Super Kings,MM Ali,RR Hendricks,CJ Dala,0,0,,,,,,"",""
+ball,2,6.3,Joburg Super Kings,MM Ali,RR Hendricks,CJ Dala,6,0,,,,,,"",""
+ball,2,6.4,Joburg Super Kings,MM Ali,RR Hendricks,CJ Dala,4,0,,,,,,"",""
+ball,2,6.5,Joburg Super Kings,MM Ali,RR Hendricks,CJ Dala,1,0,,,,,,"",""
+ball,2,6.6,Joburg Super Kings,RR Hendricks,MM Ali,CJ Dala,6,0,,,,,,"",""
+ball,2,7.1,Joburg Super Kings,MM Ali,RR Hendricks,PWA Mulder,0,0,,,,,,"",""
+ball,2,7.2,Joburg Super Kings,MM Ali,RR Hendricks,PWA Mulder,0,0,,,,,,"",""
+ball,2,7.3,Joburg Super Kings,MM Ali,RR Hendricks,PWA Mulder,0,0,,,,,,"",""
+ball,2,7.4,Joburg Super Kings,MM Ali,RR Hendricks,PWA Mulder,4,0,,,,,,"",""
+ball,2,7.5,Joburg Super Kings,MM Ali,RR Hendricks,PWA Mulder,0,0,,,,,,"",""
+ball,2,7.6,Joburg Super Kings,MM Ali,RR Hendricks,PWA Mulder,1,0,,,,,,"",""
+ball,2,8.1,Joburg Super Kings,MM Ali,RR Hendricks,CJ Dala,1,0,,,,,,"",""
+ball,2,8.2,Joburg Super Kings,RR Hendricks,MM Ali,CJ Dala,0,1,1,,,,,"",""
+ball,2,8.3,Joburg Super Kings,RR Hendricks,MM Ali,CJ Dala,0,0,,,,,,"",""
+ball,2,8.4,Joburg Super Kings,RR Hendricks,MM Ali,CJ Dala,0,1,1,,,,,"",""
+ball,2,8.5,Joburg Super Kings,RR Hendricks,MM Ali,CJ Dala,3,0,,,,,,"",""
+ball,2,8.6,Joburg Super Kings,MM Ali,RR Hendricks,CJ Dala,4,0,,,,,,"",""
+ball,2,8.7,Joburg Super Kings,MM Ali,RR Hendricks,CJ Dala,0,1,1,,,,,"",""
+ball,2,8.8,Joburg Super Kings,MM Ali,RR Hendricks,CJ Dala,0,0,,,,,,"",""
+ball,2,8.9,Joburg Super Kings,MM Ali,RR Hendricks,CJ Dala,4,0,,,,,,"",""
+ball,2,9.1,Joburg Super Kings,RR Hendricks,MM Ali,PWA Mulder,1,0,,,,,,"",""
+ball,2,9.2,Joburg Super Kings,MM Ali,RR Hendricks,PWA Mulder,0,0,,,,,,"",""
+ball,2,9.3,Joburg Super Kings,MM Ali,RR Hendricks,PWA Mulder,1,0,,,,,,"",""
+ball,2,9.4,Joburg Super Kings,RR Hendricks,MM Ali,PWA Mulder,4,0,,,,,,"",""
+ball,2,9.5,Joburg Super Kings,RR Hendricks,MM Ali,PWA Mulder,0,1,,,,1,,"",""
+ball,2,9.6,Joburg Super Kings,MM Ali,RR Hendricks,PWA Mulder,1,0,,,,,,"",""
+ball,2,10.1,Joburg Super Kings,MM Ali,RR Hendricks,KA Maharaj,0,1,1,,,,,"",""
+ball,2,10.2,Joburg Super Kings,MM Ali,RR Hendricks,KA Maharaj,1,0,,,,,,"",""
+ball,2,10.3,Joburg Super Kings,RR Hendricks,MM Ali,KA Maharaj,0,0,,,,,,"",""
+ball,2,10.4,Joburg Super Kings,RR Hendricks,MM Ali,KA Maharaj,1,0,,,,,,"",""
+ball,2,10.5,Joburg Super Kings,MM Ali,RR Hendricks,KA Maharaj,0,0,,,,,,"",""
+ball,2,10.6,Joburg Super Kings,MM Ali,RR Hendricks,KA Maharaj,2,0,,,,,,"",""
+ball,2,10.7,Joburg Super Kings,MM Ali,RR Hendricks,KA Maharaj,0,0,,,,,,"",""
+ball,2,11.1,Joburg Super Kings,RR Hendricks,MM Ali,D Pretorius,1,0,,,,,,"",""
+ball,2,11.2,Joburg Super Kings,MM Ali,RR Hendricks,D Pretorius,0,1,1,,,,,"",""
+ball,2,11.3,Joburg Super Kings,MM Ali,RR Hendricks,D Pretorius,0,1,1,,,,,"",""
+ball,2,11.4,Joburg Super Kings,MM Ali,RR Hendricks,D Pretorius,0,0,,,,,,bowled,MM Ali
+ball,2,11.5,Joburg Super Kings,D Ferreira,RR Hendricks,D Pretorius,0,1,1,,,,,"",""
+ball,2,11.6,Joburg Super Kings,D Ferreira,RR Hendricks,D Pretorius,2,0,,,,,,"",""
+ball,2,11.7,Joburg Super Kings,D Ferreira,RR Hendricks,D Pretorius,4,0,,,,,,"",""
+ball,2,11.8,Joburg Super Kings,D Ferreira,RR Hendricks,D Pretorius,1,0,,,,,,"",""
+ball,2,11.9,Joburg Super Kings,RR Hendricks,D Ferreira,D Pretorius,0,0,,,,,,"",""
+ball,2,12.1,Joburg Super Kings,D Ferreira,RR Hendricks,KA Maharaj,1,0,,,,,,"",""
+ball,2,12.2,Joburg Super Kings,RR Hendricks,D Ferreira,KA Maharaj,1,0,,,,,,"",""
+ball,2,12.3,Joburg Super Kings,D Ferreira,RR Hendricks,KA Maharaj,6,0,,,,,,"",""
+ball,2,12.4,Joburg Super Kings,D Ferreira,RR Hendricks,KA Maharaj,1,0,,,,,,"",""
+ball,2,12.5,Joburg Super Kings,RR Hendricks,D Ferreira,KA Maharaj,1,0,,,,,,"",""
+ball,2,12.6,Joburg Super Kings,D Ferreira,RR Hendricks,KA Maharaj,4,0,,,,,,"",""
+ball,2,13.1,Joburg Super Kings,RR Hendricks,D Ferreira,D Pretorius,0,0,,,,,,caught,RR Hendricks
+ball,2,13.2,Joburg Super Kings,DAJ Bracewell,D Ferreira,D Pretorius,1,0,,,,,,"",""
+ball,2,13.3,Joburg Super Kings,D Ferreira,DAJ Bracewell,D Pretorius,0,0,,,,,,"",""
+ball,2,13.4,Joburg Super Kings,D Ferreira,DAJ Bracewell,D Pretorius,0,0,,,,,,"",""
+ball,2,13.5,Joburg Super Kings,D Ferreira,DAJ Bracewell,D Pretorius,1,0,,,,,,"",""
+ball,2,13.6,Joburg Super Kings,DAJ Bracewell,D Ferreira,D Pretorius,4,0,,,,,,"",""
+ball,2,14.1,Joburg Super Kings,D Ferreira,DAJ Bracewell,Naveen-ul-Haq,4,0,,,,,,"",""
+ball,2,14.2,Joburg Super Kings,D Ferreira,DAJ Bracewell,Naveen-ul-Haq,0,0,,,,,,caught,D Ferreira
+ball,2,14.3,Joburg Super Kings,Dayyaan Galiem,DAJ Bracewell,Naveen-ul-Haq,0,0,,,,,,"",""
+ball,2,14.4,Joburg Super Kings,Dayyaan Galiem,DAJ Bracewell,Naveen-ul-Haq,1,0,,,,,,"",""
+ball,2,14.5,Joburg Super Kings,DAJ Bracewell,Dayyaan Galiem,Naveen-ul-Haq,2,0,,,,,,"",""
+ball,2,14.6,Joburg Super Kings,DAJ Bracewell,Dayyaan Galiem,Naveen-ul-Haq,4,0,,,,,,"",""
+ball,2,15.1,Joburg Super Kings,Dayyaan Galiem,DAJ Bracewell,CJ Dala,0,0,,,,,,caught,Dayyaan Galiem
+ball,2,15.2,Joburg Super Kings,SJ Cook,DAJ Bracewell,CJ Dala,0,0,,,,,,caught and bowled,SJ Cook
+ball,2,15.3,Joburg Super Kings,N Burger,DAJ Bracewell,CJ Dala,0,0,,,,,,"",""
+ball,2,15.4,Joburg Super Kings,N Burger,DAJ Bracewell,CJ Dala,1,0,,,,,,"",""
+ball,2,15.5,Joburg Super Kings,DAJ Bracewell,N Burger,CJ Dala,0,1,1,,,,,"",""
+ball,2,15.6,Joburg Super Kings,DAJ Bracewell,N Burger,CJ Dala,0,0,,,,,,"",""
+ball,2,15.7,Joburg Super Kings,DAJ Bracewell,N Burger,CJ Dala,1,0,,,,,,"",""
+ball,2,16.1,Joburg Super Kings,DAJ Bracewell,N Burger,Naveen-ul-Haq,0,1,1,,,,,"",""
+ball,2,16.2,Joburg Super Kings,DAJ Bracewell,N Burger,Naveen-ul-Haq,0,0,,,,,,"",""
+ball,2,16.3,Joburg Super Kings,DAJ Bracewell,N Burger,Naveen-ul-Haq,6,0,,,,,,"",""
+ball,2,16.4,Joburg Super Kings,DAJ Bracewell,N Burger,Naveen-ul-Haq,4,0,,,,,,"",""
+ball,2,16.5,Joburg Super Kings,DAJ Bracewell,N Burger,Naveen-ul-Haq,0,0,,,,,,"",""
+ball,2,16.6,Joburg Super Kings,DAJ Bracewell,N Burger,Naveen-ul-Haq,1,0,,,,,,"",""
+ball,2,16.7,Joburg Super Kings,N Burger,DAJ Bracewell,Naveen-ul-Haq,0,0,,,,,,"",""
+ball,2,17.1,Joburg Super Kings,DAJ Bracewell,N Burger,CJ Dala,0,0,,,,,,caught,DAJ Bracewell
+ball,2,17.2,Joburg Super Kings,Imran Tahir,N Burger,CJ Dala,0,1,1,,,,,"",""
+ball,2,17.3,Joburg Super Kings,Imran Tahir,N Burger,CJ Dala,0,0,,,,,,"",""
+ball,2,17.4,Joburg Super Kings,Imran Tahir,N Burger,CJ Dala,1,0,,,,,,"",""
+ball,2,17.5,Joburg Super Kings,N Burger,Imran Tahir,CJ Dala,0,0,,,,,,bowled,N Burger

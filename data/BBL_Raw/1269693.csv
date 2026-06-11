@@ -1,0 +1,319 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Melbourne Stars
+info,team,Hobart Hurricanes
+info,gender,male
+info,season,2021/22
+info,date,2022/01/19
+info,event,Big Bash League
+info,match_number,56
+info,venue,Melbourne Cricket Ground
+info,city,Melbourne
+info,toss_winner,Hobart Hurricanes
+info,toss_decision,field
+info,player_of_match,GJ Maxwell
+info,umpire,DM Koch
+info,umpire,GA Abood
+info,reserve_umpire,D Brigham
+info,tv_umpire,BC Treloar
+info,match_referee,RW Stratford
+info,winner,Melbourne Stars
+info,winner_runs,106
+info,player,Melbourne Stars,GJ Maxwell
+info,player,Melbourne Stars,JM Clarke
+info,player,Melbourne Stars,NCR Larkin
+info,player,Melbourne Stars,MP Stoinis
+info,player,Melbourne Stars,BJ Webster
+info,player,Melbourne Stars,HWR Cartwright
+info,player,Melbourne Stars,CD Hinchliffe
+info,player,Melbourne Stars,TL O'Connell
+info,player,Melbourne Stars,NM Coulter-Nile
+info,player,Melbourne Stars,SM Elliott
+info,player,Melbourne Stars,BL Couch
+info,player,Hobart Hurricanes,W Sanders
+info,player,Hobart Hurricanes,CP Jewell
+info,player,Hobart Hurricanes,BR McDermott
+info,player,Hobart Hurricanes,JA Thompson
+info,player,Hobart Hurricanes,MS Wade
+info,player,Hobart Hurricanes,DJM Short
+info,player,Hobart Hurricanes,PSP Handscomb
+info,player,Hobart Hurricanes,TH David
+info,player,Hobart Hurricanes,MJ Owen
+info,player,Hobart Hurricanes,J Kann
+info,player,Hobart Hurricanes,W Parker
+info,player,Hobart Hurricanes,S Lamichhane
+info,registry,people,BC Treloar,f7e8ee52
+info,registry,people,BJ Webster,56b93d46
+info,registry,people,BL Couch,be69e09d
+info,registry,people,BR McDermott,c41043e6
+info,registry,people,CD Hinchliffe,8891669e
+info,registry,people,CP Jewell,806c4e58
+info,registry,people,D Brigham,464daf41
+info,registry,people,DJM Short,1a156c88
+info,registry,people,DM Koch,6d10c034
+info,registry,people,GA Abood,a4af5528
+info,registry,people,GJ Maxwell,b681e71e
+info,registry,people,HWR Cartwright,ab965cad
+info,registry,people,J Kann,cccea5bc
+info,registry,people,JA Thompson,1d2f290a
+info,registry,people,JM Clarke,2eca67f5
+info,registry,people,MJ Owen,f2c936d7
+info,registry,people,MP Stoinis,d9273ee7
+info,registry,people,MS Wade,afa7e784
+info,registry,people,NCR Larkin,02bce9a8
+info,registry,people,NM Coulter-Nile,56ab442f
+info,registry,people,PSP Handscomb,ada15e88
+info,registry,people,RW Stratford,85489579
+info,registry,people,S Lamichhane,b410bd3d
+info,registry,people,SM Elliott,00cda8e4
+info,registry,people,TH David,f1f99156
+info,registry,people,TL O'Connell,859d95bb
+info,registry,people,W Parker,607c846c
+info,registry,people,W Sanders,068fe71c
+ball,1,0.1,Melbourne Stars,GJ Maxwell,JM Clarke,TH David,1,0,,,,,,"",""
+ball,1,0.2,Melbourne Stars,JM Clarke,GJ Maxwell,TH David,1,0,,,,,,"",""
+ball,1,0.3,Melbourne Stars,GJ Maxwell,JM Clarke,TH David,1,0,,,,,,"",""
+ball,1,0.4,Melbourne Stars,JM Clarke,GJ Maxwell,TH David,2,0,,,,,,"",""
+ball,1,0.5,Melbourne Stars,JM Clarke,GJ Maxwell,TH David,1,0,,,,,,"",""
+ball,1,0.6,Melbourne Stars,GJ Maxwell,JM Clarke,TH David,1,0,,,,,,"",""
+ball,1,1.1,Melbourne Stars,GJ Maxwell,JM Clarke,DJM Short,0,1,1,,,,,"",""
+ball,1,1.2,Melbourne Stars,GJ Maxwell,JM Clarke,DJM Short,0,1,1,,,,,"",""
+ball,1,1.3,Melbourne Stars,GJ Maxwell,JM Clarke,DJM Short,4,0,,,,,,"",""
+ball,1,1.4,Melbourne Stars,GJ Maxwell,JM Clarke,DJM Short,6,0,,,,,,"",""
+ball,1,1.5,Melbourne Stars,GJ Maxwell,JM Clarke,DJM Short,1,0,,,,,,"",""
+ball,1,1.6,Melbourne Stars,JM Clarke,GJ Maxwell,DJM Short,4,0,,,,,,"",""
+ball,1,1.7,Melbourne Stars,JM Clarke,GJ Maxwell,DJM Short,3,0,,,,,,"",""
+ball,1,1.8,Melbourne Stars,GJ Maxwell,JM Clarke,DJM Short,1,0,,,,,,"",""
+ball,1,2.1,Melbourne Stars,GJ Maxwell,JM Clarke,S Lamichhane,0,0,,,,,,"",""
+ball,1,2.2,Melbourne Stars,GJ Maxwell,JM Clarke,S Lamichhane,4,0,,,,,,"",""
+ball,1,2.3,Melbourne Stars,GJ Maxwell,JM Clarke,S Lamichhane,4,0,,,,,,"",""
+ball,1,2.4,Melbourne Stars,GJ Maxwell,JM Clarke,S Lamichhane,2,0,,,,,,"",""
+ball,1,2.5,Melbourne Stars,GJ Maxwell,JM Clarke,S Lamichhane,4,0,,,,,,"",""
+ball,1,2.6,Melbourne Stars,GJ Maxwell,JM Clarke,S Lamichhane,4,0,,,,,,"",""
+ball,1,3.1,Melbourne Stars,JM Clarke,GJ Maxwell,W Sanders,4,0,,,,,,"",""
+ball,1,3.2,Melbourne Stars,JM Clarke,GJ Maxwell,W Sanders,4,0,,,,,,"",""
+ball,1,3.3,Melbourne Stars,JM Clarke,GJ Maxwell,W Sanders,1,0,,,,,,"",""
+ball,1,3.4,Melbourne Stars,GJ Maxwell,JM Clarke,W Sanders,0,0,,,,,,"",""
+ball,1,3.5,Melbourne Stars,GJ Maxwell,JM Clarke,W Sanders,4,0,,,,,,"",""
+ball,1,3.6,Melbourne Stars,GJ Maxwell,JM Clarke,W Sanders,4,0,,,,,,"",""
+ball,1,4.1,Melbourne Stars,JM Clarke,GJ Maxwell,MJ Owen,1,0,,,,,,"",""
+ball,1,4.2,Melbourne Stars,GJ Maxwell,JM Clarke,MJ Owen,4,0,,,,,,"",""
+ball,1,4.3,Melbourne Stars,GJ Maxwell,JM Clarke,MJ Owen,1,0,,,,,,"",""
+ball,1,4.4,Melbourne Stars,JM Clarke,GJ Maxwell,MJ Owen,0,0,,,,,,"",""
+ball,1,4.5,Melbourne Stars,JM Clarke,GJ Maxwell,MJ Owen,2,0,,,,,,"",""
+ball,1,4.6,Melbourne Stars,JM Clarke,GJ Maxwell,MJ Owen,0,0,,,,,,"",""
+ball,1,5.1,Melbourne Stars,GJ Maxwell,JM Clarke,S Lamichhane,2,0,,,,,,"",""
+ball,1,5.2,Melbourne Stars,GJ Maxwell,JM Clarke,S Lamichhane,2,0,,,,,,"",""
+ball,1,5.3,Melbourne Stars,GJ Maxwell,JM Clarke,S Lamichhane,2,0,,,,,,"",""
+ball,1,5.4,Melbourne Stars,GJ Maxwell,JM Clarke,S Lamichhane,1,0,,,,,,"",""
+ball,1,5.5,Melbourne Stars,JM Clarke,GJ Maxwell,S Lamichhane,0,0,,,,,,"",""
+ball,1,5.6,Melbourne Stars,JM Clarke,GJ Maxwell,S Lamichhane,1,0,,,,,,"",""
+ball,1,6.1,Melbourne Stars,JM Clarke,GJ Maxwell,J Kann,6,0,,,,,,"",""
+ball,1,6.2,Melbourne Stars,JM Clarke,GJ Maxwell,J Kann,4,0,,,,,,"",""
+ball,1,6.3,Melbourne Stars,JM Clarke,GJ Maxwell,J Kann,1,0,,,,,,"",""
+ball,1,6.4,Melbourne Stars,GJ Maxwell,JM Clarke,J Kann,6,0,,,,,,"",""
+ball,1,6.5,Melbourne Stars,GJ Maxwell,JM Clarke,J Kann,1,0,,,,,,"",""
+ball,1,6.6,Melbourne Stars,JM Clarke,GJ Maxwell,J Kann,0,0,,,,,,caught,JM Clarke
+ball,1,7.1,Melbourne Stars,GJ Maxwell,NCR Larkin,W Parker,2,0,,,,,,"",""
+ball,1,7.2,Melbourne Stars,GJ Maxwell,NCR Larkin,W Parker,1,0,,,,,,"",""
+ball,1,7.3,Melbourne Stars,NCR Larkin,GJ Maxwell,W Parker,0,0,,,,,,"",""
+ball,1,7.4,Melbourne Stars,NCR Larkin,GJ Maxwell,W Parker,1,0,,,,,,"",""
+ball,1,7.5,Melbourne Stars,GJ Maxwell,NCR Larkin,W Parker,4,0,,,,,,"",""
+ball,1,7.6,Melbourne Stars,GJ Maxwell,NCR Larkin,W Parker,4,0,,,,,,"",""
+ball,1,8.1,Melbourne Stars,NCR Larkin,GJ Maxwell,MJ Owen,0,1,,,,1,,"",""
+ball,1,8.2,Melbourne Stars,GJ Maxwell,NCR Larkin,MJ Owen,4,0,,,,,,"",""
+ball,1,8.3,Melbourne Stars,GJ Maxwell,NCR Larkin,MJ Owen,1,0,,,,,,"",""
+ball,1,8.4,Melbourne Stars,NCR Larkin,GJ Maxwell,MJ Owen,1,0,,,,,,"",""
+ball,1,8.5,Melbourne Stars,GJ Maxwell,NCR Larkin,MJ Owen,0,0,,,,,,"",""
+ball,1,8.6,Melbourne Stars,GJ Maxwell,NCR Larkin,MJ Owen,1,0,,,,,,"",""
+ball,1,9.1,Melbourne Stars,GJ Maxwell,NCR Larkin,DJM Short,0,0,,,,,,"",""
+ball,1,9.2,Melbourne Stars,GJ Maxwell,NCR Larkin,DJM Short,6,0,,,,,,"",""
+ball,1,9.3,Melbourne Stars,GJ Maxwell,NCR Larkin,DJM Short,4,0,,,,,,"",""
+ball,1,9.4,Melbourne Stars,GJ Maxwell,NCR Larkin,DJM Short,1,0,,,,,,"",""
+ball,1,9.5,Melbourne Stars,NCR Larkin,GJ Maxwell,DJM Short,1,0,,,,,,"",""
+ball,1,9.6,Melbourne Stars,GJ Maxwell,NCR Larkin,DJM Short,1,0,,,,,,"",""
+ball,1,10.1,Melbourne Stars,GJ Maxwell,NCR Larkin,JA Thompson,2,0,,,,,,"",""
+ball,1,10.2,Melbourne Stars,GJ Maxwell,NCR Larkin,JA Thompson,4,0,,,,,,"",""
+ball,1,10.3,Melbourne Stars,GJ Maxwell,NCR Larkin,JA Thompson,4,0,,,,,,"",""
+ball,1,10.4,Melbourne Stars,GJ Maxwell,NCR Larkin,JA Thompson,1,0,,,,,,"",""
+ball,1,10.5,Melbourne Stars,NCR Larkin,GJ Maxwell,JA Thompson,0,0,,,,,,"",""
+ball,1,10.6,Melbourne Stars,NCR Larkin,GJ Maxwell,JA Thompson,0,0,,,,,,bowled,NCR Larkin
+ball,1,11.1,Melbourne Stars,GJ Maxwell,MP Stoinis,MJ Owen,1,0,,,,,,"",""
+ball,1,11.2,Melbourne Stars,MP Stoinis,GJ Maxwell,MJ Owen,1,0,,,,,,"",""
+ball,1,11.3,Melbourne Stars,GJ Maxwell,MP Stoinis,MJ Owen,6,0,,,,,,"",""
+ball,1,11.4,Melbourne Stars,GJ Maxwell,MP Stoinis,MJ Owen,4,0,,,,,,"",""
+ball,1,11.5,Melbourne Stars,GJ Maxwell,MP Stoinis,MJ Owen,4,0,,,,,,"",""
+ball,1,11.6,Melbourne Stars,GJ Maxwell,MP Stoinis,MJ Owen,1,0,,,,,,"",""
+ball,1,12.1,Melbourne Stars,GJ Maxwell,MP Stoinis,S Lamichhane,1,0,,,,,,"",""
+ball,1,12.2,Melbourne Stars,MP Stoinis,GJ Maxwell,S Lamichhane,0,0,,,,,,"",""
+ball,1,12.3,Melbourne Stars,MP Stoinis,GJ Maxwell,S Lamichhane,1,0,,,,,,"",""
+ball,1,12.4,Melbourne Stars,GJ Maxwell,MP Stoinis,S Lamichhane,1,0,,,,,,"",""
+ball,1,12.5,Melbourne Stars,MP Stoinis,GJ Maxwell,S Lamichhane,0,0,,,,,,"",""
+ball,1,12.6,Melbourne Stars,MP Stoinis,GJ Maxwell,S Lamichhane,1,0,,,,,,"",""
+ball,1,13.1,Melbourne Stars,MP Stoinis,GJ Maxwell,TH David,6,0,,,,,,"",""
+ball,1,13.2,Melbourne Stars,MP Stoinis,GJ Maxwell,TH David,6,0,,,,,,"",""
+ball,1,13.3,Melbourne Stars,MP Stoinis,GJ Maxwell,TH David,0,3,3,,,,,"",""
+ball,1,13.4,Melbourne Stars,MP Stoinis,GJ Maxwell,TH David,6,0,,,,,,"",""
+ball,1,13.5,Melbourne Stars,MP Stoinis,GJ Maxwell,TH David,2,0,,,,,,"",""
+ball,1,13.6,Melbourne Stars,MP Stoinis,GJ Maxwell,TH David,2,0,,,,,,"",""
+ball,1,13.7,Melbourne Stars,MP Stoinis,GJ Maxwell,TH David,1,0,,,,,,"",""
+ball,1,14.1,Melbourne Stars,MP Stoinis,GJ Maxwell,W Parker,1,0,,,,,,"",""
+ball,1,14.2,Melbourne Stars,GJ Maxwell,MP Stoinis,W Parker,1,0,,,,,,"",""
+ball,1,14.3,Melbourne Stars,MP Stoinis,GJ Maxwell,W Parker,0,0,,,,,,"",""
+ball,1,14.4,Melbourne Stars,MP Stoinis,GJ Maxwell,W Parker,4,0,,,,,,"",""
+ball,1,14.5,Melbourne Stars,MP Stoinis,GJ Maxwell,W Parker,0,0,,,,,,"",""
+ball,1,14.6,Melbourne Stars,MP Stoinis,GJ Maxwell,W Parker,2,0,,,,,,"",""
+ball,1,15.1,Melbourne Stars,GJ Maxwell,MP Stoinis,JA Thompson,0,0,,,,,,"",""
+ball,1,15.2,Melbourne Stars,GJ Maxwell,MP Stoinis,JA Thompson,1,0,,,,,,"",""
+ball,1,15.3,Melbourne Stars,MP Stoinis,GJ Maxwell,JA Thompson,1,0,,,,,,"",""
+ball,1,15.4,Melbourne Stars,GJ Maxwell,MP Stoinis,JA Thompson,2,0,,,,,,"",""
+ball,1,15.5,Melbourne Stars,GJ Maxwell,MP Stoinis,JA Thompson,0,0,,,,,,"",""
+ball,1,15.6,Melbourne Stars,GJ Maxwell,MP Stoinis,JA Thompson,4,0,,,,,,"",""
+ball,1,16.1,Melbourne Stars,MP Stoinis,GJ Maxwell,W Parker,1,0,,,,,,"",""
+ball,1,16.2,Melbourne Stars,GJ Maxwell,MP Stoinis,W Parker,1,0,,,,,,"",""
+ball,1,16.3,Melbourne Stars,MP Stoinis,GJ Maxwell,W Parker,4,0,,,,,,"",""
+ball,1,16.4,Melbourne Stars,MP Stoinis,GJ Maxwell,W Parker,4,0,,,,,,"",""
+ball,1,16.5,Melbourne Stars,MP Stoinis,GJ Maxwell,W Parker,0,0,,,,,,"",""
+ball,1,16.6,Melbourne Stars,MP Stoinis,GJ Maxwell,W Parker,2,0,,,,,,"",""
+ball,1,17.1,Melbourne Stars,GJ Maxwell,MP Stoinis,S Lamichhane,4,0,,,,,,"",""
+ball,1,17.2,Melbourne Stars,GJ Maxwell,MP Stoinis,S Lamichhane,4,0,,,,,,"",""
+ball,1,17.3,Melbourne Stars,GJ Maxwell,MP Stoinis,S Lamichhane,4,0,,,,,,"",""
+ball,1,17.4,Melbourne Stars,GJ Maxwell,MP Stoinis,S Lamichhane,4,0,,,,,,"",""
+ball,1,17.5,Melbourne Stars,GJ Maxwell,MP Stoinis,S Lamichhane,4,0,,,,,,"",""
+ball,1,17.6,Melbourne Stars,GJ Maxwell,MP Stoinis,S Lamichhane,2,0,,,,,,"",""
+ball,1,18.1,Melbourne Stars,MP Stoinis,GJ Maxwell,J Kann,6,0,,,,,,"",""
+ball,1,18.2,Melbourne Stars,MP Stoinis,GJ Maxwell,J Kann,2,0,,,,,,"",""
+ball,1,18.3,Melbourne Stars,MP Stoinis,GJ Maxwell,J Kann,2,0,,,,,,"",""
+ball,1,18.4,Melbourne Stars,MP Stoinis,GJ Maxwell,J Kann,4,0,,,,,,"",""
+ball,1,18.5,Melbourne Stars,MP Stoinis,GJ Maxwell,J Kann,2,0,,,,,,"",""
+ball,1,18.6,Melbourne Stars,MP Stoinis,GJ Maxwell,J Kann,6,0,,,,,,"",""
+ball,1,19.1,Melbourne Stars,GJ Maxwell,MP Stoinis,JA Thompson,1,0,,,,,,"",""
+ball,1,19.2,Melbourne Stars,MP Stoinis,GJ Maxwell,JA Thompson,6,0,,,,,,"",""
+ball,1,19.3,Melbourne Stars,MP Stoinis,GJ Maxwell,JA Thompson,1,0,,,,,,"",""
+ball,1,19.4,Melbourne Stars,GJ Maxwell,MP Stoinis,JA Thompson,3,0,,,,,,"",""
+ball,1,19.5,Melbourne Stars,MP Stoinis,GJ Maxwell,JA Thompson,1,0,,,,,,"",""
+ball,1,19.6,Melbourne Stars,GJ Maxwell,MP Stoinis,JA Thompson,1,0,,,,,,"",""
+ball,2,0.1,Hobart Hurricanes,CP Jewell,BR McDermott,SM Elliott,1,0,,,,,,"",""
+ball,2,0.2,Hobart Hurricanes,BR McDermott,CP Jewell,SM Elliott,0,0,,,,,,"",""
+ball,2,0.3,Hobart Hurricanes,BR McDermott,CP Jewell,SM Elliott,1,0,,,,,,"",""
+ball,2,0.4,Hobart Hurricanes,CP Jewell,BR McDermott,SM Elliott,0,1,1,,,,,"",""
+ball,2,0.5,Hobart Hurricanes,CP Jewell,BR McDermott,SM Elliott,1,0,,,,,,"",""
+ball,2,0.6,Hobart Hurricanes,BR McDermott,CP Jewell,SM Elliott,0,0,,,,,,"",""
+ball,2,0.7,Hobart Hurricanes,BR McDermott,CP Jewell,SM Elliott,1,0,,,,,,"",""
+ball,2,1.1,Hobart Hurricanes,BR McDermott,CP Jewell,NM Coulter-Nile,0,1,1,,,,,"",""
+ball,2,1.2,Hobart Hurricanes,BR McDermott,CP Jewell,NM Coulter-Nile,6,0,,,,,,"",""
+ball,2,1.3,Hobart Hurricanes,BR McDermott,CP Jewell,NM Coulter-Nile,0,0,,,,,,"",""
+ball,2,1.4,Hobart Hurricanes,BR McDermott,CP Jewell,NM Coulter-Nile,0,0,,,,,,"",""
+ball,2,1.5,Hobart Hurricanes,BR McDermott,CP Jewell,NM Coulter-Nile,1,0,,,,,,"",""
+ball,2,1.6,Hobart Hurricanes,CP Jewell,BR McDermott,NM Coulter-Nile,1,0,,,,,,"",""
+ball,2,1.7,Hobart Hurricanes,BR McDermott,CP Jewell,NM Coulter-Nile,1,0,,,,,,"",""
+ball,2,2.1,Hobart Hurricanes,BR McDermott,CP Jewell,BL Couch,4,0,,,,,,"",""
+ball,2,2.2,Hobart Hurricanes,BR McDermott,CP Jewell,BL Couch,1,0,,,,,,"",""
+ball,2,2.3,Hobart Hurricanes,CP Jewell,BR McDermott,BL Couch,0,0,,,,,,"",""
+ball,2,2.4,Hobart Hurricanes,CP Jewell,BR McDermott,BL Couch,0,0,,,,,,"",""
+ball,2,2.5,Hobart Hurricanes,CP Jewell,BR McDermott,BL Couch,0,0,,,,,,bowled,CP Jewell
+ball,2,2.6,Hobart Hurricanes,JA Thompson,BR McDermott,BL Couch,4,0,,,,,,"",""
+ball,2,3.1,Hobart Hurricanes,BR McDermott,JA Thompson,BJ Webster,6,0,,,,,,"",""
+ball,2,3.2,Hobart Hurricanes,BR McDermott,JA Thompson,BJ Webster,6,0,,,,,,"",""
+ball,2,3.3,Hobart Hurricanes,BR McDermott,JA Thompson,BJ Webster,1,0,,,,,,"",""
+ball,2,3.4,Hobart Hurricanes,JA Thompson,BR McDermott,BJ Webster,0,0,,,,,,"",""
+ball,2,3.5,Hobart Hurricanes,JA Thompson,BR McDermott,BJ Webster,1,0,,,,,,"",""
+ball,2,3.6,Hobart Hurricanes,BR McDermott,JA Thompson,BJ Webster,1,0,,,,,,"",""
+ball,2,4.1,Hobart Hurricanes,BR McDermott,JA Thompson,TL O'Connell,0,0,,,,,,"",""
+ball,2,4.2,Hobart Hurricanes,BR McDermott,JA Thompson,TL O'Connell,1,0,,,,,,"",""
+ball,2,4.3,Hobart Hurricanes,JA Thompson,BR McDermott,TL O'Connell,6,0,,,,,,"",""
+ball,2,4.4,Hobart Hurricanes,JA Thompson,BR McDermott,TL O'Connell,0,0,,,,,,caught and bowled,JA Thompson
+ball,2,4.5,Hobart Hurricanes,MS Wade,BR McDermott,TL O'Connell,0,0,,,,,,"",""
+ball,2,4.6,Hobart Hurricanes,MS Wade,BR McDermott,TL O'Connell,0,0,,,,,,"",""
+ball,2,5.1,Hobart Hurricanes,BR McDermott,MS Wade,CD Hinchliffe,6,0,,,,,,"",""
+ball,2,5.2,Hobart Hurricanes,BR McDermott,MS Wade,CD Hinchliffe,1,0,,,,,,"",""
+ball,2,5.3,Hobart Hurricanes,MS Wade,BR McDermott,CD Hinchliffe,1,0,,,,,,"",""
+ball,2,5.4,Hobart Hurricanes,BR McDermott,MS Wade,CD Hinchliffe,1,0,,,,,,"",""
+ball,2,5.5,Hobart Hurricanes,MS Wade,BR McDermott,CD Hinchliffe,1,0,,,,,,"",""
+ball,2,5.6,Hobart Hurricanes,BR McDermott,MS Wade,CD Hinchliffe,0,0,,,,,,"",""
+ball,2,6.1,Hobart Hurricanes,MS Wade,BR McDermott,SM Elliott,1,0,,,,,,"",""
+ball,2,6.2,Hobart Hurricanes,BR McDermott,MS Wade,SM Elliott,1,0,,,,,,"",""
+ball,2,6.3,Hobart Hurricanes,MS Wade,BR McDermott,SM Elliott,0,0,,,,,,"",""
+ball,2,6.4,Hobart Hurricanes,MS Wade,BR McDermott,SM Elliott,2,0,,,,,,"",""
+ball,2,6.5,Hobart Hurricanes,MS Wade,BR McDermott,SM Elliott,2,0,,,,,,"",""
+ball,2,6.6,Hobart Hurricanes,MS Wade,BR McDermott,SM Elliott,1,0,,,,,,"",""
+ball,2,7.1,Hobart Hurricanes,MS Wade,BR McDermott,CD Hinchliffe,1,0,,,,,,"",""
+ball,2,7.2,Hobart Hurricanes,BR McDermott,MS Wade,CD Hinchliffe,1,0,,,,,,"",""
+ball,2,7.3,Hobart Hurricanes,MS Wade,BR McDermott,CD Hinchliffe,1,0,,,,,,"",""
+ball,2,7.4,Hobart Hurricanes,BR McDermott,MS Wade,CD Hinchliffe,1,0,,,,,,"",""
+ball,2,7.5,Hobart Hurricanes,MS Wade,BR McDermott,CD Hinchliffe,0,0,,,,,,caught,MS Wade
+ball,2,7.6,Hobart Hurricanes,BR McDermott,DJM Short,CD Hinchliffe,2,0,,,,,,"",""
+ball,2,8.1,Hobart Hurricanes,DJM Short,BR McDermott,TL O'Connell,1,0,,,,,,"",""
+ball,2,8.2,Hobart Hurricanes,BR McDermott,DJM Short,TL O'Connell,1,0,,,,,,"",""
+ball,2,8.3,Hobart Hurricanes,DJM Short,BR McDermott,TL O'Connell,1,0,,,,,,"",""
+ball,2,8.4,Hobart Hurricanes,BR McDermott,DJM Short,TL O'Connell,0,1,1,,,,,"",""
+ball,2,8.5,Hobart Hurricanes,BR McDermott,DJM Short,TL O'Connell,4,0,,,,,,"",""
+ball,2,8.6,Hobart Hurricanes,BR McDermott,DJM Short,TL O'Connell,1,0,,,,,,"",""
+ball,2,8.7,Hobart Hurricanes,DJM Short,BR McDermott,TL O'Connell,1,0,,,,,,"",""
+ball,2,9.1,Hobart Hurricanes,DJM Short,BR McDermott,BL Couch,1,0,,,,,,"",""
+ball,2,9.2,Hobart Hurricanes,BR McDermott,DJM Short,BL Couch,2,0,,,,,,"",""
+ball,2,9.3,Hobart Hurricanes,BR McDermott,DJM Short,BL Couch,1,0,,,,,,"",""
+ball,2,9.4,Hobart Hurricanes,DJM Short,BR McDermott,BL Couch,0,0,,,,,,"",""
+ball,2,9.5,Hobart Hurricanes,DJM Short,BR McDermott,BL Couch,1,0,,,,,,"",""
+ball,2,9.6,Hobart Hurricanes,BR McDermott,DJM Short,BL Couch,2,0,,,,,,"",""
+ball,2,10.1,Hobart Hurricanes,DJM Short,BR McDermott,SM Elliott,1,0,,,,,,"",""
+ball,2,10.2,Hobart Hurricanes,BR McDermott,DJM Short,SM Elliott,1,0,,,,,,"",""
+ball,2,10.3,Hobart Hurricanes,DJM Short,BR McDermott,SM Elliott,4,0,,,,,,"",""
+ball,2,10.4,Hobart Hurricanes,DJM Short,BR McDermott,SM Elliott,2,0,,,,,,"",""
+ball,2,10.5,Hobart Hurricanes,DJM Short,BR McDermott,SM Elliott,0,0,,,,,,"",""
+ball,2,10.6,Hobart Hurricanes,DJM Short,BR McDermott,SM Elliott,0,0,,,,,,"",""
+ball,2,11.1,Hobart Hurricanes,BR McDermott,DJM Short,BL Couch,0,0,,,,,,caught,BR McDermott
+ball,2,11.2,Hobart Hurricanes,DJM Short,PSP Handscomb,BL Couch,0,0,,,,,,"",""
+ball,2,11.3,Hobart Hurricanes,DJM Short,PSP Handscomb,BL Couch,0,0,,,,,,"",""
+ball,2,11.4,Hobart Hurricanes,DJM Short,PSP Handscomb,BL Couch,1,0,,,,,,"",""
+ball,2,11.5,Hobart Hurricanes,PSP Handscomb,DJM Short,BL Couch,2,0,,,,,,"",""
+ball,2,11.6,Hobart Hurricanes,PSP Handscomb,DJM Short,BL Couch,0,0,,,,,,"",""
+ball,2,12.1,Hobart Hurricanes,DJM Short,PSP Handscomb,TL O'Connell,1,0,,,,,,"",""
+ball,2,12.2,Hobart Hurricanes,PSP Handscomb,DJM Short,TL O'Connell,1,0,,,,,,"",""
+ball,2,12.3,Hobart Hurricanes,DJM Short,PSP Handscomb,TL O'Connell,1,0,,,,,,"",""
+ball,2,12.4,Hobart Hurricanes,PSP Handscomb,DJM Short,TL O'Connell,1,0,,,,,,"",""
+ball,2,12.5,Hobart Hurricanes,DJM Short,PSP Handscomb,TL O'Connell,1,0,,,,,,"",""
+ball,2,12.6,Hobart Hurricanes,PSP Handscomb,DJM Short,TL O'Connell,0,0,,,,,,"",""
+ball,2,13.1,Hobart Hurricanes,DJM Short,PSP Handscomb,CD Hinchliffe,1,0,,,,,,"",""
+ball,2,13.2,Hobart Hurricanes,PSP Handscomb,DJM Short,CD Hinchliffe,1,0,,,,,,"",""
+ball,2,13.3,Hobart Hurricanes,DJM Short,PSP Handscomb,CD Hinchliffe,0,0,,,,,,"",""
+ball,2,13.4,Hobart Hurricanes,DJM Short,PSP Handscomb,CD Hinchliffe,4,0,,,,,,"",""
+ball,2,13.5,Hobart Hurricanes,DJM Short,PSP Handscomb,CD Hinchliffe,1,0,,,,,,"",""
+ball,2,13.6,Hobart Hurricanes,PSP Handscomb,DJM Short,CD Hinchliffe,0,0,,,,,,"",""
+ball,2,14.1,Hobart Hurricanes,DJM Short,PSP Handscomb,TL O'Connell,1,0,,,,,,"",""
+ball,2,14.2,Hobart Hurricanes,PSP Handscomb,DJM Short,TL O'Connell,1,0,,,,,,"",""
+ball,2,14.3,Hobart Hurricanes,DJM Short,PSP Handscomb,TL O'Connell,1,0,,,,,,"",""
+ball,2,14.4,Hobart Hurricanes,PSP Handscomb,DJM Short,TL O'Connell,6,0,,,,,,"",""
+ball,2,14.5,Hobart Hurricanes,PSP Handscomb,DJM Short,TL O'Connell,1,0,,,,,,"",""
+ball,2,14.6,Hobart Hurricanes,DJM Short,PSP Handscomb,TL O'Connell,0,0,,,,,,"",""
+ball,2,15.1,Hobart Hurricanes,PSP Handscomb,DJM Short,CD Hinchliffe,0,0,,,,,,"",""
+ball,2,15.2,Hobart Hurricanes,PSP Handscomb,DJM Short,CD Hinchliffe,4,0,,,,,,"",""
+ball,2,15.3,Hobart Hurricanes,PSP Handscomb,DJM Short,CD Hinchliffe,2,0,,,,,,"",""
+ball,2,15.4,Hobart Hurricanes,PSP Handscomb,DJM Short,CD Hinchliffe,1,0,,,,,,"",""
+ball,2,15.5,Hobart Hurricanes,DJM Short,PSP Handscomb,CD Hinchliffe,1,0,,,,,,"",""
+ball,2,15.6,Hobart Hurricanes,PSP Handscomb,DJM Short,CD Hinchliffe,4,0,,,,,,"",""
+ball,2,16.1,Hobart Hurricanes,DJM Short,PSP Handscomb,BJ Webster,2,0,,,,,,"",""
+ball,2,16.2,Hobart Hurricanes,DJM Short,PSP Handscomb,BJ Webster,1,0,,,,,,"",""
+ball,2,16.3,Hobart Hurricanes,PSP Handscomb,DJM Short,BJ Webster,2,0,,,,,,"",""
+ball,2,16.4,Hobart Hurricanes,PSP Handscomb,DJM Short,BJ Webster,2,0,,,,,,"",""
+ball,2,16.5,Hobart Hurricanes,PSP Handscomb,DJM Short,BJ Webster,0,0,,,,,,caught,PSP Handscomb
+ball,2,16.6,Hobart Hurricanes,TH David,DJM Short,BJ Webster,1,0,,,,,,"",""
+ball,2,17.1,Hobart Hurricanes,TH David,DJM Short,NM Coulter-Nile,0,0,,,,,,"",""
+ball,2,17.2,Hobart Hurricanes,TH David,DJM Short,NM Coulter-Nile,1,0,,,,,,"",""
+ball,2,17.3,Hobart Hurricanes,DJM Short,TH David,NM Coulter-Nile,0,0,,,,,,"",""
+ball,2,17.4,Hobart Hurricanes,DJM Short,TH David,NM Coulter-Nile,2,0,,,,,,"",""
+ball,2,17.5,Hobart Hurricanes,DJM Short,TH David,NM Coulter-Nile,1,0,,,,,,"",""
+ball,2,17.6,Hobart Hurricanes,TH David,DJM Short,NM Coulter-Nile,1,0,,,,,,"",""
+ball,2,18.1,Hobart Hurricanes,TH David,DJM Short,SM Elliott,1,0,,,,,,"",""
+ball,2,18.2,Hobart Hurricanes,DJM Short,TH David,SM Elliott,1,0,,,,,,"",""
+ball,2,18.3,Hobart Hurricanes,TH David,DJM Short,SM Elliott,1,0,,,,,,"",""
+ball,2,18.4,Hobart Hurricanes,DJM Short,TH David,SM Elliott,1,0,,,,,,"",""
+ball,2,18.5,Hobart Hurricanes,TH David,DJM Short,SM Elliott,6,0,,,,,,"",""
+ball,2,18.6,Hobart Hurricanes,TH David,DJM Short,SM Elliott,2,0,,,,,,"",""
+ball,2,19.1,Hobart Hurricanes,DJM Short,TH David,BL Couch,4,0,,,,,,"",""
+ball,2,19.2,Hobart Hurricanes,DJM Short,TH David,BL Couch,1,0,,,,,,"",""
+ball,2,19.3,Hobart Hurricanes,TH David,DJM Short,BL Couch,0,0,,,,,,"",""
+ball,2,19.4,Hobart Hurricanes,TH David,DJM Short,BL Couch,0,3,3,,,,,"",""
+ball,2,19.5,Hobart Hurricanes,TH David,DJM Short,BL Couch,0,0,,,,,,caught,TH David
+ball,2,19.6,Hobart Hurricanes,DJM Short,MJ Owen,BL Couch,2,0,,,,,,"",""
+ball,2,19.7,Hobart Hurricanes,DJM Short,MJ Owen,BL Couch,1,0,,,,,,"",""

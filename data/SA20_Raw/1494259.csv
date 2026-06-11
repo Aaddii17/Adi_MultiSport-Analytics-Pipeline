@@ -1,0 +1,311 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Sunrisers Eastern Cape
+info,team,Paarl Royals
+info,gender,male
+info,season,2025/26
+info,date,2025/12/31
+info,event,SA20
+info,match_number,7
+info,venue,"St George's Park, Gqeberha"
+info,city,Gqeberha
+info,toss_winner,Sunrisers Eastern Cape
+info,toss_decision,bat
+info,player_of_match,DA Miller
+info,umpire,BM White
+info,umpire,TC Mokorosi
+info,reserve_umpire,A Olivier
+info,tv_umpire,BP Jele
+info,match_referee,CD Isaacs
+info,winner,Paarl Royals
+info,winner_wickets,5
+info,player,Sunrisers Eastern Cape,Q de Kock
+info,player,Sunrisers Eastern Cape,JM Bairstow
+info,player,Sunrisers Eastern Cape,MP Breetzke
+info,player,Sunrisers Eastern Cape,J Hermann
+info,player,Sunrisers Eastern Cape,T Stubbs
+info,player,Sunrisers Eastern Cape,M Jansen
+info,player,Sunrisers Eastern Cape,L Gregory
+info,player,Sunrisers Eastern Cape,S Muthusamy
+info,player,Sunrisers Eastern Cape,AF Milne
+info,player,Sunrisers Eastern Cape,A Nortje
+info,player,Sunrisers Eastern Cape,KTH Ratnayake
+info,player,Paarl Royals,LG Pretorius
+info,player,Paarl Royals,AM Tribe
+info,player,Paarl Royals,RA Herman
+info,player,Paarl Royals,K Verreynne
+info,player,Paarl Royals,DA Miller
+info,player,Paarl Royals,K Lion-Cachet
+info,player,Paarl Royals,D Potgieter
+info,player,Paarl Royals,Mujeeb Ur Rahman
+info,player,Paarl Royals,N Mokoena
+info,player,Paarl Royals,BC Fortuin
+info,player,Paarl Royals,OEG Baartman
+info,registry,people,A Nortje,acdc62f5
+info,registry,people,A Olivier,ccc12fa6
+info,registry,people,AF Milne,350bb1b1
+info,registry,people,AM Tribe,86f84b37
+info,registry,people,BC Fortuin,9a2fc964
+info,registry,people,BM White,66c21d35
+info,registry,people,BP Jele,7bb1331e
+info,registry,people,CD Isaacs,c0215bbd
+info,registry,people,D Potgieter,60fbf53a
+info,registry,people,DA Miller,d67d5f00
+info,registry,people,J Hermann,e87aeca2
+info,registry,people,JM Bairstow,abb83e27
+info,registry,people,K Lion-Cachet,aed9ac31
+info,registry,people,K Verreynne,bf814547
+info,registry,people,KTH Ratnayake,4eb02f2e
+info,registry,people,L Gregory,06c2de82
+info,registry,people,LG Pretorius,60aa2db3
+info,registry,people,M Jansen,81c36ee9
+info,registry,people,MP Breetzke,35f173a0
+info,registry,people,Mujeeb Ur Rahman,7d92277a
+info,registry,people,N Mokoena,201facae
+info,registry,people,OEG Baartman,6b9eb501
+info,registry,people,Q de Kock,372455c4
+info,registry,people,RA Herman,9c821d2e
+info,registry,people,S Muthusamy,7dfb8890
+info,registry,people,T Stubbs,85b3fab2
+info,registry,people,TC Mokorosi,e93c3cf8
+ball,1,0.1,Sunrisers Eastern Cape,Q de Kock,JM Bairstow,BC Fortuin,0,0,,,,,,"",""
+ball,1,0.2,Sunrisers Eastern Cape,Q de Kock,JM Bairstow,BC Fortuin,1,0,,,,,,"",""
+ball,1,0.3,Sunrisers Eastern Cape,JM Bairstow,Q de Kock,BC Fortuin,0,0,,,,,,"",""
+ball,1,0.4,Sunrisers Eastern Cape,JM Bairstow,Q de Kock,BC Fortuin,0,0,,,,,,"",""
+ball,1,0.5,Sunrisers Eastern Cape,JM Bairstow,Q de Kock,BC Fortuin,0,0,,,,,,"",""
+ball,1,0.6,Sunrisers Eastern Cape,JM Bairstow,Q de Kock,BC Fortuin,0,0,,,,,,"",""
+ball,1,1.1,Sunrisers Eastern Cape,Q de Kock,JM Bairstow,N Mokoena,1,0,,,,,,"",""
+ball,1,1.2,Sunrisers Eastern Cape,JM Bairstow,Q de Kock,N Mokoena,1,0,,,,,,"",""
+ball,1,1.3,Sunrisers Eastern Cape,Q de Kock,JM Bairstow,N Mokoena,4,0,,,,,,"",""
+ball,1,1.4,Sunrisers Eastern Cape,Q de Kock,JM Bairstow,N Mokoena,1,0,,,,,,"",""
+ball,1,1.5,Sunrisers Eastern Cape,JM Bairstow,Q de Kock,N Mokoena,0,1,1,,,,,"",""
+ball,1,1.6,Sunrisers Eastern Cape,JM Bairstow,Q de Kock,N Mokoena,1,0,,,,,,"",""
+ball,1,1.7,Sunrisers Eastern Cape,Q de Kock,JM Bairstow,N Mokoena,0,0,,,,,,caught,Q de Kock
+ball,1,2.1,Sunrisers Eastern Cape,JM Bairstow,MP Breetzke,BC Fortuin,0,0,,,,,,"",""
+ball,1,2.2,Sunrisers Eastern Cape,JM Bairstow,MP Breetzke,BC Fortuin,1,0,,,,,,"",""
+ball,1,2.3,Sunrisers Eastern Cape,MP Breetzke,JM Bairstow,BC Fortuin,2,0,,,,,,"",""
+ball,1,2.4,Sunrisers Eastern Cape,MP Breetzke,JM Bairstow,BC Fortuin,0,0,,,,,,"",""
+ball,1,2.5,Sunrisers Eastern Cape,MP Breetzke,JM Bairstow,BC Fortuin,0,0,,,,,,"",""
+ball,1,2.6,Sunrisers Eastern Cape,MP Breetzke,JM Bairstow,BC Fortuin,0,0,,,,,,"",""
+ball,1,3.1,Sunrisers Eastern Cape,JM Bairstow,MP Breetzke,N Mokoena,4,0,,,,,,"",""
+ball,1,3.2,Sunrisers Eastern Cape,JM Bairstow,MP Breetzke,N Mokoena,4,0,,,,,,"",""
+ball,1,3.3,Sunrisers Eastern Cape,JM Bairstow,MP Breetzke,N Mokoena,0,0,,,,,,"",""
+ball,1,3.4,Sunrisers Eastern Cape,JM Bairstow,MP Breetzke,N Mokoena,4,0,,,,,,"",""
+ball,1,3.5,Sunrisers Eastern Cape,JM Bairstow,MP Breetzke,N Mokoena,1,0,,,,,,"",""
+ball,1,3.6,Sunrisers Eastern Cape,MP Breetzke,JM Bairstow,N Mokoena,1,0,,,,,,"",""
+ball,1,4.1,Sunrisers Eastern Cape,MP Breetzke,JM Bairstow,BC Fortuin,0,0,,,,,,"",""
+ball,1,4.2,Sunrisers Eastern Cape,MP Breetzke,JM Bairstow,BC Fortuin,1,0,,,,,,"",""
+ball,1,4.3,Sunrisers Eastern Cape,JM Bairstow,MP Breetzke,BC Fortuin,0,0,,,,,,"",""
+ball,1,4.4,Sunrisers Eastern Cape,JM Bairstow,MP Breetzke,BC Fortuin,6,0,,,,,,"",""
+ball,1,4.5,Sunrisers Eastern Cape,JM Bairstow,MP Breetzke,BC Fortuin,1,0,,,,,,"",""
+ball,1,4.6,Sunrisers Eastern Cape,MP Breetzke,JM Bairstow,BC Fortuin,0,0,,,,,,"",""
+ball,1,5.1,Sunrisers Eastern Cape,JM Bairstow,MP Breetzke,OEG Baartman,0,0,,,,,,"",""
+ball,1,5.2,Sunrisers Eastern Cape,JM Bairstow,MP Breetzke,OEG Baartman,4,0,,,,,,"",""
+ball,1,5.3,Sunrisers Eastern Cape,JM Bairstow,MP Breetzke,OEG Baartman,6,0,,,,,,"",""
+ball,1,5.4,Sunrisers Eastern Cape,JM Bairstow,MP Breetzke,OEG Baartman,0,0,,,,,,caught,JM Bairstow
+ball,1,5.5,Sunrisers Eastern Cape,J Hermann,MP Breetzke,OEG Baartman,0,0,,,,,,"",""
+ball,1,5.6,Sunrisers Eastern Cape,J Hermann,MP Breetzke,OEG Baartman,1,0,,,,,,"",""
+ball,1,6.1,Sunrisers Eastern Cape,J Hermann,MP Breetzke,BC Fortuin,0,0,,,,,,"",""
+ball,1,6.2,Sunrisers Eastern Cape,J Hermann,MP Breetzke,BC Fortuin,0,0,,,,,,"",""
+ball,1,6.3,Sunrisers Eastern Cape,J Hermann,MP Breetzke,BC Fortuin,1,0,,,,,,"",""
+ball,1,6.4,Sunrisers Eastern Cape,MP Breetzke,J Hermann,BC Fortuin,1,0,,,,,,"",""
+ball,1,6.5,Sunrisers Eastern Cape,J Hermann,MP Breetzke,BC Fortuin,1,0,,,,,,"",""
+ball,1,6.6,Sunrisers Eastern Cape,MP Breetzke,J Hermann,BC Fortuin,1,0,,,,,,"",""
+ball,1,7.1,Sunrisers Eastern Cape,MP Breetzke,J Hermann,AM Tribe,1,0,,,,,,"",""
+ball,1,7.2,Sunrisers Eastern Cape,J Hermann,MP Breetzke,AM Tribe,1,0,,,,,,"",""
+ball,1,7.3,Sunrisers Eastern Cape,MP Breetzke,J Hermann,AM Tribe,0,0,,,,,,"",""
+ball,1,7.4,Sunrisers Eastern Cape,MP Breetzke,J Hermann,AM Tribe,2,0,,,,,,"",""
+ball,1,7.5,Sunrisers Eastern Cape,MP Breetzke,J Hermann,AM Tribe,0,0,,,,,,"",""
+ball,1,7.6,Sunrisers Eastern Cape,MP Breetzke,J Hermann,AM Tribe,1,0,,,,,,"",""
+ball,1,8.1,Sunrisers Eastern Cape,MP Breetzke,J Hermann,D Potgieter,2,0,,,,,,"",""
+ball,1,8.2,Sunrisers Eastern Cape,MP Breetzke,J Hermann,D Potgieter,1,0,,,,,,"",""
+ball,1,8.3,Sunrisers Eastern Cape,J Hermann,MP Breetzke,D Potgieter,1,0,,,,,,"",""
+ball,1,8.4,Sunrisers Eastern Cape,MP Breetzke,J Hermann,D Potgieter,0,0,,,,,,caught and bowled,MP Breetzke
+ball,1,8.5,Sunrisers Eastern Cape,T Stubbs,J Hermann,D Potgieter,1,0,,,,,,"",""
+ball,1,8.6,Sunrisers Eastern Cape,J Hermann,T Stubbs,D Potgieter,1,0,,,,,,"",""
+ball,1,9.1,Sunrisers Eastern Cape,J Hermann,T Stubbs,AM Tribe,2,0,,,,,,"",""
+ball,1,9.2,Sunrisers Eastern Cape,J Hermann,T Stubbs,AM Tribe,4,0,,,,,,"",""
+ball,1,9.3,Sunrisers Eastern Cape,J Hermann,T Stubbs,AM Tribe,0,1,,,,1,,"",""
+ball,1,9.4,Sunrisers Eastern Cape,T Stubbs,J Hermann,AM Tribe,1,0,,,,,,"",""
+ball,1,9.5,Sunrisers Eastern Cape,J Hermann,T Stubbs,AM Tribe,0,0,,,,,,"",""
+ball,1,9.6,Sunrisers Eastern Cape,J Hermann,T Stubbs,AM Tribe,4,0,,,,,,"",""
+ball,1,10.1,Sunrisers Eastern Cape,T Stubbs,J Hermann,Mujeeb Ur Rahman,0,0,,,,,,"",""
+ball,1,10.2,Sunrisers Eastern Cape,T Stubbs,J Hermann,Mujeeb Ur Rahman,2,0,,,,,,"",""
+ball,1,10.3,Sunrisers Eastern Cape,T Stubbs,J Hermann,Mujeeb Ur Rahman,2,0,,,,,,"",""
+ball,1,10.4,Sunrisers Eastern Cape,T Stubbs,J Hermann,Mujeeb Ur Rahman,1,0,,,,,,"",""
+ball,1,10.5,Sunrisers Eastern Cape,J Hermann,T Stubbs,Mujeeb Ur Rahman,6,0,,,,,,"",""
+ball,1,10.6,Sunrisers Eastern Cape,J Hermann,T Stubbs,Mujeeb Ur Rahman,0,0,,,,,,"",""
+ball,1,11.1,Sunrisers Eastern Cape,T Stubbs,J Hermann,D Potgieter,1,0,,,,,,"",""
+ball,1,11.2,Sunrisers Eastern Cape,J Hermann,T Stubbs,D Potgieter,2,0,,,,,,"",""
+ball,1,11.3,Sunrisers Eastern Cape,J Hermann,T Stubbs,D Potgieter,2,0,,,,,,"",""
+ball,1,11.4,Sunrisers Eastern Cape,J Hermann,T Stubbs,D Potgieter,2,0,,,,,,"",""
+ball,1,11.5,Sunrisers Eastern Cape,J Hermann,T Stubbs,D Potgieter,1,0,,,,,,"",""
+ball,1,11.6,Sunrisers Eastern Cape,T Stubbs,J Hermann,D Potgieter,1,0,,,,,,"",""
+ball,1,12.1,Sunrisers Eastern Cape,T Stubbs,J Hermann,OEG Baartman,2,0,,,,,,"",""
+ball,1,12.2,Sunrisers Eastern Cape,T Stubbs,J Hermann,OEG Baartman,1,0,,,,,,"",""
+ball,1,12.3,Sunrisers Eastern Cape,J Hermann,T Stubbs,OEG Baartman,1,0,,,,,,"",""
+ball,1,12.4,Sunrisers Eastern Cape,T Stubbs,J Hermann,OEG Baartman,1,0,,,,,,"",""
+ball,1,12.5,Sunrisers Eastern Cape,J Hermann,T Stubbs,OEG Baartman,4,0,,,,,,"",""
+ball,1,12.6,Sunrisers Eastern Cape,J Hermann,T Stubbs,OEG Baartman,1,0,,,,,,"",""
+ball,1,13.1,Sunrisers Eastern Cape,J Hermann,T Stubbs,Mujeeb Ur Rahman,1,0,,,,,,"",""
+ball,1,13.2,Sunrisers Eastern Cape,T Stubbs,J Hermann,Mujeeb Ur Rahman,0,0,,,,,,"",""
+ball,1,13.3,Sunrisers Eastern Cape,T Stubbs,J Hermann,Mujeeb Ur Rahman,1,0,,,,,,"",""
+ball,1,13.4,Sunrisers Eastern Cape,J Hermann,T Stubbs,Mujeeb Ur Rahman,0,0,,,,,,"",""
+ball,1,13.5,Sunrisers Eastern Cape,J Hermann,T Stubbs,Mujeeb Ur Rahman,1,0,,,,,,"",""
+ball,1,13.6,Sunrisers Eastern Cape,T Stubbs,J Hermann,Mujeeb Ur Rahman,2,0,,,,,,"",""
+ball,1,14.1,Sunrisers Eastern Cape,J Hermann,T Stubbs,N Mokoena,1,0,,,,,,"",""
+ball,1,14.2,Sunrisers Eastern Cape,T Stubbs,J Hermann,N Mokoena,1,0,,,,,,"",""
+ball,1,14.3,Sunrisers Eastern Cape,J Hermann,T Stubbs,N Mokoena,1,0,,,,,,"",""
+ball,1,14.4,Sunrisers Eastern Cape,T Stubbs,J Hermann,N Mokoena,0,0,,,,,,caught,T Stubbs
+ball,1,14.5,Sunrisers Eastern Cape,M Jansen,J Hermann,N Mokoena,1,0,,,,,,"",""
+ball,1,14.6,Sunrisers Eastern Cape,J Hermann,M Jansen,N Mokoena,4,0,,,,,,"",""
+ball,1,15.1,Sunrisers Eastern Cape,M Jansen,J Hermann,Mujeeb Ur Rahman,1,0,,,,,,"",""
+ball,1,15.2,Sunrisers Eastern Cape,J Hermann,M Jansen,Mujeeb Ur Rahman,1,0,,,,,,"",""
+ball,1,15.3,Sunrisers Eastern Cape,M Jansen,J Hermann,Mujeeb Ur Rahman,1,0,,,,,,"",""
+ball,1,15.4,Sunrisers Eastern Cape,J Hermann,M Jansen,Mujeeb Ur Rahman,1,0,,,,,,"",""
+ball,1,15.5,Sunrisers Eastern Cape,M Jansen,J Hermann,Mujeeb Ur Rahman,6,0,,,,,,"",""
+ball,1,15.6,Sunrisers Eastern Cape,M Jansen,J Hermann,Mujeeb Ur Rahman,1,0,,,,,,"",""
+ball,1,16.1,Sunrisers Eastern Cape,M Jansen,J Hermann,OEG Baartman,1,0,,,,,,"",""
+ball,1,16.2,Sunrisers Eastern Cape,J Hermann,M Jansen,OEG Baartman,0,0,,,,,,"",""
+ball,1,16.3,Sunrisers Eastern Cape,J Hermann,M Jansen,OEG Baartman,1,0,,,,,,"",""
+ball,1,16.4,Sunrisers Eastern Cape,M Jansen,J Hermann,OEG Baartman,4,0,,,,,,"",""
+ball,1,16.5,Sunrisers Eastern Cape,M Jansen,J Hermann,OEG Baartman,2,0,,,,,,"",""
+ball,1,16.6,Sunrisers Eastern Cape,M Jansen,J Hermann,OEG Baartman,0,0,,,,,,caught,M Jansen
+ball,1,17.1,Sunrisers Eastern Cape,J Hermann,L Gregory,Mujeeb Ur Rahman,1,0,,,,,,"",""
+ball,1,17.2,Sunrisers Eastern Cape,L Gregory,J Hermann,Mujeeb Ur Rahman,1,0,,,,,,"",""
+ball,1,17.3,Sunrisers Eastern Cape,J Hermann,L Gregory,Mujeeb Ur Rahman,0,0,,,,,,lbw,J Hermann
+ball,1,17.4,Sunrisers Eastern Cape,S Muthusamy,L Gregory,Mujeeb Ur Rahman,1,0,,,,,,"",""
+ball,1,17.5,Sunrisers Eastern Cape,L Gregory,S Muthusamy,Mujeeb Ur Rahman,0,0,,,,,,"",""
+ball,1,17.6,Sunrisers Eastern Cape,L Gregory,S Muthusamy,Mujeeb Ur Rahman,0,0,,,,,,"",""
+ball,1,18.1,Sunrisers Eastern Cape,S Muthusamy,L Gregory,N Mokoena,1,0,,,,,,"",""
+ball,1,18.2,Sunrisers Eastern Cape,L Gregory,S Muthusamy,N Mokoena,2,0,,,,,,"",""
+ball,1,18.3,Sunrisers Eastern Cape,L Gregory,S Muthusamy,N Mokoena,0,1,,,,1,,"",""
+ball,1,18.4,Sunrisers Eastern Cape,S Muthusamy,L Gregory,N Mokoena,0,0,,,,,,caught,S Muthusamy
+ball,1,18.5,Sunrisers Eastern Cape,AF Milne,L Gregory,N Mokoena,0,0,,,,,,"",""
+ball,1,18.6,Sunrisers Eastern Cape,AF Milne,L Gregory,N Mokoena,0,0,,,,,,caught,AF Milne
+ball,1,19.1,Sunrisers Eastern Cape,L Gregory,A Nortje,OEG Baartman,1,0,,,,,,"",""
+ball,1,19.2,Sunrisers Eastern Cape,A Nortje,L Gregory,OEG Baartman,2,0,,,,,,"",""
+ball,1,19.3,Sunrisers Eastern Cape,A Nortje,L Gregory,OEG Baartman,2,0,,,,,,"",""
+ball,1,19.4,Sunrisers Eastern Cape,A Nortje,L Gregory,OEG Baartman,0,0,,,,,,caught,A Nortje
+ball,1,19.5,Sunrisers Eastern Cape,KTH Ratnayake,L Gregory,OEG Baartman,1,0,,,,,,"",""
+ball,1,19.6,Sunrisers Eastern Cape,L Gregory,KTH Ratnayake,OEG Baartman,1,0,,,,,,run out,L Gregory
+ball,2,0.1,Paarl Royals,LG Pretorius,AM Tribe,AF Milne,2,0,,,,,,"",""
+ball,2,0.2,Paarl Royals,LG Pretorius,AM Tribe,AF Milne,4,0,,,,,,"",""
+ball,2,0.3,Paarl Royals,LG Pretorius,AM Tribe,AF Milne,1,0,,,,,,"",""
+ball,2,0.4,Paarl Royals,AM Tribe,LG Pretorius,AF Milne,1,0,,,,,,"",""
+ball,2,0.5,Paarl Royals,LG Pretorius,AM Tribe,AF Milne,0,0,,,,,,"",""
+ball,2,0.6,Paarl Royals,LG Pretorius,AM Tribe,AF Milne,0,0,,,,,,"",""
+ball,2,1.1,Paarl Royals,AM Tribe,LG Pretorius,M Jansen,4,0,,,,,,"",""
+ball,2,1.2,Paarl Royals,AM Tribe,LG Pretorius,M Jansen,1,0,,,,,,"",""
+ball,2,1.3,Paarl Royals,LG Pretorius,AM Tribe,M Jansen,0,0,,,,,,"",""
+ball,2,1.4,Paarl Royals,LG Pretorius,AM Tribe,M Jansen,1,0,,,,,,"",""
+ball,2,1.5,Paarl Royals,AM Tribe,LG Pretorius,M Jansen,0,0,,,,,,"",""
+ball,2,1.6,Paarl Royals,AM Tribe,LG Pretorius,M Jansen,0,0,,,,,,"",""
+ball,2,2.1,Paarl Royals,LG Pretorius,AM Tribe,AF Milne,0,0,,,,,,"",""
+ball,2,2.2,Paarl Royals,LG Pretorius,AM Tribe,AF Milne,0,0,,,,,,"",""
+ball,2,2.3,Paarl Royals,LG Pretorius,AM Tribe,AF Milne,1,0,,,,,,"",""
+ball,2,2.4,Paarl Royals,AM Tribe,LG Pretorius,AF Milne,1,0,,,,,,"",""
+ball,2,2.5,Paarl Royals,LG Pretorius,AM Tribe,AF Milne,2,0,,,,,,"",""
+ball,2,2.6,Paarl Royals,LG Pretorius,AM Tribe,AF Milne,0,0,,,,,,"",""
+ball,2,3.1,Paarl Royals,AM Tribe,LG Pretorius,M Jansen,0,0,,,,,,caught,AM Tribe
+ball,2,3.2,Paarl Royals,RA Herman,LG Pretorius,M Jansen,1,0,,,,,,"",""
+ball,2,3.3,Paarl Royals,LG Pretorius,RA Herman,M Jansen,0,0,,,,,,"",""
+ball,2,3.4,Paarl Royals,LG Pretorius,RA Herman,M Jansen,0,0,,,,,,caught,LG Pretorius
+ball,2,3.5,Paarl Royals,K Verreynne,RA Herman,M Jansen,1,0,,,,,,"",""
+ball,2,3.6,Paarl Royals,RA Herman,K Verreynne,M Jansen,0,0,,,,,,"",""
+ball,2,4.1,Paarl Royals,K Verreynne,RA Herman,KTH Ratnayake,1,0,,,,,,"",""
+ball,2,4.2,Paarl Royals,RA Herman,K Verreynne,KTH Ratnayake,1,0,,,,,,"",""
+ball,2,4.3,Paarl Royals,K Verreynne,RA Herman,KTH Ratnayake,1,0,,,,,,"",""
+ball,2,4.4,Paarl Royals,RA Herman,K Verreynne,KTH Ratnayake,4,0,,,,,,"",""
+ball,2,4.5,Paarl Royals,RA Herman,K Verreynne,KTH Ratnayake,0,0,,,,,,"",""
+ball,2,4.6,Paarl Royals,RA Herman,K Verreynne,KTH Ratnayake,1,0,,,,,,"",""
+ball,2,5.1,Paarl Royals,RA Herman,K Verreynne,M Jansen,0,0,,,,,,"",""
+ball,2,5.2,Paarl Royals,RA Herman,K Verreynne,M Jansen,0,0,,,,,,"",""
+ball,2,5.3,Paarl Royals,RA Herman,K Verreynne,M Jansen,0,0,,,,,,"",""
+ball,2,5.4,Paarl Royals,RA Herman,K Verreynne,M Jansen,0,0,,,,,,"",""
+ball,2,5.5,Paarl Royals,RA Herman,K Verreynne,M Jansen,0,0,,,,,,"",""
+ball,2,5.6,Paarl Royals,RA Herman,K Verreynne,M Jansen,2,0,,,,,,"",""
+ball,2,6.1,Paarl Royals,K Verreynne,RA Herman,A Nortje,0,0,,,,,,"",""
+ball,2,6.2,Paarl Royals,K Verreynne,RA Herman,A Nortje,0,0,,,,,,bowled,K Verreynne
+ball,2,6.3,Paarl Royals,DA Miller,RA Herman,A Nortje,4,0,,,,,,"",""
+ball,2,6.4,Paarl Royals,DA Miller,RA Herman,A Nortje,1,0,,,,,,"",""
+ball,2,6.5,Paarl Royals,RA Herman,DA Miller,A Nortje,0,0,,,,,,"",""
+ball,2,6.6,Paarl Royals,RA Herman,DA Miller,A Nortje,0,0,,,,,,caught,RA Herman
+ball,2,7.1,Paarl Royals,DA Miller,K Lion-Cachet,KTH Ratnayake,6,0,,,,,,"",""
+ball,2,7.2,Paarl Royals,DA Miller,K Lion-Cachet,KTH Ratnayake,0,0,,,,,,"",""
+ball,2,7.3,Paarl Royals,DA Miller,K Lion-Cachet,KTH Ratnayake,0,0,,,,,,"",""
+ball,2,7.4,Paarl Royals,DA Miller,K Lion-Cachet,KTH Ratnayake,1,0,,,,,,"",""
+ball,2,7.5,Paarl Royals,K Lion-Cachet,DA Miller,KTH Ratnayake,1,0,,,,,,"",""
+ball,2,7.6,Paarl Royals,DA Miller,K Lion-Cachet,KTH Ratnayake,2,0,,,,,,"",""
+ball,2,8.1,Paarl Royals,K Lion-Cachet,DA Miller,A Nortje,0,0,,,,,,"",""
+ball,2,8.2,Paarl Royals,K Lion-Cachet,DA Miller,A Nortje,1,0,,,,,,"",""
+ball,2,8.3,Paarl Royals,DA Miller,K Lion-Cachet,A Nortje,0,0,,,,,,"",""
+ball,2,8.4,Paarl Royals,DA Miller,K Lion-Cachet,A Nortje,1,0,,,,,,"",""
+ball,2,8.5,Paarl Royals,K Lion-Cachet,DA Miller,A Nortje,0,0,,,,,,"",""
+ball,2,8.6,Paarl Royals,K Lion-Cachet,DA Miller,A Nortje,0,1,,,,1,,"",""
+ball,2,9.1,Paarl Royals,K Lion-Cachet,DA Miller,L Gregory,1,0,,,,,,"",""
+ball,2,9.2,Paarl Royals,DA Miller,K Lion-Cachet,L Gregory,1,0,,,,,,"",""
+ball,2,9.3,Paarl Royals,K Lion-Cachet,DA Miller,L Gregory,1,0,,,,,,"",""
+ball,2,9.4,Paarl Royals,DA Miller,K Lion-Cachet,L Gregory,1,0,,,,,,"",""
+ball,2,9.5,Paarl Royals,K Lion-Cachet,DA Miller,L Gregory,0,1,1,,,,,"",""
+ball,2,9.6,Paarl Royals,K Lion-Cachet,DA Miller,L Gregory,0,0,,,,,,"",""
+ball,2,9.7,Paarl Royals,K Lion-Cachet,DA Miller,L Gregory,1,0,,,,,,"",""
+ball,2,10.1,Paarl Royals,K Lion-Cachet,DA Miller,AF Milne,1,0,,,,,,"",""
+ball,2,10.2,Paarl Royals,DA Miller,K Lion-Cachet,AF Milne,0,0,,,,,,"",""
+ball,2,10.3,Paarl Royals,DA Miller,K Lion-Cachet,AF Milne,1,0,,,,,,"",""
+ball,2,10.4,Paarl Royals,K Lion-Cachet,DA Miller,AF Milne,0,0,,,,,,"",""
+ball,2,10.5,Paarl Royals,K Lion-Cachet,DA Miller,AF Milne,0,0,,,,,,"",""
+ball,2,10.6,Paarl Royals,K Lion-Cachet,DA Miller,AF Milne,0,0,,,,,,"",""
+ball,2,11.1,Paarl Royals,DA Miller,K Lion-Cachet,L Gregory,6,0,,,,,,"",""
+ball,2,11.2,Paarl Royals,DA Miller,K Lion-Cachet,L Gregory,0,0,,,,,,"",""
+ball,2,11.3,Paarl Royals,DA Miller,K Lion-Cachet,L Gregory,1,0,,,,,,"",""
+ball,2,11.4,Paarl Royals,K Lion-Cachet,DA Miller,L Gregory,0,0,,,,,,"",""
+ball,2,11.5,Paarl Royals,K Lion-Cachet,DA Miller,L Gregory,2,0,,,,,,"",""
+ball,2,11.6,Paarl Royals,K Lion-Cachet,DA Miller,L Gregory,0,0,,,,,,"",""
+ball,2,12.1,Paarl Royals,DA Miller,K Lion-Cachet,KTH Ratnayake,1,0,,,,,,"",""
+ball,2,12.2,Paarl Royals,K Lion-Cachet,DA Miller,KTH Ratnayake,2,0,,,,,,"",""
+ball,2,12.3,Paarl Royals,K Lion-Cachet,DA Miller,KTH Ratnayake,4,0,,,,,,"",""
+ball,2,12.4,Paarl Royals,K Lion-Cachet,DA Miller,KTH Ratnayake,1,0,,,,,,"",""
+ball,2,12.5,Paarl Royals,DA Miller,K Lion-Cachet,KTH Ratnayake,4,0,,,,,,"",""
+ball,2,12.6,Paarl Royals,DA Miller,K Lion-Cachet,KTH Ratnayake,1,0,,,,,,"",""
+ball,2,13.1,Paarl Royals,DA Miller,K Lion-Cachet,A Nortje,0,1,,,,1,,"",""
+ball,2,13.2,Paarl Royals,K Lion-Cachet,DA Miller,A Nortje,0,0,,,,,,"",""
+ball,2,13.3,Paarl Royals,K Lion-Cachet,DA Miller,A Nortje,2,0,,,,,,"",""
+ball,2,13.4,Paarl Royals,K Lion-Cachet,DA Miller,A Nortje,1,0,,,,,,"",""
+ball,2,13.5,Paarl Royals,DA Miller,K Lion-Cachet,A Nortje,4,0,,,,,,"",""
+ball,2,13.6,Paarl Royals,DA Miller,K Lion-Cachet,A Nortje,1,0,,,,,,"",""
+ball,2,14.1,Paarl Royals,DA Miller,K Lion-Cachet,L Gregory,6,0,,,,,,"",""
+ball,2,14.2,Paarl Royals,DA Miller,K Lion-Cachet,L Gregory,2,0,,,,,,"",""
+ball,2,14.3,Paarl Royals,DA Miller,K Lion-Cachet,L Gregory,2,0,,,,,,"",""
+ball,2,14.4,Paarl Royals,DA Miller,K Lion-Cachet,L Gregory,1,0,,,,,,"",""
+ball,2,14.5,Paarl Royals,K Lion-Cachet,DA Miller,L Gregory,1,0,,,,,,"",""
+ball,2,14.6,Paarl Royals,DA Miller,K Lion-Cachet,L Gregory,1,0,,,,,,"",""
+ball,2,15.1,Paarl Royals,DA Miller,K Lion-Cachet,KTH Ratnayake,6,0,,,,,,"",""
+ball,2,15.2,Paarl Royals,DA Miller,K Lion-Cachet,KTH Ratnayake,1,0,,,,,,"",""
+ball,2,15.3,Paarl Royals,K Lion-Cachet,DA Miller,KTH Ratnayake,4,0,,,,,,"",""
+ball,2,15.4,Paarl Royals,K Lion-Cachet,DA Miller,KTH Ratnayake,1,0,,,,,,"",""
+ball,2,15.5,Paarl Royals,DA Miller,K Lion-Cachet,KTH Ratnayake,6,0,,,,,,"",""
+ball,2,15.6,Paarl Royals,DA Miller,K Lion-Cachet,KTH Ratnayake,1,0,,,,,,"",""
+ball,2,16.1,Paarl Royals,DA Miller,K Lion-Cachet,AF Milne,1,0,,,,,,"",""
+ball,2,16.2,Paarl Royals,K Lion-Cachet,DA Miller,AF Milne,1,0,,,,,,"",""
+ball,2,16.3,Paarl Royals,DA Miller,K Lion-Cachet,AF Milne,0,0,,,,,,"",""
+ball,2,16.4,Paarl Royals,DA Miller,K Lion-Cachet,AF Milne,1,0,,,,,,"",""
+ball,2,16.5,Paarl Royals,K Lion-Cachet,DA Miller,AF Milne,1,0,,,,,,"",""
+ball,2,16.6,Paarl Royals,DA Miller,K Lion-Cachet,AF Milne,4,0,,,,,,"",""
+ball,2,17.1,Paarl Royals,K Lion-Cachet,DA Miller,A Nortje,0,0,,,,,,"",""
+ball,2,17.2,Paarl Royals,K Lion-Cachet,DA Miller,A Nortje,1,0,,,,,,"",""
+ball,2,17.3,Paarl Royals,DA Miller,K Lion-Cachet,A Nortje,1,0,,,,,,"",""
+ball,2,17.4,Paarl Royals,K Lion-Cachet,DA Miller,A Nortje,4,0,,,,,,"",""
+ball,2,17.5,Paarl Royals,K Lion-Cachet,DA Miller,A Nortje,0,0,,,,,,"",""
+ball,2,17.6,Paarl Royals,K Lion-Cachet,DA Miller,A Nortje,0,0,,,,,,"",""
+ball,2,18.1,Paarl Royals,DA Miller,K Lion-Cachet,M Jansen,1,0,,,,,,"",""
+ball,2,18.2,Paarl Royals,K Lion-Cachet,DA Miller,M Jansen,4,0,,,,,,"",""
+ball,2,18.3,Paarl Royals,K Lion-Cachet,DA Miller,M Jansen,4,0,,,,,,"",""
+ball,2,18.4,Paarl Royals,K Lion-Cachet,DA Miller,M Jansen,0,0,,,,,,"",""
+ball,2,18.5,Paarl Royals,K Lion-Cachet,DA Miller,M Jansen,2,0,,,,,,"",""
+ball,2,18.6,Paarl Royals,K Lion-Cachet,DA Miller,M Jansen,4,0,,,,,,"",""
+ball,2,19.1,Paarl Royals,DA Miller,K Lion-Cachet,L Gregory,1,0,,,,,,"",""
+ball,2,19.2,Paarl Royals,K Lion-Cachet,DA Miller,L Gregory,0,0,,,,,,"",""
+ball,2,19.3,Paarl Royals,K Lion-Cachet,DA Miller,L Gregory,0,0,,,,,,"",""
+ball,2,19.4,Paarl Royals,K Lion-Cachet,DA Miller,L Gregory,0,0,,,,,,caught,K Lion-Cachet
+ball,2,19.5,Paarl Royals,D Potgieter,DA Miller,L Gregory,0,1,1,,,,,"",""

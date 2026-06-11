@@ -1,0 +1,313 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Argentina
+info,team,Mexico
+info,gender,male
+info,season,2025/26
+info,date,2026/03/11
+info,event,ICC Men's T20 World Cup Sub Regional Americas Qualifier B
+info,match_number,6
+info,venue,"Jimmy Powell Oval, Cayman Islands"
+info,city,George Town
+info,toss_winner,Mexico
+info,toss_decision,field
+info,player_of_match,A Kirschbaum
+info,umpire,A Gajjar
+info,umpire,R Shah
+info,reserve_umpire,AR Maddela
+info,match_referee,Denavon Hayles
+info,winner,Argentina
+info,winner_runs,62
+info,player,Argentina,P Baron
+info,player,Argentina,A Ferguson
+info,player,Argentina,Lucas Rossi
+info,player,Argentina,A Kirschbaum
+info,player,Argentina,T Rossi
+info,player,Argentina,AAP Rivero
+info,player,Argentina,H Fennell
+info,player,Argentina,R Escobar
+info,player,Argentina,A Husain
+info,player,Argentina,Manuel Iturbe
+info,player,Argentina,JP Cabrera
+info,player,Mexico,R Galgalikar
+info,player,Mexico,Kaushal Kumar
+info,player,Mexico,Amir Butt
+info,player,Mexico,Gurpreet Singh
+info,player,Mexico,KB Patil
+info,player,Mexico,D Panda
+info,player,Mexico,D Ebersohn
+info,player,Mexico,J Byrappa
+info,player,Mexico,Shantanu Kaveri
+info,player,Mexico,Shoaib Rafiq
+info,player,Mexico,Pratik Singh Bais
+info,registry,people,A Ferguson,4a8d1b14
+info,registry,people,A Gajjar,37db06ef
+info,registry,people,A Husain,034d3c52
+info,registry,people,A Kirschbaum,d953bf92
+info,registry,people,AAP Rivero,1911dcbc
+info,registry,people,AR Maddela,5c861579
+info,registry,people,Amir Butt,5bdf2343
+info,registry,people,D Ebersohn,6ca4e7bf
+info,registry,people,D Panda,bad1af65
+info,registry,people,Denavon Hayles,5cbeeb02
+info,registry,people,Gurpreet Singh,f43dcdc1
+info,registry,people,H Fennell,0d38ab25
+info,registry,people,J Byrappa,860f7b67
+info,registry,people,JP Cabrera,b30bfd44
+info,registry,people,KB Patil,0474fd64
+info,registry,people,Kaushal Kumar,8cc37805
+info,registry,people,Lucas Rossi,2064e555
+info,registry,people,Manuel Iturbe,bddbf5ec
+info,registry,people,P Baron,c6d1b1e4
+info,registry,people,Pratik Singh Bais,5b351aff
+info,registry,people,R Escobar,9fa5496f
+info,registry,people,R Galgalikar,3f951265
+info,registry,people,R Shah,3424e050
+info,registry,people,Shantanu Kaveri,091880f7
+info,registry,people,Shoaib Rafiq,27df03d2
+info,registry,people,T Rossi,5470418a
+ball,1,0.1,Argentina,P Baron,A Ferguson,Pratik Singh Bais,0,0,,,,,,"",""
+ball,1,0.2,Argentina,P Baron,A Ferguson,Pratik Singh Bais,0,0,,,,,,"",""
+ball,1,0.3,Argentina,P Baron,A Ferguson,Pratik Singh Bais,1,0,,,,,,"",""
+ball,1,0.4,Argentina,A Ferguson,P Baron,Pratik Singh Bais,0,0,,,,,,"",""
+ball,1,0.5,Argentina,A Ferguson,P Baron,Pratik Singh Bais,1,0,,,,,,"",""
+ball,1,0.6,Argentina,P Baron,A Ferguson,Pratik Singh Bais,0,1,1,,,,,"",""
+ball,1,0.7,Argentina,P Baron,A Ferguson,Pratik Singh Bais,0,1,,,1,,,"",""
+ball,1,1.1,Argentina,P Baron,A Ferguson,Shoaib Rafiq,0,0,,,,,,"",""
+ball,1,1.2,Argentina,P Baron,A Ferguson,Shoaib Rafiq,0,0,,,,,,"",""
+ball,1,1.3,Argentina,P Baron,A Ferguson,Shoaib Rafiq,4,0,,,,,,"",""
+ball,1,1.4,Argentina,P Baron,A Ferguson,Shoaib Rafiq,4,0,,,,,,"",""
+ball,1,1.5,Argentina,P Baron,A Ferguson,Shoaib Rafiq,0,0,,,,,,"",""
+ball,1,1.6,Argentina,P Baron,A Ferguson,Shoaib Rafiq,1,0,,,,,,"",""
+ball,1,2.1,Argentina,P Baron,A Ferguson,Pratik Singh Bais,1,0,,,,,,"",""
+ball,1,2.2,Argentina,A Ferguson,P Baron,Pratik Singh Bais,1,0,,,,,,"",""
+ball,1,2.3,Argentina,P Baron,A Ferguson,Pratik Singh Bais,0,0,,,,,,"",""
+ball,1,2.4,Argentina,P Baron,A Ferguson,Pratik Singh Bais,0,0,,,,,,"",""
+ball,1,2.5,Argentina,P Baron,A Ferguson,Pratik Singh Bais,1,0,,,,,,"",""
+ball,1,2.6,Argentina,A Ferguson,P Baron,Pratik Singh Bais,0,0,,,,,,"",""
+ball,1,3.1,Argentina,P Baron,A Ferguson,Shoaib Rafiq,0,0,,,,,,"",""
+ball,1,3.2,Argentina,P Baron,A Ferguson,Shoaib Rafiq,0,1,,,,1,,"",""
+ball,1,3.3,Argentina,A Ferguson,P Baron,Shoaib Rafiq,1,0,,,,,,"",""
+ball,1,3.4,Argentina,P Baron,A Ferguson,Shoaib Rafiq,0,0,,,,,,"",""
+ball,1,3.5,Argentina,P Baron,A Ferguson,Shoaib Rafiq,0,0,,,,,,"",""
+ball,1,3.6,Argentina,P Baron,A Ferguson,Shoaib Rafiq,0,0,,,,,,"",""
+ball,1,4.1,Argentina,A Ferguson,P Baron,Pratik Singh Bais,0,0,,,,,,"",""
+ball,1,4.2,Argentina,A Ferguson,P Baron,Pratik Singh Bais,0,0,,,,,,"",""
+ball,1,4.3,Argentina,A Ferguson,P Baron,Pratik Singh Bais,4,0,,,,,,"",""
+ball,1,4.4,Argentina,A Ferguson,P Baron,Pratik Singh Bais,1,0,,,,,,"",""
+ball,1,4.5,Argentina,P Baron,A Ferguson,Pratik Singh Bais,4,0,,,,,,"",""
+ball,1,4.6,Argentina,P Baron,A Ferguson,Pratik Singh Bais,2,0,,,,,,"",""
+ball,1,5.1,Argentina,A Ferguson,P Baron,Shoaib Rafiq,4,0,,,,,,"",""
+ball,1,5.2,Argentina,A Ferguson,P Baron,Shoaib Rafiq,2,0,,,,,,"",""
+ball,1,5.3,Argentina,A Ferguson,P Baron,Shoaib Rafiq,0,0,,,,,,"",""
+ball,1,5.4,Argentina,A Ferguson,P Baron,Shoaib Rafiq,2,0,,,,,,"",""
+ball,1,5.5,Argentina,A Ferguson,P Baron,Shoaib Rafiq,0,1,1,,,,,"",""
+ball,1,5.6,Argentina,A Ferguson,P Baron,Shoaib Rafiq,0,0,,,,,,"",""
+ball,1,5.7,Argentina,A Ferguson,P Baron,Shoaib Rafiq,0,0,,,,,,"",""
+ball,1,6.1,Argentina,P Baron,A Ferguson,D Panda,1,0,,,,,,"",""
+ball,1,6.2,Argentina,A Ferguson,P Baron,D Panda,0,1,1,,,,,"",""
+ball,1,6.3,Argentina,A Ferguson,P Baron,D Panda,1,0,,,,,,"",""
+ball,1,6.4,Argentina,P Baron,A Ferguson,D Panda,4,0,,,,,,"",""
+ball,1,6.5,Argentina,P Baron,A Ferguson,D Panda,1,0,,,,,,"",""
+ball,1,6.6,Argentina,A Ferguson,P Baron,D Panda,0,0,,,,,,caught,A Ferguson
+ball,1,6.7,Argentina,Lucas Rossi,P Baron,D Panda,1,0,,,,,,"",""
+ball,1,7.1,Argentina,Lucas Rossi,P Baron,Gurpreet Singh,0,0,,,,,,"",""
+ball,1,7.2,Argentina,Lucas Rossi,P Baron,Gurpreet Singh,0,0,,,,,,"",""
+ball,1,7.3,Argentina,Lucas Rossi,P Baron,Gurpreet Singh,1,0,,,,,,"",""
+ball,1,7.4,Argentina,P Baron,Lucas Rossi,Gurpreet Singh,1,0,,,,,,"",""
+ball,1,7.5,Argentina,Lucas Rossi,P Baron,Gurpreet Singh,1,0,,,,,,"",""
+ball,1,7.6,Argentina,P Baron,Lucas Rossi,Gurpreet Singh,1,0,,,,,,"",""
+ball,1,8.1,Argentina,P Baron,Lucas Rossi,D Panda,1,0,,,,,,"",""
+ball,1,8.2,Argentina,Lucas Rossi,P Baron,D Panda,1,0,,,,,,"",""
+ball,1,8.3,Argentina,P Baron,Lucas Rossi,D Panda,1,0,,,,,,"",""
+ball,1,8.4,Argentina,Lucas Rossi,P Baron,D Panda,1,0,,,,,,"",""
+ball,1,8.5,Argentina,P Baron,Lucas Rossi,D Panda,1,0,,,,,,"",""
+ball,1,8.6,Argentina,Lucas Rossi,P Baron,D Panda,0,0,,,,,,"",""
+ball,1,9.1,Argentina,P Baron,Lucas Rossi,Gurpreet Singh,1,0,,,,,,"",""
+ball,1,9.2,Argentina,Lucas Rossi,P Baron,Gurpreet Singh,0,0,,,,,,caught,Lucas Rossi
+ball,1,9.3,Argentina,A Kirschbaum,P Baron,Gurpreet Singh,1,0,,,,,,"",""
+ball,1,9.4,Argentina,P Baron,A Kirschbaum,Gurpreet Singh,1,0,,,,,,"",""
+ball,1,9.5,Argentina,A Kirschbaum,P Baron,Gurpreet Singh,0,0,,,,,,"",""
+ball,1,9.6,Argentina,A Kirschbaum,P Baron,Gurpreet Singh,2,0,,,,,,"",""
+ball,1,10.1,Argentina,P Baron,A Kirschbaum,D Panda,1,0,,,,,,"",""
+ball,1,10.2,Argentina,A Kirschbaum,P Baron,D Panda,1,0,,,,,,"",""
+ball,1,10.3,Argentina,P Baron,A Kirschbaum,D Panda,4,0,,,,,,"",""
+ball,1,10.4,Argentina,P Baron,A Kirschbaum,D Panda,0,0,,,,,,"",""
+ball,1,10.5,Argentina,P Baron,A Kirschbaum,D Panda,1,0,,,,,,"",""
+ball,1,10.6,Argentina,A Kirschbaum,P Baron,D Panda,0,0,,,,,,"",""
+ball,1,11.1,Argentina,P Baron,A Kirschbaum,Gurpreet Singh,1,0,,,,,,"",""
+ball,1,11.2,Argentina,A Kirschbaum,P Baron,Gurpreet Singh,0,0,,,,,,"",""
+ball,1,11.3,Argentina,A Kirschbaum,P Baron,Gurpreet Singh,1,0,,,,,,"",""
+ball,1,11.4,Argentina,P Baron,A Kirschbaum,Gurpreet Singh,4,0,,,,,,"",""
+ball,1,11.5,Argentina,P Baron,A Kirschbaum,Gurpreet Singh,0,0,,,,,,"",""
+ball,1,11.6,Argentina,P Baron,A Kirschbaum,Gurpreet Singh,1,0,,,,,,"",""
+ball,1,12.1,Argentina,P Baron,A Kirschbaum,Pratik Singh Bais,0,0,,,,,,"",""
+ball,1,12.2,Argentina,P Baron,A Kirschbaum,Pratik Singh Bais,1,0,,,,,,"",""
+ball,1,12.3,Argentina,A Kirschbaum,P Baron,Pratik Singh Bais,2,0,,,,,,"",""
+ball,1,12.4,Argentina,A Kirschbaum,P Baron,Pratik Singh Bais,0,0,,,,,,"",""
+ball,1,12.5,Argentina,A Kirschbaum,P Baron,Pratik Singh Bais,2,0,,,,,,"",""
+ball,1,12.6,Argentina,A Kirschbaum,P Baron,Pratik Singh Bais,6,0,,,,,,"",""
+ball,1,13.1,Argentina,P Baron,A Kirschbaum,Amir Butt,0,0,,,,,,"",""
+ball,1,13.2,Argentina,P Baron,A Kirschbaum,Amir Butt,1,0,,,,,,"",""
+ball,1,13.3,Argentina,A Kirschbaum,P Baron,Amir Butt,2,0,,,,,,"",""
+ball,1,13.4,Argentina,A Kirschbaum,P Baron,Amir Butt,1,0,,,,,,"",""
+ball,1,13.5,Argentina,P Baron,A Kirschbaum,Amir Butt,1,0,,,,,,"",""
+ball,1,13.6,Argentina,A Kirschbaum,P Baron,Amir Butt,1,0,,,,,,"",""
+ball,1,14.1,Argentina,A Kirschbaum,P Baron,J Byrappa,1,0,,,,,,"",""
+ball,1,14.2,Argentina,P Baron,A Kirschbaum,J Byrappa,2,0,,,,,,"",""
+ball,1,14.3,Argentina,P Baron,A Kirschbaum,J Byrappa,0,0,,,,,,"",""
+ball,1,14.4,Argentina,P Baron,A Kirschbaum,J Byrappa,1,0,,,,,,"",""
+ball,1,14.5,Argentina,A Kirschbaum,P Baron,J Byrappa,1,0,,,,,,"",""
+ball,1,14.6,Argentina,P Baron,A Kirschbaum,J Byrappa,1,0,,,,,,"",""
+ball,1,15.1,Argentina,P Baron,A Kirschbaum,Amir Butt,0,0,,,,,,"",""
+ball,1,15.2,Argentina,P Baron,A Kirschbaum,Amir Butt,1,0,,,,,,"",""
+ball,1,15.3,Argentina,A Kirschbaum,P Baron,Amir Butt,1,0,,,,,,"",""
+ball,1,15.4,Argentina,P Baron,A Kirschbaum,Amir Butt,6,0,,,,,,"",""
+ball,1,15.5,Argentina,P Baron,A Kirschbaum,Amir Butt,1,0,,,,,,"",""
+ball,1,15.6,Argentina,A Kirschbaum,P Baron,Amir Butt,1,0,,,,,,"",""
+ball,1,16.1,Argentina,A Kirschbaum,P Baron,J Byrappa,2,0,,,,,,"",""
+ball,1,16.2,Argentina,A Kirschbaum,P Baron,J Byrappa,2,0,,,,,,"",""
+ball,1,16.3,Argentina,A Kirschbaum,P Baron,J Byrappa,1,0,,,,,,"",""
+ball,1,16.4,Argentina,P Baron,A Kirschbaum,J Byrappa,1,0,,,,,,"",""
+ball,1,16.5,Argentina,A Kirschbaum,P Baron,J Byrappa,1,0,,,,,,"",""
+ball,1,16.6,Argentina,P Baron,A Kirschbaum,J Byrappa,1,0,,,,,,"",""
+ball,1,17.1,Argentina,P Baron,A Kirschbaum,Amir Butt,2,0,,,,,,"",""
+ball,1,17.2,Argentina,P Baron,A Kirschbaum,Amir Butt,0,0,,,,,,bowled,P Baron
+ball,1,17.3,Argentina,T Rossi,A Kirschbaum,Amir Butt,1,0,,,,,,"",""
+ball,1,17.4,Argentina,A Kirschbaum,T Rossi,Amir Butt,2,0,,,,,,"",""
+ball,1,17.5,Argentina,A Kirschbaum,T Rossi,Amir Butt,2,0,,,,,,"",""
+ball,1,17.6,Argentina,A Kirschbaum,T Rossi,Amir Butt,1,0,,,,,,"",""
+ball,1,18.1,Argentina,A Kirschbaum,T Rossi,J Byrappa,0,0,,,,,,"",""
+ball,1,18.2,Argentina,A Kirschbaum,T Rossi,J Byrappa,1,0,,,,,,"",""
+ball,1,18.3,Argentina,T Rossi,A Kirschbaum,J Byrappa,1,0,,,,,,"",""
+ball,1,18.4,Argentina,A Kirschbaum,T Rossi,J Byrappa,0,0,,,,,,run out,A Kirschbaum
+ball,1,18.5,Argentina,T Rossi,AAP Rivero,J Byrappa,0,1,1,,,,,"",""
+ball,1,18.6,Argentina,T Rossi,AAP Rivero,J Byrappa,1,0,,,,,,"",""
+ball,1,18.7,Argentina,AAP Rivero,T Rossi,J Byrappa,2,0,,,,,,"",""
+ball,1,19.1,Argentina,T Rossi,AAP Rivero,Amir Butt,2,0,,,,,,"",""
+ball,1,19.2,Argentina,T Rossi,AAP Rivero,Amir Butt,6,0,,,,,,"",""
+ball,1,19.3,Argentina,T Rossi,AAP Rivero,Amir Butt,4,0,,,,,,"",""
+ball,1,19.4,Argentina,T Rossi,AAP Rivero,Amir Butt,6,0,,,,,,"",""
+ball,1,19.5,Argentina,T Rossi,AAP Rivero,Amir Butt,1,0,,,,,,"",""
+ball,1,19.6,Argentina,AAP Rivero,T Rossi,Amir Butt,4,0,,,,,,"",""
+ball,2,0.1,Mexico,R Galgalikar,Kaushal Kumar,A Kirschbaum,0,0,,,,,,"",""
+ball,2,0.2,Mexico,R Galgalikar,Kaushal Kumar,A Kirschbaum,0,0,,,,,,"",""
+ball,2,0.3,Mexico,R Galgalikar,Kaushal Kumar,A Kirschbaum,1,0,,,,,,"",""
+ball,2,0.4,Mexico,Kaushal Kumar,R Galgalikar,A Kirschbaum,0,0,,,,,,"",""
+ball,2,0.5,Mexico,Kaushal Kumar,R Galgalikar,A Kirschbaum,0,0,,,,,,caught,Kaushal Kumar
+ball,2,0.6,Mexico,Amir Butt,R Galgalikar,A Kirschbaum,0,0,,,,,,"",""
+ball,2,1.1,Mexico,R Galgalikar,Amir Butt,H Fennell,0,0,,,,,,"",""
+ball,2,1.2,Mexico,R Galgalikar,Amir Butt,H Fennell,0,0,,,,,,"",""
+ball,2,1.3,Mexico,R Galgalikar,Amir Butt,H Fennell,0,0,,,,,,"",""
+ball,2,1.4,Mexico,R Galgalikar,Amir Butt,H Fennell,0,0,,,,,,caught,R Galgalikar
+ball,2,1.5,Mexico,Gurpreet Singh,Amir Butt,H Fennell,0,0,,,,,,"",""
+ball,2,1.6,Mexico,Gurpreet Singh,Amir Butt,H Fennell,1,0,,,,,,"",""
+ball,2,2.1,Mexico,Gurpreet Singh,Amir Butt,A Kirschbaum,0,0,,,,,,"",""
+ball,2,2.2,Mexico,Gurpreet Singh,Amir Butt,A Kirschbaum,0,0,,,,,,caught,Gurpreet Singh
+ball,2,2.3,Mexico,KB Patil,Amir Butt,A Kirschbaum,4,0,,,,,,"",""
+ball,2,2.4,Mexico,KB Patil,Amir Butt,A Kirschbaum,0,0,,,,,,"",""
+ball,2,2.5,Mexico,KB Patil,Amir Butt,A Kirschbaum,2,0,,,,,,"",""
+ball,2,2.6,Mexico,KB Patil,Amir Butt,A Kirschbaum,0,0,,,,,,"",""
+ball,2,3.1,Mexico,Amir Butt,KB Patil,H Fennell,6,0,,,,,,"",""
+ball,2,3.2,Mexico,Amir Butt,KB Patil,H Fennell,0,0,,,,,,"",""
+ball,2,3.3,Mexico,Amir Butt,KB Patil,H Fennell,0,0,,,,,,"",""
+ball,2,3.4,Mexico,Amir Butt,KB Patil,H Fennell,0,0,,,,,,"",""
+ball,2,3.5,Mexico,Amir Butt,KB Patil,H Fennell,1,0,,,,,,"",""
+ball,2,3.6,Mexico,KB Patil,Amir Butt,H Fennell,0,0,,,,,,"",""
+ball,2,4.1,Mexico,Amir Butt,KB Patil,A Husain,0,0,,,,,,"",""
+ball,2,4.2,Mexico,Amir Butt,KB Patil,A Husain,1,0,,,,,,"",""
+ball,2,4.3,Mexico,KB Patil,Amir Butt,A Husain,4,0,,,,,,"",""
+ball,2,4.4,Mexico,KB Patil,Amir Butt,A Husain,0,0,,,,,,"",""
+ball,2,4.5,Mexico,KB Patil,Amir Butt,A Husain,1,0,,,,,,"",""
+ball,2,4.6,Mexico,Amir Butt,KB Patil,A Husain,1,0,,,,,,"",""
+ball,2,5.1,Mexico,Amir Butt,KB Patil,JP Cabrera,1,0,,,,,,"",""
+ball,2,5.2,Mexico,KB Patil,Amir Butt,JP Cabrera,1,0,,,,,,"",""
+ball,2,5.3,Mexico,Amir Butt,KB Patil,JP Cabrera,0,0,,,,,,"",""
+ball,2,5.4,Mexico,Amir Butt,KB Patil,JP Cabrera,2,0,,,,,,"",""
+ball,2,5.5,Mexico,Amir Butt,KB Patil,JP Cabrera,1,0,,,,,,"",""
+ball,2,5.6,Mexico,KB Patil,Amir Butt,JP Cabrera,1,0,,,,,,"",""
+ball,2,6.1,Mexico,KB Patil,Amir Butt,A Husain,0,1,1,,,,,"",""
+ball,2,6.2,Mexico,KB Patil,Amir Butt,A Husain,1,0,,,,,,"",""
+ball,2,6.3,Mexico,Amir Butt,KB Patil,A Husain,0,0,,,,,,"",""
+ball,2,6.4,Mexico,Amir Butt,KB Patil,A Husain,0,0,,,,,,"",""
+ball,2,6.5,Mexico,Amir Butt,KB Patil,A Husain,0,0,,,,,,"",""
+ball,2,6.6,Mexico,Amir Butt,KB Patil,A Husain,1,0,,,,,,"",""
+ball,2,6.7,Mexico,KB Patil,Amir Butt,A Husain,0,0,,,,,,"",""
+ball,2,7.1,Mexico,Amir Butt,KB Patil,JP Cabrera,1,0,,,,,,"",""
+ball,2,7.2,Mexico,KB Patil,Amir Butt,JP Cabrera,1,0,,,,,,"",""
+ball,2,7.3,Mexico,Amir Butt,KB Patil,JP Cabrera,0,0,,,,,,caught,Amir Butt
+ball,2,7.4,Mexico,D Panda,KB Patil,JP Cabrera,2,0,,,,,,"",""
+ball,2,7.5,Mexico,D Panda,KB Patil,JP Cabrera,1,0,,,,,,"",""
+ball,2,7.6,Mexico,KB Patil,D Panda,JP Cabrera,0,0,,,,,,"",""
+ball,2,8.1,Mexico,D Panda,KB Patil,A Husain,1,0,,,,,,"",""
+ball,2,8.2,Mexico,KB Patil,D Panda,A Husain,1,0,,,,,,"",""
+ball,2,8.3,Mexico,D Panda,KB Patil,A Husain,1,0,,,,,,"",""
+ball,2,8.4,Mexico,KB Patil,D Panda,A Husain,2,0,,,,,,"",""
+ball,2,8.5,Mexico,KB Patil,D Panda,A Husain,1,0,,,,,,"",""
+ball,2,8.6,Mexico,D Panda,KB Patil,A Husain,1,0,,,,,,"",""
+ball,2,9.1,Mexico,D Panda,KB Patil,JP Cabrera,1,0,,,,,,"",""
+ball,2,9.2,Mexico,KB Patil,D Panda,JP Cabrera,0,0,,,,,,"",""
+ball,2,9.3,Mexico,KB Patil,D Panda,JP Cabrera,1,0,,,,,,"",""
+ball,2,9.4,Mexico,D Panda,KB Patil,JP Cabrera,1,0,,,,,,"",""
+ball,2,9.5,Mexico,KB Patil,D Panda,JP Cabrera,0,0,,,,,,caught,KB Patil
+ball,2,9.6,Mexico,D Ebersohn,D Panda,JP Cabrera,0,0,,,,,,"",""
+ball,2,10.1,Mexico,D Panda,D Ebersohn,Lucas Rossi,0,0,,,,,,"",""
+ball,2,10.2,Mexico,D Panda,D Ebersohn,Lucas Rossi,0,0,,,,,,"",""
+ball,2,10.3,Mexico,D Panda,D Ebersohn,Lucas Rossi,0,0,,,,,,"",""
+ball,2,10.4,Mexico,D Panda,D Ebersohn,Lucas Rossi,0,0,,,,,,"",""
+ball,2,10.5,Mexico,D Panda,D Ebersohn,Lucas Rossi,1,0,,,,,,"",""
+ball,2,10.6,Mexico,D Ebersohn,D Panda,Lucas Rossi,0,0,,,,,,"",""
+ball,2,11.1,Mexico,D Panda,D Ebersohn,JP Cabrera,1,0,,,,,,"",""
+ball,2,11.2,Mexico,D Ebersohn,D Panda,JP Cabrera,1,0,,,,,,"",""
+ball,2,11.3,Mexico,D Panda,D Ebersohn,JP Cabrera,0,0,,,,,,"",""
+ball,2,11.4,Mexico,D Panda,D Ebersohn,JP Cabrera,1,0,,,,,,"",""
+ball,2,11.5,Mexico,D Ebersohn,D Panda,JP Cabrera,0,0,,,,,,"",""
+ball,2,11.6,Mexico,D Ebersohn,D Panda,JP Cabrera,1,0,,,,,,"",""
+ball,2,12.1,Mexico,D Ebersohn,D Panda,Lucas Rossi,2,0,,,,,,"",""
+ball,2,12.2,Mexico,D Ebersohn,D Panda,Lucas Rossi,0,0,,,,,,"",""
+ball,2,12.3,Mexico,D Ebersohn,D Panda,Lucas Rossi,2,0,,,,,,"",""
+ball,2,12.4,Mexico,D Ebersohn,D Panda,Lucas Rossi,1,0,,,,,,"",""
+ball,2,12.5,Mexico,D Panda,D Ebersohn,Lucas Rossi,1,0,,,,,,"",""
+ball,2,12.6,Mexico,D Ebersohn,D Panda,Lucas Rossi,0,0,,,,,,"",""
+ball,2,13.1,Mexico,D Panda,D Ebersohn,AAP Rivero,2,0,,,,,,"",""
+ball,2,13.2,Mexico,D Panda,D Ebersohn,AAP Rivero,1,0,,,,,,"",""
+ball,2,13.3,Mexico,D Ebersohn,D Panda,AAP Rivero,0,0,,,,,,"",""
+ball,2,13.4,Mexico,D Ebersohn,D Panda,AAP Rivero,0,0,,,,,,"",""
+ball,2,13.5,Mexico,D Ebersohn,D Panda,AAP Rivero,0,0,,,,,,"",""
+ball,2,13.6,Mexico,D Ebersohn,D Panda,AAP Rivero,1,0,,,,,,"",""
+ball,2,14.1,Mexico,D Ebersohn,D Panda,Lucas Rossi,0,0,,,,,,"",""
+ball,2,14.2,Mexico,D Ebersohn,D Panda,Lucas Rossi,1,0,,,,,,"",""
+ball,2,14.3,Mexico,D Panda,D Ebersohn,Lucas Rossi,2,0,,,,,,"",""
+ball,2,14.4,Mexico,D Panda,D Ebersohn,Lucas Rossi,1,0,,,,,,"",""
+ball,2,14.5,Mexico,D Ebersohn,D Panda,Lucas Rossi,0,0,,,,,,"",""
+ball,2,14.6,Mexico,D Ebersohn,D Panda,Lucas Rossi,1,0,,,,,,"",""
+ball,2,15.1,Mexico,D Ebersohn,D Panda,AAP Rivero,0,0,,,,,,"",""
+ball,2,15.2,Mexico,D Ebersohn,D Panda,AAP Rivero,0,0,,,,,,"",""
+ball,2,15.3,Mexico,D Ebersohn,D Panda,AAP Rivero,0,0,,,,,,lbw,D Ebersohn
+ball,2,15.4,Mexico,J Byrappa,D Panda,AAP Rivero,1,0,,,,,,"",""
+ball,2,15.5,Mexico,D Panda,J Byrappa,AAP Rivero,2,0,,,,,,"",""
+ball,2,15.6,Mexico,D Panda,J Byrappa,AAP Rivero,0,0,,,,,,"",""
+ball,2,16.1,Mexico,J Byrappa,D Panda,H Fennell,1,0,,,,,,"",""
+ball,2,16.2,Mexico,D Panda,J Byrappa,H Fennell,0,0,,,,,,caught,D Panda
+ball,2,16.3,Mexico,Shantanu Kaveri,J Byrappa,H Fennell,1,0,,,,,,"",""
+ball,2,16.4,Mexico,J Byrappa,Shantanu Kaveri,H Fennell,2,0,,,,,,"",""
+ball,2,16.5,Mexico,J Byrappa,Shantanu Kaveri,H Fennell,0,0,,,,,,"",""
+ball,2,16.6,Mexico,J Byrappa,Shantanu Kaveri,H Fennell,0,0,,,,,,"",""
+ball,2,17.1,Mexico,Shantanu Kaveri,J Byrappa,AAP Rivero,0,0,,,,,,"",""
+ball,2,17.2,Mexico,Shantanu Kaveri,J Byrappa,AAP Rivero,1,0,,,,,,"",""
+ball,2,17.3,Mexico,J Byrappa,Shantanu Kaveri,AAP Rivero,1,0,,,,,,"",""
+ball,2,17.4,Mexico,Shantanu Kaveri,J Byrappa,AAP Rivero,0,0,,,,,,"",""
+ball,2,17.5,Mexico,Shantanu Kaveri,J Byrappa,AAP Rivero,2,0,,,,,,"",""
+ball,2,17.6,Mexico,Shantanu Kaveri,J Byrappa,AAP Rivero,1,0,,,,,,"",""
+ball,2,18.1,Mexico,Shantanu Kaveri,J Byrappa,H Fennell,1,0,,,,,,"",""
+ball,2,18.2,Mexico,J Byrappa,Shantanu Kaveri,H Fennell,0,1,,,,1,,"",""
+ball,2,18.3,Mexico,Shantanu Kaveri,J Byrappa,H Fennell,2,0,,,,,,"",""
+ball,2,18.4,Mexico,Shantanu Kaveri,J Byrappa,H Fennell,1,0,,,,,,"",""
+ball,2,18.5,Mexico,J Byrappa,Shantanu Kaveri,H Fennell,0,0,,,,,,"",""
+ball,2,18.6,Mexico,J Byrappa,Shantanu Kaveri,H Fennell,0,1,,,,1,,"",""
+ball,2,19.1,Mexico,J Byrappa,Shantanu Kaveri,A Kirschbaum,1,0,,,,,,"",""
+ball,2,19.2,Mexico,Shantanu Kaveri,J Byrappa,A Kirschbaum,1,0,,,,,,"",""
+ball,2,19.3,Mexico,J Byrappa,Shantanu Kaveri,A Kirschbaum,0,1,,,1,,,"",""
+ball,2,19.4,Mexico,Shantanu Kaveri,J Byrappa,A Kirschbaum,0,0,,,,,,"",""
+ball,2,19.5,Mexico,Shantanu Kaveri,J Byrappa,A Kirschbaum,3,0,,,,,,"",""
+ball,2,19.6,Mexico,J Byrappa,Shantanu Kaveri,A Kirschbaum,1,0,,,,,,"",""

@@ -1,0 +1,329 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Durban's Super Giants
+info,team,Pretoria Capitals
+info,gender,male
+info,season,2024/25
+info,date,2025/01/10
+info,event,SA20
+info,match_number,2
+info,venue,"Kingsmead, Durban"
+info,city,Durban
+info,toss_winner,Durban's Super Giants
+info,toss_decision,bat
+info,player_of_match,Rahmanullah Gurbaz
+info,umpire,BP Jele
+info,umpire,LB Gcuma
+info,reserve_umpire,DJ Smith
+info,tv_umpire,A Steenkamp
+info,match_referee,GH Pienaar
+info,winner,Durban's Super Giants
+info,winner_runs,2
+info,player,Durban's Super Giants,B Parsons
+info,player,Durban's Super Giants,MP Breetzke
+info,player,Durban's Super Giants,KS Williamson
+info,player,Durban's Super Giants,Q de Kock
+info,player,Durban's Super Giants,H Klaasen
+info,player,Durban's Super Giants,PWA Mulder
+info,player,Durban's Super Giants,D Pretorius
+info,player,Durban's Super Giants,CR Woakes
+info,player,Durban's Super Giants,KA Maharaj
+info,player,Durban's Super Giants,Naveen-ul-Haq
+info,player,Durban's Super Giants,Noor Ahmad
+info,player,Pretoria Capitals,WG Jacks
+info,player,Pretoria Capitals,Rahmanullah Gurbaz
+info,player,Pretoria Capitals,RR Rossouw
+info,player,Pretoria Capitals,S Muthusamy
+info,player,Pretoria Capitals,LS Livingstone
+info,player,Pretoria Capitals,JDS Neesham
+info,player,Pretoria Capitals,K Verreynne
+info,player,Pretoria Capitals,S Stolk
+info,player,Pretoria Capitals,KI Simmonds
+info,player,Pretoria Capitals,E Bosch
+info,player,Pretoria Capitals,DM Dupavillon
+info,registry,people,A Steenkamp,89c62cf5
+info,registry,people,B Parsons,fc60e81a
+info,registry,people,BP Jele,7bb1331e
+info,registry,people,CR Woakes,4c5d73db
+info,registry,people,D Pretorius,11614d87
+info,registry,people,DJ Smith,d17bec15
+info,registry,people,DM Dupavillon,7cb2d9d2
+info,registry,people,E Bosch,28d6c44d
+info,registry,people,GH Pienaar,3516e46b
+info,registry,people,H Klaasen,235c2bb6
+info,registry,people,JDS Neesham,9219eff0
+info,registry,people,K Verreynne,bf814547
+info,registry,people,KA Maharaj,0b60eb09
+info,registry,people,KI Simmonds,3122c016
+info,registry,people,KS Williamson,d027ba9f
+info,registry,people,LB Gcuma,02ba88e3
+info,registry,people,LS Livingstone,50c6bc2b
+info,registry,people,MP Breetzke,35f173a0
+info,registry,people,Naveen-ul-Haq,c0c411cb
+info,registry,people,Noor Ahmad,efc04be7
+info,registry,people,PWA Mulder,c96f6ac5
+info,registry,people,Q de Kock,372455c4
+info,registry,people,RR Rossouw,cad00a4d
+info,registry,people,Rahmanullah Gurbaz,0bacade8
+info,registry,people,S Muthusamy,7dfb8890
+info,registry,people,S Stolk,407563b0
+info,registry,people,WG Jacks,9caf69a1
+ball,1,0.1,Durban's Super Giants,B Parsons,MP Breetzke,KI Simmonds,1,0,,,,,,"",""
+ball,1,0.2,Durban's Super Giants,MP Breetzke,B Parsons,KI Simmonds,1,0,,,,,,"",""
+ball,1,0.3,Durban's Super Giants,B Parsons,MP Breetzke,KI Simmonds,1,0,,,,,,"",""
+ball,1,0.4,Durban's Super Giants,MP Breetzke,B Parsons,KI Simmonds,4,0,,,,,,"",""
+ball,1,0.5,Durban's Super Giants,MP Breetzke,B Parsons,KI Simmonds,0,0,,,,,,"",""
+ball,1,0.6,Durban's Super Giants,MP Breetzke,B Parsons,KI Simmonds,0,0,,,,,,"",""
+ball,1,1.1,Durban's Super Giants,B Parsons,MP Breetzke,E Bosch,1,0,,,,,,"",""
+ball,1,1.2,Durban's Super Giants,MP Breetzke,B Parsons,E Bosch,1,0,,,,,,"",""
+ball,1,1.3,Durban's Super Giants,B Parsons,MP Breetzke,E Bosch,0,0,,,,,,"",""
+ball,1,1.4,Durban's Super Giants,B Parsons,MP Breetzke,E Bosch,0,0,,,,,,"",""
+ball,1,1.5,Durban's Super Giants,B Parsons,MP Breetzke,E Bosch,2,0,,,,,,"",""
+ball,1,1.6,Durban's Super Giants,B Parsons,MP Breetzke,E Bosch,0,0,,,,,,"",""
+ball,1,2.1,Durban's Super Giants,MP Breetzke,B Parsons,DM Dupavillon,0,0,,,,,,"",""
+ball,1,2.2,Durban's Super Giants,MP Breetzke,B Parsons,DM Dupavillon,4,0,,,,,,"",""
+ball,1,2.3,Durban's Super Giants,MP Breetzke,B Parsons,DM Dupavillon,6,0,,,,,,"",""
+ball,1,2.4,Durban's Super Giants,MP Breetzke,B Parsons,DM Dupavillon,4,0,,,,,,"",""
+ball,1,2.5,Durban's Super Giants,MP Breetzke,B Parsons,DM Dupavillon,1,0,,,,,,"",""
+ball,1,2.6,Durban's Super Giants,B Parsons,MP Breetzke,DM Dupavillon,1,0,,,,,,"",""
+ball,1,3.1,Durban's Super Giants,B Parsons,MP Breetzke,E Bosch,1,0,,,,,,"",""
+ball,1,3.2,Durban's Super Giants,MP Breetzke,B Parsons,E Bosch,4,0,,,,,,"",""
+ball,1,3.3,Durban's Super Giants,MP Breetzke,B Parsons,E Bosch,1,0,,,,,,"",""
+ball,1,3.4,Durban's Super Giants,B Parsons,MP Breetzke,E Bosch,0,1,,1,,,,"",""
+ball,1,3.5,Durban's Super Giants,B Parsons,MP Breetzke,E Bosch,0,1,1,,,,,"",""
+ball,1,3.6,Durban's Super Giants,B Parsons,MP Breetzke,E Bosch,6,0,,,,,,"",""
+ball,1,3.7,Durban's Super Giants,B Parsons,MP Breetzke,E Bosch,0,0,,,,,,"",""
+ball,1,3.8,Durban's Super Giants,B Parsons,MP Breetzke,E Bosch,0,0,,,,,,"",""
+ball,1,4.1,Durban's Super Giants,MP Breetzke,B Parsons,KI Simmonds,4,0,,,,,,"",""
+ball,1,4.2,Durban's Super Giants,MP Breetzke,B Parsons,KI Simmonds,1,0,,,,,,"",""
+ball,1,4.3,Durban's Super Giants,B Parsons,MP Breetzke,KI Simmonds,2,0,,,,,,"",""
+ball,1,4.4,Durban's Super Giants,B Parsons,MP Breetzke,KI Simmonds,4,0,,,,,,"",""
+ball,1,4.5,Durban's Super Giants,B Parsons,MP Breetzke,KI Simmonds,4,0,,,,,,"",""
+ball,1,4.6,Durban's Super Giants,B Parsons,MP Breetzke,KI Simmonds,4,0,,,,,,"",""
+ball,1,5.1,Durban's Super Giants,MP Breetzke,B Parsons,JDS Neesham,1,0,,,,,,"",""
+ball,1,5.2,Durban's Super Giants,B Parsons,MP Breetzke,JDS Neesham,4,0,,,,,,"",""
+ball,1,5.3,Durban's Super Giants,B Parsons,MP Breetzke,JDS Neesham,0,0,,,,,,"",""
+ball,1,5.4,Durban's Super Giants,B Parsons,MP Breetzke,JDS Neesham,1,0,,,,,,"",""
+ball,1,5.5,Durban's Super Giants,MP Breetzke,B Parsons,JDS Neesham,0,0,,,,,,"",""
+ball,1,5.6,Durban's Super Giants,MP Breetzke,B Parsons,JDS Neesham,1,0,,,,,,"",""
+ball,1,6.1,Durban's Super Giants,MP Breetzke,B Parsons,S Muthusamy,0,0,,,,,,"",""
+ball,1,6.2,Durban's Super Giants,MP Breetzke,B Parsons,S Muthusamy,0,0,,,,,,"",""
+ball,1,6.3,Durban's Super Giants,MP Breetzke,B Parsons,S Muthusamy,0,0,,,,,,caught,MP Breetzke
+ball,1,6.4,Durban's Super Giants,KS Williamson,B Parsons,S Muthusamy,0,0,,,,,,"",""
+ball,1,6.5,Durban's Super Giants,KS Williamson,B Parsons,S Muthusamy,1,0,,,,,,"",""
+ball,1,6.6,Durban's Super Giants,B Parsons,KS Williamson,S Muthusamy,1,0,,,,,,"",""
+ball,1,7.1,Durban's Super Giants,B Parsons,KS Williamson,LS Livingstone,0,0,,,,,,"",""
+ball,1,7.2,Durban's Super Giants,B Parsons,KS Williamson,LS Livingstone,4,0,,,,,,"",""
+ball,1,7.3,Durban's Super Giants,B Parsons,KS Williamson,LS Livingstone,0,0,,,,,,"",""
+ball,1,7.4,Durban's Super Giants,B Parsons,KS Williamson,LS Livingstone,6,0,,,,,,"",""
+ball,1,7.5,Durban's Super Giants,B Parsons,KS Williamson,LS Livingstone,2,0,,,,,,"",""
+ball,1,7.6,Durban's Super Giants,B Parsons,KS Williamson,LS Livingstone,0,1,1,,,,,"",""
+ball,1,7.7,Durban's Super Giants,B Parsons,KS Williamson,LS Livingstone,2,0,,,,,,"",""
+ball,1,8.1,Durban's Super Giants,KS Williamson,B Parsons,S Muthusamy,1,0,,,,,,"",""
+ball,1,8.2,Durban's Super Giants,B Parsons,KS Williamson,S Muthusamy,0,0,,,,,,bowled,B Parsons
+ball,1,8.3,Durban's Super Giants,Q de Kock,KS Williamson,S Muthusamy,0,0,,,,,,"",""
+ball,1,8.4,Durban's Super Giants,Q de Kock,KS Williamson,S Muthusamy,1,0,,,,,,"",""
+ball,1,8.5,Durban's Super Giants,KS Williamson,Q de Kock,S Muthusamy,2,0,,,,,,"",""
+ball,1,8.6,Durban's Super Giants,KS Williamson,Q de Kock,S Muthusamy,1,0,,,,,,"",""
+ball,1,9.1,Durban's Super Giants,KS Williamson,Q de Kock,WG Jacks,1,0,,,,,,"",""
+ball,1,9.2,Durban's Super Giants,Q de Kock,KS Williamson,WG Jacks,0,0,,,,,,"",""
+ball,1,9.3,Durban's Super Giants,Q de Kock,KS Williamson,WG Jacks,1,0,,,,,,"",""
+ball,1,9.4,Durban's Super Giants,KS Williamson,Q de Kock,WG Jacks,0,0,,,,,,"",""
+ball,1,9.5,Durban's Super Giants,KS Williamson,Q de Kock,WG Jacks,4,0,,,,,,"",""
+ball,1,9.6,Durban's Super Giants,KS Williamson,Q de Kock,WG Jacks,1,0,,,,,,"",""
+ball,1,10.1,Durban's Super Giants,KS Williamson,Q de Kock,S Muthusamy,0,0,,,,,,"",""
+ball,1,10.2,Durban's Super Giants,KS Williamson,Q de Kock,S Muthusamy,1,0,,,,,,"",""
+ball,1,10.3,Durban's Super Giants,Q de Kock,KS Williamson,S Muthusamy,1,0,,,,,,"",""
+ball,1,10.4,Durban's Super Giants,KS Williamson,Q de Kock,S Muthusamy,2,0,,,,,,"",""
+ball,1,10.5,Durban's Super Giants,KS Williamson,Q de Kock,S Muthusamy,1,0,,,,,,"",""
+ball,1,10.6,Durban's Super Giants,Q de Kock,KS Williamson,S Muthusamy,4,0,,,,,,"",""
+ball,1,11.1,Durban's Super Giants,KS Williamson,Q de Kock,WG Jacks,1,0,,,,,,"",""
+ball,1,11.2,Durban's Super Giants,Q de Kock,KS Williamson,WG Jacks,1,0,,,,,,"",""
+ball,1,11.3,Durban's Super Giants,KS Williamson,Q de Kock,WG Jacks,1,0,,,,,,"",""
+ball,1,11.4,Durban's Super Giants,Q de Kock,KS Williamson,WG Jacks,0,0,,,,,,"",""
+ball,1,11.5,Durban's Super Giants,Q de Kock,KS Williamson,WG Jacks,4,0,,,,,,"",""
+ball,1,11.6,Durban's Super Giants,Q de Kock,KS Williamson,WG Jacks,0,0,,,,,,"",""
+ball,1,12.1,Durban's Super Giants,KS Williamson,Q de Kock,S Muthusamy,1,0,,,,,,"",""
+ball,1,12.2,Durban's Super Giants,Q de Kock,KS Williamson,S Muthusamy,1,0,,,,,,"",""
+ball,1,12.3,Durban's Super Giants,KS Williamson,Q de Kock,S Muthusamy,1,0,,,,,,"",""
+ball,1,12.4,Durban's Super Giants,Q de Kock,KS Williamson,S Muthusamy,0,0,,,,,,"",""
+ball,1,12.5,Durban's Super Giants,Q de Kock,KS Williamson,S Muthusamy,2,0,,,,,,"",""
+ball,1,12.6,Durban's Super Giants,Q de Kock,KS Williamson,S Muthusamy,0,0,,,,,,caught,Q de Kock
+ball,1,13.1,Durban's Super Giants,KS Williamson,H Klaasen,LS Livingstone,1,0,,,,,,"",""
+ball,1,13.2,Durban's Super Giants,H Klaasen,KS Williamson,LS Livingstone,0,0,,,,,,"",""
+ball,1,13.3,Durban's Super Giants,H Klaasen,KS Williamson,LS Livingstone,0,0,,,,,,caught,H Klaasen
+ball,1,13.4,Durban's Super Giants,PWA Mulder,KS Williamson,LS Livingstone,1,0,,,,,,"",""
+ball,1,13.5,Durban's Super Giants,KS Williamson,PWA Mulder,LS Livingstone,1,0,,,,,,"",""
+ball,1,13.6,Durban's Super Giants,PWA Mulder,KS Williamson,LS Livingstone,1,0,,,,,,"",""
+ball,1,14.1,Durban's Super Giants,PWA Mulder,KS Williamson,JDS Neesham,1,0,,,,,,"",""
+ball,1,14.2,Durban's Super Giants,KS Williamson,PWA Mulder,JDS Neesham,1,0,,,,,,"",""
+ball,1,14.3,Durban's Super Giants,PWA Mulder,KS Williamson,JDS Neesham,1,0,,,,,,"",""
+ball,1,14.4,Durban's Super Giants,KS Williamson,PWA Mulder,JDS Neesham,1,0,,,,,,"",""
+ball,1,14.5,Durban's Super Giants,PWA Mulder,KS Williamson,JDS Neesham,1,0,,,,,,"",""
+ball,1,14.6,Durban's Super Giants,KS Williamson,PWA Mulder,JDS Neesham,1,0,,,,,,"",""
+ball,1,15.1,Durban's Super Giants,KS Williamson,PWA Mulder,LS Livingstone,1,0,,,,,,"",""
+ball,1,15.2,Durban's Super Giants,PWA Mulder,KS Williamson,LS Livingstone,6,0,,,,,,"",""
+ball,1,15.3,Durban's Super Giants,PWA Mulder,KS Williamson,LS Livingstone,1,0,,,,,,"",""
+ball,1,15.4,Durban's Super Giants,KS Williamson,PWA Mulder,LS Livingstone,1,0,,,,,,"",""
+ball,1,15.5,Durban's Super Giants,PWA Mulder,KS Williamson,LS Livingstone,6,0,,,,,,"",""
+ball,1,15.6,Durban's Super Giants,PWA Mulder,KS Williamson,LS Livingstone,6,0,,,,,,"",""
+ball,1,16.1,Durban's Super Giants,KS Williamson,PWA Mulder,E Bosch,1,0,,,,,,"",""
+ball,1,16.2,Durban's Super Giants,PWA Mulder,KS Williamson,E Bosch,1,0,,,,,,"",""
+ball,1,16.3,Durban's Super Giants,KS Williamson,PWA Mulder,E Bosch,6,0,,,,,,"",""
+ball,1,16.4,Durban's Super Giants,KS Williamson,PWA Mulder,E Bosch,1,0,,,,,,"",""
+ball,1,16.5,Durban's Super Giants,PWA Mulder,KS Williamson,E Bosch,4,0,,,,,,"",""
+ball,1,16.6,Durban's Super Giants,PWA Mulder,KS Williamson,E Bosch,4,1,,1,,,,"",""
+ball,1,16.7,Durban's Super Giants,PWA Mulder,KS Williamson,E Bosch,4,0,,,,,,"",""
+ball,1,17.1,Durban's Super Giants,KS Williamson,PWA Mulder,DM Dupavillon,0,1,1,,,,,"",""
+ball,1,17.2,Durban's Super Giants,KS Williamson,PWA Mulder,DM Dupavillon,1,0,,,,,,"",""
+ball,1,17.3,Durban's Super Giants,PWA Mulder,KS Williamson,DM Dupavillon,4,0,,,,,,"",""
+ball,1,17.4,Durban's Super Giants,PWA Mulder,KS Williamson,DM Dupavillon,1,0,,,,,,"",""
+ball,1,17.5,Durban's Super Giants,KS Williamson,PWA Mulder,DM Dupavillon,0,0,,,,,,"",""
+ball,1,17.6,Durban's Super Giants,KS Williamson,PWA Mulder,DM Dupavillon,2,0,,,,,,"",""
+ball,1,17.7,Durban's Super Giants,KS Williamson,PWA Mulder,DM Dupavillon,1,0,,,,,,"",""
+ball,1,18.1,Durban's Super Giants,KS Williamson,PWA Mulder,JDS Neesham,2,0,,,,,,"",""
+ball,1,18.2,Durban's Super Giants,KS Williamson,PWA Mulder,JDS Neesham,4,0,,,,,,"",""
+ball,1,18.3,Durban's Super Giants,KS Williamson,PWA Mulder,JDS Neesham,2,0,,,,,,"",""
+ball,1,18.4,Durban's Super Giants,KS Williamson,PWA Mulder,JDS Neesham,0,1,1,,,,,"",""
+ball,1,18.5,Durban's Super Giants,KS Williamson,PWA Mulder,JDS Neesham,0,1,1,,,,,"",""
+ball,1,18.6,Durban's Super Giants,KS Williamson,PWA Mulder,JDS Neesham,1,0,,,,,,"",""
+ball,1,18.7,Durban's Super Giants,PWA Mulder,KS Williamson,JDS Neesham,1,0,,,,,,"",""
+ball,1,18.8,Durban's Super Giants,KS Williamson,PWA Mulder,JDS Neesham,6,0,,,,,,"",""
+ball,1,19.1,Durban's Super Giants,PWA Mulder,KS Williamson,DM Dupavillon,0,1,,,,1,,"",""
+ball,1,19.2,Durban's Super Giants,KS Williamson,PWA Mulder,DM Dupavillon,1,1,,1,,,,"",""
+ball,1,19.3,Durban's Super Giants,PWA Mulder,KS Williamson,DM Dupavillon,1,0,,,,,,"",""
+ball,1,19.4,Durban's Super Giants,KS Williamson,PWA Mulder,DM Dupavillon,4,0,,,,,,"",""
+ball,1,19.5,Durban's Super Giants,KS Williamson,PWA Mulder,DM Dupavillon,1,0,,,,,,"",""
+ball,1,19.6,Durban's Super Giants,PWA Mulder,KS Williamson,DM Dupavillon,1,0,,,,,,"",""
+ball,1,19.7,Durban's Super Giants,KS Williamson,PWA Mulder,DM Dupavillon,1,0,,,,,,"",""
+ball,2,0.1,Pretoria Capitals,WG Jacks,Rahmanullah Gurbaz,KA Maharaj,1,0,,,,,,"",""
+ball,2,0.2,Pretoria Capitals,Rahmanullah Gurbaz,WG Jacks,KA Maharaj,0,0,,,,,,"",""
+ball,2,0.3,Pretoria Capitals,Rahmanullah Gurbaz,WG Jacks,KA Maharaj,1,0,,,,,,"",""
+ball,2,0.4,Pretoria Capitals,WG Jacks,Rahmanullah Gurbaz,KA Maharaj,6,0,,,,,,"",""
+ball,2,0.5,Pretoria Capitals,WG Jacks,Rahmanullah Gurbaz,KA Maharaj,0,0,,,,,,"",""
+ball,2,0.6,Pretoria Capitals,WG Jacks,Rahmanullah Gurbaz,KA Maharaj,0,0,,,,,,"",""
+ball,2,1.1,Pretoria Capitals,Rahmanullah Gurbaz,WG Jacks,CR Woakes,6,0,,,,,,"",""
+ball,2,1.2,Pretoria Capitals,Rahmanullah Gurbaz,WG Jacks,CR Woakes,0,0,,,,,,"",""
+ball,2,1.3,Pretoria Capitals,Rahmanullah Gurbaz,WG Jacks,CR Woakes,1,0,,,,,,"",""
+ball,2,1.4,Pretoria Capitals,WG Jacks,Rahmanullah Gurbaz,CR Woakes,2,0,,,,,,"",""
+ball,2,1.5,Pretoria Capitals,WG Jacks,Rahmanullah Gurbaz,CR Woakes,4,0,,,,,,"",""
+ball,2,1.6,Pretoria Capitals,WG Jacks,Rahmanullah Gurbaz,CR Woakes,0,0,,,,,,"",""
+ball,2,2.1,Pretoria Capitals,Rahmanullah Gurbaz,WG Jacks,D Pretorius,1,0,,,,,,"",""
+ball,2,2.2,Pretoria Capitals,WG Jacks,Rahmanullah Gurbaz,D Pretorius,6,0,,,,,,"",""
+ball,2,2.3,Pretoria Capitals,WG Jacks,Rahmanullah Gurbaz,D Pretorius,1,0,,,,,,"",""
+ball,2,2.4,Pretoria Capitals,Rahmanullah Gurbaz,WG Jacks,D Pretorius,0,1,1,,,,,"",""
+ball,2,2.5,Pretoria Capitals,Rahmanullah Gurbaz,WG Jacks,D Pretorius,1,0,,,,,,"",""
+ball,2,2.6,Pretoria Capitals,WG Jacks,Rahmanullah Gurbaz,D Pretorius,0,0,,,,,,"",""
+ball,2,2.7,Pretoria Capitals,WG Jacks,Rahmanullah Gurbaz,D Pretorius,0,0,,,,,,"",""
+ball,2,3.1,Pretoria Capitals,Rahmanullah Gurbaz,WG Jacks,PWA Mulder,4,0,,,,,,"",""
+ball,2,3.2,Pretoria Capitals,Rahmanullah Gurbaz,WG Jacks,PWA Mulder,2,0,,,,,,"",""
+ball,2,3.3,Pretoria Capitals,Rahmanullah Gurbaz,WG Jacks,PWA Mulder,1,0,,,,,,"",""
+ball,2,3.4,Pretoria Capitals,WG Jacks,Rahmanullah Gurbaz,PWA Mulder,0,0,,,,,,"",""
+ball,2,3.5,Pretoria Capitals,WG Jacks,Rahmanullah Gurbaz,PWA Mulder,6,0,,,,,,"",""
+ball,2,3.6,Pretoria Capitals,WG Jacks,Rahmanullah Gurbaz,PWA Mulder,6,0,,,,,,"",""
+ball,2,4.1,Pretoria Capitals,Rahmanullah Gurbaz,WG Jacks,CR Woakes,0,0,,,,,,"",""
+ball,2,4.2,Pretoria Capitals,Rahmanullah Gurbaz,WG Jacks,CR Woakes,6,0,,,,,,"",""
+ball,2,4.3,Pretoria Capitals,Rahmanullah Gurbaz,WG Jacks,CR Woakes,6,0,,,,,,"",""
+ball,2,4.4,Pretoria Capitals,Rahmanullah Gurbaz,WG Jacks,CR Woakes,2,0,,,,,,"",""
+ball,2,4.5,Pretoria Capitals,Rahmanullah Gurbaz,WG Jacks,CR Woakes,0,1,1,,,,,"",""
+ball,2,4.6,Pretoria Capitals,Rahmanullah Gurbaz,WG Jacks,CR Woakes,6,0,,,,,,"",""
+ball,2,4.7,Pretoria Capitals,Rahmanullah Gurbaz,WG Jacks,CR Woakes,1,0,,,,,,"",""
+ball,2,5.1,Pretoria Capitals,Rahmanullah Gurbaz,WG Jacks,Naveen-ul-Haq,2,0,,,,,,"",""
+ball,2,5.2,Pretoria Capitals,Rahmanullah Gurbaz,WG Jacks,Naveen-ul-Haq,1,0,,,,,,"",""
+ball,2,5.3,Pretoria Capitals,WG Jacks,Rahmanullah Gurbaz,Naveen-ul-Haq,2,0,,,,,,"",""
+ball,2,5.4,Pretoria Capitals,WG Jacks,Rahmanullah Gurbaz,Naveen-ul-Haq,1,0,,,,,,"",""
+ball,2,5.5,Pretoria Capitals,Rahmanullah Gurbaz,WG Jacks,Naveen-ul-Haq,1,0,,,,,,"",""
+ball,2,5.6,Pretoria Capitals,WG Jacks,Rahmanullah Gurbaz,Naveen-ul-Haq,0,1,1,,,,,"",""
+ball,2,5.7,Pretoria Capitals,WG Jacks,Rahmanullah Gurbaz,Naveen-ul-Haq,1,0,,,,,,"",""
+ball,2,6.1,Pretoria Capitals,WG Jacks,Rahmanullah Gurbaz,KA Maharaj,0,0,,,,,,"",""
+ball,2,6.2,Pretoria Capitals,WG Jacks,Rahmanullah Gurbaz,KA Maharaj,1,0,,,,,,"",""
+ball,2,6.3,Pretoria Capitals,Rahmanullah Gurbaz,WG Jacks,KA Maharaj,0,0,,,,,,"",""
+ball,2,6.4,Pretoria Capitals,Rahmanullah Gurbaz,WG Jacks,KA Maharaj,4,0,,,,,,"",""
+ball,2,6.5,Pretoria Capitals,Rahmanullah Gurbaz,WG Jacks,KA Maharaj,6,0,,,,,,"",""
+ball,2,6.6,Pretoria Capitals,Rahmanullah Gurbaz,WG Jacks,KA Maharaj,2,0,,,,,,"",""
+ball,2,7.1,Pretoria Capitals,WG Jacks,Rahmanullah Gurbaz,Noor Ahmad,1,0,,,,,,"",""
+ball,2,7.2,Pretoria Capitals,Rahmanullah Gurbaz,WG Jacks,Noor Ahmad,1,0,,,,,,"",""
+ball,2,7.3,Pretoria Capitals,WG Jacks,Rahmanullah Gurbaz,Noor Ahmad,1,0,,,,,,"",""
+ball,2,7.4,Pretoria Capitals,Rahmanullah Gurbaz,WG Jacks,Noor Ahmad,1,0,,,,,,"",""
+ball,2,7.5,Pretoria Capitals,WG Jacks,Rahmanullah Gurbaz,Noor Ahmad,0,1,1,,,,,"",""
+ball,2,7.6,Pretoria Capitals,WG Jacks,Rahmanullah Gurbaz,Noor Ahmad,0,0,,,,,,"",""
+ball,2,7.7,Pretoria Capitals,WG Jacks,Rahmanullah Gurbaz,Noor Ahmad,1,0,,,,,,"",""
+ball,2,8.1,Pretoria Capitals,WG Jacks,Rahmanullah Gurbaz,KA Maharaj,1,0,,,,,,"",""
+ball,2,8.2,Pretoria Capitals,Rahmanullah Gurbaz,WG Jacks,KA Maharaj,1,0,,,,,,"",""
+ball,2,8.3,Pretoria Capitals,WG Jacks,Rahmanullah Gurbaz,KA Maharaj,1,0,,,,,,"",""
+ball,2,8.4,Pretoria Capitals,Rahmanullah Gurbaz,WG Jacks,KA Maharaj,6,0,,,,,,"",""
+ball,2,8.5,Pretoria Capitals,Rahmanullah Gurbaz,WG Jacks,KA Maharaj,1,0,,,,,,"",""
+ball,2,8.6,Pretoria Capitals,WG Jacks,Rahmanullah Gurbaz,KA Maharaj,6,0,,,,,,"",""
+ball,2,9.1,Pretoria Capitals,Rahmanullah Gurbaz,WG Jacks,D Pretorius,1,0,,,,,,"",""
+ball,2,9.2,Pretoria Capitals,WG Jacks,Rahmanullah Gurbaz,D Pretorius,1,0,,,,,,"",""
+ball,2,9.3,Pretoria Capitals,Rahmanullah Gurbaz,WG Jacks,D Pretorius,6,0,,,,,,"",""
+ball,2,9.4,Pretoria Capitals,Rahmanullah Gurbaz,WG Jacks,D Pretorius,0,0,,,,,,"",""
+ball,2,9.5,Pretoria Capitals,Rahmanullah Gurbaz,WG Jacks,D Pretorius,2,0,,,,,,"",""
+ball,2,9.6,Pretoria Capitals,Rahmanullah Gurbaz,WG Jacks,D Pretorius,2,0,,,,,,"",""
+ball,2,10.1,Pretoria Capitals,WG Jacks,Rahmanullah Gurbaz,Naveen-ul-Haq,1,0,,,,,,"",""
+ball,2,10.2,Pretoria Capitals,Rahmanullah Gurbaz,WG Jacks,Naveen-ul-Haq,0,1,1,,,,,"",""
+ball,2,10.3,Pretoria Capitals,Rahmanullah Gurbaz,WG Jacks,Naveen-ul-Haq,0,1,1,,,,,"",""
+ball,2,10.4,Pretoria Capitals,Rahmanullah Gurbaz,WG Jacks,Naveen-ul-Haq,2,0,,,,,,"",""
+ball,2,10.5,Pretoria Capitals,Rahmanullah Gurbaz,WG Jacks,Naveen-ul-Haq,0,0,,,,,,"",""
+ball,2,10.6,Pretoria Capitals,Rahmanullah Gurbaz,WG Jacks,Naveen-ul-Haq,2,0,,,,,,"",""
+ball,2,10.7,Pretoria Capitals,Rahmanullah Gurbaz,WG Jacks,Naveen-ul-Haq,4,0,,,,,,"",""
+ball,2,10.8,Pretoria Capitals,Rahmanullah Gurbaz,WG Jacks,Naveen-ul-Haq,0,1,1,,,,,"",""
+ball,2,10.9,Pretoria Capitals,Rahmanullah Gurbaz,WG Jacks,Naveen-ul-Haq,1,0,,,,,,"",""
+ball,2,11.1,Pretoria Capitals,Rahmanullah Gurbaz,WG Jacks,PWA Mulder,2,0,,,,,,"",""
+ball,2,11.2,Pretoria Capitals,Rahmanullah Gurbaz,WG Jacks,PWA Mulder,0,1,,,,1,,"",""
+ball,2,11.3,Pretoria Capitals,WG Jacks,Rahmanullah Gurbaz,PWA Mulder,4,0,,,,,,"",""
+ball,2,11.4,Pretoria Capitals,WG Jacks,Rahmanullah Gurbaz,PWA Mulder,0,1,1,,,,,"",""
+ball,2,11.5,Pretoria Capitals,WG Jacks,Rahmanullah Gurbaz,PWA Mulder,0,1,1,,,,,"",""
+ball,2,11.6,Pretoria Capitals,WG Jacks,Rahmanullah Gurbaz,PWA Mulder,1,0,,,,,,"",""
+ball,2,11.7,Pretoria Capitals,Rahmanullah Gurbaz,WG Jacks,PWA Mulder,2,0,,,,,,"",""
+ball,2,11.8,Pretoria Capitals,Rahmanullah Gurbaz,WG Jacks,PWA Mulder,1,0,,,,,,"",""
+ball,2,12.1,Pretoria Capitals,Rahmanullah Gurbaz,WG Jacks,Noor Ahmad,0,0,,,,,,caught,Rahmanullah Gurbaz
+ball,2,12.2,Pretoria Capitals,RR Rossouw,WG Jacks,Noor Ahmad,0,5,5,,,,,"",""
+ball,2,12.3,Pretoria Capitals,RR Rossouw,WG Jacks,Noor Ahmad,0,0,,,,,,"",""
+ball,2,12.4,Pretoria Capitals,RR Rossouw,WG Jacks,Noor Ahmad,1,0,,,,,,"",""
+ball,2,12.5,Pretoria Capitals,WG Jacks,RR Rossouw,Noor Ahmad,0,1,1,,,,,"",""
+ball,2,12.6,Pretoria Capitals,WG Jacks,RR Rossouw,Noor Ahmad,4,0,,,,,,"",""
+ball,2,12.7,Pretoria Capitals,WG Jacks,RR Rossouw,Noor Ahmad,3,0,,,,,,"",""
+ball,2,12.8,Pretoria Capitals,RR Rossouw,WG Jacks,Noor Ahmad,0,0,,,,,,"",""
+ball,2,13.1,Pretoria Capitals,WG Jacks,RR Rossouw,CR Woakes,1,0,,,,,,"",""
+ball,2,13.2,Pretoria Capitals,RR Rossouw,WG Jacks,CR Woakes,0,0,,,,,,bowled,RR Rossouw
+ball,2,13.3,Pretoria Capitals,S Muthusamy,WG Jacks,CR Woakes,0,0,,,,,,"",""
+ball,2,13.4,Pretoria Capitals,S Muthusamy,WG Jacks,CR Woakes,0,0,,,,,,"",""
+ball,2,13.5,Pretoria Capitals,S Muthusamy,WG Jacks,CR Woakes,0,0,,,,,,"",""
+ball,2,13.6,Pretoria Capitals,S Muthusamy,WG Jacks,CR Woakes,0,0,,,,,,"",""
+ball,2,14.1,Pretoria Capitals,WG Jacks,S Muthusamy,Noor Ahmad,1,0,,,,,,"",""
+ball,2,14.2,Pretoria Capitals,S Muthusamy,WG Jacks,Noor Ahmad,2,0,,,,,,"",""
+ball,2,14.3,Pretoria Capitals,S Muthusamy,WG Jacks,Noor Ahmad,1,0,,,,,,"",""
+ball,2,14.4,Pretoria Capitals,WG Jacks,S Muthusamy,Noor Ahmad,0,0,,,,,,bowled,WG Jacks
+ball,2,14.5,Pretoria Capitals,LS Livingstone,S Muthusamy,Noor Ahmad,0,0,,,,,,"",""
+ball,2,14.6,Pretoria Capitals,LS Livingstone,S Muthusamy,Noor Ahmad,4,0,,,,,,"",""
+ball,2,15.1,Pretoria Capitals,S Muthusamy,LS Livingstone,CR Woakes,1,0,,,,,,"",""
+ball,2,15.2,Pretoria Capitals,LS Livingstone,S Muthusamy,CR Woakes,1,0,,,,,,"",""
+ball,2,15.3,Pretoria Capitals,S Muthusamy,LS Livingstone,CR Woakes,0,0,,,,,,"",""
+ball,2,15.4,Pretoria Capitals,S Muthusamy,LS Livingstone,CR Woakes,4,0,,,,,,"",""
+ball,2,15.5,Pretoria Capitals,S Muthusamy,LS Livingstone,CR Woakes,0,0,,,,,,bowled,S Muthusamy
+ball,2,15.6,Pretoria Capitals,JDS Neesham,LS Livingstone,CR Woakes,0,0,,,,,,"",""
+ball,2,16.1,Pretoria Capitals,LS Livingstone,JDS Neesham,Noor Ahmad,1,0,,,,,,"",""
+ball,2,16.2,Pretoria Capitals,JDS Neesham,LS Livingstone,Noor Ahmad,0,0,,,,,,"",""
+ball,2,16.3,Pretoria Capitals,JDS Neesham,LS Livingstone,Noor Ahmad,1,0,,,,,,"",""
+ball,2,16.4,Pretoria Capitals,LS Livingstone,JDS Neesham,Noor Ahmad,0,0,,,,,,"",""
+ball,2,16.5,Pretoria Capitals,LS Livingstone,JDS Neesham,Noor Ahmad,4,0,,,,,,"",""
+ball,2,16.6,Pretoria Capitals,LS Livingstone,JDS Neesham,Noor Ahmad,0,0,,,,,,"",""
+ball,2,17.1,Pretoria Capitals,JDS Neesham,LS Livingstone,Naveen-ul-Haq,1,0,,,,,,"",""
+ball,2,17.2,Pretoria Capitals,LS Livingstone,JDS Neesham,Naveen-ul-Haq,1,0,,,,,,"",""
+ball,2,17.3,Pretoria Capitals,JDS Neesham,LS Livingstone,Naveen-ul-Haq,1,0,,,,,,"",""
+ball,2,17.4,Pretoria Capitals,LS Livingstone,JDS Neesham,Naveen-ul-Haq,1,0,,,,,,"",""
+ball,2,17.5,Pretoria Capitals,JDS Neesham,LS Livingstone,Naveen-ul-Haq,0,0,,,,,,caught,JDS Neesham
+ball,2,17.6,Pretoria Capitals,K Verreynne,LS Livingstone,Naveen-ul-Haq,0,0,,,,,,"",""
+ball,2,18.1,Pretoria Capitals,LS Livingstone,K Verreynne,KA Maharaj,1,0,,,,,,"",""
+ball,2,18.2,Pretoria Capitals,K Verreynne,LS Livingstone,KA Maharaj,0,0,,,,,,"",""
+ball,2,18.3,Pretoria Capitals,K Verreynne,LS Livingstone,KA Maharaj,1,0,,,,,,"",""
+ball,2,18.4,Pretoria Capitals,LS Livingstone,K Verreynne,KA Maharaj,0,0,,,,,,caught,LS Livingstone
+ball,2,18.5,Pretoria Capitals,S Stolk,K Verreynne,KA Maharaj,0,0,,,,,,"",""
+ball,2,18.6,Pretoria Capitals,S Stolk,K Verreynne,KA Maharaj,0,1,,,1,,,"",""
+ball,2,19.1,Pretoria Capitals,S Stolk,K Verreynne,Naveen-ul-Haq,0,1,,,,1,,"",""
+ball,2,19.2,Pretoria Capitals,K Verreynne,S Stolk,Naveen-ul-Haq,2,0,,,,,,"",""
+ball,2,19.3,Pretoria Capitals,K Verreynne,S Stolk,Naveen-ul-Haq,2,0,,,,,,"",""
+ball,2,19.4,Pretoria Capitals,K Verreynne,S Stolk,Naveen-ul-Haq,4,0,,,,,,"",""
+ball,2,19.5,Pretoria Capitals,K Verreynne,S Stolk,Naveen-ul-Haq,1,0,,,,,,"",""
+ball,2,19.6,Pretoria Capitals,S Stolk,K Verreynne,Naveen-ul-Haq,0,1,,,,1,,"",""

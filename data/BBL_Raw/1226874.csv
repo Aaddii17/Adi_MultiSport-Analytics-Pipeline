@@ -1,0 +1,270 @@
+version,1.6.0
+info,balls_per_over,6
+info,team,Sydney Thunder
+info,team,Melbourne Renegades
+info,gender,male
+info,season,2020/21
+info,date,2020/12/26
+info,event,Big Bash League
+info,match_number,14
+info,venue,Manuka Oval
+info,city,Canberra
+info,toss_winner,Melbourne Renegades
+info,toss_decision,field
+info,player_of_match,O Davies
+info,umpire,DM Koch
+info,umpire,NR Johnstone
+info,reserve_umpire,Andrew Crozier
+info,tv_umpire,SA Lightbody
+info,match_referee,Kent Hannam
+info,winner,Sydney Thunder
+info,winner_runs,129
+info,player,Sydney Thunder,UT Khawaja
+info,player,Sydney Thunder,AD Hales
+info,player,Sydney Thunder,CJ Ferguson
+info,player,Sydney Thunder,O Davies
+info,player,Sydney Thunder,DR Sams
+info,player,Sydney Thunder,BCJ Cutting
+info,player,Sydney Thunder,CJ Green
+info,player,Sydney Thunder,N McAndrew
+info,player,Sydney Thunder,BJ Holt
+info,player,Sydney Thunder,AF Milne
+info,player,Sydney Thunder,T Sangha
+info,player,Melbourne Renegades,SE Marsh
+info,player,Melbourne Renegades,AJ Finch
+info,player,Melbourne Renegades,SB Harper
+info,player,Melbourne Renegades,RR Rossouw
+info,player,Melbourne Renegades,BJ Webster
+info,player,Melbourne Renegades,Mohammad Nabi
+info,player,Melbourne Renegades,Imad Wasim
+info,player,Melbourne Renegades,W Sutherland
+info,player,Melbourne Renegades,KW Richardson
+info,player,Melbourne Renegades,Z Evans
+info,player,Melbourne Renegades,P Hatzoglou
+info,registry,people,AD Hales,92aeac25
+info,registry,people,AF Milne,350bb1b1
+info,registry,people,AJ Finch,b8d490fd
+info,registry,people,Andrew Crozier,00d07580
+info,registry,people,BCJ Cutting,2e11c706
+info,registry,people,BJ Holt,f05d1564
+info,registry,people,BJ Webster,56b93d46
+info,registry,people,CJ Ferguson,9b4935c8
+info,registry,people,CJ Green,19b9f399
+info,registry,people,DM Koch,6d10c034
+info,registry,people,DR Sams,caf69bf7
+info,registry,people,Imad Wasim,9cb8d7a6
+info,registry,people,KW Richardson,dfc4d8b5
+info,registry,people,Kent Hannam,8cc171e7
+info,registry,people,Mohammad Nabi,62af8546
+info,registry,people,N McAndrew,38c276e1
+info,registry,people,NR Johnstone,ce274b6a
+info,registry,people,O Davies,0ea54eca
+info,registry,people,P Hatzoglou,6f95e5fa
+info,registry,people,RR Rossouw,cad00a4d
+info,registry,people,SA Lightbody,680b8cbf
+info,registry,people,SB Harper,a756e61a
+info,registry,people,SE Marsh,508a1ea7
+info,registry,people,T Sangha,52c952d9
+info,registry,people,UT Khawaja,331ea488
+info,registry,people,W Sutherland,bc2d4f2e
+info,registry,people,Z Evans,8528effb
+ball,1,0.1,Sydney Thunder,UT Khawaja,AD Hales,W Sutherland,1,0,,,,,,"",""
+ball,1,0.2,Sydney Thunder,AD Hales,UT Khawaja,W Sutherland,0,0,,,,,,"",""
+ball,1,0.3,Sydney Thunder,AD Hales,UT Khawaja,W Sutherland,0,1,1,,,,,"",""
+ball,1,0.4,Sydney Thunder,AD Hales,UT Khawaja,W Sutherland,1,0,,,,,,"",""
+ball,1,0.5,Sydney Thunder,UT Khawaja,AD Hales,W Sutherland,4,0,,,,,,"",""
+ball,1,0.6,Sydney Thunder,UT Khawaja,AD Hales,W Sutherland,1,0,,,,,,"",""
+ball,1,0.7,Sydney Thunder,AD Hales,UT Khawaja,W Sutherland,0,0,,,,,,"",""
+ball,1,1.1,Sydney Thunder,UT Khawaja,AD Hales,P Hatzoglou,4,0,,,,,,"",""
+ball,1,1.2,Sydney Thunder,UT Khawaja,AD Hales,P Hatzoglou,4,0,,,,,,"",""
+ball,1,1.3,Sydney Thunder,UT Khawaja,AD Hales,P Hatzoglou,0,0,,,,,,"",""
+ball,1,1.4,Sydney Thunder,UT Khawaja,AD Hales,P Hatzoglou,0,0,,,,,,"",""
+ball,1,1.5,Sydney Thunder,UT Khawaja,AD Hales,P Hatzoglou,4,0,,,,,,"",""
+ball,1,1.6,Sydney Thunder,UT Khawaja,AD Hales,P Hatzoglou,4,0,,,,,,"",""
+ball,1,2.1,Sydney Thunder,AD Hales,UT Khawaja,Imad Wasim,0,0,,,,,,"",""
+ball,1,2.2,Sydney Thunder,AD Hales,UT Khawaja,Imad Wasim,4,0,,,,,,"",""
+ball,1,2.3,Sydney Thunder,AD Hales,UT Khawaja,Imad Wasim,6,0,,,,,,"",""
+ball,1,2.4,Sydney Thunder,AD Hales,UT Khawaja,Imad Wasim,1,0,,,,,,"",""
+ball,1,2.5,Sydney Thunder,UT Khawaja,AD Hales,Imad Wasim,0,0,,,,,,"",""
+ball,1,2.6,Sydney Thunder,UT Khawaja,AD Hales,Imad Wasim,4,0,,,,,,"",""
+ball,1,3.1,Sydney Thunder,AD Hales,UT Khawaja,KW Richardson,4,0,,,,,,"",""
+ball,1,3.2,Sydney Thunder,AD Hales,UT Khawaja,KW Richardson,1,0,,,,,,"",""
+ball,1,3.3,Sydney Thunder,UT Khawaja,AD Hales,KW Richardson,2,0,,,,,,"",""
+ball,1,3.4,Sydney Thunder,UT Khawaja,AD Hales,KW Richardson,0,0,,,,,,"",""
+ball,1,3.5,Sydney Thunder,UT Khawaja,AD Hales,KW Richardson,2,0,,,,,,"",""
+ball,1,3.6,Sydney Thunder,UT Khawaja,AD Hales,KW Richardson,2,0,,,,,,"",""
+ball,1,4.1,Sydney Thunder,AD Hales,UT Khawaja,Z Evans,0,0,,,,,,"",""
+ball,1,4.2,Sydney Thunder,AD Hales,UT Khawaja,Z Evans,4,0,,,,,,"",""
+ball,1,4.3,Sydney Thunder,AD Hales,UT Khawaja,Z Evans,4,0,,,,,,"",""
+ball,1,4.4,Sydney Thunder,AD Hales,UT Khawaja,Z Evans,1,0,,,,,,"",""
+ball,1,4.5,Sydney Thunder,UT Khawaja,AD Hales,Z Evans,1,0,,,,,,"",""
+ball,1,4.6,Sydney Thunder,AD Hales,UT Khawaja,Z Evans,1,0,,,,,,"",""
+ball,1,5.1,Sydney Thunder,AD Hales,UT Khawaja,Mohammad Nabi,0,0,,,,,,"",""
+ball,1,5.2,Sydney Thunder,AD Hales,UT Khawaja,Mohammad Nabi,1,0,,,,,,"",""
+ball,1,5.3,Sydney Thunder,UT Khawaja,AD Hales,Mohammad Nabi,1,0,,,,,,"",""
+ball,1,5.4,Sydney Thunder,AD Hales,UT Khawaja,Mohammad Nabi,6,0,,,,,,"",""
+ball,1,5.5,Sydney Thunder,AD Hales,UT Khawaja,Mohammad Nabi,1,0,,,,,,"",""
+ball,1,5.6,Sydney Thunder,UT Khawaja,AD Hales,Mohammad Nabi,0,0,,,,,,caught,UT Khawaja
+ball,1,6.1,Sydney Thunder,CJ Ferguson,AD Hales,P Hatzoglou,1,0,,,,,,"",""
+ball,1,6.2,Sydney Thunder,AD Hales,CJ Ferguson,P Hatzoglou,0,0,,,,,,"",""
+ball,1,6.3,Sydney Thunder,AD Hales,CJ Ferguson,P Hatzoglou,0,0,,,,,,"",""
+ball,1,6.4,Sydney Thunder,AD Hales,CJ Ferguson,P Hatzoglou,0,0,,,,,,bowled,AD Hales
+ball,1,6.5,Sydney Thunder,O Davies,CJ Ferguson,P Hatzoglou,0,1,,,,1,,"",""
+ball,1,6.6,Sydney Thunder,CJ Ferguson,O Davies,P Hatzoglou,0,0,,,,,,"",""
+ball,1,7.1,Sydney Thunder,O Davies,CJ Ferguson,Z Evans,0,0,,,,,,"",""
+ball,1,7.2,Sydney Thunder,O Davies,CJ Ferguson,Z Evans,1,0,,,,,,"",""
+ball,1,7.3,Sydney Thunder,CJ Ferguson,O Davies,Z Evans,0,0,,,,,,"",""
+ball,1,7.4,Sydney Thunder,CJ Ferguson,O Davies,Z Evans,1,0,,,,,,"",""
+ball,1,7.5,Sydney Thunder,O Davies,CJ Ferguson,Z Evans,1,0,,,,,,"",""
+ball,1,7.6,Sydney Thunder,CJ Ferguson,O Davies,Z Evans,0,0,,,,,,"",""
+ball,1,8.1,Sydney Thunder,O Davies,CJ Ferguson,Imad Wasim,2,0,,,,,,"",""
+ball,1,8.2,Sydney Thunder,O Davies,CJ Ferguson,Imad Wasim,1,0,,,,,,"",""
+ball,1,8.3,Sydney Thunder,CJ Ferguson,O Davies,Imad Wasim,2,0,,,,,,"",""
+ball,1,8.4,Sydney Thunder,CJ Ferguson,O Davies,Imad Wasim,1,0,,,,,,"",""
+ball,1,8.5,Sydney Thunder,O Davies,CJ Ferguson,Imad Wasim,1,0,,,,,,"",""
+ball,1,8.6,Sydney Thunder,CJ Ferguson,O Davies,Imad Wasim,0,0,,,,,,"",""
+ball,1,9.1,Sydney Thunder,O Davies,CJ Ferguson,W Sutherland,0,0,,,,,,"",""
+ball,1,9.2,Sydney Thunder,O Davies,CJ Ferguson,W Sutherland,4,0,,,,,,"",""
+ball,1,9.3,Sydney Thunder,O Davies,CJ Ferguson,W Sutherland,1,0,,,,,,"",""
+ball,1,9.4,Sydney Thunder,CJ Ferguson,O Davies,W Sutherland,1,0,,,,,,"",""
+ball,1,9.5,Sydney Thunder,O Davies,CJ Ferguson,W Sutherland,1,0,,,,,,"",""
+ball,1,9.6,Sydney Thunder,CJ Ferguson,O Davies,W Sutherland,1,0,,,,,,"",""
+ball,1,10.1,Sydney Thunder,CJ Ferguson,O Davies,Imad Wasim,1,0,,,,,,"",""
+ball,1,10.2,Sydney Thunder,O Davies,CJ Ferguson,Imad Wasim,0,0,,,,,,"",""
+ball,1,10.3,Sydney Thunder,O Davies,CJ Ferguson,Imad Wasim,0,0,,,,,,"",""
+ball,1,10.4,Sydney Thunder,O Davies,CJ Ferguson,Imad Wasim,2,0,,,,,,"",""
+ball,1,10.5,Sydney Thunder,O Davies,CJ Ferguson,Imad Wasim,2,0,,,,,,"",""
+ball,1,10.6,Sydney Thunder,O Davies,CJ Ferguson,Imad Wasim,1,0,,,,,,"",""
+ball,1,11.1,Sydney Thunder,O Davies,CJ Ferguson,Mohammad Nabi,1,0,,,,,,"",""
+ball,1,11.2,Sydney Thunder,CJ Ferguson,O Davies,Mohammad Nabi,1,0,,,,,,"",""
+ball,1,11.3,Sydney Thunder,O Davies,CJ Ferguson,Mohammad Nabi,6,0,,,,,,"",""
+ball,1,11.4,Sydney Thunder,O Davies,CJ Ferguson,Mohammad Nabi,6,0,,,,,,"",""
+ball,1,11.5,Sydney Thunder,O Davies,CJ Ferguson,Mohammad Nabi,6,0,,,,,,"",""
+ball,1,11.6,Sydney Thunder,O Davies,CJ Ferguson,Mohammad Nabi,6,0,,,,,,"",""
+ball,1,12.1,Sydney Thunder,CJ Ferguson,O Davies,W Sutherland,1,0,,,,,,"",""
+ball,1,12.2,Sydney Thunder,O Davies,CJ Ferguson,W Sutherland,6,0,,,,,,"",""
+ball,1,12.3,Sydney Thunder,O Davies,CJ Ferguson,W Sutherland,0,0,,,,,,bowled,O Davies
+ball,1,12.4,Sydney Thunder,DR Sams,CJ Ferguson,W Sutherland,2,0,,,,,,"",""
+ball,1,12.5,Sydney Thunder,DR Sams,CJ Ferguson,W Sutherland,0,1,1,,,,,"",""
+ball,1,12.6,Sydney Thunder,DR Sams,CJ Ferguson,W Sutherland,1,0,,,,,,"",""
+ball,1,12.7,Sydney Thunder,CJ Ferguson,DR Sams,W Sutherland,0,0,,,,,,"",""
+ball,1,13.1,Sydney Thunder,DR Sams,CJ Ferguson,KW Richardson,0,0,,,,,,"",""
+ball,1,13.2,Sydney Thunder,DR Sams,CJ Ferguson,KW Richardson,1,0,,,,,,"",""
+ball,1,13.3,Sydney Thunder,CJ Ferguson,DR Sams,KW Richardson,1,0,,,,,,"",""
+ball,1,13.4,Sydney Thunder,DR Sams,CJ Ferguson,KW Richardson,0,0,,,,,,"",""
+ball,1,13.5,Sydney Thunder,DR Sams,CJ Ferguson,KW Richardson,0,0,,,,,,"",""
+ball,1,13.6,Sydney Thunder,DR Sams,CJ Ferguson,KW Richardson,6,0,,,,,,"",""
+ball,1,14.1,Sydney Thunder,CJ Ferguson,DR Sams,P Hatzoglou,1,0,,,,,,"",""
+ball,1,14.2,Sydney Thunder,DR Sams,CJ Ferguson,P Hatzoglou,4,0,,,,,,"",""
+ball,1,14.3,Sydney Thunder,DR Sams,CJ Ferguson,P Hatzoglou,6,0,,,,,,"",""
+ball,1,14.4,Sydney Thunder,DR Sams,CJ Ferguson,P Hatzoglou,1,0,,,,,,"",""
+ball,1,14.5,Sydney Thunder,CJ Ferguson,DR Sams,P Hatzoglou,4,0,,,,,,"",""
+ball,1,14.6,Sydney Thunder,CJ Ferguson,DR Sams,P Hatzoglou,2,0,,,,,,"",""
+ball,1,15.1,Sydney Thunder,DR Sams,CJ Ferguson,KW Richardson,1,0,,,,,,"",""
+ball,1,15.2,Sydney Thunder,CJ Ferguson,DR Sams,KW Richardson,2,0,,,,,,"",""
+ball,1,15.3,Sydney Thunder,CJ Ferguson,DR Sams,KW Richardson,2,0,,,,,,"",""
+ball,1,15.4,Sydney Thunder,CJ Ferguson,DR Sams,KW Richardson,4,0,,,,,,"",""
+ball,1,15.5,Sydney Thunder,CJ Ferguson,DR Sams,KW Richardson,0,4,,,,4,,"",""
+ball,1,15.6,Sydney Thunder,CJ Ferguson,DR Sams,KW Richardson,0,0,,,,,,"",""
+ball,1,16.1,Sydney Thunder,DR Sams,CJ Ferguson,P Hatzoglou,0,0,,,,,,caught,DR Sams
+ball,1,16.2,Sydney Thunder,CJ Ferguson,BCJ Cutting,P Hatzoglou,0,0,,,,,,"",""
+ball,1,16.3,Sydney Thunder,CJ Ferguson,BCJ Cutting,P Hatzoglou,0,0,,,,,,run out,BCJ Cutting
+ball,1,16.4,Sydney Thunder,CJ Ferguson,CJ Green,P Hatzoglou,1,0,,,,,,"",""
+ball,1,16.5,Sydney Thunder,CJ Green,CJ Ferguson,P Hatzoglou,1,0,,,,,,"",""
+ball,1,16.6,Sydney Thunder,CJ Ferguson,CJ Green,P Hatzoglou,1,0,,,,,,"",""
+ball,1,17.1,Sydney Thunder,CJ Ferguson,CJ Green,Imad Wasim,1,0,,,,,,"",""
+ball,1,17.2,Sydney Thunder,CJ Green,CJ Ferguson,Imad Wasim,1,0,,,,,,"",""
+ball,1,17.3,Sydney Thunder,CJ Ferguson,CJ Green,Imad Wasim,0,1,1,,,,,"",""
+ball,1,17.4,Sydney Thunder,CJ Ferguson,CJ Green,Imad Wasim,1,0,,,,,,"",""
+ball,1,17.5,Sydney Thunder,CJ Green,CJ Ferguson,Imad Wasim,1,0,,,,,,"",""
+ball,1,17.6,Sydney Thunder,CJ Ferguson,CJ Green,Imad Wasim,1,0,,,,,,"",""
+ball,1,17.7,Sydney Thunder,CJ Green,CJ Ferguson,Imad Wasim,1,0,,,,,,"",""
+ball,1,18.1,Sydney Thunder,CJ Green,CJ Ferguson,KW Richardson,0,0,,,,,,"",""
+ball,1,18.2,Sydney Thunder,CJ Green,CJ Ferguson,KW Richardson,4,0,,,,,,"",""
+ball,1,18.3,Sydney Thunder,CJ Green,CJ Ferguson,KW Richardson,0,0,,,,,,caught,CJ Green
+ball,1,18.4,Sydney Thunder,CJ Ferguson,N McAndrew,KW Richardson,0,0,,,,,,caught,CJ Ferguson
+ball,1,18.5,Sydney Thunder,BJ Holt,N McAndrew,KW Richardson,0,0,,,,,,run out,BJ Holt
+ball,1,18.6,Sydney Thunder,N McAndrew,AF Milne,KW Richardson,1,0,,,,,,"",""
+ball,1,19.1,Sydney Thunder,N McAndrew,AF Milne,Z Evans,6,0,,,,,,"",""
+ball,1,19.2,Sydney Thunder,N McAndrew,AF Milne,Z Evans,6,0,,,,,,"",""
+ball,1,19.3,Sydney Thunder,N McAndrew,AF Milne,Z Evans,1,0,,,,,,"",""
+ball,1,19.4,Sydney Thunder,AF Milne,N McAndrew,Z Evans,2,0,,,,,,"",""
+ball,1,19.5,Sydney Thunder,AF Milne,N McAndrew,Z Evans,1,0,,,,,,"",""
+ball,1,19.6,Sydney Thunder,N McAndrew,AF Milne,Z Evans,6,0,,,,,,"",""
+ball,2,0.1,Melbourne Renegades,SE Marsh,AJ Finch,AF Milne,1,0,,,,,,"",""
+ball,2,0.2,Melbourne Renegades,AJ Finch,SE Marsh,AF Milne,0,0,,,,,,"",""
+ball,2,0.3,Melbourne Renegades,AJ Finch,SE Marsh,AF Milne,1,0,,,,,,"",""
+ball,2,0.4,Melbourne Renegades,SE Marsh,AJ Finch,AF Milne,0,0,,,,,,"",""
+ball,2,0.5,Melbourne Renegades,SE Marsh,AJ Finch,AF Milne,0,0,,,,,,"",""
+ball,2,0.6,Melbourne Renegades,SE Marsh,AJ Finch,AF Milne,0,0,,,,,,"",""
+ball,2,1.1,Melbourne Renegades,AJ Finch,SE Marsh,DR Sams,1,0,,,,,,"",""
+ball,2,1.2,Melbourne Renegades,SE Marsh,AJ Finch,DR Sams,0,1,1,,,,,"",""
+ball,2,1.3,Melbourne Renegades,SE Marsh,AJ Finch,DR Sams,1,0,,,,,,"",""
+ball,2,1.4,Melbourne Renegades,AJ Finch,SE Marsh,DR Sams,0,0,,,,,,"",""
+ball,2,1.5,Melbourne Renegades,AJ Finch,SE Marsh,DR Sams,6,0,,,,,,"",""
+ball,2,1.6,Melbourne Renegades,AJ Finch,SE Marsh,DR Sams,1,0,,,,,,"",""
+ball,2,1.7,Melbourne Renegades,SE Marsh,AJ Finch,DR Sams,1,0,,,,,,"",""
+ball,2,2.1,Melbourne Renegades,SE Marsh,AJ Finch,N McAndrew,0,0,,,,,,caught,SE Marsh
+ball,2,2.2,Melbourne Renegades,AJ Finch,SB Harper,N McAndrew,0,0,,,,,,"",""
+ball,2,2.3,Melbourne Renegades,AJ Finch,SB Harper,N McAndrew,2,0,,,,,,"",""
+ball,2,2.4,Melbourne Renegades,AJ Finch,SB Harper,N McAndrew,0,0,,,,,,"",""
+ball,2,2.5,Melbourne Renegades,AJ Finch,SB Harper,N McAndrew,1,0,,,,,,"",""
+ball,2,2.6,Melbourne Renegades,SB Harper,AJ Finch,N McAndrew,0,0,,,,,,"",""
+ball,2,3.1,Melbourne Renegades,AJ Finch,SB Harper,AF Milne,4,0,,,,,,"",""
+ball,2,3.2,Melbourne Renegades,AJ Finch,SB Harper,AF Milne,0,0,,,,,,"",""
+ball,2,3.3,Melbourne Renegades,AJ Finch,SB Harper,AF Milne,1,0,,,,,,"",""
+ball,2,3.4,Melbourne Renegades,SB Harper,AJ Finch,AF Milne,4,0,,,,,,"",""
+ball,2,3.5,Melbourne Renegades,SB Harper,AJ Finch,AF Milne,4,0,,,,,,"",""
+ball,2,3.6,Melbourne Renegades,SB Harper,AJ Finch,AF Milne,0,0,,,,,,caught,SB Harper
+ball,2,4.1,Melbourne Renegades,AJ Finch,RR Rossouw,T Sangha,2,0,,,,,,"",""
+ball,2,4.2,Melbourne Renegades,AJ Finch,RR Rossouw,T Sangha,1,0,,,,,,"",""
+ball,2,4.3,Melbourne Renegades,RR Rossouw,AJ Finch,T Sangha,1,0,,,,,,"",""
+ball,2,4.4,Melbourne Renegades,AJ Finch,RR Rossouw,T Sangha,0,0,,,,,,"",""
+ball,2,4.5,Melbourne Renegades,AJ Finch,RR Rossouw,T Sangha,0,0,,,,,,caught,AJ Finch
+ball,2,4.6,Melbourne Renegades,BJ Webster,RR Rossouw,T Sangha,0,0,,,,,,"",""
+ball,2,5.1,Melbourne Renegades,RR Rossouw,BJ Webster,N McAndrew,4,0,,,,,,"",""
+ball,2,5.2,Melbourne Renegades,RR Rossouw,BJ Webster,N McAndrew,0,0,,,,,,"",""
+ball,2,5.3,Melbourne Renegades,RR Rossouw,BJ Webster,N McAndrew,4,0,,,,,,"",""
+ball,2,5.4,Melbourne Renegades,RR Rossouw,BJ Webster,N McAndrew,1,0,,,,,,"",""
+ball,2,5.5,Melbourne Renegades,BJ Webster,RR Rossouw,N McAndrew,1,0,,,,,,"",""
+ball,2,5.6,Melbourne Renegades,RR Rossouw,BJ Webster,N McAndrew,4,0,,,,,,"",""
+ball,2,6.1,Melbourne Renegades,BJ Webster,RR Rossouw,T Sangha,4,0,,,,,,"",""
+ball,2,6.2,Melbourne Renegades,BJ Webster,RR Rossouw,T Sangha,2,0,,,,,,"",""
+ball,2,6.3,Melbourne Renegades,BJ Webster,RR Rossouw,T Sangha,0,0,,,,,,"",""
+ball,2,6.4,Melbourne Renegades,BJ Webster,RR Rossouw,T Sangha,0,0,,,,,,caught and bowled,BJ Webster
+ball,2,6.5,Melbourne Renegades,Mohammad Nabi,RR Rossouw,T Sangha,0,0,,,,,,"",""
+ball,2,6.6,Melbourne Renegades,Mohammad Nabi,RR Rossouw,T Sangha,0,0,,,,,,"",""
+ball,2,7.1,Melbourne Renegades,RR Rossouw,Mohammad Nabi,CJ Green,2,0,,,,,,"",""
+ball,2,7.2,Melbourne Renegades,RR Rossouw,Mohammad Nabi,CJ Green,1,0,,,,,,"",""
+ball,2,7.3,Melbourne Renegades,Mohammad Nabi,RR Rossouw,CJ Green,0,0,,,,,,"",""
+ball,2,7.4,Melbourne Renegades,Mohammad Nabi,RR Rossouw,CJ Green,0,1,1,,,,,"",""
+ball,2,7.5,Melbourne Renegades,Mohammad Nabi,RR Rossouw,CJ Green,1,0,,,,,,"",""
+ball,2,7.6,Melbourne Renegades,RR Rossouw,Mohammad Nabi,CJ Green,0,0,,,,,,caught,RR Rossouw
+ball,2,7.7,Melbourne Renegades,Imad Wasim,Mohammad Nabi,CJ Green,1,0,,,,,,"",""
+ball,2,8.1,Melbourne Renegades,Imad Wasim,Mohammad Nabi,T Sangha,0,0,,,,,,"",""
+ball,2,8.2,Melbourne Renegades,Imad Wasim,Mohammad Nabi,T Sangha,0,0,,,,,,"",""
+ball,2,8.3,Melbourne Renegades,Imad Wasim,Mohammad Nabi,T Sangha,0,0,,,,,,"",""
+ball,2,8.4,Melbourne Renegades,Imad Wasim,Mohammad Nabi,T Sangha,1,0,,,,,,"",""
+ball,2,8.5,Melbourne Renegades,Mohammad Nabi,Imad Wasim,T Sangha,0,0,,,,,,caught,Mohammad Nabi
+ball,2,8.6,Melbourne Renegades,Imad Wasim,W Sutherland,T Sangha,0,1,1,,,,,"",""
+ball,2,8.7,Melbourne Renegades,Imad Wasim,W Sutherland,T Sangha,1,0,,,,,,"",""
+ball,2,9.1,Melbourne Renegades,Imad Wasim,W Sutherland,CJ Green,0,0,,,,,,caught,Imad Wasim
+ball,2,9.2,Melbourne Renegades,W Sutherland,KW Richardson,CJ Green,0,0,,,,,,"",""
+ball,2,9.3,Melbourne Renegades,W Sutherland,KW Richardson,CJ Green,0,0,,,,,,"",""
+ball,2,9.4,Melbourne Renegades,W Sutherland,KW Richardson,CJ Green,0,0,,,,,,"",""
+ball,2,9.5,Melbourne Renegades,W Sutherland,KW Richardson,CJ Green,1,0,,,,,,"",""
+ball,2,9.6,Melbourne Renegades,KW Richardson,W Sutherland,CJ Green,0,0,,,,,,"",""
+ball,2,10.1,Melbourne Renegades,W Sutherland,KW Richardson,DR Sams,2,0,,,,,,"",""
+ball,2,10.2,Melbourne Renegades,W Sutherland,KW Richardson,DR Sams,0,0,,,,,,"",""
+ball,2,10.3,Melbourne Renegades,W Sutherland,KW Richardson,DR Sams,4,0,,,,,,"",""
+ball,2,10.4,Melbourne Renegades,W Sutherland,KW Richardson,DR Sams,0,0,,,,,,"",""
+ball,2,10.5,Melbourne Renegades,W Sutherland,KW Richardson,DR Sams,0,0,,,,,,caught,W Sutherland
+ball,2,10.6,Melbourne Renegades,KW Richardson,Z Evans,DR Sams,4,0,,,,,,"",""
+ball,2,11.1,Melbourne Renegades,Z Evans,KW Richardson,AF Milne,2,0,,,,,,"",""
+ball,2,11.2,Melbourne Renegades,Z Evans,KW Richardson,AF Milne,0,0,,,,,,"",""
+ball,2,11.3,Melbourne Renegades,Z Evans,KW Richardson,AF Milne,0,0,,,,,,"",""
+ball,2,11.4,Melbourne Renegades,Z Evans,KW Richardson,AF Milne,0,0,,,,,,caught,Z Evans
+ball,2,11.5,Melbourne Renegades,P Hatzoglou,KW Richardson,AF Milne,4,0,,,,,,"",""
+ball,2,11.6,Melbourne Renegades,P Hatzoglou,KW Richardson,AF Milne,0,0,,,,,,"",""
+ball,2,12.1,Melbourne Renegades,KW Richardson,P Hatzoglou,T Sangha,1,0,,,,,,"",""
+ball,2,12.2,Melbourne Renegades,P Hatzoglou,KW Richardson,T Sangha,0,0,,,,,,caught,P Hatzoglou

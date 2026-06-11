@@ -1,0 +1,309 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Sunrisers Eastern Cape
+info,team,Joburg Super Kings
+info,gender,male
+info,season,2022/23
+info,date,2023/01/21
+info,event,SA20
+info,match_number,17
+info,venue,"St George's Park, Gqeberha"
+info,city,Gqeberha
+info,toss_winner,Joburg Super Kings
+info,toss_decision,field
+info,player_of_match,AM Phangiso
+info,umpire,A Steenkamp
+info,umpire,A Jacobs
+info,reserve_umpire,Siphelele Gasa
+info,tv_umpire,BM White
+info,match_referee,LH Matroos
+info,winner,Joburg Super Kings
+info,winner_wickets,5
+info,player,Sunrisers Eastern Cape,AM Rossington
+info,player,Sunrisers Eastern Cape,J Hermann
+info,player,Sunrisers Eastern Cape,SJ Erwee
+info,player,Sunrisers Eastern Cape,AK Markram
+info,player,Sunrisers Eastern Cape,T Stubbs
+info,player,Sunrisers Eastern Cape,JT Smuts
+info,player,Sunrisers Eastern Cape,M Jansen
+info,player,Sunrisers Eastern Cape,JK Fuller
+info,player,Sunrisers Eastern Cape,BA Carse
+info,player,Sunrisers Eastern Cape,RE van der Merwe
+info,player,Sunrisers Eastern Cape,SSB Magala
+info,player,Joburg Super Kings,RR Hendricks
+info,player,Joburg Super Kings,F du Plessis
+info,player,Joburg Super Kings,N Brand
+info,player,Joburg Super Kings,JL du Plooy
+info,player,Joburg Super Kings,BS Makhanya
+info,player,Joburg Super Kings,D Ferreira
+info,player,Joburg Super Kings,R Shepherd
+info,player,Joburg Super Kings,G Coetzee
+info,player,Joburg Super Kings,AS Joseph
+info,player,Joburg Super Kings,M Theekshana
+info,player,Joburg Super Kings,AM Phangiso
+info,registry,people,A Jacobs,70d117de
+info,registry,people,A Steenkamp,89c62cf5
+info,registry,people,AK Markram,6a26221c
+info,registry,people,AM Phangiso,7f8ecc51
+info,registry,people,AM Rossington,7bcde3fe
+info,registry,people,AS Joseph,b0946605
+info,registry,people,BA Carse,cad40f5e
+info,registry,people,BM White,66c21d35
+info,registry,people,BS Makhanya,1b42a100
+info,registry,people,D Ferreira,f0af99a7
+info,registry,people,F du Plessis,3355b542
+info,registry,people,G Coetzee,3204c99f
+info,registry,people,J Hermann,e87aeca2
+info,registry,people,JK Fuller,dda5aae5
+info,registry,people,JL du Plooy,6e6fb538
+info,registry,people,JT Smuts,42172c3c
+info,registry,people,LH Matroos,6fa18157
+info,registry,people,M Jansen,81c36ee9
+info,registry,people,M Theekshana,f24c6701
+info,registry,people,N Brand,68790da2
+info,registry,people,R Shepherd,c5aef772
+info,registry,people,RE van der Merwe,05c2ca46
+info,registry,people,RR Hendricks,b8cc58c9
+info,registry,people,SJ Erwee,a3ce3d1d
+info,registry,people,SSB Magala,8361e524
+info,registry,people,Siphelele Gasa,e50baa87
+info,registry,people,T Stubbs,85b3fab2
+ball,1,0.1,Sunrisers Eastern Cape,AM Rossington,J Hermann,AS Joseph,4,0,,,,,,"",""
+ball,1,0.2,Sunrisers Eastern Cape,AM Rossington,J Hermann,AS Joseph,0,1,1,,,,,"",""
+ball,1,0.3,Sunrisers Eastern Cape,AM Rossington,J Hermann,AS Joseph,0,0,,,,,,"",""
+ball,1,0.4,Sunrisers Eastern Cape,AM Rossington,J Hermann,AS Joseph,0,0,,,,,,"",""
+ball,1,0.5,Sunrisers Eastern Cape,AM Rossington,J Hermann,AS Joseph,0,0,,,,,,"",""
+ball,1,0.6,Sunrisers Eastern Cape,AM Rossington,J Hermann,AS Joseph,0,0,,,,,,"",""
+ball,1,0.7,Sunrisers Eastern Cape,AM Rossington,J Hermann,AS Joseph,6,0,,,,,,"",""
+ball,1,1.1,Sunrisers Eastern Cape,J Hermann,AM Rossington,M Theekshana,0,0,,,,,,"",""
+ball,1,1.2,Sunrisers Eastern Cape,J Hermann,AM Rossington,M Theekshana,1,0,,,,,,"",""
+ball,1,1.3,Sunrisers Eastern Cape,AM Rossington,J Hermann,M Theekshana,1,0,,,,,,"",""
+ball,1,1.4,Sunrisers Eastern Cape,J Hermann,AM Rossington,M Theekshana,1,0,,,,,,"",""
+ball,1,1.5,Sunrisers Eastern Cape,AM Rossington,J Hermann,M Theekshana,1,0,,,,,,"",""
+ball,1,1.6,Sunrisers Eastern Cape,J Hermann,AM Rossington,M Theekshana,1,0,,,,,,"",""
+ball,1,2.1,Sunrisers Eastern Cape,J Hermann,AM Rossington,G Coetzee,0,0,,,,,,caught,J Hermann
+ball,1,2.2,Sunrisers Eastern Cape,SJ Erwee,AM Rossington,G Coetzee,0,0,,,,,,"",""
+ball,1,2.3,Sunrisers Eastern Cape,SJ Erwee,AM Rossington,G Coetzee,0,0,,,,,,run out,SJ Erwee
+ball,1,2.4,Sunrisers Eastern Cape,AM Rossington,AK Markram,G Coetzee,0,0,,,,,,"",""
+ball,1,2.5,Sunrisers Eastern Cape,AM Rossington,AK Markram,G Coetzee,0,0,,,,,,"",""
+ball,1,2.6,Sunrisers Eastern Cape,AM Rossington,AK Markram,G Coetzee,1,0,,,,,,"",""
+ball,1,3.1,Sunrisers Eastern Cape,AM Rossington,AK Markram,M Theekshana,0,0,,,,,,"",""
+ball,1,3.2,Sunrisers Eastern Cape,AM Rossington,AK Markram,M Theekshana,1,0,,,,,,"",""
+ball,1,3.3,Sunrisers Eastern Cape,AK Markram,AM Rossington,M Theekshana,0,0,,,,,,"",""
+ball,1,3.4,Sunrisers Eastern Cape,AK Markram,AM Rossington,M Theekshana,1,0,,,,,,"",""
+ball,1,3.5,Sunrisers Eastern Cape,AM Rossington,AK Markram,M Theekshana,1,0,,,,,,"",""
+ball,1,3.6,Sunrisers Eastern Cape,AK Markram,AM Rossington,M Theekshana,1,0,,,,,,"",""
+ball,1,4.1,Sunrisers Eastern Cape,AK Markram,AM Rossington,G Coetzee,1,0,,,,,,"",""
+ball,1,4.2,Sunrisers Eastern Cape,AM Rossington,AK Markram,G Coetzee,2,0,,,,,,"",""
+ball,1,4.3,Sunrisers Eastern Cape,AM Rossington,AK Markram,G Coetzee,2,0,,,,,,"",""
+ball,1,4.4,Sunrisers Eastern Cape,AM Rossington,AK Markram,G Coetzee,4,0,,,,,,"",""
+ball,1,4.5,Sunrisers Eastern Cape,AM Rossington,AK Markram,G Coetzee,6,0,,,,,,"",""
+ball,1,4.6,Sunrisers Eastern Cape,AM Rossington,AK Markram,G Coetzee,0,0,,,,,,"",""
+ball,1,5.1,Sunrisers Eastern Cape,AK Markram,AM Rossington,AS Joseph,1,1,,1,,,,"",""
+ball,1,5.2,Sunrisers Eastern Cape,AM Rossington,AK Markram,AS Joseph,4,0,,,,,,"",""
+ball,1,5.3,Sunrisers Eastern Cape,AM Rossington,AK Markram,AS Joseph,0,0,,,,,,"",""
+ball,1,5.4,Sunrisers Eastern Cape,AM Rossington,AK Markram,AS Joseph,1,0,,,,,,"",""
+ball,1,5.5,Sunrisers Eastern Cape,AK Markram,AM Rossington,AS Joseph,1,0,,,,,,"",""
+ball,1,5.6,Sunrisers Eastern Cape,AM Rossington,AK Markram,AS Joseph,0,0,,,,,,"",""
+ball,1,5.7,Sunrisers Eastern Cape,AM Rossington,AK Markram,AS Joseph,0,1,,1,,,,"",""
+ball,1,5.8,Sunrisers Eastern Cape,AM Rossington,AK Markram,AS Joseph,0,0,,,,,,"",""
+ball,1,6.1,Sunrisers Eastern Cape,AK Markram,AM Rossington,R Shepherd,0,0,,,,,,"",""
+ball,1,6.2,Sunrisers Eastern Cape,AK Markram,AM Rossington,R Shepherd,0,0,,,,,,caught,AK Markram
+ball,1,6.3,Sunrisers Eastern Cape,T Stubbs,AM Rossington,R Shepherd,1,0,,,,,,"",""
+ball,1,6.4,Sunrisers Eastern Cape,AM Rossington,T Stubbs,R Shepherd,4,0,,,,,,"",""
+ball,1,6.5,Sunrisers Eastern Cape,AM Rossington,T Stubbs,R Shepherd,0,0,,,,,,"",""
+ball,1,6.6,Sunrisers Eastern Cape,AM Rossington,T Stubbs,R Shepherd,1,0,,,,,,"",""
+ball,1,7.1,Sunrisers Eastern Cape,AM Rossington,T Stubbs,AM Phangiso,0,0,,,,,,"",""
+ball,1,7.2,Sunrisers Eastern Cape,AM Rossington,T Stubbs,AM Phangiso,1,0,,,,,,"",""
+ball,1,7.3,Sunrisers Eastern Cape,T Stubbs,AM Rossington,AM Phangiso,0,0,,,,,,"",""
+ball,1,7.4,Sunrisers Eastern Cape,T Stubbs,AM Rossington,AM Phangiso,0,0,,,,,,"",""
+ball,1,7.5,Sunrisers Eastern Cape,T Stubbs,AM Rossington,AM Phangiso,1,0,,,,,,"",""
+ball,1,7.6,Sunrisers Eastern Cape,AM Rossington,T Stubbs,AM Phangiso,0,0,,,,,,caught,AM Rossington
+ball,1,8.1,Sunrisers Eastern Cape,T Stubbs,JT Smuts,R Shepherd,1,0,,,,,,"",""
+ball,1,8.2,Sunrisers Eastern Cape,JT Smuts,T Stubbs,R Shepherd,1,0,,,,,,"",""
+ball,1,8.3,Sunrisers Eastern Cape,T Stubbs,JT Smuts,R Shepherd,0,0,,,,,,"",""
+ball,1,8.4,Sunrisers Eastern Cape,T Stubbs,JT Smuts,R Shepherd,0,0,,,,,,"",""
+ball,1,8.5,Sunrisers Eastern Cape,T Stubbs,JT Smuts,R Shepherd,0,0,,,,,,"",""
+ball,1,8.6,Sunrisers Eastern Cape,T Stubbs,JT Smuts,R Shepherd,1,0,,,,,,"",""
+ball,1,9.1,Sunrisers Eastern Cape,T Stubbs,JT Smuts,AM Phangiso,0,0,,,,,,stumped,T Stubbs
+ball,1,9.2,Sunrisers Eastern Cape,M Jansen,JT Smuts,AM Phangiso,0,0,,,,,,"",""
+ball,1,9.3,Sunrisers Eastern Cape,M Jansen,JT Smuts,AM Phangiso,2,0,,,,,,"",""
+ball,1,9.4,Sunrisers Eastern Cape,M Jansen,JT Smuts,AM Phangiso,0,0,,,,,,"",""
+ball,1,9.5,Sunrisers Eastern Cape,M Jansen,JT Smuts,AM Phangiso,4,0,,,,,,"",""
+ball,1,9.6,Sunrisers Eastern Cape,M Jansen,JT Smuts,AM Phangiso,0,0,,,,,,caught,M Jansen
+ball,1,10.1,Sunrisers Eastern Cape,JT Smuts,JK Fuller,M Theekshana,2,0,,,,,,"",""
+ball,1,10.2,Sunrisers Eastern Cape,JT Smuts,JK Fuller,M Theekshana,1,0,,,,,,"",""
+ball,1,10.3,Sunrisers Eastern Cape,JK Fuller,JT Smuts,M Theekshana,0,0,,,,,,"",""
+ball,1,10.4,Sunrisers Eastern Cape,JK Fuller,JT Smuts,M Theekshana,4,0,,,,,,"",""
+ball,1,10.5,Sunrisers Eastern Cape,JK Fuller,JT Smuts,M Theekshana,4,0,,,,,,"",""
+ball,1,10.6,Sunrisers Eastern Cape,JK Fuller,JT Smuts,M Theekshana,1,0,,,,,,"",""
+ball,1,11.1,Sunrisers Eastern Cape,JK Fuller,JT Smuts,AM Phangiso,1,0,,,,,,"",""
+ball,1,11.2,Sunrisers Eastern Cape,JT Smuts,JK Fuller,AM Phangiso,0,0,,,,,,"",""
+ball,1,11.3,Sunrisers Eastern Cape,JT Smuts,JK Fuller,AM Phangiso,0,1,,,,1,,"",""
+ball,1,11.4,Sunrisers Eastern Cape,JK Fuller,JT Smuts,AM Phangiso,4,0,,,,,,"",""
+ball,1,11.5,Sunrisers Eastern Cape,JK Fuller,JT Smuts,AM Phangiso,1,0,,,,,,"",""
+ball,1,11.6,Sunrisers Eastern Cape,JT Smuts,JK Fuller,AM Phangiso,1,0,,,,,,"",""
+ball,1,12.1,Sunrisers Eastern Cape,JT Smuts,JK Fuller,R Shepherd,1,0,,,,,,"",""
+ball,1,12.2,Sunrisers Eastern Cape,JK Fuller,JT Smuts,R Shepherd,1,0,,,,,,"",""
+ball,1,12.3,Sunrisers Eastern Cape,JT Smuts,JK Fuller,R Shepherd,2,0,,,,,,"",""
+ball,1,12.4,Sunrisers Eastern Cape,JT Smuts,JK Fuller,R Shepherd,4,0,,,,,,"",""
+ball,1,12.5,Sunrisers Eastern Cape,JT Smuts,JK Fuller,R Shepherd,2,0,,,,,,"",""
+ball,1,12.6,Sunrisers Eastern Cape,JT Smuts,JK Fuller,R Shepherd,1,0,,,,,,"",""
+ball,1,13.1,Sunrisers Eastern Cape,JT Smuts,JK Fuller,N Brand,0,0,,,,,,"",""
+ball,1,13.2,Sunrisers Eastern Cape,JT Smuts,JK Fuller,N Brand,1,0,,,,,,"",""
+ball,1,13.3,Sunrisers Eastern Cape,JK Fuller,JT Smuts,N Brand,1,0,,,,,,"",""
+ball,1,13.4,Sunrisers Eastern Cape,JT Smuts,JK Fuller,N Brand,4,0,,,,,,"",""
+ball,1,13.5,Sunrisers Eastern Cape,JT Smuts,JK Fuller,N Brand,0,0,,,,,,"",""
+ball,1,13.6,Sunrisers Eastern Cape,JT Smuts,JK Fuller,N Brand,1,0,,,,,,"",""
+ball,1,14.1,Sunrisers Eastern Cape,JT Smuts,JK Fuller,AM Phangiso,1,0,,,,,,"",""
+ball,1,14.2,Sunrisers Eastern Cape,JK Fuller,JT Smuts,AM Phangiso,1,0,,,,,,"",""
+ball,1,14.3,Sunrisers Eastern Cape,JT Smuts,JK Fuller,AM Phangiso,0,0,,,,,,caught,JT Smuts
+ball,1,14.4,Sunrisers Eastern Cape,BA Carse,JK Fuller,AM Phangiso,2,0,,,,,,"",""
+ball,1,14.5,Sunrisers Eastern Cape,BA Carse,JK Fuller,AM Phangiso,0,0,,,,,,"",""
+ball,1,14.6,Sunrisers Eastern Cape,BA Carse,JK Fuller,AM Phangiso,1,0,,,,,,"",""
+ball,1,15.1,Sunrisers Eastern Cape,BA Carse,JK Fuller,AS Joseph,0,0,,,,,,"",""
+ball,1,15.2,Sunrisers Eastern Cape,BA Carse,JK Fuller,AS Joseph,0,0,,,,,,"",""
+ball,1,15.3,Sunrisers Eastern Cape,BA Carse,JK Fuller,AS Joseph,6,0,,,,,,"",""
+ball,1,15.4,Sunrisers Eastern Cape,BA Carse,JK Fuller,AS Joseph,1,0,,,,,,"",""
+ball,1,15.5,Sunrisers Eastern Cape,JK Fuller,BA Carse,AS Joseph,1,0,,,,,,"",""
+ball,1,15.6,Sunrisers Eastern Cape,BA Carse,JK Fuller,AS Joseph,0,0,,,,,,"",""
+ball,1,16.1,Sunrisers Eastern Cape,JK Fuller,BA Carse,G Coetzee,1,0,,,,,,"",""
+ball,1,16.2,Sunrisers Eastern Cape,BA Carse,JK Fuller,G Coetzee,1,0,,,,,,"",""
+ball,1,16.3,Sunrisers Eastern Cape,JK Fuller,BA Carse,G Coetzee,1,0,,,,,,"",""
+ball,1,16.4,Sunrisers Eastern Cape,BA Carse,JK Fuller,G Coetzee,0,0,,,,,,bowled,BA Carse
+ball,1,16.5,Sunrisers Eastern Cape,RE van der Merwe,JK Fuller,G Coetzee,1,0,,,,,,"",""
+ball,1,16.6,Sunrisers Eastern Cape,JK Fuller,RE van der Merwe,G Coetzee,1,0,,,,,,"",""
+ball,1,17.1,Sunrisers Eastern Cape,JK Fuller,RE van der Merwe,M Theekshana,2,0,,,,,,"",""
+ball,1,17.2,Sunrisers Eastern Cape,JK Fuller,RE van der Merwe,M Theekshana,2,0,,,,,,"",""
+ball,1,17.3,Sunrisers Eastern Cape,JK Fuller,RE van der Merwe,M Theekshana,0,0,,,,,,"",""
+ball,1,17.4,Sunrisers Eastern Cape,JK Fuller,RE van der Merwe,M Theekshana,0,0,,,,,,"",""
+ball,1,17.5,Sunrisers Eastern Cape,JK Fuller,RE van der Merwe,M Theekshana,1,0,,,,,,"",""
+ball,1,17.6,Sunrisers Eastern Cape,RE van der Merwe,JK Fuller,M Theekshana,1,0,,,,,,"",""
+ball,1,18.1,Sunrisers Eastern Cape,RE van der Merwe,JK Fuller,G Coetzee,2,0,,,,,,"",""
+ball,1,18.2,Sunrisers Eastern Cape,RE van der Merwe,JK Fuller,G Coetzee,0,0,,,,,,caught,RE van der Merwe
+ball,1,18.3,Sunrisers Eastern Cape,SSB Magala,JK Fuller,G Coetzee,1,0,,,,,,"",""
+ball,1,18.4,Sunrisers Eastern Cape,JK Fuller,SSB Magala,G Coetzee,0,0,,,,,,caught,JK Fuller
+ball,2,0.1,Joburg Super Kings,RR Hendricks,F du Plessis,SSB Magala,0,0,,,,,,"",""
+ball,2,0.2,Joburg Super Kings,RR Hendricks,F du Plessis,SSB Magala,0,0,,,,,,"",""
+ball,2,0.3,Joburg Super Kings,RR Hendricks,F du Plessis,SSB Magala,4,0,,,,,,"",""
+ball,2,0.4,Joburg Super Kings,RR Hendricks,F du Plessis,SSB Magala,1,0,,,,,,"",""
+ball,2,0.5,Joburg Super Kings,F du Plessis,RR Hendricks,SSB Magala,1,0,,,,,,"",""
+ball,2,0.6,Joburg Super Kings,RR Hendricks,F du Plessis,SSB Magala,0,0,,,,,,"",""
+ball,2,1.1,Joburg Super Kings,F du Plessis,RR Hendricks,M Jansen,0,0,,,,,,"",""
+ball,2,1.2,Joburg Super Kings,F du Plessis,RR Hendricks,M Jansen,0,0,,,,,,"",""
+ball,2,1.3,Joburg Super Kings,F du Plessis,RR Hendricks,M Jansen,0,0,,,,,,"",""
+ball,2,1.4,Joburg Super Kings,F du Plessis,RR Hendricks,M Jansen,4,0,,,,,,"",""
+ball,2,1.5,Joburg Super Kings,F du Plessis,RR Hendricks,M Jansen,0,0,,,,,,"",""
+ball,2,1.6,Joburg Super Kings,F du Plessis,RR Hendricks,M Jansen,1,0,,,,,,"",""
+ball,2,2.1,Joburg Super Kings,F du Plessis,RR Hendricks,SSB Magala,0,0,,,,,,"",""
+ball,2,2.2,Joburg Super Kings,F du Plessis,RR Hendricks,SSB Magala,1,0,,,,,,"",""
+ball,2,2.3,Joburg Super Kings,RR Hendricks,F du Plessis,SSB Magala,1,0,,,,,,"",""
+ball,2,2.4,Joburg Super Kings,F du Plessis,RR Hendricks,SSB Magala,1,0,,,,,,"",""
+ball,2,2.5,Joburg Super Kings,RR Hendricks,F du Plessis,SSB Magala,0,0,,,,,,caught,RR Hendricks
+ball,2,2.6,Joburg Super Kings,N Brand,F du Plessis,SSB Magala,0,0,,,,,,"",""
+ball,2,3.1,Joburg Super Kings,F du Plessis,N Brand,M Jansen,4,0,,,,,,"",""
+ball,2,3.2,Joburg Super Kings,F du Plessis,N Brand,M Jansen,0,0,,,,,,"",""
+ball,2,3.3,Joburg Super Kings,F du Plessis,N Brand,M Jansen,1,0,,,,,,"",""
+ball,2,3.4,Joburg Super Kings,N Brand,F du Plessis,M Jansen,0,0,,,,,,"",""
+ball,2,3.5,Joburg Super Kings,N Brand,F du Plessis,M Jansen,0,5,5,,,,,"",""
+ball,2,3.6,Joburg Super Kings,N Brand,F du Plessis,M Jansen,0,0,,,,,,"",""
+ball,2,3.7,Joburg Super Kings,N Brand,F du Plessis,M Jansen,1,0,,,,,,"",""
+ball,2,4.1,Joburg Super Kings,N Brand,F du Plessis,BA Carse,1,0,,,,,,"",""
+ball,2,4.2,Joburg Super Kings,F du Plessis,N Brand,BA Carse,0,0,,,,,,"",""
+ball,2,4.3,Joburg Super Kings,F du Plessis,N Brand,BA Carse,4,0,,,,,,"",""
+ball,2,4.4,Joburg Super Kings,F du Plessis,N Brand,BA Carse,0,0,,,,,,"",""
+ball,2,4.5,Joburg Super Kings,F du Plessis,N Brand,BA Carse,1,0,,,,,,"",""
+ball,2,4.6,Joburg Super Kings,N Brand,F du Plessis,BA Carse,0,0,,,,,,"",""
+ball,2,5.1,Joburg Super Kings,F du Plessis,N Brand,JK Fuller,1,0,,,,,,"",""
+ball,2,5.2,Joburg Super Kings,N Brand,F du Plessis,JK Fuller,0,1,1,,,,,"",""
+ball,2,5.3,Joburg Super Kings,N Brand,F du Plessis,JK Fuller,4,0,,,,,,"",""
+ball,2,5.4,Joburg Super Kings,N Brand,F du Plessis,JK Fuller,1,0,,,,,,"",""
+ball,2,5.5,Joburg Super Kings,F du Plessis,N Brand,JK Fuller,4,0,,,,,,"",""
+ball,2,5.6,Joburg Super Kings,F du Plessis,N Brand,JK Fuller,1,0,,,,,,"",""
+ball,2,5.7,Joburg Super Kings,N Brand,F du Plessis,JK Fuller,4,0,,,,,,"",""
+ball,2,6.1,Joburg Super Kings,F du Plessis,N Brand,RE van der Merwe,0,0,,,,,,"",""
+ball,2,6.2,Joburg Super Kings,F du Plessis,N Brand,RE van der Merwe,0,0,,,,,,"",""
+ball,2,6.3,Joburg Super Kings,F du Plessis,N Brand,RE van der Merwe,0,0,,,,,,"",""
+ball,2,6.4,Joburg Super Kings,F du Plessis,N Brand,RE van der Merwe,2,0,,,,,,"",""
+ball,2,6.5,Joburg Super Kings,F du Plessis,N Brand,RE van der Merwe,1,0,,,,,,"",""
+ball,2,6.6,Joburg Super Kings,N Brand,F du Plessis,RE van der Merwe,0,0,,,,,,"",""
+ball,2,7.1,Joburg Super Kings,F du Plessis,N Brand,AK Markram,1,0,,,,,,"",""
+ball,2,7.2,Joburg Super Kings,N Brand,F du Plessis,AK Markram,1,0,,,,,,"",""
+ball,2,7.3,Joburg Super Kings,F du Plessis,N Brand,AK Markram,0,0,,,,,,"",""
+ball,2,7.4,Joburg Super Kings,F du Plessis,N Brand,AK Markram,0,1,1,,,,,"",""
+ball,2,7.5,Joburg Super Kings,F du Plessis,N Brand,AK Markram,1,0,,,,,,"",""
+ball,2,7.6,Joburg Super Kings,N Brand,F du Plessis,AK Markram,2,0,,,,,,"",""
+ball,2,7.7,Joburg Super Kings,N Brand,F du Plessis,AK Markram,1,0,,,,,,"",""
+ball,2,8.1,Joburg Super Kings,N Brand,F du Plessis,RE van der Merwe,0,0,,,,,,"",""
+ball,2,8.2,Joburg Super Kings,N Brand,F du Plessis,RE van der Merwe,1,0,,,,,,"",""
+ball,2,8.3,Joburg Super Kings,F du Plessis,N Brand,RE van der Merwe,1,0,,,,,,"",""
+ball,2,8.4,Joburg Super Kings,N Brand,F du Plessis,RE van der Merwe,0,0,,,,,,bowled,N Brand
+ball,2,8.5,Joburg Super Kings,JL du Plooy,F du Plessis,RE van der Merwe,0,0,,,,,,"",""
+ball,2,8.6,Joburg Super Kings,JL du Plooy,F du Plessis,RE van der Merwe,1,0,,,,,,"",""
+ball,2,9.1,Joburg Super Kings,JL du Plooy,F du Plessis,AK Markram,1,0,,,,,,"",""
+ball,2,9.2,Joburg Super Kings,F du Plessis,JL du Plooy,AK Markram,1,0,,,,,,"",""
+ball,2,9.3,Joburg Super Kings,JL du Plooy,F du Plessis,AK Markram,0,0,,,,,,"",""
+ball,2,9.4,Joburg Super Kings,JL du Plooy,F du Plessis,AK Markram,1,0,,,,,,"",""
+ball,2,9.5,Joburg Super Kings,F du Plessis,JL du Plooy,AK Markram,1,0,,,,,,"",""
+ball,2,9.6,Joburg Super Kings,JL du Plooy,F du Plessis,AK Markram,0,0,,,,,,"",""
+ball,2,10.1,Joburg Super Kings,F du Plessis,JL du Plooy,JT Smuts,0,0,,,,,,"",""
+ball,2,10.2,Joburg Super Kings,F du Plessis,JL du Plooy,JT Smuts,0,0,,,,,,"",""
+ball,2,10.3,Joburg Super Kings,F du Plessis,JL du Plooy,JT Smuts,1,0,,,,,,"",""
+ball,2,10.4,Joburg Super Kings,JL du Plooy,F du Plessis,JT Smuts,0,0,,,,,,"",""
+ball,2,10.5,Joburg Super Kings,JL du Plooy,F du Plessis,JT Smuts,0,0,,,,,,"",""
+ball,2,10.6,Joburg Super Kings,JL du Plooy,F du Plessis,JT Smuts,1,0,,,,,,"",""
+ball,2,11.1,Joburg Super Kings,JL du Plooy,F du Plessis,AK Markram,4,0,,,,,,"",""
+ball,2,11.2,Joburg Super Kings,JL du Plooy,F du Plessis,AK Markram,1,0,,,,,,"",""
+ball,2,11.3,Joburg Super Kings,F du Plessis,JL du Plooy,AK Markram,2,0,,,,,,"",""
+ball,2,11.4,Joburg Super Kings,F du Plessis,JL du Plooy,AK Markram,1,0,,,,,,"",""
+ball,2,11.5,Joburg Super Kings,JL du Plooy,F du Plessis,AK Markram,0,0,,,,,,"",""
+ball,2,11.6,Joburg Super Kings,JL du Plooy,F du Plessis,AK Markram,3,0,,,,,,"",""
+ball,2,12.1,Joburg Super Kings,JL du Plooy,F du Plessis,JT Smuts,0,0,,,,,,"",""
+ball,2,12.2,Joburg Super Kings,JL du Plooy,F du Plessis,JT Smuts,1,0,,,,,,"",""
+ball,2,12.3,Joburg Super Kings,F du Plessis,JL du Plooy,JT Smuts,1,0,,,,,,"",""
+ball,2,12.4,Joburg Super Kings,JL du Plooy,F du Plessis,JT Smuts,1,0,,,,,,"",""
+ball,2,12.5,Joburg Super Kings,F du Plessis,JL du Plooy,JT Smuts,0,0,,,,,,caught,F du Plessis
+ball,2,12.6,Joburg Super Kings,BS Makhanya,JL du Plooy,JT Smuts,0,0,,,,,,"",""
+ball,2,13.1,Joburg Super Kings,JL du Plooy,BS Makhanya,AK Markram,1,0,,,,,,"",""
+ball,2,13.2,Joburg Super Kings,BS Makhanya,JL du Plooy,AK Markram,1,0,,,,,,"",""
+ball,2,13.3,Joburg Super Kings,JL du Plooy,BS Makhanya,AK Markram,0,0,,,,,,"",""
+ball,2,13.4,Joburg Super Kings,JL du Plooy,BS Makhanya,AK Markram,4,0,,,,,,"",""
+ball,2,13.5,Joburg Super Kings,JL du Plooy,BS Makhanya,AK Markram,0,0,,,,,,run out,BS Makhanya
+ball,2,13.6,Joburg Super Kings,D Ferreira,JL du Plooy,AK Markram,0,0,,,,,,"",""
+ball,2,14.1,Joburg Super Kings,JL du Plooy,D Ferreira,JT Smuts,1,0,,,,,,"",""
+ball,2,14.2,Joburg Super Kings,D Ferreira,JL du Plooy,JT Smuts,0,0,,,,,,"",""
+ball,2,14.3,Joburg Super Kings,D Ferreira,JL du Plooy,JT Smuts,1,0,,,,,,"",""
+ball,2,14.4,Joburg Super Kings,JL du Plooy,D Ferreira,JT Smuts,0,0,,,,,,"",""
+ball,2,14.5,Joburg Super Kings,JL du Plooy,D Ferreira,JT Smuts,0,0,,,,,,"",""
+ball,2,14.6,Joburg Super Kings,JL du Plooy,D Ferreira,JT Smuts,1,0,,,,,,"",""
+ball,2,15.1,Joburg Super Kings,JL du Plooy,D Ferreira,M Jansen,1,0,,,,,,"",""
+ball,2,15.2,Joburg Super Kings,D Ferreira,JL du Plooy,M Jansen,0,0,,,,,,"",""
+ball,2,15.3,Joburg Super Kings,D Ferreira,JL du Plooy,M Jansen,1,0,,,,,,"",""
+ball,2,15.4,Joburg Super Kings,JL du Plooy,D Ferreira,M Jansen,1,0,,,,,,"",""
+ball,2,15.5,Joburg Super Kings,D Ferreira,JL du Plooy,M Jansen,1,0,,,,,,"",""
+ball,2,15.6,Joburg Super Kings,JL du Plooy,D Ferreira,M Jansen,0,1,,1,,,,"",""
+ball,2,15.7,Joburg Super Kings,JL du Plooy,D Ferreira,M Jansen,4,0,,,,,,"",""
+ball,2,16.1,Joburg Super Kings,D Ferreira,JL du Plooy,RE van der Merwe,1,0,,,,,,"",""
+ball,2,16.2,Joburg Super Kings,JL du Plooy,D Ferreira,RE van der Merwe,1,0,,,,,,"",""
+ball,2,16.3,Joburg Super Kings,D Ferreira,JL du Plooy,RE van der Merwe,0,0,,,,,,stumped,D Ferreira
+ball,2,16.4,Joburg Super Kings,R Shepherd,JL du Plooy,RE van der Merwe,1,0,,,,,,"",""
+ball,2,16.5,Joburg Super Kings,JL du Plooy,R Shepherd,RE van der Merwe,1,0,,,,,,"",""
+ball,2,16.6,Joburg Super Kings,R Shepherd,JL du Plooy,RE van der Merwe,1,0,,,,,,"",""
+ball,2,17.1,Joburg Super Kings,R Shepherd,JL du Plooy,SSB Magala,1,0,,,,,,"",""
+ball,2,17.2,Joburg Super Kings,JL du Plooy,R Shepherd,SSB Magala,2,0,,,,,,"",""
+ball,2,17.3,Joburg Super Kings,JL du Plooy,R Shepherd,SSB Magala,0,0,,,,,,"",""
+ball,2,17.4,Joburg Super Kings,JL du Plooy,R Shepherd,SSB Magala,4,0,,,,,,"",""
+ball,2,17.5,Joburg Super Kings,JL du Plooy,R Shepherd,SSB Magala,4,0,,,,,,"",""
+ball,2,17.6,Joburg Super Kings,JL du Plooy,R Shepherd,SSB Magala,1,0,,,,,,"",""
+ball,2,18.1,Joburg Super Kings,JL du Plooy,R Shepherd,RE van der Merwe,0,0,,,,,,"",""
+ball,2,18.2,Joburg Super Kings,JL du Plooy,R Shepherd,RE van der Merwe,1,0,,,,,,"",""
+ball,2,18.3,Joburg Super Kings,R Shepherd,JL du Plooy,RE van der Merwe,1,0,,,,,,"",""
+ball,2,18.4,Joburg Super Kings,JL du Plooy,R Shepherd,RE van der Merwe,1,0,,,,,,"",""
+ball,2,18.5,Joburg Super Kings,R Shepherd,JL du Plooy,RE van der Merwe,0,0,,,,,,"",""
+ball,2,18.6,Joburg Super Kings,R Shepherd,JL du Plooy,RE van der Merwe,0,1,1,,,,,"",""
+ball,2,18.7,Joburg Super Kings,R Shepherd,JL du Plooy,RE van der Merwe,1,0,,,,,,"",""
+ball,2,19.1,Joburg Super Kings,R Shepherd,JL du Plooy,SSB Magala,0,0,,,,,,"",""
+ball,2,19.2,Joburg Super Kings,R Shepherd,JL du Plooy,SSB Magala,1,0,,,,,,"",""
+ball,2,19.3,Joburg Super Kings,JL du Plooy,R Shepherd,SSB Magala,1,0,,,,,,"",""
+ball,2,19.4,Joburg Super Kings,R Shepherd,JL du Plooy,SSB Magala,1,0,,,,,,"",""
+ball,2,19.5,Joburg Super Kings,JL du Plooy,R Shepherd,SSB Magala,4,1,,1,,,,"",""

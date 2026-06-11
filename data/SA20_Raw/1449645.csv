@@ -1,0 +1,320 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Pretoria Capitals
+info,team,Paarl Royals
+info,gender,male
+info,season,2024/25
+info,date,2025/01/18
+info,event,SA20
+info,match_number,12
+info,venue,"SuperSport Park, Centurion"
+info,city,Centurion
+info,toss_winner,Pretoria Capitals
+info,toss_decision,bat
+info,player_of_match,JE Root
+info,umpire,James Middlebrook
+info,umpire,Stephen Harris
+info,reserve_umpire,MN Gampu
+info,tv_umpire,BP Jele
+info,match_referee,GH Pienaar
+info,winner,Paarl Royals
+info,winner_wickets,8
+info,player,Pretoria Capitals,WG Jacks
+info,player,Pretoria Capitals,Rahmanullah Gurbaz
+info,player,Pretoria Capitals,WCF Smeed
+info,player,Pretoria Capitals,K Verreynne
+info,player,Pretoria Capitals,RR Rossouw
+info,player,Pretoria Capitals,JDS Neesham
+info,player,Pretoria Capitals,MJ Ackerman
+info,player,Pretoria Capitals,S Muthusamy
+info,player,Pretoria Capitals,M Pretorius
+info,player,Pretoria Capitals,E Bosch
+info,player,Pretoria Capitals,T van Vuuren
+info,player,Paarl Royals,LG Pretorius
+info,player,Paarl Royals,JE Root
+info,player,Paarl Royals,RA Herman
+info,player,Paarl Royals,DA Miller
+info,player,Paarl Royals,M Van Buuren
+info,player,Paarl Royals,KD Karthik
+info,player,Paarl Royals,Dayyaan Galiem
+info,player,Paarl Royals,Mujeeb Ur Rahman
+info,player,Paarl Royals,E Malinga
+info,player,Paarl Royals,KT Maphaka
+info,player,Paarl Royals,L Ngidi
+info,registry,people,BP Jele,7bb1331e
+info,registry,people,DA Miller,d67d5f00
+info,registry,people,Dayyaan Galiem,47c449c5
+info,registry,people,E Bosch,28d6c44d
+info,registry,people,E Malinga,5750bcb4
+info,registry,people,GH Pienaar,3516e46b
+info,registry,people,JDS Neesham,9219eff0
+info,registry,people,JE Root,a343262c
+info,registry,people,James Middlebrook,ddcd1520
+info,registry,people,K Verreynne,bf814547
+info,registry,people,KD Karthik,c03f1114
+info,registry,people,KT Maphaka,107c26fb
+info,registry,people,L Ngidi,f834dcfc
+info,registry,people,LG Pretorius,60aa2db3
+info,registry,people,M Pretorius,54c2b697
+info,registry,people,M Van Buuren,46e4a4e0
+info,registry,people,MJ Ackerman,6287d981
+info,registry,people,MN Gampu,41597619
+info,registry,people,Mujeeb Ur Rahman,7d92277a
+info,registry,people,RA Herman,9c821d2e
+info,registry,people,RR Rossouw,cad00a4d
+info,registry,people,Rahmanullah Gurbaz,0bacade8
+info,registry,people,S Muthusamy,7dfb8890
+info,registry,people,Stephen Harris,fdcfd4aa
+info,registry,people,T van Vuuren,20afc7e7
+info,registry,people,WCF Smeed,4e18e961
+info,registry,people,WG Jacks,9caf69a1
+ball,1,0.1,Pretoria Capitals,WG Jacks,Rahmanullah Gurbaz,L Ngidi,0,0,,,,,,"",""
+ball,1,0.2,Pretoria Capitals,WG Jacks,Rahmanullah Gurbaz,L Ngidi,0,0,,,,,,"",""
+ball,1,0.3,Pretoria Capitals,WG Jacks,Rahmanullah Gurbaz,L Ngidi,4,0,,,,,,"",""
+ball,1,0.4,Pretoria Capitals,WG Jacks,Rahmanullah Gurbaz,L Ngidi,4,0,,,,,,"",""
+ball,1,0.5,Pretoria Capitals,WG Jacks,Rahmanullah Gurbaz,L Ngidi,0,0,,,,,,"",""
+ball,1,0.6,Pretoria Capitals,WG Jacks,Rahmanullah Gurbaz,L Ngidi,0,0,,,,,,"",""
+ball,1,1.1,Pretoria Capitals,Rahmanullah Gurbaz,WG Jacks,KT Maphaka,0,0,,,,,,"",""
+ball,1,1.2,Pretoria Capitals,Rahmanullah Gurbaz,WG Jacks,KT Maphaka,0,0,,,,,,"",""
+ball,1,1.3,Pretoria Capitals,Rahmanullah Gurbaz,WG Jacks,KT Maphaka,4,0,,,,,,"",""
+ball,1,1.4,Pretoria Capitals,Rahmanullah Gurbaz,WG Jacks,KT Maphaka,4,0,,,,,,"",""
+ball,1,1.5,Pretoria Capitals,Rahmanullah Gurbaz,WG Jacks,KT Maphaka,1,0,,,,,,"",""
+ball,1,1.6,Pretoria Capitals,WG Jacks,Rahmanullah Gurbaz,KT Maphaka,1,0,,,,,,"",""
+ball,1,2.1,Pretoria Capitals,WG Jacks,Rahmanullah Gurbaz,E Malinga,0,0,,,,,,caught,WG Jacks
+ball,1,2.2,Pretoria Capitals,WCF Smeed,Rahmanullah Gurbaz,E Malinga,0,0,,,,,,"",""
+ball,1,2.3,Pretoria Capitals,WCF Smeed,Rahmanullah Gurbaz,E Malinga,1,0,,,,,,"",""
+ball,1,2.4,Pretoria Capitals,Rahmanullah Gurbaz,WCF Smeed,E Malinga,1,0,,,,,,"",""
+ball,1,2.5,Pretoria Capitals,WCF Smeed,Rahmanullah Gurbaz,E Malinga,0,0,,,,,,"",""
+ball,1,2.6,Pretoria Capitals,WCF Smeed,Rahmanullah Gurbaz,E Malinga,4,0,,,,,,"",""
+ball,1,3.1,Pretoria Capitals,Rahmanullah Gurbaz,WCF Smeed,Dayyaan Galiem,1,0,,,,,,"",""
+ball,1,3.2,Pretoria Capitals,WCF Smeed,Rahmanullah Gurbaz,Dayyaan Galiem,4,0,,,,,,"",""
+ball,1,3.3,Pretoria Capitals,WCF Smeed,Rahmanullah Gurbaz,Dayyaan Galiem,0,0,,,,,,"",""
+ball,1,3.4,Pretoria Capitals,WCF Smeed,Rahmanullah Gurbaz,Dayyaan Galiem,1,0,,,,,,"",""
+ball,1,3.5,Pretoria Capitals,Rahmanullah Gurbaz,WCF Smeed,Dayyaan Galiem,0,1,1,,,,,"",""
+ball,1,3.6,Pretoria Capitals,Rahmanullah Gurbaz,WCF Smeed,Dayyaan Galiem,0,0,,,,,,"",""
+ball,1,3.7,Pretoria Capitals,Rahmanullah Gurbaz,WCF Smeed,Dayyaan Galiem,1,0,,,,,,"",""
+ball,1,4.1,Pretoria Capitals,Rahmanullah Gurbaz,WCF Smeed,KT Maphaka,0,0,,,,,,"",""
+ball,1,4.2,Pretoria Capitals,Rahmanullah Gurbaz,WCF Smeed,KT Maphaka,0,0,,,,,,"",""
+ball,1,4.3,Pretoria Capitals,Rahmanullah Gurbaz,WCF Smeed,KT Maphaka,6,0,,,,,,"",""
+ball,1,4.4,Pretoria Capitals,Rahmanullah Gurbaz,WCF Smeed,KT Maphaka,4,0,,,,,,"",""
+ball,1,4.5,Pretoria Capitals,Rahmanullah Gurbaz,WCF Smeed,KT Maphaka,0,0,,,,,,"",""
+ball,1,4.6,Pretoria Capitals,Rahmanullah Gurbaz,WCF Smeed,KT Maphaka,3,0,,,,,,"",""
+ball,1,5.1,Pretoria Capitals,Rahmanullah Gurbaz,WCF Smeed,E Malinga,0,4,,,,4,,"",""
+ball,1,5.2,Pretoria Capitals,Rahmanullah Gurbaz,WCF Smeed,E Malinga,1,0,,,,,,"",""
+ball,1,5.3,Pretoria Capitals,WCF Smeed,Rahmanullah Gurbaz,E Malinga,0,1,,,,1,,"",""
+ball,1,5.4,Pretoria Capitals,Rahmanullah Gurbaz,WCF Smeed,E Malinga,1,0,,,,,,"",""
+ball,1,5.5,Pretoria Capitals,WCF Smeed,Rahmanullah Gurbaz,E Malinga,4,0,,,,,,"",""
+ball,1,5.6,Pretoria Capitals,WCF Smeed,Rahmanullah Gurbaz,E Malinga,0,1,1,,,,,"",""
+ball,1,5.7,Pretoria Capitals,WCF Smeed,Rahmanullah Gurbaz,E Malinga,0,0,,,,,,"",""
+ball,1,6.1,Pretoria Capitals,Rahmanullah Gurbaz,WCF Smeed,L Ngidi,1,0,,,,,,"",""
+ball,1,6.2,Pretoria Capitals,WCF Smeed,Rahmanullah Gurbaz,L Ngidi,1,0,,,,,,"",""
+ball,1,6.3,Pretoria Capitals,Rahmanullah Gurbaz,WCF Smeed,L Ngidi,6,0,,,,,,"",""
+ball,1,6.4,Pretoria Capitals,Rahmanullah Gurbaz,WCF Smeed,L Ngidi,2,0,,,,,,"",""
+ball,1,6.5,Pretoria Capitals,Rahmanullah Gurbaz,WCF Smeed,L Ngidi,1,0,,,,,,"",""
+ball,1,6.6,Pretoria Capitals,WCF Smeed,Rahmanullah Gurbaz,L Ngidi,1,0,,,,,,"",""
+ball,1,7.1,Pretoria Capitals,WCF Smeed,Rahmanullah Gurbaz,Mujeeb Ur Rahman,4,0,,,,,,"",""
+ball,1,7.2,Pretoria Capitals,WCF Smeed,Rahmanullah Gurbaz,Mujeeb Ur Rahman,0,0,,,,,,"",""
+ball,1,7.3,Pretoria Capitals,WCF Smeed,Rahmanullah Gurbaz,Mujeeb Ur Rahman,2,0,,,,,,"",""
+ball,1,7.4,Pretoria Capitals,WCF Smeed,Rahmanullah Gurbaz,Mujeeb Ur Rahman,1,0,,,,,,"",""
+ball,1,7.5,Pretoria Capitals,Rahmanullah Gurbaz,WCF Smeed,Mujeeb Ur Rahman,1,0,,,,,,"",""
+ball,1,7.6,Pretoria Capitals,WCF Smeed,Rahmanullah Gurbaz,Mujeeb Ur Rahman,1,0,,,,,,"",""
+ball,1,8.1,Pretoria Capitals,WCF Smeed,Rahmanullah Gurbaz,Dayyaan Galiem,0,1,1,,,,,"",""
+ball,1,8.2,Pretoria Capitals,WCF Smeed,Rahmanullah Gurbaz,Dayyaan Galiem,2,0,,,,,,"",""
+ball,1,8.3,Pretoria Capitals,WCF Smeed,Rahmanullah Gurbaz,Dayyaan Galiem,0,0,,,,,,"",""
+ball,1,8.4,Pretoria Capitals,WCF Smeed,Rahmanullah Gurbaz,Dayyaan Galiem,6,0,,,,,,"",""
+ball,1,8.5,Pretoria Capitals,WCF Smeed,Rahmanullah Gurbaz,Dayyaan Galiem,0,0,,,,,,"",""
+ball,1,8.6,Pretoria Capitals,WCF Smeed,Rahmanullah Gurbaz,Dayyaan Galiem,1,0,,,,,,"",""
+ball,1,8.7,Pretoria Capitals,Rahmanullah Gurbaz,WCF Smeed,Dayyaan Galiem,0,1,1,,,,,"",""
+ball,1,8.8,Pretoria Capitals,Rahmanullah Gurbaz,WCF Smeed,Dayyaan Galiem,1,0,,,,,,"",""
+ball,1,9.1,Pretoria Capitals,Rahmanullah Gurbaz,WCF Smeed,Mujeeb Ur Rahman,0,0,,,,,,"",""
+ball,1,9.2,Pretoria Capitals,Rahmanullah Gurbaz,WCF Smeed,Mujeeb Ur Rahman,2,0,,,,,,"",""
+ball,1,9.3,Pretoria Capitals,Rahmanullah Gurbaz,WCF Smeed,Mujeeb Ur Rahman,1,0,,,,,,"",""
+ball,1,9.4,Pretoria Capitals,WCF Smeed,Rahmanullah Gurbaz,Mujeeb Ur Rahman,1,0,,,,,,"",""
+ball,1,9.5,Pretoria Capitals,Rahmanullah Gurbaz,WCF Smeed,Mujeeb Ur Rahman,0,0,,,,,,"",""
+ball,1,9.6,Pretoria Capitals,Rahmanullah Gurbaz,WCF Smeed,Mujeeb Ur Rahman,0,0,,,,,,bowled,Rahmanullah Gurbaz
+ball,1,10.1,Pretoria Capitals,WCF Smeed,K Verreynne,KT Maphaka,0,0,,,,,,"",""
+ball,1,10.2,Pretoria Capitals,WCF Smeed,K Verreynne,KT Maphaka,6,0,,,,,,"",""
+ball,1,10.3,Pretoria Capitals,WCF Smeed,K Verreynne,KT Maphaka,1,0,,,,,,"",""
+ball,1,10.4,Pretoria Capitals,K Verreynne,WCF Smeed,KT Maphaka,1,0,,,,,,"",""
+ball,1,10.5,Pretoria Capitals,WCF Smeed,K Verreynne,KT Maphaka,1,0,,,,,,"",""
+ball,1,10.6,Pretoria Capitals,K Verreynne,WCF Smeed,KT Maphaka,0,1,,,,1,,"",""
+ball,1,11.1,Pretoria Capitals,K Verreynne,WCF Smeed,JE Root,1,0,,,,,,"",""
+ball,1,11.2,Pretoria Capitals,WCF Smeed,K Verreynne,JE Root,0,0,,,,,,"",""
+ball,1,11.3,Pretoria Capitals,WCF Smeed,K Verreynne,JE Root,6,0,,,,,,"",""
+ball,1,11.4,Pretoria Capitals,WCF Smeed,K Verreynne,JE Root,2,0,,,,,,"",""
+ball,1,11.5,Pretoria Capitals,WCF Smeed,K Verreynne,JE Root,0,1,,,,1,,"",""
+ball,1,11.6,Pretoria Capitals,K Verreynne,WCF Smeed,JE Root,1,0,,,,,,"",""
+ball,1,12.1,Pretoria Capitals,K Verreynne,WCF Smeed,L Ngidi,4,0,,,,,,"",""
+ball,1,12.2,Pretoria Capitals,K Verreynne,WCF Smeed,L Ngidi,2,0,,,,,,"",""
+ball,1,12.3,Pretoria Capitals,K Verreynne,WCF Smeed,L Ngidi,6,0,,,,,,"",""
+ball,1,12.4,Pretoria Capitals,K Verreynne,WCF Smeed,L Ngidi,1,0,,,,,,"",""
+ball,1,12.5,Pretoria Capitals,WCF Smeed,K Verreynne,L Ngidi,0,0,,,,,,"",""
+ball,1,12.6,Pretoria Capitals,WCF Smeed,K Verreynne,L Ngidi,4,0,,,,,,"",""
+ball,1,13.1,Pretoria Capitals,K Verreynne,WCF Smeed,Dayyaan Galiem,1,0,,,,,,"",""
+ball,1,13.2,Pretoria Capitals,WCF Smeed,K Verreynne,Dayyaan Galiem,0,0,,,,,,caught,WCF Smeed
+ball,1,13.3,Pretoria Capitals,RR Rossouw,K Verreynne,Dayyaan Galiem,0,0,,,,,,"",""
+ball,1,13.4,Pretoria Capitals,RR Rossouw,K Verreynne,Dayyaan Galiem,4,0,,,,,,"",""
+ball,1,13.5,Pretoria Capitals,RR Rossouw,K Verreynne,Dayyaan Galiem,1,0,,,,,,"",""
+ball,1,13.6,Pretoria Capitals,K Verreynne,RR Rossouw,Dayyaan Galiem,0,0,,,,,,"",""
+ball,1,14.1,Pretoria Capitals,RR Rossouw,K Verreynne,Mujeeb Ur Rahman,1,0,,,,,,"",""
+ball,1,14.2,Pretoria Capitals,K Verreynne,RR Rossouw,Mujeeb Ur Rahman,0,0,,,,,,"",""
+ball,1,14.3,Pretoria Capitals,K Verreynne,RR Rossouw,Mujeeb Ur Rahman,1,0,,,,,,"",""
+ball,1,14.4,Pretoria Capitals,RR Rossouw,K Verreynne,Mujeeb Ur Rahman,1,0,,,,,,"",""
+ball,1,14.5,Pretoria Capitals,K Verreynne,RR Rossouw,Mujeeb Ur Rahman,6,0,,,,,,"",""
+ball,1,14.6,Pretoria Capitals,K Verreynne,RR Rossouw,Mujeeb Ur Rahman,1,0,,,,,,"",""
+ball,1,15.1,Pretoria Capitals,K Verreynne,RR Rossouw,E Malinga,1,0,,,,,,"",""
+ball,1,15.2,Pretoria Capitals,RR Rossouw,K Verreynne,E Malinga,1,0,,,,,,"",""
+ball,1,15.3,Pretoria Capitals,K Verreynne,RR Rossouw,E Malinga,1,0,,,,,,"",""
+ball,1,15.4,Pretoria Capitals,RR Rossouw,K Verreynne,E Malinga,6,0,,,,,,"",""
+ball,1,15.5,Pretoria Capitals,RR Rossouw,K Verreynne,E Malinga,0,1,,,,1,,"",""
+ball,1,15.6,Pretoria Capitals,K Verreynne,RR Rossouw,E Malinga,1,0,,,,,,"",""
+ball,1,16.1,Pretoria Capitals,K Verreynne,RR Rossouw,Mujeeb Ur Rahman,4,0,,,,,,"",""
+ball,1,16.2,Pretoria Capitals,K Verreynne,RR Rossouw,Mujeeb Ur Rahman,1,0,,,,,,"",""
+ball,1,16.3,Pretoria Capitals,RR Rossouw,K Verreynne,Mujeeb Ur Rahman,0,0,,,,,,caught,RR Rossouw
+ball,1,16.4,Pretoria Capitals,JDS Neesham,K Verreynne,Mujeeb Ur Rahman,0,0,,,,,,"",""
+ball,1,16.5,Pretoria Capitals,JDS Neesham,K Verreynne,Mujeeb Ur Rahman,0,0,,,,,,"",""
+ball,1,16.6,Pretoria Capitals,JDS Neesham,K Verreynne,Mujeeb Ur Rahman,0,0,,,,,,"",""
+ball,1,17.1,Pretoria Capitals,K Verreynne,JDS Neesham,Dayyaan Galiem,6,0,,,,,,"",""
+ball,1,17.2,Pretoria Capitals,K Verreynne,JDS Neesham,Dayyaan Galiem,6,0,,,,,,"",""
+ball,1,17.3,Pretoria Capitals,K Verreynne,JDS Neesham,Dayyaan Galiem,0,0,,,,,,"",""
+ball,1,17.4,Pretoria Capitals,K Verreynne,JDS Neesham,Dayyaan Galiem,0,0,,,,,,lbw,K Verreynne
+ball,1,17.5,Pretoria Capitals,MJ Ackerman,JDS Neesham,Dayyaan Galiem,1,0,,,,,,"",""
+ball,1,17.6,Pretoria Capitals,JDS Neesham,MJ Ackerman,Dayyaan Galiem,2,0,,,,,,"",""
+ball,1,18.1,Pretoria Capitals,MJ Ackerman,JDS Neesham,KT Maphaka,1,0,,,,,,"",""
+ball,1,18.2,Pretoria Capitals,JDS Neesham,MJ Ackerman,KT Maphaka,2,0,,,,,,"",""
+ball,1,18.3,Pretoria Capitals,JDS Neesham,MJ Ackerman,KT Maphaka,0,0,,,,,,"",""
+ball,1,18.4,Pretoria Capitals,JDS Neesham,MJ Ackerman,KT Maphaka,1,1,,1,,,,"",""
+ball,1,18.5,Pretoria Capitals,MJ Ackerman,JDS Neesham,KT Maphaka,0,0,,,,,,"",""
+ball,1,18.6,Pretoria Capitals,MJ Ackerman,JDS Neesham,KT Maphaka,4,0,,,,,,"",""
+ball,1,18.7,Pretoria Capitals,MJ Ackerman,JDS Neesham,KT Maphaka,0,0,,,,,,"",""
+ball,1,19.1,Pretoria Capitals,JDS Neesham,MJ Ackerman,E Malinga,0,1,1,,,,,"",""
+ball,1,19.2,Pretoria Capitals,JDS Neesham,MJ Ackerman,E Malinga,0,0,,,,,,"",""
+ball,1,19.3,Pretoria Capitals,JDS Neesham,MJ Ackerman,E Malinga,4,0,,,,,,"",""
+ball,1,19.4,Pretoria Capitals,JDS Neesham,MJ Ackerman,E Malinga,6,0,,,,,,"",""
+ball,1,19.5,Pretoria Capitals,JDS Neesham,MJ Ackerman,E Malinga,4,0,,,,,,"",""
+ball,1,19.6,Pretoria Capitals,JDS Neesham,MJ Ackerman,E Malinga,6,0,,,,,,"",""
+ball,1,19.7,Pretoria Capitals,JDS Neesham,MJ Ackerman,E Malinga,3,0,,,,,,"",""
+ball,2,0.1,Paarl Royals,LG Pretorius,JE Root,WG Jacks,0,0,,,,,,caught and bowled,LG Pretorius
+ball,2,0.2,Paarl Royals,RA Herman,JE Root,WG Jacks,1,0,,,,,,"",""
+ball,2,0.3,Paarl Royals,JE Root,RA Herman,WG Jacks,0,0,,,,,,"",""
+ball,2,0.4,Paarl Royals,JE Root,RA Herman,WG Jacks,1,0,,,,,,"",""
+ball,2,0.5,Paarl Royals,RA Herman,JE Root,WG Jacks,1,0,,,,,,"",""
+ball,2,0.6,Paarl Royals,JE Root,RA Herman,WG Jacks,1,0,,,,,,"",""
+ball,2,1.1,Paarl Royals,JE Root,RA Herman,E Bosch,0,0,,,,,,"",""
+ball,2,1.2,Paarl Royals,JE Root,RA Herman,E Bosch,0,1,1,,,,,"",""
+ball,2,1.3,Paarl Royals,JE Root,RA Herman,E Bosch,0,0,,,,,,"",""
+ball,2,1.4,Paarl Royals,JE Root,RA Herman,E Bosch,0,0,,,,,,"",""
+ball,2,1.5,Paarl Royals,JE Root,RA Herman,E Bosch,0,0,,,,,,"",""
+ball,2,1.6,Paarl Royals,JE Root,RA Herman,E Bosch,4,0,,,,,,"",""
+ball,2,1.7,Paarl Royals,JE Root,RA Herman,E Bosch,1,0,,,,,,"",""
+ball,2,2.1,Paarl Royals,JE Root,RA Herman,WG Jacks,4,0,,,,,,"",""
+ball,2,2.2,Paarl Royals,JE Root,RA Herman,WG Jacks,4,0,,,,,,"",""
+ball,2,2.3,Paarl Royals,JE Root,RA Herman,WG Jacks,1,0,,,,,,"",""
+ball,2,2.4,Paarl Royals,RA Herman,JE Root,WG Jacks,0,0,,,,,,"",""
+ball,2,2.5,Paarl Royals,RA Herman,JE Root,WG Jacks,0,0,,,,,,"",""
+ball,2,2.6,Paarl Royals,RA Herman,JE Root,WG Jacks,2,0,,,,,,"",""
+ball,2,3.1,Paarl Royals,JE Root,RA Herman,E Bosch,1,0,,,,,,"",""
+ball,2,3.2,Paarl Royals,RA Herman,JE Root,E Bosch,0,0,,,,,,"",""
+ball,2,3.3,Paarl Royals,RA Herman,JE Root,E Bosch,1,0,,,,,,"",""
+ball,2,3.4,Paarl Royals,JE Root,RA Herman,E Bosch,0,0,,,,,,"",""
+ball,2,3.5,Paarl Royals,JE Root,RA Herman,E Bosch,0,0,,,,,,"",""
+ball,2,3.6,Paarl Royals,JE Root,RA Herman,E Bosch,6,0,,,,,,"",""
+ball,2,4.1,Paarl Royals,RA Herman,JE Root,M Pretorius,1,0,,,,,,"",""
+ball,2,4.2,Paarl Royals,JE Root,RA Herman,M Pretorius,4,0,,,,,,"",""
+ball,2,4.3,Paarl Royals,JE Root,RA Herman,M Pretorius,4,0,,,,,,"",""
+ball,2,4.4,Paarl Royals,JE Root,RA Herman,M Pretorius,1,0,,,,,,"",""
+ball,2,4.5,Paarl Royals,RA Herman,JE Root,M Pretorius,0,5,,,,5,,"",""
+ball,2,4.6,Paarl Royals,JE Root,RA Herman,M Pretorius,0,0,,,,,,"",""
+ball,2,5.1,Paarl Royals,RA Herman,JE Root,T van Vuuren,0,0,,,,,,"",""
+ball,2,5.2,Paarl Royals,RA Herman,JE Root,T van Vuuren,0,0,,,,,,"",""
+ball,2,5.3,Paarl Royals,RA Herman,JE Root,T van Vuuren,4,0,,,,,,"",""
+ball,2,5.4,Paarl Royals,RA Herman,JE Root,T van Vuuren,4,0,,,,,,"",""
+ball,2,5.5,Paarl Royals,RA Herman,JE Root,T van Vuuren,0,0,,,,,,"",""
+ball,2,5.6,Paarl Royals,RA Herman,JE Root,T van Vuuren,6,0,,,,,,"",""
+ball,2,6.1,Paarl Royals,JE Root,RA Herman,S Muthusamy,1,0,,,,,,"",""
+ball,2,6.2,Paarl Royals,RA Herman,JE Root,S Muthusamy,1,0,,,,,,"",""
+ball,2,6.3,Paarl Royals,JE Root,RA Herman,S Muthusamy,1,0,,,,,,"",""
+ball,2,6.4,Paarl Royals,RA Herman,JE Root,S Muthusamy,0,5,5,,,,,"",""
+ball,2,6.5,Paarl Royals,RA Herman,JE Root,S Muthusamy,1,0,,,,,,"",""
+ball,2,6.6,Paarl Royals,JE Root,RA Herman,S Muthusamy,4,0,,,,,,"",""
+ball,2,6.7,Paarl Royals,JE Root,RA Herman,S Muthusamy,0,0,,,,,,"",""
+ball,2,7.1,Paarl Royals,RA Herman,JE Root,JDS Neesham,0,0,,,,,,"",""
+ball,2,7.2,Paarl Royals,RA Herman,JE Root,JDS Neesham,0,0,,,,,,"",""
+ball,2,7.3,Paarl Royals,RA Herman,JE Root,JDS Neesham,0,0,,,,,,"",""
+ball,2,7.4,Paarl Royals,RA Herman,JE Root,JDS Neesham,2,0,,,,,,"",""
+ball,2,7.5,Paarl Royals,RA Herman,JE Root,JDS Neesham,1,0,,,,,,"",""
+ball,2,7.6,Paarl Royals,JE Root,RA Herman,JDS Neesham,1,0,,,,,,"",""
+ball,2,8.1,Paarl Royals,JE Root,RA Herman,T van Vuuren,6,0,,,,,,"",""
+ball,2,8.2,Paarl Royals,JE Root,RA Herman,T van Vuuren,1,0,,,,,,"",""
+ball,2,8.3,Paarl Royals,RA Herman,JE Root,T van Vuuren,1,0,,,,,,"",""
+ball,2,8.4,Paarl Royals,JE Root,RA Herman,T van Vuuren,4,0,,,,,,"",""
+ball,2,8.5,Paarl Royals,JE Root,RA Herman,T van Vuuren,2,0,,,,,,"",""
+ball,2,8.6,Paarl Royals,JE Root,RA Herman,T van Vuuren,1,0,,,,,,"",""
+ball,2,9.1,Paarl Royals,JE Root,RA Herman,WG Jacks,1,0,,,,,,"",""
+ball,2,9.2,Paarl Royals,RA Herman,JE Root,WG Jacks,6,0,,,,,,"",""
+ball,2,9.3,Paarl Royals,RA Herman,JE Root,WG Jacks,1,0,,,,,,"",""
+ball,2,9.4,Paarl Royals,JE Root,RA Herman,WG Jacks,0,1,,,,1,,"",""
+ball,2,9.5,Paarl Royals,RA Herman,JE Root,WG Jacks,1,0,,,,,,"",""
+ball,2,9.6,Paarl Royals,JE Root,RA Herman,WG Jacks,1,0,,,,,,"",""
+ball,2,10.1,Paarl Royals,JE Root,RA Herman,S Muthusamy,0,0,,,,,,"",""
+ball,2,10.2,Paarl Royals,JE Root,RA Herman,S Muthusamy,1,0,,,,,,"",""
+ball,2,10.3,Paarl Royals,RA Herman,JE Root,S Muthusamy,2,0,,,,,,"",""
+ball,2,10.4,Paarl Royals,RA Herman,JE Root,S Muthusamy,4,0,,,,,,"",""
+ball,2,10.5,Paarl Royals,RA Herman,JE Root,S Muthusamy,2,0,,,,,,"",""
+ball,2,10.6,Paarl Royals,RA Herman,JE Root,S Muthusamy,4,0,,,,,,"",""
+ball,2,11.1,Paarl Royals,JE Root,RA Herman,JDS Neesham,1,0,,,,,,"",""
+ball,2,11.2,Paarl Royals,RA Herman,JE Root,JDS Neesham,6,0,,,,,,"",""
+ball,2,11.3,Paarl Royals,RA Herman,JE Root,JDS Neesham,4,0,,,,,,"",""
+ball,2,11.4,Paarl Royals,RA Herman,JE Root,JDS Neesham,0,0,,,,,,caught,RA Herman
+ball,2,11.5,Paarl Royals,DA Miller,JE Root,JDS Neesham,0,0,,,,,,"",""
+ball,2,11.6,Paarl Royals,DA Miller,JE Root,JDS Neesham,2,0,,,,,,"",""
+ball,2,12.1,Paarl Royals,JE Root,DA Miller,M Pretorius,1,0,,,,,,"",""
+ball,2,12.2,Paarl Royals,DA Miller,JE Root,M Pretorius,1,0,,,,,,"",""
+ball,2,12.3,Paarl Royals,JE Root,DA Miller,M Pretorius,4,0,,,,,,"",""
+ball,2,12.4,Paarl Royals,JE Root,DA Miller,M Pretorius,1,0,,,,,,"",""
+ball,2,12.5,Paarl Royals,DA Miller,JE Root,M Pretorius,1,0,,,,,,"",""
+ball,2,12.6,Paarl Royals,JE Root,DA Miller,M Pretorius,1,0,,,,,,"",""
+ball,2,13.1,Paarl Royals,JE Root,DA Miller,WG Jacks,1,0,,,,,,"",""
+ball,2,13.2,Paarl Royals,DA Miller,JE Root,WG Jacks,0,0,,,,,,"",""
+ball,2,13.3,Paarl Royals,DA Miller,JE Root,WG Jacks,2,0,,,,,,"",""
+ball,2,13.4,Paarl Royals,DA Miller,JE Root,WG Jacks,0,0,,,,,,"",""
+ball,2,13.5,Paarl Royals,DA Miller,JE Root,WG Jacks,4,0,,,,,,"",""
+ball,2,13.6,Paarl Royals,DA Miller,JE Root,WG Jacks,1,0,,,,,,"",""
+ball,2,14.1,Paarl Royals,DA Miller,JE Root,JDS Neesham,6,0,,,,,,"",""
+ball,2,14.2,Paarl Royals,DA Miller,JE Root,JDS Neesham,1,0,,,,,,"",""
+ball,2,14.3,Paarl Royals,JE Root,DA Miller,JDS Neesham,1,0,,,,,,"",""
+ball,2,14.4,Paarl Royals,DA Miller,JE Root,JDS Neesham,1,0,,,,,,"",""
+ball,2,14.5,Paarl Royals,JE Root,DA Miller,JDS Neesham,0,1,1,,,,,"",""
+ball,2,14.6,Paarl Royals,JE Root,DA Miller,JDS Neesham,0,1,1,,,,,"",""
+ball,2,14.7,Paarl Royals,JE Root,DA Miller,JDS Neesham,4,0,,,,,,"",""
+ball,2,14.8,Paarl Royals,JE Root,DA Miller,JDS Neesham,0,0,,,,,,"",""
+ball,2,15.1,Paarl Royals,DA Miller,JE Root,E Bosch,1,0,,,,,,"",""
+ball,2,15.2,Paarl Royals,JE Root,DA Miller,E Bosch,1,0,,,,,,"",""
+ball,2,15.3,Paarl Royals,DA Miller,JE Root,E Bosch,6,0,,,,,,"",""
+ball,2,15.4,Paarl Royals,DA Miller,JE Root,E Bosch,0,1,1,,,,,"",""
+ball,2,15.5,Paarl Royals,DA Miller,JE Root,E Bosch,0,1,,,,1,,"",""
+ball,2,15.6,Paarl Royals,JE Root,DA Miller,E Bosch,2,0,,,,,,"",""
+ball,2,15.7,Paarl Royals,JE Root,DA Miller,E Bosch,0,1,1,,,,,"",""
+ball,2,15.8,Paarl Royals,JE Root,DA Miller,E Bosch,1,0,,,,,,"",""
+ball,2,16.1,Paarl Royals,JE Root,DA Miller,T van Vuuren,1,0,,,,,,"",""
+ball,2,16.2,Paarl Royals,DA Miller,JE Root,T van Vuuren,4,0,,,,,,"",""
+ball,2,16.3,Paarl Royals,DA Miller,JE Root,T van Vuuren,1,0,,,,,,"",""
+ball,2,16.4,Paarl Royals,JE Root,DA Miller,T van Vuuren,4,0,,,,,,"",""
+ball,2,16.5,Paarl Royals,JE Root,DA Miller,T van Vuuren,2,0,,,,,,"",""
+ball,2,16.6,Paarl Royals,JE Root,DA Miller,T van Vuuren,1,0,,,,,,"",""
+ball,2,17.1,Paarl Royals,JE Root,DA Miller,M Pretorius,2,0,,,,,,"",""
+ball,2,17.2,Paarl Royals,JE Root,DA Miller,M Pretorius,1,0,,,,,,"",""
+ball,2,17.3,Paarl Royals,DA Miller,JE Root,M Pretorius,2,0,,,,,,"",""
+ball,2,17.4,Paarl Royals,DA Miller,JE Root,M Pretorius,4,0,,,,,,"",""
+ball,2,17.5,Paarl Royals,DA Miller,JE Root,M Pretorius,1,0,,,,,,"",""
+ball,2,17.6,Paarl Royals,JE Root,DA Miller,M Pretorius,0,0,,,,,,"",""
+ball,2,18.1,Paarl Royals,DA Miller,JE Root,T van Vuuren,3,0,,,,,,"",""
+ball,2,18.2,Paarl Royals,JE Root,DA Miller,T van Vuuren,0,0,,,,,,"",""
+ball,2,18.3,Paarl Royals,JE Root,DA Miller,T van Vuuren,2,0,,,,,,"",""
+ball,2,18.4,Paarl Royals,JE Root,DA Miller,T van Vuuren,0,0,,,,,,"",""
+ball,2,18.5,Paarl Royals,JE Root,DA Miller,T van Vuuren,4,0,,,,,,"",""
+ball,2,18.6,Paarl Royals,JE Root,DA Miller,T van Vuuren,0,0,,,,,,"",""
+ball,2,19.1,Paarl Royals,DA Miller,JE Root,JDS Neesham,4,0,,,,,,"",""
+ball,2,19.2,Paarl Royals,DA Miller,JE Root,JDS Neesham,1,0,,,,,,"",""
+ball,2,19.3,Paarl Royals,JE Root,DA Miller,JDS Neesham,1,0,,,,,,"",""
+ball,2,19.4,Paarl Royals,DA Miller,JE Root,JDS Neesham,2,0,,,,,,"",""

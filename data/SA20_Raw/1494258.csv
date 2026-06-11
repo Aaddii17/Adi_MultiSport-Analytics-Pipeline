@@ -1,0 +1,255 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Durban's Super Giants
+info,team,Joburg Super Kings
+info,gender,male
+info,season,2025/26
+info,date,2025/12/30
+info,event,SA20
+info,match_number,6
+info,venue,"Kingsmead, Durban"
+info,city,Durban
+info,toss_winner,Durban's Super Giants
+info,toss_decision,bat
+info,player_of_match,P Subrayen
+info,umpire,DJ Smith
+info,umpire,LB Gcuma
+info,reserve_umpire,AM Sodumo
+info,tv_umpire,Siphelele Gasa
+info,match_referee,GH Pienaar
+info,winner,Joburg Super Kings
+info,winner_wickets,6
+info,player,Durban's Super Giants,KS Williamson
+info,player,Durban's Super Giants,DP Conway
+info,player,Durban's Super Giants,JC Buttler
+info,player,Durban's Super Giants,AK Markram
+info,player,Durban's Super Giants,H Klaasen
+info,player,Durban's Super Giants,E Jones
+info,player,Durban's Super Giants,E Bosch
+info,player,Durban's Super Giants,SR Harmer
+info,player,Durban's Super Giants,D Wiese
+info,player,Durban's Super Giants,KT Maphaka
+info,player,Durban's Super Giants,Noor Ahmad
+info,player,Joburg Super Kings,F du Plessis
+info,player,Joburg Super Kings,M De Villiers
+info,player,Joburg Super Kings,RR Rossouw
+info,player,Joburg Super Kings,PWA Mulder
+info,player,Joburg Super Kings,Shubham Ranjane
+info,player,Joburg Super Kings,D Ferreira
+info,player,Joburg Super Kings,P Subrayen
+info,player,Joburg Super Kings,D Forrester
+info,player,Joburg Super Kings,D Jansen
+info,player,Joburg Super Kings,AJ Hosein
+info,player,Joburg Super Kings,RJ Gleeson
+info,registry,people,AJ Hosein,4d7f517e
+info,registry,people,AK Markram,6a26221c
+info,registry,people,AM Sodumo,cc6850ec
+info,registry,people,D Ferreira,f0af99a7
+info,registry,people,D Forrester,23393635
+info,registry,people,D Jansen,8dc152d1
+info,registry,people,D Wiese,aa8d28ae
+info,registry,people,DJ Smith,d17bec15
+info,registry,people,DP Conway,df5a6881
+info,registry,people,E Bosch,28d6c44d
+info,registry,people,E Jones,fbfea9c2
+info,registry,people,F du Plessis,3355b542
+info,registry,people,GH Pienaar,3516e46b
+info,registry,people,H Klaasen,235c2bb6
+info,registry,people,JC Buttler,99b75528
+info,registry,people,KS Williamson,d027ba9f
+info,registry,people,KT Maphaka,107c26fb
+info,registry,people,LB Gcuma,02ba88e3
+info,registry,people,M De Villiers,e9aaf862
+info,registry,people,Noor Ahmad,efc04be7
+info,registry,people,P Subrayen,7ec9711d
+info,registry,people,PWA Mulder,c96f6ac5
+info,registry,people,RJ Gleeson,402f8494
+info,registry,people,RR Rossouw,cad00a4d
+info,registry,people,SR Harmer,23638956
+info,registry,people,Shubham Ranjane,6c7a68d0
+info,registry,people,Siphelele Gasa,e50baa87
+ball,1,0.1,Durban's Super Giants,KS Williamson,DP Conway,P Subrayen,1,0,,,,,,"",""
+ball,1,0.2,Durban's Super Giants,DP Conway,KS Williamson,P Subrayen,0,0,,,,,,"",""
+ball,1,0.3,Durban's Super Giants,DP Conway,KS Williamson,P Subrayen,4,0,,,,,,"",""
+ball,1,0.4,Durban's Super Giants,DP Conway,KS Williamson,P Subrayen,0,0,,,,,,"",""
+ball,1,0.5,Durban's Super Giants,DP Conway,KS Williamson,P Subrayen,0,0,,,,,,caught,DP Conway
+ball,1,0.6,Durban's Super Giants,JC Buttler,KS Williamson,P Subrayen,0,0,,,,,,"",""
+ball,1,1.1,Durban's Super Giants,KS Williamson,JC Buttler,AJ Hosein,0,0,,,,,,"",""
+ball,1,1.2,Durban's Super Giants,KS Williamson,JC Buttler,AJ Hosein,0,0,,,,,,"",""
+ball,1,1.3,Durban's Super Giants,KS Williamson,JC Buttler,AJ Hosein,1,0,,,,,,"",""
+ball,1,1.4,Durban's Super Giants,JC Buttler,KS Williamson,AJ Hosein,0,0,,,,,,"",""
+ball,1,1.5,Durban's Super Giants,JC Buttler,KS Williamson,AJ Hosein,4,0,,,,,,"",""
+ball,1,1.6,Durban's Super Giants,JC Buttler,KS Williamson,AJ Hosein,0,0,,,,,,"",""
+ball,1,2.1,Durban's Super Giants,KS Williamson,JC Buttler,P Subrayen,0,0,,,,,,"",""
+ball,1,2.2,Durban's Super Giants,KS Williamson,JC Buttler,P Subrayen,0,0,,,,,,caught,KS Williamson
+ball,1,2.3,Durban's Super Giants,AK Markram,JC Buttler,P Subrayen,0,0,,,,,,"",""
+ball,1,2.4,Durban's Super Giants,AK Markram,JC Buttler,P Subrayen,1,0,,,,,,"",""
+ball,1,2.5,Durban's Super Giants,JC Buttler,AK Markram,P Subrayen,0,0,,,,,,"",""
+ball,1,2.6,Durban's Super Giants,JC Buttler,AK Markram,P Subrayen,0,0,,,,,,"",""
+ball,1,3.1,Durban's Super Giants,AK Markram,JC Buttler,AJ Hosein,1,0,,,,,,"",""
+ball,1,3.2,Durban's Super Giants,JC Buttler,AK Markram,AJ Hosein,1,0,,,,,,"",""
+ball,1,3.3,Durban's Super Giants,AK Markram,JC Buttler,AJ Hosein,1,0,,,,,,"",""
+ball,1,3.4,Durban's Super Giants,JC Buttler,AK Markram,AJ Hosein,2,0,,,,,,"",""
+ball,1,3.5,Durban's Super Giants,JC Buttler,AK Markram,AJ Hosein,4,0,,,,,,"",""
+ball,1,3.6,Durban's Super Giants,JC Buttler,AK Markram,AJ Hosein,1,0,,,,,,"",""
+ball,1,4.1,Durban's Super Giants,JC Buttler,AK Markram,P Subrayen,0,0,,,,,,caught,JC Buttler
+ball,1,4.2,Durban's Super Giants,H Klaasen,AK Markram,P Subrayen,0,0,,,,,,"",""
+ball,1,4.3,Durban's Super Giants,H Klaasen,AK Markram,P Subrayen,1,0,,,,,,"",""
+ball,1,4.4,Durban's Super Giants,AK Markram,H Klaasen,P Subrayen,0,0,,,,,,"",""
+ball,1,4.5,Durban's Super Giants,AK Markram,H Klaasen,P Subrayen,0,0,,,,,,"",""
+ball,1,4.6,Durban's Super Giants,AK Markram,H Klaasen,P Subrayen,0,0,,,,,,"",""
+ball,1,5.1,Durban's Super Giants,H Klaasen,AK Markram,RJ Gleeson,0,0,,,,,,"",""
+ball,1,5.2,Durban's Super Giants,H Klaasen,AK Markram,RJ Gleeson,0,0,,,,,,"",""
+ball,1,5.3,Durban's Super Giants,H Klaasen,AK Markram,RJ Gleeson,1,0,,,,,,"",""
+ball,1,5.4,Durban's Super Giants,AK Markram,H Klaasen,RJ Gleeson,0,0,,,,,,"",""
+ball,1,5.5,Durban's Super Giants,AK Markram,H Klaasen,RJ Gleeson,0,0,,,,,,"",""
+ball,1,5.6,Durban's Super Giants,AK Markram,H Klaasen,RJ Gleeson,0,0,,,,,,"",""
+ball,1,6.1,Durban's Super Giants,H Klaasen,AK Markram,D Ferreira,1,0,,,,,,"",""
+ball,1,6.2,Durban's Super Giants,AK Markram,H Klaasen,D Ferreira,1,0,,,,,,"",""
+ball,1,6.3,Durban's Super Giants,H Klaasen,AK Markram,D Ferreira,0,0,,,,,,caught,H Klaasen
+ball,1,6.4,Durban's Super Giants,E Jones,AK Markram,D Ferreira,1,0,,,,,,"",""
+ball,1,6.5,Durban's Super Giants,AK Markram,E Jones,D Ferreira,1,0,,,,,,"",""
+ball,1,6.6,Durban's Super Giants,E Jones,AK Markram,D Ferreira,0,0,,,,,,"",""
+ball,1,7.1,Durban's Super Giants,AK Markram,E Jones,D Jansen,0,0,,,,,,"",""
+ball,1,7.2,Durban's Super Giants,AK Markram,E Jones,D Jansen,4,0,,,,,,"",""
+ball,1,7.3,Durban's Super Giants,AK Markram,E Jones,D Jansen,1,0,,,,,,"",""
+ball,1,7.4,Durban's Super Giants,E Jones,AK Markram,D Jansen,0,0,,,,,,"",""
+ball,1,7.5,Durban's Super Giants,E Jones,AK Markram,D Jansen,1,0,,,,,,"",""
+ball,1,7.6,Durban's Super Giants,AK Markram,E Jones,D Jansen,1,0,,,,,,"",""
+ball,1,8.1,Durban's Super Giants,AK Markram,E Jones,D Ferreira,1,0,,,,,,"",""
+ball,1,8.2,Durban's Super Giants,E Jones,AK Markram,D Ferreira,4,0,,,,,,"",""
+ball,1,8.3,Durban's Super Giants,E Jones,AK Markram,D Ferreira,1,0,,,,,,"",""
+ball,1,8.4,Durban's Super Giants,AK Markram,E Jones,D Ferreira,1,0,,,,,,"",""
+ball,1,8.5,Durban's Super Giants,E Jones,AK Markram,D Ferreira,1,0,,,,,,"",""
+ball,1,8.6,Durban's Super Giants,AK Markram,E Jones,D Ferreira,1,0,,,,,,"",""
+ball,1,9.1,Durban's Super Giants,AK Markram,E Jones,PWA Mulder,1,0,,,,,,"",""
+ball,1,9.2,Durban's Super Giants,E Jones,AK Markram,PWA Mulder,0,0,,,,,,"",""
+ball,1,9.3,Durban's Super Giants,E Jones,AK Markram,PWA Mulder,1,0,,,,,,"",""
+ball,1,9.4,Durban's Super Giants,AK Markram,E Jones,PWA Mulder,0,0,,,,,,"",""
+ball,1,9.5,Durban's Super Giants,AK Markram,E Jones,PWA Mulder,1,0,,,,,,"",""
+ball,1,9.6,Durban's Super Giants,E Jones,AK Markram,PWA Mulder,0,0,,,,,,"",""
+ball,1,10.1,Durban's Super Giants,AK Markram,E Jones,AJ Hosein,4,0,,,,,,"",""
+ball,1,10.2,Durban's Super Giants,AK Markram,E Jones,AJ Hosein,1,0,,,,,,"",""
+ball,1,10.3,Durban's Super Giants,E Jones,AK Markram,AJ Hosein,1,0,,,,,,"",""
+ball,1,10.4,Durban's Super Giants,AK Markram,E Jones,AJ Hosein,0,1,,,1,,,"",""
+ball,1,10.5,Durban's Super Giants,E Jones,AK Markram,AJ Hosein,1,0,,,,,,"",""
+ball,1,10.6,Durban's Super Giants,AK Markram,E Jones,AJ Hosein,1,0,,,,,,"",""
+ball,1,11.1,Durban's Super Giants,AK Markram,E Jones,PWA Mulder,0,0,,,,,,caught,AK Markram
+ball,1,11.2,Durban's Super Giants,E Bosch,E Jones,PWA Mulder,1,0,,,,,,"",""
+ball,1,11.3,Durban's Super Giants,E Jones,E Bosch,PWA Mulder,1,0,,,,,,"",""
+ball,1,11.4,Durban's Super Giants,E Bosch,E Jones,PWA Mulder,4,0,,,,,,"",""
+ball,1,11.5,Durban's Super Giants,E Bosch,E Jones,PWA Mulder,0,0,,,,,,"",""
+ball,1,11.6,Durban's Super Giants,E Bosch,E Jones,PWA Mulder,1,0,,,,,,"",""
+ball,1,12.1,Durban's Super Giants,E Bosch,E Jones,AJ Hosein,0,0,,,,,,caught,E Bosch
+ball,1,12.2,Durban's Super Giants,SR Harmer,E Jones,AJ Hosein,0,0,,,,,,"",""
+ball,1,12.3,Durban's Super Giants,SR Harmer,E Jones,AJ Hosein,1,0,,,,,,"",""
+ball,1,12.4,Durban's Super Giants,E Jones,SR Harmer,AJ Hosein,1,0,,,,,,"",""
+ball,1,12.5,Durban's Super Giants,SR Harmer,E Jones,AJ Hosein,1,0,,,,,,"",""
+ball,1,12.6,Durban's Super Giants,E Jones,SR Harmer,AJ Hosein,0,0,,,,,,"",""
+ball,1,13.1,Durban's Super Giants,SR Harmer,E Jones,PWA Mulder,0,0,,,,,,"",""
+ball,1,13.2,Durban's Super Giants,SR Harmer,E Jones,PWA Mulder,4,0,,,,,,"",""
+ball,1,13.3,Durban's Super Giants,SR Harmer,E Jones,PWA Mulder,1,0,,,,,,"",""
+ball,1,13.4,Durban's Super Giants,E Jones,SR Harmer,PWA Mulder,0,1,,,,1,,"",""
+ball,1,13.5,Durban's Super Giants,SR Harmer,E Jones,PWA Mulder,0,0,,,,,,"",""
+ball,1,13.6,Durban's Super Giants,SR Harmer,E Jones,PWA Mulder,0,0,,,,,,"",""
+ball,1,14.1,Durban's Super Giants,E Jones,SR Harmer,P Subrayen,1,0,,,,,,"",""
+ball,1,14.2,Durban's Super Giants,SR Harmer,E Jones,P Subrayen,1,0,,,,,,"",""
+ball,1,14.3,Durban's Super Giants,E Jones,SR Harmer,P Subrayen,1,0,,,,,,"",""
+ball,1,14.4,Durban's Super Giants,SR Harmer,E Jones,P Subrayen,4,0,,,,,,"",""
+ball,1,14.5,Durban's Super Giants,SR Harmer,E Jones,P Subrayen,0,0,,,,,,"",""
+ball,1,14.6,Durban's Super Giants,SR Harmer,E Jones,P Subrayen,2,0,,,,,,"",""
+ball,1,15.1,Durban's Super Giants,E Jones,SR Harmer,RJ Gleeson,0,0,,,,,,caught,E Jones
+ball,1,15.2,Durban's Super Giants,D Wiese,SR Harmer,RJ Gleeson,1,0,,,,,,"",""
+ball,1,15.3,Durban's Super Giants,SR Harmer,D Wiese,RJ Gleeson,0,0,,,,,,"",""
+ball,1,15.4,Durban's Super Giants,SR Harmer,D Wiese,RJ Gleeson,0,0,,,,,,caught,SR Harmer
+ball,1,15.5,Durban's Super Giants,KT Maphaka,D Wiese,RJ Gleeson,0,0,,,,,,"",""
+ball,1,15.6,Durban's Super Giants,KT Maphaka,D Wiese,RJ Gleeson,0,0,,,,,,"",""
+ball,1,16.1,Durban's Super Giants,D Wiese,KT Maphaka,D Jansen,0,0,,,,,,"",""
+ball,1,16.2,Durban's Super Giants,D Wiese,KT Maphaka,D Jansen,0,0,,,,,,caught,D Wiese
+ball,1,16.3,Durban's Super Giants,Noor Ahmad,KT Maphaka,D Jansen,1,0,,,,,,"",""
+ball,1,16.4,Durban's Super Giants,KT Maphaka,Noor Ahmad,D Jansen,1,0,,,,,,"",""
+ball,1,16.5,Durban's Super Giants,Noor Ahmad,KT Maphaka,D Jansen,0,1,1,,,,,"",""
+ball,1,16.6,Durban's Super Giants,Noor Ahmad,KT Maphaka,D Jansen,0,1,1,,,,,"",""
+ball,1,16.7,Durban's Super Giants,Noor Ahmad,KT Maphaka,D Jansen,1,0,,,,,,"",""
+ball,1,16.8,Durban's Super Giants,KT Maphaka,Noor Ahmad,D Jansen,0,0,,,,,,"",""
+ball,1,17.1,Durban's Super Giants,Noor Ahmad,KT Maphaka,RJ Gleeson,0,0,,,,,,caught,Noor Ahmad
+ball,2,0.1,Joburg Super Kings,F du Plessis,M De Villiers,D Wiese,1,0,,,,,,"",""
+ball,2,0.2,Joburg Super Kings,M De Villiers,F du Plessis,D Wiese,0,0,,,,,,"",""
+ball,2,0.3,Joburg Super Kings,M De Villiers,F du Plessis,D Wiese,0,0,,,,,,"",""
+ball,2,0.4,Joburg Super Kings,M De Villiers,F du Plessis,D Wiese,1,0,,,,,,"",""
+ball,2,0.5,Joburg Super Kings,F du Plessis,M De Villiers,D Wiese,1,0,,,,,,"",""
+ball,2,0.6,Joburg Super Kings,M De Villiers,F du Plessis,D Wiese,4,0,,,,,,"",""
+ball,2,1.1,Joburg Super Kings,F du Plessis,M De Villiers,SR Harmer,0,0,,,,,,"",""
+ball,2,1.2,Joburg Super Kings,F du Plessis,M De Villiers,SR Harmer,1,0,,,,,,"",""
+ball,2,1.3,Joburg Super Kings,M De Villiers,F du Plessis,SR Harmer,0,0,,,,,,"",""
+ball,2,1.4,Joburg Super Kings,M De Villiers,F du Plessis,SR Harmer,0,1,1,,,,,"",""
+ball,2,1.5,Joburg Super Kings,M De Villiers,F du Plessis,SR Harmer,1,0,,,,,,"",""
+ball,2,1.6,Joburg Super Kings,F du Plessis,M De Villiers,SR Harmer,0,1,,,,1,,"",""
+ball,2,1.7,Joburg Super Kings,M De Villiers,F du Plessis,SR Harmer,0,1,1,,,,,"",""
+ball,2,1.8,Joburg Super Kings,M De Villiers,F du Plessis,SR Harmer,0,0,,,,,,"",""
+ball,2,2.1,Joburg Super Kings,F du Plessis,M De Villiers,E Bosch,0,0,,,,,,caught,F du Plessis
+ball,2,2.2,Joburg Super Kings,RR Rossouw,M De Villiers,E Bosch,0,0,,,,,,"",""
+ball,2,2.3,Joburg Super Kings,RR Rossouw,M De Villiers,E Bosch,0,0,,,,,,"",""
+ball,2,2.4,Joburg Super Kings,RR Rossouw,M De Villiers,E Bosch,0,0,,,,,,"",""
+ball,2,2.5,Joburg Super Kings,RR Rossouw,M De Villiers,E Bosch,4,0,,,,,,"",""
+ball,2,2.6,Joburg Super Kings,RR Rossouw,M De Villiers,E Bosch,1,0,,,,,,"",""
+ball,2,3.1,Joburg Super Kings,RR Rossouw,M De Villiers,SR Harmer,0,0,,,,,,"",""
+ball,2,3.2,Joburg Super Kings,RR Rossouw,M De Villiers,SR Harmer,1,0,,,,,,"",""
+ball,2,3.3,Joburg Super Kings,M De Villiers,RR Rossouw,SR Harmer,0,0,,,,,,"",""
+ball,2,3.4,Joburg Super Kings,M De Villiers,RR Rossouw,SR Harmer,1,0,,,,,,"",""
+ball,2,3.5,Joburg Super Kings,RR Rossouw,M De Villiers,SR Harmer,0,0,,,,,,"",""
+ball,2,3.6,Joburg Super Kings,RR Rossouw,M De Villiers,SR Harmer,0,0,,,,,,"",""
+ball,2,4.1,Joburg Super Kings,M De Villiers,RR Rossouw,D Wiese,0,0,,,,,,"",""
+ball,2,4.2,Joburg Super Kings,M De Villiers,RR Rossouw,D Wiese,0,0,,,,,,caught,M De Villiers
+ball,2,4.3,Joburg Super Kings,PWA Mulder,RR Rossouw,D Wiese,1,0,,,,,,"",""
+ball,2,4.4,Joburg Super Kings,RR Rossouw,PWA Mulder,D Wiese,2,0,,,,,,"",""
+ball,2,4.5,Joburg Super Kings,RR Rossouw,PWA Mulder,D Wiese,1,0,,,,,,"",""
+ball,2,4.6,Joburg Super Kings,PWA Mulder,RR Rossouw,D Wiese,0,0,,,,,,"",""
+ball,2,5.1,Joburg Super Kings,RR Rossouw,PWA Mulder,SR Harmer,1,0,,,,,,"",""
+ball,2,5.2,Joburg Super Kings,PWA Mulder,RR Rossouw,SR Harmer,0,0,,,,,,caught,PWA Mulder
+ball,2,5.3,Joburg Super Kings,Shubham Ranjane,RR Rossouw,SR Harmer,0,0,,,,,,"",""
+ball,2,5.4,Joburg Super Kings,Shubham Ranjane,RR Rossouw,SR Harmer,0,1,1,,,,,"",""
+ball,2,5.5,Joburg Super Kings,Shubham Ranjane,RR Rossouw,SR Harmer,0,0,,,,,,"",""
+ball,2,5.6,Joburg Super Kings,Shubham Ranjane,RR Rossouw,SR Harmer,0,0,,,,,,"",""
+ball,2,5.7,Joburg Super Kings,Shubham Ranjane,RR Rossouw,SR Harmer,1,0,,,,,,"",""
+ball,2,6.1,Joburg Super Kings,Shubham Ranjane,RR Rossouw,Noor Ahmad,1,0,,,,,,"",""
+ball,2,6.2,Joburg Super Kings,RR Rossouw,Shubham Ranjane,Noor Ahmad,0,0,,,,,,"",""
+ball,2,6.3,Joburg Super Kings,RR Rossouw,Shubham Ranjane,Noor Ahmad,1,0,,,,,,"",""
+ball,2,6.4,Joburg Super Kings,Shubham Ranjane,RR Rossouw,Noor Ahmad,0,0,,,,,,"",""
+ball,2,6.5,Joburg Super Kings,Shubham Ranjane,RR Rossouw,Noor Ahmad,1,0,,,,,,"",""
+ball,2,6.6,Joburg Super Kings,RR Rossouw,Shubham Ranjane,Noor Ahmad,1,0,,,,,,"",""
+ball,2,7.1,Joburg Super Kings,RR Rossouw,Shubham Ranjane,SR Harmer,0,0,,,,,,"",""
+ball,2,7.2,Joburg Super Kings,RR Rossouw,Shubham Ranjane,SR Harmer,0,0,,,,,,"",""
+ball,2,7.3,Joburg Super Kings,RR Rossouw,Shubham Ranjane,SR Harmer,1,0,,,,,,"",""
+ball,2,7.4,Joburg Super Kings,Shubham Ranjane,RR Rossouw,SR Harmer,0,0,,,,,,"",""
+ball,2,7.5,Joburg Super Kings,Shubham Ranjane,RR Rossouw,SR Harmer,0,1,1,,,,,"",""
+ball,2,7.6,Joburg Super Kings,Shubham Ranjane,RR Rossouw,SR Harmer,1,0,,,,,,"",""
+ball,2,7.7,Joburg Super Kings,RR Rossouw,Shubham Ranjane,SR Harmer,2,0,,,,,,"",""
+ball,2,8.1,Joburg Super Kings,Shubham Ranjane,RR Rossouw,Noor Ahmad,1,0,,,,,,"",""
+ball,2,8.2,Joburg Super Kings,RR Rossouw,Shubham Ranjane,Noor Ahmad,1,0,,,,,,"",""
+ball,2,8.3,Joburg Super Kings,Shubham Ranjane,RR Rossouw,Noor Ahmad,0,1,1,,,,,"",""
+ball,2,8.4,Joburg Super Kings,Shubham Ranjane,RR Rossouw,Noor Ahmad,4,0,,,,,,"",""
+ball,2,8.5,Joburg Super Kings,Shubham Ranjane,RR Rossouw,Noor Ahmad,1,0,,,,,,"",""
+ball,2,8.6,Joburg Super Kings,RR Rossouw,Shubham Ranjane,Noor Ahmad,6,0,,,,,,"",""
+ball,2,8.7,Joburg Super Kings,RR Rossouw,Shubham Ranjane,Noor Ahmad,0,1,1,,,,,"",""
+ball,2,8.8,Joburg Super Kings,RR Rossouw,Shubham Ranjane,Noor Ahmad,1,0,,,,,,"",""
+ball,2,9.1,Joburg Super Kings,RR Rossouw,Shubham Ranjane,AK Markram,4,0,,,,,,"",""
+ball,2,9.2,Joburg Super Kings,RR Rossouw,Shubham Ranjane,AK Markram,1,0,,,,,,"",""
+ball,2,9.3,Joburg Super Kings,Shubham Ranjane,RR Rossouw,AK Markram,1,0,,,,,,"",""
+ball,2,9.4,Joburg Super Kings,RR Rossouw,Shubham Ranjane,AK Markram,0,0,,,,,,"",""
+ball,2,9.5,Joburg Super Kings,RR Rossouw,Shubham Ranjane,AK Markram,1,0,,,,,,"",""
+ball,2,9.6,Joburg Super Kings,Shubham Ranjane,RR Rossouw,AK Markram,2,0,,,,,,"",""
+ball,2,10.1,Joburg Super Kings,RR Rossouw,Shubham Ranjane,KT Maphaka,4,0,,,,,,"",""
+ball,2,10.2,Joburg Super Kings,RR Rossouw,Shubham Ranjane,KT Maphaka,4,0,,,,,,"",""
+ball,2,10.3,Joburg Super Kings,RR Rossouw,Shubham Ranjane,KT Maphaka,1,0,,,,,,"",""
+ball,2,10.4,Joburg Super Kings,Shubham Ranjane,RR Rossouw,KT Maphaka,1,0,,,,,,"",""
+ball,2,10.5,Joburg Super Kings,RR Rossouw,Shubham Ranjane,KT Maphaka,1,0,,,,,,"",""
+ball,2,10.6,Joburg Super Kings,Shubham Ranjane,RR Rossouw,KT Maphaka,0,0,,,,,,"",""
+ball,2,11.1,Joburg Super Kings,RR Rossouw,Shubham Ranjane,Noor Ahmad,4,0,,,,,,"",""
+ball,2,11.2,Joburg Super Kings,RR Rossouw,Shubham Ranjane,Noor Ahmad,0,0,,,,,,bowled,RR Rossouw
+ball,2,11.3,Joburg Super Kings,D Ferreira,Shubham Ranjane,Noor Ahmad,1,0,,,,,,"",""
+ball,2,11.4,Joburg Super Kings,Shubham Ranjane,D Ferreira,Noor Ahmad,1,0,,,,,,"",""
+ball,2,11.5,Joburg Super Kings,D Ferreira,Shubham Ranjane,Noor Ahmad,1,0,,,,,,"",""
+ball,2,11.6,Joburg Super Kings,Shubham Ranjane,D Ferreira,Noor Ahmad,0,0,,,,,,"",""
+ball,2,12.1,Joburg Super Kings,D Ferreira,Shubham Ranjane,E Bosch,4,0,,,,,,"",""
+ball,2,12.2,Joburg Super Kings,D Ferreira,Shubham Ranjane,E Bosch,6,0,,,,,,"",""

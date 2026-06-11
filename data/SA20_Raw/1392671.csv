@@ -1,0 +1,323 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Sunrisers Eastern Cape
+info,team,MI Cape Town
+info,gender,male
+info,season,2023/24
+info,date,2024/01/27
+info,event,SA20
+info,match_number,20
+info,venue,"St George's Park, Gqeberha"
+info,city,Gqeberha
+info,toss_winner,Sunrisers Eastern Cape
+info,toss_decision,bat
+info,player_of_match,TB Abell
+info,umpire,DJ Smith
+info,umpire,TC Mokorosi
+info,reserve_umpire,PJ Vosloo
+info,tv_umpire,BM White
+info,match_referee,SB Lambson
+info,winner,Sunrisers Eastern Cape
+info,winner_runs,4
+info,player,Sunrisers Eastern Cape,J Hermann
+info,player,Sunrisers Eastern Cape,DJ Malan
+info,player,Sunrisers Eastern Cape,TB Abell
+info,player,Sunrisers Eastern Cape,AK Markram
+info,player,Sunrisers Eastern Cape,T Stubbs
+info,player,Sunrisers Eastern Cape,PE Kruger
+info,player,Sunrisers Eastern Cape,M Jansen
+info,player,Sunrisers Eastern Cape,LA Dawson
+info,player,Sunrisers Eastern Cape,SR Harmer
+info,player,Sunrisers Eastern Cape,DJ Worrall
+info,player,Sunrisers Eastern Cape,OEG Baartman
+info,player,MI Cape Town,HE van der Dussen
+info,player,MI Cape Town,RD Rickelton
+info,player,MI Cape Town,LS Livingstone
+info,player,MI Cape Town,SM Curran
+info,player,MI Cape Town,KA Pollard
+info,player,MI Cape Town,D Brevis
+info,player,MI Cape Town,D Potgieter
+info,player,MI Cape Town,GF Linde
+info,player,MI Cape Town,TP Kaber
+info,player,MI Cape Town,N Thushara
+info,player,MI Cape Town,K Rabada
+info,registry,people,AK Markram,6a26221c
+info,registry,people,BM White,66c21d35
+info,registry,people,D Brevis,844e79d1
+info,registry,people,D Potgieter,60fbf53a
+info,registry,people,DJ Malan,ad9c32a2
+info,registry,people,DJ Smith,d17bec15
+info,registry,people,DJ Worrall,208f22ea
+info,registry,people,GF Linde,e5437608
+info,registry,people,HE van der Dussen,9948e262
+info,registry,people,J Hermann,e87aeca2
+info,registry,people,K Rabada,e62dd25d
+info,registry,people,KA Pollard,a757b0d8
+info,registry,people,LA Dawson,4a461c24
+info,registry,people,LS Livingstone,50c6bc2b
+info,registry,people,M Jansen,81c36ee9
+info,registry,people,N Thushara,ee1b6c27
+info,registry,people,OEG Baartman,6b9eb501
+info,registry,people,PE Kruger,39181592
+info,registry,people,PJ Vosloo,93a6d2d0
+info,registry,people,RD Rickelton,e66732f8
+info,registry,people,SB Lambson,4146063f
+info,registry,people,SM Curran,e94915e6
+info,registry,people,SR Harmer,23638956
+info,registry,people,T Stubbs,85b3fab2
+info,registry,people,TB Abell,ba9258a7
+info,registry,people,TC Mokorosi,e93c3cf8
+info,registry,people,TP Kaber,0773c16a
+ball,1,0.1,Sunrisers Eastern Cape,J Hermann,DJ Malan,N Thushara,0,1,1,,,,,"",""
+ball,1,0.2,Sunrisers Eastern Cape,J Hermann,DJ Malan,N Thushara,1,0,,,,,,"",""
+ball,1,0.3,Sunrisers Eastern Cape,DJ Malan,J Hermann,N Thushara,0,0,,,,,,"",""
+ball,1,0.4,Sunrisers Eastern Cape,DJ Malan,J Hermann,N Thushara,4,0,,,,,,"",""
+ball,1,0.5,Sunrisers Eastern Cape,DJ Malan,J Hermann,N Thushara,0,1,1,,,,,"",""
+ball,1,0.6,Sunrisers Eastern Cape,DJ Malan,J Hermann,N Thushara,0,1,1,,,,,"",""
+ball,1,0.7,Sunrisers Eastern Cape,DJ Malan,J Hermann,N Thushara,0,0,,,,,,"",""
+ball,1,0.8,Sunrisers Eastern Cape,DJ Malan,J Hermann,N Thushara,1,0,,,,,,"",""
+ball,1,0.9,Sunrisers Eastern Cape,J Hermann,DJ Malan,N Thushara,1,0,,,,,,"",""
+ball,1,1.1,Sunrisers Eastern Cape,J Hermann,DJ Malan,K Rabada,0,0,,,,,,"",""
+ball,1,1.2,Sunrisers Eastern Cape,J Hermann,DJ Malan,K Rabada,0,0,,,,,,bowled,J Hermann
+ball,1,1.3,Sunrisers Eastern Cape,TB Abell,DJ Malan,K Rabada,0,0,,,,,,"",""
+ball,1,1.4,Sunrisers Eastern Cape,TB Abell,DJ Malan,K Rabada,4,0,,,,,,"",""
+ball,1,1.5,Sunrisers Eastern Cape,TB Abell,DJ Malan,K Rabada,0,0,,,,,,"",""
+ball,1,1.6,Sunrisers Eastern Cape,TB Abell,DJ Malan,K Rabada,4,0,,,,,,"",""
+ball,1,2.1,Sunrisers Eastern Cape,DJ Malan,TB Abell,N Thushara,0,0,,,,,,"",""
+ball,1,2.2,Sunrisers Eastern Cape,DJ Malan,TB Abell,N Thushara,1,0,,,,,,"",""
+ball,1,2.3,Sunrisers Eastern Cape,TB Abell,DJ Malan,N Thushara,4,0,,,,,,"",""
+ball,1,2.4,Sunrisers Eastern Cape,TB Abell,DJ Malan,N Thushara,1,0,,,,,,"",""
+ball,1,2.5,Sunrisers Eastern Cape,DJ Malan,TB Abell,N Thushara,0,0,,,,,,"",""
+ball,1,2.6,Sunrisers Eastern Cape,DJ Malan,TB Abell,N Thushara,0,0,,,,,,"",""
+ball,1,3.1,Sunrisers Eastern Cape,TB Abell,DJ Malan,GF Linde,0,0,,,,,,"",""
+ball,1,3.2,Sunrisers Eastern Cape,TB Abell,DJ Malan,GF Linde,1,0,,,,,,"",""
+ball,1,3.3,Sunrisers Eastern Cape,DJ Malan,TB Abell,GF Linde,0,1,,,,1,,"",""
+ball,1,3.4,Sunrisers Eastern Cape,TB Abell,DJ Malan,GF Linde,0,0,,,,,,"",""
+ball,1,3.5,Sunrisers Eastern Cape,TB Abell,DJ Malan,GF Linde,0,0,,,,,,"",""
+ball,1,3.6,Sunrisers Eastern Cape,TB Abell,DJ Malan,GF Linde,0,0,,,,,,"",""
+ball,1,4.1,Sunrisers Eastern Cape,DJ Malan,TB Abell,K Rabada,0,0,,,,,,"",""
+ball,1,4.2,Sunrisers Eastern Cape,DJ Malan,TB Abell,K Rabada,1,0,,,,,,"",""
+ball,1,4.3,Sunrisers Eastern Cape,TB Abell,DJ Malan,K Rabada,2,0,,,,,,"",""
+ball,1,4.4,Sunrisers Eastern Cape,TB Abell,DJ Malan,K Rabada,0,0,,,,,,"",""
+ball,1,4.5,Sunrisers Eastern Cape,TB Abell,DJ Malan,K Rabada,6,0,,,,,,"",""
+ball,1,4.6,Sunrisers Eastern Cape,TB Abell,DJ Malan,K Rabada,1,0,,,,,,"",""
+ball,1,5.1,Sunrisers Eastern Cape,TB Abell,DJ Malan,GF Linde,4,0,,,,,,"",""
+ball,1,5.2,Sunrisers Eastern Cape,TB Abell,DJ Malan,GF Linde,4,0,,,,,,"",""
+ball,1,5.3,Sunrisers Eastern Cape,TB Abell,DJ Malan,GF Linde,1,0,,,,,,"",""
+ball,1,5.4,Sunrisers Eastern Cape,DJ Malan,TB Abell,GF Linde,0,0,,,,,,"",""
+ball,1,5.5,Sunrisers Eastern Cape,DJ Malan,TB Abell,GF Linde,1,0,,,,,,"",""
+ball,1,5.6,Sunrisers Eastern Cape,TB Abell,DJ Malan,GF Linde,0,0,,,,,,"",""
+ball,1,6.1,Sunrisers Eastern Cape,DJ Malan,TB Abell,KA Pollard,2,0,,,,,,"",""
+ball,1,6.2,Sunrisers Eastern Cape,DJ Malan,TB Abell,KA Pollard,1,0,,,,,,"",""
+ball,1,6.3,Sunrisers Eastern Cape,TB Abell,DJ Malan,KA Pollard,0,0,,,,,,"",""
+ball,1,6.4,Sunrisers Eastern Cape,TB Abell,DJ Malan,KA Pollard,1,0,,,,,,"",""
+ball,1,6.5,Sunrisers Eastern Cape,DJ Malan,TB Abell,KA Pollard,1,0,,,,,,"",""
+ball,1,6.6,Sunrisers Eastern Cape,TB Abell,DJ Malan,KA Pollard,1,0,,,,,,"",""
+ball,1,7.1,Sunrisers Eastern Cape,TB Abell,DJ Malan,GF Linde,1,0,,,,,,"",""
+ball,1,7.2,Sunrisers Eastern Cape,DJ Malan,TB Abell,GF Linde,4,0,,,,,,"",""
+ball,1,7.3,Sunrisers Eastern Cape,DJ Malan,TB Abell,GF Linde,0,1,,,,1,,"",""
+ball,1,7.4,Sunrisers Eastern Cape,TB Abell,DJ Malan,GF Linde,1,0,,,,,,"",""
+ball,1,7.5,Sunrisers Eastern Cape,DJ Malan,TB Abell,GF Linde,1,0,,,,,,"",""
+ball,1,7.6,Sunrisers Eastern Cape,TB Abell,DJ Malan,GF Linde,2,0,,,,,,"",""
+ball,1,8.1,Sunrisers Eastern Cape,DJ Malan,TB Abell,TP Kaber,0,0,,,,,,"",""
+ball,1,8.2,Sunrisers Eastern Cape,DJ Malan,TB Abell,TP Kaber,1,0,,,,,,"",""
+ball,1,8.3,Sunrisers Eastern Cape,TB Abell,DJ Malan,TP Kaber,0,0,,,,,,"",""
+ball,1,8.4,Sunrisers Eastern Cape,TB Abell,DJ Malan,TP Kaber,1,0,,,,,,"",""
+ball,1,8.5,Sunrisers Eastern Cape,DJ Malan,TB Abell,TP Kaber,0,0,,,,,,caught,DJ Malan
+ball,1,8.6,Sunrisers Eastern Cape,AK Markram,TB Abell,TP Kaber,1,0,,,,,,"",""
+ball,1,9.1,Sunrisers Eastern Cape,AK Markram,TB Abell,GF Linde,1,0,,,,,,"",""
+ball,1,9.2,Sunrisers Eastern Cape,TB Abell,AK Markram,GF Linde,0,0,,,,,,"",""
+ball,1,9.3,Sunrisers Eastern Cape,TB Abell,AK Markram,GF Linde,0,0,,,,,,"",""
+ball,1,9.4,Sunrisers Eastern Cape,TB Abell,AK Markram,GF Linde,1,0,,,,,,"",""
+ball,1,9.5,Sunrisers Eastern Cape,AK Markram,TB Abell,GF Linde,1,0,,,,,,"",""
+ball,1,9.6,Sunrisers Eastern Cape,TB Abell,AK Markram,GF Linde,0,0,,,,,,"",""
+ball,1,10.1,Sunrisers Eastern Cape,AK Markram,TB Abell,TP Kaber,1,0,,,,,,"",""
+ball,1,10.2,Sunrisers Eastern Cape,TB Abell,AK Markram,TP Kaber,1,0,,,,,,"",""
+ball,1,10.3,Sunrisers Eastern Cape,AK Markram,TB Abell,TP Kaber,1,0,,,,,,"",""
+ball,1,10.4,Sunrisers Eastern Cape,TB Abell,AK Markram,TP Kaber,2,0,,,,,,"",""
+ball,1,10.5,Sunrisers Eastern Cape,TB Abell,AK Markram,TP Kaber,0,0,,,,,,"",""
+ball,1,10.6,Sunrisers Eastern Cape,TB Abell,AK Markram,TP Kaber,4,0,,,,,,"",""
+ball,1,11.1,Sunrisers Eastern Cape,AK Markram,TB Abell,LS Livingstone,2,0,,,,,,"",""
+ball,1,11.2,Sunrisers Eastern Cape,AK Markram,TB Abell,LS Livingstone,1,0,,,,,,"",""
+ball,1,11.3,Sunrisers Eastern Cape,TB Abell,AK Markram,LS Livingstone,4,0,,,,,,"",""
+ball,1,11.4,Sunrisers Eastern Cape,TB Abell,AK Markram,LS Livingstone,0,0,,,,,,"",""
+ball,1,11.5,Sunrisers Eastern Cape,TB Abell,AK Markram,LS Livingstone,1,0,,,,,,"",""
+ball,1,11.6,Sunrisers Eastern Cape,AK Markram,TB Abell,LS Livingstone,1,0,,,,,,"",""
+ball,1,12.1,Sunrisers Eastern Cape,AK Markram,TB Abell,SM Curran,1,0,,,,,,"",""
+ball,1,12.2,Sunrisers Eastern Cape,TB Abell,AK Markram,SM Curran,0,5,5,,,,,"",""
+ball,1,12.3,Sunrisers Eastern Cape,TB Abell,AK Markram,SM Curran,2,0,,,,,,"",""
+ball,1,12.4,Sunrisers Eastern Cape,TB Abell,AK Markram,SM Curran,1,0,,,,,,"",""
+ball,1,12.5,Sunrisers Eastern Cape,AK Markram,TB Abell,SM Curran,4,0,,,,,,"",""
+ball,1,12.6,Sunrisers Eastern Cape,AK Markram,TB Abell,SM Curran,4,0,,,,,,"",""
+ball,1,12.7,Sunrisers Eastern Cape,AK Markram,TB Abell,SM Curran,2,0,,,,,,"",""
+ball,1,13.1,Sunrisers Eastern Cape,TB Abell,AK Markram,TP Kaber,0,0,,,,,,"",""
+ball,1,13.2,Sunrisers Eastern Cape,TB Abell,AK Markram,TP Kaber,1,0,,,,,,"",""
+ball,1,13.3,Sunrisers Eastern Cape,AK Markram,TB Abell,TP Kaber,6,0,,,,,,"",""
+ball,1,13.4,Sunrisers Eastern Cape,AK Markram,TB Abell,TP Kaber,6,0,,,,,,"",""
+ball,1,13.5,Sunrisers Eastern Cape,AK Markram,TB Abell,TP Kaber,1,0,,,,,,"",""
+ball,1,13.6,Sunrisers Eastern Cape,TB Abell,AK Markram,TP Kaber,4,0,,,,,,"",""
+ball,1,14.1,Sunrisers Eastern Cape,AK Markram,TB Abell,KA Pollard,0,0,,,,,,"",""
+ball,1,14.2,Sunrisers Eastern Cape,AK Markram,TB Abell,KA Pollard,0,1,1,,,,,"",""
+ball,1,14.3,Sunrisers Eastern Cape,AK Markram,TB Abell,KA Pollard,2,0,,,,,,"",""
+ball,1,14.4,Sunrisers Eastern Cape,AK Markram,TB Abell,KA Pollard,1,0,,,,,,"",""
+ball,1,14.5,Sunrisers Eastern Cape,TB Abell,AK Markram,KA Pollard,0,0,,,,,,caught,TB Abell
+ball,1,14.6,Sunrisers Eastern Cape,T Stubbs,AK Markram,KA Pollard,1,0,,,,,,"",""
+ball,1,14.7,Sunrisers Eastern Cape,AK Markram,T Stubbs,KA Pollard,1,0,,,,,,"",""
+ball,1,15.1,Sunrisers Eastern Cape,AK Markram,T Stubbs,LS Livingstone,2,0,,,,,,"",""
+ball,1,15.2,Sunrisers Eastern Cape,AK Markram,T Stubbs,LS Livingstone,2,0,,,,,,"",""
+ball,1,15.3,Sunrisers Eastern Cape,AK Markram,T Stubbs,LS Livingstone,0,0,,,,,,"",""
+ball,1,15.4,Sunrisers Eastern Cape,AK Markram,T Stubbs,LS Livingstone,0,1,,,,1,,"",""
+ball,1,15.5,Sunrisers Eastern Cape,T Stubbs,AK Markram,LS Livingstone,2,0,,,,,,"",""
+ball,1,15.6,Sunrisers Eastern Cape,T Stubbs,AK Markram,LS Livingstone,1,0,,,,,,"",""
+ball,1,16.1,Sunrisers Eastern Cape,T Stubbs,AK Markram,KA Pollard,2,0,,,,,,"",""
+ball,1,16.2,Sunrisers Eastern Cape,T Stubbs,AK Markram,KA Pollard,6,0,,,,,,"",""
+ball,1,16.3,Sunrisers Eastern Cape,T Stubbs,AK Markram,KA Pollard,0,0,,,,,,"",""
+ball,1,16.4,Sunrisers Eastern Cape,T Stubbs,AK Markram,KA Pollard,0,2,2,,,,,"",""
+ball,1,16.5,Sunrisers Eastern Cape,AK Markram,T Stubbs,KA Pollard,2,0,,,,,,"",""
+ball,1,16.6,Sunrisers Eastern Cape,AK Markram,T Stubbs,KA Pollard,1,0,,,,,,"",""
+ball,1,16.7,Sunrisers Eastern Cape,T Stubbs,AK Markram,KA Pollard,1,0,,,,,,"",""
+ball,1,17.1,Sunrisers Eastern Cape,T Stubbs,AK Markram,N Thushara,2,0,,,,,,"",""
+ball,1,17.2,Sunrisers Eastern Cape,T Stubbs,AK Markram,N Thushara,4,0,,,,,,"",""
+ball,1,17.3,Sunrisers Eastern Cape,T Stubbs,AK Markram,N Thushara,1,0,,,,,,"",""
+ball,1,17.4,Sunrisers Eastern Cape,AK Markram,T Stubbs,N Thushara,2,0,,,,,,"",""
+ball,1,17.5,Sunrisers Eastern Cape,AK Markram,T Stubbs,N Thushara,2,0,,,,,,"",""
+ball,1,17.6,Sunrisers Eastern Cape,AK Markram,T Stubbs,N Thushara,1,0,,,,,,"",""
+ball,1,18.1,Sunrisers Eastern Cape,AK Markram,T Stubbs,K Rabada,1,0,,,,,,"",""
+ball,1,18.2,Sunrisers Eastern Cape,T Stubbs,AK Markram,K Rabada,1,0,,,,,,"",""
+ball,1,18.3,Sunrisers Eastern Cape,AK Markram,T Stubbs,K Rabada,2,0,,,,,,"",""
+ball,1,18.4,Sunrisers Eastern Cape,AK Markram,T Stubbs,K Rabada,2,0,,,,,,"",""
+ball,1,18.5,Sunrisers Eastern Cape,AK Markram,T Stubbs,K Rabada,0,0,,,,,,caught,AK Markram
+ball,1,18.6,Sunrisers Eastern Cape,PE Kruger,T Stubbs,K Rabada,2,0,,,,,,"",""
+ball,1,19.1,Sunrisers Eastern Cape,T Stubbs,PE Kruger,N Thushara,2,0,,,,,,"",""
+ball,1,19.2,Sunrisers Eastern Cape,T Stubbs,PE Kruger,N Thushara,0,0,,,,,,caught,T Stubbs
+ball,1,19.3,Sunrisers Eastern Cape,M Jansen,PE Kruger,N Thushara,1,0,,,,,,"",""
+ball,1,19.4,Sunrisers Eastern Cape,PE Kruger,M Jansen,N Thushara,0,0,,,,,,"",""
+ball,1,19.5,Sunrisers Eastern Cape,PE Kruger,M Jansen,N Thushara,1,0,,,,,,"",""
+ball,1,19.6,Sunrisers Eastern Cape,M Jansen,PE Kruger,N Thushara,0,0,,,,,,caught,M Jansen
+ball,2,0.1,MI Cape Town,HE van der Dussen,RD Rickelton,DJ Worrall,0,0,,,,,,"",""
+ball,2,0.2,MI Cape Town,HE van der Dussen,RD Rickelton,DJ Worrall,1,0,,,,,,"",""
+ball,2,0.3,MI Cape Town,RD Rickelton,HE van der Dussen,DJ Worrall,0,0,,,,,,"",""
+ball,2,0.4,MI Cape Town,RD Rickelton,HE van der Dussen,DJ Worrall,0,0,,,,,,"",""
+ball,2,0.5,MI Cape Town,RD Rickelton,HE van der Dussen,DJ Worrall,0,0,,,,,,"",""
+ball,2,0.6,MI Cape Town,RD Rickelton,HE van der Dussen,DJ Worrall,0,0,,,,,,"",""
+ball,2,1.1,MI Cape Town,HE van der Dussen,RD Rickelton,AK Markram,1,0,,,,,,"",""
+ball,2,1.2,MI Cape Town,RD Rickelton,HE van der Dussen,AK Markram,0,0,,,,,,"",""
+ball,2,1.3,MI Cape Town,RD Rickelton,HE van der Dussen,AK Markram,0,0,,,,,,"",""
+ball,2,1.4,MI Cape Town,RD Rickelton,HE van der Dussen,AK Markram,4,0,,,,,,"",""
+ball,2,1.5,MI Cape Town,RD Rickelton,HE van der Dussen,AK Markram,4,0,,,,,,"",""
+ball,2,1.6,MI Cape Town,RD Rickelton,HE van der Dussen,AK Markram,0,0,,,,,,run out,HE van der Dussen
+ball,2,2.1,MI Cape Town,RD Rickelton,LS Livingstone,M Jansen,0,0,,,,,,"",""
+ball,2,2.2,MI Cape Town,RD Rickelton,LS Livingstone,M Jansen,4,0,,,,,,"",""
+ball,2,2.3,MI Cape Town,RD Rickelton,LS Livingstone,M Jansen,6,0,,,,,,"",""
+ball,2,2.4,MI Cape Town,RD Rickelton,LS Livingstone,M Jansen,3,0,,,,,,"",""
+ball,2,2.5,MI Cape Town,LS Livingstone,RD Rickelton,M Jansen,1,0,,,,,,"",""
+ball,2,2.6,MI Cape Town,RD Rickelton,LS Livingstone,M Jansen,0,0,,,,,,"",""
+ball,2,3.1,MI Cape Town,LS Livingstone,RD Rickelton,DJ Worrall,1,0,,,,,,"",""
+ball,2,3.2,MI Cape Town,RD Rickelton,LS Livingstone,DJ Worrall,1,0,,,,,,"",""
+ball,2,3.3,MI Cape Town,LS Livingstone,RD Rickelton,DJ Worrall,0,0,,,,,,"",""
+ball,2,3.4,MI Cape Town,LS Livingstone,RD Rickelton,DJ Worrall,6,0,,,,,,"",""
+ball,2,3.5,MI Cape Town,LS Livingstone,RD Rickelton,DJ Worrall,0,0,,,,,,"",""
+ball,2,3.6,MI Cape Town,LS Livingstone,RD Rickelton,DJ Worrall,4,0,,,,,,"",""
+ball,2,4.1,MI Cape Town,RD Rickelton,LS Livingstone,OEG Baartman,0,0,,,,,,"",""
+ball,2,4.2,MI Cape Town,RD Rickelton,LS Livingstone,OEG Baartman,1,0,,,,,,"",""
+ball,2,4.3,MI Cape Town,LS Livingstone,RD Rickelton,OEG Baartman,0,0,,,,,,"",""
+ball,2,4.4,MI Cape Town,LS Livingstone,RD Rickelton,OEG Baartman,1,0,,,,,,"",""
+ball,2,4.5,MI Cape Town,RD Rickelton,LS Livingstone,OEG Baartman,4,0,,,,,,"",""
+ball,2,4.6,MI Cape Town,RD Rickelton,LS Livingstone,OEG Baartman,0,0,,,,,,"",""
+ball,2,5.1,MI Cape Town,LS Livingstone,RD Rickelton,M Jansen,0,0,,,,,,"",""
+ball,2,5.2,MI Cape Town,LS Livingstone,RD Rickelton,M Jansen,1,0,,,,,,"",""
+ball,2,5.3,MI Cape Town,RD Rickelton,LS Livingstone,M Jansen,0,0,,,,,,caught,RD Rickelton
+ball,2,5.4,MI Cape Town,SM Curran,LS Livingstone,M Jansen,1,0,,,,,,"",""
+ball,2,5.5,MI Cape Town,LS Livingstone,SM Curran,M Jansen,0,0,,,,,,"",""
+ball,2,5.6,MI Cape Town,LS Livingstone,SM Curran,M Jansen,1,0,,,,,,"",""
+ball,2,6.1,MI Cape Town,LS Livingstone,SM Curran,LA Dawson,0,1,1,,,,,"",""
+ball,2,6.2,MI Cape Town,LS Livingstone,SM Curran,LA Dawson,0,1,,,,1,,"",""
+ball,2,6.3,MI Cape Town,SM Curran,LS Livingstone,LA Dawson,4,0,,,,,,"",""
+ball,2,6.4,MI Cape Town,SM Curran,LS Livingstone,LA Dawson,0,0,,,,,,"",""
+ball,2,6.5,MI Cape Town,SM Curran,LS Livingstone,LA Dawson,1,0,,,,,,"",""
+ball,2,6.6,MI Cape Town,LS Livingstone,SM Curran,LA Dawson,0,0,,,,,,"",""
+ball,2,6.7,MI Cape Town,LS Livingstone,SM Curran,LA Dawson,0,0,,,,,,"",""
+ball,2,7.1,MI Cape Town,SM Curran,LS Livingstone,SR Harmer,4,0,,,,,,"",""
+ball,2,7.2,MI Cape Town,SM Curran,LS Livingstone,SR Harmer,0,0,,,,,,"",""
+ball,2,7.3,MI Cape Town,SM Curran,LS Livingstone,SR Harmer,1,0,,,,,,"",""
+ball,2,7.4,MI Cape Town,LS Livingstone,SM Curran,SR Harmer,6,0,,,,,,"",""
+ball,2,7.5,MI Cape Town,LS Livingstone,SM Curran,SR Harmer,1,0,,,,,,"",""
+ball,2,7.6,MI Cape Town,SM Curran,LS Livingstone,SR Harmer,1,0,,,,,,"",""
+ball,2,8.1,MI Cape Town,SM Curran,LS Livingstone,LA Dawson,0,0,,,,,,"",""
+ball,2,8.2,MI Cape Town,SM Curran,LS Livingstone,LA Dawson,1,0,,,,,,"",""
+ball,2,8.3,MI Cape Town,LS Livingstone,SM Curran,LA Dawson,1,0,,,,,,"",""
+ball,2,8.4,MI Cape Town,SM Curran,LS Livingstone,LA Dawson,1,0,,,,,,"",""
+ball,2,8.5,MI Cape Town,LS Livingstone,SM Curran,LA Dawson,1,0,,,,,,"",""
+ball,2,8.6,MI Cape Town,SM Curran,LS Livingstone,LA Dawson,6,0,,,,,,"",""
+ball,2,9.1,MI Cape Town,LS Livingstone,SM Curran,OEG Baartman,1,0,,,,,,"",""
+ball,2,9.2,MI Cape Town,SM Curran,LS Livingstone,OEG Baartman,1,0,,,,,,"",""
+ball,2,9.3,MI Cape Town,LS Livingstone,SM Curran,OEG Baartman,1,0,,,,,,"",""
+ball,2,9.4,MI Cape Town,SM Curran,LS Livingstone,OEG Baartman,0,0,,,,,,"",""
+ball,2,9.5,MI Cape Town,SM Curran,LS Livingstone,OEG Baartman,1,0,,,,,,"",""
+ball,2,9.6,MI Cape Town,LS Livingstone,SM Curran,OEG Baartman,0,0,,,,,,caught,LS Livingstone
+ball,2,10.1,MI Cape Town,SM Curran,KA Pollard,SR Harmer,1,0,,,,,,"",""
+ball,2,10.2,MI Cape Town,KA Pollard,SM Curran,SR Harmer,1,0,,,,,,"",""
+ball,2,10.3,MI Cape Town,SM Curran,KA Pollard,SR Harmer,4,0,,,,,,"",""
+ball,2,10.4,MI Cape Town,SM Curran,KA Pollard,SR Harmer,0,0,,,,,,"",""
+ball,2,10.5,MI Cape Town,SM Curran,KA Pollard,SR Harmer,0,2,2,,,,,"",""
+ball,2,10.6,MI Cape Town,KA Pollard,SM Curran,SR Harmer,0,0,,,,,,"",""
+ball,2,10.7,MI Cape Town,KA Pollard,SM Curran,SR Harmer,0,0,,,,,,"",""
+ball,2,11.1,MI Cape Town,SM Curran,KA Pollard,DJ Worrall,1,0,,,,,,"",""
+ball,2,11.2,MI Cape Town,KA Pollard,SM Curran,DJ Worrall,1,0,,,,,,"",""
+ball,2,11.3,MI Cape Town,SM Curran,KA Pollard,DJ Worrall,0,1,1,,,,,"",""
+ball,2,11.4,MI Cape Town,SM Curran,KA Pollard,DJ Worrall,1,0,,,,,,"",""
+ball,2,11.5,MI Cape Town,KA Pollard,SM Curran,DJ Worrall,0,2,,,,2,,"",""
+ball,2,11.6,MI Cape Town,KA Pollard,SM Curran,DJ Worrall,1,0,,,,,,"",""
+ball,2,11.7,MI Cape Town,SM Curran,KA Pollard,DJ Worrall,1,0,,,,,,"",""
+ball,2,12.1,MI Cape Town,SM Curran,KA Pollard,LA Dawson,0,1,1,,,,,stumped,SM Curran
+ball,2,12.2,MI Cape Town,D Brevis,KA Pollard,LA Dawson,0,0,,,,,,"",""
+ball,2,12.3,MI Cape Town,D Brevis,KA Pollard,LA Dawson,0,0,,,,,,"",""
+ball,2,12.4,MI Cape Town,D Brevis,KA Pollard,LA Dawson,1,0,,,,,,"",""
+ball,2,12.5,MI Cape Town,KA Pollard,D Brevis,LA Dawson,1,0,,,,,,"",""
+ball,2,12.6,MI Cape Town,D Brevis,KA Pollard,LA Dawson,0,0,,,,,,"",""
+ball,2,12.7,MI Cape Town,D Brevis,KA Pollard,LA Dawson,1,0,,,,,,"",""
+ball,2,13.1,MI Cape Town,D Brevis,KA Pollard,M Jansen,0,0,,,,,,"",""
+ball,2,13.2,MI Cape Town,D Brevis,KA Pollard,M Jansen,1,0,,,,,,"",""
+ball,2,13.3,MI Cape Town,KA Pollard,D Brevis,M Jansen,0,0,,,,,,"",""
+ball,2,13.4,MI Cape Town,KA Pollard,D Brevis,M Jansen,1,0,,,,,,"",""
+ball,2,13.5,MI Cape Town,D Brevis,KA Pollard,M Jansen,6,0,,,,,,"",""
+ball,2,13.6,MI Cape Town,D Brevis,KA Pollard,M Jansen,1,0,,,,,,"",""
+ball,2,14.1,MI Cape Town,D Brevis,KA Pollard,LA Dawson,0,0,,,,,,"",""
+ball,2,14.2,MI Cape Town,D Brevis,KA Pollard,LA Dawson,1,0,,,,,,"",""
+ball,2,14.3,MI Cape Town,KA Pollard,D Brevis,LA Dawson,4,0,,,,,,"",""
+ball,2,14.4,MI Cape Town,KA Pollard,D Brevis,LA Dawson,2,0,,,,,,"",""
+ball,2,14.5,MI Cape Town,KA Pollard,D Brevis,LA Dawson,1,0,,,,,,"",""
+ball,2,14.6,MI Cape Town,D Brevis,KA Pollard,LA Dawson,1,0,,,,,,"",""
+ball,2,15.1,MI Cape Town,D Brevis,KA Pollard,PE Kruger,6,0,,,,,,"",""
+ball,2,15.2,MI Cape Town,D Brevis,KA Pollard,PE Kruger,1,1,,1,,,,"",""
+ball,2,15.3,MI Cape Town,KA Pollard,D Brevis,PE Kruger,0,1,1,,,,,"",""
+ball,2,15.4,MI Cape Town,KA Pollard,D Brevis,PE Kruger,2,0,,,,,,"",""
+ball,2,15.5,MI Cape Town,KA Pollard,D Brevis,PE Kruger,1,0,,,,,,"",""
+ball,2,15.6,MI Cape Town,D Brevis,KA Pollard,PE Kruger,1,0,,,,,,"",""
+ball,2,15.7,MI Cape Town,KA Pollard,D Brevis,PE Kruger,0,1,,,,1,,"",""
+ball,2,15.8,MI Cape Town,D Brevis,KA Pollard,PE Kruger,0,0,,,,,,"",""
+ball,2,16.1,MI Cape Town,KA Pollard,D Brevis,OEG Baartman,0,1,,,,1,,"",""
+ball,2,16.2,MI Cape Town,D Brevis,KA Pollard,OEG Baartman,0,0,,,,,,"",""
+ball,2,16.3,MI Cape Town,D Brevis,KA Pollard,OEG Baartman,6,0,,,,,,"",""
+ball,2,16.4,MI Cape Town,D Brevis,KA Pollard,OEG Baartman,0,0,,,,,,caught,D Brevis
+ball,2,16.5,MI Cape Town,D Potgieter,KA Pollard,OEG Baartman,0,0,,,,,,"",""
+ball,2,16.6,MI Cape Town,D Potgieter,KA Pollard,OEG Baartman,1,0,,,,,,"",""
+ball,2,17.1,MI Cape Town,D Potgieter,KA Pollard,M Jansen,0,0,,,,,,"",""
+ball,2,17.2,MI Cape Town,D Potgieter,KA Pollard,M Jansen,1,0,,,,,,"",""
+ball,2,17.3,MI Cape Town,KA Pollard,D Potgieter,M Jansen,4,0,,,,,,"",""
+ball,2,17.4,MI Cape Town,KA Pollard,D Potgieter,M Jansen,4,0,,,,,,"",""
+ball,2,17.5,MI Cape Town,KA Pollard,D Potgieter,M Jansen,2,0,,,,,,"",""
+ball,2,17.6,MI Cape Town,KA Pollard,D Potgieter,M Jansen,0,0,,,,,,"",""
+ball,2,18.1,MI Cape Town,D Potgieter,KA Pollard,OEG Baartman,0,0,,,,,,"",""
+ball,2,18.2,MI Cape Town,D Potgieter,KA Pollard,OEG Baartman,0,2,,1,1,,,"",""
+ball,2,18.3,MI Cape Town,KA Pollard,D Potgieter,OEG Baartman,1,0,,,,,,"",""
+ball,2,18.4,MI Cape Town,D Potgieter,KA Pollard,OEG Baartman,1,0,,,,,,"",""
+ball,2,18.5,MI Cape Town,KA Pollard,D Potgieter,OEG Baartman,1,0,,,,,,"",""
+ball,2,18.6,MI Cape Town,D Potgieter,KA Pollard,OEG Baartman,1,0,,,,,,"",""
+ball,2,18.7,MI Cape Town,KA Pollard,D Potgieter,OEG Baartman,2,0,,,,,,"",""
+ball,2,19.1,MI Cape Town,D Potgieter,KA Pollard,DJ Worrall,0,0,,,,,,caught,D Potgieter
+ball,2,19.2,MI Cape Town,GF Linde,KA Pollard,DJ Worrall,6,0,,,,,,"",""
+ball,2,19.3,MI Cape Town,GF Linde,KA Pollard,DJ Worrall,4,0,,,,,,"",""
+ball,2,19.4,MI Cape Town,GF Linde,KA Pollard,DJ Worrall,1,0,,,,,,"",""
+ball,2,19.5,MI Cape Town,KA Pollard,GF Linde,DJ Worrall,1,0,,,,,,run out,KA Pollard
+ball,2,19.6,MI Cape Town,TP Kaber,GF Linde,DJ Worrall,1,0,,,,,,"",""

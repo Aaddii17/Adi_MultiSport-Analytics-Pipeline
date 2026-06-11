@@ -1,0 +1,411 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,England
+info,team,Sri Lanka
+info,gender,female
+info,season,2023
+info,date,2023/09/14
+info,event,Sri Lanka Women tour of England
+info,match_number,3
+info,venue,"Grace Road, Leicester"
+info,city,Leicester
+info,toss_winner,Sri Lanka
+info,toss_decision,field
+info,player_of_match,NR Sciver-Brunt
+info,umpire,AY Harris
+info,umpire,James Middlebrook
+info,reserve_umpire,S Redfern
+info,tv_umpire,J Naeem
+info,match_referee,Phil Whitticase
+info,winner,England
+info,winner_runs,161
+info,player,England,TT Beaumont
+info,player,England,ME Bouchier
+info,player,England,A Capsey
+info,player,England,NR Sciver-Brunt
+info,player,England,AE Jones
+info,player,England,BAM Heath
+info,player,England,AN Davidson-Richards
+info,player,England,CE Dean
+info,player,England,S Glenn
+info,player,England,M Gaur
+info,player,England,L Filer
+info,player,Sri Lanka,AC Jayangani
+info,player,Sri Lanka,MAA Sanjeewani
+info,player,Sri Lanka,H Madavi
+info,player,Sri Lanka,I Dulani
+info,player,Sri Lanka,GWHM Perera
+info,player,Sri Lanka,H Karunaratne
+info,player,Sri Lanka,WK Dilhari
+info,player,Sri Lanka,OU Ranasinghe
+info,player,Sri Lanka,KDU Prabodhani
+info,player,Sri Lanka,WGAKK Kulasuriya
+info,player,Sri Lanka,I Ranaweera
+info,registry,people,A Capsey,910dd54e
+info,registry,people,AC Jayangani,ac56b5a7
+info,registry,people,AE Jones,b05e45e4
+info,registry,people,AN Davidson-Richards,35828bdd
+info,registry,people,AY Harris,90d95b82
+info,registry,people,BAM Heath,3b5a9438
+info,registry,people,CE Dean,c6625a26
+info,registry,people,GWHM Perera,53068b45
+info,registry,people,H Karunaratne,f8e27d4a
+info,registry,people,H Madavi,85021bcd
+info,registry,people,I Dulani,a2c23f31
+info,registry,people,I Ranaweera,a61850e6
+info,registry,people,J Naeem,0dc3fee0
+info,registry,people,James Middlebrook,ddcd1520
+info,registry,people,KDU Prabodhani,a0fdf513
+info,registry,people,L Filer,31adb911
+info,registry,people,M Gaur,df9cdebf
+info,registry,people,MAA Sanjeewani,318a4039
+info,registry,people,ME Bouchier,c2554b59
+info,registry,people,NR Sciver-Brunt,f3a18a0c
+info,registry,people,OU Ranasinghe,52d3b7ff
+info,registry,people,Phil Whitticase,99d5f6fa
+info,registry,people,S Glenn,b34e0c77
+info,registry,people,S Redfern,5b038989
+info,registry,people,TT Beaumont,b2664905
+info,registry,people,WGAKK Kulasuriya,550373ea
+info,registry,people,WK Dilhari,c34a15e6
+ball,1,0.1,England,TT Beaumont,ME Bouchier,KDU Prabodhani,0,0,,,,,,"",""
+ball,1,0.2,England,TT Beaumont,ME Bouchier,KDU Prabodhani,1,0,,,,,,"",""
+ball,1,0.3,England,ME Bouchier,TT Beaumont,KDU Prabodhani,1,0,,,,,,"",""
+ball,1,0.4,England,TT Beaumont,ME Bouchier,KDU Prabodhani,1,0,,,,,,"",""
+ball,1,0.5,England,ME Bouchier,TT Beaumont,KDU Prabodhani,0,0,,,,,,"",""
+ball,1,0.6,England,ME Bouchier,TT Beaumont,KDU Prabodhani,2,0,,,,,,"",""
+ball,1,1.1,England,TT Beaumont,ME Bouchier,WGAKK Kulasuriya,0,0,,,,,,"",""
+ball,1,1.2,England,TT Beaumont,ME Bouchier,WGAKK Kulasuriya,0,0,,,,,,caught,TT Beaumont
+ball,1,1.3,England,A Capsey,ME Bouchier,WGAKK Kulasuriya,0,0,,,,,,"",""
+ball,1,1.4,England,A Capsey,ME Bouchier,WGAKK Kulasuriya,0,0,,,,,,"",""
+ball,1,1.5,England,A Capsey,ME Bouchier,WGAKK Kulasuriya,0,0,,,,,,"",""
+ball,1,1.6,England,A Capsey,ME Bouchier,WGAKK Kulasuriya,0,0,,,,,,"",""
+ball,1,2.1,England,ME Bouchier,A Capsey,KDU Prabodhani,0,0,,,,,,"",""
+ball,1,2.2,England,ME Bouchier,A Capsey,KDU Prabodhani,0,0,,,,,,"",""
+ball,1,2.3,England,ME Bouchier,A Capsey,KDU Prabodhani,6,0,,,,,,"",""
+ball,1,2.4,England,ME Bouchier,A Capsey,KDU Prabodhani,0,0,,,,,,"",""
+ball,1,2.5,England,ME Bouchier,A Capsey,KDU Prabodhani,0,0,,,,,,"",""
+ball,1,2.6,England,ME Bouchier,A Capsey,KDU Prabodhani,0,0,,,,,,"",""
+ball,1,3.1,England,A Capsey,ME Bouchier,WGAKK Kulasuriya,1,0,,,,,,"",""
+ball,1,3.2,England,ME Bouchier,A Capsey,WGAKK Kulasuriya,1,0,,,,,,"",""
+ball,1,3.3,England,A Capsey,ME Bouchier,WGAKK Kulasuriya,0,0,,,,,,"",""
+ball,1,3.4,England,A Capsey,ME Bouchier,WGAKK Kulasuriya,0,0,,,,,,"",""
+ball,1,3.5,England,A Capsey,ME Bouchier,WGAKK Kulasuriya,4,0,,,,,,"",""
+ball,1,3.6,England,A Capsey,ME Bouchier,WGAKK Kulasuriya,1,0,,,,,,"",""
+ball,1,4.1,England,A Capsey,ME Bouchier,KDU Prabodhani,0,0,,,,,,bowled,A Capsey
+ball,1,4.2,England,NR Sciver-Brunt,ME Bouchier,KDU Prabodhani,0,0,,,,,,"",""
+ball,1,4.3,England,NR Sciver-Brunt,ME Bouchier,KDU Prabodhani,1,0,,,,,,"",""
+ball,1,4.4,England,ME Bouchier,NR Sciver-Brunt,KDU Prabodhani,4,0,,,,,,"",""
+ball,1,4.5,England,ME Bouchier,NR Sciver-Brunt,KDU Prabodhani,0,0,,,,,,"",""
+ball,1,4.6,England,ME Bouchier,NR Sciver-Brunt,KDU Prabodhani,4,0,,,,,,"",""
+ball,1,5.1,England,NR Sciver-Brunt,ME Bouchier,WGAKK Kulasuriya,0,0,,,,,,"",""
+ball,1,5.2,England,NR Sciver-Brunt,ME Bouchier,WGAKK Kulasuriya,0,0,,,,,,"",""
+ball,1,5.3,England,NR Sciver-Brunt,ME Bouchier,WGAKK Kulasuriya,0,0,,,,,,"",""
+ball,1,5.4,England,NR Sciver-Brunt,ME Bouchier,WGAKK Kulasuriya,0,0,,,,,,"",""
+ball,1,5.5,England,NR Sciver-Brunt,ME Bouchier,WGAKK Kulasuriya,1,0,,,,,,"",""
+ball,1,5.6,England,ME Bouchier,NR Sciver-Brunt,WGAKK Kulasuriya,0,0,,,,,,"",""
+ball,1,6.1,England,NR Sciver-Brunt,ME Bouchier,AC Jayangani,2,0,,,,,,"",""
+ball,1,6.2,England,NR Sciver-Brunt,ME Bouchier,AC Jayangani,1,0,,,,,,"",""
+ball,1,6.3,England,ME Bouchier,NR Sciver-Brunt,AC Jayangani,0,0,,,,,,"",""
+ball,1,6.4,England,ME Bouchier,NR Sciver-Brunt,AC Jayangani,0,5,5,,,,,"",""
+ball,1,6.5,England,ME Bouchier,NR Sciver-Brunt,AC Jayangani,1,0,,,,,,"",""
+ball,1,6.6,England,NR Sciver-Brunt,ME Bouchier,AC Jayangani,2,0,,,,,,"",""
+ball,1,6.7,England,NR Sciver-Brunt,ME Bouchier,AC Jayangani,2,0,,,,,,"",""
+ball,1,7.1,England,ME Bouchier,NR Sciver-Brunt,I Ranaweera,1,0,,,,,,"",""
+ball,1,7.2,England,NR Sciver-Brunt,ME Bouchier,I Ranaweera,4,0,,,,,,"",""
+ball,1,7.3,England,NR Sciver-Brunt,ME Bouchier,I Ranaweera,0,0,,,,,,"",""
+ball,1,7.4,England,NR Sciver-Brunt,ME Bouchier,I Ranaweera,4,0,,,,,,"",""
+ball,1,7.5,England,NR Sciver-Brunt,ME Bouchier,I Ranaweera,6,0,,,,,,"",""
+ball,1,7.6,England,NR Sciver-Brunt,ME Bouchier,I Ranaweera,1,0,,,,,,"",""
+ball,1,8.1,England,NR Sciver-Brunt,ME Bouchier,OU Ranasinghe,4,0,,,,,,"",""
+ball,1,8.2,England,NR Sciver-Brunt,ME Bouchier,OU Ranasinghe,1,0,,,,,,"",""
+ball,1,8.3,England,ME Bouchier,NR Sciver-Brunt,OU Ranasinghe,1,0,,,,,,"",""
+ball,1,8.4,England,NR Sciver-Brunt,ME Bouchier,OU Ranasinghe,0,0,,,,,,"",""
+ball,1,8.5,England,NR Sciver-Brunt,ME Bouchier,OU Ranasinghe,0,0,,,,,,"",""
+ball,1,8.6,England,NR Sciver-Brunt,ME Bouchier,OU Ranasinghe,4,0,,,,,,"",""
+ball,1,9.1,England,ME Bouchier,NR Sciver-Brunt,AC Jayangani,1,0,,,,,,"",""
+ball,1,9.2,England,NR Sciver-Brunt,ME Bouchier,AC Jayangani,0,0,,,,,,"",""
+ball,1,9.3,England,NR Sciver-Brunt,ME Bouchier,AC Jayangani,1,0,,,,,,"",""
+ball,1,9.4,England,ME Bouchier,NR Sciver-Brunt,AC Jayangani,1,0,,,,,,"",""
+ball,1,9.5,England,NR Sciver-Brunt,ME Bouchier,AC Jayangani,1,0,,,,,,"",""
+ball,1,9.6,England,ME Bouchier,NR Sciver-Brunt,AC Jayangani,1,0,,,,,,"",""
+ball,1,10.1,England,ME Bouchier,NR Sciver-Brunt,H Karunaratne,0,0,,,,,,"",""
+ball,1,10.2,England,ME Bouchier,NR Sciver-Brunt,H Karunaratne,4,0,,,,,,"",""
+ball,1,10.3,England,ME Bouchier,NR Sciver-Brunt,H Karunaratne,0,1,,1,,,,"",""
+ball,1,10.4,England,ME Bouchier,NR Sciver-Brunt,H Karunaratne,6,0,,,,,,"",""
+ball,1,10.5,England,ME Bouchier,NR Sciver-Brunt,H Karunaratne,1,0,,,,,,"",""
+ball,1,10.6,England,NR Sciver-Brunt,ME Bouchier,H Karunaratne,1,0,,,,,,"",""
+ball,1,10.7,England,ME Bouchier,NR Sciver-Brunt,H Karunaratne,2,0,,,,,,"",""
+ball,1,11.1,England,NR Sciver-Brunt,ME Bouchier,AC Jayangani,1,0,,,,,,"",""
+ball,1,11.2,England,ME Bouchier,NR Sciver-Brunt,AC Jayangani,1,0,,,,,,"",""
+ball,1,11.3,England,NR Sciver-Brunt,ME Bouchier,AC Jayangani,1,0,,,,,,"",""
+ball,1,11.4,England,ME Bouchier,NR Sciver-Brunt,AC Jayangani,1,0,,,,,,"",""
+ball,1,11.5,England,NR Sciver-Brunt,ME Bouchier,AC Jayangani,4,0,,,,,,"",""
+ball,1,11.6,England,NR Sciver-Brunt,ME Bouchier,AC Jayangani,4,0,,,,,,"",""
+ball,1,12.1,England,ME Bouchier,NR Sciver-Brunt,I Ranaweera,2,0,,,,,,"",""
+ball,1,12.2,England,ME Bouchier,NR Sciver-Brunt,I Ranaweera,0,0,,,,,,"",""
+ball,1,12.3,England,ME Bouchier,NR Sciver-Brunt,I Ranaweera,1,0,,,,,,"",""
+ball,1,12.4,England,NR Sciver-Brunt,ME Bouchier,I Ranaweera,1,0,,,,,,"",""
+ball,1,12.5,England,ME Bouchier,NR Sciver-Brunt,I Ranaweera,0,0,,,,,,"",""
+ball,1,12.6,England,ME Bouchier,NR Sciver-Brunt,I Ranaweera,1,0,,,,,,"",""
+ball,1,13.1,England,ME Bouchier,NR Sciver-Brunt,OU Ranasinghe,0,0,,,,,,"",""
+ball,1,13.2,England,ME Bouchier,NR Sciver-Brunt,OU Ranasinghe,0,0,,,,,,"",""
+ball,1,13.3,England,ME Bouchier,NR Sciver-Brunt,OU Ranasinghe,4,0,,,,,,"",""
+ball,1,13.4,England,ME Bouchier,NR Sciver-Brunt,OU Ranasinghe,4,0,,,,,,"",""
+ball,1,13.5,England,ME Bouchier,NR Sciver-Brunt,OU Ranasinghe,4,0,,,,,,"",""
+ball,1,13.6,England,ME Bouchier,NR Sciver-Brunt,OU Ranasinghe,0,0,,,,,,"",""
+ball,1,14.1,England,NR Sciver-Brunt,ME Bouchier,I Ranaweera,1,0,,,,,,"",""
+ball,1,14.2,England,ME Bouchier,NR Sciver-Brunt,I Ranaweera,1,0,,,,,,"",""
+ball,1,14.3,England,NR Sciver-Brunt,ME Bouchier,I Ranaweera,4,0,,,,,,"",""
+ball,1,14.4,England,NR Sciver-Brunt,ME Bouchier,I Ranaweera,4,0,,,,,,"",""
+ball,1,14.5,England,NR Sciver-Brunt,ME Bouchier,I Ranaweera,4,0,,,,,,"",""
+ball,1,14.6,England,NR Sciver-Brunt,ME Bouchier,I Ranaweera,1,0,,,,,,"",""
+ball,1,15.1,England,NR Sciver-Brunt,ME Bouchier,AC Jayangani,1,0,,,,,,"",""
+ball,1,15.2,England,ME Bouchier,NR Sciver-Brunt,AC Jayangani,4,0,,,,,,"",""
+ball,1,15.3,England,ME Bouchier,NR Sciver-Brunt,AC Jayangani,1,0,,,,,,"",""
+ball,1,15.4,England,NR Sciver-Brunt,ME Bouchier,AC Jayangani,0,0,,,,,,"",""
+ball,1,15.5,England,NR Sciver-Brunt,ME Bouchier,AC Jayangani,0,0,,,,,,"",""
+ball,1,15.6,England,NR Sciver-Brunt,ME Bouchier,AC Jayangani,4,0,,,,,,"",""
+ball,1,16.1,England,ME Bouchier,NR Sciver-Brunt,WK Dilhari,4,0,,,,,,"",""
+ball,1,16.2,England,ME Bouchier,NR Sciver-Brunt,WK Dilhari,1,0,,,,,,"",""
+ball,1,16.3,England,NR Sciver-Brunt,ME Bouchier,WK Dilhari,2,0,,,,,,"",""
+ball,1,16.4,England,NR Sciver-Brunt,ME Bouchier,WK Dilhari,4,0,,,,,,"",""
+ball,1,16.5,England,NR Sciver-Brunt,ME Bouchier,WK Dilhari,4,0,,,,,,"",""
+ball,1,16.6,England,NR Sciver-Brunt,ME Bouchier,WK Dilhari,0,0,,,,,,"",""
+ball,1,17.1,England,ME Bouchier,NR Sciver-Brunt,OU Ranasinghe,1,0,,,,,,"",""
+ball,1,17.2,England,NR Sciver-Brunt,ME Bouchier,OU Ranasinghe,1,0,,,,,,"",""
+ball,1,17.3,England,ME Bouchier,NR Sciver-Brunt,OU Ranasinghe,4,0,,,,,,"",""
+ball,1,17.4,England,ME Bouchier,NR Sciver-Brunt,OU Ranasinghe,1,0,,,,,,"",""
+ball,1,17.5,England,NR Sciver-Brunt,ME Bouchier,OU Ranasinghe,1,0,,,,,,"",""
+ball,1,17.6,England,ME Bouchier,NR Sciver-Brunt,OU Ranasinghe,4,0,,,,,,"",""
+ball,1,18.1,England,NR Sciver-Brunt,ME Bouchier,I Ranaweera,0,0,,,,,,"",""
+ball,1,18.2,England,NR Sciver-Brunt,ME Bouchier,I Ranaweera,1,0,,,,,,"",""
+ball,1,18.3,England,ME Bouchier,NR Sciver-Brunt,I Ranaweera,4,0,,,,,,"",""
+ball,1,18.4,England,ME Bouchier,NR Sciver-Brunt,I Ranaweera,0,0,,,,,,"",""
+ball,1,18.5,England,ME Bouchier,NR Sciver-Brunt,I Ranaweera,1,0,,,,,,"",""
+ball,1,18.6,England,NR Sciver-Brunt,ME Bouchier,I Ranaweera,1,0,,,,,,"",""
+ball,1,19.1,England,NR Sciver-Brunt,ME Bouchier,WGAKK Kulasuriya,0,0,,,,,,"",""
+ball,1,19.2,England,NR Sciver-Brunt,ME Bouchier,WGAKK Kulasuriya,2,0,,,,,,"",""
+ball,1,19.3,England,NR Sciver-Brunt,ME Bouchier,WGAKK Kulasuriya,1,0,,,,,,"",""
+ball,1,19.4,England,ME Bouchier,NR Sciver-Brunt,WGAKK Kulasuriya,1,0,,,,,,"",""
+ball,1,19.5,England,NR Sciver-Brunt,ME Bouchier,WGAKK Kulasuriya,1,0,,,,,,"",""
+ball,1,19.6,England,ME Bouchier,NR Sciver-Brunt,WGAKK Kulasuriya,2,0,,,,,,"",""
+ball,1,20.1,England,NR Sciver-Brunt,ME Bouchier,I Ranaweera,0,0,,,,,,"",""
+ball,1,20.2,England,NR Sciver-Brunt,ME Bouchier,I Ranaweera,1,0,,,,,,"",""
+ball,1,20.3,England,ME Bouchier,NR Sciver-Brunt,I Ranaweera,1,0,,,,,,"",""
+ball,1,20.4,England,NR Sciver-Brunt,ME Bouchier,I Ranaweera,0,2,,,2,,,"",""
+ball,1,20.5,England,NR Sciver-Brunt,ME Bouchier,I Ranaweera,0,0,,,,,,"",""
+ball,1,20.6,England,NR Sciver-Brunt,ME Bouchier,I Ranaweera,1,0,,,,,,"",""
+ball,1,21.1,England,NR Sciver-Brunt,ME Bouchier,WGAKK Kulasuriya,4,0,,,,,,"",""
+ball,1,21.2,England,NR Sciver-Brunt,ME Bouchier,WGAKK Kulasuriya,4,0,,,,,,"",""
+ball,1,21.3,England,NR Sciver-Brunt,ME Bouchier,WGAKK Kulasuriya,1,0,,,,,,"",""
+ball,1,21.4,England,ME Bouchier,NR Sciver-Brunt,WGAKK Kulasuriya,0,0,,,,,,"",""
+ball,1,21.5,England,ME Bouchier,NR Sciver-Brunt,WGAKK Kulasuriya,1,0,,,,,,"",""
+ball,1,21.6,England,NR Sciver-Brunt,ME Bouchier,WGAKK Kulasuriya,1,0,,,,,,"",""
+ball,1,22.1,England,NR Sciver-Brunt,ME Bouchier,KDU Prabodhani,0,0,,,,,,"",""
+ball,1,22.2,England,NR Sciver-Brunt,ME Bouchier,KDU Prabodhani,1,0,,,,,,"",""
+ball,1,22.3,England,ME Bouchier,NR Sciver-Brunt,KDU Prabodhani,1,0,,,,,,"",""
+ball,1,22.4,England,NR Sciver-Brunt,ME Bouchier,KDU Prabodhani,1,0,,,,,,"",""
+ball,1,22.5,England,ME Bouchier,NR Sciver-Brunt,KDU Prabodhani,0,0,,,,,,"",""
+ball,1,22.6,England,ME Bouchier,NR Sciver-Brunt,KDU Prabodhani,1,0,,,,,,"",""
+ball,1,23.1,England,ME Bouchier,NR Sciver-Brunt,WGAKK Kulasuriya,4,0,,,,,,"",""
+ball,1,23.2,England,ME Bouchier,NR Sciver-Brunt,WGAKK Kulasuriya,1,0,,,,,,"",""
+ball,1,23.3,England,NR Sciver-Brunt,ME Bouchier,WGAKK Kulasuriya,1,0,,,,,,"",""
+ball,1,23.4,England,ME Bouchier,NR Sciver-Brunt,WGAKK Kulasuriya,1,0,,,,,,"",""
+ball,1,23.5,England,NR Sciver-Brunt,ME Bouchier,WGAKK Kulasuriya,1,0,,,,,,"",""
+ball,1,23.6,England,ME Bouchier,NR Sciver-Brunt,WGAKK Kulasuriya,1,0,,,,,,"",""
+ball,1,24.1,England,ME Bouchier,NR Sciver-Brunt,WK Dilhari,0,0,,,,,,lbw,ME Bouchier
+ball,1,24.2,England,AE Jones,NR Sciver-Brunt,WK Dilhari,1,0,,,,,,"",""
+ball,1,24.3,England,NR Sciver-Brunt,AE Jones,WK Dilhari,4,0,,,,,,"",""
+ball,1,24.4,England,NR Sciver-Brunt,AE Jones,WK Dilhari,4,0,,,,,,"",""
+ball,1,24.5,England,NR Sciver-Brunt,AE Jones,WK Dilhari,4,0,,,,,,"",""
+ball,1,24.6,England,NR Sciver-Brunt,AE Jones,WK Dilhari,2,0,,,,,,"",""
+ball,1,25.1,England,AE Jones,NR Sciver-Brunt,I Ranaweera,1,0,,,,,,"",""
+ball,1,25.2,England,NR Sciver-Brunt,AE Jones,I Ranaweera,0,0,,,,,,"",""
+ball,1,25.3,England,NR Sciver-Brunt,AE Jones,I Ranaweera,2,0,,,,,,"",""
+ball,1,25.4,England,NR Sciver-Brunt,AE Jones,I Ranaweera,4,0,,,,,,"",""
+ball,1,25.5,England,NR Sciver-Brunt,AE Jones,I Ranaweera,0,0,,,,,,caught,NR Sciver-Brunt
+ball,1,25.6,England,BAM Heath,AE Jones,I Ranaweera,0,0,,,,,,"",""
+ball,1,26.1,England,AE Jones,BAM Heath,KDU Prabodhani,1,0,,,,,,"",""
+ball,1,26.2,England,BAM Heath,AE Jones,KDU Prabodhani,1,0,,,,,,"",""
+ball,1,26.3,England,AE Jones,BAM Heath,KDU Prabodhani,4,0,,,,,,"",""
+ball,1,26.4,England,AE Jones,BAM Heath,KDU Prabodhani,1,0,,,,,,"",""
+ball,1,26.5,England,BAM Heath,AE Jones,KDU Prabodhani,0,0,,,,,,"",""
+ball,1,26.6,England,BAM Heath,AE Jones,KDU Prabodhani,0,0,,,,,,"",""
+ball,1,27.1,England,AE Jones,BAM Heath,WK Dilhari,1,0,,,,,,"",""
+ball,1,27.2,England,BAM Heath,AE Jones,WK Dilhari,1,0,,,,,,"",""
+ball,1,27.3,England,AE Jones,BAM Heath,WK Dilhari,0,0,,,,,,caught,AE Jones
+ball,1,27.4,England,AN Davidson-Richards,BAM Heath,WK Dilhari,1,0,,,,,,"",""
+ball,1,27.5,England,BAM Heath,AN Davidson-Richards,WK Dilhari,1,0,,,,,,"",""
+ball,1,27.6,England,AN Davidson-Richards,BAM Heath,WK Dilhari,0,0,,,,,,"",""
+ball,1,28.1,England,BAM Heath,AN Davidson-Richards,WGAKK Kulasuriya,4,0,,,,,,"",""
+ball,1,28.2,England,BAM Heath,AN Davidson-Richards,WGAKK Kulasuriya,1,0,,,,,,"",""
+ball,1,28.3,England,AN Davidson-Richards,BAM Heath,WGAKK Kulasuriya,1,0,,,,,,"",""
+ball,1,28.4,England,BAM Heath,AN Davidson-Richards,WGAKK Kulasuriya,6,0,,,,,,"",""
+ball,1,28.5,England,BAM Heath,AN Davidson-Richards,WGAKK Kulasuriya,1,0,,,,,,run out,AN Davidson-Richards
+ball,1,28.6,England,BAM Heath,CE Dean,WGAKK Kulasuriya,0,0,,,,,,"",""
+ball,1,29.1,England,CE Dean,BAM Heath,WK Dilhari,1,0,,,,,,"",""
+ball,1,29.2,England,BAM Heath,CE Dean,WK Dilhari,4,0,,,,,,"",""
+ball,1,29.3,England,BAM Heath,CE Dean,WK Dilhari,2,0,,,,,,"",""
+ball,1,29.4,England,BAM Heath,CE Dean,WK Dilhari,0,0,,,,,,caught,BAM Heath
+ball,1,29.5,England,S Glenn,CE Dean,WK Dilhari,0,0,,,,,,"",""
+ball,1,29.6,England,S Glenn,CE Dean,WK Dilhari,1,0,,,,,,"",""
+ball,1,30.1,England,S Glenn,CE Dean,KDU Prabodhani,1,0,,,,,,"",""
+ball,1,30.2,England,CE Dean,S Glenn,KDU Prabodhani,0,1,,,,1,,"",""
+ball,1,30.3,England,S Glenn,CE Dean,KDU Prabodhani,4,0,,,,,,"",""
+ball,1,30.4,England,S Glenn,CE Dean,KDU Prabodhani,1,0,,,,,,"",""
+ball,1,30.5,England,CE Dean,S Glenn,KDU Prabodhani,0,0,,,,,,"",""
+ball,1,30.6,England,CE Dean,S Glenn,KDU Prabodhani,1,0,,,,,,run out,S Glenn
+ball,2,0.1,Sri Lanka,AC Jayangani,MAA Sanjeewani,L Filer,2,0,,,,,,"",""
+ball,2,0.2,Sri Lanka,AC Jayangani,MAA Sanjeewani,L Filer,1,0,,,,,,"",""
+ball,2,0.3,Sri Lanka,MAA Sanjeewani,AC Jayangani,L Filer,4,0,,,,,,"",""
+ball,2,0.4,Sri Lanka,MAA Sanjeewani,AC Jayangani,L Filer,0,0,,,,,,"",""
+ball,2,0.5,Sri Lanka,MAA Sanjeewani,AC Jayangani,L Filer,0,0,,,,,,"",""
+ball,2,0.6,Sri Lanka,MAA Sanjeewani,AC Jayangani,L Filer,0,0,,,,,,"",""
+ball,2,1.1,Sri Lanka,AC Jayangani,MAA Sanjeewani,M Gaur,1,0,,,,,,"",""
+ball,2,1.2,Sri Lanka,MAA Sanjeewani,AC Jayangani,M Gaur,0,0,,,,,,"",""
+ball,2,1.3,Sri Lanka,MAA Sanjeewani,AC Jayangani,M Gaur,1,0,,,,,,"",""
+ball,2,1.4,Sri Lanka,AC Jayangani,MAA Sanjeewani,M Gaur,0,0,,,,,,"",""
+ball,2,1.5,Sri Lanka,AC Jayangani,MAA Sanjeewani,M Gaur,0,0,,,,,,"",""
+ball,2,1.6,Sri Lanka,AC Jayangani,MAA Sanjeewani,M Gaur,0,0,,,,,,"",""
+ball,2,2.1,Sri Lanka,MAA Sanjeewani,AC Jayangani,L Filer,4,0,,,,,,"",""
+ball,2,2.2,Sri Lanka,MAA Sanjeewani,AC Jayangani,L Filer,1,0,,,,,,"",""
+ball,2,2.3,Sri Lanka,AC Jayangani,MAA Sanjeewani,L Filer,0,0,,,,,,"",""
+ball,2,2.4,Sri Lanka,AC Jayangani,MAA Sanjeewani,L Filer,0,0,,,,,,"",""
+ball,2,2.5,Sri Lanka,AC Jayangani,MAA Sanjeewani,L Filer,0,0,,,,,,"",""
+ball,2,2.6,Sri Lanka,AC Jayangani,MAA Sanjeewani,L Filer,0,0,,,,,,"",""
+ball,2,3.1,Sri Lanka,MAA Sanjeewani,AC Jayangani,M Gaur,0,0,,,,,,"",""
+ball,2,3.2,Sri Lanka,MAA Sanjeewani,AC Jayangani,M Gaur,2,0,,,,,,"",""
+ball,2,3.3,Sri Lanka,MAA Sanjeewani,AC Jayangani,M Gaur,0,0,,,,,,"",""
+ball,2,3.4,Sri Lanka,MAA Sanjeewani,AC Jayangani,M Gaur,0,0,,,,,,"",""
+ball,2,3.5,Sri Lanka,MAA Sanjeewani,AC Jayangani,M Gaur,0,0,,,,,,"",""
+ball,2,3.6,Sri Lanka,MAA Sanjeewani,AC Jayangani,M Gaur,1,0,,,,,,"",""
+ball,2,4.1,Sri Lanka,MAA Sanjeewani,AC Jayangani,L Filer,0,0,,,,,,bowled,MAA Sanjeewani
+ball,2,4.2,Sri Lanka,H Madavi,AC Jayangani,L Filer,0,0,,,,,,"",""
+ball,2,4.3,Sri Lanka,H Madavi,AC Jayangani,L Filer,1,0,,,,,,"",""
+ball,2,4.4,Sri Lanka,AC Jayangani,H Madavi,L Filer,0,0,,,,,,"",""
+ball,2,4.5,Sri Lanka,AC Jayangani,H Madavi,L Filer,0,0,,,,,,"",""
+ball,2,4.6,Sri Lanka,AC Jayangani,H Madavi,L Filer,0,0,,,,,,"",""
+ball,2,5.1,Sri Lanka,H Madavi,AC Jayangani,M Gaur,0,0,,,,,,"",""
+ball,2,5.2,Sri Lanka,H Madavi,AC Jayangani,M Gaur,0,1,1,,,,,"",""
+ball,2,5.3,Sri Lanka,H Madavi,AC Jayangani,M Gaur,0,0,,,,,,caught,H Madavi
+ball,2,5.4,Sri Lanka,I Dulani,AC Jayangani,M Gaur,0,0,,,,,,"",""
+ball,2,5.5,Sri Lanka,I Dulani,AC Jayangani,M Gaur,4,0,,,,,,"",""
+ball,2,5.6,Sri Lanka,I Dulani,AC Jayangani,M Gaur,1,0,,,,,,"",""
+ball,2,5.7,Sri Lanka,AC Jayangani,I Dulani,M Gaur,0,0,,,,,,"",""
+ball,2,6.1,Sri Lanka,I Dulani,AC Jayangani,L Filer,0,0,,,,,,"",""
+ball,2,6.2,Sri Lanka,I Dulani,AC Jayangani,L Filer,0,0,,,,,,bowled,I Dulani
+ball,2,6.3,Sri Lanka,GWHM Perera,AC Jayangani,L Filer,0,0,,,,,,"",""
+ball,2,6.4,Sri Lanka,GWHM Perera,AC Jayangani,L Filer,4,0,,,,,,"",""
+ball,2,6.5,Sri Lanka,GWHM Perera,AC Jayangani,L Filer,0,0,,,,,,"",""
+ball,2,6.6,Sri Lanka,GWHM Perera,AC Jayangani,L Filer,0,1,1,,,,,"",""
+ball,2,6.7,Sri Lanka,GWHM Perera,AC Jayangani,L Filer,1,0,,,,,,"",""
+ball,2,7.1,Sri Lanka,GWHM Perera,AC Jayangani,M Gaur,0,0,,,,,,"",""
+ball,2,7.2,Sri Lanka,GWHM Perera,AC Jayangani,M Gaur,0,0,,,,,,"",""
+ball,2,7.3,Sri Lanka,GWHM Perera,AC Jayangani,M Gaur,0,0,,,,,,"",""
+ball,2,7.4,Sri Lanka,GWHM Perera,AC Jayangani,M Gaur,4,0,,,,,,"",""
+ball,2,7.5,Sri Lanka,GWHM Perera,AC Jayangani,M Gaur,4,0,,,,,,"",""
+ball,2,7.6,Sri Lanka,GWHM Perera,AC Jayangani,M Gaur,0,0,,,,,,"",""
+ball,2,8.1,Sri Lanka,AC Jayangani,GWHM Perera,CE Dean,4,0,,,,,,"",""
+ball,2,8.2,Sri Lanka,AC Jayangani,GWHM Perera,CE Dean,0,0,,,,,,"",""
+ball,2,8.3,Sri Lanka,AC Jayangani,GWHM Perera,CE Dean,4,0,,,,,,"",""
+ball,2,8.4,Sri Lanka,AC Jayangani,GWHM Perera,CE Dean,0,0,,,,,,"",""
+ball,2,8.5,Sri Lanka,AC Jayangani,GWHM Perera,CE Dean,0,0,,,,,,lbw,AC Jayangani
+ball,2,8.6,Sri Lanka,H Karunaratne,GWHM Perera,CE Dean,0,0,,,,,,"",""
+ball,2,9.1,Sri Lanka,GWHM Perera,H Karunaratne,S Glenn,0,0,,,,,,"",""
+ball,2,9.2,Sri Lanka,GWHM Perera,H Karunaratne,S Glenn,2,0,,,,,,"",""
+ball,2,9.3,Sri Lanka,GWHM Perera,H Karunaratne,S Glenn,4,0,,,,,,"",""
+ball,2,9.4,Sri Lanka,GWHM Perera,H Karunaratne,S Glenn,0,0,,,,,,"",""
+ball,2,9.5,Sri Lanka,GWHM Perera,H Karunaratne,S Glenn,0,0,,,,,,"",""
+ball,2,9.6,Sri Lanka,GWHM Perera,H Karunaratne,S Glenn,1,0,,,,,,"",""
+ball,2,10.1,Sri Lanka,GWHM Perera,H Karunaratne,CE Dean,1,0,,,,,,"",""
+ball,2,10.2,Sri Lanka,H Karunaratne,GWHM Perera,CE Dean,1,0,,,,,,"",""
+ball,2,10.3,Sri Lanka,GWHM Perera,H Karunaratne,CE Dean,1,0,,,,,,"",""
+ball,2,10.4,Sri Lanka,H Karunaratne,GWHM Perera,CE Dean,4,0,,,,,,"",""
+ball,2,10.5,Sri Lanka,H Karunaratne,GWHM Perera,CE Dean,0,1,1,,,,,"",""
+ball,2,10.6,Sri Lanka,H Karunaratne,GWHM Perera,CE Dean,1,0,,,,,,"",""
+ball,2,10.7,Sri Lanka,GWHM Perera,H Karunaratne,CE Dean,4,0,,,,,,"",""
+ball,2,11.1,Sri Lanka,H Karunaratne,GWHM Perera,S Glenn,0,0,,,,,,"",""
+ball,2,11.2,Sri Lanka,H Karunaratne,GWHM Perera,S Glenn,2,0,,,,,,"",""
+ball,2,11.3,Sri Lanka,H Karunaratne,GWHM Perera,S Glenn,1,0,,,,,,"",""
+ball,2,11.4,Sri Lanka,GWHM Perera,H Karunaratne,S Glenn,1,0,,,,,,"",""
+ball,2,11.5,Sri Lanka,H Karunaratne,GWHM Perera,S Glenn,0,0,,,,,,"",""
+ball,2,11.6,Sri Lanka,H Karunaratne,GWHM Perera,S Glenn,1,0,,,,,,"",""
+ball,2,12.1,Sri Lanka,H Karunaratne,GWHM Perera,CE Dean,0,0,,,,,,"",""
+ball,2,12.2,Sri Lanka,H Karunaratne,GWHM Perera,CE Dean,2,0,,,,,,"",""
+ball,2,12.3,Sri Lanka,H Karunaratne,GWHM Perera,CE Dean,0,0,,,,,,"",""
+ball,2,12.4,Sri Lanka,H Karunaratne,GWHM Perera,CE Dean,1,0,,,,,,"",""
+ball,2,12.5,Sri Lanka,GWHM Perera,H Karunaratne,CE Dean,1,0,,,,,,"",""
+ball,2,12.6,Sri Lanka,H Karunaratne,GWHM Perera,CE Dean,1,0,,,,,,"",""
+ball,2,13.1,Sri Lanka,H Karunaratne,GWHM Perera,S Glenn,0,0,,,,,,"",""
+ball,2,13.2,Sri Lanka,H Karunaratne,GWHM Perera,S Glenn,0,0,,,,,,"",""
+ball,2,13.3,Sri Lanka,H Karunaratne,GWHM Perera,S Glenn,0,0,,,,,,"",""
+ball,2,13.4,Sri Lanka,H Karunaratne,GWHM Perera,S Glenn,1,0,,,,,,"",""
+ball,2,13.5,Sri Lanka,GWHM Perera,H Karunaratne,S Glenn,0,0,,,,,,"",""
+ball,2,13.6,Sri Lanka,GWHM Perera,H Karunaratne,S Glenn,4,0,,,,,,"",""
+ball,2,14.1,Sri Lanka,H Karunaratne,GWHM Perera,CE Dean,0,0,,,,,,caught and bowled,H Karunaratne
+ball,2,14.2,Sri Lanka,WK Dilhari,GWHM Perera,CE Dean,1,0,,,,,,"",""
+ball,2,14.3,Sri Lanka,GWHM Perera,WK Dilhari,CE Dean,0,0,,,,,,caught,GWHM Perera
+ball,2,14.4,Sri Lanka,OU Ranasinghe,WK Dilhari,CE Dean,0,1,,,,1,,"",""
+ball,2,14.5,Sri Lanka,WK Dilhari,OU Ranasinghe,CE Dean,0,0,,,,,,bowled,WK Dilhari
+ball,2,14.6,Sri Lanka,KDU Prabodhani,OU Ranasinghe,CE Dean,0,0,,,,,,"",""
+ball,2,15.1,Sri Lanka,OU Ranasinghe,KDU Prabodhani,S Glenn,0,0,,,,,,"",""
+ball,2,15.2,Sri Lanka,OU Ranasinghe,KDU Prabodhani,S Glenn,1,0,,,,,,"",""
+ball,2,15.3,Sri Lanka,KDU Prabodhani,OU Ranasinghe,S Glenn,1,0,,,,,,"",""
+ball,2,15.4,Sri Lanka,OU Ranasinghe,KDU Prabodhani,S Glenn,0,0,,,,,,"",""
+ball,2,15.5,Sri Lanka,OU Ranasinghe,KDU Prabodhani,S Glenn,1,0,,,,,,"",""
+ball,2,15.6,Sri Lanka,KDU Prabodhani,OU Ranasinghe,S Glenn,0,0,,,,,,"",""
+ball,2,16.1,Sri Lanka,OU Ranasinghe,KDU Prabodhani,CE Dean,0,0,,,,,,"",""
+ball,2,16.2,Sri Lanka,OU Ranasinghe,KDU Prabodhani,CE Dean,1,0,,,,,,"",""
+ball,2,16.3,Sri Lanka,KDU Prabodhani,OU Ranasinghe,CE Dean,1,0,,,,,,"",""
+ball,2,16.4,Sri Lanka,OU Ranasinghe,KDU Prabodhani,CE Dean,1,0,,,,,,"",""
+ball,2,16.5,Sri Lanka,KDU Prabodhani,OU Ranasinghe,CE Dean,0,0,,,,,,"",""
+ball,2,16.6,Sri Lanka,KDU Prabodhani,OU Ranasinghe,CE Dean,0,0,,,,,,"",""
+ball,2,17.1,Sri Lanka,OU Ranasinghe,KDU Prabodhani,S Glenn,1,0,,,,,,"",""
+ball,2,17.2,Sri Lanka,KDU Prabodhani,OU Ranasinghe,S Glenn,0,0,,,,,,"",""
+ball,2,17.3,Sri Lanka,KDU Prabodhani,OU Ranasinghe,S Glenn,0,0,,,,,,"",""
+ball,2,17.4,Sri Lanka,KDU Prabodhani,OU Ranasinghe,S Glenn,0,0,,,,,,"",""
+ball,2,17.5,Sri Lanka,KDU Prabodhani,OU Ranasinghe,S Glenn,0,0,,,,,,"",""
+ball,2,17.6,Sri Lanka,KDU Prabodhani,OU Ranasinghe,S Glenn,0,0,,,,,,"",""
+ball,2,18.1,Sri Lanka,OU Ranasinghe,KDU Prabodhani,CE Dean,0,0,,,,,,"",""
+ball,2,18.2,Sri Lanka,OU Ranasinghe,KDU Prabodhani,CE Dean,1,0,,,,,,"",""
+ball,2,18.3,Sri Lanka,KDU Prabodhani,OU Ranasinghe,CE Dean,0,0,,,,,,bowled,KDU Prabodhani
+ball,2,18.4,Sri Lanka,WGAKK Kulasuriya,OU Ranasinghe,CE Dean,0,0,,,,,,"",""
+ball,2,18.5,Sri Lanka,WGAKK Kulasuriya,OU Ranasinghe,CE Dean,0,0,,,,,,"",""
+ball,2,18.6,Sri Lanka,WGAKK Kulasuriya,OU Ranasinghe,CE Dean,0,0,,,,,,"",""
+ball,2,19.1,Sri Lanka,OU Ranasinghe,WGAKK Kulasuriya,S Glenn,0,0,,,,,,lbw,OU Ranasinghe
+ball,2,19.2,Sri Lanka,I Ranaweera,WGAKK Kulasuriya,S Glenn,0,0,,,,,,"",""
+ball,2,19.3,Sri Lanka,I Ranaweera,WGAKK Kulasuriya,S Glenn,0,0,,,,,,"",""
+ball,2,19.4,Sri Lanka,I Ranaweera,WGAKK Kulasuriya,S Glenn,0,0,,,,,,"",""
+ball,2,19.5,Sri Lanka,I Ranaweera,WGAKK Kulasuriya,S Glenn,0,0,,,,,,"",""
+ball,2,19.6,Sri Lanka,I Ranaweera,WGAKK Kulasuriya,S Glenn,0,0,,,,,,"",""
+ball,2,20.1,Sri Lanka,WGAKK Kulasuriya,I Ranaweera,L Filer,4,0,,,,,,"",""
+ball,2,20.2,Sri Lanka,WGAKK Kulasuriya,I Ranaweera,L Filer,0,0,,,,,,"",""
+ball,2,20.3,Sri Lanka,WGAKK Kulasuriya,I Ranaweera,L Filer,0,0,,,,,,"",""
+ball,2,20.4,Sri Lanka,WGAKK Kulasuriya,I Ranaweera,L Filer,0,0,,,,,,"",""
+ball,2,20.5,Sri Lanka,WGAKK Kulasuriya,I Ranaweera,L Filer,0,0,,,,,,"",""
+ball,2,20.6,Sri Lanka,WGAKK Kulasuriya,I Ranaweera,L Filer,0,0,,,,,,"",""
+ball,2,21.1,Sri Lanka,I Ranaweera,WGAKK Kulasuriya,M Gaur,0,0,,,,,,"",""
+ball,2,21.2,Sri Lanka,I Ranaweera,WGAKK Kulasuriya,M Gaur,0,0,,,,,,"",""
+ball,2,21.3,Sri Lanka,I Ranaweera,WGAKK Kulasuriya,M Gaur,1,0,,,,,,"",""
+ball,2,21.4,Sri Lanka,WGAKK Kulasuriya,I Ranaweera,M Gaur,0,0,,,,,,"",""
+ball,2,21.5,Sri Lanka,WGAKK Kulasuriya,I Ranaweera,M Gaur,0,0,,,,,,"",""
+ball,2,21.6,Sri Lanka,WGAKK Kulasuriya,I Ranaweera,M Gaur,4,0,,,,,,"",""
+ball,2,22.1,Sri Lanka,I Ranaweera,WGAKK Kulasuriya,L Filer,0,0,,,,,,"",""
+ball,2,22.2,Sri Lanka,I Ranaweera,WGAKK Kulasuriya,L Filer,1,0,,,,,,"",""
+ball,2,22.3,Sri Lanka,WGAKK Kulasuriya,I Ranaweera,L Filer,0,0,,,,,,"",""
+ball,2,22.4,Sri Lanka,WGAKK Kulasuriya,I Ranaweera,L Filer,0,0,,,,,,"",""
+ball,2,22.5,Sri Lanka,WGAKK Kulasuriya,I Ranaweera,L Filer,0,0,,,,,,"",""
+ball,2,22.6,Sri Lanka,WGAKK Kulasuriya,I Ranaweera,L Filer,0,1,,1,,,,"",""
+ball,2,22.7,Sri Lanka,WGAKK Kulasuriya,I Ranaweera,L Filer,0,0,,,,,,"",""
+ball,2,23.1,Sri Lanka,I Ranaweera,WGAKK Kulasuriya,M Gaur,4,0,,,,,,"",""
+ball,2,23.2,Sri Lanka,I Ranaweera,WGAKK Kulasuriya,M Gaur,0,0,,,,,,"",""
+ball,2,23.3,Sri Lanka,I Ranaweera,WGAKK Kulasuriya,M Gaur,0,0,,,,,,"",""
+ball,2,23.4,Sri Lanka,I Ranaweera,WGAKK Kulasuriya,M Gaur,1,0,,,,,,"",""
+ball,2,23.5,Sri Lanka,WGAKK Kulasuriya,I Ranaweera,M Gaur,0,0,,,,,,"",""
+ball,2,23.6,Sri Lanka,WGAKK Kulasuriya,I Ranaweera,M Gaur,0,0,,,,,,"",""
+ball,2,24.1,Sri Lanka,I Ranaweera,WGAKK Kulasuriya,L Filer,0,0,,,,,,"",""
+ball,2,24.2,Sri Lanka,I Ranaweera,WGAKK Kulasuriya,L Filer,0,0,,,,,,"",""
+ball,2,24.3,Sri Lanka,I Ranaweera,WGAKK Kulasuriya,L Filer,1,0,,,,,,"",""
+ball,2,24.4,Sri Lanka,WGAKK Kulasuriya,I Ranaweera,L Filer,4,0,,,,,,"",""
+ball,2,24.5,Sri Lanka,WGAKK Kulasuriya,I Ranaweera,L Filer,0,0,,,,,,bowled,WGAKK Kulasuriya

@@ -1,0 +1,277 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Mexico
+info,team,Cayman Islands
+info,gender,male
+info,season,2025/26
+info,date,2026/03/09
+info,event,ICC Men's T20 World Cup Sub Regional Americas Qualifier B
+info,match_number,4
+info,venue,"Jimmy Powell Oval, Cayman Islands"
+info,city,George Town
+info,toss_winner,Mexico
+info,toss_decision,bat
+info,player_of_match,R Edwards
+info,umpire,Jermaine Lindo
+info,umpire,R Shah
+info,reserve_umpire,A Gajjar
+info,match_referee,Denavon Hayles
+info,winner,Cayman Islands
+info,winner_wickets,9
+info,player,Mexico,R Galgalikar
+info,player,Mexico,Kaushal Kumar
+info,player,Mexico,Gurpreet Singh
+info,player,Mexico,KB Patil
+info,player,Mexico,S Kochar
+info,player,Mexico,Amir Butt
+info,player,Mexico,Shantanu Kaveri
+info,player,Mexico,J Byrappa
+info,player,Mexico,D Panda
+info,player,Mexico,Shoaib Rafiq
+info,player,Mexico,Pratik Singh Bais
+info,player,Cayman Islands,J Baker
+info,player,Cayman Islands,YSD Seneveratne
+info,player,Cayman Islands,AR Naidoo
+info,player,Cayman Islands,RA Sealy
+info,player,Cayman Islands,A Wright
+info,player,Cayman Islands,C Wright
+info,player,Cayman Islands,AF Ifill
+info,player,Cayman Islands,ROC Dunka
+info,player,Cayman Islands,S Foster
+info,player,Cayman Islands,R Edwards
+info,player,Cayman Islands,V Dhaniram
+info,registry,people,A Gajjar,37db06ef
+info,registry,people,A Wright,4bb7f51e
+info,registry,people,AF Ifill,0e6c2f00
+info,registry,people,AR Naidoo,68886c16
+info,registry,people,Amir Butt,5bdf2343
+info,registry,people,C Wright,d465c6d7
+info,registry,people,D Panda,bad1af65
+info,registry,people,Denavon Hayles,5cbeeb02
+info,registry,people,Gurpreet Singh,f43dcdc1
+info,registry,people,J Baker,a12672e0
+info,registry,people,J Byrappa,860f7b67
+info,registry,people,Jermaine Lindo,1154bf4f
+info,registry,people,KB Patil,0474fd64
+info,registry,people,Kaushal Kumar,8cc37805
+info,registry,people,Pratik Singh Bais,5b351aff
+info,registry,people,R Edwards,4c5a72e2
+info,registry,people,R Galgalikar,3f951265
+info,registry,people,R Shah,3424e050
+info,registry,people,RA Sealy,1e98804a
+info,registry,people,ROC Dunka,762f43b7
+info,registry,people,S Foster,3595ad3b
+info,registry,people,S Kochar,da2eeb97
+info,registry,people,Shantanu Kaveri,091880f7
+info,registry,people,Shoaib Rafiq,27df03d2
+info,registry,people,V Dhaniram,10885753
+info,registry,people,YSD Seneveratne,0f71478c
+ball,1,0.1,Mexico,R Galgalikar,Kaushal Kumar,ROC Dunka,1,0,,,,,,"",""
+ball,1,0.2,Mexico,Kaushal Kumar,R Galgalikar,ROC Dunka,0,0,,,,,,"",""
+ball,1,0.3,Mexico,Kaushal Kumar,R Galgalikar,ROC Dunka,1,0,,,,,,"",""
+ball,1,0.4,Mexico,R Galgalikar,Kaushal Kumar,ROC Dunka,4,0,,,,,,"",""
+ball,1,0.5,Mexico,R Galgalikar,Kaushal Kumar,ROC Dunka,0,1,1,,,,,"",""
+ball,1,0.6,Mexico,R Galgalikar,Kaushal Kumar,ROC Dunka,0,0,,,,,,"",""
+ball,1,0.7,Mexico,R Galgalikar,Kaushal Kumar,ROC Dunka,0,0,,,,,,"",""
+ball,1,1.1,Mexico,Kaushal Kumar,R Galgalikar,A Wright,0,0,,,,,,"",""
+ball,1,1.2,Mexico,Kaushal Kumar,R Galgalikar,A Wright,1,0,,,,,,"",""
+ball,1,1.3,Mexico,R Galgalikar,Kaushal Kumar,A Wright,0,1,1,,,,,"",""
+ball,1,1.4,Mexico,R Galgalikar,Kaushal Kumar,A Wright,0,0,,,,,,"",""
+ball,1,1.5,Mexico,R Galgalikar,Kaushal Kumar,A Wright,2,0,,,,,,"",""
+ball,1,1.6,Mexico,R Galgalikar,Kaushal Kumar,A Wright,1,0,,,,,,"",""
+ball,1,1.7,Mexico,Kaushal Kumar,R Galgalikar,A Wright,1,0,,,,,,"",""
+ball,1,2.1,Mexico,Kaushal Kumar,R Galgalikar,ROC Dunka,0,1,1,,,,,"",""
+ball,1,2.2,Mexico,Kaushal Kumar,R Galgalikar,ROC Dunka,1,0,,,,,,"",""
+ball,1,2.3,Mexico,R Galgalikar,Kaushal Kumar,ROC Dunka,0,0,,,,,,"",""
+ball,1,2.4,Mexico,R Galgalikar,Kaushal Kumar,ROC Dunka,0,5,5,,,,,"",""
+ball,1,2.5,Mexico,R Galgalikar,Kaushal Kumar,ROC Dunka,0,0,,,,,,"",""
+ball,1,2.6,Mexico,R Galgalikar,Kaushal Kumar,ROC Dunka,4,0,,,,,,"",""
+ball,1,2.7,Mexico,R Galgalikar,Kaushal Kumar,ROC Dunka,1,0,,,,,,"",""
+ball,1,2.8,Mexico,Kaushal Kumar,R Galgalikar,ROC Dunka,1,0,,,,,,"",""
+ball,1,3.1,Mexico,Kaushal Kumar,R Galgalikar,A Wright,0,0,,,,,,"",""
+ball,1,3.2,Mexico,Kaushal Kumar,R Galgalikar,A Wright,0,0,,,,,,"",""
+ball,1,3.3,Mexico,Kaushal Kumar,R Galgalikar,A Wright,0,0,,,,,,"",""
+ball,1,3.4,Mexico,Kaushal Kumar,R Galgalikar,A Wright,1,0,,,,,,"",""
+ball,1,3.5,Mexico,R Galgalikar,Kaushal Kumar,A Wright,1,0,,,,,,"",""
+ball,1,3.6,Mexico,Kaushal Kumar,R Galgalikar,A Wright,0,0,,,,,,"",""
+ball,1,4.1,Mexico,R Galgalikar,Kaushal Kumar,V Dhaniram,0,0,,,,,,"",""
+ball,1,4.2,Mexico,R Galgalikar,Kaushal Kumar,V Dhaniram,1,0,,,,,,"",""
+ball,1,4.3,Mexico,Kaushal Kumar,R Galgalikar,V Dhaniram,0,0,,,,,,"",""
+ball,1,4.4,Mexico,Kaushal Kumar,R Galgalikar,V Dhaniram,0,0,,,,,,"",""
+ball,1,4.5,Mexico,Kaushal Kumar,R Galgalikar,V Dhaniram,4,0,,,,,,"",""
+ball,1,4.6,Mexico,Kaushal Kumar,R Galgalikar,V Dhaniram,0,0,,,,,,"",""
+ball,1,5.1,Mexico,R Galgalikar,Kaushal Kumar,R Edwards,0,0,,,,,,bowled,R Galgalikar
+ball,1,5.2,Mexico,Gurpreet Singh,Kaushal Kumar,R Edwards,0,0,,,,,,"",""
+ball,1,5.3,Mexico,Gurpreet Singh,Kaushal Kumar,R Edwards,0,0,,,,,,"",""
+ball,1,5.4,Mexico,Gurpreet Singh,Kaushal Kumar,R Edwards,0,0,,,,,,"",""
+ball,1,5.5,Mexico,Gurpreet Singh,Kaushal Kumar,R Edwards,2,0,,,,,,"",""
+ball,1,5.6,Mexico,Gurpreet Singh,Kaushal Kumar,R Edwards,2,0,,,,,,"",""
+ball,1,6.1,Mexico,Kaushal Kumar,Gurpreet Singh,V Dhaniram,1,0,,,,,,"",""
+ball,1,6.2,Mexico,Gurpreet Singh,Kaushal Kumar,V Dhaniram,1,0,,,,,,"",""
+ball,1,6.3,Mexico,Kaushal Kumar,Gurpreet Singh,V Dhaniram,0,0,,,,,,"",""
+ball,1,6.4,Mexico,Kaushal Kumar,Gurpreet Singh,V Dhaniram,0,0,,,,,,"",""
+ball,1,6.5,Mexico,Kaushal Kumar,Gurpreet Singh,V Dhaniram,4,0,,,,,,"",""
+ball,1,6.6,Mexico,Kaushal Kumar,Gurpreet Singh,V Dhaniram,0,0,,,,,,"",""
+ball,1,7.1,Mexico,Gurpreet Singh,Kaushal Kumar,R Edwards,1,0,,,,,,"",""
+ball,1,7.2,Mexico,Kaushal Kumar,Gurpreet Singh,R Edwards,0,0,,,,,,bowled,Kaushal Kumar
+ball,1,7.3,Mexico,KB Patil,Gurpreet Singh,R Edwards,0,0,,,,,,lbw,KB Patil
+ball,1,7.4,Mexico,S Kochar,Gurpreet Singh,R Edwards,0,0,,,,,,"",""
+ball,1,7.5,Mexico,S Kochar,Gurpreet Singh,R Edwards,0,0,,,,,,bowled,S Kochar
+ball,1,7.6,Mexico,Amir Butt,Gurpreet Singh,R Edwards,0,0,,,,,,"",""
+ball,1,8.1,Mexico,Gurpreet Singh,Amir Butt,V Dhaniram,0,0,,,,,,"",""
+ball,1,8.2,Mexico,Gurpreet Singh,Amir Butt,V Dhaniram,0,0,,,,,,"",""
+ball,1,8.3,Mexico,Gurpreet Singh,Amir Butt,V Dhaniram,1,0,,,,,,"",""
+ball,1,8.4,Mexico,Amir Butt,Gurpreet Singh,V Dhaniram,0,0,,,,,,"",""
+ball,1,8.5,Mexico,Amir Butt,Gurpreet Singh,V Dhaniram,0,0,,,,,,"",""
+ball,1,8.6,Mexico,Amir Butt,Gurpreet Singh,V Dhaniram,0,0,,,,,,"",""
+ball,1,9.1,Mexico,Gurpreet Singh,Amir Butt,R Edwards,2,0,,,,,,"",""
+ball,1,9.2,Mexico,Gurpreet Singh,Amir Butt,R Edwards,0,0,,,,,,"",""
+ball,1,9.3,Mexico,Gurpreet Singh,Amir Butt,R Edwards,0,0,,,,,,"",""
+ball,1,9.4,Mexico,Gurpreet Singh,Amir Butt,R Edwards,1,0,,,,,,"",""
+ball,1,9.5,Mexico,Amir Butt,Gurpreet Singh,R Edwards,0,0,,,,,,"",""
+ball,1,9.6,Mexico,Amir Butt,Gurpreet Singh,R Edwards,4,0,,,,,,"",""
+ball,1,10.1,Mexico,Gurpreet Singh,Amir Butt,AF Ifill,0,0,,,,,,"",""
+ball,1,10.2,Mexico,Gurpreet Singh,Amir Butt,AF Ifill,1,0,,,,,,"",""
+ball,1,10.3,Mexico,Amir Butt,Gurpreet Singh,AF Ifill,2,0,,,,,,"",""
+ball,1,10.4,Mexico,Amir Butt,Gurpreet Singh,AF Ifill,1,0,,,,,,"",""
+ball,1,10.5,Mexico,Gurpreet Singh,Amir Butt,AF Ifill,0,0,,,,,,"",""
+ball,1,10.6,Mexico,Gurpreet Singh,Amir Butt,AF Ifill,1,0,,,,,,"",""
+ball,1,11.1,Mexico,Gurpreet Singh,Amir Butt,C Wright,1,0,,,,,,"",""
+ball,1,11.2,Mexico,Amir Butt,Gurpreet Singh,C Wright,0,0,,,,,,"",""
+ball,1,11.3,Mexico,Amir Butt,Gurpreet Singh,C Wright,0,0,,,,,,caught,Amir Butt
+ball,1,11.4,Mexico,Shantanu Kaveri,Gurpreet Singh,C Wright,0,0,,,,,,"",""
+ball,1,11.5,Mexico,Shantanu Kaveri,Gurpreet Singh,C Wright,0,0,,,,,,"",""
+ball,1,11.6,Mexico,Shantanu Kaveri,Gurpreet Singh,C Wright,0,0,,,,,,"",""
+ball,1,12.1,Mexico,Gurpreet Singh,Shantanu Kaveri,AF Ifill,0,0,,,,,,"",""
+ball,1,12.2,Mexico,Gurpreet Singh,Shantanu Kaveri,AF Ifill,4,0,,,,,,"",""
+ball,1,12.3,Mexico,Gurpreet Singh,Shantanu Kaveri,AF Ifill,1,0,,,,,,"",""
+ball,1,12.4,Mexico,Shantanu Kaveri,Gurpreet Singh,AF Ifill,1,0,,,,,,"",""
+ball,1,12.5,Mexico,Gurpreet Singh,Shantanu Kaveri,AF Ifill,1,0,,,,,,"",""
+ball,1,12.6,Mexico,Shantanu Kaveri,Gurpreet Singh,AF Ifill,0,0,,,,,,"",""
+ball,1,13.1,Mexico,Gurpreet Singh,Shantanu Kaveri,C Wright,1,0,,,,,,"",""
+ball,1,13.2,Mexico,Shantanu Kaveri,Gurpreet Singh,C Wright,1,0,,,,,,"",""
+ball,1,13.3,Mexico,Gurpreet Singh,Shantanu Kaveri,C Wright,1,0,,,,,,"",""
+ball,1,13.4,Mexico,Shantanu Kaveri,Gurpreet Singh,C Wright,0,0,,,,,,"",""
+ball,1,13.5,Mexico,Shantanu Kaveri,Gurpreet Singh,C Wright,0,1,1,,,,,"",""
+ball,1,13.6,Mexico,Shantanu Kaveri,Gurpreet Singh,C Wright,0,0,,,,,,"",""
+ball,1,13.7,Mexico,Shantanu Kaveri,Gurpreet Singh,C Wright,0,0,,,,,,"",""
+ball,1,14.1,Mexico,Gurpreet Singh,Shantanu Kaveri,AF Ifill,0,0,,,,,,"",""
+ball,1,14.2,Mexico,Gurpreet Singh,Shantanu Kaveri,AF Ifill,0,0,,,,,,caught,Gurpreet Singh
+ball,1,14.3,Mexico,J Byrappa,Shantanu Kaveri,AF Ifill,0,0,,,,,,"",""
+ball,1,14.4,Mexico,J Byrappa,Shantanu Kaveri,AF Ifill,2,0,,,,,,"",""
+ball,1,14.5,Mexico,J Byrappa,Shantanu Kaveri,AF Ifill,0,0,,,,,,"",""
+ball,1,14.6,Mexico,J Byrappa,Shantanu Kaveri,AF Ifill,0,0,,,,,,"",""
+ball,1,15.1,Mexico,Shantanu Kaveri,J Byrappa,A Wright,0,0,,,,,,"",""
+ball,1,15.2,Mexico,Shantanu Kaveri,J Byrappa,A Wright,0,0,,,,,,"",""
+ball,1,15.3,Mexico,Shantanu Kaveri,J Byrappa,A Wright,1,0,,,,,,"",""
+ball,1,15.4,Mexico,J Byrappa,Shantanu Kaveri,A Wright,0,0,,,,,,"",""
+ball,1,15.5,Mexico,J Byrappa,Shantanu Kaveri,A Wright,1,0,,,,,,"",""
+ball,1,15.6,Mexico,Shantanu Kaveri,J Byrappa,A Wright,1,0,,,,,,"",""
+ball,1,16.1,Mexico,Shantanu Kaveri,J Byrappa,AF Ifill,1,0,,,,,,"",""
+ball,1,16.2,Mexico,J Byrappa,Shantanu Kaveri,AF Ifill,0,0,,,,,,"",""
+ball,1,16.3,Mexico,J Byrappa,Shantanu Kaveri,AF Ifill,0,0,,,,,,"",""
+ball,1,16.4,Mexico,J Byrappa,Shantanu Kaveri,AF Ifill,1,0,,,,,,"",""
+ball,1,16.5,Mexico,Shantanu Kaveri,J Byrappa,AF Ifill,1,0,,,,,,"",""
+ball,1,16.6,Mexico,J Byrappa,Shantanu Kaveri,AF Ifill,1,0,,,,,,"",""
+ball,1,17.1,Mexico,J Byrappa,Shantanu Kaveri,A Wright,0,0,,,,,,caught,J Byrappa
+ball,1,17.2,Mexico,D Panda,Shantanu Kaveri,A Wright,1,0,,,,,,"",""
+ball,1,17.3,Mexico,Shantanu Kaveri,D Panda,A Wright,1,0,,,,,,"",""
+ball,1,17.4,Mexico,D Panda,Shantanu Kaveri,A Wright,0,0,,,,,,"",""
+ball,1,17.5,Mexico,D Panda,Shantanu Kaveri,A Wright,2,0,,,,,,"",""
+ball,1,17.6,Mexico,D Panda,Shantanu Kaveri,A Wright,0,0,,,,,,"",""
+ball,1,18.1,Mexico,Shantanu Kaveri,D Panda,ROC Dunka,4,0,,,,,,"",""
+ball,1,18.2,Mexico,Shantanu Kaveri,D Panda,ROC Dunka,0,0,,,,,,"",""
+ball,1,18.3,Mexico,Shantanu Kaveri,D Panda,ROC Dunka,1,0,,,,,,"",""
+ball,1,18.4,Mexico,D Panda,Shantanu Kaveri,ROC Dunka,1,0,,,,,,"",""
+ball,1,18.5,Mexico,Shantanu Kaveri,D Panda,ROC Dunka,0,0,,,,,,"",""
+ball,1,18.6,Mexico,Shantanu Kaveri,D Panda,ROC Dunka,2,0,,,,,,"",""
+ball,1,19.1,Mexico,D Panda,Shantanu Kaveri,R Edwards,1,0,,,,,,"",""
+ball,1,19.2,Mexico,Shantanu Kaveri,D Panda,R Edwards,0,0,,,,,,run out,Shantanu Kaveri
+ball,1,19.3,Mexico,Shoaib Rafiq,D Panda,R Edwards,0,0,,,,,,"",""
+ball,1,19.4,Mexico,Shoaib Rafiq,D Panda,R Edwards,1,0,,,,,,"",""
+ball,1,19.5,Mexico,D Panda,Shoaib Rafiq,R Edwards,2,0,,,,,,"",""
+ball,1,19.6,Mexico,D Panda,Shoaib Rafiq,R Edwards,0,0,,,,,,caught,D Panda
+ball,2,0.1,Cayman Islands,J Baker,YSD Seneveratne,Pratik Singh Bais,0,0,,,,,,"",""
+ball,2,0.2,Cayman Islands,J Baker,YSD Seneveratne,Pratik Singh Bais,0,0,,,,,,"",""
+ball,2,0.3,Cayman Islands,J Baker,YSD Seneveratne,Pratik Singh Bais,1,0,,,,,,"",""
+ball,2,0.4,Cayman Islands,YSD Seneveratne,J Baker,Pratik Singh Bais,1,0,,,,,,"",""
+ball,2,0.5,Cayman Islands,J Baker,YSD Seneveratne,Pratik Singh Bais,2,0,,,,,,"",""
+ball,2,0.6,Cayman Islands,J Baker,YSD Seneveratne,Pratik Singh Bais,0,0,,,,,,"",""
+ball,2,1.1,Cayman Islands,YSD Seneveratne,J Baker,Gurpreet Singh,0,0,,,,,,"",""
+ball,2,1.2,Cayman Islands,YSD Seneveratne,J Baker,Gurpreet Singh,1,0,,,,,,"",""
+ball,2,1.3,Cayman Islands,J Baker,YSD Seneveratne,Gurpreet Singh,4,0,,,,,,"",""
+ball,2,1.4,Cayman Islands,J Baker,YSD Seneveratne,Gurpreet Singh,4,0,,,,,,"",""
+ball,2,1.5,Cayman Islands,J Baker,YSD Seneveratne,Gurpreet Singh,0,0,,,,,,"",""
+ball,2,1.6,Cayman Islands,J Baker,YSD Seneveratne,Gurpreet Singh,1,0,,,,,,"",""
+ball,2,2.1,Cayman Islands,J Baker,YSD Seneveratne,Pratik Singh Bais,2,0,,,,,,"",""
+ball,2,2.2,Cayman Islands,J Baker,YSD Seneveratne,Pratik Singh Bais,0,0,,,,,,"",""
+ball,2,2.3,Cayman Islands,J Baker,YSD Seneveratne,Pratik Singh Bais,0,0,,,,,,"",""
+ball,2,2.4,Cayman Islands,J Baker,YSD Seneveratne,Pratik Singh Bais,1,0,,,,,,"",""
+ball,2,2.5,Cayman Islands,YSD Seneveratne,J Baker,Pratik Singh Bais,1,0,,,,,,"",""
+ball,2,2.6,Cayman Islands,J Baker,YSD Seneveratne,Pratik Singh Bais,0,0,,,,,,"",""
+ball,2,3.1,Cayman Islands,YSD Seneveratne,J Baker,Gurpreet Singh,0,0,,,,,,"",""
+ball,2,3.2,Cayman Islands,YSD Seneveratne,J Baker,Gurpreet Singh,4,0,,,,,,"",""
+ball,2,3.3,Cayman Islands,YSD Seneveratne,J Baker,Gurpreet Singh,0,0,,,,,,"",""
+ball,2,3.4,Cayman Islands,YSD Seneveratne,J Baker,Gurpreet Singh,0,0,,,,,,"",""
+ball,2,3.5,Cayman Islands,YSD Seneveratne,J Baker,Gurpreet Singh,0,0,,,,,,"",""
+ball,2,3.6,Cayman Islands,YSD Seneveratne,J Baker,Gurpreet Singh,1,0,,,,,,"",""
+ball,2,4.1,Cayman Islands,YSD Seneveratne,J Baker,Shoaib Rafiq,1,0,,,,,,"",""
+ball,2,4.2,Cayman Islands,J Baker,YSD Seneveratne,Shoaib Rafiq,0,0,,,,,,"",""
+ball,2,4.3,Cayman Islands,J Baker,YSD Seneveratne,Shoaib Rafiq,4,0,,,,,,"",""
+ball,2,4.4,Cayman Islands,J Baker,YSD Seneveratne,Shoaib Rafiq,2,0,,,,,,"",""
+ball,2,4.5,Cayman Islands,J Baker,YSD Seneveratne,Shoaib Rafiq,0,1,1,,,,,"",""
+ball,2,4.6,Cayman Islands,J Baker,YSD Seneveratne,Shoaib Rafiq,2,0,,,,,,"",""
+ball,2,4.7,Cayman Islands,J Baker,YSD Seneveratne,Shoaib Rafiq,0,0,,,,,,"",""
+ball,2,5.1,Cayman Islands,YSD Seneveratne,J Baker,Gurpreet Singh,0,0,,,,,,"",""
+ball,2,5.2,Cayman Islands,YSD Seneveratne,J Baker,Gurpreet Singh,0,0,,,,,,"",""
+ball,2,5.3,Cayman Islands,YSD Seneveratne,J Baker,Gurpreet Singh,0,0,,,,,,"",""
+ball,2,5.4,Cayman Islands,YSD Seneveratne,J Baker,Gurpreet Singh,1,0,,,,,,"",""
+ball,2,5.5,Cayman Islands,J Baker,YSD Seneveratne,Gurpreet Singh,4,0,,,,,,"",""
+ball,2,5.6,Cayman Islands,J Baker,YSD Seneveratne,Gurpreet Singh,2,0,,,,,,"",""
+ball,2,6.1,Cayman Islands,YSD Seneveratne,J Baker,D Panda,1,0,,,,,,"",""
+ball,2,6.2,Cayman Islands,J Baker,YSD Seneveratne,D Panda,0,0,,,,,,"",""
+ball,2,6.3,Cayman Islands,J Baker,YSD Seneveratne,D Panda,4,0,,,,,,"",""
+ball,2,6.4,Cayman Islands,J Baker,YSD Seneveratne,D Panda,1,0,,,,,,"",""
+ball,2,6.5,Cayman Islands,YSD Seneveratne,J Baker,D Panda,2,0,,,,,,"",""
+ball,2,6.6,Cayman Islands,YSD Seneveratne,J Baker,D Panda,1,0,,,,,,"",""
+ball,2,7.1,Cayman Islands,YSD Seneveratne,J Baker,Shoaib Rafiq,0,1,1,,,,,"",""
+ball,2,7.2,Cayman Islands,YSD Seneveratne,J Baker,Shoaib Rafiq,0,0,,,,,,"",""
+ball,2,7.3,Cayman Islands,YSD Seneveratne,J Baker,Shoaib Rafiq,1,0,,,,,,"",""
+ball,2,7.4,Cayman Islands,J Baker,YSD Seneveratne,Shoaib Rafiq,4,0,,,,,,"",""
+ball,2,7.5,Cayman Islands,J Baker,YSD Seneveratne,Shoaib Rafiq,0,0,,,,,,"",""
+ball,2,7.6,Cayman Islands,J Baker,YSD Seneveratne,Shoaib Rafiq,0,0,,,,,,"",""
+ball,2,7.7,Cayman Islands,J Baker,YSD Seneveratne,Shoaib Rafiq,2,0,,,,,,"",""
+ball,2,8.1,Cayman Islands,YSD Seneveratne,J Baker,D Panda,1,0,,,,,,"",""
+ball,2,8.2,Cayman Islands,J Baker,YSD Seneveratne,D Panda,0,0,,,,,,caught,J Baker
+ball,2,8.3,Cayman Islands,AR Naidoo,YSD Seneveratne,D Panda,0,0,,,,,,"",""
+ball,2,8.4,Cayman Islands,AR Naidoo,YSD Seneveratne,D Panda,1,0,,,,,,"",""
+ball,2,8.5,Cayman Islands,YSD Seneveratne,AR Naidoo,D Panda,1,0,,,,,,"",""
+ball,2,8.6,Cayman Islands,AR Naidoo,YSD Seneveratne,D Panda,0,0,,,,,,"",""
+ball,2,9.1,Cayman Islands,YSD Seneveratne,AR Naidoo,Shoaib Rafiq,1,0,,,,,,"",""
+ball,2,9.2,Cayman Islands,AR Naidoo,YSD Seneveratne,Shoaib Rafiq,1,0,,,,,,"",""
+ball,2,9.3,Cayman Islands,YSD Seneveratne,AR Naidoo,Shoaib Rafiq,1,0,,,,,,"",""
+ball,2,9.4,Cayman Islands,AR Naidoo,YSD Seneveratne,Shoaib Rafiq,0,0,,,,,,"",""
+ball,2,9.5,Cayman Islands,AR Naidoo,YSD Seneveratne,Shoaib Rafiq,0,0,,,,,,"",""
+ball,2,9.6,Cayman Islands,AR Naidoo,YSD Seneveratne,Shoaib Rafiq,4,0,,,,,,"",""
+ball,2,10.1,Cayman Islands,YSD Seneveratne,AR Naidoo,D Panda,2,0,,,,,,"",""
+ball,2,10.2,Cayman Islands,YSD Seneveratne,AR Naidoo,D Panda,0,0,,,,,,"",""
+ball,2,10.3,Cayman Islands,YSD Seneveratne,AR Naidoo,D Panda,2,0,,,,,,"",""
+ball,2,10.4,Cayman Islands,YSD Seneveratne,AR Naidoo,D Panda,1,0,,,,,,"",""
+ball,2,10.5,Cayman Islands,AR Naidoo,YSD Seneveratne,D Panda,0,0,,,,,,"",""
+ball,2,10.6,Cayman Islands,AR Naidoo,YSD Seneveratne,D Panda,1,0,,,,,,"",""
+ball,2,11.1,Cayman Islands,AR Naidoo,YSD Seneveratne,Amir Butt,0,1,,,,1,,"",""
+ball,2,11.2,Cayman Islands,YSD Seneveratne,AR Naidoo,Amir Butt,1,0,,,,,,"",""
+ball,2,11.3,Cayman Islands,AR Naidoo,YSD Seneveratne,Amir Butt,2,0,,,,,,"",""
+ball,2,11.4,Cayman Islands,AR Naidoo,YSD Seneveratne,Amir Butt,0,0,,,,,,"",""
+ball,2,11.5,Cayman Islands,AR Naidoo,YSD Seneveratne,Amir Butt,0,0,,,,,,"",""
+ball,2,11.6,Cayman Islands,AR Naidoo,YSD Seneveratne,Amir Butt,1,0,,,,,,"",""
+ball,2,12.1,Cayman Islands,AR Naidoo,YSD Seneveratne,D Panda,1,0,,,,,,"",""
+ball,2,12.2,Cayman Islands,YSD Seneveratne,AR Naidoo,D Panda,1,0,,,,,,"",""
+ball,2,12.3,Cayman Islands,AR Naidoo,YSD Seneveratne,D Panda,1,0,,,,,,"",""
+ball,2,12.4,Cayman Islands,YSD Seneveratne,AR Naidoo,D Panda,1,0,,,,,,"",""
+ball,2,12.5,Cayman Islands,AR Naidoo,YSD Seneveratne,D Panda,6,0,,,,,,"",""
+ball,2,12.6,Cayman Islands,AR Naidoo,YSD Seneveratne,D Panda,0,0,,,,,,"",""
+ball,2,13.1,Cayman Islands,YSD Seneveratne,AR Naidoo,Amir Butt,4,0,,,,,,"",""
+ball,2,13.2,Cayman Islands,YSD Seneveratne,AR Naidoo,Amir Butt,1,0,,,,,,"",""
+ball,2,13.3,Cayman Islands,AR Naidoo,YSD Seneveratne,Amir Butt,1,0,,,,,,"",""
+ball,2,13.4,Cayman Islands,YSD Seneveratne,AR Naidoo,Amir Butt,0,1,1,,,,,"",""

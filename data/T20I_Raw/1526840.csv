@@ -1,0 +1,278 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Malawi
+info,team,Tanzania
+info,gender,male
+info,season,2025/26
+info,date,2026/03/24
+info,event,ICC Men's T20 World Cup Africa Sub Regional Qualifier B
+info,match_number,1
+info,venue,"Achimota Senior Secondary School A Field, Accra"
+info,city,Accra
+info,toss_winner,Tanzania
+info,toss_decision,field
+info,player_of_match,Arun Yadav
+info,umpire,D Odhiambo
+info,umpire,Habib Enesi
+info,reserve_umpire,A Kassam
+info,match_referee,O Chirombe
+info,winner,Tanzania
+info,winner_wickets,8
+info,player,Malawi,A Limdawala
+info,player,Malawi,G Kansonkho
+info,player,Malawi,Sami Sohail
+info,player,Malawi,D Kansonkho
+info,player,Malawi,M Choamba
+info,player,Malawi,Kazim Somani
+info,player,Malawi,SZ Vayani
+info,player,Malawi,D Jakiel
+info,player,Malawi,B Pondani
+info,player,Malawi,K Thuchila
+info,player,Malawi,C Chete
+info,player,Tanzania,DA Mehta
+info,player,Tanzania,II Selemani
+info,player,Tanzania,A Augastin
+info,player,Tanzania,Arun Yadav
+info,player,Tanzania,AM Kimote
+info,player,Tanzania,K Nassoro
+info,player,Tanzania,K Juma
+info,player,Tanzania,LS Barkania
+info,player,Tanzania,MS Kibwana
+info,player,Tanzania,MO Kitunda
+info,player,Tanzania,YM Nkanya
+info,registry,people,A Augastin,056e3558
+info,registry,people,A Kassam,7d13b388
+info,registry,people,A Limdawala,2bcbcac3
+info,registry,people,AM Kimote,34e36b65
+info,registry,people,Arun Yadav,53ace082
+info,registry,people,B Pondani,e5117568
+info,registry,people,C Chete,ef4f539a
+info,registry,people,D Jakiel,8b7ce771
+info,registry,people,D Kansonkho,45ca12a7
+info,registry,people,D Odhiambo,45994517
+info,registry,people,DA Mehta,61a7d6e9
+info,registry,people,G Kansonkho,f3ca5af8
+info,registry,people,Habib Enesi,fb35ab1f
+info,registry,people,II Selemani,b2dadc51
+info,registry,people,K Juma,089ebf89
+info,registry,people,K Nassoro,29ee9bf9
+info,registry,people,K Thuchila,af42d9f2
+info,registry,people,Kazim Somani,d2ebebbe
+info,registry,people,LS Barkania,073126d6
+info,registry,people,M Choamba,5570c4c1
+info,registry,people,MO Kitunda,badef0dc
+info,registry,people,MS Kibwana,1eae8683
+info,registry,people,O Chirombe,6345307f
+info,registry,people,SZ Vayani,a4afc486
+info,registry,people,Sami Sohail,602ebd4c
+info,registry,people,YM Nkanya,9238dd92
+ball,1,0.1,Malawi,A Limdawala,G Kansonkho,K Juma,0,0,,,,,,"",""
+ball,1,0.2,Malawi,A Limdawala,G Kansonkho,K Juma,0,0,,,,,,"",""
+ball,1,0.3,Malawi,A Limdawala,G Kansonkho,K Juma,0,0,,,,,,"",""
+ball,1,0.4,Malawi,A Limdawala,G Kansonkho,K Juma,0,0,,,,,,"",""
+ball,1,0.5,Malawi,A Limdawala,G Kansonkho,K Juma,1,0,,,,,,"",""
+ball,1,0.6,Malawi,G Kansonkho,A Limdawala,K Juma,0,0,,,,,,"",""
+ball,1,1.1,Malawi,A Limdawala,G Kansonkho,AM Kimote,1,0,,,,,,"",""
+ball,1,1.2,Malawi,G Kansonkho,A Limdawala,AM Kimote,0,0,,,,,,bowled,G Kansonkho
+ball,1,1.3,Malawi,Sami Sohail,A Limdawala,AM Kimote,1,0,,,,,,"",""
+ball,1,1.4,Malawi,A Limdawala,Sami Sohail,AM Kimote,0,0,,,,,,"",""
+ball,1,1.5,Malawi,A Limdawala,Sami Sohail,AM Kimote,1,0,,,,,,"",""
+ball,1,1.6,Malawi,Sami Sohail,A Limdawala,AM Kimote,0,0,,,,,,"",""
+ball,1,2.1,Malawi,A Limdawala,Sami Sohail,K Juma,0,0,,,,,,"",""
+ball,1,2.2,Malawi,A Limdawala,Sami Sohail,K Juma,0,0,,,,,,"",""
+ball,1,2.3,Malawi,A Limdawala,Sami Sohail,K Juma,0,0,,,,,,"",""
+ball,1,2.4,Malawi,A Limdawala,Sami Sohail,K Juma,0,0,,,,,,"",""
+ball,1,2.5,Malawi,A Limdawala,Sami Sohail,K Juma,0,0,,,,,,"",""
+ball,1,2.6,Malawi,A Limdawala,Sami Sohail,K Juma,0,0,,,,,,"",""
+ball,1,3.1,Malawi,Sami Sohail,A Limdawala,AM Kimote,1,0,,,,,,"",""
+ball,1,3.2,Malawi,A Limdawala,Sami Sohail,AM Kimote,0,0,,,,,,"",""
+ball,1,3.3,Malawi,A Limdawala,Sami Sohail,AM Kimote,1,0,,,,,,"",""
+ball,1,3.4,Malawi,Sami Sohail,A Limdawala,AM Kimote,0,0,,,,,,"",""
+ball,1,3.5,Malawi,Sami Sohail,A Limdawala,AM Kimote,1,0,,,,,,"",""
+ball,1,3.6,Malawi,A Limdawala,Sami Sohail,AM Kimote,0,0,,,,,,"",""
+ball,1,4.1,Malawi,Sami Sohail,A Limdawala,Arun Yadav,0,0,,,,,,"",""
+ball,1,4.2,Malawi,Sami Sohail,A Limdawala,Arun Yadav,0,0,,,,,,"",""
+ball,1,4.3,Malawi,Sami Sohail,A Limdawala,Arun Yadav,0,1,,,,1,,"",""
+ball,1,4.4,Malawi,A Limdawala,Sami Sohail,Arun Yadav,1,0,,,,,,"",""
+ball,1,4.5,Malawi,Sami Sohail,A Limdawala,Arun Yadav,0,0,,,,,,"",""
+ball,1,4.6,Malawi,Sami Sohail,A Limdawala,Arun Yadav,0,0,,,,,,"",""
+ball,1,5.1,Malawi,A Limdawala,Sami Sohail,A Augastin,0,0,,,,,,"",""
+ball,1,5.2,Malawi,A Limdawala,Sami Sohail,A Augastin,2,0,,,,,,"",""
+ball,1,5.3,Malawi,A Limdawala,Sami Sohail,A Augastin,0,0,,,,,,"",""
+ball,1,5.4,Malawi,A Limdawala,Sami Sohail,A Augastin,1,0,,,,,,"",""
+ball,1,5.5,Malawi,Sami Sohail,A Limdawala,A Augastin,6,0,,,,,,"",""
+ball,1,5.6,Malawi,Sami Sohail,A Limdawala,A Augastin,1,0,,,,,,"",""
+ball,1,6.1,Malawi,Sami Sohail,A Limdawala,Arun Yadav,0,0,,,,,,bowled,Sami Sohail
+ball,1,6.2,Malawi,D Kansonkho,A Limdawala,Arun Yadav,0,0,,,,,,"",""
+ball,1,6.3,Malawi,D Kansonkho,A Limdawala,Arun Yadav,0,0,,,,,,"",""
+ball,1,6.4,Malawi,D Kansonkho,A Limdawala,Arun Yadav,1,0,,,,,,"",""
+ball,1,6.5,Malawi,A Limdawala,D Kansonkho,Arun Yadav,0,0,,,,,,"",""
+ball,1,6.6,Malawi,A Limdawala,D Kansonkho,Arun Yadav,1,0,,,,,,"",""
+ball,1,7.1,Malawi,A Limdawala,D Kansonkho,A Augastin,0,3,3,,,,,"",""
+ball,1,7.2,Malawi,A Limdawala,D Kansonkho,A Augastin,0,0,,,,,,"",""
+ball,1,7.3,Malawi,A Limdawala,D Kansonkho,A Augastin,1,0,,,,,,"",""
+ball,1,7.4,Malawi,D Kansonkho,A Limdawala,A Augastin,0,0,,,,,,"",""
+ball,1,7.5,Malawi,D Kansonkho,A Limdawala,A Augastin,1,0,,,,,,"",""
+ball,1,7.6,Malawi,A Limdawala,D Kansonkho,A Augastin,0,0,,,,,,caught,A Limdawala
+ball,1,7.7,Malawi,M Choamba,D Kansonkho,A Augastin,0,0,,,,,,"",""
+ball,1,8.1,Malawi,D Kansonkho,M Choamba,Arun Yadav,0,1,1,,,,,"",""
+ball,1,8.2,Malawi,D Kansonkho,M Choamba,Arun Yadav,0,0,,,,,,bowled,D Kansonkho
+ball,1,8.3,Malawi,Kazim Somani,M Choamba,Arun Yadav,0,0,,,,,,"",""
+ball,1,8.4,Malawi,Kazim Somani,M Choamba,Arun Yadav,0,0,,,,,,"",""
+ball,1,8.5,Malawi,Kazim Somani,M Choamba,Arun Yadav,0,0,,,,,,"",""
+ball,1,8.6,Malawi,Kazim Somani,M Choamba,Arun Yadav,1,0,,,,,,"",""
+ball,1,8.7,Malawi,M Choamba,Kazim Somani,Arun Yadav,4,0,,,,,,"",""
+ball,1,9.1,Malawi,Kazim Somani,M Choamba,A Augastin,0,0,,,,,,"",""
+ball,1,9.2,Malawi,Kazim Somani,M Choamba,A Augastin,1,0,,,,,,"",""
+ball,1,9.3,Malawi,M Choamba,Kazim Somani,A Augastin,6,0,,,,,,"",""
+ball,1,9.4,Malawi,M Choamba,Kazim Somani,A Augastin,0,0,,,,,,"",""
+ball,1,9.5,Malawi,M Choamba,Kazim Somani,A Augastin,0,0,,,,,,"",""
+ball,1,9.6,Malawi,M Choamba,Kazim Somani,A Augastin,0,0,,,,,,"",""
+ball,1,10.1,Malawi,Kazim Somani,M Choamba,LS Barkania,4,0,,,,,,"",""
+ball,1,10.2,Malawi,Kazim Somani,M Choamba,LS Barkania,0,0,,,,,,"",""
+ball,1,10.3,Malawi,Kazim Somani,M Choamba,LS Barkania,1,0,,,,,,"",""
+ball,1,10.4,Malawi,M Choamba,Kazim Somani,LS Barkania,0,0,,,,,,"",""
+ball,1,10.5,Malawi,M Choamba,Kazim Somani,LS Barkania,0,0,,,,,,"",""
+ball,1,10.6,Malawi,M Choamba,Kazim Somani,LS Barkania,1,0,,,,,,"",""
+ball,1,11.1,Malawi,M Choamba,Kazim Somani,YM Nkanya,0,0,,,,,,bowled,M Choamba
+ball,1,11.2,Malawi,SZ Vayani,Kazim Somani,YM Nkanya,0,0,,,,,,"",""
+ball,1,11.3,Malawi,SZ Vayani,Kazim Somani,YM Nkanya,0,0,,,,,,"",""
+ball,1,11.4,Malawi,SZ Vayani,Kazim Somani,YM Nkanya,0,0,,,,,,"",""
+ball,1,11.5,Malawi,SZ Vayani,Kazim Somani,YM Nkanya,0,0,,,,,,"",""
+ball,1,11.6,Malawi,SZ Vayani,Kazim Somani,YM Nkanya,0,0,,,,,,"",""
+ball,1,12.1,Malawi,Kazim Somani,SZ Vayani,LS Barkania,0,0,,,,,,"",""
+ball,1,12.2,Malawi,Kazim Somani,SZ Vayani,LS Barkania,1,0,,,,,,"",""
+ball,1,12.3,Malawi,SZ Vayani,Kazim Somani,LS Barkania,0,0,,,,,,bowled,SZ Vayani
+ball,1,12.4,Malawi,D Jakiel,Kazim Somani,LS Barkania,0,0,,,,,,"",""
+ball,1,12.5,Malawi,D Jakiel,Kazim Somani,LS Barkania,0,0,,,,,,"",""
+ball,1,12.6,Malawi,D Jakiel,Kazim Somani,LS Barkania,0,0,,,,,,"",""
+ball,1,13.1,Malawi,Kazim Somani,D Jakiel,YM Nkanya,0,0,,,,,,"",""
+ball,1,13.2,Malawi,Kazim Somani,D Jakiel,YM Nkanya,0,0,,,,,,"",""
+ball,1,13.3,Malawi,Kazim Somani,D Jakiel,YM Nkanya,2,0,,,,,,"",""
+ball,1,13.4,Malawi,Kazim Somani,D Jakiel,YM Nkanya,1,0,,,,,,"",""
+ball,1,13.5,Malawi,D Jakiel,Kazim Somani,YM Nkanya,0,0,,,,,,"",""
+ball,1,13.6,Malawi,D Jakiel,Kazim Somani,YM Nkanya,0,0,,,,,,"",""
+ball,1,14.1,Malawi,Kazim Somani,D Jakiel,LS Barkania,1,0,,,,,,"",""
+ball,1,14.2,Malawi,D Jakiel,Kazim Somani,LS Barkania,0,0,,,,,,"",""
+ball,1,14.3,Malawi,D Jakiel,Kazim Somani,LS Barkania,0,1,1,,,,,"",""
+ball,1,14.4,Malawi,D Jakiel,Kazim Somani,LS Barkania,0,0,,,,,,"",""
+ball,1,14.5,Malawi,D Jakiel,Kazim Somani,LS Barkania,0,0,,,,,,"",""
+ball,1,14.6,Malawi,D Jakiel,Kazim Somani,LS Barkania,0,0,,,,,,"",""
+ball,1,14.7,Malawi,D Jakiel,Kazim Somani,LS Barkania,2,0,,,,,,"",""
+ball,1,15.1,Malawi,Kazim Somani,D Jakiel,YM Nkanya,0,1,1,,,,,"",""
+ball,1,15.2,Malawi,Kazim Somani,D Jakiel,YM Nkanya,1,0,,,,,,"",""
+ball,1,15.3,Malawi,D Jakiel,Kazim Somani,YM Nkanya,0,0,,,,,,"",""
+ball,1,15.4,Malawi,D Jakiel,Kazim Somani,YM Nkanya,1,0,,,,,,"",""
+ball,1,15.5,Malawi,Kazim Somani,D Jakiel,YM Nkanya,0,0,,,,,,"",""
+ball,1,15.6,Malawi,Kazim Somani,D Jakiel,YM Nkanya,1,0,,,,,,"",""
+ball,1,15.7,Malawi,D Jakiel,Kazim Somani,YM Nkanya,1,0,,,,,,"",""
+ball,1,16.1,Malawi,D Jakiel,Kazim Somani,K Juma,1,0,,,,,,"",""
+ball,1,16.2,Malawi,Kazim Somani,D Jakiel,K Juma,1,0,,,,,,"",""
+ball,1,16.3,Malawi,D Jakiel,Kazim Somani,K Juma,0,0,,,,,,"",""
+ball,1,16.4,Malawi,D Jakiel,Kazim Somani,K Juma,1,0,,,,,,"",""
+ball,1,16.5,Malawi,Kazim Somani,D Jakiel,K Juma,0,0,,,,,,"",""
+ball,1,16.6,Malawi,Kazim Somani,D Jakiel,K Juma,0,0,,,,,,bowled,Kazim Somani
+ball,1,17.1,Malawi,D Jakiel,B Pondani,AM Kimote,0,0,,,,,,"",""
+ball,1,17.2,Malawi,D Jakiel,B Pondani,AM Kimote,0,1,,,,1,,"",""
+ball,1,17.3,Malawi,B Pondani,D Jakiel,AM Kimote,0,5,5,,,,,"",""
+ball,1,17.4,Malawi,B Pondani,D Jakiel,AM Kimote,0,0,,,,,,"",""
+ball,1,17.5,Malawi,B Pondani,D Jakiel,AM Kimote,1,0,,,,,,"",""
+ball,1,17.6,Malawi,D Jakiel,B Pondani,AM Kimote,0,0,,,,,,"",""
+ball,1,17.7,Malawi,D Jakiel,B Pondani,AM Kimote,0,0,,,,,,"",""
+ball,1,18.1,Malawi,B Pondani,D Jakiel,K Juma,1,0,,,,,,"",""
+ball,1,18.2,Malawi,D Jakiel,B Pondani,K Juma,0,0,,,,,,bowled,D Jakiel
+ball,1,18.3,Malawi,K Thuchila,B Pondani,K Juma,1,0,,,,,,"",""
+ball,1,18.4,Malawi,B Pondani,K Thuchila,K Juma,1,0,,,,,,"",""
+ball,1,18.5,Malawi,K Thuchila,B Pondani,K Juma,1,1,,1,,,,"",""
+ball,1,18.6,Malawi,B Pondani,K Thuchila,K Juma,2,0,,,,,,"",""
+ball,1,18.7,Malawi,B Pondani,K Thuchila,K Juma,0,1,1,,,,,"",""
+ball,1,18.8,Malawi,B Pondani,K Thuchila,K Juma,1,0,,,,,,"",""
+ball,1,19.1,Malawi,B Pondani,K Thuchila,AM Kimote,0,0,,,,,,bowled,B Pondani
+ball,2,0.1,Tanzania,DA Mehta,II Selemani,D Jakiel,0,1,1,,,,,"",""
+ball,2,0.2,Tanzania,DA Mehta,II Selemani,D Jakiel,1,0,,,,,,"",""
+ball,2,0.3,Tanzania,II Selemani,DA Mehta,D Jakiel,1,0,,,,,,"",""
+ball,2,0.4,Tanzania,DA Mehta,II Selemani,D Jakiel,0,0,,,,,,"",""
+ball,2,0.5,Tanzania,DA Mehta,II Selemani,D Jakiel,2,0,,,,,,"",""
+ball,2,0.6,Tanzania,DA Mehta,II Selemani,D Jakiel,0,0,,,,,,"",""
+ball,2,0.7,Tanzania,DA Mehta,II Selemani,D Jakiel,1,0,,,,,,"",""
+ball,2,1.1,Tanzania,DA Mehta,II Selemani,B Pondani,0,0,,,,,,"",""
+ball,2,1.2,Tanzania,DA Mehta,II Selemani,B Pondani,1,0,,,,,,"",""
+ball,2,1.3,Tanzania,II Selemani,DA Mehta,B Pondani,1,0,,,,,,"",""
+ball,2,1.4,Tanzania,DA Mehta,II Selemani,B Pondani,2,0,,,,,,"",""
+ball,2,1.5,Tanzania,DA Mehta,II Selemani,B Pondani,0,0,,,,,,"",""
+ball,2,1.6,Tanzania,DA Mehta,II Selemani,B Pondani,0,0,,,,,,"",""
+ball,2,2.1,Tanzania,II Selemani,DA Mehta,D Jakiel,0,0,,,,,,"",""
+ball,2,2.2,Tanzania,II Selemani,DA Mehta,D Jakiel,1,0,,,,,,"",""
+ball,2,2.3,Tanzania,DA Mehta,II Selemani,D Jakiel,0,0,,,,,,"",""
+ball,2,2.4,Tanzania,DA Mehta,II Selemani,D Jakiel,1,0,,,,,,"",""
+ball,2,2.5,Tanzania,II Selemani,DA Mehta,D Jakiel,0,1,1,,,,,"",""
+ball,2,2.6,Tanzania,II Selemani,DA Mehta,D Jakiel,0,0,,,,,,bowled,II Selemani
+ball,2,2.7,Tanzania,A Augastin,DA Mehta,D Jakiel,0,0,,,,,,"",""
+ball,2,3.1,Tanzania,DA Mehta,A Augastin,B Pondani,4,1,,1,,,,"",""
+ball,2,3.2,Tanzania,DA Mehta,A Augastin,B Pondani,0,0,,,,,,"",""
+ball,2,3.3,Tanzania,DA Mehta,A Augastin,B Pondani,4,0,,,,,,"",""
+ball,2,3.4,Tanzania,DA Mehta,A Augastin,B Pondani,0,0,,,,,,"",""
+ball,2,3.5,Tanzania,DA Mehta,A Augastin,B Pondani,0,0,,,,,,"",""
+ball,2,3.6,Tanzania,DA Mehta,A Augastin,B Pondani,1,0,,,,,,"",""
+ball,2,3.7,Tanzania,A Augastin,DA Mehta,B Pondani,1,0,,,,,,"",""
+ball,2,4.1,Tanzania,A Augastin,DA Mehta,D Jakiel,2,0,,,,,,"",""
+ball,2,4.2,Tanzania,A Augastin,DA Mehta,D Jakiel,0,0,,,,,,"",""
+ball,2,4.3,Tanzania,A Augastin,DA Mehta,D Jakiel,1,0,,,,,,"",""
+ball,2,4.4,Tanzania,DA Mehta,A Augastin,D Jakiel,1,0,,,,,,"",""
+ball,2,4.5,Tanzania,A Augastin,DA Mehta,D Jakiel,0,0,,,,,,"",""
+ball,2,4.6,Tanzania,A Augastin,DA Mehta,D Jakiel,0,0,,,,,,"",""
+ball,2,5.1,Tanzania,DA Mehta,A Augastin,K Thuchila,0,0,,,,,,"",""
+ball,2,5.2,Tanzania,DA Mehta,A Augastin,K Thuchila,4,0,,,,,,"",""
+ball,2,5.3,Tanzania,DA Mehta,A Augastin,K Thuchila,0,0,,,,,,"",""
+ball,2,5.4,Tanzania,DA Mehta,A Augastin,K Thuchila,1,0,,,,,,"",""
+ball,2,5.5,Tanzania,A Augastin,DA Mehta,K Thuchila,1,0,,,,,,"",""
+ball,2,5.6,Tanzania,DA Mehta,A Augastin,K Thuchila,0,0,,,,,,"",""
+ball,2,6.1,Tanzania,A Augastin,DA Mehta,M Choamba,1,0,,,,,,"",""
+ball,2,6.2,Tanzania,DA Mehta,A Augastin,M Choamba,1,0,,,,,,"",""
+ball,2,6.3,Tanzania,A Augastin,DA Mehta,M Choamba,1,0,,,,,,"",""
+ball,2,6.4,Tanzania,DA Mehta,A Augastin,M Choamba,0,0,,,,,,"",""
+ball,2,6.5,Tanzania,DA Mehta,A Augastin,M Choamba,0,0,,,,,,"",""
+ball,2,6.6,Tanzania,DA Mehta,A Augastin,M Choamba,0,0,,,,,,"",""
+ball,2,7.1,Tanzania,A Augastin,DA Mehta,Sami Sohail,1,0,,,,,,"",""
+ball,2,7.2,Tanzania,DA Mehta,A Augastin,Sami Sohail,0,0,,,,,,caught,DA Mehta
+ball,2,7.3,Tanzania,Arun Yadav,A Augastin,Sami Sohail,0,0,,,,,,"",""
+ball,2,7.4,Tanzania,Arun Yadav,A Augastin,Sami Sohail,0,0,,,,,,"",""
+ball,2,7.5,Tanzania,Arun Yadav,A Augastin,Sami Sohail,0,0,,,,,,"",""
+ball,2,7.6,Tanzania,Arun Yadav,A Augastin,Sami Sohail,1,0,,,,,,"",""
+ball,2,8.1,Tanzania,Arun Yadav,A Augastin,D Jakiel,1,0,,,,,,"",""
+ball,2,8.2,Tanzania,A Augastin,Arun Yadav,D Jakiel,0,1,1,,,,,"",""
+ball,2,8.3,Tanzania,A Augastin,Arun Yadav,D Jakiel,1,0,,,,,,"",""
+ball,2,8.4,Tanzania,Arun Yadav,A Augastin,D Jakiel,1,0,,,,,,"",""
+ball,2,8.5,Tanzania,A Augastin,Arun Yadav,D Jakiel,1,0,,,,,,"",""
+ball,2,8.6,Tanzania,Arun Yadav,A Augastin,D Jakiel,1,0,,,,,,"",""
+ball,2,8.7,Tanzania,A Augastin,Arun Yadav,D Jakiel,0,1,1,,,,,"",""
+ball,2,8.8,Tanzania,A Augastin,Arun Yadav,D Jakiel,0,0,,,,,,"",""
+ball,2,9.1,Tanzania,Arun Yadav,A Augastin,Sami Sohail,1,0,,,,,,"",""
+ball,2,9.2,Tanzania,A Augastin,Arun Yadav,Sami Sohail,0,0,,,,,,"",""
+ball,2,9.3,Tanzania,A Augastin,Arun Yadav,Sami Sohail,0,1,1,,,,,"",""
+ball,2,9.4,Tanzania,A Augastin,Arun Yadav,Sami Sohail,1,0,,,,,,"",""
+ball,2,9.5,Tanzania,Arun Yadav,A Augastin,Sami Sohail,4,0,,,,,,"",""
+ball,2,9.6,Tanzania,Arun Yadav,A Augastin,Sami Sohail,0,0,,,,,,"",""
+ball,2,9.7,Tanzania,Arun Yadav,A Augastin,Sami Sohail,1,0,,,,,,"",""
+ball,2,10.1,Tanzania,Arun Yadav,A Augastin,SZ Vayani,4,1,,1,,,,"",""
+ball,2,10.2,Tanzania,Arun Yadav,A Augastin,SZ Vayani,1,0,,,,,,"",""
+ball,2,10.3,Tanzania,A Augastin,Arun Yadav,SZ Vayani,0,0,,,,,,"",""
+ball,2,10.4,Tanzania,A Augastin,Arun Yadav,SZ Vayani,1,0,,,,,,"",""
+ball,2,10.5,Tanzania,Arun Yadav,A Augastin,SZ Vayani,1,0,,,,,,"",""
+ball,2,10.6,Tanzania,A Augastin,Arun Yadav,SZ Vayani,2,0,,,,,,"",""
+ball,2,10.7,Tanzania,A Augastin,Arun Yadav,SZ Vayani,0,0,,,,,,"",""
+ball,2,11.1,Tanzania,Arun Yadav,A Augastin,K Thuchila,0,0,,,,,,"",""
+ball,2,11.2,Tanzania,Arun Yadav,A Augastin,K Thuchila,1,0,,,,,,"",""
+ball,2,11.3,Tanzania,A Augastin,Arun Yadav,K Thuchila,0,0,,,,,,"",""
+ball,2,11.4,Tanzania,A Augastin,Arun Yadav,K Thuchila,0,0,,,,,,"",""
+ball,2,11.5,Tanzania,A Augastin,Arun Yadav,K Thuchila,1,0,,,,,,"",""
+ball,2,11.6,Tanzania,Arun Yadav,A Augastin,K Thuchila,0,0,,,,,,"",""
+ball,2,12.1,Tanzania,A Augastin,Arun Yadav,Sami Sohail,0,0,,,,,,"",""
+ball,2,12.2,Tanzania,A Augastin,Arun Yadav,Sami Sohail,1,0,,,,,,"",""
+ball,2,12.3,Tanzania,Arun Yadav,A Augastin,Sami Sohail,0,1,1,,,,,"",""
+ball,2,12.4,Tanzania,Arun Yadav,A Augastin,Sami Sohail,0,0,,,,,,"",""
+ball,2,12.5,Tanzania,Arun Yadav,A Augastin,Sami Sohail,4,0,,,,,,"",""
+ball,2,12.6,Tanzania,Arun Yadav,A Augastin,Sami Sohail,1,0,,,,,,"",""
+ball,2,12.7,Tanzania,A Augastin,Arun Yadav,Sami Sohail,0,0,,,,,,"",""
+ball,2,13.1,Tanzania,Arun Yadav,A Augastin,K Thuchila,1,0,,,,,,"",""
+ball,2,13.2,Tanzania,A Augastin,Arun Yadav,K Thuchila,4,0,,,,,,"",""

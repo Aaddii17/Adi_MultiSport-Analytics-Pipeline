@@ -1,0 +1,228 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Melbourne Renegades
+info,team,Melbourne Stars
+info,gender,male
+info,season,2023/24
+info,date,2024/01/02
+info,event,Big Bash League
+info,match_number,23
+info,venue,Melbourne Cricket Ground
+info,city,Melbourne
+info,toss_winner,Melbourne Stars
+info,toss_decision,field
+info,player_of_match,GJ Maxwell
+info,umpire,MW Graham-Smith
+info,umpire,SJ Nogajski
+info,reserve_umpire,C Grant
+info,tv_umpire,SAJ Craig
+info,match_referee,RW Stratford
+info,winner,Melbourne Stars
+info,winner_wickets,8
+info,player,Melbourne Renegades,Q de Kock
+info,player,Melbourne Renegades,JM Cox
+info,player,Melbourne Renegades,J Fraser-McGurk
+info,player,Melbourne Renegades,SE Marsh
+info,player,Melbourne Renegades,MW Harvey
+info,player,Melbourne Renegades,JW Wells
+info,player,Melbourne Renegades,W Sutherland
+info,player,Melbourne Renegades,TS Rogers
+info,player,Melbourne Renegades,KW Richardson
+info,player,Melbourne Renegades,A Zampa
+info,player,Melbourne Renegades,PM Siddle
+info,player,Melbourne Stars,TF Rogers
+info,player,Melbourne Stars,DW Lawrence
+info,player,Melbourne Stars,BJ Webster
+info,player,Melbourne Stars,GJ Maxwell
+info,player,Melbourne Stars,MP Stoinis
+info,player,Melbourne Stars,HWR Cartwright
+info,player,Melbourne Stars,Imad Wasim
+info,player,Melbourne Stars,SB Harper
+info,player,Melbourne Stars,JS Paris
+info,player,Melbourne Stars,J Merlo
+info,player,Melbourne Stars,MT Steketee
+info,registry,people,A Zampa,14f96089
+info,registry,people,BJ Webster,56b93d46
+info,registry,people,C Grant,876ed858
+info,registry,people,DW Lawrence,4b685e2d
+info,registry,people,GJ Maxwell,b681e71e
+info,registry,people,HWR Cartwright,ab965cad
+info,registry,people,Imad Wasim,9cb8d7a6
+info,registry,people,J Fraser-McGurk,9b6e1b3f
+info,registry,people,J Merlo,02ba80a0
+info,registry,people,JM Cox,ff154ecd
+info,registry,people,JS Paris,7c8f533d
+info,registry,people,JW Wells,8bdac857
+info,registry,people,KW Richardson,dfc4d8b5
+info,registry,people,MP Stoinis,d9273ee7
+info,registry,people,MT Steketee,903560ed
+info,registry,people,MW Graham-Smith,18aca3ce
+info,registry,people,MW Harvey,47dc9794
+info,registry,people,PM Siddle,bd93fea4
+info,registry,people,Q de Kock,372455c4
+info,registry,people,RW Stratford,85489579
+info,registry,people,SAJ Craig,689f2eed
+info,registry,people,SB Harper,a756e61a
+info,registry,people,SE Marsh,508a1ea7
+info,registry,people,SJ Nogajski,9b3f9323
+info,registry,people,TF Rogers,7f232d46
+info,registry,people,TS Rogers,1b04e02b
+info,registry,people,W Sutherland,bc2d4f2e
+ball,1,0.1,Melbourne Renegades,Q de Kock,JM Cox,JS Paris,0,0,,,,,,"",""
+ball,1,0.2,Melbourne Renegades,Q de Kock,JM Cox,JS Paris,0,0,,,,,,"",""
+ball,1,0.3,Melbourne Renegades,Q de Kock,JM Cox,JS Paris,4,0,,,,,,"",""
+ball,1,0.4,Melbourne Renegades,Q de Kock,JM Cox,JS Paris,4,0,,,,,,"",""
+ball,1,0.5,Melbourne Renegades,Q de Kock,JM Cox,JS Paris,2,0,,,,,,"",""
+ball,1,0.6,Melbourne Renegades,Q de Kock,JM Cox,JS Paris,1,0,,,,,,"",""
+ball,1,1.1,Melbourne Renegades,Q de Kock,JM Cox,MP Stoinis,1,0,,,,,,"",""
+ball,1,1.2,Melbourne Renegades,JM Cox,Q de Kock,MP Stoinis,1,0,,,,,,"",""
+ball,1,1.3,Melbourne Renegades,Q de Kock,JM Cox,MP Stoinis,0,0,,,,,,"",""
+ball,1,1.4,Melbourne Renegades,Q de Kock,JM Cox,MP Stoinis,4,0,,,,,,"",""
+ball,1,1.5,Melbourne Renegades,Q de Kock,JM Cox,MP Stoinis,6,0,,,,,,"",""
+ball,1,1.6,Melbourne Renegades,Q de Kock,JM Cox,MP Stoinis,0,0,,,,,,"",""
+ball,1,2.1,Melbourne Renegades,JM Cox,Q de Kock,Imad Wasim,4,0,,,,,,"",""
+ball,1,2.2,Melbourne Renegades,JM Cox,Q de Kock,Imad Wasim,0,2,,,,2,,"",""
+ball,1,2.3,Melbourne Renegades,JM Cox,Q de Kock,Imad Wasim,4,0,,,,,,"",""
+ball,1,2.4,Melbourne Renegades,JM Cox,Q de Kock,Imad Wasim,0,0,,,,,,"",""
+ball,1,2.5,Melbourne Renegades,JM Cox,Q de Kock,Imad Wasim,0,0,,,,,,caught,JM Cox
+ball,1,2.6,Melbourne Renegades,J Fraser-McGurk,Q de Kock,Imad Wasim,1,0,,,,,,"",""
+ball,1,3.1,Melbourne Renegades,J Fraser-McGurk,Q de Kock,GJ Maxwell,0,1,,,,1,,"",""
+ball,1,3.2,Melbourne Renegades,Q de Kock,J Fraser-McGurk,GJ Maxwell,0,0,,,,,,"",""
+ball,1,3.3,Melbourne Renegades,Q de Kock,J Fraser-McGurk,GJ Maxwell,1,0,,,,,,"",""
+ball,1,3.4,Melbourne Renegades,J Fraser-McGurk,Q de Kock,GJ Maxwell,1,0,,,,,,"",""
+ball,1,3.5,Melbourne Renegades,Q de Kock,J Fraser-McGurk,GJ Maxwell,0,0,,,,,,"",""
+ball,1,3.6,Melbourne Renegades,Q de Kock,J Fraser-McGurk,GJ Maxwell,0,0,,,,,,"",""
+ball,1,4.1,Melbourne Renegades,J Fraser-McGurk,Q de Kock,MT Steketee,2,0,,,,,,"",""
+ball,1,4.2,Melbourne Renegades,J Fraser-McGurk,Q de Kock,MT Steketee,0,0,,,,,,"",""
+ball,1,4.3,Melbourne Renegades,J Fraser-McGurk,Q de Kock,MT Steketee,0,0,,,,,,"",""
+ball,1,4.4,Melbourne Renegades,J Fraser-McGurk,Q de Kock,MT Steketee,6,0,,,,,,"",""
+ball,1,4.5,Melbourne Renegades,J Fraser-McGurk,Q de Kock,MT Steketee,0,0,,,,,,"",""
+ball,1,4.6,Melbourne Renegades,J Fraser-McGurk,Q de Kock,MT Steketee,0,0,,,,,,"",""
+ball,1,5.1,Melbourne Renegades,Q de Kock,J Fraser-McGurk,GJ Maxwell,0,0,,,,,,caught,Q de Kock
+ball,1,5.2,Melbourne Renegades,SE Marsh,J Fraser-McGurk,GJ Maxwell,0,0,,,,,,"",""
+ball,1,5.3,Melbourne Renegades,SE Marsh,J Fraser-McGurk,GJ Maxwell,0,0,,,,,,"",""
+ball,1,5.4,Melbourne Renegades,SE Marsh,J Fraser-McGurk,GJ Maxwell,1,0,,,,,,"",""
+ball,1,5.5,Melbourne Renegades,J Fraser-McGurk,SE Marsh,GJ Maxwell,0,0,,,,,,"",""
+ball,1,5.6,Melbourne Renegades,J Fraser-McGurk,SE Marsh,GJ Maxwell,0,0,,,,,,"",""
+ball,1,6.1,Melbourne Renegades,SE Marsh,J Fraser-McGurk,Imad Wasim,1,0,,,,,,"",""
+ball,1,6.2,Melbourne Renegades,J Fraser-McGurk,SE Marsh,Imad Wasim,0,0,,,,,,"",""
+ball,1,6.3,Melbourne Renegades,J Fraser-McGurk,SE Marsh,Imad Wasim,0,0,,,,,,"",""
+ball,1,6.4,Melbourne Renegades,J Fraser-McGurk,SE Marsh,Imad Wasim,1,0,,,,,,"",""
+ball,1,6.5,Melbourne Renegades,SE Marsh,J Fraser-McGurk,Imad Wasim,1,0,,,,,,"",""
+ball,1,6.6,Melbourne Renegades,J Fraser-McGurk,SE Marsh,Imad Wasim,0,0,,,,,,"",""
+ball,1,7.1,Melbourne Renegades,SE Marsh,J Fraser-McGurk,DW Lawrence,1,0,,,,,,"",""
+ball,1,7.2,Melbourne Renegades,J Fraser-McGurk,SE Marsh,DW Lawrence,1,0,,,,,,"",""
+ball,1,7.3,Melbourne Renegades,SE Marsh,J Fraser-McGurk,DW Lawrence,0,0,,,,,,bowled,SE Marsh
+ball,1,7.4,Melbourne Renegades,MW Harvey,J Fraser-McGurk,DW Lawrence,1,0,,,,,,"",""
+ball,1,7.5,Melbourne Renegades,J Fraser-McGurk,MW Harvey,DW Lawrence,1,0,,,,,,"",""
+ball,1,7.6,Melbourne Renegades,MW Harvey,J Fraser-McGurk,DW Lawrence,0,0,,,,,,"",""
+ball,1,8.1,Melbourne Renegades,J Fraser-McGurk,MW Harvey,BJ Webster,1,0,,,,,,"",""
+ball,1,8.2,Melbourne Renegades,MW Harvey,J Fraser-McGurk,BJ Webster,1,0,,,,,,"",""
+ball,1,8.3,Melbourne Renegades,J Fraser-McGurk,MW Harvey,BJ Webster,0,0,,,,,,caught,J Fraser-McGurk
+ball,1,8.4,Melbourne Renegades,JW Wells,MW Harvey,BJ Webster,0,0,,,,,,"",""
+ball,1,8.5,Melbourne Renegades,JW Wells,MW Harvey,BJ Webster,0,0,,,,,,"",""
+ball,1,8.6,Melbourne Renegades,JW Wells,MW Harvey,BJ Webster,2,0,,,,,,"",""
+ball,1,9.1,Melbourne Renegades,MW Harvey,JW Wells,GJ Maxwell,1,0,,,,,,"",""
+ball,1,9.2,Melbourne Renegades,JW Wells,MW Harvey,GJ Maxwell,1,0,,,,,,"",""
+ball,1,9.3,Melbourne Renegades,MW Harvey,JW Wells,GJ Maxwell,0,0,,,,,,"",""
+ball,1,9.4,Melbourne Renegades,MW Harvey,JW Wells,GJ Maxwell,1,0,,,,,,"",""
+ball,1,9.5,Melbourne Renegades,JW Wells,MW Harvey,GJ Maxwell,1,0,,,,,,"",""
+ball,1,9.6,Melbourne Renegades,MW Harvey,JW Wells,GJ Maxwell,1,0,,,,,,"",""
+ball,1,10.1,Melbourne Renegades,MW Harvey,JW Wells,Imad Wasim,0,0,,,,,,"",""
+ball,1,10.2,Melbourne Renegades,MW Harvey,JW Wells,Imad Wasim,4,0,,,,,,"",""
+ball,1,10.3,Melbourne Renegades,MW Harvey,JW Wells,Imad Wasim,0,0,,,,,,"",""
+ball,1,10.4,Melbourne Renegades,MW Harvey,JW Wells,Imad Wasim,1,0,,,,,,"",""
+ball,1,10.5,Melbourne Renegades,JW Wells,MW Harvey,Imad Wasim,4,0,,,,,,"",""
+ball,1,10.6,Melbourne Renegades,JW Wells,MW Harvey,Imad Wasim,1,0,,,,,,"",""
+ball,1,11.1,Melbourne Renegades,JW Wells,MW Harvey,DW Lawrence,0,1,,,,1,,"",""
+ball,1,11.2,Melbourne Renegades,MW Harvey,JW Wells,DW Lawrence,1,0,,,,,,"",""
+ball,1,11.3,Melbourne Renegades,JW Wells,MW Harvey,DW Lawrence,0,0,,,,,,lbw,JW Wells
+ball,1,11.4,Melbourne Renegades,W Sutherland,MW Harvey,DW Lawrence,1,0,,,,,,"",""
+ball,1,11.5,Melbourne Renegades,MW Harvey,W Sutherland,DW Lawrence,1,0,,,,,,"",""
+ball,1,11.6,Melbourne Renegades,W Sutherland,MW Harvey,DW Lawrence,1,0,,,,,,"",""
+ball,1,12.1,Melbourne Renegades,W Sutherland,MW Harvey,JS Paris,2,0,,,,,,"",""
+ball,1,12.2,Melbourne Renegades,W Sutherland,MW Harvey,JS Paris,0,0,,,,,,caught,W Sutherland
+ball,1,12.3,Melbourne Renegades,TS Rogers,MW Harvey,JS Paris,6,0,,,,,,"",""
+ball,1,12.4,Melbourne Renegades,TS Rogers,MW Harvey,JS Paris,1,0,,,,,,"",""
+ball,1,12.5,Melbourne Renegades,MW Harvey,TS Rogers,JS Paris,4,0,,,,,,"",""
+ball,1,12.6,Melbourne Renegades,MW Harvey,TS Rogers,JS Paris,2,0,,,,,,"",""
+ball,1,13.1,Melbourne Renegades,TS Rogers,MW Harvey,MT Steketee,1,0,,,,,,"",""
+ball,1,13.2,Melbourne Renegades,MW Harvey,TS Rogers,MT Steketee,0,0,,,,,,caught,MW Harvey
+ball,1,13.3,Melbourne Renegades,KW Richardson,TS Rogers,MT Steketee,1,0,,,,,,"",""
+ball,1,13.4,Melbourne Renegades,TS Rogers,KW Richardson,MT Steketee,0,0,,,,,,"",""
+ball,1,13.5,Melbourne Renegades,TS Rogers,KW Richardson,MT Steketee,2,0,,,,,,"",""
+ball,1,13.6,Melbourne Renegades,TS Rogers,KW Richardson,MT Steketee,0,1,,,,1,,"",""
+ball,2,0.1,Melbourne Stars,TF Rogers,DW Lawrence,TS Rogers,0,0,,,,,,"",""
+ball,2,0.2,Melbourne Stars,TF Rogers,DW Lawrence,TS Rogers,0,0,,,,,,"",""
+ball,2,0.3,Melbourne Stars,TF Rogers,DW Lawrence,TS Rogers,0,0,,,,,,"",""
+ball,2,0.4,Melbourne Stars,TF Rogers,DW Lawrence,TS Rogers,4,0,,,,,,"",""
+ball,2,0.5,Melbourne Stars,TF Rogers,DW Lawrence,TS Rogers,0,0,,,,,,"",""
+ball,2,0.6,Melbourne Stars,TF Rogers,DW Lawrence,TS Rogers,0,0,,,,,,"",""
+ball,2,1.1,Melbourne Stars,DW Lawrence,TF Rogers,PM Siddle,0,1,1,,,,,"",""
+ball,2,1.2,Melbourne Stars,DW Lawrence,TF Rogers,PM Siddle,0,0,,,,,,"",""
+ball,2,1.3,Melbourne Stars,DW Lawrence,TF Rogers,PM Siddle,1,0,,,,,,"",""
+ball,2,1.4,Melbourne Stars,TF Rogers,DW Lawrence,PM Siddle,1,0,,,,,,"",""
+ball,2,1.5,Melbourne Stars,DW Lawrence,TF Rogers,PM Siddle,4,0,,,,,,"",""
+ball,2,1.6,Melbourne Stars,DW Lawrence,TF Rogers,PM Siddle,0,0,,,,,,"",""
+ball,2,1.7,Melbourne Stars,DW Lawrence,TF Rogers,PM Siddle,2,0,,,,,,"",""
+ball,2,2.1,Melbourne Stars,TF Rogers,DW Lawrence,TS Rogers,4,0,,,,,,"",""
+ball,2,2.2,Melbourne Stars,TF Rogers,DW Lawrence,TS Rogers,1,0,,,,,,"",""
+ball,2,2.3,Melbourne Stars,DW Lawrence,TF Rogers,TS Rogers,0,0,,,,,,caught,DW Lawrence
+ball,2,2.4,Melbourne Stars,BJ Webster,TF Rogers,TS Rogers,4,0,,,,,,"",""
+ball,2,2.5,Melbourne Stars,BJ Webster,TF Rogers,TS Rogers,0,0,,,,,,"",""
+ball,2,2.6,Melbourne Stars,BJ Webster,TF Rogers,TS Rogers,0,0,,,,,,"",""
+ball,2,3.1,Melbourne Stars,TF Rogers,BJ Webster,JW Wells,1,0,,,,,,"",""
+ball,2,3.2,Melbourne Stars,BJ Webster,TF Rogers,JW Wells,1,0,,,,,,"",""
+ball,2,3.3,Melbourne Stars,TF Rogers,BJ Webster,JW Wells,4,0,,,,,,"",""
+ball,2,3.4,Melbourne Stars,TF Rogers,BJ Webster,JW Wells,4,0,,,,,,"",""
+ball,2,3.5,Melbourne Stars,TF Rogers,BJ Webster,JW Wells,1,0,,,,,,"",""
+ball,2,3.6,Melbourne Stars,BJ Webster,TF Rogers,JW Wells,0,0,,,,,,"",""
+ball,2,4.1,Melbourne Stars,TF Rogers,BJ Webster,A Zampa,0,0,,,,,,"",""
+ball,2,4.2,Melbourne Stars,TF Rogers,BJ Webster,A Zampa,1,0,,,,,,"",""
+ball,2,4.3,Melbourne Stars,BJ Webster,TF Rogers,A Zampa,0,0,,,,,,"",""
+ball,2,4.4,Melbourne Stars,BJ Webster,TF Rogers,A Zampa,0,0,,,,,,"",""
+ball,2,4.5,Melbourne Stars,BJ Webster,TF Rogers,A Zampa,0,0,,,,,,"",""
+ball,2,4.6,Melbourne Stars,BJ Webster,TF Rogers,A Zampa,1,0,,,,,,"",""
+ball,2,5.1,Melbourne Stars,BJ Webster,TF Rogers,KW Richardson,0,0,,,,,,"",""
+ball,2,5.2,Melbourne Stars,BJ Webster,TF Rogers,KW Richardson,4,0,,,,,,"",""
+ball,2,5.3,Melbourne Stars,BJ Webster,TF Rogers,KW Richardson,1,0,,,,,,"",""
+ball,2,5.4,Melbourne Stars,TF Rogers,BJ Webster,KW Richardson,1,0,,,,,,"",""
+ball,2,5.5,Melbourne Stars,BJ Webster,TF Rogers,KW Richardson,1,0,,,,,,"",""
+ball,2,5.6,Melbourne Stars,TF Rogers,BJ Webster,KW Richardson,1,0,,,,,,"",""
+ball,2,6.1,Melbourne Stars,TF Rogers,BJ Webster,A Zampa,1,0,,,,,,"",""
+ball,2,6.2,Melbourne Stars,BJ Webster,TF Rogers,A Zampa,0,0,,,,,,"",""
+ball,2,6.3,Melbourne Stars,BJ Webster,TF Rogers,A Zampa,1,0,,,,,,"",""
+ball,2,6.4,Melbourne Stars,TF Rogers,BJ Webster,A Zampa,1,0,,,,,,"",""
+ball,2,6.5,Melbourne Stars,BJ Webster,TF Rogers,A Zampa,1,0,,,,,,"",""
+ball,2,6.6,Melbourne Stars,TF Rogers,BJ Webster,A Zampa,1,0,,,,,,"",""
+ball,2,7.1,Melbourne Stars,TF Rogers,BJ Webster,PM Siddle,4,0,,,,,,"",""
+ball,2,7.2,Melbourne Stars,TF Rogers,BJ Webster,PM Siddle,1,0,,,,,,"",""
+ball,2,7.3,Melbourne Stars,BJ Webster,TF Rogers,PM Siddle,0,0,,,,,,"",""
+ball,2,7.4,Melbourne Stars,BJ Webster,TF Rogers,PM Siddle,0,0,,,,,,caught,BJ Webster
+ball,2,7.5,Melbourne Stars,GJ Maxwell,TF Rogers,PM Siddle,0,1,,,,1,,"",""
+ball,2,7.6,Melbourne Stars,TF Rogers,GJ Maxwell,PM Siddle,1,0,,,,,,"",""
+ball,2,8.1,Melbourne Stars,TF Rogers,GJ Maxwell,KW Richardson,1,0,,,,,,"",""
+ball,2,8.2,Melbourne Stars,GJ Maxwell,TF Rogers,KW Richardson,1,0,,,,,,"",""
+ball,2,8.3,Melbourne Stars,TF Rogers,GJ Maxwell,KW Richardson,1,0,,,,,,"",""
+ball,2,8.4,Melbourne Stars,GJ Maxwell,TF Rogers,KW Richardson,0,0,,,,,,"",""
+ball,2,8.5,Melbourne Stars,GJ Maxwell,TF Rogers,KW Richardson,4,0,,,,,,"",""
+ball,2,8.6,Melbourne Stars,GJ Maxwell,TF Rogers,KW Richardson,0,0,,,,,,"",""
+ball,2,9.1,Melbourne Stars,TF Rogers,GJ Maxwell,PM Siddle,2,0,,,,,,"",""
+ball,2,9.2,Melbourne Stars,TF Rogers,GJ Maxwell,PM Siddle,0,0,,,,,,"",""
+ball,2,9.3,Melbourne Stars,TF Rogers,GJ Maxwell,PM Siddle,4,0,,,,,,"",""
+ball,2,9.4,Melbourne Stars,TF Rogers,GJ Maxwell,PM Siddle,0,0,,,,,,"",""
+ball,2,9.5,Melbourne Stars,TF Rogers,GJ Maxwell,PM Siddle,0,0,,,,,,"",""
+ball,2,9.6,Melbourne Stars,TF Rogers,GJ Maxwell,PM Siddle,1,0,,,,,,"",""
+ball,2,10.1,Melbourne Stars,TF Rogers,GJ Maxwell,A Zampa,0,0,,,,,,"",""
+ball,2,10.2,Melbourne Stars,TF Rogers,GJ Maxwell,A Zampa,1,0,,,,,,"",""
+ball,2,10.3,Melbourne Stars,GJ Maxwell,TF Rogers,A Zampa,6,0,,,,,,"",""
+ball,2,10.4,Melbourne Stars,GJ Maxwell,TF Rogers,A Zampa,6,0,,,,,,"",""
+ball,2,10.5,Melbourne Stars,GJ Maxwell,TF Rogers,A Zampa,6,0,,,,,,"",""
+ball,2,10.6,Melbourne Stars,GJ Maxwell,TF Rogers,A Zampa,1,0,,,,,,"",""
+ball,2,11.1,Melbourne Stars,GJ Maxwell,TF Rogers,TS Rogers,2,0,,,,,,"",""
+ball,2,11.2,Melbourne Stars,GJ Maxwell,TF Rogers,TS Rogers,0,0,,,,,,"",""
+ball,2,11.3,Melbourne Stars,GJ Maxwell,TF Rogers,TS Rogers,0,0,,,,,,"",""
+ball,2,11.4,Melbourne Stars,GJ Maxwell,TF Rogers,TS Rogers,4,0,,,,,,"",""
+ball,2,11.5,Melbourne Stars,GJ Maxwell,TF Rogers,TS Rogers,0,0,,,,,,"",""
+ball,2,11.6,Melbourne Stars,GJ Maxwell,TF Rogers,TS Rogers,2,0,,,,,,"",""
+ball,2,12.1,Melbourne Stars,TF Rogers,GJ Maxwell,KW Richardson,0,1,,1,,,,"",""

@@ -1,0 +1,359 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Bangladesh
+info,team,New Zealand
+info,gender,female
+info,season,2021/22
+info,date,2022/03/07
+info,event,ICC Women's World Cup
+info,match_number,5
+info,venue,"University Oval, Dunedin"
+info,city,Dunedin
+info,toss_winner,New Zealand
+info,toss_decision,field
+info,player_of_match,SW Bates
+info,umpire,CA Polosak
+info,umpire,P Wilson
+info,reserve_umpire,L Rusere
+info,tv_umpire,Eloise Sheridan
+info,match_referee,GS Lakshmi
+info,winner,New Zealand
+info,winner_wickets,9
+info,player,Bangladesh,Shamima Sultana
+info,player,Bangladesh,Fargana Hoque
+info,player,Bangladesh,Nigar Sultana
+info,player,Bangladesh,Rumana Ahmed
+info,player,Bangladesh,S Mostary
+info,player,Bangladesh,Ritu Moni
+info,player,Bangladesh,Salma Khatun
+info,player,Bangladesh,Lata Mondal
+info,player,Bangladesh,Jahanara Alam
+info,player,Bangladesh,Nahida Akter
+info,player,Bangladesh,Fariha Trisna
+info,player,New Zealand,SFM Devine
+info,player,New Zealand,SW Bates
+info,player,New Zealand,AC Kerr
+info,player,New Zealand,AE Satterthwaite
+info,player,New Zealand,LMM Tahuhu
+info,player,New Zealand,ML Green
+info,player,New Zealand,FL Mackay
+info,player,New Zealand,KJ Martin
+info,player,New Zealand,JM Kerr
+info,player,New Zealand,HM Rowe
+info,player,New Zealand,HNK Jensen
+info,registry,people,AC Kerr,7673c908
+info,registry,people,AE Satterthwaite,72b7ed1e
+info,registry,people,CA Polosak,26a360d2
+info,registry,people,Eloise Sheridan,d8d43840
+info,registry,people,FL Mackay,7391f160
+info,registry,people,Fargana Hoque,6e96c956
+info,registry,people,Fariha Trisna,7b51bfa4
+info,registry,people,GS Lakshmi,ba8d5615
+info,registry,people,HM Rowe,8ca1f93a
+info,registry,people,HNK Jensen,b8cce99f
+info,registry,people,JM Kerr,9af58032
+info,registry,people,Jahanara Alam,752183c1
+info,registry,people,KJ Martin,cf75a839
+info,registry,people,L Rusere,6a4734ae
+info,registry,people,LMM Tahuhu,60471339
+info,registry,people,Lata Mondal,5bf87532
+info,registry,people,ML Green,865eae1f
+info,registry,people,Nahida Akter,66078174
+info,registry,people,Nigar Sultana,3827f6a2
+info,registry,people,P Wilson,68304a36
+info,registry,people,Ritu Moni,ad3940a5
+info,registry,people,Rumana Ahmed,a92763ea
+info,registry,people,S Mostary,94de63bf
+info,registry,people,SFM Devine,de69af96
+info,registry,people,SW Bates,89bbc67a
+info,registry,people,Salma Khatun,037f2b86
+info,registry,people,Shamima Sultana,724645f5
+ball,1,0.1,Bangladesh,Shamima Sultana,Fargana Hoque,LMM Tahuhu,0,1,1,,,,,"",""
+ball,1,0.2,Bangladesh,Shamima Sultana,Fargana Hoque,LMM Tahuhu,0,0,,,,,,"",""
+ball,1,0.3,Bangladesh,Shamima Sultana,Fargana Hoque,LMM Tahuhu,0,0,,,,,,"",""
+ball,1,0.4,Bangladesh,Shamima Sultana,Fargana Hoque,LMM Tahuhu,1,0,,,,,,"",""
+ball,1,0.5,Bangladesh,Fargana Hoque,Shamima Sultana,LMM Tahuhu,0,0,,,,,,"",""
+ball,1,0.6,Bangladesh,Fargana Hoque,Shamima Sultana,LMM Tahuhu,0,0,,,,,,"",""
+ball,1,0.7,Bangladesh,Fargana Hoque,Shamima Sultana,LMM Tahuhu,4,0,,,,,,"",""
+ball,1,1.1,Bangladesh,Shamima Sultana,Fargana Hoque,JM Kerr,0,1,1,,,,,"",""
+ball,1,1.2,Bangladesh,Shamima Sultana,Fargana Hoque,JM Kerr,4,0,,,,,,"",""
+ball,1,1.3,Bangladesh,Shamima Sultana,Fargana Hoque,JM Kerr,1,0,,,,,,"",""
+ball,1,1.4,Bangladesh,Fargana Hoque,Shamima Sultana,JM Kerr,2,0,,,,,,"",""
+ball,1,1.5,Bangladesh,Fargana Hoque,Shamima Sultana,JM Kerr,0,1,1,,,,,"",""
+ball,1,1.6,Bangladesh,Fargana Hoque,Shamima Sultana,JM Kerr,2,0,,,,,,"",""
+ball,1,1.7,Bangladesh,Fargana Hoque,Shamima Sultana,JM Kerr,1,0,,,,,,"",""
+ball,1,1.8,Bangladesh,Shamima Sultana,Fargana Hoque,JM Kerr,0,0,,,,,,"",""
+ball,1,2.1,Bangladesh,Fargana Hoque,Shamima Sultana,LMM Tahuhu,2,0,,,,,,"",""
+ball,1,2.2,Bangladesh,Fargana Hoque,Shamima Sultana,LMM Tahuhu,1,0,,,,,,"",""
+ball,1,2.3,Bangladesh,Shamima Sultana,Fargana Hoque,LMM Tahuhu,4,0,,,,,,"",""
+ball,1,2.4,Bangladesh,Shamima Sultana,Fargana Hoque,LMM Tahuhu,0,1,1,,,,,"",""
+ball,1,2.5,Bangladesh,Shamima Sultana,Fargana Hoque,LMM Tahuhu,0,0,,,,,,"",""
+ball,1,2.6,Bangladesh,Shamima Sultana,Fargana Hoque,LMM Tahuhu,4,0,,,,,,"",""
+ball,1,2.7,Bangladesh,Shamima Sultana,Fargana Hoque,LMM Tahuhu,1,0,,,,,,"",""
+ball,1,3.1,Bangladesh,Shamima Sultana,Fargana Hoque,JM Kerr,0,0,,,,,,"",""
+ball,1,3.2,Bangladesh,Shamima Sultana,Fargana Hoque,JM Kerr,1,0,,,,,,"",""
+ball,1,3.3,Bangladesh,Fargana Hoque,Shamima Sultana,JM Kerr,1,0,,,,,,"",""
+ball,1,3.4,Bangladesh,Shamima Sultana,Fargana Hoque,JM Kerr,0,0,,,,,,"",""
+ball,1,3.5,Bangladesh,Shamima Sultana,Fargana Hoque,JM Kerr,0,0,,,,,,"",""
+ball,1,3.6,Bangladesh,Shamima Sultana,Fargana Hoque,JM Kerr,1,0,,,,,,"",""
+ball,1,4.1,Bangladesh,Shamima Sultana,Fargana Hoque,HNK Jensen,2,0,,,,,,"",""
+ball,1,4.2,Bangladesh,Shamima Sultana,Fargana Hoque,HNK Jensen,0,0,,,,,,"",""
+ball,1,4.3,Bangladesh,Shamima Sultana,Fargana Hoque,HNK Jensen,2,0,,,,,,"",""
+ball,1,4.4,Bangladesh,Shamima Sultana,Fargana Hoque,HNK Jensen,0,0,,,,,,"",""
+ball,1,4.5,Bangladesh,Shamima Sultana,Fargana Hoque,HNK Jensen,3,0,,,,,,"",""
+ball,1,4.6,Bangladesh,Fargana Hoque,Shamima Sultana,HNK Jensen,0,0,,,,,,"",""
+ball,1,5.1,Bangladesh,Shamima Sultana,Fargana Hoque,JM Kerr,0,0,,,,,,"",""
+ball,1,5.2,Bangladesh,Shamima Sultana,Fargana Hoque,JM Kerr,0,0,,,,,,"",""
+ball,1,5.3,Bangladesh,Shamima Sultana,Fargana Hoque,JM Kerr,0,0,,,,,,"",""
+ball,1,5.4,Bangladesh,Shamima Sultana,Fargana Hoque,JM Kerr,4,0,,,,,,"",""
+ball,1,5.5,Bangladesh,Shamima Sultana,Fargana Hoque,JM Kerr,0,0,,,,,,"",""
+ball,1,5.6,Bangladesh,Shamima Sultana,Fargana Hoque,JM Kerr,0,0,,,,,,"",""
+ball,1,6.1,Bangladesh,Fargana Hoque,Shamima Sultana,AC Kerr,1,0,,,,,,"",""
+ball,1,6.2,Bangladesh,Shamima Sultana,Fargana Hoque,AC Kerr,1,0,,,,,,"",""
+ball,1,6.3,Bangladesh,Fargana Hoque,Shamima Sultana,AC Kerr,0,1,,,1,,,"",""
+ball,1,6.4,Bangladesh,Shamima Sultana,Fargana Hoque,AC Kerr,1,0,,,,,,"",""
+ball,1,6.5,Bangladesh,Fargana Hoque,Shamima Sultana,AC Kerr,0,0,,,,,,"",""
+ball,1,6.6,Bangladesh,Fargana Hoque,Shamima Sultana,AC Kerr,1,0,,,,,,"",""
+ball,1,7.1,Bangladesh,Fargana Hoque,Shamima Sultana,HNK Jensen,2,0,,,,,,"",""
+ball,1,7.2,Bangladesh,Fargana Hoque,Shamima Sultana,HNK Jensen,0,0,,,,,,"",""
+ball,1,7.3,Bangladesh,Fargana Hoque,Shamima Sultana,HNK Jensen,1,0,,,,,,"",""
+ball,1,7.4,Bangladesh,Shamima Sultana,Fargana Hoque,HNK Jensen,1,0,,,,,,"",""
+ball,1,7.5,Bangladesh,Fargana Hoque,Shamima Sultana,HNK Jensen,2,0,,,,,,"",""
+ball,1,7.6,Bangladesh,Fargana Hoque,Shamima Sultana,HNK Jensen,0,0,,,,,,"",""
+ball,1,8.1,Bangladesh,Shamima Sultana,Fargana Hoque,AC Kerr,0,0,,,,,,"",""
+ball,1,8.2,Bangladesh,Shamima Sultana,Fargana Hoque,AC Kerr,1,0,,,,,,"",""
+ball,1,8.3,Bangladesh,Fargana Hoque,Shamima Sultana,AC Kerr,1,0,,,,,,"",""
+ball,1,8.4,Bangladesh,Shamima Sultana,Fargana Hoque,AC Kerr,0,0,,,,,,"",""
+ball,1,8.5,Bangladesh,Shamima Sultana,Fargana Hoque,AC Kerr,0,0,,,,,,"",""
+ball,1,8.6,Bangladesh,Shamima Sultana,Fargana Hoque,AC Kerr,1,0,,,,,,"",""
+ball,1,9.1,Bangladesh,Shamima Sultana,Fargana Hoque,FL Mackay,0,0,,,,,,"",""
+ball,1,9.2,Bangladesh,Shamima Sultana,Fargana Hoque,FL Mackay,0,0,,,,,,caught,Shamima Sultana
+ball,1,9.3,Bangladesh,Fargana Hoque,Nigar Sultana,FL Mackay,0,0,,,,,,"",""
+ball,1,9.4,Bangladesh,Fargana Hoque,Nigar Sultana,FL Mackay,1,0,,,,,,"",""
+ball,1,9.5,Bangladesh,Nigar Sultana,Fargana Hoque,FL Mackay,0,0,,,,,,"",""
+ball,1,9.6,Bangladesh,Nigar Sultana,Fargana Hoque,FL Mackay,1,0,,,,,,"",""
+ball,1,10.1,Bangladesh,Nigar Sultana,Fargana Hoque,AC Kerr,1,0,,,,,,"",""
+ball,1,10.2,Bangladesh,Fargana Hoque,Nigar Sultana,AC Kerr,0,0,,,,,,"",""
+ball,1,10.3,Bangladesh,Fargana Hoque,Nigar Sultana,AC Kerr,0,0,,,,,,"",""
+ball,1,10.4,Bangladesh,Fargana Hoque,Nigar Sultana,AC Kerr,1,0,,,,,,"",""
+ball,1,10.5,Bangladesh,Nigar Sultana,Fargana Hoque,AC Kerr,1,0,,,,,,"",""
+ball,1,10.6,Bangladesh,Fargana Hoque,Nigar Sultana,AC Kerr,1,0,,,,,,"",""
+ball,1,11.1,Bangladesh,Fargana Hoque,Nigar Sultana,FL Mackay,0,0,,,,,,"",""
+ball,1,11.2,Bangladesh,Fargana Hoque,Nigar Sultana,FL Mackay,1,0,,,,,,"",""
+ball,1,11.3,Bangladesh,Nigar Sultana,Fargana Hoque,FL Mackay,1,0,,,,,,"",""
+ball,1,11.4,Bangladesh,Fargana Hoque,Nigar Sultana,FL Mackay,2,0,,,,,,"",""
+ball,1,11.5,Bangladesh,Fargana Hoque,Nigar Sultana,FL Mackay,0,0,,,,,,"",""
+ball,1,11.6,Bangladesh,Fargana Hoque,Nigar Sultana,FL Mackay,1,0,,,,,,"",""
+ball,1,12.1,Bangladesh,Fargana Hoque,Nigar Sultana,AC Kerr,0,0,,,,,,"",""
+ball,1,12.2,Bangladesh,Fargana Hoque,Nigar Sultana,AC Kerr,0,0,,,,,,"",""
+ball,1,12.3,Bangladesh,Fargana Hoque,Nigar Sultana,AC Kerr,1,0,,,,,,"",""
+ball,1,12.4,Bangladesh,Nigar Sultana,Fargana Hoque,AC Kerr,0,0,,,,,,"",""
+ball,1,12.5,Bangladesh,Nigar Sultana,Fargana Hoque,AC Kerr,0,0,,,,,,"",""
+ball,1,12.6,Bangladesh,Nigar Sultana,Fargana Hoque,AC Kerr,0,0,,,,,,"",""
+ball,1,13.1,Bangladesh,Fargana Hoque,Nigar Sultana,FL Mackay,0,0,,,,,,"",""
+ball,1,13.2,Bangladesh,Fargana Hoque,Nigar Sultana,FL Mackay,1,0,,,,,,"",""
+ball,1,13.3,Bangladesh,Nigar Sultana,Fargana Hoque,FL Mackay,4,0,,,,,,"",""
+ball,1,13.4,Bangladesh,Nigar Sultana,Fargana Hoque,FL Mackay,0,0,,,,,,"",""
+ball,1,13.5,Bangladesh,Nigar Sultana,Fargana Hoque,FL Mackay,2,0,,,,,,"",""
+ball,1,13.6,Bangladesh,Nigar Sultana,Fargana Hoque,FL Mackay,1,0,,,,,,"",""
+ball,1,14.1,Bangladesh,Nigar Sultana,Fargana Hoque,AE Satterthwaite,0,0,,,,,,caught,Nigar Sultana
+ball,1,14.2,Bangladesh,Rumana Ahmed,Fargana Hoque,AE Satterthwaite,0,0,,,,,,"",""
+ball,1,14.3,Bangladesh,Rumana Ahmed,Fargana Hoque,AE Satterthwaite,0,0,,,,,,"",""
+ball,1,14.4,Bangladesh,Rumana Ahmed,Fargana Hoque,AE Satterthwaite,1,0,,,,,,"",""
+ball,1,14.5,Bangladesh,Fargana Hoque,Rumana Ahmed,AE Satterthwaite,1,0,,,,,,"",""
+ball,1,14.6,Bangladesh,Rumana Ahmed,Fargana Hoque,AE Satterthwaite,0,0,,,,,,bowled,Rumana Ahmed
+ball,1,15.1,Bangladesh,Fargana Hoque,S Mostary,FL Mackay,0,0,,,,,,"",""
+ball,1,15.2,Bangladesh,Fargana Hoque,S Mostary,FL Mackay,1,0,,,,,,"",""
+ball,1,15.3,Bangladesh,S Mostary,Fargana Hoque,FL Mackay,0,0,,,,,,"",""
+ball,1,15.4,Bangladesh,S Mostary,Fargana Hoque,FL Mackay,1,0,,,,,,"",""
+ball,1,15.5,Bangladesh,Fargana Hoque,S Mostary,FL Mackay,0,0,,,,,,"",""
+ball,1,15.6,Bangladesh,Fargana Hoque,S Mostary,FL Mackay,0,0,,,,,,"",""
+ball,1,16.1,Bangladesh,S Mostary,Fargana Hoque,AE Satterthwaite,0,0,,,,,,"",""
+ball,1,16.2,Bangladesh,S Mostary,Fargana Hoque,AE Satterthwaite,1,0,,,,,,"",""
+ball,1,16.3,Bangladesh,Fargana Hoque,S Mostary,AE Satterthwaite,0,0,,,,,,"",""
+ball,1,16.4,Bangladesh,Fargana Hoque,S Mostary,AE Satterthwaite,0,0,,,,,,"",""
+ball,1,16.5,Bangladesh,Fargana Hoque,S Mostary,AE Satterthwaite,1,0,,,,,,"",""
+ball,1,16.6,Bangladesh,S Mostary,Fargana Hoque,AE Satterthwaite,1,0,,,,,,"",""
+ball,1,17.1,Bangladesh,S Mostary,Fargana Hoque,JM Kerr,0,0,,,,,,"",""
+ball,1,17.2,Bangladesh,S Mostary,Fargana Hoque,JM Kerr,0,0,,,,,,"",""
+ball,1,17.3,Bangladesh,S Mostary,Fargana Hoque,JM Kerr,0,0,,,,,,"",""
+ball,1,17.4,Bangladesh,S Mostary,Fargana Hoque,JM Kerr,0,0,,,,,,"",""
+ball,1,17.5,Bangladesh,S Mostary,Fargana Hoque,JM Kerr,0,0,,,,,,"",""
+ball,1,17.6,Bangladesh,S Mostary,Fargana Hoque,JM Kerr,0,0,,,,,,"",""
+ball,1,18.1,Bangladesh,Fargana Hoque,S Mostary,AE Satterthwaite,0,0,,,,,,"",""
+ball,1,18.2,Bangladesh,Fargana Hoque,S Mostary,AE Satterthwaite,1,0,,,,,,"",""
+ball,1,18.3,Bangladesh,S Mostary,Fargana Hoque,AE Satterthwaite,0,0,,,,,,"",""
+ball,1,18.4,Bangladesh,S Mostary,Fargana Hoque,AE Satterthwaite,1,0,,,,,,"",""
+ball,1,18.5,Bangladesh,Fargana Hoque,S Mostary,AE Satterthwaite,2,0,,,,,,"",""
+ball,1,18.6,Bangladesh,Fargana Hoque,S Mostary,AE Satterthwaite,1,0,,,,,,"",""
+ball,1,19.1,Bangladesh,Fargana Hoque,S Mostary,JM Kerr,1,0,,,,,,"",""
+ball,1,19.2,Bangladesh,S Mostary,Fargana Hoque,JM Kerr,0,0,,,,,,"",""
+ball,1,19.3,Bangladesh,S Mostary,Fargana Hoque,JM Kerr,1,0,,,,,,"",""
+ball,1,19.4,Bangladesh,Fargana Hoque,S Mostary,JM Kerr,1,0,,,,,,"",""
+ball,1,19.5,Bangladesh,S Mostary,Fargana Hoque,JM Kerr,1,0,,,,,,"",""
+ball,1,19.6,Bangladesh,Fargana Hoque,S Mostary,JM Kerr,1,0,,,,,,"",""
+ball,1,20.1,Bangladesh,Fargana Hoque,S Mostary,AC Kerr,0,0,,,,,,"",""
+ball,1,20.2,Bangladesh,Fargana Hoque,S Mostary,AC Kerr,1,0,,,,,,"",""
+ball,1,20.3,Bangladesh,S Mostary,Fargana Hoque,AC Kerr,1,0,,,,,,"",""
+ball,1,20.4,Bangladesh,Fargana Hoque,S Mostary,AC Kerr,1,0,,,,,,"",""
+ball,1,20.5,Bangladesh,S Mostary,Fargana Hoque,AC Kerr,4,0,,,,,,"",""
+ball,1,20.6,Bangladesh,S Mostary,Fargana Hoque,AC Kerr,1,0,,,,,,"",""
+ball,1,21.1,Bangladesh,S Mostary,Fargana Hoque,HNK Jensen,1,0,,,,,,"",""
+ball,1,21.2,Bangladesh,Fargana Hoque,S Mostary,HNK Jensen,0,0,,,,,,"",""
+ball,1,21.3,Bangladesh,Fargana Hoque,S Mostary,HNK Jensen,2,0,,,,,,"",""
+ball,1,21.4,Bangladesh,Fargana Hoque,S Mostary,HNK Jensen,1,0,,,,,,"",""
+ball,1,21.5,Bangladesh,S Mostary,Fargana Hoque,HNK Jensen,0,0,,,,,,caught,S Mostary
+ball,1,21.6,Bangladesh,Fargana Hoque,Ritu Moni,HNK Jensen,1,0,,,,,,"",""
+ball,1,22.1,Bangladesh,Fargana Hoque,Ritu Moni,AE Satterthwaite,2,0,,,,,,"",""
+ball,1,22.2,Bangladesh,Fargana Hoque,Ritu Moni,AE Satterthwaite,2,0,,,,,,"",""
+ball,1,22.3,Bangladesh,Fargana Hoque,Ritu Moni,AE Satterthwaite,1,0,,,,,,"",""
+ball,1,22.4,Bangladesh,Ritu Moni,Fargana Hoque,AE Satterthwaite,4,0,,,,,,"",""
+ball,1,22.5,Bangladesh,Ritu Moni,Fargana Hoque,AE Satterthwaite,0,0,,,,,,caught,Ritu Moni
+ball,1,22.6,Bangladesh,Fargana Hoque,Salma Khatun,AE Satterthwaite,1,0,,,,,,"",""
+ball,1,23.1,Bangladesh,Fargana Hoque,Salma Khatun,FL Mackay,0,0,,,,,,run out,Fargana Hoque
+ball,1,23.2,Bangladesh,Lata Mondal,Salma Khatun,FL Mackay,1,0,,,,,,"",""
+ball,1,23.3,Bangladesh,Salma Khatun,Lata Mondal,FL Mackay,0,0,,,,,,"",""
+ball,1,23.4,Bangladesh,Salma Khatun,Lata Mondal,FL Mackay,0,0,,,,,,"",""
+ball,1,23.5,Bangladesh,Salma Khatun,Lata Mondal,FL Mackay,0,0,,,,,,"",""
+ball,1,23.6,Bangladesh,Salma Khatun,Lata Mondal,FL Mackay,0,0,,,,,,"",""
+ball,1,24.1,Bangladesh,Lata Mondal,Salma Khatun,AC Kerr,1,0,,,,,,"",""
+ball,1,24.2,Bangladesh,Salma Khatun,Lata Mondal,AC Kerr,2,0,,,,,,"",""
+ball,1,24.3,Bangladesh,Salma Khatun,Lata Mondal,AC Kerr,2,0,,,,,,"",""
+ball,1,24.4,Bangladesh,Salma Khatun,Lata Mondal,AC Kerr,3,0,,,,,,"",""
+ball,1,24.5,Bangladesh,Lata Mondal,Salma Khatun,AC Kerr,0,0,,,,,,"",""
+ball,1,24.6,Bangladesh,Lata Mondal,Salma Khatun,AC Kerr,0,0,,,,,,"",""
+ball,1,25.1,Bangladesh,Salma Khatun,Lata Mondal,FL Mackay,0,0,,,,,,"",""
+ball,1,25.2,Bangladesh,Salma Khatun,Lata Mondal,FL Mackay,2,0,,,,,,"",""
+ball,1,25.3,Bangladesh,Salma Khatun,Lata Mondal,FL Mackay,0,0,,,,,,run out,Salma Khatun
+ball,1,25.4,Bangladesh,Lata Mondal,Jahanara Alam,FL Mackay,1,0,,,,,,"",""
+ball,1,25.5,Bangladesh,Jahanara Alam,Lata Mondal,FL Mackay,0,1,,,,1,,"",""
+ball,1,25.6,Bangladesh,Lata Mondal,Jahanara Alam,FL Mackay,3,0,,,,,,"",""
+ball,1,26.1,Bangladesh,Lata Mondal,Jahanara Alam,AE Satterthwaite,1,0,,,,,,"",""
+ball,1,26.2,Bangladesh,Jahanara Alam,Lata Mondal,AE Satterthwaite,1,0,,,,,,"",""
+ball,1,26.3,Bangladesh,Lata Mondal,Jahanara Alam,AE Satterthwaite,0,0,,,,,,"",""
+ball,1,26.4,Bangladesh,Lata Mondal,Jahanara Alam,AE Satterthwaite,1,0,,,,,,"",""
+ball,1,26.5,Bangladesh,Jahanara Alam,Lata Mondal,AE Satterthwaite,1,0,,,,,,run out,Jahanara Alam
+ball,1,26.6,Bangladesh,Lata Mondal,Nahida Akter,AE Satterthwaite,1,0,,,,,,"",""
+ball,2,0.1,New Zealand,SFM Devine,SW Bates,Jahanara Alam,0,0,,,,,,"",""
+ball,2,0.2,New Zealand,SFM Devine,SW Bates,Jahanara Alam,0,0,,,,,,"",""
+ball,2,0.3,New Zealand,SFM Devine,SW Bates,Jahanara Alam,2,0,,,,,,"",""
+ball,2,0.4,New Zealand,SFM Devine,SW Bates,Jahanara Alam,0,0,,,,,,"",""
+ball,2,0.5,New Zealand,SFM Devine,SW Bates,Jahanara Alam,4,0,,,,,,"",""
+ball,2,0.6,New Zealand,SFM Devine,SW Bates,Jahanara Alam,1,0,,,,,,"",""
+ball,2,1.1,New Zealand,SFM Devine,SW Bates,Fariha Trisna,0,1,,,1,,,"",""
+ball,2,1.2,New Zealand,SW Bates,SFM Devine,Fariha Trisna,0,0,,,,,,"",""
+ball,2,1.3,New Zealand,SW Bates,SFM Devine,Fariha Trisna,0,0,,,,,,"",""
+ball,2,1.4,New Zealand,SW Bates,SFM Devine,Fariha Trisna,0,0,,,,,,"",""
+ball,2,1.5,New Zealand,SW Bates,SFM Devine,Fariha Trisna,1,0,,,,,,"",""
+ball,2,1.6,New Zealand,SFM Devine,SW Bates,Fariha Trisna,0,0,,,,,,"",""
+ball,2,2.1,New Zealand,SW Bates,SFM Devine,Jahanara Alam,0,0,,,,,,"",""
+ball,2,2.2,New Zealand,SW Bates,SFM Devine,Jahanara Alam,2,0,,,,,,"",""
+ball,2,2.3,New Zealand,SW Bates,SFM Devine,Jahanara Alam,0,0,,,,,,"",""
+ball,2,2.4,New Zealand,SW Bates,SFM Devine,Jahanara Alam,4,0,,,,,,"",""
+ball,2,2.5,New Zealand,SW Bates,SFM Devine,Jahanara Alam,0,0,,,,,,"",""
+ball,2,2.6,New Zealand,SW Bates,SFM Devine,Jahanara Alam,2,0,,,,,,"",""
+ball,2,3.1,New Zealand,SFM Devine,SW Bates,Fariha Trisna,0,0,,,,,,"",""
+ball,2,3.2,New Zealand,SFM Devine,SW Bates,Fariha Trisna,1,0,,,,,,"",""
+ball,2,3.3,New Zealand,SW Bates,SFM Devine,Fariha Trisna,0,0,,,,,,"",""
+ball,2,3.4,New Zealand,SW Bates,SFM Devine,Fariha Trisna,2,0,,,,,,"",""
+ball,2,3.5,New Zealand,SW Bates,SFM Devine,Fariha Trisna,1,0,,,,,,"",""
+ball,2,3.6,New Zealand,SFM Devine,SW Bates,Fariha Trisna,1,0,,,,,,"",""
+ball,2,4.1,New Zealand,SFM Devine,SW Bates,Salma Khatun,1,0,,,,,,"",""
+ball,2,4.2,New Zealand,SW Bates,SFM Devine,Salma Khatun,0,0,,,,,,"",""
+ball,2,4.3,New Zealand,SW Bates,SFM Devine,Salma Khatun,2,0,,,,,,"",""
+ball,2,4.4,New Zealand,SW Bates,SFM Devine,Salma Khatun,0,0,,,,,,"",""
+ball,2,4.5,New Zealand,SW Bates,SFM Devine,Salma Khatun,1,0,,,,,,"",""
+ball,2,4.6,New Zealand,SFM Devine,SW Bates,Salma Khatun,3,0,,,,,,"",""
+ball,2,5.1,New Zealand,SFM Devine,SW Bates,Nahida Akter,0,0,,,,,,"",""
+ball,2,5.2,New Zealand,SFM Devine,SW Bates,Nahida Akter,1,0,,,,,,"",""
+ball,2,5.3,New Zealand,SW Bates,SFM Devine,Nahida Akter,0,0,,,,,,"",""
+ball,2,5.4,New Zealand,SW Bates,SFM Devine,Nahida Akter,0,0,,,,,,"",""
+ball,2,5.5,New Zealand,SW Bates,SFM Devine,Nahida Akter,0,0,,,,,,"",""
+ball,2,5.6,New Zealand,SW Bates,SFM Devine,Nahida Akter,1,0,,,,,,"",""
+ball,2,6.1,New Zealand,SW Bates,SFM Devine,Salma Khatun,0,0,,,,,,"",""
+ball,2,6.2,New Zealand,SW Bates,SFM Devine,Salma Khatun,4,0,,,,,,"",""
+ball,2,6.3,New Zealand,SW Bates,SFM Devine,Salma Khatun,1,0,,,,,,"",""
+ball,2,6.4,New Zealand,SFM Devine,SW Bates,Salma Khatun,0,0,,,,,,bowled,SFM Devine
+ball,2,6.5,New Zealand,AC Kerr,SW Bates,Salma Khatun,1,0,,,,,,"",""
+ball,2,6.6,New Zealand,SW Bates,AC Kerr,Salma Khatun,2,0,,,,,,"",""
+ball,2,7.1,New Zealand,AC Kerr,SW Bates,Nahida Akter,0,0,,,,,,"",""
+ball,2,7.2,New Zealand,AC Kerr,SW Bates,Nahida Akter,0,0,,,,,,"",""
+ball,2,7.3,New Zealand,AC Kerr,SW Bates,Nahida Akter,0,0,,,,,,"",""
+ball,2,7.4,New Zealand,AC Kerr,SW Bates,Nahida Akter,0,0,,,,,,"",""
+ball,2,7.5,New Zealand,AC Kerr,SW Bates,Nahida Akter,0,0,,,,,,"",""
+ball,2,7.6,New Zealand,AC Kerr,SW Bates,Nahida Akter,0,0,,,,,,"",""
+ball,2,8.1,New Zealand,SW Bates,AC Kerr,Ritu Moni,2,0,,,,,,"",""
+ball,2,8.2,New Zealand,SW Bates,AC Kerr,Ritu Moni,1,0,,,,,,"",""
+ball,2,8.3,New Zealand,AC Kerr,SW Bates,Ritu Moni,1,0,,,,,,"",""
+ball,2,8.4,New Zealand,SW Bates,AC Kerr,Ritu Moni,1,0,,,,,,"",""
+ball,2,8.5,New Zealand,AC Kerr,SW Bates,Ritu Moni,0,0,,,,,,"",""
+ball,2,8.6,New Zealand,AC Kerr,SW Bates,Ritu Moni,4,0,,,,,,"",""
+ball,2,9.1,New Zealand,SW Bates,AC Kerr,Nahida Akter,1,0,,,,,,"",""
+ball,2,9.2,New Zealand,AC Kerr,SW Bates,Nahida Akter,4,0,,,,,,"",""
+ball,2,9.3,New Zealand,AC Kerr,SW Bates,Nahida Akter,1,0,,,,,,"",""
+ball,2,9.4,New Zealand,SW Bates,AC Kerr,Nahida Akter,1,0,,,,,,"",""
+ball,2,9.5,New Zealand,AC Kerr,SW Bates,Nahida Akter,1,0,,,,,,"",""
+ball,2,9.6,New Zealand,SW Bates,AC Kerr,Nahida Akter,1,0,,,,,,"",""
+ball,2,10.1,New Zealand,SW Bates,AC Kerr,Salma Khatun,0,0,,,,,,"",""
+ball,2,10.2,New Zealand,SW Bates,AC Kerr,Salma Khatun,0,0,,,,,,"",""
+ball,2,10.3,New Zealand,SW Bates,AC Kerr,Salma Khatun,1,0,,,,,,"",""
+ball,2,10.4,New Zealand,AC Kerr,SW Bates,Salma Khatun,4,0,,,,,,"",""
+ball,2,10.5,New Zealand,AC Kerr,SW Bates,Salma Khatun,0,0,,,,,,"",""
+ball,2,10.6,New Zealand,AC Kerr,SW Bates,Salma Khatun,1,0,,,,,,"",""
+ball,2,11.1,New Zealand,AC Kerr,SW Bates,Rumana Ahmed,1,0,,,,,,"",""
+ball,2,11.2,New Zealand,SW Bates,AC Kerr,Rumana Ahmed,1,0,,,,,,"",""
+ball,2,11.3,New Zealand,AC Kerr,SW Bates,Rumana Ahmed,1,0,,,,,,"",""
+ball,2,11.4,New Zealand,SW Bates,AC Kerr,Rumana Ahmed,1,0,,,,,,"",""
+ball,2,11.5,New Zealand,AC Kerr,SW Bates,Rumana Ahmed,1,0,,,,,,"",""
+ball,2,11.6,New Zealand,SW Bates,AC Kerr,Rumana Ahmed,1,0,,,,,,"",""
+ball,2,12.1,New Zealand,SW Bates,AC Kerr,Ritu Moni,0,0,,,,,,"",""
+ball,2,12.2,New Zealand,SW Bates,AC Kerr,Ritu Moni,1,0,,,,,,"",""
+ball,2,12.3,New Zealand,AC Kerr,SW Bates,Ritu Moni,1,0,,,,,,"",""
+ball,2,12.4,New Zealand,SW Bates,AC Kerr,Ritu Moni,0,0,,,,,,"",""
+ball,2,12.5,New Zealand,SW Bates,AC Kerr,Ritu Moni,1,0,,,,,,"",""
+ball,2,12.6,New Zealand,AC Kerr,SW Bates,Ritu Moni,1,0,,,,,,"",""
+ball,2,13.1,New Zealand,AC Kerr,SW Bates,Rumana Ahmed,0,0,,,,,,"",""
+ball,2,13.2,New Zealand,AC Kerr,SW Bates,Rumana Ahmed,1,0,,,,,,"",""
+ball,2,13.3,New Zealand,SW Bates,AC Kerr,Rumana Ahmed,0,0,,,,,,"",""
+ball,2,13.4,New Zealand,SW Bates,AC Kerr,Rumana Ahmed,4,0,,,,,,"",""
+ball,2,13.5,New Zealand,SW Bates,AC Kerr,Rumana Ahmed,1,0,,,,,,"",""
+ball,2,13.6,New Zealand,AC Kerr,SW Bates,Rumana Ahmed,2,0,,,,,,"",""
+ball,2,14.1,New Zealand,SW Bates,AC Kerr,Jahanara Alam,0,1,1,,,,,"",""
+ball,2,14.2,New Zealand,SW Bates,AC Kerr,Jahanara Alam,0,0,,,,,,"",""
+ball,2,14.3,New Zealand,SW Bates,AC Kerr,Jahanara Alam,1,0,,,,,,"",""
+ball,2,14.4,New Zealand,AC Kerr,SW Bates,Jahanara Alam,1,0,,,,,,"",""
+ball,2,14.5,New Zealand,SW Bates,AC Kerr,Jahanara Alam,1,1,,1,,,,"",""
+ball,2,14.6,New Zealand,AC Kerr,SW Bates,Jahanara Alam,1,0,,,,,,"",""
+ball,2,14.7,New Zealand,SW Bates,AC Kerr,Jahanara Alam,4,0,,,,,,"",""
+ball,2,14.8,New Zealand,SW Bates,AC Kerr,Jahanara Alam,0,0,,,,,,"",""
+ball,2,15.1,New Zealand,AC Kerr,SW Bates,Fariha Trisna,1,0,,,,,,"",""
+ball,2,15.2,New Zealand,SW Bates,AC Kerr,Fariha Trisna,1,0,,,,,,"",""
+ball,2,15.3,New Zealand,AC Kerr,SW Bates,Fariha Trisna,1,0,,,,,,"",""
+ball,2,15.4,New Zealand,SW Bates,AC Kerr,Fariha Trisna,4,0,,,,,,"",""
+ball,2,15.5,New Zealand,SW Bates,AC Kerr,Fariha Trisna,0,1,1,,,,,"",""
+ball,2,15.6,New Zealand,SW Bates,AC Kerr,Fariha Trisna,2,0,,,,,,"",""
+ball,2,15.7,New Zealand,SW Bates,AC Kerr,Fariha Trisna,1,0,,,,,,"",""
+ball,2,16.1,New Zealand,SW Bates,AC Kerr,Lata Mondal,1,0,,,,,,"",""
+ball,2,16.2,New Zealand,AC Kerr,SW Bates,Lata Mondal,1,0,,,,,,"",""
+ball,2,16.3,New Zealand,SW Bates,AC Kerr,Lata Mondal,1,0,,,,,,"",""
+ball,2,16.4,New Zealand,AC Kerr,SW Bates,Lata Mondal,1,0,,,,,,"",""
+ball,2,16.5,New Zealand,SW Bates,AC Kerr,Lata Mondal,1,0,,,,,,"",""
+ball,2,16.6,New Zealand,AC Kerr,SW Bates,Lata Mondal,4,0,,,,,,"",""
+ball,2,17.1,New Zealand,SW Bates,AC Kerr,Nahida Akter,0,0,,,,,,"",""
+ball,2,17.2,New Zealand,SW Bates,AC Kerr,Nahida Akter,1,0,,,,,,"",""
+ball,2,17.3,New Zealand,AC Kerr,SW Bates,Nahida Akter,1,0,,,,,,"",""
+ball,2,17.4,New Zealand,SW Bates,AC Kerr,Nahida Akter,1,0,,,,,,"",""
+ball,2,17.5,New Zealand,AC Kerr,SW Bates,Nahida Akter,1,0,,,,,,"",""
+ball,2,17.6,New Zealand,SW Bates,AC Kerr,Nahida Akter,1,0,,,,,,"",""
+ball,2,18.1,New Zealand,SW Bates,AC Kerr,Salma Khatun,1,0,,,,,,"",""
+ball,2,18.2,New Zealand,AC Kerr,SW Bates,Salma Khatun,1,0,,,,,,"",""
+ball,2,18.3,New Zealand,SW Bates,AC Kerr,Salma Khatun,4,0,,,,,,"",""
+ball,2,18.4,New Zealand,SW Bates,AC Kerr,Salma Khatun,4,0,,,,,,"",""
+ball,2,18.5,New Zealand,SW Bates,AC Kerr,Salma Khatun,1,0,,,,,,"",""
+ball,2,18.6,New Zealand,AC Kerr,SW Bates,Salma Khatun,2,0,,,,,,"",""
+ball,2,19.1,New Zealand,SW Bates,AC Kerr,Nahida Akter,4,0,,,,,,"",""
+ball,2,19.2,New Zealand,SW Bates,AC Kerr,Nahida Akter,0,0,,,,,,"",""
+ball,2,19.3,New Zealand,SW Bates,AC Kerr,Nahida Akter,1,0,,,,,,"",""
+ball,2,19.4,New Zealand,AC Kerr,SW Bates,Nahida Akter,3,0,,,,,,"",""
+ball,2,19.5,New Zealand,SW Bates,AC Kerr,Nahida Akter,3,0,,,,,,"",""
+ball,2,19.6,New Zealand,AC Kerr,SW Bates,Nahida Akter,4,0,,,,,,"",""

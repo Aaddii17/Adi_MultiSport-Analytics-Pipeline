@@ -1,0 +1,291 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Paarl Royals
+info,team,MI Cape Town
+info,gender,male
+info,season,2022/23
+info,date,2023/01/10
+info,event,SA20
+info,match_number,1
+info,venue,"Newlands, Cape Town"
+info,city,Cape Town
+info,toss_winner,MI Cape Town
+info,toss_decision,field
+info,player_of_match,D Brevis
+info,umpire,A Paleker
+info,umpire,M Erasmus
+info,reserve_umpire,A Steenkamp
+info,tv_umpire,BP Jele
+info,match_referee,GH Pienaar
+info,winner,MI Cape Town
+info,winner_wickets,8
+info,player,Paarl Royals,WJ Lubbe
+info,player,Paarl Royals,JC Buttler
+info,player,Paarl Royals,JJ Roy
+info,player,Paarl Royals,DJ Vilas
+info,player,Paarl Royals,DA Miller
+info,player,Paarl Royals,EJG Morgan
+info,player,Paarl Royals,FD Adams
+info,player,Paarl Royals,BC Fortuin
+info,player,Paarl Royals,RR Simmonds
+info,player,Paarl Royals,Codi Yusuf
+info,player,Paarl Royals,T Shamsi
+info,player,MI Cape Town,D Brevis
+info,player,MI Cape Town,RD Rickelton
+info,player,MI Cape Town,SM Curran
+info,player,MI Cape Town,HE van der Dussen
+info,player,MI Cape Town,G Roelofsen
+info,player,MI Cape Town,D Potgieter
+info,player,MI Cape Town,GF Linde
+info,player,MI Cape Town,Rashid Khan
+info,player,MI Cape Town,D Jansen
+info,player,MI Cape Town,OP Stone
+info,player,MI Cape Town,JC Archer
+info,registry,people,A Paleker,634b11ac
+info,registry,people,A Steenkamp,89c62cf5
+info,registry,people,BC Fortuin,9a2fc964
+info,registry,people,BP Jele,7bb1331e
+info,registry,people,Codi Yusuf,f2397e48
+info,registry,people,D Brevis,844e79d1
+info,registry,people,D Jansen,8dc152d1
+info,registry,people,D Potgieter,60fbf53a
+info,registry,people,DA Miller,d67d5f00
+info,registry,people,DJ Vilas,087210b1
+info,registry,people,EJG Morgan,d2a6c0e6
+info,registry,people,FD Adams,f277f531
+info,registry,people,G Roelofsen,ac688e55
+info,registry,people,GF Linde,e5437608
+info,registry,people,GH Pienaar,3516e46b
+info,registry,people,HE van der Dussen,9948e262
+info,registry,people,JC Archer,5574750c
+info,registry,people,JC Buttler,99b75528
+info,registry,people,JJ Roy,d1c36f5c
+info,registry,people,M Erasmus,15d3c895
+info,registry,people,OP Stone,3f659464
+info,registry,people,RD Rickelton,e66732f8
+info,registry,people,RR Simmonds,fcf6b0f6
+info,registry,people,Rashid Khan,5f547c8b
+info,registry,people,SM Curran,e94915e6
+info,registry,people,T Shamsi,a03bba42
+info,registry,people,WJ Lubbe,10f42013
+ball,1,0.1,Paarl Royals,WJ Lubbe,JC Buttler,GF Linde,1,0,,,,,,"",""
+ball,1,0.2,Paarl Royals,JC Buttler,WJ Lubbe,GF Linde,0,0,,,,,,"",""
+ball,1,0.3,Paarl Royals,JC Buttler,WJ Lubbe,GF Linde,4,0,,,,,,"",""
+ball,1,0.4,Paarl Royals,JC Buttler,WJ Lubbe,GF Linde,1,0,,,,,,"",""
+ball,1,0.5,Paarl Royals,WJ Lubbe,JC Buttler,GF Linde,0,1,1,,,,,"",""
+ball,1,0.6,Paarl Royals,WJ Lubbe,JC Buttler,GF Linde,1,0,,,,,,"",""
+ball,1,0.7,Paarl Royals,JC Buttler,WJ Lubbe,GF Linde,0,0,,,,,,"",""
+ball,1,1.1,Paarl Royals,WJ Lubbe,JC Buttler,SM Curran,0,0,,,,,,"",""
+ball,1,1.2,Paarl Royals,WJ Lubbe,JC Buttler,SM Curran,0,0,,,,,,"",""
+ball,1,1.3,Paarl Royals,WJ Lubbe,JC Buttler,SM Curran,1,0,,,,,,"",""
+ball,1,1.4,Paarl Royals,JC Buttler,WJ Lubbe,SM Curran,0,0,,,,,,"",""
+ball,1,1.5,Paarl Royals,JC Buttler,WJ Lubbe,SM Curran,0,0,,,,,,"",""
+ball,1,1.6,Paarl Royals,JC Buttler,WJ Lubbe,SM Curran,0,0,,,,,,"",""
+ball,1,2.1,Paarl Royals,WJ Lubbe,JC Buttler,JC Archer,0,0,,,,,,"",""
+ball,1,2.2,Paarl Royals,WJ Lubbe,JC Buttler,JC Archer,0,0,,,,,,"",""
+ball,1,2.3,Paarl Royals,WJ Lubbe,JC Buttler,JC Archer,0,0,,,,,,caught,WJ Lubbe
+ball,1,2.4,Paarl Royals,JJ Roy,JC Buttler,JC Archer,0,0,,,,,,"",""
+ball,1,2.5,Paarl Royals,JJ Roy,JC Buttler,JC Archer,0,0,,,,,,"",""
+ball,1,2.6,Paarl Royals,JJ Roy,JC Buttler,JC Archer,0,0,,,,,,"",""
+ball,1,3.1,Paarl Royals,JC Buttler,JJ Roy,GF Linde,4,0,,,,,,"",""
+ball,1,3.2,Paarl Royals,JC Buttler,JJ Roy,GF Linde,0,0,,,,,,"",""
+ball,1,3.3,Paarl Royals,JC Buttler,JJ Roy,GF Linde,4,0,,,,,,"",""
+ball,1,3.4,Paarl Royals,JC Buttler,JJ Roy,GF Linde,0,0,,,,,,"",""
+ball,1,3.5,Paarl Royals,JC Buttler,JJ Roy,GF Linde,0,0,,,,,,"",""
+ball,1,3.6,Paarl Royals,JC Buttler,JJ Roy,GF Linde,1,0,,,,,,"",""
+ball,1,4.1,Paarl Royals,JC Buttler,JJ Roy,JC Archer,0,0,,,,,,"",""
+ball,1,4.2,Paarl Royals,JC Buttler,JJ Roy,JC Archer,6,0,,,,,,"",""
+ball,1,4.3,Paarl Royals,JC Buttler,JJ Roy,JC Archer,1,0,,,,,,"",""
+ball,1,4.4,Paarl Royals,JJ Roy,JC Buttler,JC Archer,0,0,,,,,,"",""
+ball,1,4.5,Paarl Royals,JJ Roy,JC Buttler,JC Archer,2,0,,,,,,"",""
+ball,1,4.6,Paarl Royals,JJ Roy,JC Buttler,JC Archer,4,0,,,,,,"",""
+ball,1,5.1,Paarl Royals,JC Buttler,JJ Roy,Rashid Khan,4,0,,,,,,"",""
+ball,1,5.2,Paarl Royals,JC Buttler,JJ Roy,Rashid Khan,0,0,,,,,,"",""
+ball,1,5.3,Paarl Royals,JC Buttler,JJ Roy,Rashid Khan,0,0,,,,,,"",""
+ball,1,5.4,Paarl Royals,JC Buttler,JJ Roy,Rashid Khan,1,0,,,,,,"",""
+ball,1,5.5,Paarl Royals,JJ Roy,JC Buttler,Rashid Khan,4,0,,,,,,"",""
+ball,1,5.6,Paarl Royals,JJ Roy,JC Buttler,Rashid Khan,1,0,,,,,,"",""
+ball,1,6.1,Paarl Royals,JJ Roy,JC Buttler,D Jansen,0,0,,,,,,"",""
+ball,1,6.2,Paarl Royals,JJ Roy,JC Buttler,D Jansen,0,1,1,,,,,"",""
+ball,1,6.3,Paarl Royals,JJ Roy,JC Buttler,D Jansen,0,0,,,,,,"",""
+ball,1,6.4,Paarl Royals,JJ Roy,JC Buttler,D Jansen,2,0,,,,,,"",""
+ball,1,6.5,Paarl Royals,JJ Roy,JC Buttler,D Jansen,0,1,1,,,,,"",""
+ball,1,6.6,Paarl Royals,JJ Roy,JC Buttler,D Jansen,0,0,,,,,,"",""
+ball,1,6.7,Paarl Royals,JJ Roy,JC Buttler,D Jansen,0,0,,,,,,"",""
+ball,1,6.8,Paarl Royals,JJ Roy,JC Buttler,D Jansen,0,0,,,,,,caught,JJ Roy
+ball,1,7.1,Paarl Royals,JC Buttler,DJ Vilas,Rashid Khan,1,0,,,,,,"",""
+ball,1,7.2,Paarl Royals,DJ Vilas,JC Buttler,Rashid Khan,1,0,,,,,,"",""
+ball,1,7.3,Paarl Royals,JC Buttler,DJ Vilas,Rashid Khan,2,0,,,,,,"",""
+ball,1,7.4,Paarl Royals,JC Buttler,DJ Vilas,Rashid Khan,0,0,,,,,,"",""
+ball,1,7.5,Paarl Royals,JC Buttler,DJ Vilas,Rashid Khan,1,0,,,,,,"",""
+ball,1,7.6,Paarl Royals,DJ Vilas,JC Buttler,Rashid Khan,0,0,,,,,,"",""
+ball,1,8.1,Paarl Royals,JC Buttler,DJ Vilas,D Jansen,0,0,,,,,,"",""
+ball,1,8.2,Paarl Royals,JC Buttler,DJ Vilas,D Jansen,1,0,,,,,,"",""
+ball,1,8.3,Paarl Royals,DJ Vilas,JC Buttler,D Jansen,4,0,,,,,,"",""
+ball,1,8.4,Paarl Royals,DJ Vilas,JC Buttler,D Jansen,0,0,,,,,,"",""
+ball,1,8.5,Paarl Royals,DJ Vilas,JC Buttler,D Jansen,1,0,,,,,,"",""
+ball,1,8.6,Paarl Royals,JC Buttler,DJ Vilas,D Jansen,0,0,,,,,,"",""
+ball,1,9.1,Paarl Royals,DJ Vilas,JC Buttler,OP Stone,0,0,,,,,,"",""
+ball,1,9.2,Paarl Royals,DJ Vilas,JC Buttler,OP Stone,0,0,,,,,,bowled,DJ Vilas
+ball,1,9.3,Paarl Royals,DA Miller,JC Buttler,OP Stone,0,0,,,,,,"",""
+ball,1,9.4,Paarl Royals,DA Miller,JC Buttler,OP Stone,1,0,,,,,,"",""
+ball,1,9.5,Paarl Royals,JC Buttler,DA Miller,OP Stone,1,0,,,,,,"",""
+ball,1,9.6,Paarl Royals,DA Miller,JC Buttler,OP Stone,0,0,,,,,,"",""
+ball,1,10.1,Paarl Royals,JC Buttler,DA Miller,SM Curran,1,0,,,,,,"",""
+ball,1,10.2,Paarl Royals,DA Miller,JC Buttler,SM Curran,0,0,,,,,,"",""
+ball,1,10.3,Paarl Royals,DA Miller,JC Buttler,SM Curran,1,0,,,,,,"",""
+ball,1,10.4,Paarl Royals,JC Buttler,DA Miller,SM Curran,1,0,,,,,,"",""
+ball,1,10.5,Paarl Royals,DA Miller,JC Buttler,SM Curran,1,0,,,,,,"",""
+ball,1,10.6,Paarl Royals,JC Buttler,DA Miller,SM Curran,1,0,,,,,,"",""
+ball,1,11.1,Paarl Royals,JC Buttler,DA Miller,OP Stone,0,1,1,,,,,"",""
+ball,1,11.2,Paarl Royals,JC Buttler,DA Miller,OP Stone,4,0,,,,,,"",""
+ball,1,11.3,Paarl Royals,JC Buttler,DA Miller,OP Stone,1,0,,,,,,"",""
+ball,1,11.4,Paarl Royals,DA Miller,JC Buttler,OP Stone,0,0,,,,,,"",""
+ball,1,11.5,Paarl Royals,DA Miller,JC Buttler,OP Stone,4,0,,,,,,"",""
+ball,1,11.6,Paarl Royals,DA Miller,JC Buttler,OP Stone,4,0,,,,,,"",""
+ball,1,11.7,Paarl Royals,DA Miller,JC Buttler,OP Stone,0,1,1,,,,,"",""
+ball,1,11.8,Paarl Royals,DA Miller,JC Buttler,OP Stone,4,0,,,,,,"",""
+ball,1,12.1,Paarl Royals,JC Buttler,DA Miller,Rashid Khan,1,0,,,,,,"",""
+ball,1,12.2,Paarl Royals,DA Miller,JC Buttler,Rashid Khan,0,0,,,,,,"",""
+ball,1,12.3,Paarl Royals,DA Miller,JC Buttler,Rashid Khan,1,0,,,,,,"",""
+ball,1,12.4,Paarl Royals,JC Buttler,DA Miller,Rashid Khan,1,0,,,,,,"",""
+ball,1,12.5,Paarl Royals,DA Miller,JC Buttler,Rashid Khan,0,0,,,,,,"",""
+ball,1,12.6,Paarl Royals,DA Miller,JC Buttler,Rashid Khan,1,0,,,,,,"",""
+ball,1,13.1,Paarl Royals,DA Miller,JC Buttler,JC Archer,1,0,,,,,,"",""
+ball,1,13.2,Paarl Royals,JC Buttler,DA Miller,JC Archer,1,1,,1,,,,"",""
+ball,1,13.3,Paarl Royals,DA Miller,JC Buttler,JC Archer,2,0,,,,,,"",""
+ball,1,13.4,Paarl Royals,DA Miller,JC Buttler,JC Archer,1,0,,,,,,"",""
+ball,1,13.5,Paarl Royals,JC Buttler,DA Miller,JC Archer,4,0,,,,,,"",""
+ball,1,13.6,Paarl Royals,JC Buttler,DA Miller,JC Archer,1,0,,,,,,"",""
+ball,1,13.7,Paarl Royals,DA Miller,JC Buttler,JC Archer,1,0,,,,,,"",""
+ball,1,14.1,Paarl Royals,DA Miller,JC Buttler,D Jansen,1,0,,,,,,"",""
+ball,1,14.2,Paarl Royals,JC Buttler,DA Miller,D Jansen,1,0,,,,,,"",""
+ball,1,14.3,Paarl Royals,DA Miller,JC Buttler,D Jansen,1,0,,,,,,"",""
+ball,1,14.4,Paarl Royals,JC Buttler,DA Miller,D Jansen,1,0,,,,,,"",""
+ball,1,14.5,Paarl Royals,DA Miller,JC Buttler,D Jansen,1,0,,,,,,"",""
+ball,1,14.6,Paarl Royals,JC Buttler,DA Miller,D Jansen,1,0,,,,,,"",""
+ball,1,15.1,Paarl Royals,JC Buttler,DA Miller,OP Stone,0,0,,,,,,bowled,JC Buttler
+ball,1,15.2,Paarl Royals,EJG Morgan,DA Miller,OP Stone,0,1,1,,,,,"",""
+ball,1,15.3,Paarl Royals,EJG Morgan,DA Miller,OP Stone,0,0,,,,,,"",""
+ball,1,15.4,Paarl Royals,EJG Morgan,DA Miller,OP Stone,0,0,,,,,,"",""
+ball,1,15.5,Paarl Royals,EJG Morgan,DA Miller,OP Stone,0,0,,,,,,"",""
+ball,1,15.6,Paarl Royals,EJG Morgan,DA Miller,OP Stone,0,0,,,,,,"",""
+ball,1,15.7,Paarl Royals,EJG Morgan,DA Miller,OP Stone,0,0,,,,,,"",""
+ball,1,16.1,Paarl Royals,DA Miller,EJG Morgan,Rashid Khan,1,0,,,,,,"",""
+ball,1,16.2,Paarl Royals,EJG Morgan,DA Miller,Rashid Khan,2,0,,,,,,"",""
+ball,1,16.3,Paarl Royals,EJG Morgan,DA Miller,Rashid Khan,1,0,,,,,,"",""
+ball,1,16.4,Paarl Royals,DA Miller,EJG Morgan,Rashid Khan,4,0,,,,,,"",""
+ball,1,16.5,Paarl Royals,DA Miller,EJG Morgan,Rashid Khan,0,0,,,,,,"",""
+ball,1,16.6,Paarl Royals,DA Miller,EJG Morgan,Rashid Khan,1,0,,,,,,"",""
+ball,1,17.1,Paarl Royals,DA Miller,EJG Morgan,SM Curran,1,0,,,,,,"",""
+ball,1,17.2,Paarl Royals,EJG Morgan,DA Miller,SM Curran,1,0,,,,,,"",""
+ball,1,17.3,Paarl Royals,DA Miller,EJG Morgan,SM Curran,2,0,,,,,,"",""
+ball,1,17.4,Paarl Royals,DA Miller,EJG Morgan,SM Curran,6,0,,,,,,"",""
+ball,1,17.5,Paarl Royals,DA Miller,EJG Morgan,SM Curran,1,0,,,,,,"",""
+ball,1,17.6,Paarl Royals,EJG Morgan,DA Miller,SM Curran,6,0,,,,,,"",""
+ball,1,18.1,Paarl Royals,DA Miller,EJG Morgan,JC Archer,1,0,,,,,,"",""
+ball,1,18.2,Paarl Royals,EJG Morgan,DA Miller,JC Archer,1,0,,,,,,"",""
+ball,1,18.3,Paarl Royals,DA Miller,EJG Morgan,JC Archer,0,0,,,,,,caught,DA Miller
+ball,1,18.4,Paarl Royals,FD Adams,EJG Morgan,JC Archer,0,0,,,,,,caught,FD Adams
+ball,1,18.5,Paarl Royals,BC Fortuin,EJG Morgan,JC Archer,0,0,,,,,,"",""
+ball,1,18.6,Paarl Royals,BC Fortuin,EJG Morgan,JC Archer,0,0,,,,,,"",""
+ball,1,19.1,Paarl Royals,EJG Morgan,BC Fortuin,OP Stone,0,0,,,,,,"",""
+ball,1,19.2,Paarl Royals,EJG Morgan,BC Fortuin,OP Stone,2,0,,,,,,"",""
+ball,1,19.3,Paarl Royals,EJG Morgan,BC Fortuin,OP Stone,4,0,,,,,,"",""
+ball,1,19.4,Paarl Royals,EJG Morgan,BC Fortuin,OP Stone,1,0,,,,,,"",""
+ball,1,19.5,Paarl Royals,BC Fortuin,EJG Morgan,OP Stone,1,0,,,,,,"",""
+ball,1,19.6,Paarl Royals,EJG Morgan,BC Fortuin,OP Stone,1,0,,,,,,run out,EJG Morgan
+ball,2,0.1,MI Cape Town,D Brevis,RD Rickelton,Codi Yusuf,0,0,,,,,,"",""
+ball,2,0.2,MI Cape Town,D Brevis,RD Rickelton,Codi Yusuf,0,0,,,,,,"",""
+ball,2,0.3,MI Cape Town,D Brevis,RD Rickelton,Codi Yusuf,1,0,,,,,,"",""
+ball,2,0.4,MI Cape Town,RD Rickelton,D Brevis,Codi Yusuf,0,0,,,,,,"",""
+ball,2,0.5,MI Cape Town,RD Rickelton,D Brevis,Codi Yusuf,0,1,,,1,,,"",""
+ball,2,0.6,MI Cape Town,D Brevis,RD Rickelton,Codi Yusuf,1,0,,,,,,"",""
+ball,2,1.1,MI Cape Town,D Brevis,RD Rickelton,BC Fortuin,1,0,,,,,,"",""
+ball,2,1.2,MI Cape Town,RD Rickelton,D Brevis,BC Fortuin,1,0,,,,,,"",""
+ball,2,1.3,MI Cape Town,D Brevis,RD Rickelton,BC Fortuin,0,0,,,,,,"",""
+ball,2,1.4,MI Cape Town,D Brevis,RD Rickelton,BC Fortuin,1,0,,,,,,"",""
+ball,2,1.5,MI Cape Town,RD Rickelton,D Brevis,BC Fortuin,0,0,,,,,,"",""
+ball,2,1.6,MI Cape Town,RD Rickelton,D Brevis,BC Fortuin,1,0,,,,,,"",""
+ball,2,2.1,MI Cape Town,RD Rickelton,D Brevis,RR Simmonds,4,0,,,,,,"",""
+ball,2,2.2,MI Cape Town,RD Rickelton,D Brevis,RR Simmonds,4,0,,,,,,"",""
+ball,2,2.3,MI Cape Town,RD Rickelton,D Brevis,RR Simmonds,4,0,,,,,,"",""
+ball,2,2.4,MI Cape Town,RD Rickelton,D Brevis,RR Simmonds,0,0,,,,,,"",""
+ball,2,2.5,MI Cape Town,RD Rickelton,D Brevis,RR Simmonds,0,0,,,,,,"",""
+ball,2,2.6,MI Cape Town,RD Rickelton,D Brevis,RR Simmonds,1,0,,,,,,"",""
+ball,2,3.1,MI Cape Town,RD Rickelton,D Brevis,BC Fortuin,4,0,,,,,,"",""
+ball,2,3.2,MI Cape Town,RD Rickelton,D Brevis,BC Fortuin,1,0,,,,,,"",""
+ball,2,3.3,MI Cape Town,D Brevis,RD Rickelton,BC Fortuin,1,0,,,,,,"",""
+ball,2,3.4,MI Cape Town,RD Rickelton,D Brevis,BC Fortuin,1,0,,,,,,"",""
+ball,2,3.5,MI Cape Town,D Brevis,RD Rickelton,BC Fortuin,0,0,,,,,,"",""
+ball,2,3.6,MI Cape Town,D Brevis,RD Rickelton,BC Fortuin,0,0,,,,,,"",""
+ball,2,4.1,MI Cape Town,RD Rickelton,D Brevis,FD Adams,1,0,,,,,,"",""
+ball,2,4.2,MI Cape Town,D Brevis,RD Rickelton,FD Adams,1,0,,,,,,"",""
+ball,2,4.3,MI Cape Town,RD Rickelton,D Brevis,FD Adams,0,0,,,,,,"",""
+ball,2,4.4,MI Cape Town,RD Rickelton,D Brevis,FD Adams,0,0,,,,,,"",""
+ball,2,4.5,MI Cape Town,RD Rickelton,D Brevis,FD Adams,1,0,,,,,,"",""
+ball,2,4.6,MI Cape Town,D Brevis,RD Rickelton,FD Adams,1,0,,,,,,"",""
+ball,2,5.1,MI Cape Town,D Brevis,RD Rickelton,Codi Yusuf,6,0,,,,,,"",""
+ball,2,5.2,MI Cape Town,D Brevis,RD Rickelton,Codi Yusuf,4,0,,,,,,"",""
+ball,2,5.3,MI Cape Town,D Brevis,RD Rickelton,Codi Yusuf,0,0,,,,,,"",""
+ball,2,5.4,MI Cape Town,D Brevis,RD Rickelton,Codi Yusuf,1,0,,,,,,"",""
+ball,2,5.5,MI Cape Town,RD Rickelton,D Brevis,Codi Yusuf,4,0,,,,,,"",""
+ball,2,5.6,MI Cape Town,RD Rickelton,D Brevis,Codi Yusuf,1,0,,,,,,"",""
+ball,2,6.1,MI Cape Town,RD Rickelton,D Brevis,T Shamsi,1,0,,,,,,"",""
+ball,2,6.2,MI Cape Town,D Brevis,RD Rickelton,T Shamsi,1,0,,,,,,"",""
+ball,2,6.3,MI Cape Town,RD Rickelton,D Brevis,T Shamsi,2,0,,,,,,"",""
+ball,2,6.4,MI Cape Town,RD Rickelton,D Brevis,T Shamsi,1,0,,,,,,"",""
+ball,2,6.5,MI Cape Town,D Brevis,RD Rickelton,T Shamsi,1,0,,,,,,"",""
+ball,2,6.6,MI Cape Town,RD Rickelton,D Brevis,T Shamsi,1,0,,,,,,"",""
+ball,2,7.1,MI Cape Town,RD Rickelton,D Brevis,BC Fortuin,1,0,,,,,,"",""
+ball,2,7.2,MI Cape Town,D Brevis,RD Rickelton,BC Fortuin,1,0,,,,,,"",""
+ball,2,7.3,MI Cape Town,RD Rickelton,D Brevis,BC Fortuin,1,0,,,,,,"",""
+ball,2,7.4,MI Cape Town,D Brevis,RD Rickelton,BC Fortuin,1,0,,,,,,"",""
+ball,2,7.5,MI Cape Town,RD Rickelton,D Brevis,BC Fortuin,0,0,,,,,,"",""
+ball,2,7.6,MI Cape Town,RD Rickelton,D Brevis,BC Fortuin,0,0,,,,,,"",""
+ball,2,8.1,MI Cape Town,D Brevis,RD Rickelton,T Shamsi,6,0,,,,,,"",""
+ball,2,8.2,MI Cape Town,D Brevis,RD Rickelton,T Shamsi,0,0,,,,,,"",""
+ball,2,8.3,MI Cape Town,D Brevis,RD Rickelton,T Shamsi,0,1,1,,,,,"",""
+ball,2,8.4,MI Cape Town,D Brevis,RD Rickelton,T Shamsi,1,0,,,,,,"",""
+ball,2,8.5,MI Cape Town,RD Rickelton,D Brevis,T Shamsi,1,0,,,,,,"",""
+ball,2,8.6,MI Cape Town,D Brevis,RD Rickelton,T Shamsi,4,0,,,,,,"",""
+ball,2,8.7,MI Cape Town,D Brevis,RD Rickelton,T Shamsi,1,0,,,,,,"",""
+ball,2,9.1,MI Cape Town,D Brevis,RD Rickelton,FD Adams,2,0,,,,,,"",""
+ball,2,9.2,MI Cape Town,D Brevis,RD Rickelton,FD Adams,6,0,,,,,,"",""
+ball,2,9.3,MI Cape Town,D Brevis,RD Rickelton,FD Adams,1,0,,,,,,"",""
+ball,2,9.4,MI Cape Town,RD Rickelton,D Brevis,FD Adams,0,0,,,,,,"",""
+ball,2,9.5,MI Cape Town,RD Rickelton,D Brevis,FD Adams,0,1,,,,1,,"",""
+ball,2,9.6,MI Cape Town,D Brevis,RD Rickelton,FD Adams,1,0,,,,,,"",""
+ball,2,10.1,MI Cape Town,D Brevis,RD Rickelton,RR Simmonds,0,0,,,,,,"",""
+ball,2,10.2,MI Cape Town,D Brevis,RD Rickelton,RR Simmonds,1,0,,,,,,"",""
+ball,2,10.3,MI Cape Town,RD Rickelton,D Brevis,RR Simmonds,6,0,,,,,,"",""
+ball,2,10.4,MI Cape Town,RD Rickelton,D Brevis,RR Simmonds,0,0,,,,,,bowled,RD Rickelton
+ball,2,10.5,MI Cape Town,SM Curran,D Brevis,RR Simmonds,0,0,,,,,,"",""
+ball,2,10.6,MI Cape Town,SM Curran,D Brevis,RR Simmonds,0,0,,,,,,"",""
+ball,2,11.1,MI Cape Town,D Brevis,SM Curran,FD Adams,6,0,,,,,,"",""
+ball,2,11.2,MI Cape Town,D Brevis,SM Curran,FD Adams,1,0,,,,,,"",""
+ball,2,11.3,MI Cape Town,SM Curran,D Brevis,FD Adams,0,0,,,,,,"",""
+ball,2,11.4,MI Cape Town,SM Curran,D Brevis,FD Adams,0,0,,,,,,"",""
+ball,2,11.5,MI Cape Town,SM Curran,D Brevis,FD Adams,0,0,,,,,,"",""
+ball,2,11.6,MI Cape Town,SM Curran,D Brevis,FD Adams,1,0,,,,,,"",""
+ball,2,12.1,MI Cape Town,SM Curran,D Brevis,T Shamsi,1,0,,,,,,"",""
+ball,2,12.2,MI Cape Town,D Brevis,SM Curran,T Shamsi,1,0,,,,,,"",""
+ball,2,12.3,MI Cape Town,SM Curran,D Brevis,T Shamsi,0,0,,,,,,"",""
+ball,2,12.4,MI Cape Town,SM Curran,D Brevis,T Shamsi,6,0,,,,,,"",""
+ball,2,12.5,MI Cape Town,SM Curran,D Brevis,T Shamsi,1,0,,,,,,"",""
+ball,2,12.6,MI Cape Town,D Brevis,SM Curran,T Shamsi,1,0,,,,,,"",""
+ball,2,13.1,MI Cape Town,D Brevis,SM Curran,RR Simmonds,1,0,,,,,,"",""
+ball,2,13.2,MI Cape Town,SM Curran,D Brevis,RR Simmonds,0,0,,,,,,"",""
+ball,2,13.3,MI Cape Town,SM Curran,D Brevis,RR Simmonds,4,0,,,,,,"",""
+ball,2,13.4,MI Cape Town,SM Curran,D Brevis,RR Simmonds,0,0,,,,,,"",""
+ball,2,13.5,MI Cape Town,SM Curran,D Brevis,RR Simmonds,6,0,,,,,,"",""
+ball,2,13.6,MI Cape Town,SM Curran,D Brevis,RR Simmonds,1,0,,,,,,"",""
+ball,2,14.1,MI Cape Town,SM Curran,D Brevis,Codi Yusuf,0,0,,,,,,caught,SM Curran
+ball,2,14.2,MI Cape Town,HE van der Dussen,D Brevis,Codi Yusuf,1,0,,,,,,"",""
+ball,2,14.3,MI Cape Town,D Brevis,HE van der Dussen,Codi Yusuf,6,0,,,,,,"",""
+ball,2,14.4,MI Cape Town,D Brevis,HE van der Dussen,Codi Yusuf,4,0,,,,,,"",""
+ball,2,14.5,MI Cape Town,D Brevis,HE van der Dussen,Codi Yusuf,4,0,,,,,,"",""
+ball,2,14.6,MI Cape Town,D Brevis,HE van der Dussen,Codi Yusuf,0,0,,,,,,"",""
+ball,2,15.1,MI Cape Town,HE van der Dussen,D Brevis,BC Fortuin,6,0,,,,,,"",""
+ball,2,15.2,MI Cape Town,HE van der Dussen,D Brevis,BC Fortuin,1,0,,,,,,"",""
+ball,2,15.3,MI Cape Town,D Brevis,HE van der Dussen,BC Fortuin,1,0,,,,,,"",""

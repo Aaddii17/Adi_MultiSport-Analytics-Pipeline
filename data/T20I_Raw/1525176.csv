@@ -1,0 +1,319 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Mexico
+info,team,Suriname
+info,gender,male
+info,season,2025/26
+info,date,2026/03/15
+info,event,ICC Men's T20 World Cup Sub Regional Americas Qualifier B
+info,match_number,11
+info,venue,"Jimmy Powell Oval, Cayman Islands"
+info,city,George Town
+info,toss_winner,Suriname
+info,toss_decision,field
+info,player_of_match,G Singh
+info,umpire,AR Maddela
+info,umpire,Jermaine Lindo
+info,reserve_umpire,A Gajjar
+info,match_referee,Denavon Hayles
+info,winner,Suriname
+info,winner_wickets,4
+info,player,Mexico,J Byrappa
+info,player,Mexico,KB Patil
+info,player,Mexico,S Kochar
+info,player,Mexico,Amir Butt
+info,player,Mexico,D Panda
+info,player,Mexico,D Ebersohn
+info,player,Mexico,Gurpreet Singh
+info,player,Mexico,Shantanu Kaveri
+info,player,Mexico,Shoaib Rafiq
+info,player,Mexico,S Sharma
+info,player,Mexico,Pratik Singh Bais
+info,player,Suriname,S Bharratt
+info,player,Suriname,V Hirlal
+info,player,Suriname,V Shaw
+info,player,Suriname,G Singh
+info,player,Suriname,TA Dudnath
+info,player,Suriname,XSD Smith
+info,player,Suriname,YP Dayal
+info,player,Suriname,AK Gokoel
+info,player,Suriname,J Perry
+info,player,Suriname,K Jaikaran
+info,player,Suriname,SA Amirullah
+info,registry,people,A Gajjar,37db06ef
+info,registry,people,AK Gokoel,2fff8b43
+info,registry,people,AR Maddela,5c861579
+info,registry,people,Amir Butt,5bdf2343
+info,registry,people,D Ebersohn,6ca4e7bf
+info,registry,people,D Panda,bad1af65
+info,registry,people,Denavon Hayles,5cbeeb02
+info,registry,people,G Singh,e93b6c95
+info,registry,people,Gurpreet Singh,f43dcdc1
+info,registry,people,J Byrappa,860f7b67
+info,registry,people,J Perry,f5c73a14
+info,registry,people,Jermaine Lindo,1154bf4f
+info,registry,people,K Jaikaran,420431c9
+info,registry,people,KB Patil,0474fd64
+info,registry,people,Pratik Singh Bais,5b351aff
+info,registry,people,S Bharratt,1335107b
+info,registry,people,S Kochar,da2eeb97
+info,registry,people,S Sharma,d6d2ac95
+info,registry,people,SA Amirullah,2e78ffac
+info,registry,people,Shantanu Kaveri,091880f7
+info,registry,people,Shoaib Rafiq,27df03d2
+info,registry,people,TA Dudnath,15322a7b
+info,registry,people,V Hirlal,3eb2a27b
+info,registry,people,V Shaw,e05dd44b
+info,registry,people,XSD Smith,f4f892a3
+info,registry,people,YP Dayal,990f1424
+ball,1,0.1,Mexico,J Byrappa,KB Patil,TA Dudnath,0,0,,,,,,"",""
+ball,1,0.2,Mexico,J Byrappa,KB Patil,TA Dudnath,0,2,2,,,,,"",""
+ball,1,0.3,Mexico,KB Patil,J Byrappa,TA Dudnath,2,0,,,,,,"",""
+ball,1,0.4,Mexico,KB Patil,J Byrappa,TA Dudnath,0,1,1,,,,,"",""
+ball,1,0.5,Mexico,KB Patil,J Byrappa,TA Dudnath,0,0,,,,,,"",""
+ball,1,0.6,Mexico,KB Patil,J Byrappa,TA Dudnath,0,0,,,,,,"",""
+ball,1,0.7,Mexico,KB Patil,J Byrappa,TA Dudnath,0,0,,,,,,"",""
+ball,1,0.8,Mexico,KB Patil,J Byrappa,TA Dudnath,1,0,,,,,,"",""
+ball,1,1.1,Mexico,KB Patil,J Byrappa,G Singh,0,0,,,,,,"",""
+ball,1,1.2,Mexico,KB Patil,J Byrappa,G Singh,0,0,,,,,,caught,KB Patil
+ball,1,1.3,Mexico,S Kochar,J Byrappa,G Singh,0,0,,,,,,"",""
+ball,1,1.4,Mexico,S Kochar,J Byrappa,G Singh,0,0,,,,,,"",""
+ball,1,1.5,Mexico,S Kochar,J Byrappa,G Singh,0,0,,,,,,"",""
+ball,1,1.6,Mexico,S Kochar,J Byrappa,G Singh,0,0,,,,,,"",""
+ball,1,2.1,Mexico,J Byrappa,S Kochar,TA Dudnath,1,0,,,,,,"",""
+ball,1,2.2,Mexico,S Kochar,J Byrappa,TA Dudnath,0,0,,,,,,"",""
+ball,1,2.3,Mexico,S Kochar,J Byrappa,TA Dudnath,1,0,,,,,,"",""
+ball,1,2.4,Mexico,J Byrappa,S Kochar,TA Dudnath,2,0,,,,,,"",""
+ball,1,2.5,Mexico,J Byrappa,S Kochar,TA Dudnath,2,0,,,,,,"",""
+ball,1,2.6,Mexico,J Byrappa,S Kochar,TA Dudnath,0,0,,,,,,"",""
+ball,1,3.1,Mexico,S Kochar,J Byrappa,G Singh,0,0,,,,,,"",""
+ball,1,3.2,Mexico,S Kochar,J Byrappa,G Singh,2,0,,,,,,"",""
+ball,1,3.3,Mexico,S Kochar,J Byrappa,G Singh,0,0,,,,,,"",""
+ball,1,3.4,Mexico,S Kochar,J Byrappa,G Singh,0,0,,,,,,"",""
+ball,1,3.5,Mexico,S Kochar,J Byrappa,G Singh,1,0,,,,,,"",""
+ball,1,3.6,Mexico,J Byrappa,S Kochar,G Singh,2,0,,,,,,"",""
+ball,1,4.1,Mexico,S Kochar,J Byrappa,TA Dudnath,0,0,,,,,,"",""
+ball,1,4.2,Mexico,S Kochar,J Byrappa,TA Dudnath,2,0,,,,,,"",""
+ball,1,4.3,Mexico,S Kochar,J Byrappa,TA Dudnath,4,0,,,,,,"",""
+ball,1,4.4,Mexico,S Kochar,J Byrappa,TA Dudnath,1,0,,,,,,"",""
+ball,1,4.5,Mexico,J Byrappa,S Kochar,TA Dudnath,2,0,,,,,,"",""
+ball,1,4.6,Mexico,J Byrappa,S Kochar,TA Dudnath,0,1,,1,,,,"",""
+ball,1,4.7,Mexico,J Byrappa,S Kochar,TA Dudnath,2,0,,,,,,"",""
+ball,1,5.1,Mexico,S Kochar,J Byrappa,G Singh,1,0,,,,,,"",""
+ball,1,5.2,Mexico,J Byrappa,S Kochar,G Singh,0,0,,,,,,"",""
+ball,1,5.3,Mexico,J Byrappa,S Kochar,G Singh,2,0,,,,,,"",""
+ball,1,5.4,Mexico,J Byrappa,S Kochar,G Singh,2,0,,,,,,"",""
+ball,1,5.5,Mexico,J Byrappa,S Kochar,G Singh,1,0,,,,,,"",""
+ball,1,5.6,Mexico,S Kochar,J Byrappa,G Singh,0,1,1,,,,,"",""
+ball,1,5.7,Mexico,S Kochar,J Byrappa,G Singh,4,0,,,,,,"",""
+ball,1,6.1,Mexico,J Byrappa,S Kochar,AK Gokoel,0,0,,,,,,"",""
+ball,1,6.2,Mexico,J Byrappa,S Kochar,AK Gokoel,1,0,,,,,,"",""
+ball,1,6.3,Mexico,S Kochar,J Byrappa,AK Gokoel,1,0,,,,,,"",""
+ball,1,6.4,Mexico,J Byrappa,S Kochar,AK Gokoel,1,0,,,,,,"",""
+ball,1,6.5,Mexico,S Kochar,J Byrappa,AK Gokoel,0,0,,,,,,"",""
+ball,1,6.6,Mexico,S Kochar,J Byrappa,AK Gokoel,0,0,,,,,,"",""
+ball,1,7.1,Mexico,J Byrappa,S Kochar,G Singh,1,0,,,,,,"",""
+ball,1,7.2,Mexico,S Kochar,J Byrappa,G Singh,6,0,,,,,,"",""
+ball,1,7.3,Mexico,S Kochar,J Byrappa,G Singh,1,0,,,,,,"",""
+ball,1,7.4,Mexico,J Byrappa,S Kochar,G Singh,1,0,,,,,,"",""
+ball,1,7.5,Mexico,S Kochar,J Byrappa,G Singh,1,0,,,,,,"",""
+ball,1,7.6,Mexico,J Byrappa,S Kochar,G Singh,0,0,,,,,,"",""
+ball,1,8.1,Mexico,S Kochar,J Byrappa,AK Gokoel,1,0,,,,,,"",""
+ball,1,8.2,Mexico,J Byrappa,S Kochar,AK Gokoel,1,0,,,,,,"",""
+ball,1,8.3,Mexico,S Kochar,J Byrappa,AK Gokoel,0,0,,,,,,stumped,S Kochar
+ball,1,8.4,Mexico,Amir Butt,J Byrappa,AK Gokoel,2,0,,,,,,"",""
+ball,1,8.5,Mexico,Amir Butt,J Byrappa,AK Gokoel,1,0,,,,,,"",""
+ball,1,8.6,Mexico,J Byrappa,Amir Butt,AK Gokoel,6,0,,,,,,"",""
+ball,1,9.1,Mexico,Amir Butt,J Byrappa,XSD Smith,0,0,,,,,,"",""
+ball,1,9.2,Mexico,Amir Butt,J Byrappa,XSD Smith,0,0,,,,,,"",""
+ball,1,9.3,Mexico,Amir Butt,J Byrappa,XSD Smith,6,0,,,,,,"",""
+ball,1,9.4,Mexico,Amir Butt,J Byrappa,XSD Smith,1,0,,,,,,"",""
+ball,1,9.5,Mexico,J Byrappa,Amir Butt,XSD Smith,0,0,,,,,,lbw,J Byrappa
+ball,1,9.6,Mexico,D Panda,Amir Butt,XSD Smith,0,0,,,,,,"",""
+ball,1,10.1,Mexico,Amir Butt,D Panda,YP Dayal,0,0,,,,,,"",""
+ball,1,10.2,Mexico,Amir Butt,D Panda,YP Dayal,2,0,,,,,,"",""
+ball,1,10.3,Mexico,Amir Butt,D Panda,YP Dayal,2,0,,,,,,"",""
+ball,1,10.4,Mexico,Amir Butt,D Panda,YP Dayal,1,0,,,,,,"",""
+ball,1,10.5,Mexico,D Panda,Amir Butt,YP Dayal,4,0,,,,,,"",""
+ball,1,10.6,Mexico,D Panda,Amir Butt,YP Dayal,2,0,,,,,,"",""
+ball,1,11.1,Mexico,Amir Butt,D Panda,XSD Smith,1,0,,,,,,"",""
+ball,1,11.2,Mexico,D Panda,Amir Butt,XSD Smith,1,0,,,,,,"",""
+ball,1,11.3,Mexico,Amir Butt,D Panda,XSD Smith,0,0,,,,,,"",""
+ball,1,11.4,Mexico,Amir Butt,D Panda,XSD Smith,1,0,,,,,,"",""
+ball,1,11.5,Mexico,D Panda,Amir Butt,XSD Smith,1,0,,,,,,"",""
+ball,1,11.6,Mexico,Amir Butt,D Panda,XSD Smith,0,0,,,,,,"",""
+ball,1,12.1,Mexico,D Panda,Amir Butt,AK Gokoel,1,0,,,,,,"",""
+ball,1,12.2,Mexico,Amir Butt,D Panda,AK Gokoel,0,0,,,,,,"",""
+ball,1,12.3,Mexico,Amir Butt,D Panda,AK Gokoel,6,0,,,,,,"",""
+ball,1,12.4,Mexico,Amir Butt,D Panda,AK Gokoel,2,0,,,,,,"",""
+ball,1,12.5,Mexico,Amir Butt,D Panda,AK Gokoel,0,0,,,,,,caught,Amir Butt
+ball,1,12.6,Mexico,D Ebersohn,D Panda,AK Gokoel,0,0,,,,,,"",""
+ball,1,13.1,Mexico,D Panda,D Ebersohn,XSD Smith,0,0,,,,,,"",""
+ball,1,13.2,Mexico,D Panda,D Ebersohn,XSD Smith,0,0,,,,,,bowled,D Panda
+ball,1,13.3,Mexico,Gurpreet Singh,D Ebersohn,XSD Smith,0,0,,,,,,"",""
+ball,1,13.4,Mexico,Gurpreet Singh,D Ebersohn,XSD Smith,0,0,,,,,,"",""
+ball,1,13.5,Mexico,Gurpreet Singh,D Ebersohn,XSD Smith,0,0,,,,,,"",""
+ball,1,13.6,Mexico,Gurpreet Singh,D Ebersohn,XSD Smith,2,0,,,,,,"",""
+ball,1,14.1,Mexico,D Ebersohn,Gurpreet Singh,V Shaw,2,0,,,,,,"",""
+ball,1,14.2,Mexico,D Ebersohn,Gurpreet Singh,V Shaw,0,0,,,,,,"",""
+ball,1,14.3,Mexico,D Ebersohn,Gurpreet Singh,V Shaw,0,0,,,,,,"",""
+ball,1,14.4,Mexico,D Ebersohn,Gurpreet Singh,V Shaw,0,0,,,,,,"",""
+ball,1,14.5,Mexico,D Ebersohn,Gurpreet Singh,V Shaw,0,0,,,,,,"",""
+ball,1,14.6,Mexico,D Ebersohn,Gurpreet Singh,V Shaw,1,0,,,,,,"",""
+ball,1,15.1,Mexico,D Ebersohn,Gurpreet Singh,XSD Smith,0,0,,,,,,"",""
+ball,1,15.2,Mexico,D Ebersohn,Gurpreet Singh,XSD Smith,0,0,,,,,,bowled,D Ebersohn
+ball,1,15.3,Mexico,Shantanu Kaveri,Gurpreet Singh,XSD Smith,0,0,,,,,,"",""
+ball,1,15.4,Mexico,Shantanu Kaveri,Gurpreet Singh,XSD Smith,1,0,,,,,,"",""
+ball,1,15.5,Mexico,Gurpreet Singh,Shantanu Kaveri,XSD Smith,0,0,,,,,,"",""
+ball,1,15.6,Mexico,Gurpreet Singh,Shantanu Kaveri,XSD Smith,1,0,,,,,,"",""
+ball,1,16.1,Mexico,Gurpreet Singh,Shantanu Kaveri,V Shaw,2,0,,,,,,"",""
+ball,1,16.2,Mexico,Gurpreet Singh,Shantanu Kaveri,V Shaw,0,0,,,,,,"",""
+ball,1,16.3,Mexico,Gurpreet Singh,Shantanu Kaveri,V Shaw,0,0,,,,,,"",""
+ball,1,16.4,Mexico,Gurpreet Singh,Shantanu Kaveri,V Shaw,3,0,,,,,,"",""
+ball,1,16.5,Mexico,Shantanu Kaveri,Gurpreet Singh,V Shaw,1,0,,,,,,"",""
+ball,1,16.6,Mexico,Gurpreet Singh,Shantanu Kaveri,V Shaw,2,0,,,,,,"",""
+ball,1,17.1,Mexico,Shantanu Kaveri,Gurpreet Singh,YP Dayal,2,0,,,,,,"",""
+ball,1,17.2,Mexico,Shantanu Kaveri,Gurpreet Singh,YP Dayal,2,0,,,,,,"",""
+ball,1,17.3,Mexico,Shantanu Kaveri,Gurpreet Singh,YP Dayal,1,0,,,,,,"",""
+ball,1,17.4,Mexico,Gurpreet Singh,Shantanu Kaveri,YP Dayal,1,0,,,,,,"",""
+ball,1,17.5,Mexico,Shantanu Kaveri,Gurpreet Singh,YP Dayal,0,0,,,,,,"",""
+ball,1,17.6,Mexico,Shantanu Kaveri,Gurpreet Singh,YP Dayal,1,0,,,,,,"",""
+ball,1,18.1,Mexico,Shantanu Kaveri,Gurpreet Singh,AK Gokoel,0,0,,,,,,"",""
+ball,1,18.2,Mexico,Shantanu Kaveri,Gurpreet Singh,AK Gokoel,0,0,,,,,,"",""
+ball,1,18.3,Mexico,Shantanu Kaveri,Gurpreet Singh,AK Gokoel,2,0,,,,,,"",""
+ball,1,18.4,Mexico,Shantanu Kaveri,Gurpreet Singh,AK Gokoel,0,0,,,,,,run out,Gurpreet Singh
+ball,1,18.5,Mexico,Shoaib Rafiq,Shantanu Kaveri,AK Gokoel,0,0,,,,,,bowled,Shoaib Rafiq
+ball,1,18.6,Mexico,S Sharma,Shantanu Kaveri,AK Gokoel,0,0,,,,,,"",""
+ball,1,19.1,Mexico,Shantanu Kaveri,S Sharma,V Shaw,1,0,,,,,,"",""
+ball,1,19.2,Mexico,S Sharma,Shantanu Kaveri,V Shaw,2,0,,,,,,"",""
+ball,1,19.3,Mexico,S Sharma,Shantanu Kaveri,V Shaw,1,0,,,,,,"",""
+ball,1,19.4,Mexico,Shantanu Kaveri,S Sharma,V Shaw,2,0,,,,,,"",""
+ball,1,19.5,Mexico,Shantanu Kaveri,S Sharma,V Shaw,1,0,,,,,,"",""
+ball,1,19.6,Mexico,Shantanu Kaveri,S Sharma,V Shaw,0,0,,,,,,caught,Shantanu Kaveri
+ball,2,0.1,Suriname,S Bharratt,V Hirlal,Pratik Singh Bais,0,0,,,,,,"",""
+ball,2,0.2,Suriname,S Bharratt,V Hirlal,Pratik Singh Bais,1,0,,,,,,"",""
+ball,2,0.3,Suriname,V Hirlal,S Bharratt,Pratik Singh Bais,1,0,,,,,,"",""
+ball,2,0.4,Suriname,S Bharratt,V Hirlal,Pratik Singh Bais,0,0,,,,,,"",""
+ball,2,0.5,Suriname,S Bharratt,V Hirlal,Pratik Singh Bais,2,0,,,,,,"",""
+ball,2,0.6,Suriname,S Bharratt,V Hirlal,Pratik Singh Bais,4,0,,,,,,"",""
+ball,2,1.1,Suriname,V Hirlal,S Bharratt,Shoaib Rafiq,1,0,,,,,,"",""
+ball,2,1.2,Suriname,S Bharratt,V Hirlal,Shoaib Rafiq,0,0,,,,,,"",""
+ball,2,1.3,Suriname,S Bharratt,V Hirlal,Shoaib Rafiq,0,0,,,,,,"",""
+ball,2,1.4,Suriname,S Bharratt,V Hirlal,Shoaib Rafiq,0,0,,,,,,"",""
+ball,2,1.5,Suriname,S Bharratt,V Hirlal,Shoaib Rafiq,1,0,,,,,,"",""
+ball,2,1.6,Suriname,V Hirlal,S Bharratt,Shoaib Rafiq,0,0,,,,,,"",""
+ball,2,2.1,Suriname,S Bharratt,V Hirlal,Pratik Singh Bais,0,0,,,,,,"",""
+ball,2,2.2,Suriname,S Bharratt,V Hirlal,Pratik Singh Bais,2,0,,,,,,"",""
+ball,2,2.3,Suriname,S Bharratt,V Hirlal,Pratik Singh Bais,4,0,,,,,,"",""
+ball,2,2.4,Suriname,S Bharratt,V Hirlal,Pratik Singh Bais,1,0,,,,,,"",""
+ball,2,2.5,Suriname,V Hirlal,S Bharratt,Pratik Singh Bais,0,1,1,,,,,"",""
+ball,2,2.6,Suriname,V Hirlal,S Bharratt,Pratik Singh Bais,0,0,,,,,,"",""
+ball,2,2.7,Suriname,V Hirlal,S Bharratt,Pratik Singh Bais,2,0,,,,,,"",""
+ball,2,3.1,Suriname,S Bharratt,V Hirlal,Shoaib Rafiq,0,0,,,,,,"",""
+ball,2,3.2,Suriname,S Bharratt,V Hirlal,Shoaib Rafiq,0,0,,,,,,"",""
+ball,2,3.3,Suriname,S Bharratt,V Hirlal,Shoaib Rafiq,4,0,,,,,,"",""
+ball,2,3.4,Suriname,S Bharratt,V Hirlal,Shoaib Rafiq,1,0,,,,,,"",""
+ball,2,3.5,Suriname,V Hirlal,S Bharratt,Shoaib Rafiq,0,0,,,,,,"",""
+ball,2,3.6,Suriname,V Hirlal,S Bharratt,Shoaib Rafiq,1,0,,,,,,"",""
+ball,2,4.1,Suriname,V Hirlal,S Bharratt,D Panda,2,0,,,,,,"",""
+ball,2,4.2,Suriname,V Hirlal,S Bharratt,D Panda,0,0,,,,,,caught,V Hirlal
+ball,2,4.3,Suriname,V Shaw,S Bharratt,D Panda,1,0,,,,,,"",""
+ball,2,4.4,Suriname,S Bharratt,V Shaw,D Panda,0,1,1,,,,,"",""
+ball,2,4.5,Suriname,S Bharratt,V Shaw,D Panda,4,0,,,,,,"",""
+ball,2,4.6,Suriname,S Bharratt,V Shaw,D Panda,1,0,,,,,,"",""
+ball,2,4.7,Suriname,V Shaw,S Bharratt,D Panda,0,0,,,,,,"",""
+ball,2,5.1,Suriname,S Bharratt,V Shaw,Shoaib Rafiq,2,0,,,,,,"",""
+ball,2,5.2,Suriname,S Bharratt,V Shaw,Shoaib Rafiq,0,0,,,,,,"",""
+ball,2,5.3,Suriname,S Bharratt,V Shaw,Shoaib Rafiq,0,0,,,,,,"",""
+ball,2,5.4,Suriname,S Bharratt,V Shaw,Shoaib Rafiq,1,0,,,,,,"",""
+ball,2,5.5,Suriname,V Shaw,S Bharratt,Shoaib Rafiq,0,0,,,,,,"",""
+ball,2,5.6,Suriname,V Shaw,S Bharratt,Shoaib Rafiq,0,0,,,,,,"",""
+ball,2,6.1,Suriname,S Bharratt,V Shaw,S Sharma,0,1,1,,,,,"",""
+ball,2,6.2,Suriname,S Bharratt,V Shaw,S Sharma,0,1,1,,,,,"",""
+ball,2,6.3,Suriname,S Bharratt,V Shaw,S Sharma,0,0,,,,,,"",""
+ball,2,6.4,Suriname,S Bharratt,V Shaw,S Sharma,0,0,,,,,,caught and bowled,S Bharratt
+ball,2,6.5,Suriname,G Singh,V Shaw,S Sharma,0,0,,,,,,"",""
+ball,2,6.6,Suriname,G Singh,V Shaw,S Sharma,1,0,,,,,,"",""
+ball,2,6.7,Suriname,V Shaw,G Singh,S Sharma,0,0,,,,,,"",""
+ball,2,6.8,Suriname,V Shaw,G Singh,S Sharma,0,1,1,,,,,"",""
+ball,2,6.9,Suriname,V Shaw,G Singh,S Sharma,0,0,,,,,,"",""
+ball,2,7.1,Suriname,G Singh,V Shaw,Gurpreet Singh,0,0,,,,,,"",""
+ball,2,7.2,Suriname,G Singh,V Shaw,Gurpreet Singh,0,0,,,,,,"",""
+ball,2,7.3,Suriname,G Singh,V Shaw,Gurpreet Singh,1,0,,,,,,"",""
+ball,2,7.4,Suriname,V Shaw,G Singh,Gurpreet Singh,0,0,,,,,,"",""
+ball,2,7.5,Suriname,V Shaw,G Singh,Gurpreet Singh,0,0,,,,,,"",""
+ball,2,7.6,Suriname,V Shaw,G Singh,Gurpreet Singh,1,0,,,,,,"",""
+ball,2,8.1,Suriname,V Shaw,G Singh,S Sharma,1,0,,,,,,"",""
+ball,2,8.2,Suriname,G Singh,V Shaw,S Sharma,0,1,1,,,,,"",""
+ball,2,8.3,Suriname,G Singh,V Shaw,S Sharma,1,0,,,,,,"",""
+ball,2,8.4,Suriname,V Shaw,G Singh,S Sharma,0,0,,,,,,"",""
+ball,2,8.5,Suriname,V Shaw,G Singh,S Sharma,1,0,,,,,,"",""
+ball,2,8.6,Suriname,G Singh,V Shaw,S Sharma,1,0,,,,,,"",""
+ball,2,8.7,Suriname,V Shaw,G Singh,S Sharma,0,0,,,,,,"",""
+ball,2,9.1,Suriname,G Singh,V Shaw,Gurpreet Singh,0,0,,,,,,"",""
+ball,2,9.2,Suriname,G Singh,V Shaw,Gurpreet Singh,0,0,,,,,,"",""
+ball,2,9.3,Suriname,G Singh,V Shaw,Gurpreet Singh,0,0,,,,,,"",""
+ball,2,9.4,Suriname,G Singh,V Shaw,Gurpreet Singh,0,0,,,,,,"",""
+ball,2,9.5,Suriname,G Singh,V Shaw,Gurpreet Singh,4,0,,,,,,"",""
+ball,2,9.6,Suriname,G Singh,V Shaw,Gurpreet Singh,1,0,,,,,,"",""
+ball,2,10.1,Suriname,G Singh,V Shaw,D Panda,0,1,,,,1,,"",""
+ball,2,10.2,Suriname,V Shaw,G Singh,D Panda,2,0,,,,,,"",""
+ball,2,10.3,Suriname,V Shaw,G Singh,D Panda,2,0,,,,,,"",""
+ball,2,10.4,Suriname,V Shaw,G Singh,D Panda,1,0,,,,,,"",""
+ball,2,10.5,Suriname,G Singh,V Shaw,D Panda,0,1,,,,1,,"",""
+ball,2,10.6,Suriname,V Shaw,G Singh,D Panda,1,0,,,,,,"",""
+ball,2,11.1,Suriname,V Shaw,G Singh,Gurpreet Singh,4,0,,,,,,"",""
+ball,2,11.2,Suriname,V Shaw,G Singh,Gurpreet Singh,0,0,,,,,,caught,V Shaw
+ball,2,11.3,Suriname,TA Dudnath,G Singh,Gurpreet Singh,0,0,,,,,,"",""
+ball,2,11.4,Suriname,TA Dudnath,G Singh,Gurpreet Singh,1,0,,,,,,"",""
+ball,2,11.5,Suriname,G Singh,TA Dudnath,Gurpreet Singh,1,0,,,,,,"",""
+ball,2,11.6,Suriname,TA Dudnath,G Singh,Gurpreet Singh,0,0,,,,,,"",""
+ball,2,12.1,Suriname,G Singh,TA Dudnath,D Panda,1,0,,,,,,"",""
+ball,2,12.2,Suriname,TA Dudnath,G Singh,D Panda,0,0,,,,,,"",""
+ball,2,12.3,Suriname,TA Dudnath,G Singh,D Panda,1,0,,,,,,"",""
+ball,2,12.4,Suriname,G Singh,TA Dudnath,D Panda,4,0,,,,,,"",""
+ball,2,12.5,Suriname,G Singh,TA Dudnath,D Panda,1,0,,,,,,"",""
+ball,2,12.6,Suriname,TA Dudnath,G Singh,D Panda,1,0,,,,,,"",""
+ball,2,13.1,Suriname,TA Dudnath,G Singh,Amir Butt,0,1,,,,1,,"",""
+ball,2,13.2,Suriname,G Singh,TA Dudnath,Amir Butt,0,0,,,,,,"",""
+ball,2,13.3,Suriname,G Singh,TA Dudnath,Amir Butt,0,1,,,,1,,"",""
+ball,2,13.4,Suriname,TA Dudnath,G Singh,Amir Butt,1,0,,,,,,"",""
+ball,2,13.5,Suriname,G Singh,TA Dudnath,Amir Butt,1,0,,,,,,"",""
+ball,2,13.6,Suriname,TA Dudnath,G Singh,Amir Butt,1,0,,,,,,"",""
+ball,2,14.1,Suriname,TA Dudnath,G Singh,Pratik Singh Bais,0,0,,,,,,"",""
+ball,2,14.2,Suriname,TA Dudnath,G Singh,Pratik Singh Bais,1,0,,,,,,"",""
+ball,2,14.3,Suriname,G Singh,TA Dudnath,Pratik Singh Bais,6,0,,,,,,"",""
+ball,2,14.4,Suriname,G Singh,TA Dudnath,Pratik Singh Bais,1,0,,,,,,"",""
+ball,2,14.5,Suriname,TA Dudnath,G Singh,Pratik Singh Bais,1,0,,,,,,"",""
+ball,2,14.6,Suriname,G Singh,TA Dudnath,Pratik Singh Bais,4,0,,,,,,"",""
+ball,2,15.1,Suriname,TA Dudnath,G Singh,Amir Butt,0,0,,,,,,bowled,TA Dudnath
+ball,2,15.2,Suriname,XSD Smith,G Singh,Amir Butt,0,0,,,,,,"",""
+ball,2,15.3,Suriname,XSD Smith,G Singh,Amir Butt,1,0,,,,,,"",""
+ball,2,15.4,Suriname,G Singh,XSD Smith,Amir Butt,4,0,,,,,,"",""
+ball,2,15.5,Suriname,G Singh,XSD Smith,Amir Butt,2,0,,,,,,"",""
+ball,2,15.6,Suriname,G Singh,XSD Smith,Amir Butt,1,0,,,,,,"",""
+ball,2,16.1,Suriname,G Singh,XSD Smith,D Panda,2,0,,,,,,"",""
+ball,2,16.2,Suriname,G Singh,XSD Smith,D Panda,2,0,,,,,,"",""
+ball,2,16.3,Suriname,G Singh,XSD Smith,D Panda,1,0,,,,,,"",""
+ball,2,16.4,Suriname,XSD Smith,G Singh,D Panda,0,0,,,,,,"",""
+ball,2,16.5,Suriname,XSD Smith,G Singh,D Panda,0,1,,,,1,,"",""
+ball,2,16.6,Suriname,G Singh,XSD Smith,D Panda,1,0,,,,,,"",""
+ball,2,17.1,Suriname,G Singh,XSD Smith,Amir Butt,0,0,,,,,,"",""
+ball,2,17.2,Suriname,G Singh,XSD Smith,Amir Butt,1,0,,,,,,"",""
+ball,2,17.3,Suriname,XSD Smith,G Singh,Amir Butt,1,0,,,,,,"",""
+ball,2,17.4,Suriname,G Singh,XSD Smith,Amir Butt,1,0,,,,,,"",""
+ball,2,17.5,Suriname,XSD Smith,G Singh,Amir Butt,0,0,,,,,,"",""
+ball,2,17.6,Suriname,XSD Smith,G Singh,Amir Butt,1,0,,,,,,"",""
+ball,2,18.1,Suriname,XSD Smith,G Singh,Shoaib Rafiq,0,0,,,,,,"",""
+ball,2,18.2,Suriname,XSD Smith,G Singh,Shoaib Rafiq,1,0,,,,,,"",""
+ball,2,18.3,Suriname,G Singh,XSD Smith,Shoaib Rafiq,1,0,,,,,,"",""
+ball,2,18.4,Suriname,XSD Smith,G Singh,Shoaib Rafiq,0,0,,,,,,"",""
+ball,2,18.5,Suriname,XSD Smith,G Singh,Shoaib Rafiq,0,0,,,,,,lbw,XSD Smith
+ball,2,18.6,Suriname,YP Dayal,G Singh,Shoaib Rafiq,0,1,1,,,,,"",""
+ball,2,18.7,Suriname,YP Dayal,G Singh,Shoaib Rafiq,1,0,,,,,,"",""
+ball,2,19.1,Suriname,YP Dayal,G Singh,Amir Butt,2,0,,,,,,"",""
+ball,2,19.2,Suriname,YP Dayal,G Singh,Amir Butt,0,0,,,,,,caught,YP Dayal
+ball,2,19.3,Suriname,AK Gokoel,G Singh,Amir Butt,1,0,,,,,,"",""
+ball,2,19.4,Suriname,G Singh,AK Gokoel,Amir Butt,4,0,,,,,,"",""
+ball,2,19.5,Suriname,G Singh,AK Gokoel,Amir Butt,2,0,,,,,,"",""
+ball,2,19.6,Suriname,G Singh,AK Gokoel,Amir Butt,1,0,,,,,,"",""

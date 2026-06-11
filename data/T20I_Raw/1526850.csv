@@ -1,0 +1,300 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Seychelles
+info,team,Malawi
+info,gender,male
+info,season,2025/26
+info,date,2026/03/28
+info,event,ICC Men's T20 World Cup Africa Sub Regional Qualifier B
+info,match_number,11
+info,venue,"Achimota Senior Secondary School A Field, Accra"
+info,city,Accra
+info,toss_winner,Malawi
+info,toss_decision,field
+info,player_of_match,Sami Sohail
+info,umpire,Claus Schumacher
+info,umpire,Habib Enesi
+info,reserve_umpire,P Sizara
+info,match_referee,O Chirombe
+info,winner,Malawi
+info,winner_wickets,6
+info,player,Seychelles,STRA de Silva
+info,player,Seychelles,TKP Rajapaksha
+info,player,Seychelles,Mohomed Saddam
+info,player,Seychelles,Mazharul Islam
+info,player,Seychelles,SR Mohan
+info,player,Seychelles,S Pillay
+info,player,Seychelles,D Kalvin
+info,player,Seychelles,Jobayer Hossen
+info,player,Seychelles,HL Harji
+info,player,Seychelles,Thilina Silva
+info,player,Seychelles,S Rukmal
+info,player,Malawi,D Kansonkho
+info,player,Malawi,Sami Sohail
+info,player,Malawi,M Choamba
+info,player,Malawi,A Limdawala
+info,player,Malawi,G Kansonkho
+info,player,Malawi,SZ Vayani
+info,player,Malawi,B Balala
+info,player,Malawi,D Jakiel
+info,player,Malawi,K Thuchila
+info,player,Malawi,T Makaya
+info,player,Malawi,B Pondani
+info,registry,people,A Limdawala,2bcbcac3
+info,registry,people,B Balala,a2f8e873
+info,registry,people,B Pondani,e5117568
+info,registry,people,Claus Schumacher,85645e62
+info,registry,people,D Jakiel,8b7ce771
+info,registry,people,D Kalvin,895ae8b6
+info,registry,people,D Kansonkho,45ca12a7
+info,registry,people,G Kansonkho,f3ca5af8
+info,registry,people,HL Harji,29663fda
+info,registry,people,Habib Enesi,fb35ab1f
+info,registry,people,Jobayer Hossen,656fc15b
+info,registry,people,K Thuchila,af42d9f2
+info,registry,people,M Choamba,5570c4c1
+info,registry,people,M Viswanathan,dd9ab45d
+info,registry,people,Mazharul Islam,30564b3e
+info,registry,people,Mohomed Saddam,e1043e7b
+info,registry,people,O Chirombe,6345307f
+info,registry,people,P Sizara,5d45bb7f
+info,registry,people,S Pillay,4086c5cb
+info,registry,people,S Rukmal,f5be7b08
+info,registry,people,SR Mohan,58533699
+info,registry,people,STRA de Silva,21fe743b
+info,registry,people,SZ Vayani,a4afc486
+info,registry,people,Sami Sohail,602ebd4c
+info,registry,people,T Makaya,e3f53051
+info,registry,people,TKP Rajapaksha,b5dcec37
+info,registry,people,Thilina Silva,f0ad7a75
+ball,1,0.1,Seychelles,STRA de Silva,TKP Rajapaksha,D Jakiel,0,0,,,,,,"",""
+ball,1,0.2,Seychelles,STRA de Silva,TKP Rajapaksha,D Jakiel,0,0,,,,,,"",""
+ball,1,0.3,Seychelles,STRA de Silva,TKP Rajapaksha,D Jakiel,2,0,,,,,,"",""
+ball,1,0.4,Seychelles,STRA de Silva,TKP Rajapaksha,D Jakiel,0,0,,,,,,caught,STRA de Silva
+ball,1,0.5,Seychelles,Mohomed Saddam,TKP Rajapaksha,D Jakiel,0,0,,,,,,lbw,Mohomed Saddam
+ball,1,0.6,Seychelles,Mazharul Islam,TKP Rajapaksha,D Jakiel,0,0,,,,,,"",""
+ball,1,1.1,Seychelles,TKP Rajapaksha,Mazharul Islam,K Thuchila,1,0,,,,,,"",""
+ball,1,1.2,Seychelles,Mazharul Islam,TKP Rajapaksha,K Thuchila,4,0,,,,,,"",""
+ball,1,1.3,Seychelles,Mazharul Islam,TKP Rajapaksha,K Thuchila,0,0,,,,,,"",""
+ball,1,1.4,Seychelles,Mazharul Islam,TKP Rajapaksha,K Thuchila,0,0,,,,,,"",""
+ball,1,1.5,Seychelles,Mazharul Islam,TKP Rajapaksha,K Thuchila,0,0,,,,,,"",""
+ball,1,1.6,Seychelles,Mazharul Islam,TKP Rajapaksha,K Thuchila,1,0,,,,,,"",""
+ball,1,2.1,Seychelles,Mazharul Islam,TKP Rajapaksha,D Jakiel,0,0,,,,,,"",""
+ball,1,2.2,Seychelles,Mazharul Islam,TKP Rajapaksha,D Jakiel,1,0,,,,,,"",""
+ball,1,2.3,Seychelles,TKP Rajapaksha,Mazharul Islam,D Jakiel,0,0,,,,,,"",""
+ball,1,2.4,Seychelles,TKP Rajapaksha,Mazharul Islam,D Jakiel,0,0,,,,,,"",""
+ball,1,2.5,Seychelles,TKP Rajapaksha,Mazharul Islam,D Jakiel,0,0,,,,,,"",""
+ball,1,2.6,Seychelles,TKP Rajapaksha,Mazharul Islam,D Jakiel,0,0,,,,,,"",""
+ball,1,3.1,Seychelles,Mazharul Islam,TKP Rajapaksha,K Thuchila,4,0,,,,,,"",""
+ball,1,3.2,Seychelles,Mazharul Islam,TKP Rajapaksha,K Thuchila,0,0,,,,,,"",""
+ball,1,3.3,Seychelles,Mazharul Islam,TKP Rajapaksha,K Thuchila,0,0,,,,,,"",""
+ball,1,3.4,Seychelles,Mazharul Islam,TKP Rajapaksha,K Thuchila,0,0,,,,,,"",""
+ball,1,3.5,Seychelles,Mazharul Islam,TKP Rajapaksha,K Thuchila,0,0,,,,,,"",""
+ball,1,3.6,Seychelles,Mazharul Islam,TKP Rajapaksha,K Thuchila,4,0,,,,,,"",""
+ball,1,4.1,Seychelles,TKP Rajapaksha,Mazharul Islam,B Balala,0,1,1,,,,,"",""
+ball,1,4.2,Seychelles,TKP Rajapaksha,Mazharul Islam,B Balala,0,0,,,,,,"",""
+ball,1,4.3,Seychelles,TKP Rajapaksha,Mazharul Islam,B Balala,0,0,,,,,,"",""
+ball,1,4.4,Seychelles,TKP Rajapaksha,Mazharul Islam,B Balala,1,0,,,,,,"",""
+ball,1,4.5,Seychelles,Mazharul Islam,TKP Rajapaksha,B Balala,1,0,,,,,,"",""
+ball,1,4.6,Seychelles,TKP Rajapaksha,Mazharul Islam,B Balala,0,0,,,,,,"",""
+ball,1,4.7,Seychelles,TKP Rajapaksha,Mazharul Islam,B Balala,0,0,,,,,,"",""
+ball,1,5.1,Seychelles,Mazharul Islam,TKP Rajapaksha,Sami Sohail,0,0,,,,,,"",""
+ball,1,5.2,Seychelles,Mazharul Islam,TKP Rajapaksha,Sami Sohail,1,0,,,,,,"",""
+ball,1,5.3,Seychelles,TKP Rajapaksha,Mazharul Islam,Sami Sohail,0,0,,,,,,"",""
+ball,1,5.4,Seychelles,TKP Rajapaksha,Mazharul Islam,Sami Sohail,0,0,,,,,,"",""
+ball,1,5.5,Seychelles,TKP Rajapaksha,Mazharul Islam,Sami Sohail,0,0,,,,,,"",""
+ball,1,5.6,Seychelles,TKP Rajapaksha,Mazharul Islam,Sami Sohail,0,1,1,,,,,"",""
+ball,1,5.7,Seychelles,TKP Rajapaksha,Mazharul Islam,Sami Sohail,0,0,,,,,,"",""
+ball,1,6.1,Seychelles,Mazharul Islam,TKP Rajapaksha,B Balala,0,0,,,,,,"",""
+ball,1,6.2,Seychelles,Mazharul Islam,TKP Rajapaksha,B Balala,0,0,,,,,,"",""
+ball,1,6.3,Seychelles,Mazharul Islam,TKP Rajapaksha,B Balala,0,0,,,,,,"",""
+ball,1,6.4,Seychelles,Mazharul Islam,TKP Rajapaksha,B Balala,0,0,,,,,,"",""
+ball,1,6.5,Seychelles,Mazharul Islam,TKP Rajapaksha,B Balala,0,0,,,,,,"",""
+ball,1,6.6,Seychelles,Mazharul Islam,TKP Rajapaksha,B Balala,0,0,,,,,,"",""
+ball,1,7.1,Seychelles,TKP Rajapaksha,Mazharul Islam,Sami Sohail,1,0,,,,,,"",""
+ball,1,7.2,Seychelles,Mazharul Islam,TKP Rajapaksha,Sami Sohail,4,0,,,,,,"",""
+ball,1,7.3,Seychelles,Mazharul Islam,TKP Rajapaksha,Sami Sohail,0,0,,,,,,"",""
+ball,1,7.4,Seychelles,Mazharul Islam,TKP Rajapaksha,Sami Sohail,1,0,,,,,,"",""
+ball,1,7.5,Seychelles,TKP Rajapaksha,Mazharul Islam,Sami Sohail,1,0,,,,,,"",""
+ball,1,7.6,Seychelles,Mazharul Islam,TKP Rajapaksha,Sami Sohail,0,0,,,,,,"",""
+ball,1,8.1,Seychelles,TKP Rajapaksha,Mazharul Islam,SZ Vayani,1,0,,,,,,"",""
+ball,1,8.2,Seychelles,Mazharul Islam,TKP Rajapaksha,SZ Vayani,0,0,,,,,,"",""
+ball,1,8.3,Seychelles,Mazharul Islam,TKP Rajapaksha,SZ Vayani,0,0,,,,,,"",""
+ball,1,8.4,Seychelles,Mazharul Islam,TKP Rajapaksha,SZ Vayani,4,0,,,,,,"",""
+ball,1,8.5,Seychelles,Mazharul Islam,TKP Rajapaksha,SZ Vayani,2,0,,,,,,"",""
+ball,1,8.6,Seychelles,Mazharul Islam,TKP Rajapaksha,SZ Vayani,1,0,,,,,,"",""
+ball,1,9.1,Seychelles,Mazharul Islam,TKP Rajapaksha,M Choamba,1,0,,,,,,"",""
+ball,1,9.2,Seychelles,TKP Rajapaksha,Mazharul Islam,M Choamba,0,0,,,,,,"",""
+ball,1,9.3,Seychelles,TKP Rajapaksha,Mazharul Islam,M Choamba,0,0,,,,,,"",""
+ball,1,9.4,Seychelles,TKP Rajapaksha,Mazharul Islam,M Choamba,0,0,,,,,,"",""
+ball,1,9.5,Seychelles,TKP Rajapaksha,Mazharul Islam,M Choamba,0,0,,,,,,"",""
+ball,1,9.6,Seychelles,TKP Rajapaksha,Mazharul Islam,M Choamba,1,0,,,,,,"",""
+ball,1,10.1,Seychelles,TKP Rajapaksha,Mazharul Islam,SZ Vayani,0,0,,,,,,"",""
+ball,1,10.2,Seychelles,TKP Rajapaksha,Mazharul Islam,SZ Vayani,4,0,,,,,,"",""
+ball,1,10.3,Seychelles,TKP Rajapaksha,Mazharul Islam,SZ Vayani,0,0,,,,,,"",""
+ball,1,10.4,Seychelles,TKP Rajapaksha,Mazharul Islam,SZ Vayani,4,0,,,,,,"",""
+ball,1,10.5,Seychelles,TKP Rajapaksha,Mazharul Islam,SZ Vayani,0,1,1,,,,,"",""
+ball,1,10.6,Seychelles,TKP Rajapaksha,Mazharul Islam,SZ Vayani,1,0,,,,,,"",""
+ball,1,10.7,Seychelles,Mazharul Islam,TKP Rajapaksha,SZ Vayani,1,0,,,,,,"",""
+ball,1,11.1,Seychelles,Mazharul Islam,TKP Rajapaksha,M Choamba,4,0,,,,,,"",""
+ball,1,11.2,Seychelles,Mazharul Islam,TKP Rajapaksha,M Choamba,0,1,,,1,,,"",""
+ball,1,11.3,Seychelles,TKP Rajapaksha,Mazharul Islam,M Choamba,0,0,,,,,,"",""
+ball,1,11.4,Seychelles,TKP Rajapaksha,Mazharul Islam,M Choamba,1,0,,,,,,"",""
+ball,1,11.5,Seychelles,Mazharul Islam,TKP Rajapaksha,M Choamba,1,0,,,,,,"",""
+ball,1,11.6,Seychelles,TKP Rajapaksha,Mazharul Islam,M Choamba,1,0,,,,,,"",""
+ball,1,12.1,Seychelles,TKP Rajapaksha,Mazharul Islam,K Thuchila,1,0,,,,,,"",""
+ball,1,12.2,Seychelles,Mazharul Islam,TKP Rajapaksha,K Thuchila,1,0,,,,,,"",""
+ball,1,12.3,Seychelles,TKP Rajapaksha,Mazharul Islam,K Thuchila,0,0,,,,,,"",""
+ball,1,12.4,Seychelles,TKP Rajapaksha,Mazharul Islam,K Thuchila,0,0,,,,,,"",""
+ball,1,12.5,Seychelles,TKP Rajapaksha,Mazharul Islam,K Thuchila,0,0,,,,,,caught,TKP Rajapaksha
+ball,1,12.6,Seychelles,SR Mohan,Mazharul Islam,K Thuchila,0,0,,,,,,"",""
+ball,1,13.1,Seychelles,Mazharul Islam,SR Mohan,M Choamba,0,0,,,,,,"",""
+ball,1,13.2,Seychelles,Mazharul Islam,SR Mohan,M Choamba,1,0,,,,,,"",""
+ball,1,13.3,Seychelles,SR Mohan,Mazharul Islam,M Choamba,0,0,,,,,,"",""
+ball,1,13.4,Seychelles,SR Mohan,Mazharul Islam,M Choamba,1,0,,,,,,"",""
+ball,1,13.5,Seychelles,Mazharul Islam,SR Mohan,M Choamba,1,0,,,,,,"",""
+ball,1,13.6,Seychelles,SR Mohan,Mazharul Islam,M Choamba,0,0,,,,,,"",""
+ball,1,14.1,Seychelles,Mazharul Islam,SR Mohan,K Thuchila,0,0,,,,,,"",""
+ball,1,14.2,Seychelles,Mazharul Islam,SR Mohan,K Thuchila,1,0,,,,,,"",""
+ball,1,14.3,Seychelles,SR Mohan,Mazharul Islam,K Thuchila,4,0,,,,,,"",""
+ball,1,14.4,Seychelles,SR Mohan,Mazharul Islam,K Thuchila,2,0,,,,,,"",""
+ball,1,14.5,Seychelles,SR Mohan,Mazharul Islam,K Thuchila,0,0,,,,,,"",""
+ball,1,14.6,Seychelles,SR Mohan,Mazharul Islam,K Thuchila,1,0,,,,,,"",""
+ball,1,15.1,Seychelles,SR Mohan,Mazharul Islam,M Choamba,0,0,,,,,,lbw,SR Mohan
+ball,1,15.2,Seychelles,S Pillay,Mazharul Islam,M Choamba,0,0,,,,,,"",""
+ball,1,15.3,Seychelles,S Pillay,Mazharul Islam,M Choamba,1,0,,,,,,"",""
+ball,1,15.4,Seychelles,Mazharul Islam,S Pillay,M Choamba,1,0,,,,,,"",""
+ball,1,15.5,Seychelles,S Pillay,Mazharul Islam,M Choamba,0,0,,,,,,"",""
+ball,1,15.6,Seychelles,S Pillay,Mazharul Islam,M Choamba,0,0,,,,,,"",""
+ball,1,16.1,Seychelles,Mazharul Islam,S Pillay,D Jakiel,1,0,,,,,,"",""
+ball,1,16.2,Seychelles,S Pillay,Mazharul Islam,D Jakiel,1,0,,,,,,"",""
+ball,1,16.3,Seychelles,Mazharul Islam,S Pillay,D Jakiel,1,0,,,,,,"",""
+ball,1,16.4,Seychelles,S Pillay,Mazharul Islam,D Jakiel,4,0,,,,,,"",""
+ball,1,16.5,Seychelles,S Pillay,Mazharul Islam,D Jakiel,4,0,,,,,,"",""
+ball,1,16.6,Seychelles,S Pillay,Mazharul Islam,D Jakiel,1,0,,,,,,"",""
+ball,1,17.1,Seychelles,S Pillay,Mazharul Islam,Sami Sohail,0,0,,,,,,"",""
+ball,1,17.2,Seychelles,S Pillay,Mazharul Islam,Sami Sohail,0,0,,,,,,bowled,S Pillay
+ball,1,17.3,Seychelles,D Kalvin,Mazharul Islam,Sami Sohail,0,0,,,,,,bowled,D Kalvin
+ball,1,17.4,Seychelles,Jobayer Hossen,Mazharul Islam,Sami Sohail,1,0,,,,,,"",""
+ball,1,17.5,Seychelles,Mazharul Islam,Jobayer Hossen,Sami Sohail,1,0,,,,,,"",""
+ball,1,17.6,Seychelles,Jobayer Hossen,Mazharul Islam,Sami Sohail,0,0,,,,,,"",""
+ball,1,18.1,Seychelles,Mazharul Islam,Jobayer Hossen,B Balala,1,0,,,,,,"",""
+ball,1,18.2,Seychelles,Jobayer Hossen,Mazharul Islam,B Balala,1,0,,,,,,"",""
+ball,1,18.3,Seychelles,Mazharul Islam,Jobayer Hossen,B Balala,1,0,,,,,,"",""
+ball,1,18.4,Seychelles,Jobayer Hossen,Mazharul Islam,B Balala,4,0,,,,,,"",""
+ball,1,18.5,Seychelles,Jobayer Hossen,Mazharul Islam,B Balala,4,0,,,,,,"",""
+ball,1,18.6,Seychelles,Jobayer Hossen,Mazharul Islam,B Balala,2,0,,,,,,"",""
+ball,1,19.1,Seychelles,Mazharul Islam,Jobayer Hossen,Sami Sohail,1,0,,,,,,"",""
+ball,1,19.2,Seychelles,Jobayer Hossen,Mazharul Islam,Sami Sohail,1,0,,,,,,"",""
+ball,1,19.3,Seychelles,Mazharul Islam,Jobayer Hossen,Sami Sohail,4,0,,,,,,"",""
+ball,1,19.4,Seychelles,Mazharul Islam,Jobayer Hossen,Sami Sohail,0,0,,,,,,"",""
+ball,1,19.5,Seychelles,Mazharul Islam,Jobayer Hossen,Sami Sohail,0,0,,,,,,bowled,Mazharul Islam
+ball,1,19.6,Seychelles,HL Harji,Jobayer Hossen,Sami Sohail,2,0,,,,,,"",""
+ball,2,0.1,Malawi,D Kansonkho,Sami Sohail,S Rukmal,0,0,,,,,,"",""
+ball,2,0.2,Malawi,D Kansonkho,Sami Sohail,S Rukmal,0,0,,,,,,"",""
+ball,2,0.3,Malawi,D Kansonkho,Sami Sohail,S Rukmal,1,0,,,,,,"",""
+ball,2,0.4,Malawi,Sami Sohail,D Kansonkho,S Rukmal,4,0,,,,,,"",""
+ball,2,0.5,Malawi,Sami Sohail,D Kansonkho,S Rukmal,1,0,,,,,,"",""
+ball,2,0.6,Malawi,D Kansonkho,Sami Sohail,S Rukmal,6,0,,,,,,"",""
+ball,2,1.1,Malawi,Sami Sohail,D Kansonkho,Jobayer Hossen,0,0,,,,,,"",""
+ball,2,1.2,Malawi,Sami Sohail,D Kansonkho,Jobayer Hossen,0,0,,,,,,"",""
+ball,2,1.3,Malawi,Sami Sohail,D Kansonkho,Jobayer Hossen,2,0,,,,,,"",""
+ball,2,1.4,Malawi,Sami Sohail,D Kansonkho,Jobayer Hossen,4,0,,,,,,"",""
+ball,2,1.5,Malawi,Sami Sohail,D Kansonkho,Jobayer Hossen,0,0,,,,,,"",""
+ball,2,1.6,Malawi,Sami Sohail,D Kansonkho,Jobayer Hossen,4,0,,,,,,"",""
+ball,2,2.1,Malawi,D Kansonkho,Sami Sohail,HL Harji,4,0,,,,,,"",""
+ball,2,2.2,Malawi,D Kansonkho,Sami Sohail,HL Harji,0,0,,,,,,"",""
+ball,2,2.3,Malawi,D Kansonkho,Sami Sohail,HL Harji,0,1,1,,,,,"",""
+ball,2,2.4,Malawi,D Kansonkho,Sami Sohail,HL Harji,1,0,,,,,,"",""
+ball,2,2.5,Malawi,Sami Sohail,D Kansonkho,HL Harji,1,0,,,,,,"",""
+ball,2,2.6,Malawi,D Kansonkho,Sami Sohail,HL Harji,0,0,,,,,,bowled,D Kansonkho
+ball,2,2.7,Malawi,M Choamba,Sami Sohail,HL Harji,0,0,,,,,,"",""
+ball,2,3.1,Malawi,Sami Sohail,M Choamba,Jobayer Hossen,0,0,,,,,,"",""
+ball,2,3.2,Malawi,Sami Sohail,M Choamba,Jobayer Hossen,1,0,,,,,,"",""
+ball,2,3.3,Malawi,M Choamba,Sami Sohail,Jobayer Hossen,0,0,,,,,,"",""
+ball,2,3.4,Malawi,M Choamba,Sami Sohail,Jobayer Hossen,0,0,,,,,,"",""
+ball,2,3.5,Malawi,M Choamba,Sami Sohail,Jobayer Hossen,1,0,,,,,,"",""
+ball,2,3.6,Malawi,Sami Sohail,M Choamba,Jobayer Hossen,0,0,,,,,,"",""
+ball,2,4.1,Malawi,M Choamba,Sami Sohail,HL Harji,1,0,,,,,,"",""
+ball,2,4.2,Malawi,Sami Sohail,M Choamba,HL Harji,0,0,,,,,,"",""
+ball,2,4.3,Malawi,Sami Sohail,M Choamba,HL Harji,1,0,,,,,,"",""
+ball,2,4.4,Malawi,M Choamba,Sami Sohail,HL Harji,4,0,,,,,,"",""
+ball,2,4.5,Malawi,M Choamba,Sami Sohail,HL Harji,1,0,,,,,,"",""
+ball,2,4.6,Malawi,Sami Sohail,M Choamba,HL Harji,1,0,,,,,,"",""
+ball,2,5.1,Malawi,Sami Sohail,M Choamba,Jobayer Hossen,4,0,,,,,,"",""
+ball,2,5.2,Malawi,Sami Sohail,M Choamba,Jobayer Hossen,0,0,,,,,,"",""
+ball,2,5.3,Malawi,Sami Sohail,M Choamba,Jobayer Hossen,1,0,,,,,,"",""
+ball,2,5.4,Malawi,M Choamba,Sami Sohail,Jobayer Hossen,1,0,,,,,,"",""
+ball,2,5.5,Malawi,Sami Sohail,M Choamba,Jobayer Hossen,1,0,,,,,,"",""
+ball,2,5.6,Malawi,M Choamba,Sami Sohail,Jobayer Hossen,1,0,,,,,,"",""
+ball,2,6.1,Malawi,M Choamba,Sami Sohail,S Rukmal,2,0,,,,,,"",""
+ball,2,6.2,Malawi,M Choamba,Sami Sohail,S Rukmal,1,0,,,,,,"",""
+ball,2,6.3,Malawi,Sami Sohail,M Choamba,S Rukmal,1,0,,,,,,"",""
+ball,2,6.4,Malawi,M Choamba,Sami Sohail,S Rukmal,0,0,,,,,,"",""
+ball,2,6.5,Malawi,M Choamba,Sami Sohail,S Rukmal,0,0,,,,,,"",""
+ball,2,6.6,Malawi,M Choamba,Sami Sohail,S Rukmal,1,0,,,,,,"",""
+ball,2,7.1,Malawi,M Choamba,Sami Sohail,STRA de Silva,0,0,,,,,,"",""
+ball,2,7.2,Malawi,M Choamba,Sami Sohail,STRA de Silva,1,0,,,,,,"",""
+ball,2,7.3,Malawi,Sami Sohail,M Choamba,STRA de Silva,1,0,,,,,,"",""
+ball,2,7.4,Malawi,M Choamba,Sami Sohail,STRA de Silva,0,0,,,,,,"",""
+ball,2,7.5,Malawi,M Choamba,Sami Sohail,STRA de Silva,0,0,,,,,,"",""
+ball,2,7.6,Malawi,M Choamba,Sami Sohail,STRA de Silva,1,1,,1,,,,"",""
+ball,2,7.7,Malawi,Sami Sohail,M Choamba,STRA de Silva,2,0,,,,,,"",""
+ball,2,8.1,Malawi,M Choamba,Sami Sohail,S Rukmal,4,0,,,,,,"",""
+ball,2,8.2,Malawi,M Choamba,Sami Sohail,S Rukmal,0,0,,,,,,"",""
+ball,2,8.3,Malawi,M Choamba,Sami Sohail,S Rukmal,0,0,,,,,,"",""
+ball,2,8.4,Malawi,M Choamba,Sami Sohail,S Rukmal,0,0,,,,,,"",""
+ball,2,8.5,Malawi,M Choamba,Sami Sohail,S Rukmal,0,0,,,,,,"",""
+ball,2,8.6,Malawi,M Choamba,Sami Sohail,S Rukmal,2,0,,,,,,"",""
+ball,2,9.1,Malawi,Sami Sohail,M Choamba,STRA de Silva,4,0,,,,,,"",""
+ball,2,9.2,Malawi,Sami Sohail,M Choamba,STRA de Silva,0,0,,,,,,caught,Sami Sohail
+ball,2,9.3,Malawi,A Limdawala,M Choamba,STRA de Silva,1,0,,,,,,"",""
+ball,2,9.4,Malawi,M Choamba,A Limdawala,STRA de Silva,2,0,,,,,,"",""
+ball,2,9.5,Malawi,M Choamba,A Limdawala,STRA de Silva,0,0,,,,,,"",""
+ball,2,9.6,Malawi,M Choamba,A Limdawala,STRA de Silva,1,0,,,,,,"",""
+ball,2,10.1,Malawi,M Choamba,A Limdawala,Thilina Silva,0,1,1,,,,,"",""
+ball,2,10.2,Malawi,M Choamba,A Limdawala,Thilina Silva,2,0,,,,,,"",""
+ball,2,10.3,Malawi,M Choamba,A Limdawala,Thilina Silva,0,0,,,,,,"",""
+ball,2,10.4,Malawi,M Choamba,A Limdawala,Thilina Silva,2,0,,,,,,"",""
+ball,2,10.5,Malawi,M Choamba,A Limdawala,Thilina Silva,0,0,,,,,,"",""
+ball,2,10.6,Malawi,M Choamba,A Limdawala,Thilina Silva,0,0,,,,,,caught,M Choamba
+ball,2,10.7,Malawi,G Kansonkho,A Limdawala,Thilina Silva,0,0,,,,,,"",""
+ball,2,11.1,Malawi,A Limdawala,G Kansonkho,STRA de Silva,2,0,,,,,,"",""
+ball,2,11.2,Malawi,A Limdawala,G Kansonkho,STRA de Silva,0,1,1,,,,,"",""
+ball,2,11.3,Malawi,A Limdawala,G Kansonkho,STRA de Silva,0,2,2,,,,,"",""
+ball,2,11.4,Malawi,G Kansonkho,A Limdawala,STRA de Silva,1,0,,,,,,"",""
+ball,2,11.5,Malawi,A Limdawala,G Kansonkho,STRA de Silva,1,0,,,,,,"",""
+ball,2,11.6,Malawi,G Kansonkho,A Limdawala,STRA de Silva,1,1,,1,,,,"",""
+ball,2,11.7,Malawi,A Limdawala,G Kansonkho,STRA de Silva,0,0,,,,,,"",""
+ball,2,11.8,Malawi,A Limdawala,G Kansonkho,STRA de Silva,0,0,,,,,,"",""
+ball,2,11.9,Malawi,A Limdawala,G Kansonkho,STRA de Silva,1,0,,,,,,"",""
+ball,2,12.1,Malawi,A Limdawala,G Kansonkho,Thilina Silva,0,0,,,,,,"",""
+ball,2,12.2,Malawi,A Limdawala,G Kansonkho,Thilina Silva,0,1,,,,1,,"",""
+ball,2,12.3,Malawi,G Kansonkho,A Limdawala,Thilina Silva,0,0,,,,,,"",""
+ball,2,12.4,Malawi,G Kansonkho,A Limdawala,Thilina Silva,1,0,,,,,,"",""
+ball,2,12.5,Malawi,A Limdawala,G Kansonkho,Thilina Silva,1,0,,,,,,"",""
+ball,2,12.6,Malawi,G Kansonkho,A Limdawala,Thilina Silva,0,0,,,,,,"",""
+ball,2,13.1,Malawi,A Limdawala,G Kansonkho,Mazharul Islam,2,0,,,,,,"",""
+ball,2,13.2,Malawi,A Limdawala,G Kansonkho,Mazharul Islam,0,0,,,,,,lbw,A Limdawala
+ball,2,13.3,Malawi,SZ Vayani,G Kansonkho,Mazharul Islam,0,0,,,,,,"",""
+ball,2,13.4,Malawi,SZ Vayani,G Kansonkho,Mazharul Islam,1,0,,,,,,"",""
+ball,2,13.5,Malawi,G Kansonkho,SZ Vayani,Mazharul Islam,0,0,,,,,,"",""
+ball,2,13.6,Malawi,G Kansonkho,SZ Vayani,Mazharul Islam,1,0,,,,,,"",""
+ball,2,14.1,Malawi,G Kansonkho,SZ Vayani,Thilina Silva,1,0,,,,,,"",""
+ball,2,14.2,Malawi,SZ Vayani,G Kansonkho,Thilina Silva,0,0,,,,,,"",""
+ball,2,14.3,Malawi,SZ Vayani,G Kansonkho,Thilina Silva,0,0,,,,,,"",""
+ball,2,14.4,Malawi,SZ Vayani,G Kansonkho,Thilina Silva,1,0,,,,,,"",""
+ball,2,14.5,Malawi,G Kansonkho,SZ Vayani,Thilina Silva,1,0,,,,,,"",""
+ball,2,14.6,Malawi,SZ Vayani,G Kansonkho,Thilina Silva,0,0,,,,,,"",""
+ball,2,15.1,Malawi,G Kansonkho,SZ Vayani,Mazharul Islam,1,0,,,,,,"",""
+ball,2,15.2,Malawi,SZ Vayani,G Kansonkho,Mazharul Islam,1,0,,,,,,"",""
+ball,2,15.3,Malawi,G Kansonkho,SZ Vayani,Mazharul Islam,1,0,,,,,,"",""
+ball,2,15.4,Malawi,SZ Vayani,G Kansonkho,Mazharul Islam,1,0,,,,,,"",""
+ball,2,15.5,Malawi,G Kansonkho,SZ Vayani,Mazharul Islam,0,0,,,,,,"",""
+ball,2,15.6,Malawi,G Kansonkho,SZ Vayani,Mazharul Islam,0,0,,,,,,"",""
+ball,2,16.1,Malawi,SZ Vayani,G Kansonkho,Thilina Silva,1,0,,,,,,"",""
+ball,2,16.2,Malawi,G Kansonkho,SZ Vayani,Thilina Silva,1,0,,,,,,"",""
+ball,2,16.3,Malawi,SZ Vayani,G Kansonkho,Thilina Silva,2,0,,,,,,"",""
+ball,2,16.4,Malawi,SZ Vayani,G Kansonkho,Thilina Silva,1,0,,,,,,"",""
+ball,2,16.5,Malawi,G Kansonkho,SZ Vayani,Thilina Silva,1,0,,,,,,"",""
+ball,2,16.6,Malawi,SZ Vayani,G Kansonkho,Thilina Silva,4,0,,,,,,"",""

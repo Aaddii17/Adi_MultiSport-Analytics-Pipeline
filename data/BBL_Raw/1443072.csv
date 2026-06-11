@@ -1,0 +1,321 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Sydney Thunder
+info,team,Melbourne Renegades
+info,gender,male
+info,season,2024/25
+info,date,2024/12/30
+info,event,Big Bash League
+info,match_number,16
+info,venue,Sydney Showground Stadium
+info,city,Sydney
+info,toss_winner,Melbourne Renegades
+info,toss_decision,field
+info,player_of_match,DA Warner
+info,umpire,GA Abood
+info,umpire,Troy Penman
+info,reserve_umpire,D Taylor
+info,tv_umpire,MW Graham-Smith
+info,match_referee,Dave Gilbert
+info,winner,Sydney Thunder
+info,winner_runs,8
+info,player,Sydney Thunder,CT Bancroft
+info,player,Sydney Thunder,DA Warner
+info,player,Sydney Thunder,SE Rutherford
+info,player,Sydney Thunder,O Davies
+info,player,Sydney Thunder,SW Billings
+info,player,Sydney Thunder,M Gilkes
+info,player,Sydney Thunder,CJ Green
+info,player,Sydney Thunder,DR Sams
+info,player,Sydney Thunder,TD Andrews
+info,player,Sydney Thunder,LH Ferguson
+info,player,Sydney Thunder,WA Agar
+info,player,Melbourne Renegades,J Brown
+info,player,Melbourne Renegades,J Fraser-McGurk
+info,player,Melbourne Renegades,TL Seifert
+info,player,Melbourne Renegades,JG Bethell
+info,player,Melbourne Renegades,LJ Evans
+info,player,Melbourne Renegades,MW Harvey
+info,player,Melbourne Renegades,W Sutherland
+info,player,Melbourne Renegades,F O'Neill
+info,player,Melbourne Renegades,TS Rogers
+info,player,Melbourne Renegades,A Zampa
+info,player,Melbourne Renegades,KW Richardson
+info,registry,people,A Zampa,14f96089
+info,registry,people,CJ Green,19b9f399
+info,registry,people,CT Bancroft,399b0b94
+info,registry,people,D Taylor,b940a2b2
+info,registry,people,DA Warner,dcce6f09
+info,registry,people,DR Sams,caf69bf7
+info,registry,people,Dave Gilbert,aa782370
+info,registry,people,F O'Neill,39d608d4
+info,registry,people,GA Abood,a4af5528
+info,registry,people,J Brown,647e7d44
+info,registry,people,J Fraser-McGurk,9b6e1b3f
+info,registry,people,JG Bethell,3c55c703
+info,registry,people,KW Richardson,dfc4d8b5
+info,registry,people,LH Ferguson,2f9d0389
+info,registry,people,LJ Evans,1c513d54
+info,registry,people,M Gilkes,d85b0f8b
+info,registry,people,MW Graham-Smith,18aca3ce
+info,registry,people,MW Harvey,47dc9794
+info,registry,people,O Davies,0ea54eca
+info,registry,people,SE Rutherford,d014d5ac
+info,registry,people,SW Billings,c16d4035
+info,registry,people,TD Andrews,a0f612b6
+info,registry,people,TL Seifert,4663bd23
+info,registry,people,TS Rogers,1b04e02b
+info,registry,people,Troy Penman,0aa42c26
+info,registry,people,W Sutherland,bc2d4f2e
+info,registry,people,WA Agar,15de1f5d
+ball,1,0.1,Sydney Thunder,CT Bancroft,DA Warner,F O'Neill,1,0,,,,,,"",""
+ball,1,0.2,Sydney Thunder,DA Warner,CT Bancroft,F O'Neill,0,1,1,,,,,"",""
+ball,1,0.3,Sydney Thunder,DA Warner,CT Bancroft,F O'Neill,1,0,,,,,,"",""
+ball,1,0.4,Sydney Thunder,CT Bancroft,DA Warner,F O'Neill,2,0,,,,,,"",""
+ball,1,0.5,Sydney Thunder,CT Bancroft,DA Warner,F O'Neill,0,0,,,,,,"",""
+ball,1,0.6,Sydney Thunder,CT Bancroft,DA Warner,F O'Neill,0,1,1,,,,,"",""
+ball,1,0.7,Sydney Thunder,CT Bancroft,DA Warner,F O'Neill,4,0,,,,,,"",""
+ball,1,0.8,Sydney Thunder,CT Bancroft,DA Warner,F O'Neill,0,0,,,,,,"",""
+ball,1,1.1,Sydney Thunder,DA Warner,CT Bancroft,TS Rogers,4,0,,,,,,"",""
+ball,1,1.2,Sydney Thunder,DA Warner,CT Bancroft,TS Rogers,3,0,,,,,,"",""
+ball,1,1.3,Sydney Thunder,CT Bancroft,DA Warner,TS Rogers,1,0,,,,,,"",""
+ball,1,1.4,Sydney Thunder,DA Warner,CT Bancroft,TS Rogers,0,0,,,,,,"",""
+ball,1,1.5,Sydney Thunder,DA Warner,CT Bancroft,TS Rogers,1,0,,,,,,"",""
+ball,1,1.6,Sydney Thunder,CT Bancroft,DA Warner,TS Rogers,0,0,,,,,,caught,CT Bancroft
+ball,1,2.1,Sydney Thunder,DA Warner,SE Rutherford,KW Richardson,2,0,,,,,,"",""
+ball,1,2.2,Sydney Thunder,DA Warner,SE Rutherford,KW Richardson,4,0,,,,,,"",""
+ball,1,2.3,Sydney Thunder,DA Warner,SE Rutherford,KW Richardson,1,0,,,,,,"",""
+ball,1,2.4,Sydney Thunder,SE Rutherford,DA Warner,KW Richardson,1,0,,,,,,"",""
+ball,1,2.5,Sydney Thunder,DA Warner,SE Rutherford,KW Richardson,1,0,,,,,,"",""
+ball,1,2.6,Sydney Thunder,SE Rutherford,DA Warner,KW Richardson,0,0,,,,,,"",""
+ball,1,3.1,Sydney Thunder,DA Warner,SE Rutherford,W Sutherland,1,0,,,,,,"",""
+ball,1,3.2,Sydney Thunder,SE Rutherford,DA Warner,W Sutherland,0,0,,,,,,"",""
+ball,1,3.3,Sydney Thunder,SE Rutherford,DA Warner,W Sutherland,0,0,,,,,,"",""
+ball,1,3.4,Sydney Thunder,SE Rutherford,DA Warner,W Sutherland,1,0,,,,,,"",""
+ball,1,3.5,Sydney Thunder,DA Warner,SE Rutherford,W Sutherland,0,0,,,,,,"",""
+ball,1,3.6,Sydney Thunder,DA Warner,SE Rutherford,W Sutherland,0,0,,,,,,"",""
+ball,1,4.1,Sydney Thunder,SE Rutherford,DA Warner,F O'Neill,1,0,,,,,,"",""
+ball,1,4.2,Sydney Thunder,DA Warner,SE Rutherford,F O'Neill,1,0,,,,,,"",""
+ball,1,4.3,Sydney Thunder,SE Rutherford,DA Warner,F O'Neill,1,0,,,,,,"",""
+ball,1,4.4,Sydney Thunder,DA Warner,SE Rutherford,F O'Neill,1,0,,,,,,"",""
+ball,1,4.5,Sydney Thunder,SE Rutherford,DA Warner,F O'Neill,0,0,,,,,,"",""
+ball,1,4.6,Sydney Thunder,SE Rutherford,DA Warner,F O'Neill,0,0,,,,,,"",""
+ball,1,5.1,Sydney Thunder,DA Warner,SE Rutherford,A Zampa,1,0,,,,,,"",""
+ball,1,5.2,Sydney Thunder,SE Rutherford,DA Warner,A Zampa,0,0,,,,,,"",""
+ball,1,5.3,Sydney Thunder,SE Rutherford,DA Warner,A Zampa,1,0,,,,,,"",""
+ball,1,5.4,Sydney Thunder,DA Warner,SE Rutherford,A Zampa,1,0,,,,,,"",""
+ball,1,5.5,Sydney Thunder,SE Rutherford,DA Warner,A Zampa,0,0,,,,,,"",""
+ball,1,5.6,Sydney Thunder,SE Rutherford,DA Warner,A Zampa,1,0,,,,,,"",""
+ball,1,6.1,Sydney Thunder,SE Rutherford,DA Warner,TS Rogers,0,0,,,,,,"",""
+ball,1,6.2,Sydney Thunder,SE Rutherford,DA Warner,TS Rogers,0,0,,,,,,"",""
+ball,1,6.3,Sydney Thunder,SE Rutherford,DA Warner,TS Rogers,4,0,,,,,,"",""
+ball,1,6.4,Sydney Thunder,SE Rutherford,DA Warner,TS Rogers,1,0,,,,,,"",""
+ball,1,6.5,Sydney Thunder,DA Warner,SE Rutherford,TS Rogers,0,0,,,,,,"",""
+ball,1,6.6,Sydney Thunder,DA Warner,SE Rutherford,TS Rogers,0,0,,,,,,"",""
+ball,1,7.1,Sydney Thunder,SE Rutherford,DA Warner,W Sutherland,0,0,,,,,,caught,SE Rutherford
+ball,1,7.2,Sydney Thunder,O Davies,DA Warner,W Sutherland,1,0,,,,,,"",""
+ball,1,7.3,Sydney Thunder,DA Warner,O Davies,W Sutherland,0,0,,,,,,"",""
+ball,1,7.4,Sydney Thunder,DA Warner,O Davies,W Sutherland,1,0,,,,,,"",""
+ball,1,7.5,Sydney Thunder,O Davies,DA Warner,W Sutherland,4,0,,,,,,"",""
+ball,1,7.6,Sydney Thunder,O Davies,DA Warner,W Sutherland,0,1,1,,,,,"",""
+ball,1,7.7,Sydney Thunder,O Davies,DA Warner,W Sutherland,1,0,,,,,,"",""
+ball,1,8.1,Sydney Thunder,O Davies,DA Warner,KW Richardson,1,0,,,,,,"",""
+ball,1,8.2,Sydney Thunder,DA Warner,O Davies,KW Richardson,0,0,,,,,,"",""
+ball,1,8.3,Sydney Thunder,DA Warner,O Davies,KW Richardson,0,0,,,,,,"",""
+ball,1,8.4,Sydney Thunder,DA Warner,O Davies,KW Richardson,1,0,,,,,,"",""
+ball,1,8.5,Sydney Thunder,O Davies,DA Warner,KW Richardson,2,0,,,,,,"",""
+ball,1,8.6,Sydney Thunder,O Davies,DA Warner,KW Richardson,1,0,,,,,,"",""
+ball,1,9.1,Sydney Thunder,O Davies,DA Warner,A Zampa,0,0,,,,,,caught,O Davies
+ball,1,9.2,Sydney Thunder,SW Billings,DA Warner,A Zampa,1,0,,,,,,"",""
+ball,1,9.3,Sydney Thunder,DA Warner,SW Billings,A Zampa,0,0,,,,,,"",""
+ball,1,9.4,Sydney Thunder,DA Warner,SW Billings,A Zampa,1,0,,,,,,"",""
+ball,1,9.5,Sydney Thunder,SW Billings,DA Warner,A Zampa,1,0,,,,,,"",""
+ball,1,9.6,Sydney Thunder,DA Warner,SW Billings,A Zampa,1,0,,,,,,"",""
+ball,1,10.1,Sydney Thunder,DA Warner,SW Billings,F O'Neill,0,0,,,,,,"",""
+ball,1,10.2,Sydney Thunder,DA Warner,SW Billings,F O'Neill,2,0,,,,,,"",""
+ball,1,10.3,Sydney Thunder,DA Warner,SW Billings,F O'Neill,0,0,,,,,,"",""
+ball,1,10.4,Sydney Thunder,DA Warner,SW Billings,F O'Neill,4,0,,,,,,"",""
+ball,1,10.5,Sydney Thunder,DA Warner,SW Billings,F O'Neill,4,0,,,,,,"",""
+ball,1,10.6,Sydney Thunder,DA Warner,SW Billings,F O'Neill,0,0,,,,,,"",""
+ball,1,11.1,Sydney Thunder,SW Billings,DA Warner,W Sutherland,1,0,,,,,,"",""
+ball,1,11.2,Sydney Thunder,DA Warner,SW Billings,W Sutherland,0,0,,,,,,"",""
+ball,1,11.3,Sydney Thunder,DA Warner,SW Billings,W Sutherland,0,0,,,,,,"",""
+ball,1,11.4,Sydney Thunder,DA Warner,SW Billings,W Sutherland,4,0,,,,,,"",""
+ball,1,11.5,Sydney Thunder,DA Warner,SW Billings,W Sutherland,1,0,,,,,,"",""
+ball,1,11.6,Sydney Thunder,SW Billings,DA Warner,W Sutherland,1,0,,,,,,"",""
+ball,1,12.1,Sydney Thunder,SW Billings,DA Warner,TS Rogers,4,0,,,,,,"",""
+ball,1,12.2,Sydney Thunder,SW Billings,DA Warner,TS Rogers,0,0,,,,,,"",""
+ball,1,12.3,Sydney Thunder,SW Billings,DA Warner,TS Rogers,1,0,,,,,,"",""
+ball,1,12.4,Sydney Thunder,DA Warner,SW Billings,TS Rogers,0,1,,,1,,,"",""
+ball,1,12.5,Sydney Thunder,SW Billings,DA Warner,TS Rogers,1,0,,,,,,"",""
+ball,1,12.6,Sydney Thunder,DA Warner,SW Billings,TS Rogers,2,0,,,,,,"",""
+ball,1,13.1,Sydney Thunder,SW Billings,DA Warner,KW Richardson,0,1,1,,,,,"",""
+ball,1,13.2,Sydney Thunder,SW Billings,DA Warner,KW Richardson,0,0,,,,,,"",""
+ball,1,13.3,Sydney Thunder,SW Billings,DA Warner,KW Richardson,0,0,,,,,,caught,SW Billings
+ball,1,13.4,Sydney Thunder,M Gilkes,DA Warner,KW Richardson,0,0,,,,,,"",""
+ball,1,13.5,Sydney Thunder,M Gilkes,DA Warner,KW Richardson,0,0,,,,,,"",""
+ball,1,13.6,Sydney Thunder,M Gilkes,DA Warner,KW Richardson,0,0,,,,,,"",""
+ball,1,13.7,Sydney Thunder,M Gilkes,DA Warner,KW Richardson,2,0,,,,,,"",""
+ball,1,14.1,Sydney Thunder,DA Warner,M Gilkes,W Sutherland,4,0,,,,,,"",""
+ball,1,14.2,Sydney Thunder,DA Warner,M Gilkes,W Sutherland,4,0,,,,,,"",""
+ball,1,14.3,Sydney Thunder,DA Warner,M Gilkes,W Sutherland,0,1,,,,1,,"",""
+ball,1,14.4,Sydney Thunder,M Gilkes,DA Warner,W Sutherland,3,0,,,,,,"",""
+ball,1,14.5,Sydney Thunder,DA Warner,M Gilkes,W Sutherland,1,0,,,,,,"",""
+ball,1,14.6,Sydney Thunder,M Gilkes,DA Warner,W Sutherland,2,0,,,,,,"",""
+ball,1,15.1,Sydney Thunder,DA Warner,M Gilkes,A Zampa,4,0,,,,,,"",""
+ball,1,15.2,Sydney Thunder,DA Warner,M Gilkes,A Zampa,1,0,,,,,,"",""
+ball,1,15.3,Sydney Thunder,M Gilkes,DA Warner,A Zampa,2,0,,,,,,"",""
+ball,1,15.4,Sydney Thunder,M Gilkes,DA Warner,A Zampa,0,1,,,,1,,"",""
+ball,1,15.5,Sydney Thunder,DA Warner,M Gilkes,A Zampa,6,0,,,,,,"",""
+ball,1,15.6,Sydney Thunder,DA Warner,M Gilkes,A Zampa,1,0,,,,,,"",""
+ball,1,16.1,Sydney Thunder,DA Warner,M Gilkes,F O'Neill,6,0,,,,,,"",""
+ball,1,16.2,Sydney Thunder,DA Warner,M Gilkes,F O'Neill,4,0,,,,,,"",""
+ball,1,16.3,Sydney Thunder,DA Warner,M Gilkes,F O'Neill,1,0,,,,,,"",""
+ball,1,16.4,Sydney Thunder,M Gilkes,DA Warner,F O'Neill,0,0,,,,,,"",""
+ball,1,16.5,Sydney Thunder,M Gilkes,DA Warner,F O'Neill,1,0,,,,,,"",""
+ball,1,16.6,Sydney Thunder,DA Warner,M Gilkes,F O'Neill,0,0,,,,,,"",""
+ball,1,17.1,Sydney Thunder,M Gilkes,DA Warner,KW Richardson,0,0,,,,,,"",""
+ball,1,17.2,Sydney Thunder,M Gilkes,DA Warner,KW Richardson,1,0,,,,,,"",""
+ball,1,17.3,Sydney Thunder,DA Warner,M Gilkes,KW Richardson,1,0,,,,,,"",""
+ball,1,17.4,Sydney Thunder,M Gilkes,DA Warner,KW Richardson,3,0,,,,,,"",""
+ball,1,17.5,Sydney Thunder,DA Warner,M Gilkes,KW Richardson,1,0,,,,,,"",""
+ball,1,17.6,Sydney Thunder,M Gilkes,DA Warner,KW Richardson,1,0,,,,,,"",""
+ball,1,18.1,Sydney Thunder,M Gilkes,DA Warner,TS Rogers,1,0,,,,,,"",""
+ball,1,18.2,Sydney Thunder,DA Warner,M Gilkes,TS Rogers,2,0,,,,,,"",""
+ball,1,18.3,Sydney Thunder,DA Warner,M Gilkes,TS Rogers,1,0,,,,,,"",""
+ball,1,18.4,Sydney Thunder,M Gilkes,DA Warner,TS Rogers,4,0,,,,,,"",""
+ball,1,18.5,Sydney Thunder,M Gilkes,DA Warner,TS Rogers,0,0,,,,,,"",""
+ball,1,18.6,Sydney Thunder,M Gilkes,DA Warner,TS Rogers,1,0,,,,,,"",""
+ball,1,19.1,Sydney Thunder,M Gilkes,DA Warner,A Zampa,2,0,,,,,,"",""
+ball,1,19.2,Sydney Thunder,M Gilkes,DA Warner,A Zampa,0,0,,,,,,"",""
+ball,1,19.3,Sydney Thunder,M Gilkes,DA Warner,A Zampa,0,1,,,,1,,"",""
+ball,1,19.4,Sydney Thunder,DA Warner,M Gilkes,A Zampa,0,0,,,,,,"",""
+ball,1,19.5,Sydney Thunder,DA Warner,M Gilkes,A Zampa,2,0,,,,,,"",""
+ball,1,19.6,Sydney Thunder,DA Warner,M Gilkes,A Zampa,4,0,,,,,,"",""
+ball,2,0.1,Melbourne Renegades,J Brown,J Fraser-McGurk,LH Ferguson,0,1,1,,,,,"",""
+ball,2,0.2,Melbourne Renegades,J Brown,J Fraser-McGurk,LH Ferguson,0,0,,,,,,"",""
+ball,2,0.3,Melbourne Renegades,J Brown,J Fraser-McGurk,LH Ferguson,4,0,,,,,,"",""
+ball,2,0.4,Melbourne Renegades,J Brown,J Fraser-McGurk,LH Ferguson,0,0,,,,,,"",""
+ball,2,0.5,Melbourne Renegades,J Brown,J Fraser-McGurk,LH Ferguson,0,0,,,,,,"",""
+ball,2,0.6,Melbourne Renegades,J Brown,J Fraser-McGurk,LH Ferguson,1,0,,,,,,"",""
+ball,2,0.7,Melbourne Renegades,J Fraser-McGurk,J Brown,LH Ferguson,2,0,,,,,,"",""
+ball,2,1.1,Melbourne Renegades,J Brown,J Fraser-McGurk,WA Agar,0,0,,,,,,"",""
+ball,2,1.2,Melbourne Renegades,J Brown,J Fraser-McGurk,WA Agar,0,0,,,,,,"",""
+ball,2,1.3,Melbourne Renegades,J Brown,J Fraser-McGurk,WA Agar,2,0,,,,,,"",""
+ball,2,1.4,Melbourne Renegades,J Brown,J Fraser-McGurk,WA Agar,4,0,,,,,,"",""
+ball,2,1.5,Melbourne Renegades,J Brown,J Fraser-McGurk,WA Agar,2,0,,,,,,"",""
+ball,2,1.6,Melbourne Renegades,J Brown,J Fraser-McGurk,WA Agar,1,0,,,,,,"",""
+ball,2,2.1,Melbourne Renegades,J Brown,J Fraser-McGurk,TD Andrews,0,0,,,,,,"",""
+ball,2,2.2,Melbourne Renegades,J Brown,J Fraser-McGurk,TD Andrews,0,0,,,,,,"",""
+ball,2,2.3,Melbourne Renegades,J Brown,J Fraser-McGurk,TD Andrews,1,0,,,,,,"",""
+ball,2,2.4,Melbourne Renegades,J Fraser-McGurk,J Brown,TD Andrews,0,0,,,,,,"",""
+ball,2,2.5,Melbourne Renegades,J Fraser-McGurk,J Brown,TD Andrews,1,0,,,,,,"",""
+ball,2,2.6,Melbourne Renegades,J Brown,J Fraser-McGurk,TD Andrews,6,0,,,,,,"",""
+ball,2,3.1,Melbourne Renegades,J Fraser-McGurk,J Brown,LH Ferguson,4,0,,,,,,"",""
+ball,2,3.2,Melbourne Renegades,J Fraser-McGurk,J Brown,LH Ferguson,0,0,,,,,,"",""
+ball,2,3.3,Melbourne Renegades,J Fraser-McGurk,J Brown,LH Ferguson,1,0,,,,,,"",""
+ball,2,3.4,Melbourne Renegades,J Brown,J Fraser-McGurk,LH Ferguson,0,0,,,,,,"",""
+ball,2,3.5,Melbourne Renegades,J Brown,J Fraser-McGurk,LH Ferguson,1,0,,,,,,"",""
+ball,2,3.6,Melbourne Renegades,J Fraser-McGurk,J Brown,LH Ferguson,0,1,1,,,,,"",""
+ball,2,3.7,Melbourne Renegades,J Fraser-McGurk,J Brown,LH Ferguson,0,1,,,,1,,"",""
+ball,2,4.1,Melbourne Renegades,J Fraser-McGurk,J Brown,TD Andrews,1,0,,,,,,"",""
+ball,2,4.2,Melbourne Renegades,J Brown,J Fraser-McGurk,TD Andrews,0,0,,,,,,caught,J Brown
+ball,2,4.3,Melbourne Renegades,TL Seifert,J Fraser-McGurk,TD Andrews,1,0,,,,,,"",""
+ball,2,4.4,Melbourne Renegades,J Fraser-McGurk,TL Seifert,TD Andrews,1,0,,,,,,"",""
+ball,2,4.5,Melbourne Renegades,TL Seifert,J Fraser-McGurk,TD Andrews,1,0,,,,,,"",""
+ball,2,4.6,Melbourne Renegades,J Fraser-McGurk,TL Seifert,TD Andrews,1,0,,,,,,"",""
+ball,2,5.1,Melbourne Renegades,J Fraser-McGurk,TL Seifert,DR Sams,0,0,,,,,,"",""
+ball,2,5.2,Melbourne Renegades,J Fraser-McGurk,TL Seifert,DR Sams,0,1,,,,1,,"",""
+ball,2,5.3,Melbourne Renegades,TL Seifert,J Fraser-McGurk,DR Sams,0,0,,,,,,"",""
+ball,2,5.4,Melbourne Renegades,TL Seifert,J Fraser-McGurk,DR Sams,1,0,,,,,,"",""
+ball,2,5.5,Melbourne Renegades,J Fraser-McGurk,TL Seifert,DR Sams,1,0,,,,,,"",""
+ball,2,5.6,Melbourne Renegades,TL Seifert,J Fraser-McGurk,DR Sams,1,0,,,,,,"",""
+ball,2,6.1,Melbourne Renegades,TL Seifert,J Fraser-McGurk,TD Andrews,1,0,,,,,,"",""
+ball,2,6.2,Melbourne Renegades,J Fraser-McGurk,TL Seifert,TD Andrews,0,0,,,,,,"",""
+ball,2,6.3,Melbourne Renegades,J Fraser-McGurk,TL Seifert,TD Andrews,6,0,,,,,,"",""
+ball,2,6.4,Melbourne Renegades,J Fraser-McGurk,TL Seifert,TD Andrews,0,0,,,,,,"",""
+ball,2,6.5,Melbourne Renegades,J Fraser-McGurk,TL Seifert,TD Andrews,1,0,,,,,,"",""
+ball,2,6.6,Melbourne Renegades,TL Seifert,J Fraser-McGurk,TD Andrews,0,0,,,,,,"",""
+ball,2,7.1,Melbourne Renegades,J Fraser-McGurk,TL Seifert,WA Agar,1,0,,,,,,"",""
+ball,2,7.2,Melbourne Renegades,TL Seifert,J Fraser-McGurk,WA Agar,0,0,,,,,,"",""
+ball,2,7.3,Melbourne Renegades,TL Seifert,J Fraser-McGurk,WA Agar,0,0,,,,,,"",""
+ball,2,7.4,Melbourne Renegades,TL Seifert,J Fraser-McGurk,WA Agar,4,0,,,,,,"",""
+ball,2,7.5,Melbourne Renegades,TL Seifert,J Fraser-McGurk,WA Agar,0,0,,,,,,caught,TL Seifert
+ball,2,7.6,Melbourne Renegades,JG Bethell,J Fraser-McGurk,WA Agar,0,0,,,,,,"",""
+ball,2,8.1,Melbourne Renegades,J Fraser-McGurk,JG Bethell,CJ Green,0,0,,,,,,"",""
+ball,2,8.2,Melbourne Renegades,J Fraser-McGurk,JG Bethell,CJ Green,0,0,,,,,,"",""
+ball,2,8.3,Melbourne Renegades,J Fraser-McGurk,JG Bethell,CJ Green,1,0,,,,,,"",""
+ball,2,8.4,Melbourne Renegades,JG Bethell,J Fraser-McGurk,CJ Green,1,0,,,,,,"",""
+ball,2,8.5,Melbourne Renegades,J Fraser-McGurk,JG Bethell,CJ Green,1,0,,,,,,"",""
+ball,2,8.6,Melbourne Renegades,JG Bethell,J Fraser-McGurk,CJ Green,1,0,,,,,,"",""
+ball,2,9.1,Melbourne Renegades,JG Bethell,J Fraser-McGurk,DR Sams,0,0,,,,,,bowled,JG Bethell
+ball,2,9.2,Melbourne Renegades,LJ Evans,J Fraser-McGurk,DR Sams,1,0,,,,,,"",""
+ball,2,9.3,Melbourne Renegades,J Fraser-McGurk,LJ Evans,DR Sams,0,0,,,,,,"",""
+ball,2,9.4,Melbourne Renegades,J Fraser-McGurk,LJ Evans,DR Sams,1,0,,,,,,"",""
+ball,2,9.5,Melbourne Renegades,LJ Evans,J Fraser-McGurk,DR Sams,1,0,,,,,,"",""
+ball,2,9.6,Melbourne Renegades,J Fraser-McGurk,LJ Evans,DR Sams,2,0,,,,,,"",""
+ball,2,10.1,Melbourne Renegades,LJ Evans,J Fraser-McGurk,CJ Green,0,0,,,,,,"",""
+ball,2,10.2,Melbourne Renegades,LJ Evans,J Fraser-McGurk,CJ Green,0,1,1,,,,,"",""
+ball,2,10.3,Melbourne Renegades,LJ Evans,J Fraser-McGurk,CJ Green,1,0,,,,,,"",""
+ball,2,10.4,Melbourne Renegades,J Fraser-McGurk,LJ Evans,CJ Green,1,0,,,,,,"",""
+ball,2,10.5,Melbourne Renegades,LJ Evans,J Fraser-McGurk,CJ Green,1,0,,,,,,"",""
+ball,2,10.6,Melbourne Renegades,J Fraser-McGurk,LJ Evans,CJ Green,0,0,,,,,,caught and bowled,J Fraser-McGurk
+ball,2,10.7,Melbourne Renegades,MW Harvey,LJ Evans,CJ Green,0,0,,,,,,"",""
+ball,2,11.1,Melbourne Renegades,LJ Evans,MW Harvey,DR Sams,6,0,,,,,,"",""
+ball,2,11.2,Melbourne Renegades,LJ Evans,MW Harvey,DR Sams,0,0,,,,,,"",""
+ball,2,11.3,Melbourne Renegades,LJ Evans,MW Harvey,DR Sams,6,0,,,,,,"",""
+ball,2,11.4,Melbourne Renegades,LJ Evans,MW Harvey,DR Sams,0,0,,,,,,"",""
+ball,2,11.5,Melbourne Renegades,LJ Evans,MW Harvey,DR Sams,1,0,,,,,,"",""
+ball,2,11.6,Melbourne Renegades,MW Harvey,LJ Evans,DR Sams,1,0,,,,,,"",""
+ball,2,12.1,Melbourne Renegades,MW Harvey,LJ Evans,LH Ferguson,2,0,,,,,,"",""
+ball,2,12.2,Melbourne Renegades,MW Harvey,LJ Evans,LH Ferguson,4,0,,,,,,"",""
+ball,2,12.3,Melbourne Renegades,MW Harvey,LJ Evans,LH Ferguson,0,2,2,,,,,"",""
+ball,2,12.4,Melbourne Renegades,LJ Evans,MW Harvey,LH Ferguson,0,0,,,,,,"",""
+ball,2,12.5,Melbourne Renegades,LJ Evans,MW Harvey,LH Ferguson,0,0,,,,,,"",""
+ball,2,12.6,Melbourne Renegades,LJ Evans,MW Harvey,LH Ferguson,1,0,,,,,,"",""
+ball,2,12.7,Melbourne Renegades,MW Harvey,LJ Evans,LH Ferguson,0,1,,,,1,,"",""
+ball,2,13.1,Melbourne Renegades,MW Harvey,LJ Evans,WA Agar,2,0,,,,,,"",""
+ball,2,13.2,Melbourne Renegades,MW Harvey,LJ Evans,WA Agar,0,0,,,,,,"",""
+ball,2,13.3,Melbourne Renegades,MW Harvey,LJ Evans,WA Agar,0,1,1,,,,,"",""
+ball,2,13.4,Melbourne Renegades,MW Harvey,LJ Evans,WA Agar,0,0,,,,,,"",""
+ball,2,13.5,Melbourne Renegades,MW Harvey,LJ Evans,WA Agar,0,0,,,,,,caught,MW Harvey
+ball,2,13.6,Melbourne Renegades,W Sutherland,LJ Evans,WA Agar,0,0,,,,,,lbw,W Sutherland
+ball,2,13.7,Melbourne Renegades,F O'Neill,LJ Evans,WA Agar,1,0,,,,,,"",""
+ball,2,14.1,Melbourne Renegades,F O'Neill,LJ Evans,CJ Green,0,1,,,,1,,"",""
+ball,2,14.2,Melbourne Renegades,LJ Evans,F O'Neill,CJ Green,1,0,,,,,,"",""
+ball,2,14.3,Melbourne Renegades,F O'Neill,LJ Evans,CJ Green,1,0,,,,,,"",""
+ball,2,14.4,Melbourne Renegades,LJ Evans,F O'Neill,CJ Green,0,0,,,,,,"",""
+ball,2,14.5,Melbourne Renegades,LJ Evans,F O'Neill,CJ Green,1,0,,,,,,"",""
+ball,2,14.6,Melbourne Renegades,F O'Neill,LJ Evans,CJ Green,1,0,,,,,,"",""
+ball,2,15.1,Melbourne Renegades,F O'Neill,LJ Evans,DR Sams,0,0,,,,,,caught,F O'Neill
+ball,2,15.2,Melbourne Renegades,TS Rogers,LJ Evans,DR Sams,1,0,,,,,,"",""
+ball,2,15.3,Melbourne Renegades,LJ Evans,TS Rogers,DR Sams,0,1,1,,,,,"",""
+ball,2,15.4,Melbourne Renegades,LJ Evans,TS Rogers,DR Sams,0,0,,,,,,"",""
+ball,2,15.5,Melbourne Renegades,LJ Evans,TS Rogers,DR Sams,1,0,,,,,,"",""
+ball,2,15.6,Melbourne Renegades,TS Rogers,LJ Evans,DR Sams,1,0,,,,,,"",""
+ball,2,15.7,Melbourne Renegades,LJ Evans,TS Rogers,DR Sams,0,0,,,,,,"",""
+ball,2,16.1,Melbourne Renegades,TS Rogers,LJ Evans,CJ Green,1,0,,,,,,"",""
+ball,2,16.2,Melbourne Renegades,LJ Evans,TS Rogers,CJ Green,6,0,,,,,,"",""
+ball,2,16.3,Melbourne Renegades,LJ Evans,TS Rogers,CJ Green,1,0,,,,,,"",""
+ball,2,16.4,Melbourne Renegades,TS Rogers,LJ Evans,CJ Green,2,0,,,,,,"",""
+ball,2,16.5,Melbourne Renegades,TS Rogers,LJ Evans,CJ Green,0,0,,,,,,"",""
+ball,2,16.6,Melbourne Renegades,TS Rogers,LJ Evans,CJ Green,1,0,,,,,,"",""
+ball,2,17.1,Melbourne Renegades,TS Rogers,LJ Evans,WA Agar,1,0,,,,,,"",""
+ball,2,17.2,Melbourne Renegades,LJ Evans,TS Rogers,WA Agar,2,0,,,,,,"",""
+ball,2,17.3,Melbourne Renegades,LJ Evans,TS Rogers,WA Agar,2,0,,,,,,"",""
+ball,2,17.4,Melbourne Renegades,LJ Evans,TS Rogers,WA Agar,0,1,1,,,,,"",""
+ball,2,17.5,Melbourne Renegades,LJ Evans,TS Rogers,WA Agar,2,0,,,,,,"",""
+ball,2,17.6,Melbourne Renegades,LJ Evans,TS Rogers,WA Agar,6,0,,,,,,"",""
+ball,2,17.7,Melbourne Renegades,LJ Evans,TS Rogers,WA Agar,0,0,,,,,,caught,LJ Evans
+ball,2,18.1,Melbourne Renegades,TS Rogers,A Zampa,LH Ferguson,0,0,,,,,,"",""
+ball,2,18.2,Melbourne Renegades,TS Rogers,A Zampa,LH Ferguson,1,0,,,,,,"",""
+ball,2,18.3,Melbourne Renegades,A Zampa,TS Rogers,LH Ferguson,1,0,,,,,,"",""
+ball,2,18.4,Melbourne Renegades,TS Rogers,A Zampa,LH Ferguson,1,0,,,,,,"",""
+ball,2,18.5,Melbourne Renegades,A Zampa,TS Rogers,LH Ferguson,1,0,,,,,,"",""
+ball,2,18.6,Melbourne Renegades,TS Rogers,A Zampa,LH Ferguson,1,0,,,,,,"",""
+ball,2,19.1,Melbourne Renegades,TS Rogers,A Zampa,TD Andrews,0,0,,,,,,"",""
+ball,2,19.2,Melbourne Renegades,TS Rogers,A Zampa,TD Andrews,4,0,,,,,,"",""
+ball,2,19.3,Melbourne Renegades,TS Rogers,A Zampa,TD Andrews,2,0,,,,,,"",""
+ball,2,19.4,Melbourne Renegades,TS Rogers,A Zampa,TD Andrews,0,0,,,,,,"",""
+ball,2,19.5,Melbourne Renegades,TS Rogers,A Zampa,TD Andrews,6,0,,,,,,"",""
+ball,2,19.6,Melbourne Renegades,TS Rogers,A Zampa,TD Andrews,1,0,,,,,,"",""

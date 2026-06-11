@@ -1,0 +1,302 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,India
+info,team,Pakistan
+info,gender,male
+info,season,2025/26
+info,date,2026/02/15
+info,event,ICC Men's T20 World Cup
+info,match_number,27
+info,venue,"R Premadasa Stadium, Colombo"
+info,city,Colombo
+info,toss_winner,Pakistan
+info,toss_decision,field
+info,player_of_match,Ishan Kishan
+info,umpire,HDPK Dharmasena
+info,umpire,RK Illingworth
+info,reserve_umpire,RR Wimalasiri
+info,tv_umpire,CB Gaffaney
+info,match_referee,RB Richardson
+info,winner,India
+info,winner_runs,61
+info,player,India,Ishan Kishan
+info,player,India,Abhishek Sharma
+info,player,India,Tilak Varma
+info,player,India,SA Yadav
+info,player,India,HH Pandya
+info,player,India,S Dube
+info,player,India,RK Singh
+info,player,India,AR Patel
+info,player,India,Kuldeep Yadav
+info,player,India,CV Varun
+info,player,India,JJ Bumrah
+info,player,Pakistan,Sahibzada Farhan
+info,player,Pakistan,Saim Ayub
+info,player,Pakistan,Agha Salman
+info,player,Pakistan,Babar Azam
+info,player,Pakistan,Usman Khan
+info,player,Pakistan,Shadab Khan
+info,player,Pakistan,Mohammad Nawaz
+info,player,Pakistan,Faheem Ashraf
+info,player,Pakistan,Shaheen Shah Afridi
+info,player,Pakistan,Abrar Ahmed
+info,player,Pakistan,Usman Tariq
+info,registry,people,AR Patel,2e171977
+info,registry,people,Abhishek Sharma,f29185a1
+info,registry,people,Abrar Ahmed,abb7c76c
+info,registry,people,Agha Salman,89c16049
+info,registry,people,Babar Azam,8a75e999
+info,registry,people,CB Gaffaney,d5ac41d8
+info,registry,people,CV Varun,5b7ab5a9
+info,registry,people,Faheem Ashraf,bd4ea627
+info,registry,people,HDPK Dharmasena,323e4c16
+info,registry,people,HH Pandya,dbe50b21
+info,registry,people,Ishan Kishan,752f7486
+info,registry,people,JJ Bumrah,462411b3
+info,registry,people,Kuldeep Yadav,8d2c70ad
+info,registry,people,Mohammad Nawaz,3086f7a4
+info,registry,people,RB Richardson,410e2f12
+info,registry,people,RK Illingworth,20672246
+info,registry,people,RK Singh,0a509d6b
+info,registry,people,RR Wimalasiri,4950c8db
+info,registry,people,S Dube,a4e37e47
+info,registry,people,SA Yadav,271f83cd
+info,registry,people,Sahibzada Farhan,1aba45cd
+info,registry,people,Saim Ayub,33609a8c
+info,registry,people,Shadab Khan,9de62878
+info,registry,people,Shaheen Shah Afridi,45a7e761
+info,registry,people,Tilak Varma,b0482a1d
+info,registry,people,Usman Khan,bafb9238
+info,registry,people,Usman Tariq,e94d1dcd
+ball,1,0.1,India,Ishan Kishan,Abhishek Sharma,Agha Salman,0,0,,,,,,"",""
+ball,1,0.2,India,Ishan Kishan,Abhishek Sharma,Agha Salman,1,0,,,,,,"",""
+ball,1,0.3,India,Abhishek Sharma,Ishan Kishan,Agha Salman,0,0,,,,,,"",""
+ball,1,0.4,India,Abhishek Sharma,Ishan Kishan,Agha Salman,0,0,,,,,,"",""
+ball,1,0.5,India,Abhishek Sharma,Ishan Kishan,Agha Salman,0,0,,,,,,"",""
+ball,1,0.6,India,Abhishek Sharma,Ishan Kishan,Agha Salman,0,0,,,,,,caught,Abhishek Sharma
+ball,1,1.1,India,Ishan Kishan,Tilak Varma,Shaheen Shah Afridi,6,0,,,,,,"",""
+ball,1,1.2,India,Ishan Kishan,Tilak Varma,Shaheen Shah Afridi,4,0,,,,,,"",""
+ball,1,1.3,India,Ishan Kishan,Tilak Varma,Shaheen Shah Afridi,1,0,,,,,,"",""
+ball,1,1.4,India,Tilak Varma,Ishan Kishan,Shaheen Shah Afridi,0,0,,,,,,"",""
+ball,1,1.5,India,Tilak Varma,Ishan Kishan,Shaheen Shah Afridi,0,0,,,,,,"",""
+ball,1,1.6,India,Tilak Varma,Ishan Kishan,Shaheen Shah Afridi,4,0,,,,,,"",""
+ball,1,2.1,India,Ishan Kishan,Tilak Varma,Agha Salman,4,0,,,,,,"",""
+ball,1,2.2,India,Ishan Kishan,Tilak Varma,Agha Salman,0,0,,,,,,"",""
+ball,1,2.3,India,Ishan Kishan,Tilak Varma,Agha Salman,2,0,,,,,,"",""
+ball,1,2.4,India,Ishan Kishan,Tilak Varma,Agha Salman,1,0,,,,,,"",""
+ball,1,2.5,India,Tilak Varma,Ishan Kishan,Agha Salman,1,0,,,,,,"",""
+ball,1,2.6,India,Ishan Kishan,Tilak Varma,Agha Salman,1,0,,,,,,"",""
+ball,1,3.1,India,Ishan Kishan,Tilak Varma,Saim Ayub,0,0,,,,,,"",""
+ball,1,3.2,India,Ishan Kishan,Tilak Varma,Saim Ayub,0,0,,,,,,"",""
+ball,1,3.3,India,Ishan Kishan,Tilak Varma,Saim Ayub,4,0,,,,,,"",""
+ball,1,3.4,India,Ishan Kishan,Tilak Varma,Saim Ayub,0,0,,,,,,"",""
+ball,1,3.5,India,Ishan Kishan,Tilak Varma,Saim Ayub,0,0,,,,,,"",""
+ball,1,3.6,India,Ishan Kishan,Tilak Varma,Saim Ayub,1,0,,,,,,"",""
+ball,1,4.1,India,Ishan Kishan,Tilak Varma,Abrar Ahmed,6,0,,,,,,"",""
+ball,1,4.2,India,Ishan Kishan,Tilak Varma,Abrar Ahmed,0,0,,,,,,"",""
+ball,1,4.3,India,Ishan Kishan,Tilak Varma,Abrar Ahmed,0,0,,,,,,"",""
+ball,1,4.4,India,Ishan Kishan,Tilak Varma,Abrar Ahmed,4,0,,,,,,"",""
+ball,1,4.5,India,Ishan Kishan,Tilak Varma,Abrar Ahmed,1,0,,,,,,"",""
+ball,1,4.6,India,Tilak Varma,Ishan Kishan,Abrar Ahmed,0,0,,,,,,"",""
+ball,1,5.1,India,Ishan Kishan,Tilak Varma,Saim Ayub,1,0,,,,,,"",""
+ball,1,5.2,India,Tilak Varma,Ishan Kishan,Saim Ayub,1,0,,,,,,"",""
+ball,1,5.3,India,Ishan Kishan,Tilak Varma,Saim Ayub,0,0,,,,,,"",""
+ball,1,5.4,India,Ishan Kishan,Tilak Varma,Saim Ayub,4,0,,,,,,"",""
+ball,1,5.5,India,Ishan Kishan,Tilak Varma,Saim Ayub,1,0,,,,,,"",""
+ball,1,5.6,India,Tilak Varma,Ishan Kishan,Saim Ayub,4,0,,,,,,"",""
+ball,1,6.1,India,Ishan Kishan,Tilak Varma,Abrar Ahmed,4,0,,,,,,"",""
+ball,1,6.2,India,Ishan Kishan,Tilak Varma,Abrar Ahmed,4,0,,,,,,"",""
+ball,1,6.3,India,Ishan Kishan,Tilak Varma,Abrar Ahmed,4,0,,,,,,"",""
+ball,1,6.4,India,Ishan Kishan,Tilak Varma,Abrar Ahmed,0,0,,,,,,"",""
+ball,1,6.5,India,Ishan Kishan,Tilak Varma,Abrar Ahmed,0,0,,,,,,"",""
+ball,1,6.6,India,Ishan Kishan,Tilak Varma,Abrar Ahmed,1,0,,,,,,"",""
+ball,1,7.1,India,Ishan Kishan,Tilak Varma,Shadab Khan,2,0,,,,,,"",""
+ball,1,7.2,India,Ishan Kishan,Tilak Varma,Shadab Khan,6,0,,,,,,"",""
+ball,1,7.3,India,Ishan Kishan,Tilak Varma,Shadab Khan,4,0,,,,,,"",""
+ball,1,7.4,India,Ishan Kishan,Tilak Varma,Shadab Khan,2,0,,,,,,"",""
+ball,1,7.5,India,Ishan Kishan,Tilak Varma,Shadab Khan,2,0,,,,,,"",""
+ball,1,7.6,India,Ishan Kishan,Tilak Varma,Shadab Khan,1,0,,,,,,"",""
+ball,1,8.1,India,Ishan Kishan,Tilak Varma,Saim Ayub,1,0,,,,,,"",""
+ball,1,8.2,India,Tilak Varma,Ishan Kishan,Saim Ayub,1,0,,,,,,"",""
+ball,1,8.3,India,Ishan Kishan,Tilak Varma,Saim Ayub,4,0,,,,,,"",""
+ball,1,8.4,India,Ishan Kishan,Tilak Varma,Saim Ayub,0,0,,,,,,bowled,Ishan Kishan
+ball,1,8.5,India,SA Yadav,Tilak Varma,Saim Ayub,1,0,,,,,,"",""
+ball,1,8.6,India,Tilak Varma,SA Yadav,Saim Ayub,0,0,,,,,,"",""
+ball,1,9.1,India,SA Yadav,Tilak Varma,Mohammad Nawaz,0,0,,,,,,"",""
+ball,1,9.2,India,SA Yadav,Tilak Varma,Mohammad Nawaz,1,0,,,,,,"",""
+ball,1,9.3,India,Tilak Varma,SA Yadav,Mohammad Nawaz,1,0,,,,,,"",""
+ball,1,9.4,India,SA Yadav,Tilak Varma,Mohammad Nawaz,0,0,,,,,,"",""
+ball,1,9.5,India,SA Yadav,Tilak Varma,Mohammad Nawaz,1,0,,,,,,"",""
+ball,1,9.6,India,Tilak Varma,SA Yadav,Mohammad Nawaz,0,0,,,,,,"",""
+ball,1,10.1,India,SA Yadav,Tilak Varma,Usman Tariq,4,0,,,,,,"",""
+ball,1,10.2,India,SA Yadav,Tilak Varma,Usman Tariq,1,0,,,,,,"",""
+ball,1,10.3,India,Tilak Varma,SA Yadav,Usman Tariq,0,0,,,,,,"",""
+ball,1,10.4,India,Tilak Varma,SA Yadav,Usman Tariq,0,0,,,,,,"",""
+ball,1,10.5,India,Tilak Varma,SA Yadav,Usman Tariq,0,0,,,,,,"",""
+ball,1,10.6,India,Tilak Varma,SA Yadav,Usman Tariq,1,0,,,,,,"",""
+ball,1,11.1,India,Tilak Varma,SA Yadav,Mohammad Nawaz,6,0,,,,,,"",""
+ball,1,11.2,India,Tilak Varma,SA Yadav,Mohammad Nawaz,0,0,,,,,,"",""
+ball,1,11.3,India,Tilak Varma,SA Yadav,Mohammad Nawaz,1,0,,,,,,"",""
+ball,1,11.4,India,SA Yadav,Tilak Varma,Mohammad Nawaz,1,0,,,,,,"",""
+ball,1,11.5,India,Tilak Varma,SA Yadav,Mohammad Nawaz,1,0,,,,,,"",""
+ball,1,11.6,India,SA Yadav,Tilak Varma,Mohammad Nawaz,0,1,,,,1,,"",""
+ball,1,12.1,India,SA Yadav,Tilak Varma,Usman Tariq,3,0,,,,,,"",""
+ball,1,12.2,India,Tilak Varma,SA Yadav,Usman Tariq,1,0,,,,,,"",""
+ball,1,12.3,India,SA Yadav,Tilak Varma,Usman Tariq,1,0,,,,,,"",""
+ball,1,12.4,India,Tilak Varma,SA Yadav,Usman Tariq,1,0,,,,,,"",""
+ball,1,12.5,India,SA Yadav,Tilak Varma,Usman Tariq,0,1,1,,,,,"",""
+ball,1,12.6,India,SA Yadav,Tilak Varma,Usman Tariq,1,0,,,,,,"",""
+ball,1,12.7,India,Tilak Varma,SA Yadav,Usman Tariq,2,0,,,,,,"",""
+ball,1,13.1,India,SA Yadav,Tilak Varma,Mohammad Nawaz,2,0,,,,,,"",""
+ball,1,13.2,India,SA Yadav,Tilak Varma,Mohammad Nawaz,0,0,,,,,,"",""
+ball,1,13.3,India,SA Yadav,Tilak Varma,Mohammad Nawaz,0,0,,,,,,"",""
+ball,1,13.4,India,SA Yadav,Tilak Varma,Mohammad Nawaz,4,0,,,,,,"",""
+ball,1,13.5,India,SA Yadav,Tilak Varma,Mohammad Nawaz,1,0,,,,,,"",""
+ball,1,13.6,India,Tilak Varma,SA Yadav,Mohammad Nawaz,0,0,,,,,,"",""
+ball,1,14.1,India,SA Yadav,Tilak Varma,Saim Ayub,1,0,,,,,,"",""
+ball,1,14.2,India,Tilak Varma,SA Yadav,Saim Ayub,0,0,,,,,,lbw,Tilak Varma
+ball,1,14.3,India,HH Pandya,SA Yadav,Saim Ayub,0,0,,,,,,caught,HH Pandya
+ball,1,14.4,India,S Dube,SA Yadav,Saim Ayub,0,0,,,,,,"",""
+ball,1,14.5,India,S Dube,SA Yadav,Saim Ayub,0,0,,,,,,"",""
+ball,1,14.6,India,S Dube,SA Yadav,Saim Ayub,1,0,,,,,,"",""
+ball,1,15.1,India,S Dube,SA Yadav,Mohammad Nawaz,1,0,,,,,,"",""
+ball,1,15.2,India,SA Yadav,S Dube,Mohammad Nawaz,1,0,,,,,,"",""
+ball,1,15.3,India,S Dube,SA Yadav,Mohammad Nawaz,1,0,,,,,,"",""
+ball,1,15.4,India,SA Yadav,S Dube,Mohammad Nawaz,1,0,,,,,,"",""
+ball,1,15.5,India,S Dube,SA Yadav,Mohammad Nawaz,4,0,,,,,,"",""
+ball,1,15.6,India,S Dube,SA Yadav,Mohammad Nawaz,1,0,,,,,,"",""
+ball,1,16.1,India,S Dube,SA Yadav,Usman Tariq,1,0,,,,,,"",""
+ball,1,16.2,India,SA Yadav,S Dube,Usman Tariq,0,0,,,,,,"",""
+ball,1,16.3,India,SA Yadav,S Dube,Usman Tariq,1,0,,,,,,"",""
+ball,1,16.4,India,S Dube,SA Yadav,Usman Tariq,1,0,,,,,,"",""
+ball,1,16.5,India,SA Yadav,S Dube,Usman Tariq,0,0,,,,,,"",""
+ball,1,16.6,India,SA Yadav,S Dube,Usman Tariq,1,0,,,,,,"",""
+ball,1,17.1,India,SA Yadav,S Dube,Abrar Ahmed,4,0,,,,,,"",""
+ball,1,17.2,India,SA Yadav,S Dube,Abrar Ahmed,1,0,,,,,,"",""
+ball,1,17.3,India,S Dube,SA Yadav,Abrar Ahmed,1,0,,,,,,"",""
+ball,1,17.4,India,SA Yadav,S Dube,Abrar Ahmed,1,0,,,,,,"",""
+ball,1,17.5,India,S Dube,SA Yadav,Abrar Ahmed,6,0,,,,,,"",""
+ball,1,17.6,India,S Dube,SA Yadav,Abrar Ahmed,1,0,,,,,,"",""
+ball,1,18.1,India,S Dube,SA Yadav,Usman Tariq,0,0,,,,,,"",""
+ball,1,18.2,India,S Dube,SA Yadav,Usman Tariq,4,0,,,,,,"",""
+ball,1,18.3,India,S Dube,SA Yadav,Usman Tariq,0,1,,,,1,,"",""
+ball,1,18.4,India,SA Yadav,S Dube,Usman Tariq,0,0,,,,,,"",""
+ball,1,18.5,India,SA Yadav,S Dube,Usman Tariq,0,0,,,,,,caught,SA Yadav
+ball,1,18.6,India,RK Singh,S Dube,Usman Tariq,0,0,,,,,,"",""
+ball,1,19.1,India,S Dube,RK Singh,Shaheen Shah Afridi,4,0,,,,,,"",""
+ball,1,19.2,India,S Dube,RK Singh,Shaheen Shah Afridi,1,0,,,,,,"",""
+ball,1,19.3,India,RK Singh,S Dube,Shaheen Shah Afridi,4,0,,,,,,"",""
+ball,1,19.4,India,RK Singh,S Dube,Shaheen Shah Afridi,6,0,,,,,,"",""
+ball,1,19.5,India,RK Singh,S Dube,Shaheen Shah Afridi,1,0,,,,,,run out,S Dube
+ball,1,19.6,India,AR Patel,RK Singh,Shaheen Shah Afridi,0,0,,,,,,caught,AR Patel
+ball,2,0.1,Pakistan,Sahibzada Farhan,Saim Ayub,HH Pandya,0,0,,,,,,"",""
+ball,2,0.2,Pakistan,Sahibzada Farhan,Saim Ayub,HH Pandya,0,0,,,,,,"",""
+ball,2,0.3,Pakistan,Sahibzada Farhan,Saim Ayub,HH Pandya,0,0,,,,,,"",""
+ball,2,0.4,Pakistan,Sahibzada Farhan,Saim Ayub,HH Pandya,0,0,,,,,,caught,Sahibzada Farhan
+ball,2,0.5,Pakistan,Agha Salman,Saim Ayub,HH Pandya,0,0,,,,,,"",""
+ball,2,0.6,Pakistan,Agha Salman,Saim Ayub,HH Pandya,0,0,,,,,,"",""
+ball,2,1.1,Pakistan,Saim Ayub,Agha Salman,JJ Bumrah,6,0,,,,,,"",""
+ball,2,1.2,Pakistan,Saim Ayub,Agha Salman,JJ Bumrah,0,0,,,,,,lbw,Saim Ayub
+ball,2,1.3,Pakistan,Babar Azam,Agha Salman,JJ Bumrah,2,0,,,,,,"",""
+ball,2,1.4,Pakistan,Babar Azam,Agha Salman,JJ Bumrah,1,0,,,,,,"",""
+ball,2,1.5,Pakistan,Agha Salman,Babar Azam,JJ Bumrah,4,0,,,,,,"",""
+ball,2,1.6,Pakistan,Agha Salman,Babar Azam,JJ Bumrah,0,0,,,,,,caught,Agha Salman
+ball,2,2.1,Pakistan,Babar Azam,Usman Khan,HH Pandya,1,0,,,,,,"",""
+ball,2,2.2,Pakistan,Usman Khan,Babar Azam,HH Pandya,0,0,,,,,,"",""
+ball,2,2.3,Pakistan,Usman Khan,Babar Azam,HH Pandya,0,0,,,,,,"",""
+ball,2,2.4,Pakistan,Usman Khan,Babar Azam,HH Pandya,6,0,,,,,,"",""
+ball,2,2.5,Pakistan,Usman Khan,Babar Azam,HH Pandya,0,0,,,,,,"",""
+ball,2,2.6,Pakistan,Usman Khan,Babar Azam,HH Pandya,1,0,,,,,,"",""
+ball,2,3.1,Pakistan,Usman Khan,Babar Azam,JJ Bumrah,0,0,,,,,,"",""
+ball,2,3.2,Pakistan,Usman Khan,Babar Azam,JJ Bumrah,1,0,,,,,,"",""
+ball,2,3.3,Pakistan,Babar Azam,Usman Khan,JJ Bumrah,0,1,1,,,,,"",""
+ball,2,3.4,Pakistan,Babar Azam,Usman Khan,JJ Bumrah,1,0,,,,,,"",""
+ball,2,3.5,Pakistan,Usman Khan,Babar Azam,JJ Bumrah,1,0,,,,,,"",""
+ball,2,3.6,Pakistan,Babar Azam,Usman Khan,JJ Bumrah,0,0,,,,,,"",""
+ball,2,3.7,Pakistan,Babar Azam,Usman Khan,JJ Bumrah,0,0,,,,,,"",""
+ball,2,4.1,Pakistan,Usman Khan,Babar Azam,AR Patel,0,0,,,,,,"",""
+ball,2,4.2,Pakistan,Usman Khan,Babar Azam,AR Patel,4,0,,,,,,"",""
+ball,2,4.3,Pakistan,Usman Khan,Babar Azam,AR Patel,4,0,,,,,,"",""
+ball,2,4.4,Pakistan,Usman Khan,Babar Azam,AR Patel,1,0,,,,,,"",""
+ball,2,4.5,Pakistan,Babar Azam,Usman Khan,AR Patel,0,0,,,,,,bowled,Babar Azam
+ball,2,4.6,Pakistan,Shadab Khan,Usman Khan,AR Patel,0,0,,,,,,"",""
+ball,2,5.1,Pakistan,Usman Khan,Shadab Khan,CV Varun,0,0,,,,,,"",""
+ball,2,5.2,Pakistan,Usman Khan,Shadab Khan,CV Varun,2,0,,,,,,"",""
+ball,2,5.3,Pakistan,Usman Khan,Shadab Khan,CV Varun,1,0,,,,,,"",""
+ball,2,5.4,Pakistan,Shadab Khan,Usman Khan,CV Varun,1,0,,,,,,"",""
+ball,2,5.5,Pakistan,Usman Khan,Shadab Khan,CV Varun,0,0,,,,,,"",""
+ball,2,5.6,Pakistan,Usman Khan,Shadab Khan,CV Varun,0,0,,,,,,"",""
+ball,2,6.1,Pakistan,Shadab Khan,Usman Khan,AR Patel,1,0,,,,,,"",""
+ball,2,6.2,Pakistan,Usman Khan,Shadab Khan,AR Patel,0,0,,,,,,"",""
+ball,2,6.3,Pakistan,Usman Khan,Shadab Khan,AR Patel,4,0,,,,,,"",""
+ball,2,6.4,Pakistan,Usman Khan,Shadab Khan,AR Patel,0,0,,,,,,"",""
+ball,2,6.5,Pakistan,Usman Khan,Shadab Khan,AR Patel,0,0,,,,,,"",""
+ball,2,6.6,Pakistan,Usman Khan,Shadab Khan,AR Patel,4,0,,,,,,"",""
+ball,2,7.1,Pakistan,Shadab Khan,Usman Khan,CV Varun,3,0,,,,,,"",""
+ball,2,7.2,Pakistan,Usman Khan,Shadab Khan,CV Varun,1,0,,,,,,"",""
+ball,2,7.3,Pakistan,Shadab Khan,Usman Khan,CV Varun,4,0,,,,,,"",""
+ball,2,7.4,Pakistan,Shadab Khan,Usman Khan,CV Varun,1,0,,,,,,"",""
+ball,2,7.5,Pakistan,Usman Khan,Shadab Khan,CV Varun,1,0,,,,,,"",""
+ball,2,7.6,Pakistan,Shadab Khan,Usman Khan,CV Varun,0,0,,,,,,"",""
+ball,2,8.1,Pakistan,Usman Khan,Shadab Khan,AR Patel,4,0,,,,,,"",""
+ball,2,8.2,Pakistan,Usman Khan,Shadab Khan,AR Patel,4,0,,,,,,"",""
+ball,2,8.3,Pakistan,Usman Khan,Shadab Khan,AR Patel,0,0,,,,,,"",""
+ball,2,8.4,Pakistan,Usman Khan,Shadab Khan,AR Patel,1,0,,,,,,"",""
+ball,2,8.5,Pakistan,Shadab Khan,Usman Khan,AR Patel,0,0,,,,,,"",""
+ball,2,8.6,Pakistan,Shadab Khan,Usman Khan,AR Patel,0,0,,,,,,"",""
+ball,2,9.1,Pakistan,Usman Khan,Shadab Khan,Kuldeep Yadav,1,0,,,,,,"",""
+ball,2,9.2,Pakistan,Shadab Khan,Usman Khan,Kuldeep Yadav,1,0,,,,,,"",""
+ball,2,9.3,Pakistan,Usman Khan,Shadab Khan,Kuldeep Yadav,1,0,,,,,,"",""
+ball,2,9.4,Pakistan,Shadab Khan,Usman Khan,Kuldeep Yadav,0,0,,,,,,"",""
+ball,2,9.5,Pakistan,Shadab Khan,Usman Khan,Kuldeep Yadav,1,0,,,,,,"",""
+ball,2,9.6,Pakistan,Usman Khan,Shadab Khan,Kuldeep Yadav,1,0,,,,,,"",""
+ball,2,10.1,Pakistan,Usman Khan,Shadab Khan,AR Patel,0,0,,,,,,"",""
+ball,2,10.2,Pakistan,Usman Khan,Shadab Khan,AR Patel,1,0,,,,,,"",""
+ball,2,10.3,Pakistan,Shadab Khan,Usman Khan,AR Patel,1,0,,,,,,"",""
+ball,2,10.4,Pakistan,Usman Khan,Shadab Khan,AR Patel,0,0,,,,,,stumped,Usman Khan
+ball,2,10.5,Pakistan,Mohammad Nawaz,Shadab Khan,AR Patel,0,0,,,,,,"",""
+ball,2,10.6,Pakistan,Mohammad Nawaz,Shadab Khan,AR Patel,0,0,,,,,,"",""
+ball,2,11.1,Pakistan,Shadab Khan,Mohammad Nawaz,Kuldeep Yadav,1,0,,,,,,"",""
+ball,2,11.2,Pakistan,Mohammad Nawaz,Shadab Khan,Kuldeep Yadav,4,0,,,,,,"",""
+ball,2,11.3,Pakistan,Mohammad Nawaz,Shadab Khan,Kuldeep Yadav,0,0,,,,,,"",""
+ball,2,11.4,Pakistan,Mohammad Nawaz,Shadab Khan,Kuldeep Yadav,0,0,,,,,,caught,Mohammad Nawaz
+ball,2,11.5,Pakistan,Faheem Ashraf,Shadab Khan,Kuldeep Yadav,0,0,,,,,,"",""
+ball,2,11.6,Pakistan,Faheem Ashraf,Shadab Khan,Kuldeep Yadav,0,0,,,,,,"",""
+ball,2,12.1,Pakistan,Shadab Khan,Faheem Ashraf,Tilak Varma,0,0,,,,,,caught,Shadab Khan
+ball,2,12.2,Pakistan,Shaheen Shah Afridi,Faheem Ashraf,Tilak Varma,1,0,,,,,,"",""
+ball,2,12.3,Pakistan,Faheem Ashraf,Shaheen Shah Afridi,Tilak Varma,0,0,,,,,,"",""
+ball,2,12.4,Pakistan,Faheem Ashraf,Shaheen Shah Afridi,Tilak Varma,4,0,,,,,,"",""
+ball,2,12.5,Pakistan,Faheem Ashraf,Shaheen Shah Afridi,Tilak Varma,0,0,,,,,,"",""
+ball,2,12.6,Pakistan,Faheem Ashraf,Shaheen Shah Afridi,Tilak Varma,1,0,,,,,,"",""
+ball,2,13.1,Pakistan,Faheem Ashraf,Shaheen Shah Afridi,Kuldeep Yadav,1,0,,,,,,"",""
+ball,2,13.2,Pakistan,Shaheen Shah Afridi,Faheem Ashraf,Kuldeep Yadav,0,1,,,,1,,"",""
+ball,2,13.3,Pakistan,Faheem Ashraf,Shaheen Shah Afridi,Kuldeep Yadav,0,1,1,,,,,"",""
+ball,2,13.4,Pakistan,Faheem Ashraf,Shaheen Shah Afridi,Kuldeep Yadav,0,0,,,,,,"",""
+ball,2,13.5,Pakistan,Faheem Ashraf,Shaheen Shah Afridi,Kuldeep Yadav,1,0,,,,,,"",""
+ball,2,13.6,Pakistan,Shaheen Shah Afridi,Faheem Ashraf,Kuldeep Yadav,1,0,,,,,,"",""
+ball,2,13.7,Pakistan,Faheem Ashraf,Shaheen Shah Afridi,Kuldeep Yadav,0,0,,,,,,"",""
+ball,2,14.1,Pakistan,Shaheen Shah Afridi,Faheem Ashraf,Tilak Varma,0,0,,,,,,"",""
+ball,2,14.2,Pakistan,Shaheen Shah Afridi,Faheem Ashraf,Tilak Varma,1,0,,,,,,"",""
+ball,2,14.3,Pakistan,Faheem Ashraf,Shaheen Shah Afridi,Tilak Varma,1,0,,,,,,"",""
+ball,2,14.4,Pakistan,Shaheen Shah Afridi,Faheem Ashraf,Tilak Varma,2,0,,,,,,"",""
+ball,2,14.5,Pakistan,Shaheen Shah Afridi,Faheem Ashraf,Tilak Varma,1,0,,,,,,"",""
+ball,2,14.6,Pakistan,Faheem Ashraf,Shaheen Shah Afridi,Tilak Varma,0,0,,,,,,"",""
+ball,2,15.1,Pakistan,Shaheen Shah Afridi,Faheem Ashraf,CV Varun,1,0,,,,,,"",""
+ball,2,15.2,Pakistan,Faheem Ashraf,Shaheen Shah Afridi,CV Varun,2,0,,,,,,"",""
+ball,2,15.3,Pakistan,Faheem Ashraf,Shaheen Shah Afridi,CV Varun,0,0,,,,,,caught,Faheem Ashraf
+ball,2,15.4,Pakistan,Abrar Ahmed,Shaheen Shah Afridi,CV Varun,0,0,,,,,,lbw,Abrar Ahmed
+ball,2,15.5,Pakistan,Usman Tariq,Shaheen Shah Afridi,CV Varun,0,0,,,,,,"",""
+ball,2,15.6,Pakistan,Usman Tariq,Shaheen Shah Afridi,CV Varun,0,0,,,,,,"",""
+ball,2,16.1,Pakistan,Shaheen Shah Afridi,Usman Tariq,RK Singh,4,0,,,,,,"",""
+ball,2,16.2,Pakistan,Shaheen Shah Afridi,Usman Tariq,RK Singh,0,0,,,,,,"",""
+ball,2,16.3,Pakistan,Shaheen Shah Afridi,Usman Tariq,RK Singh,4,0,,,,,,"",""
+ball,2,16.4,Pakistan,Shaheen Shah Afridi,Usman Tariq,RK Singh,0,0,,,,,,"",""
+ball,2,16.5,Pakistan,Shaheen Shah Afridi,Usman Tariq,RK Singh,0,0,,,,,,"",""
+ball,2,16.6,Pakistan,Shaheen Shah Afridi,Usman Tariq,RK Singh,1,0,,,,,,"",""
+ball,2,17.1,Pakistan,Shaheen Shah Afridi,Usman Tariq,HH Pandya,0,1,1,,,,,"",""
+ball,2,17.2,Pakistan,Shaheen Shah Afridi,Usman Tariq,HH Pandya,0,0,,,,,,"",""
+ball,2,17.3,Pakistan,Shaheen Shah Afridi,Usman Tariq,HH Pandya,6,0,,,,,,"",""
+ball,2,17.4,Pakistan,Shaheen Shah Afridi,Usman Tariq,HH Pandya,0,0,,,,,,"",""
+ball,2,17.5,Pakistan,Shaheen Shah Afridi,Usman Tariq,HH Pandya,0,0,,,,,,"",""
+ball,2,17.6,Pakistan,Shaheen Shah Afridi,Usman Tariq,HH Pandya,1,0,,,,,,"",""
+ball,2,17.7,Pakistan,Usman Tariq,Shaheen Shah Afridi,HH Pandya,0,0,,,,,,bowled,Usman Tariq

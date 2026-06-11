@@ -1,0 +1,313 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Namibia
+info,team,Scotland
+info,gender,male
+info,season,2026
+info,date,2026/04/15
+info,event,Scotland tour of Namibia
+info,match_number,1
+info,venue,"Namibia Cricket Ground, Windhoek"
+info,city,Windhoek
+info,toss_winner,Namibia
+info,toss_decision,bat
+info,player_of_match,HG Munsey
+info,umpire,E Lassen
+info,umpire,I Chabi
+info,reserve_umpire,P Sizara
+info,match_referee,ET Dube
+info,winner,Scotland
+info,winner_wickets,7
+info,player,Namibia,ZJ van Vuuren
+info,player,Namibia,JN Frylinck
+info,player,Namibia,L Steenkamp
+info,player,Namibia,JN Loftie-Eaton
+info,player,Namibia,MG Erasmus
+info,player,Namibia,MB Kruger
+info,player,Namibia,DO Leicher
+info,player,Namibia,R Trumpelmann
+info,player,Namibia,JC Balt
+info,player,Namibia,JT Brassell
+info,player,Namibia,M Heingo
+info,player,Scotland,HG Munsey
+info,player,Scotland,FDW McCreath
+info,player,Scotland,BJ McMullen
+info,player,Scotland,RD Berrington
+info,player,Scotland,MH Cross
+info,player,Scotland,MRJ Watt
+info,player,Scotland,CM McBride
+info,player,Scotland,O Davidson
+info,player,Scotland,JJ Davidson
+info,player,Scotland,SM Sharif
+info,player,Scotland,Zainullah Ihsan
+info,registry,people,BJ McMullen,436c763a
+info,registry,people,CM McBride,9ec74db8
+info,registry,people,DO Leicher,e28bb0b9
+info,registry,people,E Lassen,a476d6d0
+info,registry,people,ET Dube,4c0891bc
+info,registry,people,FDW McCreath,bccead86
+info,registry,people,HG Munsey,ff014c34
+info,registry,people,I Chabi,5e39110e
+info,registry,people,JC Balt,75be3b2a
+info,registry,people,JJ Davidson,068c47d2
+info,registry,people,JN Frylinck,3c87f0c3
+info,registry,people,JN Loftie-Eaton,f468293b
+info,registry,people,JT Brassell,537021f5
+info,registry,people,L Steenkamp,8bd9fd13
+info,registry,people,M Heingo,0abb2525
+info,registry,people,MB Kruger,c51add25
+info,registry,people,MG Erasmus,95a5e066
+info,registry,people,MH Cross,8b261d84
+info,registry,people,MRJ Watt,1252f71a
+info,registry,people,O Davidson,63249474
+info,registry,people,P Sizara,5d45bb7f
+info,registry,people,R Trumpelmann,ff6a7ab5
+info,registry,people,RD Berrington,e21bc7f3
+info,registry,people,SM Sharif,f43dd8c2
+info,registry,people,ZJ van Vuuren,c0d59d9c
+info,registry,people,Zainullah Ihsan,3cbdbdeb
+ball,1,0.1,Namibia,ZJ van Vuuren,JN Frylinck,BJ McMullen,0,0,,,,,,"",""
+ball,1,0.2,Namibia,ZJ van Vuuren,JN Frylinck,BJ McMullen,0,0,,,,,,"",""
+ball,1,0.3,Namibia,ZJ van Vuuren,JN Frylinck,BJ McMullen,1,0,,,,,,"",""
+ball,1,0.4,Namibia,JN Frylinck,ZJ van Vuuren,BJ McMullen,4,0,,,,,,"",""
+ball,1,0.5,Namibia,JN Frylinck,ZJ van Vuuren,BJ McMullen,0,0,,,,,,"",""
+ball,1,0.6,Namibia,JN Frylinck,ZJ van Vuuren,BJ McMullen,2,0,,,,,,"",""
+ball,1,1.1,Namibia,ZJ van Vuuren,JN Frylinck,JJ Davidson,4,0,,,,,,"",""
+ball,1,1.2,Namibia,ZJ van Vuuren,JN Frylinck,JJ Davidson,1,0,,,,,,"",""
+ball,1,1.3,Namibia,JN Frylinck,ZJ van Vuuren,JJ Davidson,2,0,,,,,,"",""
+ball,1,1.4,Namibia,JN Frylinck,ZJ van Vuuren,JJ Davidson,0,0,,,,,,"",""
+ball,1,1.5,Namibia,JN Frylinck,ZJ van Vuuren,JJ Davidson,0,0,,,,,,caught,JN Frylinck
+ball,1,1.6,Namibia,L Steenkamp,ZJ van Vuuren,JJ Davidson,1,0,,,,,,"",""
+ball,1,2.1,Namibia,L Steenkamp,ZJ van Vuuren,BJ McMullen,4,0,,,,,,"",""
+ball,1,2.2,Namibia,L Steenkamp,ZJ van Vuuren,BJ McMullen,0,0,,,,,,"",""
+ball,1,2.3,Namibia,L Steenkamp,ZJ van Vuuren,BJ McMullen,0,0,,,,,,"",""
+ball,1,2.4,Namibia,L Steenkamp,ZJ van Vuuren,BJ McMullen,6,0,,,,,,"",""
+ball,1,2.5,Namibia,L Steenkamp,ZJ van Vuuren,BJ McMullen,1,0,,,,,,"",""
+ball,1,2.6,Namibia,ZJ van Vuuren,L Steenkamp,BJ McMullen,2,0,,,,,,"",""
+ball,1,3.1,Namibia,L Steenkamp,ZJ van Vuuren,MRJ Watt,1,0,,,,,,"",""
+ball,1,3.2,Namibia,ZJ van Vuuren,L Steenkamp,MRJ Watt,4,0,,,,,,"",""
+ball,1,3.3,Namibia,ZJ van Vuuren,L Steenkamp,MRJ Watt,0,0,,,,,,"",""
+ball,1,3.4,Namibia,ZJ van Vuuren,L Steenkamp,MRJ Watt,0,0,,,,,,bowled,ZJ van Vuuren
+ball,1,3.5,Namibia,JN Loftie-Eaton,L Steenkamp,MRJ Watt,0,0,,,,,,"",""
+ball,1,3.6,Namibia,JN Loftie-Eaton,L Steenkamp,MRJ Watt,0,0,,,,,,"",""
+ball,1,4.1,Namibia,L Steenkamp,JN Loftie-Eaton,SM Sharif,0,0,,,,,,"",""
+ball,1,4.2,Namibia,L Steenkamp,JN Loftie-Eaton,SM Sharif,2,0,,,,,,"",""
+ball,1,4.3,Namibia,L Steenkamp,JN Loftie-Eaton,SM Sharif,4,0,,,,,,"",""
+ball,1,4.4,Namibia,L Steenkamp,JN Loftie-Eaton,SM Sharif,1,0,,,,,,"",""
+ball,1,4.5,Namibia,JN Loftie-Eaton,L Steenkamp,SM Sharif,0,0,,,,,,"",""
+ball,1,4.6,Namibia,JN Loftie-Eaton,L Steenkamp,SM Sharif,0,1,,,,1,,"",""
+ball,1,5.1,Namibia,JN Loftie-Eaton,L Steenkamp,JJ Davidson,6,0,,,,,,"",""
+ball,1,5.2,Namibia,JN Loftie-Eaton,L Steenkamp,JJ Davidson,0,0,,,,,,"",""
+ball,1,5.3,Namibia,JN Loftie-Eaton,L Steenkamp,JJ Davidson,0,0,,,,,,caught,JN Loftie-Eaton
+ball,1,5.4,Namibia,MG Erasmus,L Steenkamp,JJ Davidson,0,1,1,,,,,"",""
+ball,1,5.5,Namibia,MG Erasmus,L Steenkamp,JJ Davidson,0,0,,,,,,"",""
+ball,1,5.6,Namibia,MG Erasmus,L Steenkamp,JJ Davidson,1,0,,,,,,"",""
+ball,1,5.7,Namibia,L Steenkamp,MG Erasmus,JJ Davidson,1,0,,,,,,"",""
+ball,1,6.1,Namibia,L Steenkamp,MG Erasmus,MRJ Watt,1,0,,,,,,"",""
+ball,1,6.2,Namibia,MG Erasmus,L Steenkamp,MRJ Watt,1,0,,,,,,"",""
+ball,1,6.3,Namibia,L Steenkamp,MG Erasmus,MRJ Watt,1,0,,,,,,"",""
+ball,1,6.4,Namibia,MG Erasmus,L Steenkamp,MRJ Watt,1,0,,,,,,"",""
+ball,1,6.5,Namibia,L Steenkamp,MG Erasmus,MRJ Watt,1,0,,,,,,"",""
+ball,1,6.6,Namibia,MG Erasmus,L Steenkamp,MRJ Watt,2,0,,,,,,"",""
+ball,1,7.1,Namibia,L Steenkamp,MG Erasmus,SM Sharif,1,0,,,,,,"",""
+ball,1,7.2,Namibia,MG Erasmus,L Steenkamp,SM Sharif,1,0,,,,,,"",""
+ball,1,7.3,Namibia,L Steenkamp,MG Erasmus,SM Sharif,1,0,,,,,,"",""
+ball,1,7.4,Namibia,MG Erasmus,L Steenkamp,SM Sharif,4,0,,,,,,"",""
+ball,1,7.5,Namibia,MG Erasmus,L Steenkamp,SM Sharif,0,0,,,,,,"",""
+ball,1,7.6,Namibia,MG Erasmus,L Steenkamp,SM Sharif,1,0,,,,,,"",""
+ball,1,8.1,Namibia,MG Erasmus,L Steenkamp,Zainullah Ihsan,1,0,,,,,,"",""
+ball,1,8.2,Namibia,L Steenkamp,MG Erasmus,Zainullah Ihsan,1,0,,,,,,"",""
+ball,1,8.3,Namibia,MG Erasmus,L Steenkamp,Zainullah Ihsan,1,0,,,,,,"",""
+ball,1,8.4,Namibia,L Steenkamp,MG Erasmus,Zainullah Ihsan,0,0,,,,,,caught,L Steenkamp
+ball,1,8.5,Namibia,MB Kruger,MG Erasmus,Zainullah Ihsan,0,0,,,,,,"",""
+ball,1,8.6,Namibia,MB Kruger,MG Erasmus,Zainullah Ihsan,4,0,,,,,,"",""
+ball,1,9.1,Namibia,MG Erasmus,MB Kruger,O Davidson,1,0,,,,,,"",""
+ball,1,9.2,Namibia,MB Kruger,MG Erasmus,O Davidson,1,0,,,,,,"",""
+ball,1,9.3,Namibia,MG Erasmus,MB Kruger,O Davidson,1,0,,,,,,"",""
+ball,1,9.4,Namibia,MB Kruger,MG Erasmus,O Davidson,0,0,,,,,,caught and bowled,MB Kruger
+ball,1,9.5,Namibia,DO Leicher,MG Erasmus,O Davidson,0,0,,,,,,"",""
+ball,1,9.6,Namibia,DO Leicher,MG Erasmus,O Davidson,0,0,,,,,,"",""
+ball,1,10.1,Namibia,MG Erasmus,DO Leicher,Zainullah Ihsan,0,0,,,,,,"",""
+ball,1,10.2,Namibia,MG Erasmus,DO Leicher,Zainullah Ihsan,1,0,,,,,,"",""
+ball,1,10.3,Namibia,DO Leicher,MG Erasmus,Zainullah Ihsan,1,0,,,,,,"",""
+ball,1,10.4,Namibia,MG Erasmus,DO Leicher,Zainullah Ihsan,1,0,,,,,,"",""
+ball,1,10.5,Namibia,DO Leicher,MG Erasmus,Zainullah Ihsan,0,0,,,,,,"",""
+ball,1,10.6,Namibia,DO Leicher,MG Erasmus,Zainullah Ihsan,0,0,,,,,,"",""
+ball,1,11.1,Namibia,MG Erasmus,DO Leicher,O Davidson,0,0,,,,,,"",""
+ball,1,11.2,Namibia,MG Erasmus,DO Leicher,O Davidson,2,0,,,,,,"",""
+ball,1,11.3,Namibia,MG Erasmus,DO Leicher,O Davidson,2,0,,,,,,"",""
+ball,1,11.4,Namibia,MG Erasmus,DO Leicher,O Davidson,6,0,,,,,,"",""
+ball,1,11.5,Namibia,MG Erasmus,DO Leicher,O Davidson,1,0,,,,,,"",""
+ball,1,11.6,Namibia,DO Leicher,MG Erasmus,O Davidson,0,0,,,,,,"",""
+ball,1,12.1,Namibia,MG Erasmus,DO Leicher,JJ Davidson,1,0,,,,,,"",""
+ball,1,12.2,Namibia,DO Leicher,MG Erasmus,JJ Davidson,1,0,,,,,,"",""
+ball,1,12.3,Namibia,MG Erasmus,DO Leicher,JJ Davidson,0,0,,,,,,"",""
+ball,1,12.4,Namibia,MG Erasmus,DO Leicher,JJ Davidson,1,0,,,,,,"",""
+ball,1,12.5,Namibia,DO Leicher,MG Erasmus,JJ Davidson,0,1,1,,,,,"",""
+ball,1,12.6,Namibia,DO Leicher,MG Erasmus,JJ Davidson,0,0,,,,,,"",""
+ball,1,12.7,Namibia,DO Leicher,MG Erasmus,JJ Davidson,1,0,,,,,,"",""
+ball,1,13.1,Namibia,DO Leicher,MG Erasmus,MRJ Watt,0,0,,,,,,bowled,DO Leicher
+ball,1,13.2,Namibia,R Trumpelmann,MG Erasmus,MRJ Watt,0,0,,,,,,"",""
+ball,1,13.3,Namibia,R Trumpelmann,MG Erasmus,MRJ Watt,1,0,,,,,,"",""
+ball,1,13.4,Namibia,MG Erasmus,R Trumpelmann,MRJ Watt,0,0,,,,,,"",""
+ball,1,13.5,Namibia,MG Erasmus,R Trumpelmann,MRJ Watt,0,0,,,,,,"",""
+ball,1,13.6,Namibia,MG Erasmus,R Trumpelmann,MRJ Watt,4,0,,,,,,"",""
+ball,1,14.1,Namibia,R Trumpelmann,MG Erasmus,SM Sharif,0,0,,,,,,"",""
+ball,1,14.2,Namibia,R Trumpelmann,MG Erasmus,SM Sharif,1,0,,,,,,"",""
+ball,1,14.3,Namibia,MG Erasmus,R Trumpelmann,SM Sharif,1,0,,,,,,"",""
+ball,1,14.4,Namibia,R Trumpelmann,MG Erasmus,SM Sharif,1,0,,,,,,"",""
+ball,1,14.5,Namibia,MG Erasmus,R Trumpelmann,SM Sharif,1,0,,,,,,"",""
+ball,1,14.6,Namibia,R Trumpelmann,MG Erasmus,SM Sharif,1,0,,,,,,"",""
+ball,1,15.1,Namibia,R Trumpelmann,MG Erasmus,MRJ Watt,1,0,,,,,,"",""
+ball,1,15.2,Namibia,MG Erasmus,R Trumpelmann,MRJ Watt,2,0,,,,,,"",""
+ball,1,15.3,Namibia,MG Erasmus,R Trumpelmann,MRJ Watt,2,0,,,,,,"",""
+ball,1,15.4,Namibia,MG Erasmus,R Trumpelmann,MRJ Watt,1,0,,,,,,"",""
+ball,1,15.5,Namibia,R Trumpelmann,MG Erasmus,MRJ Watt,0,0,,,,,,"",""
+ball,1,15.6,Namibia,R Trumpelmann,MG Erasmus,MRJ Watt,1,0,,,,,,"",""
+ball,1,16.1,Namibia,R Trumpelmann,MG Erasmus,Zainullah Ihsan,4,0,,,,,,"",""
+ball,1,16.2,Namibia,R Trumpelmann,MG Erasmus,Zainullah Ihsan,1,0,,,,,,"",""
+ball,1,16.3,Namibia,MG Erasmus,R Trumpelmann,Zainullah Ihsan,4,0,,,,,,"",""
+ball,1,16.4,Namibia,MG Erasmus,R Trumpelmann,Zainullah Ihsan,4,0,,,,,,"",""
+ball,1,16.5,Namibia,MG Erasmus,R Trumpelmann,Zainullah Ihsan,1,0,,,,,,"",""
+ball,1,16.6,Namibia,R Trumpelmann,MG Erasmus,Zainullah Ihsan,4,0,,,,,,"",""
+ball,1,17.1,Namibia,MG Erasmus,R Trumpelmann,JJ Davidson,2,0,,,,,,"",""
+ball,1,17.2,Namibia,MG Erasmus,R Trumpelmann,JJ Davidson,1,0,,,,,,"",""
+ball,1,17.3,Namibia,R Trumpelmann,MG Erasmus,JJ Davidson,0,0,,,,,,"",""
+ball,1,17.4,Namibia,R Trumpelmann,MG Erasmus,JJ Davidson,1,0,,,,,,"",""
+ball,1,17.5,Namibia,MG Erasmus,R Trumpelmann,JJ Davidson,1,0,,,,,,"",""
+ball,1,17.6,Namibia,R Trumpelmann,MG Erasmus,JJ Davidson,1,0,,,,,,"",""
+ball,1,18.1,Namibia,R Trumpelmann,MG Erasmus,SM Sharif,1,0,,,,,,"",""
+ball,1,18.2,Namibia,MG Erasmus,R Trumpelmann,SM Sharif,0,0,,,,,,caught,MG Erasmus
+ball,1,18.3,Namibia,JC Balt,R Trumpelmann,SM Sharif,0,0,,,,,,"",""
+ball,1,18.4,Namibia,JC Balt,R Trumpelmann,SM Sharif,6,0,,,,,,"",""
+ball,1,18.5,Namibia,JC Balt,R Trumpelmann,SM Sharif,1,0,,,,,,"",""
+ball,1,18.6,Namibia,R Trumpelmann,JC Balt,SM Sharif,2,0,,,,,,"",""
+ball,1,19.1,Namibia,JC Balt,R Trumpelmann,Zainullah Ihsan,6,0,,,,,,"",""
+ball,1,19.2,Namibia,JC Balt,R Trumpelmann,Zainullah Ihsan,1,0,,,,,,"",""
+ball,1,19.3,Namibia,R Trumpelmann,JC Balt,Zainullah Ihsan,1,0,,,,,,"",""
+ball,1,19.4,Namibia,JC Balt,R Trumpelmann,Zainullah Ihsan,4,0,,,,,,"",""
+ball,1,19.5,Namibia,JC Balt,R Trumpelmann,Zainullah Ihsan,1,0,,,,,,"",""
+ball,1,19.6,Namibia,R Trumpelmann,JC Balt,Zainullah Ihsan,1,0,,,,,,"",""
+ball,2,0.1,Scotland,HG Munsey,FDW McCreath,R Trumpelmann,0,0,,,,,,"",""
+ball,2,0.2,Scotland,HG Munsey,FDW McCreath,R Trumpelmann,0,1,1,,,,,"",""
+ball,2,0.3,Scotland,HG Munsey,FDW McCreath,R Trumpelmann,1,0,,,,,,"",""
+ball,2,0.4,Scotland,FDW McCreath,HG Munsey,R Trumpelmann,1,0,,,,,,"",""
+ball,2,0.5,Scotland,HG Munsey,FDW McCreath,R Trumpelmann,4,0,,,,,,"",""
+ball,2,0.6,Scotland,HG Munsey,FDW McCreath,R Trumpelmann,1,0,,,,,,"",""
+ball,2,0.7,Scotland,FDW McCreath,HG Munsey,R Trumpelmann,1,0,,,,,,"",""
+ball,2,1.1,Scotland,FDW McCreath,HG Munsey,MG Erasmus,1,0,,,,,,"",""
+ball,2,1.2,Scotland,HG Munsey,FDW McCreath,MG Erasmus,0,0,,,,,,"",""
+ball,2,1.3,Scotland,HG Munsey,FDW McCreath,MG Erasmus,0,0,,,,,,"",""
+ball,2,1.4,Scotland,HG Munsey,FDW McCreath,MG Erasmus,1,0,,,,,,"",""
+ball,2,1.5,Scotland,FDW McCreath,HG Munsey,MG Erasmus,1,0,,,,,,"",""
+ball,2,1.6,Scotland,HG Munsey,FDW McCreath,MG Erasmus,1,0,,,,,,"",""
+ball,2,2.1,Scotland,HG Munsey,FDW McCreath,JT Brassell,4,0,,,,,,"",""
+ball,2,2.2,Scotland,HG Munsey,FDW McCreath,JT Brassell,1,0,,,,,,"",""
+ball,2,2.3,Scotland,FDW McCreath,HG Munsey,JT Brassell,1,0,,,,,,"",""
+ball,2,2.4,Scotland,HG Munsey,FDW McCreath,JT Brassell,0,5,5,,,,,"",""
+ball,2,2.5,Scotland,HG Munsey,FDW McCreath,JT Brassell,6,0,,,,,,"",""
+ball,2,2.6,Scotland,HG Munsey,FDW McCreath,JT Brassell,1,0,,,,,,"",""
+ball,2,2.7,Scotland,FDW McCreath,HG Munsey,JT Brassell,1,0,,,,,,"",""
+ball,2,3.1,Scotland,FDW McCreath,HG Munsey,M Heingo,4,0,,,,,,"",""
+ball,2,3.2,Scotland,FDW McCreath,HG Munsey,M Heingo,0,0,,,,,,"",""
+ball,2,3.3,Scotland,FDW McCreath,HG Munsey,M Heingo,1,0,,,,,,"",""
+ball,2,3.4,Scotland,HG Munsey,FDW McCreath,M Heingo,0,0,,,,,,"",""
+ball,2,3.5,Scotland,HG Munsey,FDW McCreath,M Heingo,2,0,,,,,,"",""
+ball,2,3.6,Scotland,HG Munsey,FDW McCreath,M Heingo,0,0,,,,,,"",""
+ball,2,4.1,Scotland,FDW McCreath,HG Munsey,R Trumpelmann,4,0,,,,,,"",""
+ball,2,4.2,Scotland,FDW McCreath,HG Munsey,R Trumpelmann,1,0,,,,,,"",""
+ball,2,4.3,Scotland,HG Munsey,FDW McCreath,R Trumpelmann,0,0,,,,,,"",""
+ball,2,4.4,Scotland,HG Munsey,FDW McCreath,R Trumpelmann,1,0,,,,,,"",""
+ball,2,4.5,Scotland,FDW McCreath,HG Munsey,R Trumpelmann,0,0,,,,,,"",""
+ball,2,4.6,Scotland,FDW McCreath,HG Munsey,R Trumpelmann,0,0,,,,,,"",""
+ball,2,5.1,Scotland,HG Munsey,FDW McCreath,JT Brassell,0,1,1,,,,,"",""
+ball,2,5.2,Scotland,HG Munsey,FDW McCreath,JT Brassell,6,0,,,,,,"",""
+ball,2,5.3,Scotland,HG Munsey,FDW McCreath,JT Brassell,1,0,,,,,,"",""
+ball,2,5.4,Scotland,FDW McCreath,HG Munsey,JT Brassell,0,0,,,,,,"",""
+ball,2,5.5,Scotland,FDW McCreath,HG Munsey,JT Brassell,0,0,,,,,,"",""
+ball,2,5.6,Scotland,FDW McCreath,HG Munsey,JT Brassell,0,0,,,,,,bowled,FDW McCreath
+ball,2,5.7,Scotland,BJ McMullen,HG Munsey,JT Brassell,0,0,,,,,,"",""
+ball,2,6.1,Scotland,HG Munsey,BJ McMullen,JC Balt,1,0,,,,,,"",""
+ball,2,6.2,Scotland,BJ McMullen,HG Munsey,JC Balt,0,0,,,,,,"",""
+ball,2,6.3,Scotland,BJ McMullen,HG Munsey,JC Balt,0,0,,,,,,"",""
+ball,2,6.4,Scotland,BJ McMullen,HG Munsey,JC Balt,0,0,,,,,,"",""
+ball,2,6.5,Scotland,BJ McMullen,HG Munsey,JC Balt,1,0,,,,,,"",""
+ball,2,6.6,Scotland,HG Munsey,BJ McMullen,JC Balt,0,1,1,,,,,"",""
+ball,2,6.7,Scotland,HG Munsey,BJ McMullen,JC Balt,1,0,,,,,,"",""
+ball,2,7.1,Scotland,HG Munsey,BJ McMullen,MG Erasmus,0,0,,,,,,"",""
+ball,2,7.2,Scotland,HG Munsey,BJ McMullen,MG Erasmus,0,2,2,,,,,"",""
+ball,2,7.3,Scotland,BJ McMullen,HG Munsey,MG Erasmus,1,0,,,,,,"",""
+ball,2,7.4,Scotland,HG Munsey,BJ McMullen,MG Erasmus,0,0,,,,,,"",""
+ball,2,7.5,Scotland,HG Munsey,BJ McMullen,MG Erasmus,0,1,1,,,,,"",""
+ball,2,7.6,Scotland,HG Munsey,BJ McMullen,MG Erasmus,1,0,,,,,,"",""
+ball,2,7.7,Scotland,BJ McMullen,HG Munsey,MG Erasmus,0,0,,,,,,"",""
+ball,2,7.8,Scotland,BJ McMullen,HG Munsey,MG Erasmus,2,0,,,,,,"",""
+ball,2,8.1,Scotland,HG Munsey,BJ McMullen,JC Balt,0,0,,,,,,"",""
+ball,2,8.2,Scotland,HG Munsey,BJ McMullen,JC Balt,6,0,,,,,,"",""
+ball,2,8.3,Scotland,HG Munsey,BJ McMullen,JC Balt,1,0,,,,,,"",""
+ball,2,8.4,Scotland,BJ McMullen,HG Munsey,JC Balt,0,0,,,,,,"",""
+ball,2,8.5,Scotland,BJ McMullen,HG Munsey,JC Balt,0,0,,,,,,"",""
+ball,2,8.6,Scotland,BJ McMullen,HG Munsey,JC Balt,1,0,,,,,,"",""
+ball,2,9.1,Scotland,BJ McMullen,HG Munsey,JN Loftie-Eaton,1,0,,,,,,"",""
+ball,2,9.2,Scotland,HG Munsey,BJ McMullen,JN Loftie-Eaton,1,0,,,,,,"",""
+ball,2,9.3,Scotland,BJ McMullen,HG Munsey,JN Loftie-Eaton,0,0,,,,,,"",""
+ball,2,9.4,Scotland,BJ McMullen,HG Munsey,JN Loftie-Eaton,4,0,,,,,,"",""
+ball,2,9.5,Scotland,BJ McMullen,HG Munsey,JN Loftie-Eaton,1,0,,,,,,"",""
+ball,2,9.6,Scotland,HG Munsey,BJ McMullen,JN Loftie-Eaton,1,0,,,,,,"",""
+ball,2,10.1,Scotland,HG Munsey,BJ McMullen,M Heingo,2,0,,,,,,"",""
+ball,2,10.2,Scotland,HG Munsey,BJ McMullen,M Heingo,0,0,,,,,,caught,HG Munsey
+ball,2,10.3,Scotland,RD Berrington,BJ McMullen,M Heingo,0,0,,,,,,"",""
+ball,2,10.4,Scotland,RD Berrington,BJ McMullen,M Heingo,1,0,,,,,,"",""
+ball,2,10.5,Scotland,BJ McMullen,RD Berrington,M Heingo,1,0,,,,,,"",""
+ball,2,10.6,Scotland,RD Berrington,BJ McMullen,M Heingo,0,1,1,,,,,"",""
+ball,2,10.7,Scotland,RD Berrington,BJ McMullen,M Heingo,0,0,,,,,,"",""
+ball,2,11.1,Scotland,BJ McMullen,RD Berrington,JN Loftie-Eaton,1,0,,,,,,"",""
+ball,2,11.2,Scotland,RD Berrington,BJ McMullen,JN Loftie-Eaton,0,0,,,,,,"",""
+ball,2,11.3,Scotland,RD Berrington,BJ McMullen,JN Loftie-Eaton,1,0,,,,,,"",""
+ball,2,11.4,Scotland,BJ McMullen,RD Berrington,JN Loftie-Eaton,0,0,,,,,,"",""
+ball,2,11.5,Scotland,BJ McMullen,RD Berrington,JN Loftie-Eaton,4,0,,,,,,"",""
+ball,2,11.6,Scotland,BJ McMullen,RD Berrington,JN Loftie-Eaton,6,0,,,,,,"",""
+ball,2,12.1,Scotland,RD Berrington,BJ McMullen,JC Balt,1,0,,,,,,"",""
+ball,2,12.2,Scotland,BJ McMullen,RD Berrington,JC Balt,2,0,,,,,,"",""
+ball,2,12.3,Scotland,BJ McMullen,RD Berrington,JC Balt,1,0,,,,,,"",""
+ball,2,12.4,Scotland,RD Berrington,BJ McMullen,JC Balt,1,0,,,,,,"",""
+ball,2,12.5,Scotland,BJ McMullen,RD Berrington,JC Balt,4,0,,,,,,"",""
+ball,2,12.6,Scotland,BJ McMullen,RD Berrington,JC Balt,1,0,,,,,,"",""
+ball,2,13.1,Scotland,BJ McMullen,RD Berrington,MG Erasmus,0,0,,,,,,"",""
+ball,2,13.2,Scotland,BJ McMullen,RD Berrington,MG Erasmus,1,0,,,,,,"",""
+ball,2,13.3,Scotland,RD Berrington,BJ McMullen,MG Erasmus,4,0,,,,,,"",""
+ball,2,13.4,Scotland,RD Berrington,BJ McMullen,MG Erasmus,1,0,,,,,,"",""
+ball,2,13.5,Scotland,BJ McMullen,RD Berrington,MG Erasmus,1,0,,,,,,"",""
+ball,2,13.6,Scotland,RD Berrington,BJ McMullen,MG Erasmus,6,0,,,,,,"",""
+ball,2,14.1,Scotland,BJ McMullen,RD Berrington,JT Brassell,1,0,,,,,,"",""
+ball,2,14.2,Scotland,RD Berrington,BJ McMullen,JT Brassell,1,0,,,,,,"",""
+ball,2,14.3,Scotland,BJ McMullen,RD Berrington,JT Brassell,1,0,,,,,,"",""
+ball,2,14.4,Scotland,RD Berrington,BJ McMullen,JT Brassell,1,0,,,,,,"",""
+ball,2,14.5,Scotland,BJ McMullen,RD Berrington,JT Brassell,0,0,,,,,,"",""
+ball,2,14.6,Scotland,BJ McMullen,RD Berrington,JT Brassell,1,0,,,,,,"",""
+ball,2,15.1,Scotland,BJ McMullen,RD Berrington,R Trumpelmann,1,0,,,,,,"",""
+ball,2,15.2,Scotland,RD Berrington,BJ McMullen,R Trumpelmann,0,1,1,,,,,"",""
+ball,2,15.3,Scotland,RD Berrington,BJ McMullen,R Trumpelmann,4,0,,,,,,"",""
+ball,2,15.4,Scotland,RD Berrington,BJ McMullen,R Trumpelmann,1,0,,,,,,"",""
+ball,2,15.5,Scotland,BJ McMullen,RD Berrington,R Trumpelmann,0,1,1,,,,,"",""
+ball,2,15.6,Scotland,BJ McMullen,RD Berrington,R Trumpelmann,1,0,,,,,,"",""
+ball,2,15.7,Scotland,RD Berrington,BJ McMullen,R Trumpelmann,2,0,,,,,,"",""
+ball,2,15.8,Scotland,RD Berrington,BJ McMullen,R Trumpelmann,0,1,1,,,,,"",""
+ball,2,15.9,Scotland,RD Berrington,BJ McMullen,R Trumpelmann,2,0,,,,,,"",""
+ball,2,16.1,Scotland,BJ McMullen,RD Berrington,JN Loftie-Eaton,1,0,,,,,,"",""
+ball,2,16.2,Scotland,RD Berrington,BJ McMullen,JN Loftie-Eaton,6,0,,,,,,"",""
+ball,2,16.3,Scotland,RD Berrington,BJ McMullen,JN Loftie-Eaton,1,0,,,,,,"",""
+ball,2,16.4,Scotland,BJ McMullen,RD Berrington,JN Loftie-Eaton,1,0,,,,,,"",""
+ball,2,16.5,Scotland,RD Berrington,BJ McMullen,JN Loftie-Eaton,1,0,,,,,,"",""
+ball,2,16.6,Scotland,BJ McMullen,RD Berrington,JN Loftie-Eaton,0,0,,,,,,"",""
+ball,2,17.1,Scotland,RD Berrington,BJ McMullen,M Heingo,0,0,,,,,,caught,RD Berrington
+ball,2,17.2,Scotland,MH Cross,BJ McMullen,M Heingo,0,0,,,,,,"",""
+ball,2,17.3,Scotland,MH Cross,BJ McMullen,M Heingo,0,0,,,,,,"",""
+ball,2,17.4,Scotland,MH Cross,BJ McMullen,M Heingo,2,0,,,,,,"",""
+ball,2,17.5,Scotland,MH Cross,BJ McMullen,M Heingo,0,0,,,,,,"",""
+ball,2,17.6,Scotland,MH Cross,BJ McMullen,M Heingo,2,0,,,,,,"",""
+ball,2,18.1,Scotland,BJ McMullen,MH Cross,R Trumpelmann,1,0,,,,,,"",""
+ball,2,18.2,Scotland,MH Cross,BJ McMullen,R Trumpelmann,1,0,,,,,,"",""
+ball,2,18.3,Scotland,BJ McMullen,MH Cross,R Trumpelmann,2,0,,,,,,"",""
+ball,2,18.4,Scotland,BJ McMullen,MH Cross,R Trumpelmann,1,0,,,,,,"",""
+ball,2,18.5,Scotland,MH Cross,BJ McMullen,R Trumpelmann,2,0,,,,,,"",""

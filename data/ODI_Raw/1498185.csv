@@ -1,0 +1,348 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Scotland
+info,team,Namibia
+info,gender,male
+info,season,2025
+info,date,2025/09/04
+info,event,ICC Men's Cricket World Cup League 2
+info,match_number,83
+info,venue,"Maple Leaf North-West Ground, King City"
+info,city,King City
+info,toss_winner,Scotland
+info,toss_decision,bat
+info,player_of_match,HG Munsey
+info,umpire,H Grewal
+info,umpire,R Shah
+info,reserve_umpire,SB Haig
+info,match_referee,G McCrea
+info,winner,Scotland
+info,winner_runs,55
+info,player,Scotland,HG Munsey
+info,player,Scotland,C Tear
+info,player,Scotland,BJ McMullen
+info,player,Scotland,RD Berrington
+info,player,Scotland,TC Bruce
+info,player,Scotland,MA Leask
+info,player,Scotland,MRJ Watt
+info,player,Scotland,CN Greaves
+info,player,Scotland,JH Davey
+info,player,Scotland,SM Sharif
+info,player,Scotland,BJ Currie
+info,player,Namibia,MB Kruger
+info,player,Namibia,JC Balt
+info,player,Namibia,JN Frylinck
+info,player,Namibia,MG Erasmus
+info,player,Namibia,JN Loftie-Eaton
+info,player,Namibia,ZE Green
+info,player,Namibia,JJ Smit
+info,player,Namibia,R Trumpelmann
+info,player,Namibia,BM Scholtz
+info,player,Namibia,JT Brassell
+info,player,Namibia,B Shikongo
+info,registry,people,B Shikongo,c26cd57a
+info,registry,people,BJ Currie,2ecd844a
+info,registry,people,BJ McMullen,436c763a
+info,registry,people,BM Scholtz,e85d03d6
+info,registry,people,C Tear,7ffe4817
+info,registry,people,CN Greaves,f42064d5
+info,registry,people,G McCrea,46f4a901
+info,registry,people,H Grewal,1172f36e
+info,registry,people,HG Munsey,ff014c34
+info,registry,people,JC Balt,75be3b2a
+info,registry,people,JH Davey,d3868bd0
+info,registry,people,JJ Smit,bb134e5c
+info,registry,people,JN Frylinck,3c87f0c3
+info,registry,people,JN Loftie-Eaton,f468293b
+info,registry,people,JT Brassell,537021f5
+info,registry,people,MA Leask,28131839
+info,registry,people,MB Kruger,c51add25
+info,registry,people,MG Erasmus,95a5e066
+info,registry,people,MRJ Watt,1252f71a
+info,registry,people,R Shah,3424e050
+info,registry,people,R Trumpelmann,ff6a7ab5
+info,registry,people,RD Berrington,e21bc7f3
+info,registry,people,SB Haig,811655b3
+info,registry,people,SM Sharif,f43dd8c2
+info,registry,people,TC Bruce,f92c9151
+info,registry,people,ZE Green,8716233e
+ball,1,0.1,Scotland,HG Munsey,C Tear,B Shikongo,1,0,,,,,,"",""
+ball,1,0.2,Scotland,C Tear,HG Munsey,B Shikongo,1,0,,,,,,"",""
+ball,1,0.3,Scotland,HG Munsey,C Tear,B Shikongo,2,0,,,,,,"",""
+ball,1,0.4,Scotland,HG Munsey,C Tear,B Shikongo,0,0,,,,,,"",""
+ball,1,0.5,Scotland,HG Munsey,C Tear,B Shikongo,0,0,,,,,,"",""
+ball,1,0.6,Scotland,HG Munsey,C Tear,B Shikongo,0,0,,,,,,"",""
+ball,1,1.1,Scotland,C Tear,HG Munsey,JJ Smit,1,0,,,,,,"",""
+ball,1,1.2,Scotland,HG Munsey,C Tear,JJ Smit,0,0,,,,,,"",""
+ball,1,1.3,Scotland,HG Munsey,C Tear,JJ Smit,1,0,,,,,,"",""
+ball,1,1.4,Scotland,C Tear,HG Munsey,JJ Smit,4,0,,,,,,"",""
+ball,1,1.5,Scotland,C Tear,HG Munsey,JJ Smit,0,0,,,,,,"",""
+ball,1,1.6,Scotland,C Tear,HG Munsey,JJ Smit,0,0,,,,,,"",""
+ball,1,2.1,Scotland,HG Munsey,C Tear,B Shikongo,0,0,,,,,,"",""
+ball,1,2.2,Scotland,HG Munsey,C Tear,B Shikongo,6,0,,,,,,"",""
+ball,1,2.3,Scotland,HG Munsey,C Tear,B Shikongo,0,0,,,,,,"",""
+ball,1,2.4,Scotland,HG Munsey,C Tear,B Shikongo,0,0,,,,,,"",""
+ball,1,2.5,Scotland,HG Munsey,C Tear,B Shikongo,4,0,,,,,,"",""
+ball,1,2.6,Scotland,HG Munsey,C Tear,B Shikongo,0,2,2,,,,,"",""
+ball,1,2.7,Scotland,C Tear,HG Munsey,B Shikongo,0,0,,,,,,"",""
+ball,1,3.1,Scotland,HG Munsey,C Tear,JJ Smit,2,0,,,,,,"",""
+ball,1,3.2,Scotland,HG Munsey,C Tear,JJ Smit,1,0,,,,,,"",""
+ball,1,3.3,Scotland,C Tear,HG Munsey,JJ Smit,0,0,,,,,,"",""
+ball,1,3.4,Scotland,C Tear,HG Munsey,JJ Smit,0,0,,,,,,caught,C Tear
+ball,1,3.5,Scotland,BJ McMullen,HG Munsey,JJ Smit,0,0,,,,,,"",""
+ball,1,3.6,Scotland,BJ McMullen,HG Munsey,JJ Smit,4,0,,,,,,"",""
+ball,1,4.1,Scotland,HG Munsey,BJ McMullen,R Trumpelmann,0,0,,,,,,"",""
+ball,1,4.2,Scotland,HG Munsey,BJ McMullen,R Trumpelmann,6,0,,,,,,"",""
+ball,1,4.3,Scotland,HG Munsey,BJ McMullen,R Trumpelmann,0,0,,,,,,"",""
+ball,1,4.4,Scotland,HG Munsey,BJ McMullen,R Trumpelmann,1,0,,,,,,"",""
+ball,1,4.5,Scotland,BJ McMullen,HG Munsey,R Trumpelmann,4,0,,,,,,"",""
+ball,1,4.6,Scotland,BJ McMullen,HG Munsey,R Trumpelmann,0,0,,,,,,"",""
+ball,1,5.1,Scotland,HG Munsey,BJ McMullen,JT Brassell,6,0,,,,,,"",""
+ball,1,5.2,Scotland,HG Munsey,BJ McMullen,JT Brassell,4,0,,,,,,"",""
+ball,1,5.3,Scotland,HG Munsey,BJ McMullen,JT Brassell,1,0,,,,,,"",""
+ball,1,5.4,Scotland,BJ McMullen,HG Munsey,JT Brassell,2,0,,,,,,"",""
+ball,1,5.5,Scotland,BJ McMullen,HG Munsey,JT Brassell,1,0,,,,,,"",""
+ball,1,5.6,Scotland,HG Munsey,BJ McMullen,JT Brassell,0,0,,,,,,"",""
+ball,1,6.1,Scotland,BJ McMullen,HG Munsey,BM Scholtz,2,0,,,,,,"",""
+ball,1,6.2,Scotland,BJ McMullen,HG Munsey,BM Scholtz,0,0,,,,,,"",""
+ball,1,6.3,Scotland,BJ McMullen,HG Munsey,BM Scholtz,0,0,,,,,,"",""
+ball,1,6.4,Scotland,BJ McMullen,HG Munsey,BM Scholtz,0,0,,,,,,"",""
+ball,1,6.5,Scotland,BJ McMullen,HG Munsey,BM Scholtz,0,0,,,,,,"",""
+ball,1,6.6,Scotland,BJ McMullen,HG Munsey,BM Scholtz,4,0,,,,,,"",""
+ball,1,7.1,Scotland,HG Munsey,BJ McMullen,MG Erasmus,1,0,,,,,,"",""
+ball,1,7.2,Scotland,BJ McMullen,HG Munsey,MG Erasmus,0,1,,,,1,,"",""
+ball,1,7.3,Scotland,HG Munsey,BJ McMullen,MG Erasmus,4,0,,,,,,"",""
+ball,1,7.4,Scotland,HG Munsey,BJ McMullen,MG Erasmus,6,0,,,,,,"",""
+ball,1,7.5,Scotland,HG Munsey,BJ McMullen,MG Erasmus,0,0,,,,,,"",""
+ball,1,7.6,Scotland,HG Munsey,BJ McMullen,MG Erasmus,6,0,,,,,,"",""
+ball,1,8.1,Scotland,BJ McMullen,HG Munsey,BM Scholtz,1,0,,,,,,"",""
+ball,1,8.2,Scotland,HG Munsey,BJ McMullen,BM Scholtz,1,0,,,,,,"",""
+ball,1,8.3,Scotland,BJ McMullen,HG Munsey,BM Scholtz,0,0,,,,,,"",""
+ball,1,8.4,Scotland,BJ McMullen,HG Munsey,BM Scholtz,1,0,,,,,,"",""
+ball,1,8.5,Scotland,HG Munsey,BJ McMullen,BM Scholtz,6,0,,,,,,"",""
+ball,1,8.6,Scotland,HG Munsey,BJ McMullen,BM Scholtz,0,0,,,,,,"",""
+ball,1,9.1,Scotland,BJ McMullen,HG Munsey,R Trumpelmann,0,0,,,,,,"",""
+ball,1,9.2,Scotland,BJ McMullen,HG Munsey,R Trumpelmann,1,0,,,,,,"",""
+ball,1,9.3,Scotland,HG Munsey,BJ McMullen,R Trumpelmann,0,0,,,,,,caught,HG Munsey
+ball,1,9.4,Scotland,RD Berrington,BJ McMullen,R Trumpelmann,0,0,,,,,,"",""
+ball,1,9.5,Scotland,RD Berrington,BJ McMullen,R Trumpelmann,0,0,,,,,,"",""
+ball,1,9.6,Scotland,RD Berrington,BJ McMullen,R Trumpelmann,0,0,,,,,,caught,RD Berrington
+ball,1,10.1,Scotland,BJ McMullen,TC Bruce,BM Scholtz,6,0,,,,,,"",""
+ball,1,10.2,Scotland,BJ McMullen,TC Bruce,BM Scholtz,0,0,,,,,,"",""
+ball,1,10.3,Scotland,BJ McMullen,TC Bruce,BM Scholtz,0,0,,,,,,"",""
+ball,1,10.4,Scotland,BJ McMullen,TC Bruce,BM Scholtz,0,0,,,,,,"",""
+ball,1,10.5,Scotland,BJ McMullen,TC Bruce,BM Scholtz,0,0,,,,,,"",""
+ball,1,10.6,Scotland,BJ McMullen,TC Bruce,BM Scholtz,0,0,,,,,,"",""
+ball,1,11.1,Scotland,TC Bruce,BJ McMullen,R Trumpelmann,0,0,,,,,,"",""
+ball,1,11.2,Scotland,TC Bruce,BJ McMullen,R Trumpelmann,0,0,,,,,,"",""
+ball,1,11.3,Scotland,TC Bruce,BJ McMullen,R Trumpelmann,1,0,,,,,,"",""
+ball,1,11.4,Scotland,BJ McMullen,TC Bruce,R Trumpelmann,0,0,,,,,,"",""
+ball,1,11.5,Scotland,BJ McMullen,TC Bruce,R Trumpelmann,1,0,,,,,,"",""
+ball,1,11.6,Scotland,TC Bruce,BJ McMullen,R Trumpelmann,1,0,,,,,,"",""
+ball,1,12.1,Scotland,TC Bruce,BJ McMullen,JT Brassell,0,0,,,,,,"",""
+ball,1,12.2,Scotland,TC Bruce,BJ McMullen,JT Brassell,1,0,,,,,,"",""
+ball,1,12.3,Scotland,BJ McMullen,TC Bruce,JT Brassell,0,0,,,,,,caught,BJ McMullen
+ball,1,12.4,Scotland,MA Leask,TC Bruce,JT Brassell,0,0,,,,,,"",""
+ball,1,12.5,Scotland,MA Leask,TC Bruce,JT Brassell,1,0,,,,,,"",""
+ball,1,12.6,Scotland,TC Bruce,MA Leask,JT Brassell,1,0,,,,,,"",""
+ball,1,13.1,Scotland,TC Bruce,MA Leask,JJ Smit,0,0,,,,,,"",""
+ball,1,13.2,Scotland,TC Bruce,MA Leask,JJ Smit,1,0,,,,,,"",""
+ball,1,13.3,Scotland,MA Leask,TC Bruce,JJ Smit,0,0,,,,,,"",""
+ball,1,13.4,Scotland,MA Leask,TC Bruce,JJ Smit,0,0,,,,,,"",""
+ball,1,13.5,Scotland,MA Leask,TC Bruce,JJ Smit,0,0,,,,,,"",""
+ball,1,13.6,Scotland,MA Leask,TC Bruce,JJ Smit,0,0,,,,,,"",""
+ball,1,14.1,Scotland,TC Bruce,MA Leask,JT Brassell,0,0,,,,,,"",""
+ball,1,14.2,Scotland,TC Bruce,MA Leask,JT Brassell,1,0,,,,,,"",""
+ball,1,14.3,Scotland,MA Leask,TC Bruce,JT Brassell,2,0,,,,,,"",""
+ball,1,14.4,Scotland,MA Leask,TC Bruce,JT Brassell,1,0,,,,,,"",""
+ball,1,14.5,Scotland,TC Bruce,MA Leask,JT Brassell,6,0,,,,,,"",""
+ball,1,14.6,Scotland,TC Bruce,MA Leask,JT Brassell,2,0,,,,,,"",""
+ball,1,15.1,Scotland,MA Leask,TC Bruce,B Shikongo,0,1,1,,,,,"",""
+ball,1,15.2,Scotland,MA Leask,TC Bruce,B Shikongo,0,0,,,,,,"",""
+ball,1,15.3,Scotland,MA Leask,TC Bruce,B Shikongo,4,0,,,,,,"",""
+ball,1,15.4,Scotland,MA Leask,TC Bruce,B Shikongo,1,0,,,,,,"",""
+ball,1,15.5,Scotland,TC Bruce,MA Leask,B Shikongo,1,0,,,,,,"",""
+ball,1,15.6,Scotland,MA Leask,TC Bruce,B Shikongo,1,0,,,,,,"",""
+ball,1,15.7,Scotland,TC Bruce,MA Leask,B Shikongo,4,0,,,,,,"",""
+ball,1,16.1,Scotland,MA Leask,TC Bruce,JJ Smit,0,1,,,,1,,"",""
+ball,1,16.2,Scotland,TC Bruce,MA Leask,JJ Smit,1,0,,,,,,"",""
+ball,1,16.3,Scotland,MA Leask,TC Bruce,JJ Smit,1,0,,,,,,"",""
+ball,1,16.4,Scotland,TC Bruce,MA Leask,JJ Smit,1,0,,,,,,"",""
+ball,1,16.5,Scotland,MA Leask,TC Bruce,JJ Smit,1,0,,,,,,"",""
+ball,1,16.6,Scotland,TC Bruce,MA Leask,JJ Smit,1,0,,,,,,"",""
+ball,1,17.1,Scotland,TC Bruce,MA Leask,BM Scholtz,0,0,,,,,,caught,TC Bruce
+ball,1,17.2,Scotland,MRJ Watt,MA Leask,BM Scholtz,1,0,,,,,,"",""
+ball,1,17.3,Scotland,MA Leask,MRJ Watt,BM Scholtz,0,0,,,,,,bowled,MA Leask
+ball,1,17.4,Scotland,CN Greaves,MRJ Watt,BM Scholtz,1,0,,,,,,"",""
+ball,1,17.5,Scotland,MRJ Watt,CN Greaves,BM Scholtz,0,0,,,,,,"",""
+ball,1,17.6,Scotland,MRJ Watt,CN Greaves,BM Scholtz,0,0,,,,,,"",""
+ball,1,18.1,Scotland,CN Greaves,MRJ Watt,JT Brassell,1,0,,,,,,"",""
+ball,1,18.2,Scotland,MRJ Watt,CN Greaves,JT Brassell,1,0,,,,,,"",""
+ball,1,18.3,Scotland,CN Greaves,MRJ Watt,JT Brassell,0,0,,,,,,"",""
+ball,1,18.4,Scotland,CN Greaves,MRJ Watt,JT Brassell,0,1,,,,1,,"",""
+ball,1,18.5,Scotland,MRJ Watt,CN Greaves,JT Brassell,0,0,,,,,,"",""
+ball,1,18.6,Scotland,MRJ Watt,CN Greaves,JT Brassell,1,0,,,,,,"",""
+ball,1,19.1,Scotland,MRJ Watt,CN Greaves,BM Scholtz,0,1,,,,1,,"",""
+ball,1,19.2,Scotland,CN Greaves,MRJ Watt,BM Scholtz,0,0,,,,,,"",""
+ball,1,19.3,Scotland,CN Greaves,MRJ Watt,BM Scholtz,0,0,,,,,,lbw,CN Greaves
+ball,1,19.4,Scotland,JH Davey,MRJ Watt,BM Scholtz,0,0,,,,,,"",""
+ball,1,19.5,Scotland,JH Davey,MRJ Watt,BM Scholtz,1,0,,,,,,"",""
+ball,1,19.6,Scotland,MRJ Watt,JH Davey,BM Scholtz,1,0,,,,,,"",""
+ball,1,20.1,Scotland,MRJ Watt,JH Davey,R Trumpelmann,1,0,,,,,,"",""
+ball,1,20.2,Scotland,JH Davey,MRJ Watt,R Trumpelmann,0,0,,,,,,lbw,JH Davey
+ball,1,20.3,Scotland,SM Sharif,MRJ Watt,R Trumpelmann,0,0,,,,,,"",""
+ball,1,20.4,Scotland,SM Sharif,MRJ Watt,R Trumpelmann,0,0,,,,,,"",""
+ball,1,20.5,Scotland,SM Sharif,MRJ Watt,R Trumpelmann,0,0,,,,,,"",""
+ball,1,20.6,Scotland,SM Sharif,MRJ Watt,R Trumpelmann,0,0,,,,,,"",""
+ball,1,21.1,Scotland,MRJ Watt,SM Sharif,MG Erasmus,1,0,,,,,,"",""
+ball,1,21.2,Scotland,SM Sharif,MRJ Watt,MG Erasmus,0,0,,,,,,"",""
+ball,1,21.3,Scotland,SM Sharif,MRJ Watt,MG Erasmus,0,5,5,,,,,"",""
+ball,1,21.4,Scotland,SM Sharif,MRJ Watt,MG Erasmus,0,0,,,,,,"",""
+ball,1,21.5,Scotland,SM Sharif,MRJ Watt,MG Erasmus,1,0,,,,,,"",""
+ball,1,21.6,Scotland,MRJ Watt,SM Sharif,MG Erasmus,1,0,,,,,,"",""
+ball,1,21.7,Scotland,SM Sharif,MRJ Watt,MG Erasmus,1,0,,,,,,"",""
+ball,1,22.1,Scotland,SM Sharif,MRJ Watt,R Trumpelmann,1,0,,,,,,"",""
+ball,1,22.2,Scotland,MRJ Watt,SM Sharif,R Trumpelmann,1,0,,,,,,"",""
+ball,1,22.3,Scotland,SM Sharif,MRJ Watt,R Trumpelmann,1,0,,,,,,"",""
+ball,1,22.4,Scotland,MRJ Watt,SM Sharif,R Trumpelmann,0,0,,,,,,"",""
+ball,1,22.5,Scotland,MRJ Watt,SM Sharif,R Trumpelmann,4,0,,,,,,"",""
+ball,1,22.6,Scotland,MRJ Watt,SM Sharif,R Trumpelmann,1,0,,,,,,"",""
+ball,1,23.1,Scotland,MRJ Watt,SM Sharif,JJ Smit,1,0,,,,,,"",""
+ball,1,23.2,Scotland,SM Sharif,MRJ Watt,JJ Smit,1,0,,,,,,"",""
+ball,1,23.3,Scotland,MRJ Watt,SM Sharif,JJ Smit,0,0,,,,,,"",""
+ball,1,23.4,Scotland,MRJ Watt,SM Sharif,JJ Smit,0,0,,,,,,caught,MRJ Watt
+ball,1,23.5,Scotland,BJ Currie,SM Sharif,JJ Smit,2,0,,,,,,"",""
+ball,1,23.6,Scotland,BJ Currie,SM Sharif,JJ Smit,0,2,2,,,,,"",""
+ball,1,23.7,Scotland,SM Sharif,BJ Currie,JJ Smit,0,0,,,,,,run out,BJ Currie
+ball,2,0.1,Namibia,MB Kruger,JC Balt,BJ Currie,0,0,,,,,,"",""
+ball,2,0.2,Namibia,MB Kruger,JC Balt,BJ Currie,1,0,,,,,,"",""
+ball,2,0.3,Namibia,JC Balt,MB Kruger,BJ Currie,0,0,,,,,,caught,JC Balt
+ball,2,0.4,Namibia,JN Frylinck,MB Kruger,BJ Currie,0,0,,,,,,"",""
+ball,2,0.5,Namibia,JN Frylinck,MB Kruger,BJ Currie,0,0,,,,,,"",""
+ball,2,0.6,Namibia,JN Frylinck,MB Kruger,BJ Currie,2,0,,,,,,"",""
+ball,2,1.1,Namibia,MB Kruger,JN Frylinck,JH Davey,2,0,,,,,,"",""
+ball,2,1.2,Namibia,MB Kruger,JN Frylinck,JH Davey,0,0,,,,,,"",""
+ball,2,1.3,Namibia,MB Kruger,JN Frylinck,JH Davey,0,0,,,,,,"",""
+ball,2,1.4,Namibia,MB Kruger,JN Frylinck,JH Davey,2,0,,,,,,"",""
+ball,2,1.5,Namibia,MB Kruger,JN Frylinck,JH Davey,0,2,2,,,,,"",""
+ball,2,1.6,Namibia,JN Frylinck,MB Kruger,JH Davey,1,0,,,,,,"",""
+ball,2,1.7,Namibia,MB Kruger,JN Frylinck,JH Davey,0,0,,,,,,"",""
+ball,2,2.1,Namibia,JN Frylinck,MB Kruger,BJ Currie,0,0,,,,,,"",""
+ball,2,2.2,Namibia,JN Frylinck,MB Kruger,BJ Currie,0,0,,,,,,caught,JN Frylinck
+ball,2,2.3,Namibia,MG Erasmus,MB Kruger,BJ Currie,0,1,,,,1,,"",""
+ball,2,2.4,Namibia,MB Kruger,MG Erasmus,BJ Currie,0,0,,,,,,"",""
+ball,2,2.5,Namibia,MB Kruger,MG Erasmus,BJ Currie,0,0,,,,,,"",""
+ball,2,2.6,Namibia,MB Kruger,MG Erasmus,BJ Currie,1,0,,,,,,"",""
+ball,2,3.1,Namibia,MB Kruger,MG Erasmus,JH Davey,0,0,,,,,,"",""
+ball,2,3.2,Namibia,MB Kruger,MG Erasmus,JH Davey,0,0,,,,,,"",""
+ball,2,3.3,Namibia,MB Kruger,MG Erasmus,JH Davey,0,0,,,,,,"",""
+ball,2,3.4,Namibia,MB Kruger,MG Erasmus,JH Davey,0,0,,,,,,"",""
+ball,2,3.5,Namibia,MB Kruger,MG Erasmus,JH Davey,1,0,,,,,,"",""
+ball,2,3.6,Namibia,MG Erasmus,MB Kruger,JH Davey,0,1,1,,,,,"",""
+ball,2,3.7,Namibia,MG Erasmus,MB Kruger,JH Davey,0,0,,,,,,"",""
+ball,2,4.1,Namibia,MB Kruger,MG Erasmus,BJ Currie,2,0,,,,,,"",""
+ball,2,4.2,Namibia,MB Kruger,MG Erasmus,BJ Currie,1,0,,,,,,"",""
+ball,2,4.3,Namibia,MG Erasmus,MB Kruger,BJ Currie,0,0,,,,,,"",""
+ball,2,4.4,Namibia,MG Erasmus,MB Kruger,BJ Currie,0,0,,,,,,"",""
+ball,2,4.5,Namibia,MG Erasmus,MB Kruger,BJ Currie,0,0,,,,,,"",""
+ball,2,4.6,Namibia,MG Erasmus,MB Kruger,BJ Currie,0,0,,,,,,"",""
+ball,2,5.1,Namibia,MB Kruger,MG Erasmus,SM Sharif,0,0,,,,,,"",""
+ball,2,5.2,Namibia,MB Kruger,MG Erasmus,SM Sharif,1,0,,,,,,"",""
+ball,2,5.3,Namibia,MG Erasmus,MB Kruger,SM Sharif,1,0,,,,,,"",""
+ball,2,5.4,Namibia,MB Kruger,MG Erasmus,SM Sharif,2,0,,,,,,"",""
+ball,2,5.5,Namibia,MB Kruger,MG Erasmus,SM Sharif,0,0,,,,,,"",""
+ball,2,5.6,Namibia,MB Kruger,MG Erasmus,SM Sharif,0,1,1,,,,,"",""
+ball,2,5.7,Namibia,MB Kruger,MG Erasmus,SM Sharif,0,0,,,,,,"",""
+ball,2,6.1,Namibia,MG Erasmus,MB Kruger,MRJ Watt,0,0,,,,,,"",""
+ball,2,6.2,Namibia,MG Erasmus,MB Kruger,MRJ Watt,0,0,,,,,,"",""
+ball,2,6.3,Namibia,MG Erasmus,MB Kruger,MRJ Watt,0,0,,,,,,"",""
+ball,2,6.4,Namibia,MG Erasmus,MB Kruger,MRJ Watt,0,0,,,,,,"",""
+ball,2,6.5,Namibia,MG Erasmus,MB Kruger,MRJ Watt,0,0,,,,,,"",""
+ball,2,6.6,Namibia,MG Erasmus,MB Kruger,MRJ Watt,0,0,,,,,,run out,MB Kruger
+ball,2,7.1,Namibia,MG Erasmus,JN Loftie-Eaton,SM Sharif,0,0,,,,,,"",""
+ball,2,7.2,Namibia,MG Erasmus,JN Loftie-Eaton,SM Sharif,0,0,,,,,,"",""
+ball,2,7.3,Namibia,MG Erasmus,JN Loftie-Eaton,SM Sharif,0,0,,,,,,"",""
+ball,2,7.4,Namibia,MG Erasmus,JN Loftie-Eaton,SM Sharif,1,0,,,,,,"",""
+ball,2,7.5,Namibia,JN Loftie-Eaton,MG Erasmus,SM Sharif,0,0,,,,,,"",""
+ball,2,7.6,Namibia,JN Loftie-Eaton,MG Erasmus,SM Sharif,0,0,,,,,,"",""
+ball,2,8.1,Namibia,MG Erasmus,JN Loftie-Eaton,MRJ Watt,0,0,,,,,,"",""
+ball,2,8.2,Namibia,MG Erasmus,JN Loftie-Eaton,MRJ Watt,0,0,,,,,,"",""
+ball,2,8.3,Namibia,MG Erasmus,JN Loftie-Eaton,MRJ Watt,1,0,,,,,,"",""
+ball,2,8.4,Namibia,JN Loftie-Eaton,MG Erasmus,MRJ Watt,1,0,,,,,,"",""
+ball,2,8.5,Namibia,MG Erasmus,JN Loftie-Eaton,MRJ Watt,1,0,,,,,,"",""
+ball,2,8.6,Namibia,JN Loftie-Eaton,MG Erasmus,MRJ Watt,1,0,,,,,,"",""
+ball,2,9.1,Namibia,JN Loftie-Eaton,MG Erasmus,SM Sharif,0,0,,,,,,"",""
+ball,2,9.2,Namibia,JN Loftie-Eaton,MG Erasmus,SM Sharif,0,2,,,,2,,"",""
+ball,2,9.3,Namibia,JN Loftie-Eaton,MG Erasmus,SM Sharif,6,0,,,,,,"",""
+ball,2,9.4,Namibia,JN Loftie-Eaton,MG Erasmus,SM Sharif,0,0,,,,,,caught,JN Loftie-Eaton
+ball,2,9.5,Namibia,ZE Green,MG Erasmus,SM Sharif,0,0,,,,,,"",""
+ball,2,9.6,Namibia,ZE Green,MG Erasmus,SM Sharif,0,0,,,,,,"",""
+ball,2,10.1,Namibia,MG Erasmus,ZE Green,MRJ Watt,0,0,,,,,,"",""
+ball,2,10.2,Namibia,MG Erasmus,ZE Green,MRJ Watt,0,0,,,,,,"",""
+ball,2,10.3,Namibia,MG Erasmus,ZE Green,MRJ Watt,0,0,,,,,,"",""
+ball,2,10.4,Namibia,MG Erasmus,ZE Green,MRJ Watt,0,0,,,,,,"",""
+ball,2,10.5,Namibia,MG Erasmus,ZE Green,MRJ Watt,1,0,,,,,,"",""
+ball,2,10.6,Namibia,ZE Green,MG Erasmus,MRJ Watt,0,0,,,,,,"",""
+ball,2,11.1,Namibia,MG Erasmus,ZE Green,SM Sharif,0,0,,,,,,"",""
+ball,2,11.2,Namibia,MG Erasmus,ZE Green,SM Sharif,0,0,,,,,,"",""
+ball,2,11.3,Namibia,MG Erasmus,ZE Green,SM Sharif,0,0,,,,,,"",""
+ball,2,11.4,Namibia,MG Erasmus,ZE Green,SM Sharif,0,0,,,,,,hit wicket,MG Erasmus
+ball,2,11.5,Namibia,JJ Smit,ZE Green,SM Sharif,0,0,,,,,,"",""
+ball,2,11.6,Namibia,JJ Smit,ZE Green,SM Sharif,0,0,,,,,,"",""
+ball,2,12.1,Namibia,ZE Green,JJ Smit,MRJ Watt,2,0,,,,,,"",""
+ball,2,12.2,Namibia,ZE Green,JJ Smit,MRJ Watt,0,0,,,,,,"",""
+ball,2,12.3,Namibia,ZE Green,JJ Smit,MRJ Watt,2,0,,,,,,"",""
+ball,2,12.4,Namibia,ZE Green,JJ Smit,MRJ Watt,2,0,,,,,,"",""
+ball,2,12.5,Namibia,ZE Green,JJ Smit,MRJ Watt,0,0,,,,,,"",""
+ball,2,12.6,Namibia,ZE Green,JJ Smit,MRJ Watt,0,0,,,,,,"",""
+ball,2,13.1,Namibia,JJ Smit,ZE Green,MA Leask,1,0,,,,,,"",""
+ball,2,13.2,Namibia,ZE Green,JJ Smit,MA Leask,0,0,,,,,,"",""
+ball,2,13.3,Namibia,ZE Green,JJ Smit,MA Leask,4,0,,,,,,"",""
+ball,2,13.4,Namibia,ZE Green,JJ Smit,MA Leask,1,0,,,,,,"",""
+ball,2,13.5,Namibia,JJ Smit,ZE Green,MA Leask,0,0,,,,,,"",""
+ball,2,13.6,Namibia,JJ Smit,ZE Green,MA Leask,0,5,5,,,,,"",""
+ball,2,13.7,Namibia,JJ Smit,ZE Green,MA Leask,6,0,,,,,,"",""
+ball,2,14.1,Namibia,ZE Green,JJ Smit,CN Greaves,0,0,,,,,,"",""
+ball,2,14.2,Namibia,ZE Green,JJ Smit,CN Greaves,0,0,,,,,,"",""
+ball,2,14.3,Namibia,ZE Green,JJ Smit,CN Greaves,1,0,,,,,,"",""
+ball,2,14.4,Namibia,JJ Smit,ZE Green,CN Greaves,4,0,,,,,,"",""
+ball,2,14.5,Namibia,JJ Smit,ZE Green,CN Greaves,0,0,,,,,,"",""
+ball,2,14.6,Namibia,JJ Smit,ZE Green,CN Greaves,6,0,,,,,,"",""
+ball,2,15.1,Namibia,ZE Green,JJ Smit,MA Leask,0,0,,,,,,"",""
+ball,2,15.2,Namibia,ZE Green,JJ Smit,MA Leask,1,0,,,,,,"",""
+ball,2,15.3,Namibia,JJ Smit,ZE Green,MA Leask,6,0,,,,,,"",""
+ball,2,15.4,Namibia,JJ Smit,ZE Green,MA Leask,1,0,,,,,,"",""
+ball,2,15.5,Namibia,ZE Green,JJ Smit,MA Leask,0,0,,,,,,"",""
+ball,2,15.6,Namibia,ZE Green,JJ Smit,MA Leask,1,0,,,,,,"",""
+ball,2,16.1,Namibia,ZE Green,JJ Smit,CN Greaves,4,0,,,,,,"",""
+ball,2,16.2,Namibia,ZE Green,JJ Smit,CN Greaves,1,0,,,,,,"",""
+ball,2,16.3,Namibia,JJ Smit,ZE Green,CN Greaves,2,0,,,,,,"",""
+ball,2,16.4,Namibia,JJ Smit,ZE Green,CN Greaves,0,0,,,,,,"",""
+ball,2,16.5,Namibia,JJ Smit,ZE Green,CN Greaves,0,0,,,,,,caught,JJ Smit
+ball,2,16.6,Namibia,R Trumpelmann,ZE Green,CN Greaves,1,0,,,,,,"",""
+ball,2,17.1,Namibia,R Trumpelmann,ZE Green,MA Leask,1,0,,,,,,"",""
+ball,2,17.2,Namibia,ZE Green,R Trumpelmann,MA Leask,0,0,,,,,,"",""
+ball,2,17.3,Namibia,ZE Green,R Trumpelmann,MA Leask,1,0,,,,,,"",""
+ball,2,17.4,Namibia,R Trumpelmann,ZE Green,MA Leask,1,0,,,,,,"",""
+ball,2,17.5,Namibia,ZE Green,R Trumpelmann,MA Leask,0,0,,,,,,"",""
+ball,2,17.6,Namibia,ZE Green,R Trumpelmann,MA Leask,2,0,,,,,,"",""
+ball,2,18.1,Namibia,R Trumpelmann,ZE Green,MRJ Watt,1,0,,,,,,"",""
+ball,2,18.2,Namibia,ZE Green,R Trumpelmann,MRJ Watt,0,0,,,,,,"",""
+ball,2,18.3,Namibia,ZE Green,R Trumpelmann,MRJ Watt,1,0,,,,,,"",""
+ball,2,18.4,Namibia,R Trumpelmann,ZE Green,MRJ Watt,0,0,,,,,,caught,R Trumpelmann
+ball,2,18.5,Namibia,BM Scholtz,ZE Green,MRJ Watt,0,0,,,,,,"",""
+ball,2,18.6,Namibia,BM Scholtz,ZE Green,MRJ Watt,0,0,,,,,,"",""
+ball,2,19.1,Namibia,ZE Green,BM Scholtz,MA Leask,0,0,,,,,,"",""
+ball,2,19.2,Namibia,ZE Green,BM Scholtz,MA Leask,2,0,,,,,,"",""
+ball,2,19.3,Namibia,ZE Green,BM Scholtz,MA Leask,1,0,,,,,,"",""
+ball,2,19.4,Namibia,BM Scholtz,ZE Green,MA Leask,4,0,,,,,,"",""
+ball,2,19.5,Namibia,BM Scholtz,ZE Green,MA Leask,1,0,,,,,,"",""
+ball,2,19.6,Namibia,ZE Green,BM Scholtz,MA Leask,1,0,,,,,,"",""
+ball,2,20.1,Namibia,ZE Green,BM Scholtz,CN Greaves,0,0,,,,,,caught and bowled,ZE Green
+ball,2,20.2,Namibia,JT Brassell,BM Scholtz,CN Greaves,1,0,,,,,,"",""
+ball,2,20.3,Namibia,BM Scholtz,JT Brassell,CN Greaves,0,0,,,,,,caught,BM Scholtz
+ball,2,20.4,Namibia,B Shikongo,JT Brassell,CN Greaves,0,0,,,,,,"",""
+ball,2,20.5,Namibia,B Shikongo,JT Brassell,CN Greaves,0,0,,,,,,"",""
+ball,2,20.6,Namibia,B Shikongo,JT Brassell,CN Greaves,4,0,,,,,,"",""
+ball,2,21.1,Namibia,JT Brassell,B Shikongo,MA Leask,1,0,,,,,,"",""
+ball,2,21.2,Namibia,B Shikongo,JT Brassell,MA Leask,0,0,,,,,,caught and bowled,B Shikongo

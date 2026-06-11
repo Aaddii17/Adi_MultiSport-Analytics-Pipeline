@@ -1,0 +1,274 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,UP Warriorz
+info,team,Royal Challengers Bengaluru
+info,gender,female
+info,season,2025/26
+info,date,2026/01/29
+info,event,Women's Premier League
+info,match_number,18
+info,venue,"Kotambi Stadium, Vadodara"
+info,city,Vadodara
+info,toss_winner,Royal Challengers Bengaluru
+info,toss_decision,field
+info,player_of_match,GM Harris
+info,umpire,AK Argal
+info,umpire,Anish Sahasrabudhe
+info,reserve_umpire,AS Guha
+info,tv_umpire,T Ematty
+info,match_referee,NK Lokur
+info,winner,Royal Challengers Bengaluru
+info,winner_wickets,8
+info,player,UP Warriorz,MM Lanning
+info,player,UP Warriorz,DB Sharma
+info,player,UP Warriorz,AE Jones
+info,player,UP Warriorz,H Deol
+info,player,UP Warriorz,CL Tryon
+info,player,UP Warriorz,S Sehrawat
+info,player,UP Warriorz,Simran Shaikh
+info,player,UP Warriorz,S Ecclestone
+info,player,UP Warriorz,S Asha
+info,player,UP Warriorz,S Pandey
+info,player,UP Warriorz,K Goud
+info,player,Royal Challengers Bengaluru,GM Harris
+info,player,Royal Challengers Bengaluru,S Mandhana
+info,player,Royal Challengers Bengaluru,G Voll
+info,player,Royal Challengers Bengaluru,RM Ghosh
+info,player,Royal Challengers Bengaluru,RP Yadav
+info,player,Royal Challengers Bengaluru,P Vastrakar
+info,player,Royal Challengers Bengaluru,N de Klerk
+info,player,Royal Challengers Bengaluru,A Reddy
+info,player,Royal Challengers Bengaluru,SR Patil
+info,player,Royal Challengers Bengaluru,SG Satghare
+info,player,Royal Challengers Bengaluru,LK Bell
+info,registry,people,A Reddy,eadc8924
+info,registry,people,AE Jones,b05e45e4
+info,registry,people,AK Argal,0ee78cf3
+info,registry,people,AS Guha,c21b184d
+info,registry,people,Anish Sahasrabudhe,2892df67
+info,registry,people,CL Tryon,4d4605e6
+info,registry,people,DB Sharma,201fef33
+info,registry,people,G Voll,5c30d455
+info,registry,people,GM Harris,72166006
+info,registry,people,H Deol,3664712e
+info,registry,people,K Goud,4d622fee
+info,registry,people,LK Bell,38b4583c
+info,registry,people,MM Lanning,27e003ce
+info,registry,people,N de Klerk,ea544967
+info,registry,people,NK Lokur,2b0fa148
+info,registry,people,P Vastrakar,8026ea72
+info,registry,people,RM Ghosh,721e0199
+info,registry,people,RP Yadav,6c3aef71
+info,registry,people,S Asha,77143581
+info,registry,people,S Ecclestone,cdb82f1c
+info,registry,people,S Mandhana,5d2eda89
+info,registry,people,S Pandey,5463cb7a
+info,registry,people,S Sehrawat,0e9d4094
+info,registry,people,SG Satghare,3708b522
+info,registry,people,SR Patil,33946d69
+info,registry,people,Simran Shaikh,4961601c
+info,registry,people,T Ematty,e995f8e9
+ball,1,0.1,UP Warriorz,MM Lanning,DB Sharma,LK Bell,0,0,,,,,,"",""
+ball,1,0.2,UP Warriorz,MM Lanning,DB Sharma,LK Bell,0,0,,,,,,"",""
+ball,1,0.3,UP Warriorz,MM Lanning,DB Sharma,LK Bell,0,1,1,,,,,"",""
+ball,1,0.4,UP Warriorz,MM Lanning,DB Sharma,LK Bell,1,0,,,,,,"",""
+ball,1,0.5,UP Warriorz,DB Sharma,MM Lanning,LK Bell,0,1,1,,,,,"",""
+ball,1,0.6,UP Warriorz,DB Sharma,MM Lanning,LK Bell,1,0,,,,,,"",""
+ball,1,0.7,UP Warriorz,MM Lanning,DB Sharma,LK Bell,0,0,,,,,,"",""
+ball,1,0.8,UP Warriorz,MM Lanning,DB Sharma,LK Bell,0,0,,,,,,"",""
+ball,1,1.1,UP Warriorz,DB Sharma,MM Lanning,SG Satghare,1,0,,,,,,"",""
+ball,1,1.2,UP Warriorz,MM Lanning,DB Sharma,SG Satghare,4,0,,,,,,"",""
+ball,1,1.3,UP Warriorz,MM Lanning,DB Sharma,SG Satghare,1,0,,,,,,"",""
+ball,1,1.4,UP Warriorz,DB Sharma,MM Lanning,SG Satghare,0,0,,,,,,"",""
+ball,1,1.5,UP Warriorz,DB Sharma,MM Lanning,SG Satghare,0,0,,,,,,"",""
+ball,1,1.6,UP Warriorz,DB Sharma,MM Lanning,SG Satghare,1,0,,,,,,"",""
+ball,1,2.1,UP Warriorz,DB Sharma,MM Lanning,LK Bell,1,0,,,,,,"",""
+ball,1,2.2,UP Warriorz,MM Lanning,DB Sharma,LK Bell,0,0,,,,,,"",""
+ball,1,2.3,UP Warriorz,MM Lanning,DB Sharma,LK Bell,0,0,,,,,,"",""
+ball,1,2.4,UP Warriorz,MM Lanning,DB Sharma,LK Bell,0,0,,,,,,"",""
+ball,1,2.5,UP Warriorz,MM Lanning,DB Sharma,LK Bell,0,0,,,,,,"",""
+ball,1,2.6,UP Warriorz,MM Lanning,DB Sharma,LK Bell,0,0,,,,,,"",""
+ball,1,3.1,UP Warriorz,DB Sharma,MM Lanning,SR Patil,0,0,,,,,,"",""
+ball,1,3.2,UP Warriorz,DB Sharma,MM Lanning,SR Patil,4,0,,,,,,"",""
+ball,1,3.3,UP Warriorz,DB Sharma,MM Lanning,SR Patil,1,0,,,,,,"",""
+ball,1,3.4,UP Warriorz,MM Lanning,DB Sharma,SR Patil,4,0,,,,,,"",""
+ball,1,3.5,UP Warriorz,MM Lanning,DB Sharma,SR Patil,1,0,,,,,,"",""
+ball,1,3.6,UP Warriorz,DB Sharma,MM Lanning,SR Patil,0,0,,,,,,"",""
+ball,1,4.1,UP Warriorz,MM Lanning,DB Sharma,LK Bell,0,0,,,,,,"",""
+ball,1,4.2,UP Warriorz,MM Lanning,DB Sharma,LK Bell,1,0,,,,,,"",""
+ball,1,4.3,UP Warriorz,DB Sharma,MM Lanning,LK Bell,4,0,,,,,,"",""
+ball,1,4.4,UP Warriorz,DB Sharma,MM Lanning,LK Bell,1,0,,,,,,"",""
+ball,1,4.5,UP Warriorz,MM Lanning,DB Sharma,LK Bell,1,0,,,,,,"",""
+ball,1,4.6,UP Warriorz,DB Sharma,MM Lanning,LK Bell,0,1,1,,,,,"",""
+ball,1,4.7,UP Warriorz,DB Sharma,MM Lanning,LK Bell,6,0,,,,,,"",""
+ball,1,5.1,UP Warriorz,MM Lanning,DB Sharma,SG Satghare,6,0,,,,,,"",""
+ball,1,5.2,UP Warriorz,MM Lanning,DB Sharma,SG Satghare,4,0,,,,,,"",""
+ball,1,5.3,UP Warriorz,MM Lanning,DB Sharma,SG Satghare,0,1,1,,,,,"",""
+ball,1,5.4,UP Warriorz,MM Lanning,DB Sharma,SG Satghare,2,0,,,,,,"",""
+ball,1,5.5,UP Warriorz,MM Lanning,DB Sharma,SG Satghare,0,0,,,,,,"",""
+ball,1,5.6,UP Warriorz,MM Lanning,DB Sharma,SG Satghare,1,0,,,,,,"",""
+ball,1,5.7,UP Warriorz,DB Sharma,MM Lanning,SG Satghare,0,0,,,,,,"",""
+ball,1,6.1,UP Warriorz,MM Lanning,DB Sharma,A Reddy,0,4,,,,4,,"",""
+ball,1,6.2,UP Warriorz,MM Lanning,DB Sharma,A Reddy,0,0,,,,,,"",""
+ball,1,6.3,UP Warriorz,MM Lanning,DB Sharma,A Reddy,4,0,,,,,,"",""
+ball,1,6.4,UP Warriorz,MM Lanning,DB Sharma,A Reddy,2,0,,,,,,"",""
+ball,1,6.5,UP Warriorz,MM Lanning,DB Sharma,A Reddy,4,0,,,,,,"",""
+ball,1,6.6,UP Warriorz,MM Lanning,DB Sharma,A Reddy,4,0,,,,,,"",""
+ball,1,7.1,UP Warriorz,DB Sharma,MM Lanning,SR Patil,1,0,,,,,,"",""
+ball,1,7.2,UP Warriorz,MM Lanning,DB Sharma,SR Patil,1,0,,,,,,"",""
+ball,1,7.3,UP Warriorz,DB Sharma,MM Lanning,SR Patil,0,0,,,,,,"",""
+ball,1,7.4,UP Warriorz,DB Sharma,MM Lanning,SR Patil,4,0,,,,,,"",""
+ball,1,7.5,UP Warriorz,DB Sharma,MM Lanning,SR Patil,0,0,,,,,,"",""
+ball,1,7.6,UP Warriorz,DB Sharma,MM Lanning,SR Patil,0,0,,,,,,"",""
+ball,1,8.1,UP Warriorz,MM Lanning,DB Sharma,N de Klerk,0,0,,,,,,caught,MM Lanning
+ball,1,8.2,UP Warriorz,AE Jones,DB Sharma,N de Klerk,1,0,,,,,,"",""
+ball,1,8.3,UP Warriorz,DB Sharma,AE Jones,N de Klerk,2,0,,,,,,"",""
+ball,1,8.4,UP Warriorz,DB Sharma,AE Jones,N de Klerk,1,0,,,,,,"",""
+ball,1,8.5,UP Warriorz,AE Jones,DB Sharma,N de Klerk,0,0,,,,,,lbw,AE Jones
+ball,1,8.6,UP Warriorz,H Deol,DB Sharma,N de Klerk,0,0,,,,,,"",""
+ball,1,9.1,UP Warriorz,DB Sharma,H Deol,SR Patil,1,0,,,,,,"",""
+ball,1,9.2,UP Warriorz,H Deol,DB Sharma,SR Patil,1,0,,,,,,"",""
+ball,1,9.3,UP Warriorz,DB Sharma,H Deol,SR Patil,1,0,,,,,,"",""
+ball,1,9.4,UP Warriorz,H Deol,DB Sharma,SR Patil,0,0,,,,,,"",""
+ball,1,9.5,UP Warriorz,H Deol,DB Sharma,SR Patil,1,0,,,,,,"",""
+ball,1,9.6,UP Warriorz,DB Sharma,H Deol,SR Patil,0,0,,,,,,"",""
+ball,1,10.1,UP Warriorz,H Deol,DB Sharma,N de Klerk,4,0,,,,,,"",""
+ball,1,10.2,UP Warriorz,H Deol,DB Sharma,N de Klerk,0,0,,,,,,"",""
+ball,1,10.3,UP Warriorz,H Deol,DB Sharma,N de Klerk,1,0,,,,,,"",""
+ball,1,10.4,UP Warriorz,DB Sharma,H Deol,N de Klerk,1,0,,,,,,"",""
+ball,1,10.5,UP Warriorz,H Deol,DB Sharma,N de Klerk,0,0,,,,,,"",""
+ball,1,10.6,UP Warriorz,H Deol,DB Sharma,N de Klerk,1,0,,,,,,"",""
+ball,1,11.1,UP Warriorz,H Deol,DB Sharma,GM Harris,0,0,,,,,,"",""
+ball,1,11.2,UP Warriorz,H Deol,DB Sharma,GM Harris,0,0,,,,,,"",""
+ball,1,11.3,UP Warriorz,H Deol,DB Sharma,GM Harris,2,0,,,,,,"",""
+ball,1,11.4,UP Warriorz,H Deol,DB Sharma,GM Harris,4,0,,,,,,"",""
+ball,1,11.5,UP Warriorz,H Deol,DB Sharma,GM Harris,0,0,,,,,,bowled,H Deol
+ball,1,11.6,UP Warriorz,CL Tryon,DB Sharma,GM Harris,1,0,,,,,,"",""
+ball,1,12.1,UP Warriorz,CL Tryon,DB Sharma,RP Yadav,0,0,,,,,,"",""
+ball,1,12.2,UP Warriorz,CL Tryon,DB Sharma,RP Yadav,1,0,,,,,,"",""
+ball,1,12.3,UP Warriorz,DB Sharma,CL Tryon,RP Yadav,1,0,,,,,,"",""
+ball,1,12.4,UP Warriorz,CL Tryon,DB Sharma,RP Yadav,0,0,,,,,,"",""
+ball,1,12.5,UP Warriorz,CL Tryon,DB Sharma,RP Yadav,4,0,,,,,,"",""
+ball,1,12.6,UP Warriorz,CL Tryon,DB Sharma,RP Yadav,0,0,,,,,,"",""
+ball,1,13.1,UP Warriorz,DB Sharma,CL Tryon,GM Harris,1,0,,,,,,"",""
+ball,1,13.2,UP Warriorz,CL Tryon,DB Sharma,GM Harris,0,0,,,,,,stumped,CL Tryon
+ball,1,13.3,UP Warriorz,S Sehrawat,DB Sharma,GM Harris,0,0,,,,,,"",""
+ball,1,13.4,UP Warriorz,S Sehrawat,DB Sharma,GM Harris,1,0,,,,,,"",""
+ball,1,13.5,UP Warriorz,DB Sharma,S Sehrawat,GM Harris,1,0,,,,,,"",""
+ball,1,13.6,UP Warriorz,S Sehrawat,DB Sharma,GM Harris,1,0,,,,,,"",""
+ball,1,14.1,UP Warriorz,S Sehrawat,DB Sharma,RP Yadav,0,0,,,,,,"",""
+ball,1,14.2,UP Warriorz,S Sehrawat,DB Sharma,RP Yadav,1,0,,,,,,"",""
+ball,1,14.3,UP Warriorz,DB Sharma,S Sehrawat,RP Yadav,1,0,,,,,,"",""
+ball,1,14.4,UP Warriorz,S Sehrawat,DB Sharma,RP Yadav,1,0,,,,,,"",""
+ball,1,14.5,UP Warriorz,DB Sharma,S Sehrawat,RP Yadav,1,0,,,,,,"",""
+ball,1,14.6,UP Warriorz,S Sehrawat,DB Sharma,RP Yadav,1,0,,,,,,"",""
+ball,1,15.1,UP Warriorz,S Sehrawat,DB Sharma,GM Harris,1,0,,,,,,"",""
+ball,1,15.2,UP Warriorz,DB Sharma,S Sehrawat,GM Harris,4,0,,,,,,"",""
+ball,1,15.3,UP Warriorz,DB Sharma,S Sehrawat,GM Harris,1,0,,,,,,"",""
+ball,1,15.4,UP Warriorz,S Sehrawat,DB Sharma,GM Harris,1,0,,,,,,"",""
+ball,1,15.5,UP Warriorz,DB Sharma,S Sehrawat,GM Harris,0,0,,,,,,"",""
+ball,1,15.6,UP Warriorz,DB Sharma,S Sehrawat,GM Harris,4,0,,,,,,"",""
+ball,1,16.1,UP Warriorz,S Sehrawat,DB Sharma,LK Bell,0,0,,,,,,caught,S Sehrawat
+ball,1,16.2,UP Warriorz,Simran Shaikh,DB Sharma,LK Bell,0,0,,,,,,"",""
+ball,1,16.3,UP Warriorz,Simran Shaikh,DB Sharma,LK Bell,0,0,,,,,,"",""
+ball,1,16.4,UP Warriorz,Simran Shaikh,DB Sharma,LK Bell,1,0,,,,,,"",""
+ball,1,16.5,UP Warriorz,DB Sharma,Simran Shaikh,LK Bell,0,0,,,,,,"",""
+ball,1,16.6,UP Warriorz,DB Sharma,Simran Shaikh,LK Bell,1,0,,,,,,"",""
+ball,1,17.1,UP Warriorz,DB Sharma,Simran Shaikh,N de Klerk,1,0,,,,,,"",""
+ball,1,17.2,UP Warriorz,Simran Shaikh,DB Sharma,N de Klerk,1,0,,,,,,"",""
+ball,1,17.3,UP Warriorz,DB Sharma,Simran Shaikh,N de Klerk,0,0,,,,,,"",""
+ball,1,17.4,UP Warriorz,DB Sharma,Simran Shaikh,N de Klerk,1,0,,,,,,"",""
+ball,1,17.5,UP Warriorz,Simran Shaikh,DB Sharma,N de Klerk,1,0,,,,,,"",""
+ball,1,17.6,UP Warriorz,DB Sharma,Simran Shaikh,N de Klerk,2,0,,,,,,"",""
+ball,1,18.1,UP Warriorz,Simran Shaikh,DB Sharma,SR Patil,1,0,,,,,,"",""
+ball,1,18.2,UP Warriorz,DB Sharma,Simran Shaikh,SR Patil,4,0,,,,,,"",""
+ball,1,18.3,UP Warriorz,DB Sharma,Simran Shaikh,SR Patil,1,0,,,,,,"",""
+ball,1,18.4,UP Warriorz,Simran Shaikh,DB Sharma,SR Patil,0,0,,,,,,"",""
+ball,1,18.5,UP Warriorz,Simran Shaikh,DB Sharma,SR Patil,1,0,,,,,,"",""
+ball,1,18.6,UP Warriorz,DB Sharma,Simran Shaikh,SR Patil,0,0,,,,,,caught,DB Sharma
+ball,1,19.1,UP Warriorz,Simran Shaikh,S Ecclestone,N de Klerk,1,0,,,,,,"",""
+ball,1,19.2,UP Warriorz,S Ecclestone,Simran Shaikh,N de Klerk,0,0,,,,,,lbw,S Ecclestone
+ball,1,19.3,UP Warriorz,S Asha,Simran Shaikh,N de Klerk,0,1,,,,1,,"",""
+ball,1,19.4,UP Warriorz,Simran Shaikh,S Asha,N de Klerk,4,0,,,,,,"",""
+ball,1,19.5,UP Warriorz,Simran Shaikh,S Asha,N de Klerk,0,0,,,,,,caught,Simran Shaikh
+ball,1,19.6,UP Warriorz,S Pandey,S Asha,N de Klerk,0,0,,,,,,"",""
+ball,2,0.1,Royal Challengers Bengaluru,GM Harris,S Mandhana,K Goud,4,0,,,,,,"",""
+ball,2,0.2,Royal Challengers Bengaluru,GM Harris,S Mandhana,K Goud,0,0,,,,,,"",""
+ball,2,0.3,Royal Challengers Bengaluru,GM Harris,S Mandhana,K Goud,4,0,,,,,,"",""
+ball,2,0.4,Royal Challengers Bengaluru,GM Harris,S Mandhana,K Goud,0,0,,,,,,"",""
+ball,2,0.5,Royal Challengers Bengaluru,GM Harris,S Mandhana,K Goud,0,0,,,,,,"",""
+ball,2,0.6,Royal Challengers Bengaluru,GM Harris,S Mandhana,K Goud,1,0,,,,,,"",""
+ball,2,1.1,Royal Challengers Bengaluru,GM Harris,S Mandhana,S Pandey,0,1,,,,1,,"",""
+ball,2,1.2,Royal Challengers Bengaluru,S Mandhana,GM Harris,S Pandey,4,0,,,,,,"",""
+ball,2,1.3,Royal Challengers Bengaluru,S Mandhana,GM Harris,S Pandey,1,0,,,,,,"",""
+ball,2,1.4,Royal Challengers Bengaluru,GM Harris,S Mandhana,S Pandey,1,0,,,,,,"",""
+ball,2,1.5,Royal Challengers Bengaluru,S Mandhana,GM Harris,S Pandey,1,0,,,,,,"",""
+ball,2,1.6,Royal Challengers Bengaluru,GM Harris,S Mandhana,S Pandey,1,0,,,,,,"",""
+ball,2,2.1,Royal Challengers Bengaluru,GM Harris,S Mandhana,K Goud,4,0,,,,,,"",""
+ball,2,2.2,Royal Challengers Bengaluru,GM Harris,S Mandhana,K Goud,0,0,,,,,,"",""
+ball,2,2.3,Royal Challengers Bengaluru,GM Harris,S Mandhana,K Goud,4,0,,,,,,"",""
+ball,2,2.4,Royal Challengers Bengaluru,GM Harris,S Mandhana,K Goud,4,0,,,,,,"",""
+ball,2,2.5,Royal Challengers Bengaluru,GM Harris,S Mandhana,K Goud,4,0,,,,,,"",""
+ball,2,2.6,Royal Challengers Bengaluru,GM Harris,S Mandhana,K Goud,4,0,,,,,,"",""
+ball,2,3.1,Royal Challengers Bengaluru,S Mandhana,GM Harris,DB Sharma,1,0,,,,,,"",""
+ball,2,3.2,Royal Challengers Bengaluru,GM Harris,S Mandhana,DB Sharma,6,0,,,,,,"",""
+ball,2,3.3,Royal Challengers Bengaluru,GM Harris,S Mandhana,DB Sharma,1,0,,,,,,"",""
+ball,2,3.4,Royal Challengers Bengaluru,S Mandhana,GM Harris,DB Sharma,0,0,,,,,,"",""
+ball,2,3.5,Royal Challengers Bengaluru,S Mandhana,GM Harris,DB Sharma,1,0,,,,,,"",""
+ball,2,3.6,Royal Challengers Bengaluru,GM Harris,S Mandhana,DB Sharma,1,0,,,,,,"",""
+ball,2,4.1,Royal Challengers Bengaluru,GM Harris,S Mandhana,S Ecclestone,4,0,,,,,,"",""
+ball,2,4.2,Royal Challengers Bengaluru,GM Harris,S Mandhana,S Ecclestone,0,0,,,,,,"",""
+ball,2,4.3,Royal Challengers Bengaluru,GM Harris,S Mandhana,S Ecclestone,0,0,,,,,,"",""
+ball,2,4.4,Royal Challengers Bengaluru,GM Harris,S Mandhana,S Ecclestone,1,0,,,,,,"",""
+ball,2,4.5,Royal Challengers Bengaluru,S Mandhana,GM Harris,S Ecclestone,0,0,,,,,,"",""
+ball,2,4.6,Royal Challengers Bengaluru,S Mandhana,GM Harris,S Ecclestone,4,0,,,,,,"",""
+ball,2,5.1,Royal Challengers Bengaluru,GM Harris,S Mandhana,S Pandey,0,0,,,,,,"",""
+ball,2,5.2,Royal Challengers Bengaluru,GM Harris,S Mandhana,S Pandey,0,1,1,,,,,"",""
+ball,2,5.3,Royal Challengers Bengaluru,GM Harris,S Mandhana,S Pandey,0,0,,,,,,"",""
+ball,2,5.4,Royal Challengers Bengaluru,GM Harris,S Mandhana,S Pandey,4,0,,,,,,"",""
+ball,2,5.5,Royal Challengers Bengaluru,GM Harris,S Mandhana,S Pandey,0,0,,,,,,"",""
+ball,2,5.6,Royal Challengers Bengaluru,GM Harris,S Mandhana,S Pandey,1,0,,,,,,"",""
+ball,2,5.7,Royal Challengers Bengaluru,S Mandhana,GM Harris,S Pandey,0,0,,,,,,"",""
+ball,2,6.1,Royal Challengers Bengaluru,GM Harris,S Mandhana,S Asha,6,0,,,,,,"",""
+ball,2,6.2,Royal Challengers Bengaluru,GM Harris,S Mandhana,S Asha,1,0,,,,,,"",""
+ball,2,6.3,Royal Challengers Bengaluru,S Mandhana,GM Harris,S Asha,0,0,,,,,,"",""
+ball,2,6.4,Royal Challengers Bengaluru,S Mandhana,GM Harris,S Asha,1,0,,,,,,"",""
+ball,2,6.5,Royal Challengers Bengaluru,GM Harris,S Mandhana,S Asha,4,0,,,,,,"",""
+ball,2,6.6,Royal Challengers Bengaluru,GM Harris,S Mandhana,S Asha,4,0,,,,,,"",""
+ball,2,7.1,Royal Challengers Bengaluru,S Mandhana,GM Harris,DB Sharma,4,0,,,,,,"",""
+ball,2,7.2,Royal Challengers Bengaluru,S Mandhana,GM Harris,DB Sharma,1,0,,,,,,"",""
+ball,2,7.3,Royal Challengers Bengaluru,GM Harris,S Mandhana,DB Sharma,4,0,,,,,,"",""
+ball,2,7.4,Royal Challengers Bengaluru,GM Harris,S Mandhana,DB Sharma,4,0,,,,,,"",""
+ball,2,7.5,Royal Challengers Bengaluru,GM Harris,S Mandhana,DB Sharma,1,0,,,,,,"",""
+ball,2,7.6,Royal Challengers Bengaluru,S Mandhana,GM Harris,DB Sharma,0,0,,,,,,"",""
+ball,2,8.1,Royal Challengers Bengaluru,GM Harris,S Mandhana,CL Tryon,1,0,,,,,,"",""
+ball,2,8.2,Royal Challengers Bengaluru,S Mandhana,GM Harris,CL Tryon,4,0,,,,,,"",""
+ball,2,8.3,Royal Challengers Bengaluru,S Mandhana,GM Harris,CL Tryon,4,0,,,,,,"",""
+ball,2,8.4,Royal Challengers Bengaluru,S Mandhana,GM Harris,CL Tryon,4,0,,,,,,"",""
+ball,2,8.5,Royal Challengers Bengaluru,S Mandhana,GM Harris,CL Tryon,1,0,,,,,,"",""
+ball,2,8.6,Royal Challengers Bengaluru,GM Harris,S Mandhana,CL Tryon,1,0,,,,,,"",""
+ball,2,9.1,Royal Challengers Bengaluru,GM Harris,S Mandhana,S Pandey,0,0,,,,,,bowled,GM Harris
+ball,2,9.2,Royal Challengers Bengaluru,G Voll,S Mandhana,S Pandey,0,0,,,,,,"",""
+ball,2,9.3,Royal Challengers Bengaluru,G Voll,S Mandhana,S Pandey,1,0,,,,,,"",""
+ball,2,9.4,Royal Challengers Bengaluru,S Mandhana,G Voll,S Pandey,4,0,,,,,,"",""
+ball,2,9.5,Royal Challengers Bengaluru,S Mandhana,G Voll,S Pandey,1,0,,,,,,"",""
+ball,2,9.6,Royal Challengers Bengaluru,G Voll,S Mandhana,S Pandey,1,0,,,,,,"",""
+ball,2,10.1,Royal Challengers Bengaluru,G Voll,S Mandhana,S Ecclestone,0,0,,,,,,"",""
+ball,2,10.2,Royal Challengers Bengaluru,G Voll,S Mandhana,S Ecclestone,0,0,,,,,,"",""
+ball,2,10.3,Royal Challengers Bengaluru,G Voll,S Mandhana,S Ecclestone,0,0,,,,,,"",""
+ball,2,10.4,Royal Challengers Bengaluru,G Voll,S Mandhana,S Ecclestone,0,0,,,,,,"",""
+ball,2,10.5,Royal Challengers Bengaluru,G Voll,S Mandhana,S Ecclestone,4,0,,,,,,"",""
+ball,2,10.6,Royal Challengers Bengaluru,G Voll,S Mandhana,S Ecclestone,1,0,,,,,,"",""
+ball,2,11.1,Royal Challengers Bengaluru,G Voll,S Mandhana,S Pandey,2,0,,,,,,"",""
+ball,2,11.2,Royal Challengers Bengaluru,G Voll,S Mandhana,S Pandey,4,0,,,,,,"",""
+ball,2,11.3,Royal Challengers Bengaluru,G Voll,S Mandhana,S Pandey,1,0,,,,,,"",""
+ball,2,11.4,Royal Challengers Bengaluru,S Mandhana,G Voll,S Pandey,6,0,,,,,,"",""
+ball,2,11.5,Royal Challengers Bengaluru,S Mandhana,G Voll,S Pandey,1,0,,,,,,"",""
+ball,2,11.6,Royal Challengers Bengaluru,G Voll,S Mandhana,S Pandey,1,0,,,,,,"",""
+ball,2,12.1,Royal Challengers Bengaluru,G Voll,S Mandhana,S Asha,1,0,,,,,,"",""
+ball,2,12.2,Royal Challengers Bengaluru,S Mandhana,G Voll,S Asha,6,0,,,,,,"",""
+ball,2,12.3,Royal Challengers Bengaluru,S Mandhana,G Voll,S Asha,0,0,,,,,,"",""
+ball,2,12.4,Royal Challengers Bengaluru,S Mandhana,G Voll,S Asha,0,0,,,,,,"",""
+ball,2,12.5,Royal Challengers Bengaluru,S Mandhana,G Voll,S Asha,1,0,,,,,,"",""
+ball,2,12.6,Royal Challengers Bengaluru,G Voll,S Mandhana,S Asha,0,0,,,,,,caught,G Voll
+ball,2,13.1,Royal Challengers Bengaluru,S Mandhana,RM Ghosh,DB Sharma,4,0,,,,,,"",""

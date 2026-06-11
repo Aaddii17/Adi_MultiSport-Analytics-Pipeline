@@ -1,0 +1,233 @@
+version,1.6.0
+info,balls_per_over,6
+info,team,Adelaide Strikers
+info,team,Sydney Thunder
+info,gender,male
+info,season,2020/21
+info,date,2021/01/25
+info,event,Big Bash League
+info,match_number,53
+info,venue,Adelaide Oval
+info,city,Adelaide
+info,toss_winner,Sydney Thunder
+info,toss_decision,field
+info,player_of_match,AD Hales
+info,umpire,GA Abood
+info,umpire,GJ Davidson
+info,reserve_umpire,MV Waldron
+info,tv_umpire,SA Lightbody
+info,match_referee,SJ Davis
+info,winner,Sydney Thunder
+info,winner_wickets,9
+info,player,Adelaide Strikers,AT Carey
+info,player,Adelaide Strikers,J Weatherald
+info,player,Adelaide Strikers,PD Salt
+info,player,Adelaide Strikers,TM Head
+info,player,Adelaide Strikers,JW Wells
+info,player,Adelaide Strikers,RJ Gibson
+info,player,Adelaide Strikers,MG Neser
+info,player,Adelaide Strikers,DJ Worrall
+info,player,Adelaide Strikers,WA Agar
+info,player,Adelaide Strikers,LN O'Connor
+info,player,Adelaide Strikers,PM Siddle
+info,player,Sydney Thunder,UT Khawaja
+info,player,Sydney Thunder,AD Hales
+info,player,Sydney Thunder,CJ Ferguson
+info,player,Sydney Thunder,SW Billings
+info,player,Sydney Thunder,AI Ross
+info,player,Sydney Thunder,BCJ Cutting
+info,player,Sydney Thunder,N McAndrew
+info,player,Sydney Thunder,CJ Green
+info,player,Sydney Thunder,AF Milne
+info,player,Sydney Thunder,B Doggett
+info,player,Sydney Thunder,T Sangha
+info,registry,people,AD Hales,92aeac25
+info,registry,people,AF Milne,350bb1b1
+info,registry,people,AI Ross,fb0d68b4
+info,registry,people,AT Carey,69d03465
+info,registry,people,B Doggett,898e628d
+info,registry,people,BCJ Cutting,2e11c706
+info,registry,people,CJ Ferguson,9b4935c8
+info,registry,people,CJ Green,19b9f399
+info,registry,people,DJ Worrall,208f22ea
+info,registry,people,GA Abood,a4af5528
+info,registry,people,GJ Davidson,31ad5973
+info,registry,people,J Weatherald,edc7ddb6
+info,registry,people,JW Wells,8bdac857
+info,registry,people,LN O'Connor,5456bd0c
+info,registry,people,MG Neser,0164b064
+info,registry,people,MV Waldron,2e4f11e9
+info,registry,people,N McAndrew,38c276e1
+info,registry,people,PD Salt,3d284ca3
+info,registry,people,PM Siddle,bd93fea4
+info,registry,people,RJ Gibson,50636767
+info,registry,people,SA Lightbody,680b8cbf
+info,registry,people,SJ Davis,bc71b0b2
+info,registry,people,SW Billings,c16d4035
+info,registry,people,T Sangha,52c952d9
+info,registry,people,TM Head,12b610c2
+info,registry,people,UT Khawaja,331ea488
+info,registry,people,WA Agar,15de1f5d
+ball,1,0.1,Adelaide Strikers,AT Carey,J Weatherald,AF Milne,0,0,,,,,,"",""
+ball,1,0.2,Adelaide Strikers,AT Carey,J Weatherald,AF Milne,1,0,,,,,,"",""
+ball,1,0.3,Adelaide Strikers,J Weatherald,AT Carey,AF Milne,0,0,,,,,,"",""
+ball,1,0.4,Adelaide Strikers,J Weatherald,AT Carey,AF Milne,0,0,,,,,,"",""
+ball,1,0.5,Adelaide Strikers,J Weatherald,AT Carey,AF Milne,0,1,,,,1,,"",""
+ball,1,0.6,Adelaide Strikers,AT Carey,J Weatherald,AF Milne,0,0,,,,,,"",""
+ball,1,1.1,Adelaide Strikers,J Weatherald,AT Carey,B Doggett,4,0,,,,,,"",""
+ball,1,1.2,Adelaide Strikers,J Weatherald,AT Carey,B Doggett,0,0,,,,,,"",""
+ball,1,1.3,Adelaide Strikers,J Weatherald,AT Carey,B Doggett,0,0,,,,,,"",""
+ball,1,1.4,Adelaide Strikers,J Weatherald,AT Carey,B Doggett,1,0,,,,,,"",""
+ball,1,1.5,Adelaide Strikers,AT Carey,J Weatherald,B Doggett,0,0,,,,,,"",""
+ball,1,1.6,Adelaide Strikers,AT Carey,J Weatherald,B Doggett,1,0,,,,,,"",""
+ball,1,2.1,Adelaide Strikers,AT Carey,J Weatherald,N McAndrew,0,0,,,,,,"",""
+ball,1,2.2,Adelaide Strikers,AT Carey,J Weatherald,N McAndrew,0,0,,,,,,caught,AT Carey
+ball,1,2.3,Adelaide Strikers,J Weatherald,PD Salt,N McAndrew,2,0,,,,,,"",""
+ball,1,2.4,Adelaide Strikers,J Weatherald,PD Salt,N McAndrew,0,0,,,,,,"",""
+ball,1,2.5,Adelaide Strikers,J Weatherald,PD Salt,N McAndrew,4,0,,,,,,"",""
+ball,1,2.6,Adelaide Strikers,J Weatherald,PD Salt,N McAndrew,1,0,,,,,,"",""
+ball,1,3.1,Adelaide Strikers,J Weatherald,PD Salt,BCJ Cutting,1,0,,,,,,"",""
+ball,1,3.2,Adelaide Strikers,PD Salt,J Weatherald,BCJ Cutting,1,0,,,,,,"",""
+ball,1,3.3,Adelaide Strikers,J Weatherald,PD Salt,BCJ Cutting,2,0,,,,,,"",""
+ball,1,3.4,Adelaide Strikers,J Weatherald,PD Salt,BCJ Cutting,0,0,,,,,,"",""
+ball,1,3.5,Adelaide Strikers,J Weatherald,PD Salt,BCJ Cutting,4,0,,,,,,"",""
+ball,1,3.6,Adelaide Strikers,J Weatherald,PD Salt,BCJ Cutting,1,0,,,,,,"",""
+ball,1,4.1,Adelaide Strikers,J Weatherald,PD Salt,T Sangha,0,0,,,,,,"",""
+ball,1,4.2,Adelaide Strikers,J Weatherald,PD Salt,T Sangha,1,0,,,,,,"",""
+ball,1,4.3,Adelaide Strikers,PD Salt,J Weatherald,T Sangha,0,0,,,,,,caught,PD Salt
+ball,1,4.4,Adelaide Strikers,J Weatherald,TM Head,T Sangha,1,0,,,,,,"",""
+ball,1,4.5,Adelaide Strikers,TM Head,J Weatherald,T Sangha,0,0,,,,,,"",""
+ball,1,4.6,Adelaide Strikers,TM Head,J Weatherald,T Sangha,1,0,,,,,,"",""
+ball,1,5.1,Adelaide Strikers,TM Head,J Weatherald,B Doggett,0,0,,,,,,"",""
+ball,1,5.2,Adelaide Strikers,TM Head,J Weatherald,B Doggett,0,0,,,,,,"",""
+ball,1,5.3,Adelaide Strikers,TM Head,J Weatherald,B Doggett,0,0,,,,,,"",""
+ball,1,5.4,Adelaide Strikers,TM Head,J Weatherald,B Doggett,1,0,,,,,,"",""
+ball,1,5.5,Adelaide Strikers,J Weatherald,TM Head,B Doggett,4,0,,,,,,"",""
+ball,1,5.6,Adelaide Strikers,J Weatherald,TM Head,B Doggett,1,0,,,,,,"",""
+ball,1,6.1,Adelaide Strikers,J Weatherald,TM Head,CJ Green,0,0,,,,,,"",""
+ball,1,6.2,Adelaide Strikers,J Weatherald,TM Head,CJ Green,0,1,1,,,,,"",""
+ball,1,6.3,Adelaide Strikers,J Weatherald,TM Head,CJ Green,1,0,,,,,,"",""
+ball,1,6.4,Adelaide Strikers,TM Head,J Weatherald,CJ Green,0,0,,,,,,caught,TM Head
+ball,1,6.5,Adelaide Strikers,JW Wells,J Weatherald,CJ Green,1,0,,,,,,"",""
+ball,1,6.6,Adelaide Strikers,J Weatherald,JW Wells,CJ Green,1,0,,,,,,"",""
+ball,1,6.7,Adelaide Strikers,JW Wells,J Weatherald,CJ Green,0,0,,,,,,"",""
+ball,1,7.1,Adelaide Strikers,J Weatherald,JW Wells,N McAndrew,1,0,,,,,,"",""
+ball,1,7.2,Adelaide Strikers,JW Wells,J Weatherald,N McAndrew,0,0,,,,,,"",""
+ball,1,7.3,Adelaide Strikers,JW Wells,J Weatherald,N McAndrew,0,1,,,,1,,"",""
+ball,1,7.4,Adelaide Strikers,J Weatherald,JW Wells,N McAndrew,0,0,,,,,,"",""
+ball,1,7.5,Adelaide Strikers,J Weatherald,JW Wells,N McAndrew,0,0,,,,,,"",""
+ball,1,7.6,Adelaide Strikers,J Weatherald,JW Wells,N McAndrew,0,0,,,,,,"",""
+ball,1,8.1,Adelaide Strikers,JW Wells,J Weatherald,T Sangha,4,0,,,,,,"",""
+ball,1,8.2,Adelaide Strikers,JW Wells,J Weatherald,T Sangha,1,0,,,,,,"",""
+ball,1,8.3,Adelaide Strikers,J Weatherald,JW Wells,T Sangha,4,0,,,,,,"",""
+ball,1,8.4,Adelaide Strikers,J Weatherald,JW Wells,T Sangha,1,0,,,,,,"",""
+ball,1,8.5,Adelaide Strikers,JW Wells,J Weatherald,T Sangha,1,0,,,,,,"",""
+ball,1,8.6,Adelaide Strikers,J Weatherald,JW Wells,T Sangha,6,0,,,,,,"",""
+ball,1,9.1,Adelaide Strikers,JW Wells,J Weatherald,BCJ Cutting,1,0,,,,,,"",""
+ball,1,9.2,Adelaide Strikers,J Weatherald,JW Wells,BCJ Cutting,1,0,,,,,,"",""
+ball,1,9.3,Adelaide Strikers,JW Wells,J Weatherald,BCJ Cutting,0,1,1,,,,,"",""
+ball,1,9.4,Adelaide Strikers,JW Wells,J Weatherald,BCJ Cutting,0,0,,,,,,"",""
+ball,1,9.5,Adelaide Strikers,JW Wells,J Weatherald,BCJ Cutting,1,0,,,,,,"",""
+ball,1,9.6,Adelaide Strikers,J Weatherald,JW Wells,BCJ Cutting,0,1,1,,,,,"",""
+ball,1,9.7,Adelaide Strikers,J Weatherald,JW Wells,BCJ Cutting,2,0,,,,,,"",""
+ball,1,9.8,Adelaide Strikers,J Weatherald,JW Wells,BCJ Cutting,0,0,,,,,,"",""
+ball,1,10.1,Adelaide Strikers,JW Wells,J Weatherald,AF Milne,4,0,,,,,,"",""
+ball,1,10.2,Adelaide Strikers,JW Wells,J Weatherald,AF Milne,4,0,,,,,,"",""
+ball,1,10.3,Adelaide Strikers,JW Wells,J Weatherald,AF Milne,1,0,,,,,,"",""
+ball,1,10.4,Adelaide Strikers,J Weatherald,JW Wells,AF Milne,0,1,1,,,,,"",""
+ball,1,10.5,Adelaide Strikers,J Weatherald,JW Wells,AF Milne,4,0,,,,,,"",""
+ball,1,10.6,Adelaide Strikers,J Weatherald,JW Wells,AF Milne,4,0,,,,,,"",""
+ball,1,10.7,Adelaide Strikers,J Weatherald,JW Wells,AF Milne,0,0,,,,,,"",""
+ball,1,11.1,Adelaide Strikers,JW Wells,J Weatherald,CJ Green,0,0,,,,,,"",""
+ball,1,11.2,Adelaide Strikers,JW Wells,J Weatherald,CJ Green,1,0,,,,,,"",""
+ball,1,11.3,Adelaide Strikers,J Weatherald,JW Wells,CJ Green,6,0,,,,,,"",""
+ball,1,11.4,Adelaide Strikers,J Weatherald,JW Wells,CJ Green,1,0,,,,,,"",""
+ball,1,11.5,Adelaide Strikers,JW Wells,J Weatherald,CJ Green,1,0,,,,,,"",""
+ball,1,11.6,Adelaide Strikers,J Weatherald,JW Wells,CJ Green,6,0,,,,,,"",""
+ball,1,12.1,Adelaide Strikers,JW Wells,J Weatherald,B Doggett,1,0,,,,,,"",""
+ball,1,12.2,Adelaide Strikers,J Weatherald,JW Wells,B Doggett,1,0,,,,,,"",""
+ball,1,12.3,Adelaide Strikers,JW Wells,J Weatherald,B Doggett,0,0,,,,,,lbw,JW Wells
+ball,1,12.4,Adelaide Strikers,RJ Gibson,J Weatherald,B Doggett,1,0,,,,,,"",""
+ball,1,12.5,Adelaide Strikers,J Weatherald,RJ Gibson,B Doggett,0,0,,,,,,"",""
+ball,1,12.6,Adelaide Strikers,J Weatherald,RJ Gibson,B Doggett,4,0,,,,,,"",""
+ball,1,13.1,Adelaide Strikers,RJ Gibson,J Weatherald,AF Milne,1,0,,,,,,"",""
+ball,1,13.2,Adelaide Strikers,J Weatherald,RJ Gibson,AF Milne,6,0,,,,,,"",""
+ball,1,13.3,Adelaide Strikers,J Weatherald,RJ Gibson,AF Milne,1,0,,,,,,"",""
+ball,1,13.4,Adelaide Strikers,RJ Gibson,J Weatherald,AF Milne,1,0,,,,,,"",""
+ball,1,13.5,Adelaide Strikers,J Weatherald,RJ Gibson,AF Milne,2,0,,,,,,"",""
+ball,1,13.6,Adelaide Strikers,J Weatherald,RJ Gibson,AF Milne,1,0,,,,,,"",""
+ball,2,0.1,Sydney Thunder,UT Khawaja,AD Hales,DJ Worrall,0,0,,,,,,bowled,UT Khawaja
+ball,2,0.2,Sydney Thunder,CJ Ferguson,AD Hales,DJ Worrall,0,0,,,,,,"",""
+ball,2,0.3,Sydney Thunder,CJ Ferguson,AD Hales,DJ Worrall,0,0,,,,,,"",""
+ball,2,0.4,Sydney Thunder,CJ Ferguson,AD Hales,DJ Worrall,1,0,,,,,,"",""
+ball,2,0.5,Sydney Thunder,AD Hales,CJ Ferguson,DJ Worrall,0,0,,,,,,"",""
+ball,2,0.6,Sydney Thunder,AD Hales,CJ Ferguson,DJ Worrall,0,0,,,,,,"",""
+ball,2,1.1,Sydney Thunder,CJ Ferguson,AD Hales,MG Neser,4,0,,,,,,"",""
+ball,2,1.2,Sydney Thunder,CJ Ferguson,AD Hales,MG Neser,0,0,,,,,,"",""
+ball,2,1.3,Sydney Thunder,CJ Ferguson,AD Hales,MG Neser,1,0,,,,,,"",""
+ball,2,1.4,Sydney Thunder,AD Hales,CJ Ferguson,MG Neser,3,0,,,,,,"",""
+ball,2,1.5,Sydney Thunder,CJ Ferguson,AD Hales,MG Neser,0,0,,,,,,"",""
+ball,2,1.6,Sydney Thunder,CJ Ferguson,AD Hales,MG Neser,1,0,,,,,,"",""
+ball,2,2.1,Sydney Thunder,CJ Ferguson,AD Hales,PM Siddle,1,0,,,,,,"",""
+ball,2,2.2,Sydney Thunder,AD Hales,CJ Ferguson,PM Siddle,0,0,,,,,,"",""
+ball,2,2.3,Sydney Thunder,AD Hales,CJ Ferguson,PM Siddle,6,0,,,,,,"",""
+ball,2,2.4,Sydney Thunder,AD Hales,CJ Ferguson,PM Siddle,1,0,,,,,,"",""
+ball,2,2.5,Sydney Thunder,CJ Ferguson,AD Hales,PM Siddle,0,0,,,,,,"",""
+ball,2,2.6,Sydney Thunder,CJ Ferguson,AD Hales,PM Siddle,0,0,,,,,,"",""
+ball,2,3.1,Sydney Thunder,AD Hales,CJ Ferguson,DJ Worrall,2,0,,,,,,"",""
+ball,2,3.2,Sydney Thunder,AD Hales,CJ Ferguson,DJ Worrall,4,0,,,,,,"",""
+ball,2,3.3,Sydney Thunder,AD Hales,CJ Ferguson,DJ Worrall,0,0,,,,,,"",""
+ball,2,3.4,Sydney Thunder,AD Hales,CJ Ferguson,DJ Worrall,1,0,,,,,,"",""
+ball,2,3.5,Sydney Thunder,CJ Ferguson,AD Hales,DJ Worrall,4,0,,,,,,"",""
+ball,2,3.6,Sydney Thunder,CJ Ferguson,AD Hales,DJ Worrall,2,0,,,,,,"",""
+ball,2,4.1,Sydney Thunder,AD Hales,CJ Ferguson,WA Agar,4,0,,,,,,"",""
+ball,2,4.2,Sydney Thunder,AD Hales,CJ Ferguson,WA Agar,4,0,,,,,,"",""
+ball,2,4.3,Sydney Thunder,AD Hales,CJ Ferguson,WA Agar,1,0,,,,,,"",""
+ball,2,4.4,Sydney Thunder,CJ Ferguson,AD Hales,WA Agar,1,0,,,,,,"",""
+ball,2,4.5,Sydney Thunder,AD Hales,CJ Ferguson,WA Agar,1,0,,,,,,"",""
+ball,2,4.6,Sydney Thunder,CJ Ferguson,AD Hales,WA Agar,1,0,,,,,,"",""
+ball,2,5.1,Sydney Thunder,CJ Ferguson,AD Hales,LN O'Connor,4,0,,,,,,"",""
+ball,2,5.2,Sydney Thunder,CJ Ferguson,AD Hales,LN O'Connor,1,0,,,,,,"",""
+ball,2,5.3,Sydney Thunder,AD Hales,CJ Ferguson,LN O'Connor,1,0,,,,,,"",""
+ball,2,5.4,Sydney Thunder,CJ Ferguson,AD Hales,LN O'Connor,2,0,,,,,,"",""
+ball,2,5.5,Sydney Thunder,CJ Ferguson,AD Hales,LN O'Connor,1,0,,,,,,"",""
+ball,2,5.6,Sydney Thunder,AD Hales,CJ Ferguson,LN O'Connor,0,0,,,,,,"",""
+ball,2,6.1,Sydney Thunder,CJ Ferguson,AD Hales,MG Neser,1,0,,,,,,"",""
+ball,2,6.2,Sydney Thunder,AD Hales,CJ Ferguson,MG Neser,0,0,,,,,,"",""
+ball,2,6.3,Sydney Thunder,AD Hales,CJ Ferguson,MG Neser,6,0,,,,,,"",""
+ball,2,6.4,Sydney Thunder,AD Hales,CJ Ferguson,MG Neser,0,0,,,,,,"",""
+ball,2,6.5,Sydney Thunder,AD Hales,CJ Ferguson,MG Neser,1,0,,,,,,"",""
+ball,2,6.6,Sydney Thunder,CJ Ferguson,AD Hales,MG Neser,4,0,,,,,,"",""
+ball,2,7.1,Sydney Thunder,AD Hales,CJ Ferguson,TM Head,2,0,,,,,,"",""
+ball,2,7.2,Sydney Thunder,AD Hales,CJ Ferguson,TM Head,1,0,,,,,,"",""
+ball,2,7.3,Sydney Thunder,CJ Ferguson,AD Hales,TM Head,2,0,,,,,,"",""
+ball,2,7.4,Sydney Thunder,CJ Ferguson,AD Hales,TM Head,1,0,,,,,,"",""
+ball,2,7.5,Sydney Thunder,AD Hales,CJ Ferguson,TM Head,0,0,,,,,,"",""
+ball,2,7.6,Sydney Thunder,AD Hales,CJ Ferguson,TM Head,2,0,,,,,,"",""
+ball,2,8.1,Sydney Thunder,CJ Ferguson,AD Hales,WA Agar,0,0,,,,,,"",""
+ball,2,8.2,Sydney Thunder,CJ Ferguson,AD Hales,WA Agar,0,5,5,,,,,"",""
+ball,2,8.3,Sydney Thunder,CJ Ferguson,AD Hales,WA Agar,1,0,,,,,,"",""
+ball,2,8.4,Sydney Thunder,AD Hales,CJ Ferguson,WA Agar,1,0,,,,,,"",""
+ball,2,8.5,Sydney Thunder,CJ Ferguson,AD Hales,WA Agar,0,0,,,,,,"",""
+ball,2,8.6,Sydney Thunder,CJ Ferguson,AD Hales,WA Agar,1,0,,,,,,"",""
+ball,2,8.7,Sydney Thunder,AD Hales,CJ Ferguson,WA Agar,1,0,,,,,,"",""
+ball,2,9.1,Sydney Thunder,AD Hales,CJ Ferguson,LN O'Connor,0,0,,,,,,"",""
+ball,2,9.2,Sydney Thunder,AD Hales,CJ Ferguson,LN O'Connor,1,0,,,,,,"",""
+ball,2,9.3,Sydney Thunder,CJ Ferguson,AD Hales,LN O'Connor,1,0,,,,,,"",""
+ball,2,9.4,Sydney Thunder,AD Hales,CJ Ferguson,LN O'Connor,0,0,,,,,,"",""
+ball,2,9.5,Sydney Thunder,AD Hales,CJ Ferguson,LN O'Connor,6,0,,,,,,"",""
+ball,2,9.6,Sydney Thunder,AD Hales,CJ Ferguson,LN O'Connor,1,0,,,,,,"",""
+ball,2,10.1,Sydney Thunder,AD Hales,CJ Ferguson,PM Siddle,6,0,,,,,,"",""
+ball,2,10.2,Sydney Thunder,AD Hales,CJ Ferguson,PM Siddle,0,0,,,,,,"",""
+ball,2,10.3,Sydney Thunder,AD Hales,CJ Ferguson,PM Siddle,0,1,,,,1,,"",""
+ball,2,10.4,Sydney Thunder,CJ Ferguson,AD Hales,PM Siddle,4,0,,,,,,"",""
+ball,2,10.5,Sydney Thunder,CJ Ferguson,AD Hales,PM Siddle,1,0,,,,,,"",""
+ball,2,10.6,Sydney Thunder,AD Hales,CJ Ferguson,PM Siddle,0,0,,,,,,"",""
+ball,2,11.1,Sydney Thunder,CJ Ferguson,AD Hales,DJ Worrall,1,0,,,,,,"",""
+ball,2,11.2,Sydney Thunder,AD Hales,CJ Ferguson,DJ Worrall,2,0,,,,,,"",""
+ball,2,11.3,Sydney Thunder,AD Hales,CJ Ferguson,DJ Worrall,1,0,,,,,,"",""
+ball,2,11.4,Sydney Thunder,CJ Ferguson,AD Hales,DJ Worrall,0,1,1,,,,,"",""
+ball,2,11.5,Sydney Thunder,CJ Ferguson,AD Hales,DJ Worrall,1,0,,,,,,"",""
+ball,2,11.6,Sydney Thunder,AD Hales,CJ Ferguson,DJ Worrall,0,0,,,,,,"",""
+ball,2,11.7,Sydney Thunder,AD Hales,CJ Ferguson,DJ Worrall,4,0,,,,,,"",""
+ball,2,12.1,Sydney Thunder,CJ Ferguson,AD Hales,PM Siddle,4,0,,,,,,"",""

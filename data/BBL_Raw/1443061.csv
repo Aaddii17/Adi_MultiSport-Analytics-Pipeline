@@ -1,0 +1,207 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Hobart Hurricanes
+info,team,Melbourne Renegades
+info,gender,male
+info,season,2024/25
+info,date,2024/12/19
+info,event,Big Bash League
+info,match_number,5
+info,venue,"GMHBA Stadium, South Geelong, Victoria"
+info,city,Geelong
+info,toss_winner,Melbourne Renegades
+info,toss_decision,field
+info,player_of_match,TS Rogers
+info,umpire,CA Polosak
+info,umpire,PJ Gillespie
+info,reserve_umpire,C Grant
+info,tv_umpire,SAJ Craig
+info,match_referee,Kent Hannam
+info,winner,Melbourne Renegades
+info,winner_wickets,6
+info,player,Hobart Hurricanes,MS Wade
+info,player,Hobart Hurricanes,MJ Owen
+info,player,Hobart Hurricanes,SD Hope
+info,player,Hobart Hurricanes,BR McDermott
+info,player,Hobart Hurricanes,Nikhil Chaudhary
+info,player,Hobart Hurricanes,TH David
+info,player,Hobart Hurricanes,CJ Jordan
+info,player,Hobart Hurricanes,NT Ellis
+info,player,Hobart Hurricanes,RP Meredith
+info,player,Hobart Hurricanes,B Stanlake
+info,player,Hobart Hurricanes,Waqar Salamkheil
+info,player,Melbourne Renegades,J Fraser-McGurk
+info,player,Melbourne Renegades,J Brown
+info,player,Melbourne Renegades,TL Seifert
+info,player,Melbourne Renegades,JG Bethell
+info,player,Melbourne Renegades,LJ Evans
+info,player,Melbourne Renegades,MW Harvey
+info,player,Melbourne Renegades,W Sutherland
+info,player,Melbourne Renegades,F O'Neill
+info,player,Melbourne Renegades,TS Rogers
+info,player,Melbourne Renegades,A Zampa
+info,player,Melbourne Renegades,KW Richardson
+info,registry,people,A Zampa,14f96089
+info,registry,people,B Stanlake,6834d1f2
+info,registry,people,BR McDermott,c41043e6
+info,registry,people,C Grant,876ed858
+info,registry,people,CA Polosak,26a360d2
+info,registry,people,CJ Jordan,ffe699c0
+info,registry,people,F O'Neill,39d608d4
+info,registry,people,J Brown,647e7d44
+info,registry,people,J Fraser-McGurk,9b6e1b3f
+info,registry,people,JG Bethell,3c55c703
+info,registry,people,KW Richardson,dfc4d8b5
+info,registry,people,Kent Hannam,8cc171e7
+info,registry,people,LJ Evans,1c513d54
+info,registry,people,MJ Owen,f2c936d7
+info,registry,people,MS Wade,afa7e784
+info,registry,people,MW Harvey,47dc9794
+info,registry,people,NT Ellis,9eb1455b
+info,registry,people,Nikhil Chaudhary,1f84183a
+info,registry,people,PJ Gillespie,3e253a50
+info,registry,people,RP Meredith,64775749
+info,registry,people,SAJ Craig,689f2eed
+info,registry,people,SD Hope,1fc6ef83
+info,registry,people,TH David,f1f99156
+info,registry,people,TL Seifert,4663bd23
+info,registry,people,TS Rogers,1b04e02b
+info,registry,people,W Sutherland,bc2d4f2e
+info,registry,people,Waqar Salamkheil,3f1066d0
+ball,1,0.1,Hobart Hurricanes,MS Wade,MJ Owen,F O'Neill,0,0,,,,,,"",""
+ball,1,0.2,Hobart Hurricanes,MS Wade,MJ Owen,F O'Neill,0,0,,,,,,"",""
+ball,1,0.3,Hobart Hurricanes,MS Wade,MJ Owen,F O'Neill,1,0,,,,,,"",""
+ball,1,0.4,Hobart Hurricanes,MJ Owen,MS Wade,F O'Neill,0,0,,,,,,"",""
+ball,1,0.5,Hobart Hurricanes,MJ Owen,MS Wade,F O'Neill,1,0,,,,,,"",""
+ball,1,0.6,Hobart Hurricanes,MS Wade,MJ Owen,F O'Neill,4,0,,,,,,"",""
+ball,1,1.1,Hobart Hurricanes,MJ Owen,MS Wade,TS Rogers,4,0,,,,,,"",""
+ball,1,1.2,Hobart Hurricanes,MJ Owen,MS Wade,TS Rogers,4,0,,,,,,"",""
+ball,1,1.3,Hobart Hurricanes,MJ Owen,MS Wade,TS Rogers,0,1,,,,1,,"",""
+ball,1,1.4,Hobart Hurricanes,MS Wade,MJ Owen,TS Rogers,0,0,,,,,,caught,MS Wade
+ball,1,1.5,Hobart Hurricanes,SD Hope,MJ Owen,TS Rogers,0,0,,,,,,"",""
+ball,1,1.6,Hobart Hurricanes,SD Hope,MJ Owen,TS Rogers,0,1,1,,,,,"",""
+ball,1,1.7,Hobart Hurricanes,SD Hope,MJ Owen,TS Rogers,1,0,,,,,,"",""
+ball,1,2.1,Hobart Hurricanes,SD Hope,MJ Owen,KW Richardson,2,0,,,,,,"",""
+ball,1,2.2,Hobart Hurricanes,SD Hope,MJ Owen,KW Richardson,0,0,,,,,,"",""
+ball,1,2.3,Hobart Hurricanes,SD Hope,MJ Owen,KW Richardson,0,0,,,,,,"",""
+ball,1,2.4,Hobart Hurricanes,SD Hope,MJ Owen,KW Richardson,0,0,,,,,,"",""
+ball,1,2.5,Hobart Hurricanes,SD Hope,MJ Owen,KW Richardson,1,0,,,,,,"",""
+ball,1,2.6,Hobart Hurricanes,MJ Owen,SD Hope,KW Richardson,1,0,,,,,,"",""
+ball,1,3.1,Hobart Hurricanes,MJ Owen,SD Hope,TS Rogers,0,0,,,,,,caught,MJ Owen
+ball,1,3.2,Hobart Hurricanes,BR McDermott,SD Hope,TS Rogers,0,0,,,,,,caught,BR McDermott
+ball,1,3.3,Hobart Hurricanes,Nikhil Chaudhary,SD Hope,TS Rogers,0,0,,,,,,"",""
+ball,1,3.4,Hobart Hurricanes,Nikhil Chaudhary,SD Hope,TS Rogers,1,0,,,,,,"",""
+ball,1,3.5,Hobart Hurricanes,SD Hope,Nikhil Chaudhary,TS Rogers,0,1,1,,,,,"",""
+ball,1,3.6,Hobart Hurricanes,SD Hope,Nikhil Chaudhary,TS Rogers,0,0,,,,,,"",""
+ball,1,3.7,Hobart Hurricanes,SD Hope,Nikhil Chaudhary,TS Rogers,6,0,,,,,,"",""
+ball,1,4.1,Hobart Hurricanes,Nikhil Chaudhary,SD Hope,F O'Neill,1,0,,,,,,"",""
+ball,1,4.2,Hobart Hurricanes,SD Hope,Nikhil Chaudhary,F O'Neill,1,0,,,,,,"",""
+ball,1,4.3,Hobart Hurricanes,Nikhil Chaudhary,SD Hope,F O'Neill,0,0,,,,,,caught,Nikhil Chaudhary
+ball,1,4.4,Hobart Hurricanes,TH David,SD Hope,F O'Neill,0,1,1,,,,,"",""
+ball,1,4.5,Hobart Hurricanes,TH David,SD Hope,F O'Neill,0,0,,,,,,"",""
+ball,1,4.6,Hobart Hurricanes,TH David,SD Hope,F O'Neill,0,0,,,,,,caught,TH David
+ball,1,4.7,Hobart Hurricanes,CJ Jordan,SD Hope,F O'Neill,0,0,,,,,,caught,CJ Jordan
+ball,1,5.1,Hobart Hurricanes,SD Hope,NT Ellis,W Sutherland,1,0,,,,,,"",""
+ball,1,5.2,Hobart Hurricanes,NT Ellis,SD Hope,W Sutherland,0,0,,,,,,"",""
+ball,1,5.3,Hobart Hurricanes,NT Ellis,SD Hope,W Sutherland,0,0,,,,,,"",""
+ball,1,5.4,Hobart Hurricanes,NT Ellis,SD Hope,W Sutherland,0,0,,,,,,"",""
+ball,1,5.5,Hobart Hurricanes,NT Ellis,SD Hope,W Sutherland,0,0,,,,,,"",""
+ball,1,5.6,Hobart Hurricanes,NT Ellis,SD Hope,W Sutherland,0,0,,,,,,"",""
+ball,1,6.1,Hobart Hurricanes,SD Hope,NT Ellis,F O'Neill,1,0,,,,,,"",""
+ball,1,6.2,Hobart Hurricanes,NT Ellis,SD Hope,F O'Neill,0,0,,,,,,"",""
+ball,1,6.3,Hobart Hurricanes,NT Ellis,SD Hope,F O'Neill,4,0,,,,,,"",""
+ball,1,6.4,Hobart Hurricanes,NT Ellis,SD Hope,F O'Neill,0,0,,,,,,"",""
+ball,1,6.5,Hobart Hurricanes,NT Ellis,SD Hope,F O'Neill,2,0,,,,,,"",""
+ball,1,6.6,Hobart Hurricanes,NT Ellis,SD Hope,F O'Neill,0,0,,,,,,"",""
+ball,1,7.1,Hobart Hurricanes,SD Hope,NT Ellis,W Sutherland,0,0,,,,,,"",""
+ball,1,7.2,Hobart Hurricanes,SD Hope,NT Ellis,W Sutherland,0,0,,,,,,caught,SD Hope
+ball,1,7.3,Hobart Hurricanes,RP Meredith,NT Ellis,W Sutherland,0,0,,,,,,"",""
+ball,1,7.4,Hobart Hurricanes,RP Meredith,NT Ellis,W Sutherland,0,0,,,,,,bowled,RP Meredith
+ball,1,7.5,Hobart Hurricanes,B Stanlake,NT Ellis,W Sutherland,0,0,,,,,,"",""
+ball,1,7.6,Hobart Hurricanes,B Stanlake,NT Ellis,W Sutherland,0,0,,,,,,"",""
+ball,1,8.1,Hobart Hurricanes,NT Ellis,B Stanlake,A Zampa,0,0,,,,,,"",""
+ball,1,8.2,Hobart Hurricanes,NT Ellis,B Stanlake,A Zampa,0,0,,,,,,"",""
+ball,1,8.3,Hobart Hurricanes,NT Ellis,B Stanlake,A Zampa,3,0,,,,,,"",""
+ball,1,8.4,Hobart Hurricanes,B Stanlake,NT Ellis,A Zampa,0,0,,,,,,"",""
+ball,1,8.5,Hobart Hurricanes,B Stanlake,NT Ellis,A Zampa,0,0,,,,,,"",""
+ball,1,8.6,Hobart Hurricanes,B Stanlake,NT Ellis,A Zampa,0,0,,,,,,"",""
+ball,1,9.1,Hobart Hurricanes,NT Ellis,B Stanlake,TS Rogers,6,0,,,,,,"",""
+ball,1,9.2,Hobart Hurricanes,NT Ellis,B Stanlake,TS Rogers,0,0,,,,,,"",""
+ball,1,9.3,Hobart Hurricanes,NT Ellis,B Stanlake,TS Rogers,0,0,,,,,,"",""
+ball,1,9.4,Hobart Hurricanes,NT Ellis,B Stanlake,TS Rogers,1,0,,,,,,"",""
+ball,1,9.5,Hobart Hurricanes,B Stanlake,NT Ellis,TS Rogers,0,0,,,,,,"",""
+ball,1,9.6,Hobart Hurricanes,B Stanlake,NT Ellis,TS Rogers,0,0,,,,,,"",""
+ball,1,10.1,Hobart Hurricanes,NT Ellis,B Stanlake,KW Richardson,0,0,,,,,,"",""
+ball,1,10.2,Hobart Hurricanes,NT Ellis,B Stanlake,KW Richardson,0,0,,,,,,"",""
+ball,1,10.3,Hobart Hurricanes,NT Ellis,B Stanlake,KW Richardson,2,0,,,,,,"",""
+ball,1,10.4,Hobart Hurricanes,NT Ellis,B Stanlake,KW Richardson,4,0,,,,,,"",""
+ball,1,10.5,Hobart Hurricanes,NT Ellis,B Stanlake,KW Richardson,0,0,,,,,,"",""
+ball,1,10.6,Hobart Hurricanes,NT Ellis,B Stanlake,KW Richardson,1,0,,,,,,"",""
+ball,1,11.1,Hobart Hurricanes,NT Ellis,B Stanlake,W Sutherland,0,1,,1,,,,"",""
+ball,1,11.2,Hobart Hurricanes,NT Ellis,B Stanlake,W Sutherland,4,0,,,,,,"",""
+ball,1,11.3,Hobart Hurricanes,NT Ellis,B Stanlake,W Sutherland,4,0,,,,,,"",""
+ball,1,11.4,Hobart Hurricanes,NT Ellis,B Stanlake,W Sutherland,4,0,,,,,,"",""
+ball,1,11.5,Hobart Hurricanes,NT Ellis,B Stanlake,W Sutherland,0,0,,,,,,"",""
+ball,1,11.6,Hobart Hurricanes,NT Ellis,B Stanlake,W Sutherland,0,0,,,,,,caught,NT Ellis
+ball,1,11.7,Hobart Hurricanes,Waqar Salamkheil,B Stanlake,W Sutherland,0,0,,,,,,"",""
+ball,1,12.1,Hobart Hurricanes,B Stanlake,Waqar Salamkheil,A Zampa,4,0,,,,,,"",""
+ball,1,12.2,Hobart Hurricanes,B Stanlake,Waqar Salamkheil,A Zampa,0,0,,,,,,"",""
+ball,1,12.3,Hobart Hurricanes,B Stanlake,Waqar Salamkheil,A Zampa,0,0,,,,,,"",""
+ball,1,12.4,Hobart Hurricanes,B Stanlake,Waqar Salamkheil,A Zampa,0,0,,,,,,bowled,B Stanlake
+ball,2,0.1,Melbourne Renegades,J Fraser-McGurk,J Brown,RP Meredith,4,0,,,,,,"",""
+ball,2,0.2,Melbourne Renegades,J Fraser-McGurk,J Brown,RP Meredith,0,0,,,,,,"",""
+ball,2,0.3,Melbourne Renegades,J Fraser-McGurk,J Brown,RP Meredith,1,0,,,,,,"",""
+ball,2,0.4,Melbourne Renegades,J Brown,J Fraser-McGurk,RP Meredith,0,0,,,,,,"",""
+ball,2,0.5,Melbourne Renegades,J Brown,J Fraser-McGurk,RP Meredith,4,0,,,,,,"",""
+ball,2,0.6,Melbourne Renegades,J Brown,J Fraser-McGurk,RP Meredith,0,0,,,,,,"",""
+ball,2,1.1,Melbourne Renegades,J Fraser-McGurk,J Brown,B Stanlake,0,1,1,,,,,"",""
+ball,2,1.2,Melbourne Renegades,J Fraser-McGurk,J Brown,B Stanlake,0,0,,,,,,"",""
+ball,2,1.3,Melbourne Renegades,J Fraser-McGurk,J Brown,B Stanlake,0,0,,,,,,bowled,J Fraser-McGurk
+ball,2,1.4,Melbourne Renegades,TL Seifert,J Brown,B Stanlake,1,0,,,,,,"",""
+ball,2,1.5,Melbourne Renegades,J Brown,TL Seifert,B Stanlake,0,1,1,,,,,"",""
+ball,2,1.6,Melbourne Renegades,J Brown,TL Seifert,B Stanlake,0,0,,,,,,"",""
+ball,2,1.7,Melbourne Renegades,J Brown,TL Seifert,B Stanlake,0,0,,,,,,"",""
+ball,2,1.8,Melbourne Renegades,J Brown,TL Seifert,B Stanlake,1,0,,,,,,"",""
+ball,2,2.1,Melbourne Renegades,J Brown,TL Seifert,RP Meredith,1,0,,,,,,"",""
+ball,2,2.2,Melbourne Renegades,TL Seifert,J Brown,RP Meredith,4,0,,,,,,"",""
+ball,2,2.3,Melbourne Renegades,TL Seifert,J Brown,RP Meredith,0,0,,,,,,"",""
+ball,2,2.4,Melbourne Renegades,TL Seifert,J Brown,RP Meredith,0,0,,,,,,"",""
+ball,2,2.5,Melbourne Renegades,TL Seifert,J Brown,RP Meredith,4,0,,,,,,"",""
+ball,2,2.6,Melbourne Renegades,TL Seifert,J Brown,RP Meredith,4,0,,,,,,"",""
+ball,2,3.1,Melbourne Renegades,J Brown,TL Seifert,B Stanlake,6,0,,,,,,"",""
+ball,2,3.2,Melbourne Renegades,J Brown,TL Seifert,B Stanlake,1,0,,,,,,"",""
+ball,2,3.3,Melbourne Renegades,TL Seifert,J Brown,B Stanlake,2,0,,,,,,"",""
+ball,2,3.4,Melbourne Renegades,TL Seifert,J Brown,B Stanlake,6,0,,,,,,"",""
+ball,2,3.5,Melbourne Renegades,TL Seifert,J Brown,B Stanlake,6,0,,,,,,"",""
+ball,2,3.6,Melbourne Renegades,TL Seifert,J Brown,B Stanlake,4,0,,,,,,"",""
+ball,2,4.1,Melbourne Renegades,J Brown,TL Seifert,NT Ellis,0,0,,,,,,"",""
+ball,2,4.2,Melbourne Renegades,J Brown,TL Seifert,NT Ellis,0,0,,,,,,caught,J Brown
+ball,2,4.3,Melbourne Renegades,JG Bethell,TL Seifert,NT Ellis,0,0,,,,,,"",""
+ball,2,4.4,Melbourne Renegades,JG Bethell,TL Seifert,NT Ellis,1,0,,,,,,"",""
+ball,2,4.5,Melbourne Renegades,TL Seifert,JG Bethell,NT Ellis,0,0,,,,,,"",""
+ball,2,4.6,Melbourne Renegades,TL Seifert,JG Bethell,NT Ellis,1,0,,,,,,"",""
+ball,2,5.1,Melbourne Renegades,TL Seifert,JG Bethell,CJ Jordan,1,0,,,,,,"",""
+ball,2,5.2,Melbourne Renegades,JG Bethell,TL Seifert,CJ Jordan,1,0,,,,,,"",""
+ball,2,5.3,Melbourne Renegades,TL Seifert,JG Bethell,CJ Jordan,0,1,1,,,,,"",""
+ball,2,5.4,Melbourne Renegades,TL Seifert,JG Bethell,CJ Jordan,1,0,,,,,,"",""
+ball,2,5.5,Melbourne Renegades,JG Bethell,TL Seifert,CJ Jordan,1,0,,,,,,"",""
+ball,2,5.6,Melbourne Renegades,TL Seifert,JG Bethell,CJ Jordan,0,0,,,,,,"",""
+ball,2,5.7,Melbourne Renegades,TL Seifert,JG Bethell,CJ Jordan,1,0,,,,,,"",""
+ball,2,6.1,Melbourne Renegades,TL Seifert,JG Bethell,NT Ellis,1,0,,,,,,"",""
+ball,2,6.2,Melbourne Renegades,JG Bethell,TL Seifert,NT Ellis,0,0,,,,,,"",""
+ball,2,6.3,Melbourne Renegades,JG Bethell,TL Seifert,NT Ellis,0,0,,,,,,caught,JG Bethell
+ball,2,6.4,Melbourne Renegades,LJ Evans,TL Seifert,NT Ellis,0,0,,,,,,"",""
+ball,2,6.5,Melbourne Renegades,LJ Evans,TL Seifert,NT Ellis,0,0,,,,,,"",""
+ball,2,6.6,Melbourne Renegades,LJ Evans,TL Seifert,NT Ellis,1,0,,,,,,"",""
+ball,2,7.1,Melbourne Renegades,LJ Evans,TL Seifert,RP Meredith,6,0,,,,,,"",""
+ball,2,7.2,Melbourne Renegades,LJ Evans,TL Seifert,RP Meredith,0,0,,,,,,caught,LJ Evans
+ball,2,7.3,Melbourne Renegades,MW Harvey,TL Seifert,RP Meredith,0,0,,,,,,"",""
+ball,2,7.4,Melbourne Renegades,MW Harvey,TL Seifert,RP Meredith,2,0,,,,,,"",""
+ball,2,7.5,Melbourne Renegades,MW Harvey,TL Seifert,RP Meredith,1,0,,,,,,"",""
+ball,2,7.6,Melbourne Renegades,TL Seifert,MW Harvey,RP Meredith,0,0,,,,,,"",""
+ball,2,8.1,Melbourne Renegades,MW Harvey,TL Seifert,NT Ellis,1,0,,,,,,"",""
+ball,2,8.2,Melbourne Renegades,TL Seifert,MW Harvey,NT Ellis,1,0,,,,,,"",""
+ball,2,8.3,Melbourne Renegades,MW Harvey,TL Seifert,NT Ellis,2,0,,,,,,"",""
+ball,2,8.4,Melbourne Renegades,MW Harvey,TL Seifert,NT Ellis,0,0,,,,,,"",""
+ball,2,8.5,Melbourne Renegades,MW Harvey,TL Seifert,NT Ellis,0,0,,,,,,"",""
+ball,2,8.6,Melbourne Renegades,MW Harvey,TL Seifert,NT Ellis,4,0,,,,,,"",""

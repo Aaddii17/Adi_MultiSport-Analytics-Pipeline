@@ -1,0 +1,322 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Pretoria Capitals
+info,team,Paarl Royals
+info,gender,male
+info,season,2022/23
+info,date,2023/02/07
+info,event,SA20
+info,match_number,30
+info,venue,"SuperSport Park, Centurion"
+info,city,Centurion
+info,toss_winner,Paarl Royals
+info,toss_decision,field
+info,player_of_match,BKG Mendis
+info,umpire,BP Jele
+info,umpire,M Erasmus
+info,reserve_umpire,BM White
+info,tv_umpire,AT Holdstock
+info,match_referee,GH Pienaar
+info,winner,Pretoria Capitals
+info,winner_runs,59
+info,player,Pretoria Capitals,PD Salt
+info,player,Pretoria Capitals,BKG Mendis
+info,player,Pretoria Capitals,TB de Bruyn
+info,player,Pretoria Capitals,RR Rossouw
+info,player,Pretoria Capitals,CA Ingram
+info,player,Pretoria Capitals,JDS Neesham
+info,player,Pretoria Capitals,S Muthusamy
+info,player,Pretoria Capitals,M Pretorius
+info,player,Pretoria Capitals,E Bosch
+info,player,Pretoria Capitals,AU Rashid
+info,player,Pretoria Capitals,A Nortje
+info,player,Paarl Royals,JJ Roy
+info,player,Paarl Royals,PR Stirling
+info,player,Paarl Royals,JC Buttler
+info,player,Paarl Royals,M Van Buuren
+info,player,Paarl Royals,EJG Morgan
+info,player,Paarl Royals,DA Miller
+info,player,Paarl Royals,AL Phehlukwayo
+info,player,Paarl Royals,E Jones
+info,player,Paarl Royals,BC Fortuin
+info,player,Paarl Royals,Codi Yusuf
+info,player,Paarl Royals,L Ngidi
+info,registry,people,A Nortje,acdc62f5
+info,registry,people,AL Phehlukwayo,ab6b1c45
+info,registry,people,AT Holdstock,6fa3258c
+info,registry,people,AU Rashid,249d60c9
+info,registry,people,BC Fortuin,9a2fc964
+info,registry,people,BKG Mendis,5d1e7582
+info,registry,people,BM White,66c21d35
+info,registry,people,BP Jele,7bb1331e
+info,registry,people,CA Ingram,c995d726
+info,registry,people,Codi Yusuf,f2397e48
+info,registry,people,DA Miller,d67d5f00
+info,registry,people,E Bosch,28d6c44d
+info,registry,people,E Jones,fbfea9c2
+info,registry,people,EJG Morgan,d2a6c0e6
+info,registry,people,GH Pienaar,3516e46b
+info,registry,people,JC Buttler,99b75528
+info,registry,people,JDS Neesham,9219eff0
+info,registry,people,JJ Roy,d1c36f5c
+info,registry,people,L Ngidi,f834dcfc
+info,registry,people,M Erasmus,15d3c895
+info,registry,people,M Pretorius,54c2b697
+info,registry,people,M Van Buuren,46e4a4e0
+info,registry,people,PD Salt,3d284ca3
+info,registry,people,PR Stirling,cf494ffe
+info,registry,people,RR Rossouw,cad00a4d
+info,registry,people,S Muthusamy,7dfb8890
+info,registry,people,TB de Bruyn,90d6cdea
+ball,1,0.1,Pretoria Capitals,PD Salt,BKG Mendis,BC Fortuin,1,0,,,,,,"",""
+ball,1,0.2,Pretoria Capitals,BKG Mendis,PD Salt,BC Fortuin,1,0,,,,,,"",""
+ball,1,0.3,Pretoria Capitals,PD Salt,BKG Mendis,BC Fortuin,0,4,,,4,,,"",""
+ball,1,0.4,Pretoria Capitals,PD Salt,BKG Mendis,BC Fortuin,1,0,,,,,,"",""
+ball,1,0.5,Pretoria Capitals,BKG Mendis,PD Salt,BC Fortuin,4,0,,,,,,"",""
+ball,1,0.6,Pretoria Capitals,BKG Mendis,PD Salt,BC Fortuin,4,0,,,,,,"",""
+ball,1,1.1,Pretoria Capitals,PD Salt,BKG Mendis,Codi Yusuf,6,0,,,,,,"",""
+ball,1,1.2,Pretoria Capitals,PD Salt,BKG Mendis,Codi Yusuf,1,0,,,,,,"",""
+ball,1,1.3,Pretoria Capitals,BKG Mendis,PD Salt,Codi Yusuf,1,0,,,,,,"",""
+ball,1,1.4,Pretoria Capitals,PD Salt,BKG Mendis,Codi Yusuf,4,0,,,,,,"",""
+ball,1,1.5,Pretoria Capitals,PD Salt,BKG Mendis,Codi Yusuf,1,0,,,,,,"",""
+ball,1,1.6,Pretoria Capitals,BKG Mendis,PD Salt,Codi Yusuf,0,0,,,,,,"",""
+ball,1,2.1,Pretoria Capitals,PD Salt,BKG Mendis,L Ngidi,0,0,,,,,,"",""
+ball,1,2.2,Pretoria Capitals,PD Salt,BKG Mendis,L Ngidi,1,0,,,,,,"",""
+ball,1,2.3,Pretoria Capitals,BKG Mendis,PD Salt,L Ngidi,1,0,,,,,,"",""
+ball,1,2.4,Pretoria Capitals,PD Salt,BKG Mendis,L Ngidi,6,0,,,,,,"",""
+ball,1,2.5,Pretoria Capitals,PD Salt,BKG Mendis,L Ngidi,4,0,,,,,,"",""
+ball,1,2.6,Pretoria Capitals,PD Salt,BKG Mendis,L Ngidi,0,1,1,,,,,"",""
+ball,1,2.7,Pretoria Capitals,PD Salt,BKG Mendis,L Ngidi,1,0,,,,,,"",""
+ball,1,3.1,Pretoria Capitals,PD Salt,BKG Mendis,E Jones,4,0,,,,,,"",""
+ball,1,3.2,Pretoria Capitals,PD Salt,BKG Mendis,E Jones,6,0,,,,,,"",""
+ball,1,3.3,Pretoria Capitals,PD Salt,BKG Mendis,E Jones,1,0,,,,,,"",""
+ball,1,3.4,Pretoria Capitals,BKG Mendis,PD Salt,E Jones,0,1,1,,,,,"",""
+ball,1,3.5,Pretoria Capitals,BKG Mendis,PD Salt,E Jones,2,0,,,,,,"",""
+ball,1,3.6,Pretoria Capitals,BKG Mendis,PD Salt,E Jones,4,0,,,,,,"",""
+ball,1,3.7,Pretoria Capitals,BKG Mendis,PD Salt,E Jones,6,0,,,,,,"",""
+ball,1,4.1,Pretoria Capitals,PD Salt,BKG Mendis,BC Fortuin,0,0,,,,,,"",""
+ball,1,4.2,Pretoria Capitals,PD Salt,BKG Mendis,BC Fortuin,0,0,,,,,,"",""
+ball,1,4.3,Pretoria Capitals,PD Salt,BKG Mendis,BC Fortuin,1,0,,,,,,"",""
+ball,1,4.4,Pretoria Capitals,BKG Mendis,PD Salt,BC Fortuin,0,0,,,,,,"",""
+ball,1,4.5,Pretoria Capitals,BKG Mendis,PD Salt,BC Fortuin,1,0,,,,,,"",""
+ball,1,4.6,Pretoria Capitals,PD Salt,BKG Mendis,BC Fortuin,1,0,,,,,,"",""
+ball,1,5.1,Pretoria Capitals,PD Salt,BKG Mendis,L Ngidi,0,0,,,,,,"",""
+ball,1,5.2,Pretoria Capitals,PD Salt,BKG Mendis,L Ngidi,0,0,,,,,,caught,PD Salt
+ball,1,5.3,Pretoria Capitals,TB de Bruyn,BKG Mendis,L Ngidi,0,0,,,,,,"",""
+ball,1,5.4,Pretoria Capitals,TB de Bruyn,BKG Mendis,L Ngidi,1,0,,,,,,"",""
+ball,1,5.5,Pretoria Capitals,BKG Mendis,TB de Bruyn,L Ngidi,0,0,,,,,,"",""
+ball,1,5.6,Pretoria Capitals,BKG Mendis,TB de Bruyn,L Ngidi,1,0,,,,,,"",""
+ball,1,6.1,Pretoria Capitals,BKG Mendis,TB de Bruyn,BC Fortuin,1,0,,,,,,"",""
+ball,1,6.2,Pretoria Capitals,TB de Bruyn,BKG Mendis,BC Fortuin,0,0,,,,,,"",""
+ball,1,6.3,Pretoria Capitals,TB de Bruyn,BKG Mendis,BC Fortuin,0,0,,,,,,"",""
+ball,1,6.4,Pretoria Capitals,TB de Bruyn,BKG Mendis,BC Fortuin,1,0,,,,,,"",""
+ball,1,6.5,Pretoria Capitals,BKG Mendis,TB de Bruyn,BC Fortuin,4,0,,,,,,"",""
+ball,1,6.6,Pretoria Capitals,BKG Mendis,TB de Bruyn,BC Fortuin,1,0,,,,,,"",""
+ball,1,7.1,Pretoria Capitals,BKG Mendis,TB de Bruyn,AL Phehlukwayo,0,1,1,,,,,"",""
+ball,1,7.2,Pretoria Capitals,BKG Mendis,TB de Bruyn,AL Phehlukwayo,0,0,,,,,,"",""
+ball,1,7.3,Pretoria Capitals,BKG Mendis,TB de Bruyn,AL Phehlukwayo,1,0,,,,,,"",""
+ball,1,7.4,Pretoria Capitals,TB de Bruyn,BKG Mendis,AL Phehlukwayo,2,0,,,,,,"",""
+ball,1,7.5,Pretoria Capitals,TB de Bruyn,BKG Mendis,AL Phehlukwayo,1,0,,,,,,"",""
+ball,1,7.6,Pretoria Capitals,BKG Mendis,TB de Bruyn,AL Phehlukwayo,1,0,,,,,,"",""
+ball,1,7.7,Pretoria Capitals,TB de Bruyn,BKG Mendis,AL Phehlukwayo,1,0,,,,,,"",""
+ball,1,8.1,Pretoria Capitals,TB de Bruyn,BKG Mendis,Codi Yusuf,2,0,,,,,,"",""
+ball,1,8.2,Pretoria Capitals,TB de Bruyn,BKG Mendis,Codi Yusuf,2,0,,,,,,"",""
+ball,1,8.3,Pretoria Capitals,TB de Bruyn,BKG Mendis,Codi Yusuf,1,0,,,,,,"",""
+ball,1,8.4,Pretoria Capitals,BKG Mendis,TB de Bruyn,Codi Yusuf,1,0,,,,,,"",""
+ball,1,8.5,Pretoria Capitals,TB de Bruyn,BKG Mendis,Codi Yusuf,0,0,,,,,,"",""
+ball,1,8.6,Pretoria Capitals,TB de Bruyn,BKG Mendis,Codi Yusuf,0,1,1,,,,,"",""
+ball,1,8.7,Pretoria Capitals,TB de Bruyn,BKG Mendis,Codi Yusuf,1,0,,,,,,"",""
+ball,1,9.1,Pretoria Capitals,TB de Bruyn,BKG Mendis,AL Phehlukwayo,0,0,,,,,,caught,TB de Bruyn
+ball,1,9.2,Pretoria Capitals,RR Rossouw,BKG Mendis,AL Phehlukwayo,0,0,,,,,,"",""
+ball,1,9.3,Pretoria Capitals,RR Rossouw,BKG Mendis,AL Phehlukwayo,1,0,,,,,,"",""
+ball,1,9.4,Pretoria Capitals,BKG Mendis,RR Rossouw,AL Phehlukwayo,0,1,1,,,,,"",""
+ball,1,9.5,Pretoria Capitals,BKG Mendis,RR Rossouw,AL Phehlukwayo,1,0,,,,,,"",""
+ball,1,9.6,Pretoria Capitals,RR Rossouw,BKG Mendis,AL Phehlukwayo,4,0,,,,,,"",""
+ball,1,9.7,Pretoria Capitals,RR Rossouw,BKG Mendis,AL Phehlukwayo,1,0,,,,,,"",""
+ball,1,10.1,Pretoria Capitals,RR Rossouw,BKG Mendis,E Jones,0,0,,,,,,"",""
+ball,1,10.2,Pretoria Capitals,RR Rossouw,BKG Mendis,E Jones,0,4,,,4,,,"",""
+ball,1,10.3,Pretoria Capitals,RR Rossouw,BKG Mendis,E Jones,2,1,,1,,,,"",""
+ball,1,10.4,Pretoria Capitals,RR Rossouw,BKG Mendis,E Jones,1,0,,,,,,"",""
+ball,1,10.5,Pretoria Capitals,BKG Mendis,RR Rossouw,E Jones,4,0,,,,,,"",""
+ball,1,10.6,Pretoria Capitals,BKG Mendis,RR Rossouw,E Jones,1,0,,,,,,"",""
+ball,1,10.7,Pretoria Capitals,RR Rossouw,BKG Mendis,E Jones,1,0,,,,,,"",""
+ball,1,11.1,Pretoria Capitals,RR Rossouw,BKG Mendis,AL Phehlukwayo,1,0,,,,,,"",""
+ball,1,11.2,Pretoria Capitals,BKG Mendis,RR Rossouw,AL Phehlukwayo,6,0,,,,,,"",""
+ball,1,11.3,Pretoria Capitals,BKG Mendis,RR Rossouw,AL Phehlukwayo,1,0,,,,,,"",""
+ball,1,11.4,Pretoria Capitals,RR Rossouw,BKG Mendis,AL Phehlukwayo,1,0,,,,,,"",""
+ball,1,11.5,Pretoria Capitals,BKG Mendis,RR Rossouw,AL Phehlukwayo,1,0,,,,,,"",""
+ball,1,11.6,Pretoria Capitals,RR Rossouw,BKG Mendis,AL Phehlukwayo,1,0,,,,,,"",""
+ball,1,12.1,Pretoria Capitals,RR Rossouw,BKG Mendis,Codi Yusuf,0,0,,,,,,bowled,RR Rossouw
+ball,1,12.2,Pretoria Capitals,CA Ingram,BKG Mendis,Codi Yusuf,2,0,,,,,,"",""
+ball,1,12.3,Pretoria Capitals,CA Ingram,BKG Mendis,Codi Yusuf,4,0,,,,,,"",""
+ball,1,12.4,Pretoria Capitals,CA Ingram,BKG Mendis,Codi Yusuf,1,0,,,,,,"",""
+ball,1,12.5,Pretoria Capitals,BKG Mendis,CA Ingram,Codi Yusuf,1,0,,,,,,"",""
+ball,1,12.6,Pretoria Capitals,CA Ingram,BKG Mendis,Codi Yusuf,1,0,,,,,,"",""
+ball,1,13.1,Pretoria Capitals,CA Ingram,BKG Mendis,BC Fortuin,0,1,1,,,,,"",""
+ball,1,13.2,Pretoria Capitals,CA Ingram,BKG Mendis,BC Fortuin,1,0,,,,,,"",""
+ball,1,13.3,Pretoria Capitals,BKG Mendis,CA Ingram,BC Fortuin,4,0,,,,,,"",""
+ball,1,13.4,Pretoria Capitals,BKG Mendis,CA Ingram,BC Fortuin,0,0,,,,,,"",""
+ball,1,13.5,Pretoria Capitals,BKG Mendis,CA Ingram,BC Fortuin,1,0,,,,,,"",""
+ball,1,13.6,Pretoria Capitals,CA Ingram,BKG Mendis,BC Fortuin,0,0,,,,,,"",""
+ball,1,13.7,Pretoria Capitals,CA Ingram,BKG Mendis,BC Fortuin,0,1,1,,,,,"",""
+ball,1,13.8,Pretoria Capitals,CA Ingram,BKG Mendis,BC Fortuin,4,0,,,,,,"",""
+ball,1,14.1,Pretoria Capitals,BKG Mendis,CA Ingram,E Jones,2,0,,,,,,"",""
+ball,1,14.2,Pretoria Capitals,BKG Mendis,CA Ingram,E Jones,4,0,,,,,,"",""
+ball,1,14.3,Pretoria Capitals,BKG Mendis,CA Ingram,E Jones,1,0,,,,,,"",""
+ball,1,14.4,Pretoria Capitals,CA Ingram,BKG Mendis,E Jones,1,0,,,,,,"",""
+ball,1,14.5,Pretoria Capitals,BKG Mendis,CA Ingram,E Jones,6,0,,,,,,"",""
+ball,1,14.6,Pretoria Capitals,BKG Mendis,CA Ingram,E Jones,0,0,,,,,,"",""
+ball,1,15.1,Pretoria Capitals,CA Ingram,BKG Mendis,AL Phehlukwayo,1,0,,,,,,"",""
+ball,1,15.2,Pretoria Capitals,BKG Mendis,CA Ingram,AL Phehlukwayo,2,0,,,,,,"",""
+ball,1,15.3,Pretoria Capitals,BKG Mendis,CA Ingram,AL Phehlukwayo,6,0,,,,,,"",""
+ball,1,15.4,Pretoria Capitals,BKG Mendis,CA Ingram,AL Phehlukwayo,1,0,,,,,,"",""
+ball,1,15.5,Pretoria Capitals,CA Ingram,BKG Mendis,AL Phehlukwayo,6,0,,,,,,"",""
+ball,1,15.6,Pretoria Capitals,CA Ingram,BKG Mendis,AL Phehlukwayo,1,0,,,,,,"",""
+ball,1,16.1,Pretoria Capitals,CA Ingram,BKG Mendis,L Ngidi,1,0,,,,,,"",""
+ball,1,16.2,Pretoria Capitals,BKG Mendis,CA Ingram,L Ngidi,0,0,,,,,,"",""
+ball,1,16.3,Pretoria Capitals,BKG Mendis,CA Ingram,L Ngidi,4,0,,,,,,"",""
+ball,1,16.4,Pretoria Capitals,BKG Mendis,CA Ingram,L Ngidi,0,0,,,,,,caught,BKG Mendis
+ball,1,16.5,Pretoria Capitals,JDS Neesham,CA Ingram,L Ngidi,0,1,1,,,,,"",""
+ball,1,16.6,Pretoria Capitals,JDS Neesham,CA Ingram,L Ngidi,1,0,,,,,,"",""
+ball,1,16.7,Pretoria Capitals,CA Ingram,JDS Neesham,L Ngidi,0,0,,,,,,"",""
+ball,1,17.1,Pretoria Capitals,JDS Neesham,CA Ingram,Codi Yusuf,2,0,,,,,,"",""
+ball,1,17.2,Pretoria Capitals,JDS Neesham,CA Ingram,Codi Yusuf,1,0,,,,,,"",""
+ball,1,17.3,Pretoria Capitals,CA Ingram,JDS Neesham,Codi Yusuf,0,1,,,,1,,"",""
+ball,1,17.4,Pretoria Capitals,JDS Neesham,CA Ingram,Codi Yusuf,1,0,,,,,,"",""
+ball,1,17.5,Pretoria Capitals,CA Ingram,JDS Neesham,Codi Yusuf,0,1,1,,,,,"",""
+ball,1,17.6,Pretoria Capitals,CA Ingram,JDS Neesham,Codi Yusuf,4,0,,,,,,"",""
+ball,1,17.7,Pretoria Capitals,CA Ingram,JDS Neesham,Codi Yusuf,6,0,,,,,,"",""
+ball,1,18.1,Pretoria Capitals,JDS Neesham,CA Ingram,L Ngidi,0,0,,,,,,"",""
+ball,1,18.2,Pretoria Capitals,JDS Neesham,CA Ingram,L Ngidi,6,0,,,,,,"",""
+ball,1,18.3,Pretoria Capitals,JDS Neesham,CA Ingram,L Ngidi,4,0,,,,,,"",""
+ball,1,18.4,Pretoria Capitals,JDS Neesham,CA Ingram,L Ngidi,1,0,,,,,,"",""
+ball,1,18.5,Pretoria Capitals,CA Ingram,JDS Neesham,L Ngidi,1,0,,,,,,"",""
+ball,1,18.6,Pretoria Capitals,JDS Neesham,CA Ingram,L Ngidi,4,0,,,,,,"",""
+ball,1,19.1,Pretoria Capitals,CA Ingram,JDS Neesham,E Jones,1,0,,,,,,"",""
+ball,1,19.2,Pretoria Capitals,JDS Neesham,CA Ingram,E Jones,1,0,,,,,,"",""
+ball,1,19.3,Pretoria Capitals,CA Ingram,JDS Neesham,E Jones,1,0,,,,,,"",""
+ball,1,19.4,Pretoria Capitals,JDS Neesham,CA Ingram,E Jones,1,0,,,,,,"",""
+ball,1,19.5,Pretoria Capitals,CA Ingram,JDS Neesham,E Jones,4,0,,,,,,"",""
+ball,1,19.6,Pretoria Capitals,CA Ingram,JDS Neesham,E Jones,1,0,,,,,,run out,CA Ingram
+ball,2,0.1,Paarl Royals,JJ Roy,PR Stirling,E Bosch,0,0,,,,,,"",""
+ball,2,0.2,Paarl Royals,JJ Roy,PR Stirling,E Bosch,0,0,,,,,,"",""
+ball,2,0.3,Paarl Royals,JJ Roy,PR Stirling,E Bosch,1,0,,,,,,"",""
+ball,2,0.4,Paarl Royals,PR Stirling,JJ Roy,E Bosch,0,0,,,,,,"",""
+ball,2,0.5,Paarl Royals,PR Stirling,JJ Roy,E Bosch,4,0,,,,,,"",""
+ball,2,0.6,Paarl Royals,PR Stirling,JJ Roy,E Bosch,6,0,,,,,,"",""
+ball,2,1.1,Paarl Royals,JJ Roy,PR Stirling,S Muthusamy,6,0,,,,,,"",""
+ball,2,1.2,Paarl Royals,JJ Roy,PR Stirling,S Muthusamy,1,0,,,,,,"",""
+ball,2,1.3,Paarl Royals,PR Stirling,JJ Roy,S Muthusamy,4,0,,,,,,"",""
+ball,2,1.4,Paarl Royals,PR Stirling,JJ Roy,S Muthusamy,0,1,1,,,,,"",""
+ball,2,1.5,Paarl Royals,PR Stirling,JJ Roy,S Muthusamy,1,0,,,,,,"",""
+ball,2,1.6,Paarl Royals,JJ Roy,PR Stirling,S Muthusamy,1,0,,,,,,"",""
+ball,2,1.7,Paarl Royals,PR Stirling,JJ Roy,S Muthusamy,4,0,,,,,,"",""
+ball,2,2.1,Paarl Royals,JJ Roy,PR Stirling,E Bosch,1,0,,,,,,"",""
+ball,2,2.2,Paarl Royals,PR Stirling,JJ Roy,E Bosch,0,0,,,,,,"",""
+ball,2,2.3,Paarl Royals,PR Stirling,JJ Roy,E Bosch,0,0,,,,,,"",""
+ball,2,2.4,Paarl Royals,PR Stirling,JJ Roy,E Bosch,0,0,,,,,,"",""
+ball,2,2.5,Paarl Royals,PR Stirling,JJ Roy,E Bosch,0,0,,,,,,caught,PR Stirling
+ball,2,2.6,Paarl Royals,JC Buttler,JJ Roy,E Bosch,0,0,,,,,,"",""
+ball,2,3.1,Paarl Royals,JJ Roy,JC Buttler,A Nortje,0,0,,,,,,"",""
+ball,2,3.2,Paarl Royals,JJ Roy,JC Buttler,A Nortje,0,0,,,,,,"",""
+ball,2,3.3,Paarl Royals,JJ Roy,JC Buttler,A Nortje,0,0,,,,,,lbw,JJ Roy
+ball,2,3.4,Paarl Royals,M Van Buuren,JC Buttler,A Nortje,0,0,,,,,,"",""
+ball,2,3.5,Paarl Royals,M Van Buuren,JC Buttler,A Nortje,2,0,,,,,,"",""
+ball,2,3.6,Paarl Royals,M Van Buuren,JC Buttler,A Nortje,0,0,,,,,,"",""
+ball,2,4.1,Paarl Royals,JC Buttler,M Van Buuren,E Bosch,0,0,,,,,,"",""
+ball,2,4.2,Paarl Royals,JC Buttler,M Van Buuren,E Bosch,0,0,,,,,,"",""
+ball,2,4.3,Paarl Royals,JC Buttler,M Van Buuren,E Bosch,0,0,,,,,,"",""
+ball,2,4.4,Paarl Royals,JC Buttler,M Van Buuren,E Bosch,1,0,,,,,,"",""
+ball,2,4.5,Paarl Royals,M Van Buuren,JC Buttler,E Bosch,1,0,,,,,,"",""
+ball,2,4.6,Paarl Royals,JC Buttler,M Van Buuren,E Bosch,2,0,,,,,,"",""
+ball,2,5.1,Paarl Royals,M Van Buuren,JC Buttler,M Pretorius,2,0,,,,,,"",""
+ball,2,5.2,Paarl Royals,M Van Buuren,JC Buttler,M Pretorius,0,0,,,,,,caught,M Van Buuren
+ball,2,5.3,Paarl Royals,EJG Morgan,JC Buttler,M Pretorius,2,0,,,,,,"",""
+ball,2,5.4,Paarl Royals,EJG Morgan,JC Buttler,M Pretorius,1,0,,,,,,"",""
+ball,2,5.5,Paarl Royals,JC Buttler,EJG Morgan,M Pretorius,1,0,,,,,,"",""
+ball,2,5.6,Paarl Royals,EJG Morgan,JC Buttler,M Pretorius,4,0,,,,,,"",""
+ball,2,6.1,Paarl Royals,JC Buttler,EJG Morgan,E Bosch,1,0,,,,,,"",""
+ball,2,6.2,Paarl Royals,EJG Morgan,JC Buttler,E Bosch,4,0,,,,,,"",""
+ball,2,6.3,Paarl Royals,EJG Morgan,JC Buttler,E Bosch,0,0,,,,,,"",""
+ball,2,6.4,Paarl Royals,EJG Morgan,JC Buttler,E Bosch,0,0,,,,,,"",""
+ball,2,6.5,Paarl Royals,EJG Morgan,JC Buttler,E Bosch,4,0,,,,,,"",""
+ball,2,6.6,Paarl Royals,EJG Morgan,JC Buttler,E Bosch,6,0,,,,,,"",""
+ball,2,7.1,Paarl Royals,JC Buttler,EJG Morgan,A Nortje,1,0,,,,,,"",""
+ball,2,7.2,Paarl Royals,EJG Morgan,JC Buttler,A Nortje,1,0,,,,,,"",""
+ball,2,7.3,Paarl Royals,JC Buttler,EJG Morgan,A Nortje,0,0,,,,,,"",""
+ball,2,7.4,Paarl Royals,JC Buttler,EJG Morgan,A Nortje,0,1,,,,1,,"",""
+ball,2,7.5,Paarl Royals,EJG Morgan,JC Buttler,A Nortje,2,0,,,,,,"",""
+ball,2,7.6,Paarl Royals,EJG Morgan,JC Buttler,A Nortje,0,0,,,,,,"",""
+ball,2,8.1,Paarl Royals,JC Buttler,EJG Morgan,AU Rashid,1,0,,,,,,"",""
+ball,2,8.2,Paarl Royals,EJG Morgan,JC Buttler,AU Rashid,0,0,,,,,,caught,EJG Morgan
+ball,2,8.3,Paarl Royals,DA Miller,JC Buttler,AU Rashid,0,0,,,,,,"",""
+ball,2,8.4,Paarl Royals,DA Miller,JC Buttler,AU Rashid,4,0,,,,,,"",""
+ball,2,8.5,Paarl Royals,DA Miller,JC Buttler,AU Rashid,1,0,,,,,,"",""
+ball,2,8.6,Paarl Royals,JC Buttler,DA Miller,AU Rashid,0,0,,,,,,"",""
+ball,2,9.1,Paarl Royals,DA Miller,JC Buttler,A Nortje,1,0,,,,,,"",""
+ball,2,9.2,Paarl Royals,JC Buttler,DA Miller,A Nortje,0,0,,,,,,"",""
+ball,2,9.3,Paarl Royals,JC Buttler,DA Miller,A Nortje,1,0,,,,,,"",""
+ball,2,9.4,Paarl Royals,DA Miller,JC Buttler,A Nortje,1,0,,,,,,"",""
+ball,2,9.5,Paarl Royals,JC Buttler,DA Miller,A Nortje,0,0,,,,,,"",""
+ball,2,9.6,Paarl Royals,JC Buttler,DA Miller,A Nortje,1,0,,,,,,"",""
+ball,2,10.1,Paarl Royals,JC Buttler,DA Miller,AU Rashid,4,0,,,,,,"",""
+ball,2,10.2,Paarl Royals,JC Buttler,DA Miller,AU Rashid,1,0,,,,,,"",""
+ball,2,10.3,Paarl Royals,DA Miller,JC Buttler,AU Rashid,1,0,,,,,,"",""
+ball,2,10.4,Paarl Royals,JC Buttler,DA Miller,AU Rashid,1,0,,,,,,"",""
+ball,2,10.5,Paarl Royals,DA Miller,JC Buttler,AU Rashid,2,0,,,,,,"",""
+ball,2,10.6,Paarl Royals,DA Miller,JC Buttler,AU Rashid,0,2,,,2,,,"",""
+ball,2,11.1,Paarl Royals,JC Buttler,DA Miller,M Pretorius,0,0,,,,,,"",""
+ball,2,11.2,Paarl Royals,JC Buttler,DA Miller,M Pretorius,1,0,,,,,,"",""
+ball,2,11.3,Paarl Royals,DA Miller,JC Buttler,M Pretorius,0,0,,,,,,"",""
+ball,2,11.4,Paarl Royals,DA Miller,JC Buttler,M Pretorius,0,1,,,,1,,"",""
+ball,2,11.5,Paarl Royals,JC Buttler,DA Miller,M Pretorius,1,0,,,,,,"",""
+ball,2,11.6,Paarl Royals,DA Miller,JC Buttler,M Pretorius,0,1,,,,1,,"",""
+ball,2,12.1,Paarl Royals,DA Miller,JC Buttler,CA Ingram,0,0,,,,,,"",""
+ball,2,12.2,Paarl Royals,DA Miller,JC Buttler,CA Ingram,0,0,,,,,,"",""
+ball,2,12.3,Paarl Royals,DA Miller,JC Buttler,CA Ingram,0,0,,,,,,"",""
+ball,2,12.4,Paarl Royals,DA Miller,JC Buttler,CA Ingram,0,1,1,,,,,"",""
+ball,2,12.5,Paarl Royals,DA Miller,JC Buttler,CA Ingram,0,0,,,,,,"",""
+ball,2,12.6,Paarl Royals,DA Miller,JC Buttler,CA Ingram,1,0,,,,,,"",""
+ball,2,12.7,Paarl Royals,JC Buttler,DA Miller,CA Ingram,1,0,,,,,,"",""
+ball,2,13.1,Paarl Royals,JC Buttler,DA Miller,M Pretorius,0,0,,,,,,"",""
+ball,2,13.2,Paarl Royals,JC Buttler,DA Miller,M Pretorius,6,0,,,,,,"",""
+ball,2,13.3,Paarl Royals,JC Buttler,DA Miller,M Pretorius,1,0,,,,,,"",""
+ball,2,13.4,Paarl Royals,DA Miller,JC Buttler,M Pretorius,0,0,,,,,,caught,DA Miller
+ball,2,13.5,Paarl Royals,AL Phehlukwayo,JC Buttler,M Pretorius,1,0,,,,,,"",""
+ball,2,13.6,Paarl Royals,JC Buttler,AL Phehlukwayo,M Pretorius,1,0,,,,,,"",""
+ball,2,14.1,Paarl Royals,JC Buttler,AL Phehlukwayo,S Muthusamy,1,0,,,,,,"",""
+ball,2,14.2,Paarl Royals,AL Phehlukwayo,JC Buttler,S Muthusamy,0,0,,,,,,"",""
+ball,2,14.3,Paarl Royals,AL Phehlukwayo,JC Buttler,S Muthusamy,1,0,,,,,,"",""
+ball,2,14.4,Paarl Royals,JC Buttler,AL Phehlukwayo,S Muthusamy,1,0,,,,,,"",""
+ball,2,14.5,Paarl Royals,AL Phehlukwayo,JC Buttler,S Muthusamy,1,0,,,,,,"",""
+ball,2,14.6,Paarl Royals,JC Buttler,AL Phehlukwayo,S Muthusamy,1,0,,,,,,"",""
+ball,2,15.1,Paarl Royals,JC Buttler,AL Phehlukwayo,JDS Neesham,6,0,,,,,,"",""
+ball,2,15.2,Paarl Royals,JC Buttler,AL Phehlukwayo,JDS Neesham,1,0,,,,,,"",""
+ball,2,15.3,Paarl Royals,AL Phehlukwayo,JC Buttler,JDS Neesham,0,0,,,,,,caught,AL Phehlukwayo
+ball,2,15.4,Paarl Royals,E Jones,JC Buttler,JDS Neesham,0,0,,,,,,"",""
+ball,2,15.5,Paarl Royals,E Jones,JC Buttler,JDS Neesham,0,0,,,,,,caught,E Jones
+ball,2,15.6,Paarl Royals,BC Fortuin,JC Buttler,JDS Neesham,2,0,,,,,,"",""
+ball,2,16.1,Paarl Royals,JC Buttler,BC Fortuin,CA Ingram,6,0,,,,,,"",""
+ball,2,16.2,Paarl Royals,JC Buttler,BC Fortuin,CA Ingram,0,0,,,,,,"",""
+ball,2,16.3,Paarl Royals,JC Buttler,BC Fortuin,CA Ingram,4,0,,,,,,"",""
+ball,2,16.4,Paarl Royals,JC Buttler,BC Fortuin,CA Ingram,0,0,,,,,,"",""
+ball,2,16.5,Paarl Royals,JC Buttler,BC Fortuin,CA Ingram,2,0,,,,,,"",""
+ball,2,16.6,Paarl Royals,JC Buttler,BC Fortuin,CA Ingram,6,0,,,,,,"",""
+ball,2,17.1,Paarl Royals,BC Fortuin,JC Buttler,A Nortje,1,0,,,,,,"",""
+ball,2,17.2,Paarl Royals,JC Buttler,BC Fortuin,A Nortje,1,0,,,,,,"",""
+ball,2,17.3,Paarl Royals,BC Fortuin,JC Buttler,A Nortje,0,0,,,,,,"",""
+ball,2,17.4,Paarl Royals,BC Fortuin,JC Buttler,A Nortje,1,0,,,,,,"",""
+ball,2,17.5,Paarl Royals,JC Buttler,BC Fortuin,A Nortje,1,0,,,,,,"",""
+ball,2,17.6,Paarl Royals,BC Fortuin,JC Buttler,A Nortje,0,0,,,,,,"",""
+ball,2,18.1,Paarl Royals,JC Buttler,BC Fortuin,JDS Neesham,6,0,,,,,,"",""
+ball,2,18.2,Paarl Royals,JC Buttler,BC Fortuin,JDS Neesham,4,0,,,,,,"",""
+ball,2,18.3,Paarl Royals,JC Buttler,BC Fortuin,JDS Neesham,4,0,,,,,,"",""
+ball,2,18.4,Paarl Royals,JC Buttler,BC Fortuin,JDS Neesham,0,0,,,,,,caught,JC Buttler
+ball,2,18.5,Paarl Royals,Codi Yusuf,BC Fortuin,JDS Neesham,1,0,,,,,,"",""
+ball,2,18.6,Paarl Royals,BC Fortuin,Codi Yusuf,JDS Neesham,4,0,,,,,,"",""
+ball,2,19.1,Paarl Royals,Codi Yusuf,BC Fortuin,AU Rashid,1,0,,,,,,"",""
+ball,2,19.2,Paarl Royals,BC Fortuin,Codi Yusuf,AU Rashid,0,4,,,4,,,"",""
+ball,2,19.3,Paarl Royals,BC Fortuin,Codi Yusuf,AU Rashid,0,0,,,,,,bowled,BC Fortuin
+ball,2,19.4,Paarl Royals,L Ngidi,Codi Yusuf,AU Rashid,0,2,,,,2,,"",""
+ball,2,19.5,Paarl Royals,L Ngidi,Codi Yusuf,AU Rashid,2,0,,,,,,"",""
+ball,2,19.6,Paarl Royals,L Ngidi,Codi Yusuf,AU Rashid,0,0,,,,,,"",""

@@ -1,0 +1,251 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Seychelles
+info,team,Ghana
+info,gender,male
+info,season,2025/26
+info,date,2026/03/24
+info,event,ICC Men's T20 World Cup Africa Sub Regional Qualifier B
+info,match_number,3
+info,venue,"Achimota Senior Secondary School B Field, Accra"
+info,city,Accra
+info,toss_winner,Ghana
+info,toss_decision,field
+info,player_of_match,IKO Aboagye
+info,umpire,P Sizara
+info,umpire,R D'Mello
+info,reserve_umpire,Patric Makumbi
+info,match_referee,O Chirombe
+info,winner,Ghana
+info,winner_wickets,6
+info,player,Seychelles,STRA de Silva
+info,player,Seychelles,M Mariyappan
+info,player,Seychelles,TKP Rajapaksha
+info,player,Seychelles,Mazharul Islam
+info,player,Seychelles,SR Mohan
+info,player,Seychelles,Mohomed Saddam
+info,player,Seychelles,D Kalvin
+info,player,Seychelles,Jobayer Hossen
+info,player,Seychelles,SR Rocket
+info,player,Seychelles,Thilina Silva
+info,player,Seychelles,S Rukmal
+info,player,Ghana,J Guatam
+info,player,Ghana,J Solomon
+info,player,Ghana,OH Agbomadzie
+info,player,Ghana,BK Majji
+info,player,Ghana,Devender Singh
+info,player,Ghana,IKO Aboagye
+info,player,Ghana,F Baleri
+info,player,Ghana,L Nyarko
+info,player,Ghana,Nitesh Hooda
+info,player,Ghana,P Yevugah
+info,player,Ghana,V Ateak
+info,registry,people,BK Majji,d864f752
+info,registry,people,D Kalvin,895ae8b6
+info,registry,people,Devender Singh,68e21fb1
+info,registry,people,F Baleri,6efdad14
+info,registry,people,IKO Aboagye,98614193
+info,registry,people,J Guatam,5992c2ba
+info,registry,people,J Solomon,c66dfb30
+info,registry,people,Jobayer Hossen,656fc15b
+info,registry,people,L Nyarko,c391d077
+info,registry,people,M Mariyappan,69cbd850
+info,registry,people,Mazharul Islam,30564b3e
+info,registry,people,Mohomed Saddam,e1043e7b
+info,registry,people,Nitesh Hooda,d424d06a
+info,registry,people,O Chirombe,6345307f
+info,registry,people,OH Agbomadzie,b38a9f73
+info,registry,people,P Sizara,5d45bb7f
+info,registry,people,P Yevugah,5c842df4
+info,registry,people,Patric Makumbi,e4c69c16
+info,registry,people,R D'Mello,f3c22863
+info,registry,people,S Rukmal,f5be7b08
+info,registry,people,SR Mohan,58533699
+info,registry,people,SR Rocket,ee3bfb9b
+info,registry,people,STRA de Silva,21fe743b
+info,registry,people,TKP Rajapaksha,b5dcec37
+info,registry,people,Thilina Silva,f0ad7a75
+info,registry,people,V Ateak,65a60be7
+ball,1,0.1,Seychelles,STRA de Silva,M Mariyappan,L Nyarko,0,0,,,,,,"",""
+ball,1,0.2,Seychelles,STRA de Silva,M Mariyappan,L Nyarko,0,0,,,,,,"",""
+ball,1,0.3,Seychelles,STRA de Silva,M Mariyappan,L Nyarko,4,0,,,,,,"",""
+ball,1,0.4,Seychelles,STRA de Silva,M Mariyappan,L Nyarko,0,0,,,,,,"",""
+ball,1,0.5,Seychelles,STRA de Silva,M Mariyappan,L Nyarko,0,0,,,,,,lbw,STRA de Silva
+ball,1,0.6,Seychelles,TKP Rajapaksha,M Mariyappan,L Nyarko,0,0,,,,,,"",""
+ball,1,1.1,Seychelles,M Mariyappan,TKP Rajapaksha,Nitesh Hooda,1,0,,,,,,"",""
+ball,1,1.2,Seychelles,TKP Rajapaksha,M Mariyappan,Nitesh Hooda,1,0,,,,,,"",""
+ball,1,1.3,Seychelles,M Mariyappan,TKP Rajapaksha,Nitesh Hooda,1,0,,,,,,"",""
+ball,1,1.4,Seychelles,TKP Rajapaksha,M Mariyappan,Nitesh Hooda,1,0,,,,,,"",""
+ball,1,1.5,Seychelles,M Mariyappan,TKP Rajapaksha,Nitesh Hooda,0,0,,,,,,"",""
+ball,1,1.6,Seychelles,M Mariyappan,TKP Rajapaksha,Nitesh Hooda,1,0,,,,,,"",""
+ball,1,2.1,Seychelles,M Mariyappan,TKP Rajapaksha,L Nyarko,0,0,,,,,,"",""
+ball,1,2.2,Seychelles,M Mariyappan,TKP Rajapaksha,L Nyarko,0,0,,,,,,lbw,M Mariyappan
+ball,1,2.3,Seychelles,Mazharul Islam,TKP Rajapaksha,L Nyarko,0,0,,,,,,"",""
+ball,1,2.4,Seychelles,Mazharul Islam,TKP Rajapaksha,L Nyarko,1,0,,,,,,"",""
+ball,1,2.5,Seychelles,TKP Rajapaksha,Mazharul Islam,L Nyarko,0,0,,,,,,"",""
+ball,1,2.6,Seychelles,TKP Rajapaksha,Mazharul Islam,L Nyarko,0,0,,,,,,"",""
+ball,1,3.1,Seychelles,Mazharul Islam,TKP Rajapaksha,OH Agbomadzie,1,0,,,,,,"",""
+ball,1,3.2,Seychelles,TKP Rajapaksha,Mazharul Islam,OH Agbomadzie,0,0,,,,,,"",""
+ball,1,3.3,Seychelles,TKP Rajapaksha,Mazharul Islam,OH Agbomadzie,4,0,,,,,,"",""
+ball,1,3.4,Seychelles,TKP Rajapaksha,Mazharul Islam,OH Agbomadzie,0,0,,,,,,"",""
+ball,1,3.5,Seychelles,TKP Rajapaksha,Mazharul Islam,OH Agbomadzie,4,0,,,,,,"",""
+ball,1,3.6,Seychelles,TKP Rajapaksha,Mazharul Islam,OH Agbomadzie,0,0,,,,,,"",""
+ball,1,4.1,Seychelles,Mazharul Islam,TKP Rajapaksha,IKO Aboagye,2,0,,,,,,"",""
+ball,1,4.2,Seychelles,Mazharul Islam,TKP Rajapaksha,IKO Aboagye,0,0,,,,,,"",""
+ball,1,4.3,Seychelles,Mazharul Islam,TKP Rajapaksha,IKO Aboagye,0,0,,,,,,caught,Mazharul Islam
+ball,1,4.4,Seychelles,SR Mohan,TKP Rajapaksha,IKO Aboagye,0,0,,,,,,"",""
+ball,1,4.5,Seychelles,SR Mohan,TKP Rajapaksha,IKO Aboagye,0,0,,,,,,"",""
+ball,1,4.6,Seychelles,SR Mohan,TKP Rajapaksha,IKO Aboagye,0,0,,,,,,"",""
+ball,1,5.1,Seychelles,TKP Rajapaksha,SR Mohan,V Ateak,1,0,,,,,,"",""
+ball,1,5.2,Seychelles,SR Mohan,TKP Rajapaksha,V Ateak,1,0,,,,,,"",""
+ball,1,5.3,Seychelles,TKP Rajapaksha,SR Mohan,V Ateak,0,0,,,,,,bowled,TKP Rajapaksha
+ball,1,5.4,Seychelles,Mohomed Saddam,SR Mohan,V Ateak,0,0,,,,,,"",""
+ball,1,5.5,Seychelles,Mohomed Saddam,SR Mohan,V Ateak,1,0,,,,,,"",""
+ball,1,5.6,Seychelles,SR Mohan,Mohomed Saddam,V Ateak,4,0,,,,,,"",""
+ball,1,6.1,Seychelles,Mohomed Saddam,SR Mohan,IKO Aboagye,0,0,,,,,,"",""
+ball,1,6.2,Seychelles,Mohomed Saddam,SR Mohan,IKO Aboagye,0,0,,,,,,run out,SR Mohan
+ball,1,6.3,Seychelles,D Kalvin,Mohomed Saddam,IKO Aboagye,0,0,,,,,,"",""
+ball,1,6.4,Seychelles,D Kalvin,Mohomed Saddam,IKO Aboagye,0,0,,,,,,"",""
+ball,1,6.5,Seychelles,D Kalvin,Mohomed Saddam,IKO Aboagye,0,0,,,,,,"",""
+ball,1,6.6,Seychelles,D Kalvin,Mohomed Saddam,IKO Aboagye,0,0,,,,,,bowled,D Kalvin
+ball,1,7.1,Seychelles,Mohomed Saddam,Jobayer Hossen,V Ateak,0,0,,,,,,"",""
+ball,1,7.2,Seychelles,Mohomed Saddam,Jobayer Hossen,V Ateak,0,0,,,,,,"",""
+ball,1,7.3,Seychelles,Mohomed Saddam,Jobayer Hossen,V Ateak,0,0,,,,,,"",""
+ball,1,7.4,Seychelles,Mohomed Saddam,Jobayer Hossen,V Ateak,0,0,,,,,,"",""
+ball,1,7.5,Seychelles,Mohomed Saddam,Jobayer Hossen,V Ateak,1,0,,,,,,"",""
+ball,1,7.6,Seychelles,Jobayer Hossen,Mohomed Saddam,V Ateak,1,0,,,,,,"",""
+ball,1,8.1,Seychelles,Jobayer Hossen,Mohomed Saddam,IKO Aboagye,0,0,,,,,,"",""
+ball,1,8.2,Seychelles,Jobayer Hossen,Mohomed Saddam,IKO Aboagye,1,0,,,,,,"",""
+ball,1,8.3,Seychelles,Mohomed Saddam,Jobayer Hossen,IKO Aboagye,0,0,,,,,,run out,Mohomed Saddam
+ball,1,8.4,Seychelles,SR Rocket,Jobayer Hossen,IKO Aboagye,0,0,,,,,,"",""
+ball,1,8.5,Seychelles,SR Rocket,Jobayer Hossen,IKO Aboagye,0,0,,,,,,lbw,SR Rocket
+ball,1,8.6,Seychelles,Thilina Silva,Jobayer Hossen,IKO Aboagye,0,0,,,,,,"",""
+ball,1,9.1,Seychelles,Jobayer Hossen,Thilina Silva,V Ateak,0,0,,,,,,"",""
+ball,1,9.2,Seychelles,Jobayer Hossen,Thilina Silva,V Ateak,0,0,,,,,,"",""
+ball,1,9.3,Seychelles,Jobayer Hossen,Thilina Silva,V Ateak,0,0,,,,,,"",""
+ball,1,9.4,Seychelles,Jobayer Hossen,Thilina Silva,V Ateak,0,0,,,,,,"",""
+ball,1,9.5,Seychelles,Jobayer Hossen,Thilina Silva,V Ateak,1,0,,,,,,"",""
+ball,1,9.6,Seychelles,Thilina Silva,Jobayer Hossen,V Ateak,0,0,,,,,,"",""
+ball,1,10.1,Seychelles,Jobayer Hossen,Thilina Silva,IKO Aboagye,0,0,,,,,,"",""
+ball,1,10.2,Seychelles,Jobayer Hossen,Thilina Silva,IKO Aboagye,0,0,,,,,,"",""
+ball,1,10.3,Seychelles,Jobayer Hossen,Thilina Silva,IKO Aboagye,1,0,,,,,,"",""
+ball,1,10.4,Seychelles,Thilina Silva,Jobayer Hossen,IKO Aboagye,0,0,,,,,,"",""
+ball,1,10.5,Seychelles,Thilina Silva,Jobayer Hossen,IKO Aboagye,0,0,,,,,,"",""
+ball,1,10.6,Seychelles,Thilina Silva,Jobayer Hossen,IKO Aboagye,2,0,,,,,,"",""
+ball,1,11.1,Seychelles,Jobayer Hossen,Thilina Silva,BK Majji,0,0,,,,,,"",""
+ball,1,11.2,Seychelles,Jobayer Hossen,Thilina Silva,BK Majji,6,0,,,,,,"",""
+ball,1,11.3,Seychelles,Jobayer Hossen,Thilina Silva,BK Majji,0,0,,,,,,"",""
+ball,1,11.4,Seychelles,Jobayer Hossen,Thilina Silva,BK Majji,0,0,,,,,,"",""
+ball,1,11.5,Seychelles,Jobayer Hossen,Thilina Silva,BK Majji,0,0,,,,,,"",""
+ball,1,11.6,Seychelles,Jobayer Hossen,Thilina Silva,BK Majji,6,0,,,,,,"",""
+ball,1,12.1,Seychelles,Thilina Silva,Jobayer Hossen,L Nyarko,0,0,,,,,,"",""
+ball,1,12.2,Seychelles,Thilina Silva,Jobayer Hossen,L Nyarko,1,0,,,,,,"",""
+ball,1,12.3,Seychelles,Jobayer Hossen,Thilina Silva,L Nyarko,0,0,,,,,,"",""
+ball,1,12.4,Seychelles,Jobayer Hossen,Thilina Silva,L Nyarko,0,0,,,,,,"",""
+ball,1,12.5,Seychelles,Jobayer Hossen,Thilina Silva,L Nyarko,0,0,,,,,,"",""
+ball,1,12.6,Seychelles,Jobayer Hossen,Thilina Silva,L Nyarko,4,0,,,,,,"",""
+ball,1,13.1,Seychelles,Thilina Silva,Jobayer Hossen,Nitesh Hooda,0,0,,,,,,"",""
+ball,1,13.2,Seychelles,Thilina Silva,Jobayer Hossen,Nitesh Hooda,0,0,,,,,,"",""
+ball,1,13.3,Seychelles,Thilina Silva,Jobayer Hossen,Nitesh Hooda,0,0,,,,,,"",""
+ball,1,13.4,Seychelles,Thilina Silva,Jobayer Hossen,Nitesh Hooda,0,0,,,,,,"",""
+ball,1,13.5,Seychelles,Thilina Silva,Jobayer Hossen,Nitesh Hooda,0,0,,,,,,"",""
+ball,1,13.6,Seychelles,Thilina Silva,Jobayer Hossen,Nitesh Hooda,0,0,,,,,,"",""
+ball,1,14.1,Seychelles,Jobayer Hossen,Thilina Silva,OH Agbomadzie,0,0,,,,,,"",""
+ball,1,14.2,Seychelles,Jobayer Hossen,Thilina Silva,OH Agbomadzie,1,0,,,,,,"",""
+ball,1,14.3,Seychelles,Thilina Silva,Jobayer Hossen,OH Agbomadzie,1,0,,,,,,"",""
+ball,1,14.4,Seychelles,Jobayer Hossen,Thilina Silva,OH Agbomadzie,0,0,,,,,,"",""
+ball,1,14.5,Seychelles,Jobayer Hossen,Thilina Silva,OH Agbomadzie,1,0,,,,,,"",""
+ball,1,14.6,Seychelles,Thilina Silva,Jobayer Hossen,OH Agbomadzie,0,0,,,,,,"",""
+ball,1,15.1,Seychelles,Jobayer Hossen,Thilina Silva,Nitesh Hooda,0,0,,,,,,"",""
+ball,1,15.2,Seychelles,Jobayer Hossen,Thilina Silva,Nitesh Hooda,0,0,,,,,,"",""
+ball,1,15.3,Seychelles,Jobayer Hossen,Thilina Silva,Nitesh Hooda,0,0,,,,,,"",""
+ball,1,15.4,Seychelles,Jobayer Hossen,Thilina Silva,Nitesh Hooda,4,0,,,,,,"",""
+ball,1,15.5,Seychelles,Jobayer Hossen,Thilina Silva,Nitesh Hooda,0,0,,,,,,"",""
+ball,1,15.6,Seychelles,Jobayer Hossen,Thilina Silva,Nitesh Hooda,0,0,,,,,,"",""
+ball,1,16.1,Seychelles,Thilina Silva,Jobayer Hossen,OH Agbomadzie,0,0,,,,,,"",""
+ball,1,16.2,Seychelles,Thilina Silva,Jobayer Hossen,OH Agbomadzie,0,0,,,,,,"",""
+ball,1,16.3,Seychelles,Thilina Silva,Jobayer Hossen,OH Agbomadzie,0,0,,,,,,"",""
+ball,1,16.4,Seychelles,Thilina Silva,Jobayer Hossen,OH Agbomadzie,4,0,,,,,,"",""
+ball,1,16.5,Seychelles,Thilina Silva,Jobayer Hossen,OH Agbomadzie,1,0,,,,,,"",""
+ball,1,16.6,Seychelles,Jobayer Hossen,Thilina Silva,OH Agbomadzie,0,0,,,,,,"",""
+ball,1,17.1,Seychelles,Thilina Silva,Jobayer Hossen,Nitesh Hooda,0,0,,,,,,"",""
+ball,1,17.2,Seychelles,Thilina Silva,Jobayer Hossen,Nitesh Hooda,1,0,,,,,,"",""
+ball,1,17.3,Seychelles,Jobayer Hossen,Thilina Silva,Nitesh Hooda,0,0,,,,,,lbw,Jobayer Hossen
+ball,1,17.4,Seychelles,S Rukmal,Thilina Silva,Nitesh Hooda,0,0,,,,,,"",""
+ball,1,17.5,Seychelles,S Rukmal,Thilina Silva,Nitesh Hooda,0,0,,,,,,"",""
+ball,1,17.6,Seychelles,S Rukmal,Thilina Silva,Nitesh Hooda,4,0,,,,,,"",""
+ball,1,18.1,Seychelles,Thilina Silva,S Rukmal,OH Agbomadzie,0,0,,,,,,"",""
+ball,1,18.2,Seychelles,Thilina Silva,S Rukmal,OH Agbomadzie,0,0,,,,,,"",""
+ball,1,18.3,Seychelles,Thilina Silva,S Rukmal,OH Agbomadzie,1,0,,,,,,"",""
+ball,1,18.4,Seychelles,S Rukmal,Thilina Silva,OH Agbomadzie,0,0,,,,,,"",""
+ball,1,18.5,Seychelles,S Rukmal,Thilina Silva,OH Agbomadzie,0,0,,,,,,"",""
+ball,1,18.6,Seychelles,S Rukmal,Thilina Silva,OH Agbomadzie,0,0,,,,,,"",""
+ball,1,19.1,Seychelles,Thilina Silva,S Rukmal,L Nyarko,0,0,,,,,,"",""
+ball,1,19.2,Seychelles,Thilina Silva,S Rukmal,L Nyarko,1,0,,,,,,"",""
+ball,1,19.3,Seychelles,S Rukmal,Thilina Silva,L Nyarko,1,0,,,,,,"",""
+ball,1,19.4,Seychelles,Thilina Silva,S Rukmal,L Nyarko,0,0,,,,,,caught,Thilina Silva
+ball,2,0.1,Ghana,J Guatam,J Solomon,S Rukmal,0,1,1,,,,,"",""
+ball,2,0.2,Ghana,J Guatam,J Solomon,S Rukmal,4,0,,,,,,"",""
+ball,2,0.3,Ghana,J Guatam,J Solomon,S Rukmal,0,1,,,,1,,"",""
+ball,2,0.4,Ghana,J Solomon,J Guatam,S Rukmal,0,1,,,1,,,"",""
+ball,2,0.5,Ghana,J Guatam,J Solomon,S Rukmal,0,0,,,,,,"",""
+ball,2,0.6,Ghana,J Guatam,J Solomon,S Rukmal,4,0,,,,,,"",""
+ball,2,0.7,Ghana,J Guatam,J Solomon,S Rukmal,4,0,,,,,,"",""
+ball,2,1.1,Ghana,J Solomon,J Guatam,SR Rocket,0,0,,,,,,lbw,J Solomon
+ball,2,1.2,Ghana,OH Agbomadzie,J Guatam,SR Rocket,2,0,,,,,,"",""
+ball,2,1.3,Ghana,OH Agbomadzie,J Guatam,SR Rocket,1,1,,1,,,,"",""
+ball,2,1.4,Ghana,J Guatam,OH Agbomadzie,SR Rocket,0,0,,,,,,run out,OH Agbomadzie
+ball,2,1.5,Ghana,J Guatam,BK Majji,SR Rocket,1,0,,,,,,"",""
+ball,2,1.6,Ghana,BK Majji,J Guatam,SR Rocket,1,0,,,,,,"",""
+ball,2,1.7,Ghana,J Guatam,BK Majji,SR Rocket,4,0,,,,,,"",""
+ball,2,2.1,Ghana,BK Majji,J Guatam,Jobayer Hossen,4,0,,,,,,"",""
+ball,2,2.2,Ghana,BK Majji,J Guatam,Jobayer Hossen,2,0,,,,,,"",""
+ball,2,2.3,Ghana,BK Majji,J Guatam,Jobayer Hossen,0,0,,,,,,"",""
+ball,2,2.4,Ghana,BK Majji,J Guatam,Jobayer Hossen,0,0,,,,,,"",""
+ball,2,2.5,Ghana,BK Majji,J Guatam,Jobayer Hossen,0,0,,,,,,"",""
+ball,2,2.6,Ghana,BK Majji,J Guatam,Jobayer Hossen,1,0,,,,,,"",""
+ball,2,3.1,Ghana,BK Majji,J Guatam,TKP Rajapaksha,0,0,,,,,,"",""
+ball,2,3.2,Ghana,BK Majji,J Guatam,TKP Rajapaksha,1,0,,,,,,"",""
+ball,2,3.3,Ghana,J Guatam,BK Majji,TKP Rajapaksha,2,0,,,,,,"",""
+ball,2,3.4,Ghana,J Guatam,BK Majji,TKP Rajapaksha,2,0,,,,,,"",""
+ball,2,3.5,Ghana,J Guatam,BK Majji,TKP Rajapaksha,0,0,,,,,,caught,J Guatam
+ball,2,3.6,Ghana,Devender Singh,BK Majji,TKP Rajapaksha,0,0,,,,,,"",""
+ball,2,4.1,Ghana,BK Majji,Devender Singh,S Rukmal,0,0,,,,,,"",""
+ball,2,4.2,Ghana,BK Majji,Devender Singh,S Rukmal,1,0,,,,,,"",""
+ball,2,4.3,Ghana,Devender Singh,BK Majji,S Rukmal,1,0,,,,,,"",""
+ball,2,4.4,Ghana,BK Majji,Devender Singh,S Rukmal,0,0,,,,,,"",""
+ball,2,4.5,Ghana,BK Majji,Devender Singh,S Rukmal,0,0,,,,,,"",""
+ball,2,4.6,Ghana,BK Majji,Devender Singh,S Rukmal,4,0,,,,,,"",""
+ball,2,5.1,Ghana,Devender Singh,BK Majji,SR Rocket,0,0,,,,,,"",""
+ball,2,5.2,Ghana,Devender Singh,BK Majji,SR Rocket,4,0,,,,,,"",""
+ball,2,5.3,Ghana,Devender Singh,BK Majji,SR Rocket,0,0,,,,,,"",""
+ball,2,5.4,Ghana,Devender Singh,BK Majji,SR Rocket,1,0,,,,,,"",""
+ball,2,5.5,Ghana,BK Majji,Devender Singh,SR Rocket,4,0,,,,,,"",""
+ball,2,5.6,Ghana,BK Majji,Devender Singh,SR Rocket,0,0,,,,,,"",""
+ball,2,6.1,Ghana,Devender Singh,BK Majji,S Rukmal,1,0,,,,,,"",""
+ball,2,6.2,Ghana,BK Majji,Devender Singh,S Rukmal,0,0,,,,,,"",""
+ball,2,6.3,Ghana,BK Majji,Devender Singh,S Rukmal,0,0,,,,,,"",""
+ball,2,6.4,Ghana,BK Majji,Devender Singh,S Rukmal,1,0,,,,,,"",""
+ball,2,6.5,Ghana,Devender Singh,BK Majji,S Rukmal,1,0,,,,,,"",""
+ball,2,6.6,Ghana,BK Majji,Devender Singh,S Rukmal,0,0,,,,,,"",""
+ball,2,7.1,Ghana,Devender Singh,BK Majji,Thilina Silva,0,0,,,,,,"",""
+ball,2,7.2,Ghana,Devender Singh,BK Majji,Thilina Silva,0,0,,,,,,"",""
+ball,2,7.3,Ghana,Devender Singh,BK Majji,Thilina Silva,2,0,,,,,,"",""
+ball,2,7.4,Ghana,Devender Singh,BK Majji,Thilina Silva,1,0,,,,,,"",""
+ball,2,7.5,Ghana,BK Majji,Devender Singh,Thilina Silva,1,0,,,,,,"",""
+ball,2,7.6,Ghana,Devender Singh,BK Majji,Thilina Silva,0,0,,,,,,"",""
+ball,2,8.1,Ghana,BK Majji,Devender Singh,D Kalvin,1,0,,,,,,"",""
+ball,2,8.2,Ghana,Devender Singh,BK Majji,D Kalvin,1,0,,,,,,"",""
+ball,2,8.3,Ghana,BK Majji,Devender Singh,D Kalvin,1,1,,1,,,,"",""
+ball,2,8.4,Ghana,Devender Singh,BK Majji,D Kalvin,0,0,,,,,,"",""
+ball,2,8.5,Ghana,Devender Singh,BK Majji,D Kalvin,1,0,,,,,,"",""
+ball,2,8.6,Ghana,BK Majji,Devender Singh,D Kalvin,1,0,,,,,,"",""
+ball,2,8.7,Ghana,Devender Singh,BK Majji,D Kalvin,0,0,,,,,,"",""
+ball,2,9.1,Ghana,BK Majji,Devender Singh,Thilina Silva,0,0,,,,,,"",""
+ball,2,9.2,Ghana,BK Majji,Devender Singh,Thilina Silva,0,0,,,,,,caught,BK Majji
+ball,2,9.3,Ghana,IKO Aboagye,Devender Singh,Thilina Silva,0,0,,,,,,"",""
+ball,2,9.4,Ghana,IKO Aboagye,Devender Singh,Thilina Silva,1,0,,,,,,"",""
+ball,2,9.5,Ghana,Devender Singh,IKO Aboagye,Thilina Silva,0,0,,,,,,"",""
+ball,2,9.6,Ghana,Devender Singh,IKO Aboagye,Thilina Silva,1,0,,,,,,"",""
+ball,2,10.1,Ghana,Devender Singh,IKO Aboagye,D Kalvin,0,5,5,,,,,"",""
+ball,2,10.2,Ghana,Devender Singh,IKO Aboagye,D Kalvin,4,0,,,,,,"",""

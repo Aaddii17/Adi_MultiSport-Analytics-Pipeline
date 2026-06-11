@@ -1,0 +1,299 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Sydney Sixers
+info,team,Adelaide Strikers
+info,gender,male
+info,season,2021/22
+info,date,2022/01/17
+info,event,Big Bash League
+info,match_number,51
+info,venue,Adelaide Oval
+info,city,Adelaide
+info,toss_winner,Sydney Sixers
+info,toss_decision,bat
+info,player_of_match,IA Cockbain
+info,umpire,DR Close
+info,umpire,PJ Gillespie
+info,reserve_umpire,SE Dionysius
+info,tv_umpire,NR Johnstone
+info,match_referee,Kent Hannam
+info,winner,Adelaide Strikers
+info,winner_wickets,8
+info,player,Sydney Sixers,J Edwards
+info,player,Sydney Sixers,JR Philippe
+info,player,Sydney Sixers,MC Henriques
+info,player,Sydney Sixers,DT Christian
+info,player,Sydney Sixers,DP Hughes
+info,player,Sydney Sixers,J Avendano
+info,player,Sydney Sixers,SA Abbott
+info,player,Sydney Sixers,H Kerr
+info,player,Sydney Sixers,BJ Dwarshuis
+info,player,Sydney Sixers,JM Bird
+info,player,Sydney Sixers,T Murphy
+info,player,Adelaide Strikers,MT Renshaw
+info,player,Adelaide Strikers,HJ Hunt
+info,player,Adelaide Strikers,IA Cockbain
+info,player,Adelaide Strikers,JW Wells
+info,player,Adelaide Strikers,J Weatherald
+info,player,Adelaide Strikers,T Kelly
+info,player,Adelaide Strikers,HJ Nielsen
+info,player,Adelaide Strikers,HTRY Thornton
+info,player,Adelaide Strikers,PM Siddle
+info,player,Adelaide Strikers,HNA Conway
+info,player,Adelaide Strikers,Fawad Ahmed
+info,registry,people,BJ Dwarshuis,e1b9f3a9
+info,registry,people,DP Hughes,f3982af9
+info,registry,people,DR Close,4cae2b0c
+info,registry,people,DT Christian,2a2e6343
+info,registry,people,Fawad Ahmed,22ae3041
+info,registry,people,H Kerr,f422728b
+info,registry,people,HJ Hunt,62ef4abe
+info,registry,people,HJ Nielsen,0ea1455a
+info,registry,people,HNA Conway,272fc5ad
+info,registry,people,HTRY Thornton,055be93a
+info,registry,people,IA Cockbain,542fd5a6
+info,registry,people,J Avendano,0af4a90b
+info,registry,people,J Edwards,f787e0eb
+info,registry,people,J Weatherald,edc7ddb6
+info,registry,people,JM Bird,bc773eeb
+info,registry,people,JR Philippe,39086549
+info,registry,people,JW Wells,8bdac857
+info,registry,people,Kent Hannam,8cc171e7
+info,registry,people,MC Henriques,32198ae0
+info,registry,people,MT Renshaw,218d4d78
+info,registry,people,NR Johnstone,ce274b6a
+info,registry,people,PJ Gillespie,3e253a50
+info,registry,people,PM Siddle,bd93fea4
+info,registry,people,SA Abbott,1a2676c5
+info,registry,people,SE Dionysius,ac886e6f
+info,registry,people,T Kelly,6ceb94d0
+info,registry,people,T Murphy,ac2e7ec0
+ball,1,0.1,Sydney Sixers,J Edwards,JR Philippe,MT Renshaw,0,1,,,,1,,"",""
+ball,1,0.2,Sydney Sixers,JR Philippe,J Edwards,MT Renshaw,2,0,,,,,,"",""
+ball,1,0.3,Sydney Sixers,JR Philippe,J Edwards,MT Renshaw,1,0,,,,,,"",""
+ball,1,0.4,Sydney Sixers,J Edwards,JR Philippe,MT Renshaw,2,0,,,,,,"",""
+ball,1,0.5,Sydney Sixers,J Edwards,JR Philippe,MT Renshaw,1,0,,,,,,"",""
+ball,1,0.6,Sydney Sixers,JR Philippe,J Edwards,MT Renshaw,0,0,,,,,,"",""
+ball,1,1.1,Sydney Sixers,J Edwards,JR Philippe,HNA Conway,1,0,,,,,,"",""
+ball,1,1.2,Sydney Sixers,JR Philippe,J Edwards,HNA Conway,0,0,,,,,,"",""
+ball,1,1.3,Sydney Sixers,JR Philippe,J Edwards,HNA Conway,1,0,,,,,,"",""
+ball,1,1.4,Sydney Sixers,J Edwards,JR Philippe,HNA Conway,2,0,,,,,,"",""
+ball,1,1.5,Sydney Sixers,J Edwards,JR Philippe,HNA Conway,1,0,,,,,,"",""
+ball,1,1.6,Sydney Sixers,JR Philippe,J Edwards,HNA Conway,0,0,,,,,,"",""
+ball,1,2.1,Sydney Sixers,J Edwards,JR Philippe,HTRY Thornton,0,0,,,,,,"",""
+ball,1,2.2,Sydney Sixers,J Edwards,JR Philippe,HTRY Thornton,0,0,,,,,,"",""
+ball,1,2.3,Sydney Sixers,J Edwards,JR Philippe,HTRY Thornton,1,0,,,,,,"",""
+ball,1,2.4,Sydney Sixers,JR Philippe,J Edwards,HTRY Thornton,2,0,,,,,,"",""
+ball,1,2.5,Sydney Sixers,JR Philippe,J Edwards,HTRY Thornton,4,0,,,,,,"",""
+ball,1,2.6,Sydney Sixers,JR Philippe,J Edwards,HTRY Thornton,4,0,,,,,,"",""
+ball,1,3.1,Sydney Sixers,J Edwards,JR Philippe,PM Siddle,0,0,,,,,,"",""
+ball,1,3.2,Sydney Sixers,J Edwards,JR Philippe,PM Siddle,2,0,,,,,,"",""
+ball,1,3.3,Sydney Sixers,J Edwards,JR Philippe,PM Siddle,3,0,,,,,,"",""
+ball,1,3.4,Sydney Sixers,JR Philippe,J Edwards,PM Siddle,0,0,,,,,,"",""
+ball,1,3.5,Sydney Sixers,JR Philippe,J Edwards,PM Siddle,1,0,,,,,,"",""
+ball,1,3.6,Sydney Sixers,J Edwards,JR Philippe,PM Siddle,0,0,,,,,,"",""
+ball,1,4.1,Sydney Sixers,JR Philippe,J Edwards,Fawad Ahmed,1,0,,,,,,"",""
+ball,1,4.2,Sydney Sixers,J Edwards,JR Philippe,Fawad Ahmed,1,0,,,,,,"",""
+ball,1,4.3,Sydney Sixers,JR Philippe,J Edwards,Fawad Ahmed,1,0,,,,,,"",""
+ball,1,4.4,Sydney Sixers,J Edwards,JR Philippe,Fawad Ahmed,2,0,,,,,,"",""
+ball,1,4.5,Sydney Sixers,J Edwards,JR Philippe,Fawad Ahmed,1,0,,,,,,"",""
+ball,1,4.6,Sydney Sixers,JR Philippe,J Edwards,Fawad Ahmed,1,0,,,,,,"",""
+ball,1,5.1,Sydney Sixers,JR Philippe,J Edwards,PM Siddle,1,0,,,,,,"",""
+ball,1,5.2,Sydney Sixers,J Edwards,JR Philippe,PM Siddle,1,0,,,,,,"",""
+ball,1,5.3,Sydney Sixers,JR Philippe,J Edwards,PM Siddle,2,0,,,,,,"",""
+ball,1,5.4,Sydney Sixers,JR Philippe,J Edwards,PM Siddle,0,1,1,,,,,"",""
+ball,1,5.5,Sydney Sixers,JR Philippe,J Edwards,PM Siddle,1,0,,,,,,"",""
+ball,1,5.6,Sydney Sixers,J Edwards,JR Philippe,PM Siddle,0,0,,,,,,"",""
+ball,1,5.7,Sydney Sixers,J Edwards,JR Philippe,PM Siddle,1,0,,,,,,"",""
+ball,1,6.1,Sydney Sixers,J Edwards,JR Philippe,Fawad Ahmed,1,0,,,,,,"",""
+ball,1,6.2,Sydney Sixers,JR Philippe,J Edwards,Fawad Ahmed,0,0,,,,,,"",""
+ball,1,6.3,Sydney Sixers,JR Philippe,J Edwards,Fawad Ahmed,0,0,,,,,,bowled,JR Philippe
+ball,1,6.4,Sydney Sixers,MC Henriques,J Edwards,Fawad Ahmed,0,0,,,,,,"",""
+ball,1,6.5,Sydney Sixers,MC Henriques,J Edwards,Fawad Ahmed,1,0,,,,,,"",""
+ball,1,6.6,Sydney Sixers,J Edwards,MC Henriques,Fawad Ahmed,1,0,,,,,,"",""
+ball,1,7.1,Sydney Sixers,J Edwards,MC Henriques,HNA Conway,1,0,,,,,,"",""
+ball,1,7.2,Sydney Sixers,MC Henriques,J Edwards,HNA Conway,1,0,,,,,,"",""
+ball,1,7.3,Sydney Sixers,J Edwards,MC Henriques,HNA Conway,1,0,,,,,,"",""
+ball,1,7.4,Sydney Sixers,MC Henriques,J Edwards,HNA Conway,4,0,,,,,,"",""
+ball,1,7.5,Sydney Sixers,MC Henriques,J Edwards,HNA Conway,1,0,,,,,,"",""
+ball,1,7.6,Sydney Sixers,J Edwards,MC Henriques,HNA Conway,4,0,,,,,,"",""
+ball,1,8.1,Sydney Sixers,MC Henriques,J Edwards,Fawad Ahmed,1,0,,,,,,"",""
+ball,1,8.2,Sydney Sixers,J Edwards,MC Henriques,Fawad Ahmed,0,0,,,,,,"",""
+ball,1,8.3,Sydney Sixers,J Edwards,MC Henriques,Fawad Ahmed,1,0,,,,,,"",""
+ball,1,8.4,Sydney Sixers,MC Henriques,J Edwards,Fawad Ahmed,0,0,,,,,,"",""
+ball,1,8.5,Sydney Sixers,MC Henriques,J Edwards,Fawad Ahmed,0,0,,,,,,"",""
+ball,1,8.6,Sydney Sixers,MC Henriques,J Edwards,Fawad Ahmed,2,0,,,,,,"",""
+ball,1,9.1,Sydney Sixers,J Edwards,MC Henriques,HTRY Thornton,1,0,,,,,,"",""
+ball,1,9.2,Sydney Sixers,MC Henriques,J Edwards,HTRY Thornton,1,0,,,,,,"",""
+ball,1,9.3,Sydney Sixers,J Edwards,MC Henriques,HTRY Thornton,0,0,,,,,,"",""
+ball,1,9.4,Sydney Sixers,J Edwards,MC Henriques,HTRY Thornton,1,0,,,,,,"",""
+ball,1,9.5,Sydney Sixers,MC Henriques,J Edwards,HTRY Thornton,4,0,,,,,,"",""
+ball,1,9.6,Sydney Sixers,MC Henriques,J Edwards,HTRY Thornton,1,0,,,,,,"",""
+ball,1,10.1,Sydney Sixers,MC Henriques,J Edwards,MT Renshaw,1,0,,,,,,"",""
+ball,1,10.2,Sydney Sixers,J Edwards,MC Henriques,MT Renshaw,1,0,,,,,,"",""
+ball,1,10.3,Sydney Sixers,MC Henriques,J Edwards,MT Renshaw,0,0,,,,,,bowled,MC Henriques
+ball,1,10.4,Sydney Sixers,DT Christian,J Edwards,MT Renshaw,2,0,,,,,,"",""
+ball,1,10.5,Sydney Sixers,DT Christian,J Edwards,MT Renshaw,0,0,,,,,,"",""
+ball,1,10.6,Sydney Sixers,DT Christian,J Edwards,MT Renshaw,1,0,,,,,,"",""
+ball,1,11.1,Sydney Sixers,DT Christian,J Edwards,HNA Conway,1,0,,,,,,"",""
+ball,1,11.2,Sydney Sixers,J Edwards,DT Christian,HNA Conway,0,0,,,,,,"",""
+ball,1,11.3,Sydney Sixers,J Edwards,DT Christian,HNA Conway,2,0,,,,,,"",""
+ball,1,11.4,Sydney Sixers,J Edwards,DT Christian,HNA Conway,1,0,,,,,,"",""
+ball,1,11.5,Sydney Sixers,DT Christian,J Edwards,HNA Conway,2,0,,,,,,"",""
+ball,1,11.6,Sydney Sixers,DT Christian,J Edwards,HNA Conway,1,0,,,,,,"",""
+ball,1,12.1,Sydney Sixers,DT Christian,J Edwards,Fawad Ahmed,0,0,,,,,,"",""
+ball,1,12.2,Sydney Sixers,DT Christian,J Edwards,Fawad Ahmed,1,0,,,,,,"",""
+ball,1,12.3,Sydney Sixers,J Edwards,DT Christian,Fawad Ahmed,0,0,,,,,,bowled,J Edwards
+ball,1,12.4,Sydney Sixers,DP Hughes,DT Christian,Fawad Ahmed,0,0,,,,,,caught,DP Hughes
+ball,1,12.5,Sydney Sixers,J Avendano,DT Christian,Fawad Ahmed,0,0,,,,,,"",""
+ball,1,12.6,Sydney Sixers,J Avendano,DT Christian,Fawad Ahmed,1,0,,,,,,"",""
+ball,1,13.1,Sydney Sixers,J Avendano,DT Christian,HTRY Thornton,0,0,,,,,,"",""
+ball,1,13.2,Sydney Sixers,J Avendano,DT Christian,HTRY Thornton,3,0,,,,,,"",""
+ball,1,13.3,Sydney Sixers,DT Christian,J Avendano,HTRY Thornton,1,0,,,,,,"",""
+ball,1,13.4,Sydney Sixers,J Avendano,DT Christian,HTRY Thornton,0,0,,,,,,"",""
+ball,1,13.5,Sydney Sixers,J Avendano,DT Christian,HTRY Thornton,1,0,,,,,,"",""
+ball,1,13.6,Sydney Sixers,DT Christian,J Avendano,HTRY Thornton,1,0,,,,,,"",""
+ball,1,14.1,Sydney Sixers,DT Christian,J Avendano,HNA Conway,3,0,,,,,,"",""
+ball,1,14.2,Sydney Sixers,J Avendano,DT Christian,HNA Conway,1,0,,,,,,"",""
+ball,1,14.3,Sydney Sixers,DT Christian,J Avendano,HNA Conway,0,0,,,,,,"",""
+ball,1,14.4,Sydney Sixers,DT Christian,J Avendano,HNA Conway,1,0,,,,,,"",""
+ball,1,14.5,Sydney Sixers,J Avendano,DT Christian,HNA Conway,0,0,,,,,,"",""
+ball,1,14.6,Sydney Sixers,J Avendano,DT Christian,HNA Conway,1,0,,,,,,"",""
+ball,1,15.1,Sydney Sixers,J Avendano,DT Christian,PM Siddle,4,0,,,,,,"",""
+ball,1,15.2,Sydney Sixers,J Avendano,DT Christian,PM Siddle,1,0,,,,,,"",""
+ball,1,15.3,Sydney Sixers,DT Christian,J Avendano,PM Siddle,6,0,,,,,,"",""
+ball,1,15.4,Sydney Sixers,DT Christian,J Avendano,PM Siddle,1,0,,,,,,"",""
+ball,1,15.5,Sydney Sixers,J Avendano,DT Christian,PM Siddle,2,0,,,,,,"",""
+ball,1,15.6,Sydney Sixers,J Avendano,DT Christian,PM Siddle,1,0,,,,,,"",""
+ball,1,16.1,Sydney Sixers,J Avendano,DT Christian,MT Renshaw,6,0,,,,,,"",""
+ball,1,16.2,Sydney Sixers,J Avendano,DT Christian,MT Renshaw,1,0,,,,,,"",""
+ball,1,16.3,Sydney Sixers,DT Christian,J Avendano,MT Renshaw,1,0,,,,,,"",""
+ball,1,16.4,Sydney Sixers,J Avendano,DT Christian,MT Renshaw,6,0,,,,,,"",""
+ball,1,16.5,Sydney Sixers,J Avendano,DT Christian,MT Renshaw,2,0,,,,,,"",""
+ball,1,16.6,Sydney Sixers,J Avendano,DT Christian,MT Renshaw,1,0,,,,,,"",""
+ball,1,17.1,Sydney Sixers,J Avendano,DT Christian,HTRY Thornton,0,0,,,,,,"",""
+ball,1,17.2,Sydney Sixers,J Avendano,DT Christian,HTRY Thornton,6,0,,,,,,"",""
+ball,1,17.3,Sydney Sixers,J Avendano,DT Christian,HTRY Thornton,6,0,,,,,,"",""
+ball,1,17.4,Sydney Sixers,J Avendano,DT Christian,HTRY Thornton,0,0,,,,,,"",""
+ball,1,17.5,Sydney Sixers,J Avendano,DT Christian,HTRY Thornton,0,5,,1,4,,,"",""
+ball,1,17.6,Sydney Sixers,J Avendano,DT Christian,HTRY Thornton,1,0,,,,,,"",""
+ball,1,17.7,Sydney Sixers,DT Christian,J Avendano,HTRY Thornton,0,0,,,,,,caught,DT Christian
+ball,1,18.1,Sydney Sixers,SA Abbott,J Avendano,MT Renshaw,1,0,,,,,,"",""
+ball,1,18.2,Sydney Sixers,J Avendano,SA Abbott,MT Renshaw,1,0,,,,,,"",""
+ball,1,18.3,Sydney Sixers,SA Abbott,J Avendano,MT Renshaw,0,1,,,,1,,"",""
+ball,1,18.4,Sydney Sixers,J Avendano,SA Abbott,MT Renshaw,1,0,,,,,,"",""
+ball,1,18.5,Sydney Sixers,SA Abbott,J Avendano,MT Renshaw,1,0,,,,,,"",""
+ball,1,18.6,Sydney Sixers,J Avendano,SA Abbott,MT Renshaw,6,0,,,,,,"",""
+ball,1,19.1,Sydney Sixers,SA Abbott,J Avendano,PM Siddle,2,0,,,,,,"",""
+ball,1,19.2,Sydney Sixers,SA Abbott,J Avendano,PM Siddle,1,0,,,,,,"",""
+ball,1,19.3,Sydney Sixers,J Avendano,SA Abbott,PM Siddle,0,0,,,,,,"",""
+ball,1,19.4,Sydney Sixers,J Avendano,SA Abbott,PM Siddle,0,0,,,,,,caught,J Avendano
+ball,1,19.5,Sydney Sixers,SA Abbott,H Kerr,PM Siddle,0,0,,,,,,bowled,SA Abbott
+ball,1,19.6,Sydney Sixers,BJ Dwarshuis,H Kerr,PM Siddle,1,0,,,,,,"",""
+ball,2,0.1,Adelaide Strikers,MT Renshaw,HJ Hunt,JM Bird,4,0,,,,,,"",""
+ball,2,0.2,Adelaide Strikers,MT Renshaw,HJ Hunt,JM Bird,1,0,,,,,,"",""
+ball,2,0.3,Adelaide Strikers,HJ Hunt,MT Renshaw,JM Bird,1,0,,,,,,"",""
+ball,2,0.4,Adelaide Strikers,MT Renshaw,HJ Hunt,JM Bird,0,0,,,,,,"",""
+ball,2,0.5,Adelaide Strikers,MT Renshaw,HJ Hunt,JM Bird,0,0,,,,,,"",""
+ball,2,0.6,Adelaide Strikers,MT Renshaw,HJ Hunt,JM Bird,1,0,,,,,,"",""
+ball,2,1.1,Adelaide Strikers,MT Renshaw,HJ Hunt,SA Abbott,4,0,,,,,,"",""
+ball,2,1.2,Adelaide Strikers,MT Renshaw,HJ Hunt,SA Abbott,4,0,,,,,,"",""
+ball,2,1.3,Adelaide Strikers,MT Renshaw,HJ Hunt,SA Abbott,1,0,,,,,,"",""
+ball,2,1.4,Adelaide Strikers,HJ Hunt,MT Renshaw,SA Abbott,1,0,,,,,,"",""
+ball,2,1.5,Adelaide Strikers,MT Renshaw,HJ Hunt,SA Abbott,4,0,,,,,,"",""
+ball,2,1.6,Adelaide Strikers,MT Renshaw,HJ Hunt,SA Abbott,1,0,,,,,,"",""
+ball,2,2.1,Adelaide Strikers,MT Renshaw,HJ Hunt,H Kerr,4,0,,,,,,"",""
+ball,2,2.2,Adelaide Strikers,MT Renshaw,HJ Hunt,H Kerr,0,1,1,,,,,"",""
+ball,2,2.3,Adelaide Strikers,MT Renshaw,HJ Hunt,H Kerr,4,0,,,,,,"",""
+ball,2,2.4,Adelaide Strikers,MT Renshaw,HJ Hunt,H Kerr,0,0,,,,,,"",""
+ball,2,2.5,Adelaide Strikers,MT Renshaw,HJ Hunt,H Kerr,1,0,,,,,,"",""
+ball,2,2.6,Adelaide Strikers,HJ Hunt,MT Renshaw,H Kerr,4,0,,,,,,"",""
+ball,2,2.7,Adelaide Strikers,HJ Hunt,MT Renshaw,H Kerr,1,0,,,,,,"",""
+ball,2,3.1,Adelaide Strikers,HJ Hunt,MT Renshaw,BJ Dwarshuis,0,0,,,,,,"",""
+ball,2,3.2,Adelaide Strikers,HJ Hunt,MT Renshaw,BJ Dwarshuis,6,0,,,,,,"",""
+ball,2,3.3,Adelaide Strikers,HJ Hunt,MT Renshaw,BJ Dwarshuis,2,0,,,,,,"",""
+ball,2,3.4,Adelaide Strikers,HJ Hunt,MT Renshaw,BJ Dwarshuis,0,0,,,,,,"",""
+ball,2,3.5,Adelaide Strikers,HJ Hunt,MT Renshaw,BJ Dwarshuis,0,0,,,,,,caught,HJ Hunt
+ball,2,3.6,Adelaide Strikers,IA Cockbain,MT Renshaw,BJ Dwarshuis,4,0,,,,,,"",""
+ball,2,4.1,Adelaide Strikers,MT Renshaw,IA Cockbain,DT Christian,4,0,,,,,,"",""
+ball,2,4.2,Adelaide Strikers,MT Renshaw,IA Cockbain,DT Christian,2,0,,,,,,"",""
+ball,2,4.3,Adelaide Strikers,MT Renshaw,IA Cockbain,DT Christian,1,0,,,,,,"",""
+ball,2,4.4,Adelaide Strikers,IA Cockbain,MT Renshaw,DT Christian,1,0,,,,,,"",""
+ball,2,4.5,Adelaide Strikers,MT Renshaw,IA Cockbain,DT Christian,1,0,,,,,,"",""
+ball,2,4.6,Adelaide Strikers,IA Cockbain,MT Renshaw,DT Christian,1,0,,,,,,"",""
+ball,2,5.1,Adelaide Strikers,IA Cockbain,MT Renshaw,T Murphy,1,0,,,,,,"",""
+ball,2,5.2,Adelaide Strikers,MT Renshaw,IA Cockbain,T Murphy,2,0,,,,,,"",""
+ball,2,5.3,Adelaide Strikers,MT Renshaw,IA Cockbain,T Murphy,1,0,,,,,,"",""
+ball,2,5.4,Adelaide Strikers,IA Cockbain,MT Renshaw,T Murphy,1,0,,,,,,"",""
+ball,2,5.5,Adelaide Strikers,MT Renshaw,IA Cockbain,T Murphy,1,0,,,,,,"",""
+ball,2,5.6,Adelaide Strikers,IA Cockbain,MT Renshaw,T Murphy,1,0,,,,,,"",""
+ball,2,6.1,Adelaide Strikers,IA Cockbain,MT Renshaw,SA Abbott,1,0,,,,,,"",""
+ball,2,6.2,Adelaide Strikers,MT Renshaw,IA Cockbain,SA Abbott,2,0,,,,,,"",""
+ball,2,6.3,Adelaide Strikers,MT Renshaw,IA Cockbain,SA Abbott,1,0,,,,,,"",""
+ball,2,6.4,Adelaide Strikers,IA Cockbain,MT Renshaw,SA Abbott,6,0,,,,,,"",""
+ball,2,6.5,Adelaide Strikers,IA Cockbain,MT Renshaw,SA Abbott,0,0,,,,,,"",""
+ball,2,6.6,Adelaide Strikers,IA Cockbain,MT Renshaw,SA Abbott,4,0,,,,,,"",""
+ball,2,7.1,Adelaide Strikers,MT Renshaw,IA Cockbain,T Murphy,0,0,,,,,,"",""
+ball,2,7.2,Adelaide Strikers,MT Renshaw,IA Cockbain,T Murphy,1,0,,,,,,"",""
+ball,2,7.3,Adelaide Strikers,IA Cockbain,MT Renshaw,T Murphy,1,0,,,,,,"",""
+ball,2,7.4,Adelaide Strikers,MT Renshaw,IA Cockbain,T Murphy,1,0,,,,,,"",""
+ball,2,7.5,Adelaide Strikers,IA Cockbain,MT Renshaw,T Murphy,1,0,,,,,,"",""
+ball,2,7.6,Adelaide Strikers,MT Renshaw,IA Cockbain,T Murphy,1,0,,,,,,"",""
+ball,2,8.1,Adelaide Strikers,MT Renshaw,IA Cockbain,BJ Dwarshuis,0,0,,,,,,"",""
+ball,2,8.2,Adelaide Strikers,MT Renshaw,IA Cockbain,BJ Dwarshuis,1,0,,,,,,"",""
+ball,2,8.3,Adelaide Strikers,IA Cockbain,MT Renshaw,BJ Dwarshuis,2,0,,,,,,"",""
+ball,2,8.4,Adelaide Strikers,IA Cockbain,MT Renshaw,BJ Dwarshuis,0,0,,,,,,"",""
+ball,2,8.5,Adelaide Strikers,IA Cockbain,MT Renshaw,BJ Dwarshuis,4,0,,,,,,"",""
+ball,2,8.6,Adelaide Strikers,IA Cockbain,MT Renshaw,BJ Dwarshuis,1,0,,,,,,"",""
+ball,2,9.1,Adelaide Strikers,IA Cockbain,MT Renshaw,H Kerr,2,0,,,,,,"",""
+ball,2,9.2,Adelaide Strikers,IA Cockbain,MT Renshaw,H Kerr,1,0,,,,,,"",""
+ball,2,9.3,Adelaide Strikers,MT Renshaw,IA Cockbain,H Kerr,2,0,,,,,,"",""
+ball,2,9.4,Adelaide Strikers,MT Renshaw,IA Cockbain,H Kerr,0,0,,,,,,bowled,MT Renshaw
+ball,2,9.5,Adelaide Strikers,JW Wells,IA Cockbain,H Kerr,0,0,,,,,,"",""
+ball,2,9.6,Adelaide Strikers,JW Wells,IA Cockbain,H Kerr,0,0,,,,,,"",""
+ball,2,10.1,Adelaide Strikers,IA Cockbain,JW Wells,JM Bird,0,0,,,,,,"",""
+ball,2,10.2,Adelaide Strikers,IA Cockbain,JW Wells,JM Bird,1,0,,,,,,"",""
+ball,2,10.3,Adelaide Strikers,JW Wells,IA Cockbain,JM Bird,1,0,,,,,,"",""
+ball,2,10.4,Adelaide Strikers,IA Cockbain,JW Wells,JM Bird,1,0,,,,,,"",""
+ball,2,10.5,Adelaide Strikers,JW Wells,IA Cockbain,JM Bird,1,0,,,,,,"",""
+ball,2,10.6,Adelaide Strikers,IA Cockbain,JW Wells,JM Bird,0,0,,,,,,"",""
+ball,2,11.1,Adelaide Strikers,JW Wells,IA Cockbain,H Kerr,1,0,,,,,,"",""
+ball,2,11.2,Adelaide Strikers,IA Cockbain,JW Wells,H Kerr,1,0,,,,,,"",""
+ball,2,11.3,Adelaide Strikers,JW Wells,IA Cockbain,H Kerr,1,0,,,,,,"",""
+ball,2,11.4,Adelaide Strikers,IA Cockbain,JW Wells,H Kerr,2,0,,,,,,"",""
+ball,2,11.5,Adelaide Strikers,IA Cockbain,JW Wells,H Kerr,1,0,,,,,,"",""
+ball,2,11.6,Adelaide Strikers,JW Wells,IA Cockbain,H Kerr,1,0,,,,,,"",""
+ball,2,12.1,Adelaide Strikers,JW Wells,IA Cockbain,BJ Dwarshuis,4,0,,,,,,"",""
+ball,2,12.2,Adelaide Strikers,JW Wells,IA Cockbain,BJ Dwarshuis,1,0,,,,,,"",""
+ball,2,12.3,Adelaide Strikers,IA Cockbain,JW Wells,BJ Dwarshuis,4,0,,,,,,"",""
+ball,2,12.4,Adelaide Strikers,IA Cockbain,JW Wells,BJ Dwarshuis,1,0,,,,,,"",""
+ball,2,12.5,Adelaide Strikers,JW Wells,IA Cockbain,BJ Dwarshuis,1,0,,,,,,"",""
+ball,2,12.6,Adelaide Strikers,IA Cockbain,JW Wells,BJ Dwarshuis,6,0,,,,,,"",""
+ball,2,13.1,Adelaide Strikers,JW Wells,IA Cockbain,T Murphy,1,0,,,,,,"",""
+ball,2,13.2,Adelaide Strikers,IA Cockbain,JW Wells,T Murphy,0,0,,,,,,"",""
+ball,2,13.3,Adelaide Strikers,IA Cockbain,JW Wells,T Murphy,1,0,,,,,,"",""
+ball,2,13.4,Adelaide Strikers,JW Wells,IA Cockbain,T Murphy,4,0,,,,,,"",""
+ball,2,13.5,Adelaide Strikers,JW Wells,IA Cockbain,T Murphy,0,0,,,,,,"",""
+ball,2,13.6,Adelaide Strikers,JW Wells,IA Cockbain,T Murphy,0,0,,,,,,"",""
+ball,2,14.1,Adelaide Strikers,IA Cockbain,JW Wells,SA Abbott,1,0,,,,,,"",""
+ball,2,14.2,Adelaide Strikers,JW Wells,IA Cockbain,SA Abbott,2,0,,,,,,"",""
+ball,2,14.3,Adelaide Strikers,JW Wells,IA Cockbain,SA Abbott,1,0,,,,,,"",""
+ball,2,14.4,Adelaide Strikers,IA Cockbain,JW Wells,SA Abbott,0,1,1,,,,,"",""
+ball,2,14.5,Adelaide Strikers,IA Cockbain,JW Wells,SA Abbott,6,0,,,,,,"",""
+ball,2,14.6,Adelaide Strikers,IA Cockbain,JW Wells,SA Abbott,4,0,,,,,,"",""
+ball,2,14.7,Adelaide Strikers,IA Cockbain,JW Wells,SA Abbott,0,0,,,,,,"",""
+ball,2,15.1,Adelaide Strikers,JW Wells,IA Cockbain,T Murphy,1,0,,,,,,"",""
+ball,2,15.2,Adelaide Strikers,IA Cockbain,JW Wells,T Murphy,0,0,,,,,,"",""
+ball,2,15.3,Adelaide Strikers,IA Cockbain,JW Wells,T Murphy,0,0,,,,,,"",""
+ball,2,15.4,Adelaide Strikers,IA Cockbain,JW Wells,T Murphy,1,0,,,,,,"",""
+ball,2,15.5,Adelaide Strikers,JW Wells,IA Cockbain,T Murphy,1,0,,,,,,"",""
+ball,2,15.6,Adelaide Strikers,IA Cockbain,JW Wells,T Murphy,1,0,,,,,,"",""
+ball,2,16.1,Adelaide Strikers,IA Cockbain,JW Wells,H Kerr,1,0,,,,,,"",""
+ball,2,16.2,Adelaide Strikers,JW Wells,IA Cockbain,H Kerr,1,0,,,,,,"",""
+ball,2,16.3,Adelaide Strikers,IA Cockbain,JW Wells,H Kerr,1,0,,,,,,"",""
+ball,2,16.4,Adelaide Strikers,JW Wells,IA Cockbain,H Kerr,1,0,,,,,,"",""
+ball,2,16.5,Adelaide Strikers,IA Cockbain,JW Wells,H Kerr,6,0,,,,,,"",""
+ball,2,16.6,Adelaide Strikers,IA Cockbain,JW Wells,H Kerr,0,0,,,,,,"",""
+ball,2,17.1,Adelaide Strikers,JW Wells,IA Cockbain,DT Christian,0,0,,,,,,"",""
+ball,2,17.2,Adelaide Strikers,JW Wells,IA Cockbain,DT Christian,0,0,,,,,,"",""
+ball,2,17.3,Adelaide Strikers,JW Wells,IA Cockbain,DT Christian,4,0,,,,,,"",""

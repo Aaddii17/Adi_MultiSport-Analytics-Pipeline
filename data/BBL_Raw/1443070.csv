@@ -1,0 +1,317 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Sydney Thunder
+info,team,Melbourne Stars
+info,gender,male
+info,season,2024/25
+info,date,2024/12/28
+info,event,Big Bash League
+info,match_number,14
+info,venue,"Manuka Oval, Canberra"
+info,city,Canberra
+info,toss_winner,Melbourne Stars
+info,toss_decision,field
+info,player_of_match,SW Billings
+info,umpire,MW Graham-Smith
+info,umpire,Roberto Howard
+info,reserve_umpire,ME Claydon
+info,tv_umpire,CA Polosak
+info,match_referee,David Johnston
+info,winner,Sydney Thunder
+info,winner_runs,18
+info,player,Sydney Thunder,CT Bancroft
+info,player,Sydney Thunder,DA Warner
+info,player,Sydney Thunder,JJS Sangha
+info,player,Sydney Thunder,O Davies
+info,player,Sydney Thunder,SW Billings
+info,player,Sydney Thunder,SE Rutherford
+info,player,Sydney Thunder,CJ Green
+info,player,Sydney Thunder,DR Sams
+info,player,Sydney Thunder,TD Andrews
+info,player,Sydney Thunder,LH Ferguson
+info,player,Sydney Thunder,WA Agar
+info,player,Melbourne Stars,SB Harper
+info,player,Melbourne Stars,BM Duckett
+info,player,Melbourne Stars,MP Stoinis
+info,player,Melbourne Stars,GJ Maxwell
+info,player,Melbourne Stars,HWR Cartwright
+info,player,Melbourne Stars,BJ Webster
+info,player,Melbourne Stars,J Merlo
+info,player,Melbourne Stars,Usama Mir
+info,player,Melbourne Stars,JS Paris
+info,player,Melbourne Stars,BL Couch
+info,player,Melbourne Stars,PM Siddle
+info,registry,people,BJ Webster,56b93d46
+info,registry,people,BL Couch,be69e09d
+info,registry,people,BM Duckett,5f26f677
+info,registry,people,CA Polosak,26a360d2
+info,registry,people,CJ Green,19b9f399
+info,registry,people,CT Bancroft,399b0b94
+info,registry,people,DA Warner,dcce6f09
+info,registry,people,DR Sams,caf69bf7
+info,registry,people,David Johnston,92cef862
+info,registry,people,GJ Maxwell,b681e71e
+info,registry,people,HWR Cartwright,ab965cad
+info,registry,people,J Merlo,02ba80a0
+info,registry,people,JJS Sangha,8e3cb0e9
+info,registry,people,JS Paris,7c8f533d
+info,registry,people,LH Ferguson,2f9d0389
+info,registry,people,ME Claydon,15101f12
+info,registry,people,MP Stoinis,d9273ee7
+info,registry,people,MW Graham-Smith,18aca3ce
+info,registry,people,O Davies,0ea54eca
+info,registry,people,PM Siddle,bd93fea4
+info,registry,people,Roberto Howard,eec90c4b
+info,registry,people,SB Harper,a756e61a
+info,registry,people,SE Rutherford,d014d5ac
+info,registry,people,SW Billings,c16d4035
+info,registry,people,TD Andrews,a0f612b6
+info,registry,people,Usama Mir,6dd8b88c
+info,registry,people,WA Agar,15de1f5d
+ball,1,0.1,Sydney Thunder,CT Bancroft,DA Warner,JS Paris,1,0,,,,,,"",""
+ball,1,0.2,Sydney Thunder,DA Warner,CT Bancroft,JS Paris,0,0,,,,,,"",""
+ball,1,0.3,Sydney Thunder,DA Warner,CT Bancroft,JS Paris,4,0,,,,,,"",""
+ball,1,0.4,Sydney Thunder,DA Warner,CT Bancroft,JS Paris,2,0,,,,,,"",""
+ball,1,0.5,Sydney Thunder,DA Warner,CT Bancroft,JS Paris,0,0,,,,,,"",""
+ball,1,0.6,Sydney Thunder,DA Warner,CT Bancroft,JS Paris,0,0,,,,,,"",""
+ball,1,1.1,Sydney Thunder,CT Bancroft,DA Warner,GJ Maxwell,1,0,,,,,,"",""
+ball,1,1.2,Sydney Thunder,DA Warner,CT Bancroft,GJ Maxwell,1,0,,,,,,"",""
+ball,1,1.3,Sydney Thunder,CT Bancroft,DA Warner,GJ Maxwell,4,0,,,,,,"",""
+ball,1,1.4,Sydney Thunder,CT Bancroft,DA Warner,GJ Maxwell,1,0,,,,,,"",""
+ball,1,1.5,Sydney Thunder,DA Warner,CT Bancroft,GJ Maxwell,4,0,,,,,,"",""
+ball,1,1.6,Sydney Thunder,DA Warner,CT Bancroft,GJ Maxwell,0,0,,,,,,"",""
+ball,1,2.1,Sydney Thunder,CT Bancroft,DA Warner,BL Couch,0,0,,,,,,"",""
+ball,1,2.2,Sydney Thunder,CT Bancroft,DA Warner,BL Couch,6,0,,,,,,"",""
+ball,1,2.3,Sydney Thunder,CT Bancroft,DA Warner,BL Couch,0,0,,,,,,"",""
+ball,1,2.4,Sydney Thunder,CT Bancroft,DA Warner,BL Couch,0,0,,,,,,"",""
+ball,1,2.5,Sydney Thunder,CT Bancroft,DA Warner,BL Couch,4,0,,,,,,"",""
+ball,1,2.6,Sydney Thunder,CT Bancroft,DA Warner,BL Couch,2,0,,,,,,"",""
+ball,1,3.1,Sydney Thunder,DA Warner,CT Bancroft,PM Siddle,0,0,,,,,,"",""
+ball,1,3.2,Sydney Thunder,DA Warner,CT Bancroft,PM Siddle,0,1,,,,1,,"",""
+ball,1,3.3,Sydney Thunder,CT Bancroft,DA Warner,PM Siddle,0,0,,,,,,"",""
+ball,1,3.4,Sydney Thunder,CT Bancroft,DA Warner,PM Siddle,0,0,,,,,,"",""
+ball,1,3.5,Sydney Thunder,CT Bancroft,DA Warner,PM Siddle,0,1,,,,1,,"",""
+ball,1,3.6,Sydney Thunder,DA Warner,CT Bancroft,PM Siddle,1,0,,,,,,"",""
+ball,1,4.1,Sydney Thunder,DA Warner,CT Bancroft,BJ Webster,6,0,,,,,,"",""
+ball,1,4.2,Sydney Thunder,DA Warner,CT Bancroft,BJ Webster,0,0,,,,,,"",""
+ball,1,4.3,Sydney Thunder,DA Warner,CT Bancroft,BJ Webster,1,0,,,,,,"",""
+ball,1,4.4,Sydney Thunder,CT Bancroft,DA Warner,BJ Webster,1,0,,,,,,"",""
+ball,1,4.5,Sydney Thunder,DA Warner,CT Bancroft,BJ Webster,0,0,,,,,,bowled,DA Warner
+ball,1,4.6,Sydney Thunder,JJS Sangha,CT Bancroft,BJ Webster,2,0,,,,,,"",""
+ball,1,5.1,Sydney Thunder,CT Bancroft,JJS Sangha,Usama Mir,1,0,,,,,,"",""
+ball,1,5.2,Sydney Thunder,JJS Sangha,CT Bancroft,Usama Mir,1,0,,,,,,"",""
+ball,1,5.3,Sydney Thunder,CT Bancroft,JJS Sangha,Usama Mir,0,0,,,,,,bowled,CT Bancroft
+ball,1,5.4,Sydney Thunder,O Davies,JJS Sangha,Usama Mir,0,0,,,,,,caught and bowled,O Davies
+ball,1,5.5,Sydney Thunder,SW Billings,JJS Sangha,Usama Mir,1,0,,,,,,"",""
+ball,1,5.6,Sydney Thunder,JJS Sangha,SW Billings,Usama Mir,1,0,,,,,,"",""
+ball,1,6.1,Sydney Thunder,JJS Sangha,SW Billings,BL Couch,1,0,,,,,,"",""
+ball,1,6.2,Sydney Thunder,SW Billings,JJS Sangha,BL Couch,1,0,,,,,,"",""
+ball,1,6.3,Sydney Thunder,JJS Sangha,SW Billings,BL Couch,1,0,,,,,,"",""
+ball,1,6.4,Sydney Thunder,SW Billings,JJS Sangha,BL Couch,0,0,,,,,,"",""
+ball,1,6.5,Sydney Thunder,SW Billings,JJS Sangha,BL Couch,0,1,,,,1,,"",""
+ball,1,6.6,Sydney Thunder,JJS Sangha,SW Billings,BL Couch,1,0,,,,,,"",""
+ball,1,7.1,Sydney Thunder,JJS Sangha,SW Billings,Usama Mir,4,0,,,,,,"",""
+ball,1,7.2,Sydney Thunder,JJS Sangha,SW Billings,Usama Mir,4,0,,,,,,"",""
+ball,1,7.3,Sydney Thunder,JJS Sangha,SW Billings,Usama Mir,0,0,,,,,,"",""
+ball,1,7.4,Sydney Thunder,JJS Sangha,SW Billings,Usama Mir,0,0,,,,,,"",""
+ball,1,7.5,Sydney Thunder,JJS Sangha,SW Billings,Usama Mir,1,0,,,,,,"",""
+ball,1,7.6,Sydney Thunder,SW Billings,JJS Sangha,Usama Mir,1,0,,,,,,"",""
+ball,1,8.1,Sydney Thunder,SW Billings,JJS Sangha,BL Couch,1,0,,,,,,"",""
+ball,1,8.2,Sydney Thunder,JJS Sangha,SW Billings,BL Couch,1,0,,,,,,"",""
+ball,1,8.3,Sydney Thunder,SW Billings,JJS Sangha,BL Couch,4,0,,,,,,"",""
+ball,1,8.4,Sydney Thunder,SW Billings,JJS Sangha,BL Couch,1,0,,,,,,"",""
+ball,1,8.5,Sydney Thunder,JJS Sangha,SW Billings,BL Couch,1,0,,,,,,"",""
+ball,1,8.6,Sydney Thunder,SW Billings,JJS Sangha,BL Couch,1,0,,,,,,"",""
+ball,1,9.1,Sydney Thunder,SW Billings,JJS Sangha,BJ Webster,1,0,,,,,,"",""
+ball,1,9.2,Sydney Thunder,JJS Sangha,SW Billings,BJ Webster,0,0,,,,,,"",""
+ball,1,9.3,Sydney Thunder,JJS Sangha,SW Billings,BJ Webster,0,1,1,,,,,"",""
+ball,1,9.4,Sydney Thunder,JJS Sangha,SW Billings,BJ Webster,2,0,,,,,,"",""
+ball,1,9.5,Sydney Thunder,JJS Sangha,SW Billings,BJ Webster,1,0,,,,,,"",""
+ball,1,9.6,Sydney Thunder,SW Billings,JJS Sangha,BJ Webster,1,0,,,,,,"",""
+ball,1,9.7,Sydney Thunder,JJS Sangha,SW Billings,BJ Webster,2,0,,,,,,"",""
+ball,1,10.1,Sydney Thunder,SW Billings,JJS Sangha,JS Paris,1,0,,,,,,"",""
+ball,1,10.2,Sydney Thunder,JJS Sangha,SW Billings,JS Paris,1,0,,,,,,"",""
+ball,1,10.3,Sydney Thunder,SW Billings,JJS Sangha,JS Paris,1,0,,,,,,"",""
+ball,1,10.4,Sydney Thunder,JJS Sangha,SW Billings,JS Paris,2,0,,,,,,"",""
+ball,1,10.5,Sydney Thunder,JJS Sangha,SW Billings,JS Paris,0,1,,,,1,,"",""
+ball,1,10.6,Sydney Thunder,SW Billings,JJS Sangha,JS Paris,0,0,,,,,,"",""
+ball,1,11.1,Sydney Thunder,JJS Sangha,SW Billings,Usama Mir,0,1,,,,1,,"",""
+ball,1,11.2,Sydney Thunder,SW Billings,JJS Sangha,Usama Mir,1,0,,,,,,"",""
+ball,1,11.3,Sydney Thunder,JJS Sangha,SW Billings,Usama Mir,4,0,,,,,,"",""
+ball,1,11.4,Sydney Thunder,JJS Sangha,SW Billings,Usama Mir,1,0,,,,,,"",""
+ball,1,11.5,Sydney Thunder,SW Billings,JJS Sangha,Usama Mir,1,0,,,,,,"",""
+ball,1,11.6,Sydney Thunder,JJS Sangha,SW Billings,Usama Mir,1,0,,,,,,"",""
+ball,1,12.1,Sydney Thunder,JJS Sangha,SW Billings,PM Siddle,0,0,,,,,,"",""
+ball,1,12.2,Sydney Thunder,JJS Sangha,SW Billings,PM Siddle,1,0,,,,,,"",""
+ball,1,12.3,Sydney Thunder,SW Billings,JJS Sangha,PM Siddle,2,0,,,,,,"",""
+ball,1,12.4,Sydney Thunder,SW Billings,JJS Sangha,PM Siddle,6,0,,,,,,"",""
+ball,1,12.5,Sydney Thunder,SW Billings,JJS Sangha,PM Siddle,1,0,,,,,,"",""
+ball,1,12.6,Sydney Thunder,JJS Sangha,SW Billings,PM Siddle,0,1,1,,,,,"",""
+ball,1,12.7,Sydney Thunder,JJS Sangha,SW Billings,PM Siddle,0,0,,,,,,caught,JJS Sangha
+ball,1,13.1,Sydney Thunder,SW Billings,SE Rutherford,Usama Mir,2,0,,,,,,"",""
+ball,1,13.2,Sydney Thunder,SW Billings,SE Rutherford,Usama Mir,4,0,,,,,,"",""
+ball,1,13.3,Sydney Thunder,SW Billings,SE Rutherford,Usama Mir,4,0,,,,,,"",""
+ball,1,13.4,Sydney Thunder,SW Billings,SE Rutherford,Usama Mir,4,0,,,,,,"",""
+ball,1,13.5,Sydney Thunder,SW Billings,SE Rutherford,Usama Mir,0,0,,,,,,"",""
+ball,1,13.6,Sydney Thunder,SW Billings,SE Rutherford,Usama Mir,1,0,,,,,,"",""
+ball,1,14.1,Sydney Thunder,SW Billings,SE Rutherford,PM Siddle,2,0,,,,,,"",""
+ball,1,14.2,Sydney Thunder,SW Billings,SE Rutherford,PM Siddle,4,0,,,,,,"",""
+ball,1,14.3,Sydney Thunder,SW Billings,SE Rutherford,PM Siddle,1,0,,,,,,"",""
+ball,1,14.4,Sydney Thunder,SE Rutherford,SW Billings,PM Siddle,0,0,,,,,,"",""
+ball,1,14.5,Sydney Thunder,SE Rutherford,SW Billings,PM Siddle,1,0,,,,,,"",""
+ball,1,14.6,Sydney Thunder,SW Billings,SE Rutherford,PM Siddle,4,0,,,,,,"",""
+ball,1,15.1,Sydney Thunder,SE Rutherford,SW Billings,JS Paris,1,0,,,,,,"",""
+ball,1,15.2,Sydney Thunder,SW Billings,SE Rutherford,JS Paris,4,0,,,,,,"",""
+ball,1,15.3,Sydney Thunder,SW Billings,SE Rutherford,JS Paris,0,0,,,,,,"",""
+ball,1,15.4,Sydney Thunder,SW Billings,SE Rutherford,JS Paris,1,0,,,,,,"",""
+ball,1,15.5,Sydney Thunder,SE Rutherford,SW Billings,JS Paris,0,0,,,,,,caught,SE Rutherford
+ball,1,15.6,Sydney Thunder,CJ Green,SW Billings,JS Paris,2,0,,,,,,"",""
+ball,1,16.1,Sydney Thunder,SW Billings,CJ Green,BJ Webster,6,0,,,,,,"",""
+ball,1,16.2,Sydney Thunder,SW Billings,CJ Green,BJ Webster,1,0,,,,,,"",""
+ball,1,16.3,Sydney Thunder,CJ Green,SW Billings,BJ Webster,4,0,,,,,,"",""
+ball,1,16.4,Sydney Thunder,CJ Green,SW Billings,BJ Webster,0,0,,,,,,caught,CJ Green
+ball,1,16.5,Sydney Thunder,DR Sams,SW Billings,BJ Webster,1,0,,,,,,"",""
+ball,1,16.6,Sydney Thunder,SW Billings,DR Sams,BJ Webster,1,0,,,,,,"",""
+ball,1,17.1,Sydney Thunder,SW Billings,DR Sams,PM Siddle,4,0,,,,,,"",""
+ball,1,17.2,Sydney Thunder,SW Billings,DR Sams,PM Siddle,0,0,,,,,,"",""
+ball,1,17.3,Sydney Thunder,SW Billings,DR Sams,PM Siddle,4,0,,,,,,"",""
+ball,1,17.4,Sydney Thunder,SW Billings,DR Sams,PM Siddle,0,1,1,,,,,"",""
+ball,1,17.5,Sydney Thunder,SW Billings,DR Sams,PM Siddle,0,0,,,,,,bowled,SW Billings
+ball,1,17.6,Sydney Thunder,TD Andrews,DR Sams,PM Siddle,0,0,,,,,,"",""
+ball,1,17.7,Sydney Thunder,TD Andrews,DR Sams,PM Siddle,0,0,,,,,,"",""
+ball,1,18.1,Sydney Thunder,DR Sams,TD Andrews,JS Paris,4,0,,,,,,"",""
+ball,1,18.2,Sydney Thunder,DR Sams,TD Andrews,JS Paris,4,0,,,,,,"",""
+ball,1,18.3,Sydney Thunder,DR Sams,TD Andrews,JS Paris,0,0,,,,,,"",""
+ball,1,18.4,Sydney Thunder,DR Sams,TD Andrews,JS Paris,1,0,,,,,,"",""
+ball,1,18.5,Sydney Thunder,TD Andrews,DR Sams,JS Paris,0,0,,,,,,"",""
+ball,1,18.6,Sydney Thunder,TD Andrews,DR Sams,JS Paris,0,0,,,,,,"",""
+ball,1,19.1,Sydney Thunder,DR Sams,TD Andrews,BJ Webster,6,0,,,,,,"",""
+ball,1,19.2,Sydney Thunder,DR Sams,TD Andrews,BJ Webster,0,0,,,,,,"",""
+ball,1,19.3,Sydney Thunder,DR Sams,TD Andrews,BJ Webster,0,0,,,,,,bowled,DR Sams
+ball,1,19.4,Sydney Thunder,LH Ferguson,TD Andrews,BJ Webster,0,1,1,,,,,"",""
+ball,1,19.5,Sydney Thunder,LH Ferguson,TD Andrews,BJ Webster,0,0,,,,,,"",""
+ball,1,19.6,Sydney Thunder,LH Ferguson,TD Andrews,BJ Webster,1,0,,,,,,"",""
+ball,1,19.7,Sydney Thunder,TD Andrews,LH Ferguson,BJ Webster,3,0,,,,,,"",""
+ball,2,0.1,Melbourne Stars,SB Harper,BM Duckett,LH Ferguson,0,1,1,,,,,"",""
+ball,2,0.2,Melbourne Stars,SB Harper,BM Duckett,LH Ferguson,4,0,,,,,,"",""
+ball,2,0.3,Melbourne Stars,SB Harper,BM Duckett,LH Ferguson,0,0,,,,,,"",""
+ball,2,0.4,Melbourne Stars,SB Harper,BM Duckett,LH Ferguson,0,0,,,,,,caught,SB Harper
+ball,2,0.5,Melbourne Stars,MP Stoinis,BM Duckett,LH Ferguson,0,0,,,,,,"",""
+ball,2,0.6,Melbourne Stars,MP Stoinis,BM Duckett,LH Ferguson,0,0,,,,,,"",""
+ball,2,0.7,Melbourne Stars,MP Stoinis,BM Duckett,LH Ferguson,2,0,,,,,,"",""
+ball,2,1.1,Melbourne Stars,BM Duckett,MP Stoinis,WA Agar,0,0,,,,,,"",""
+ball,2,1.2,Melbourne Stars,BM Duckett,MP Stoinis,WA Agar,4,0,,,,,,"",""
+ball,2,1.3,Melbourne Stars,BM Duckett,MP Stoinis,WA Agar,0,0,,,,,,"",""
+ball,2,1.4,Melbourne Stars,BM Duckett,MP Stoinis,WA Agar,0,0,,,,,,"",""
+ball,2,1.5,Melbourne Stars,BM Duckett,MP Stoinis,WA Agar,1,0,,,,,,"",""
+ball,2,1.6,Melbourne Stars,MP Stoinis,BM Duckett,WA Agar,0,0,,,,,,"",""
+ball,2,2.1,Melbourne Stars,BM Duckett,MP Stoinis,LH Ferguson,0,0,,,,,,"",""
+ball,2,2.2,Melbourne Stars,BM Duckett,MP Stoinis,LH Ferguson,0,0,,,,,,"",""
+ball,2,2.3,Melbourne Stars,BM Duckett,MP Stoinis,LH Ferguson,0,0,,,,,,"",""
+ball,2,2.4,Melbourne Stars,BM Duckett,MP Stoinis,LH Ferguson,0,0,,,,,,"",""
+ball,2,2.5,Melbourne Stars,BM Duckett,MP Stoinis,LH Ferguson,0,1,1,,,,,"",""
+ball,2,2.6,Melbourne Stars,BM Duckett,MP Stoinis,LH Ferguson,0,0,,,,,,"",""
+ball,2,2.7,Melbourne Stars,BM Duckett,MP Stoinis,LH Ferguson,1,0,,,,,,"",""
+ball,2,3.1,Melbourne Stars,BM Duckett,MP Stoinis,DR Sams,4,0,,,,,,"",""
+ball,2,3.2,Melbourne Stars,BM Duckett,MP Stoinis,DR Sams,4,0,,,,,,"",""
+ball,2,3.3,Melbourne Stars,BM Duckett,MP Stoinis,DR Sams,0,5,5,,,,,"",""
+ball,2,3.4,Melbourne Stars,BM Duckett,MP Stoinis,DR Sams,2,0,,,,,,"",""
+ball,2,3.5,Melbourne Stars,BM Duckett,MP Stoinis,DR Sams,1,0,,,,,,"",""
+ball,2,3.6,Melbourne Stars,MP Stoinis,BM Duckett,DR Sams,1,0,,,,,,"",""
+ball,2,3.7,Melbourne Stars,BM Duckett,MP Stoinis,DR Sams,1,0,,,,,,"",""
+ball,2,4.1,Melbourne Stars,BM Duckett,MP Stoinis,CJ Green,1,0,,,,,,"",""
+ball,2,4.2,Melbourne Stars,MP Stoinis,BM Duckett,CJ Green,1,0,,,,,,"",""
+ball,2,4.3,Melbourne Stars,BM Duckett,MP Stoinis,CJ Green,0,0,,,,,,"",""
+ball,2,4.4,Melbourne Stars,BM Duckett,MP Stoinis,CJ Green,1,0,,,,,,"",""
+ball,2,4.5,Melbourne Stars,MP Stoinis,BM Duckett,CJ Green,6,0,,,,,,"",""
+ball,2,4.6,Melbourne Stars,MP Stoinis,BM Duckett,CJ Green,0,0,,,,,,"",""
+ball,2,5.1,Melbourne Stars,BM Duckett,MP Stoinis,WA Agar,1,0,,,,,,"",""
+ball,2,5.2,Melbourne Stars,MP Stoinis,BM Duckett,WA Agar,0,0,,,,,,"",""
+ball,2,5.3,Melbourne Stars,MP Stoinis,BM Duckett,WA Agar,1,0,,,,,,"",""
+ball,2,5.4,Melbourne Stars,BM Duckett,MP Stoinis,WA Agar,0,0,,,,,,"",""
+ball,2,5.5,Melbourne Stars,BM Duckett,MP Stoinis,WA Agar,4,0,,,,,,"",""
+ball,2,5.6,Melbourne Stars,BM Duckett,MP Stoinis,WA Agar,0,0,,,,,,"",""
+ball,2,6.1,Melbourne Stars,MP Stoinis,BM Duckett,TD Andrews,4,0,,,,,,"",""
+ball,2,6.2,Melbourne Stars,MP Stoinis,BM Duckett,TD Andrews,0,0,,,,,,"",""
+ball,2,6.3,Melbourne Stars,MP Stoinis,BM Duckett,TD Andrews,2,0,,,,,,"",""
+ball,2,6.4,Melbourne Stars,MP Stoinis,BM Duckett,TD Andrews,1,0,,,,,,"",""
+ball,2,6.5,Melbourne Stars,BM Duckett,MP Stoinis,TD Andrews,2,0,,,,,,"",""
+ball,2,6.6,Melbourne Stars,BM Duckett,MP Stoinis,TD Andrews,4,0,,,,,,"",""
+ball,2,7.1,Melbourne Stars,MP Stoinis,BM Duckett,CJ Green,4,0,,,,,,"",""
+ball,2,7.2,Melbourne Stars,MP Stoinis,BM Duckett,CJ Green,0,0,,,,,,"",""
+ball,2,7.3,Melbourne Stars,MP Stoinis,BM Duckett,CJ Green,0,0,,,,,,caught,MP Stoinis
+ball,2,7.4,Melbourne Stars,GJ Maxwell,BM Duckett,CJ Green,1,0,,,,,,"",""
+ball,2,7.5,Melbourne Stars,BM Duckett,GJ Maxwell,CJ Green,1,0,,,,,,"",""
+ball,2,7.6,Melbourne Stars,GJ Maxwell,BM Duckett,CJ Green,1,0,,,,,,"",""
+ball,2,8.1,Melbourne Stars,GJ Maxwell,BM Duckett,JJS Sangha,4,0,,,,,,"",""
+ball,2,8.2,Melbourne Stars,GJ Maxwell,BM Duckett,JJS Sangha,0,0,,,,,,caught,GJ Maxwell
+ball,2,8.3,Melbourne Stars,HWR Cartwright,BM Duckett,JJS Sangha,2,0,,,,,,"",""
+ball,2,8.4,Melbourne Stars,HWR Cartwright,BM Duckett,JJS Sangha,1,0,,,,,,"",""
+ball,2,8.5,Melbourne Stars,BM Duckett,HWR Cartwright,JJS Sangha,2,0,,,,,,"",""
+ball,2,8.6,Melbourne Stars,BM Duckett,HWR Cartwright,O Davies,2,0,,,,,,"",""
+ball,2,9.1,Melbourne Stars,HWR Cartwright,BM Duckett,CJ Green,1,0,,,,,,"",""
+ball,2,9.2,Melbourne Stars,BM Duckett,HWR Cartwright,CJ Green,4,0,,,,,,"",""
+ball,2,9.3,Melbourne Stars,BM Duckett,HWR Cartwright,CJ Green,4,0,,,,,,"",""
+ball,2,9.4,Melbourne Stars,BM Duckett,HWR Cartwright,CJ Green,1,0,,,,,,"",""
+ball,2,9.5,Melbourne Stars,HWR Cartwright,BM Duckett,CJ Green,4,0,,,,,,"",""
+ball,2,9.6,Melbourne Stars,HWR Cartwright,BM Duckett,CJ Green,4,0,,,,,,"",""
+ball,2,10.1,Melbourne Stars,BM Duckett,HWR Cartwright,TD Andrews,2,0,,,,,,"",""
+ball,2,10.2,Melbourne Stars,BM Duckett,HWR Cartwright,TD Andrews,0,0,,,,,,"",""
+ball,2,10.3,Melbourne Stars,BM Duckett,HWR Cartwright,TD Andrews,0,0,,,,,,"",""
+ball,2,10.4,Melbourne Stars,BM Duckett,HWR Cartwright,TD Andrews,1,0,,,,,,"",""
+ball,2,10.5,Melbourne Stars,HWR Cartwright,BM Duckett,TD Andrews,0,0,,,,,,"",""
+ball,2,10.6,Melbourne Stars,HWR Cartwright,BM Duckett,TD Andrews,1,0,,,,,,"",""
+ball,2,11.1,Melbourne Stars,HWR Cartwright,BM Duckett,DR Sams,1,0,,,,,,"",""
+ball,2,11.2,Melbourne Stars,BM Duckett,HWR Cartwright,DR Sams,1,0,,,,,,"",""
+ball,2,11.3,Melbourne Stars,HWR Cartwright,BM Duckett,DR Sams,1,0,,,,,,"",""
+ball,2,11.4,Melbourne Stars,BM Duckett,HWR Cartwright,DR Sams,1,0,,,,,,"",""
+ball,2,11.5,Melbourne Stars,HWR Cartwright,BM Duckett,DR Sams,1,0,,,,,,"",""
+ball,2,11.6,Melbourne Stars,BM Duckett,HWR Cartwright,DR Sams,0,0,,,,,,"",""
+ball,2,12.1,Melbourne Stars,HWR Cartwright,BM Duckett,TD Andrews,1,0,,,,,,"",""
+ball,2,12.2,Melbourne Stars,BM Duckett,HWR Cartwright,TD Andrews,1,0,,,,,,"",""
+ball,2,12.3,Melbourne Stars,HWR Cartwright,BM Duckett,TD Andrews,0,0,,,,,,bowled,HWR Cartwright
+ball,2,12.4,Melbourne Stars,BJ Webster,BM Duckett,TD Andrews,0,0,,,,,,"",""
+ball,2,12.5,Melbourne Stars,BJ Webster,BM Duckett,TD Andrews,0,0,,,,,,"",""
+ball,2,12.6,Melbourne Stars,BJ Webster,BM Duckett,TD Andrews,0,0,,,,,,"",""
+ball,2,13.1,Melbourne Stars,BM Duckett,BJ Webster,CJ Green,0,0,,,,,,"",""
+ball,2,13.2,Melbourne Stars,BM Duckett,BJ Webster,CJ Green,1,0,,,,,,"",""
+ball,2,13.3,Melbourne Stars,BJ Webster,BM Duckett,CJ Green,4,0,,,,,,"",""
+ball,2,13.4,Melbourne Stars,BJ Webster,BM Duckett,CJ Green,1,0,,,,,,"",""
+ball,2,13.5,Melbourne Stars,BM Duckett,BJ Webster,CJ Green,1,0,,,,,,"",""
+ball,2,13.6,Melbourne Stars,BJ Webster,BM Duckett,CJ Green,0,0,,,,,,"",""
+ball,2,14.1,Melbourne Stars,BM Duckett,BJ Webster,TD Andrews,1,0,,,,,,"",""
+ball,2,14.2,Melbourne Stars,BJ Webster,BM Duckett,TD Andrews,1,0,,,,,,"",""
+ball,2,14.3,Melbourne Stars,BM Duckett,BJ Webster,TD Andrews,4,0,,,,,,"",""
+ball,2,14.4,Melbourne Stars,BM Duckett,BJ Webster,TD Andrews,2,0,,,,,,"",""
+ball,2,14.5,Melbourne Stars,BM Duckett,BJ Webster,TD Andrews,4,0,,,,,,"",""
+ball,2,14.6,Melbourne Stars,BM Duckett,BJ Webster,TD Andrews,1,0,,,,,,"",""
+ball,2,15.1,Melbourne Stars,BM Duckett,BJ Webster,DR Sams,2,0,,,,,,"",""
+ball,2,15.2,Melbourne Stars,BM Duckett,BJ Webster,DR Sams,0,0,,,,,,caught,BM Duckett
+ball,2,15.3,Melbourne Stars,J Merlo,BJ Webster,DR Sams,1,0,,,,,,"",""
+ball,2,15.4,Melbourne Stars,BJ Webster,J Merlo,DR Sams,0,0,,,,,,"",""
+ball,2,15.5,Melbourne Stars,BJ Webster,J Merlo,DR Sams,0,1,,,,1,,"",""
+ball,2,15.6,Melbourne Stars,J Merlo,BJ Webster,DR Sams,1,0,,,,,,"",""
+ball,2,16.1,Melbourne Stars,J Merlo,BJ Webster,LH Ferguson,1,0,,,,,,"",""
+ball,2,16.2,Melbourne Stars,BJ Webster,J Merlo,LH Ferguson,2,0,,,,,,"",""
+ball,2,16.3,Melbourne Stars,BJ Webster,J Merlo,LH Ferguson,0,0,,,,,,"",""
+ball,2,16.4,Melbourne Stars,BJ Webster,J Merlo,LH Ferguson,4,0,,,,,,"",""
+ball,2,16.5,Melbourne Stars,BJ Webster,J Merlo,LH Ferguson,4,0,,,,,,"",""
+ball,2,16.6,Melbourne Stars,BJ Webster,J Merlo,LH Ferguson,3,0,,,,,,"",""
+ball,2,17.1,Melbourne Stars,BJ Webster,J Merlo,WA Agar,1,0,,,,,,"",""
+ball,2,17.2,Melbourne Stars,J Merlo,BJ Webster,WA Agar,0,0,,,,,,caught,J Merlo
+ball,2,17.3,Melbourne Stars,Usama Mir,BJ Webster,WA Agar,4,0,,,,,,"",""
+ball,2,17.4,Melbourne Stars,Usama Mir,BJ Webster,WA Agar,0,0,,,,,,caught,Usama Mir
+ball,2,17.5,Melbourne Stars,JS Paris,BJ Webster,WA Agar,1,0,,,,,,"",""
+ball,2,17.6,Melbourne Stars,BJ Webster,JS Paris,WA Agar,0,0,,,,,,caught,BJ Webster
+ball,2,18.1,Melbourne Stars,JS Paris,BL Couch,LH Ferguson,1,0,,,,,,"",""
+ball,2,18.2,Melbourne Stars,BL Couch,JS Paris,LH Ferguson,0,0,,,,,,"",""
+ball,2,18.3,Melbourne Stars,BL Couch,JS Paris,LH Ferguson,0,0,,,,,,"",""
+ball,2,18.4,Melbourne Stars,BL Couch,JS Paris,LH Ferguson,0,0,,,,,,"",""
+ball,2,18.5,Melbourne Stars,BL Couch,JS Paris,LH Ferguson,1,0,,,,,,"",""
+ball,2,18.6,Melbourne Stars,JS Paris,BL Couch,LH Ferguson,2,0,,,,,,"",""
+ball,2,19.1,Melbourne Stars,BL Couch,JS Paris,WA Agar,1,0,,,,,,"",""
+ball,2,19.2,Melbourne Stars,JS Paris,BL Couch,WA Agar,1,0,,,,,,"",""
+ball,2,19.3,Melbourne Stars,BL Couch,JS Paris,WA Agar,4,0,,,,,,"",""
+ball,2,19.4,Melbourne Stars,BL Couch,JS Paris,WA Agar,0,0,,,,,,"",""
+ball,2,19.5,Melbourne Stars,BL Couch,JS Paris,WA Agar,2,0,,,,,,"",""
+ball,2,19.6,Melbourne Stars,BL Couch,JS Paris,WA Agar,0,0,,,,,,"",""

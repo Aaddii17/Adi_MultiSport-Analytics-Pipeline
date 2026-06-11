@@ -1,0 +1,320 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Royal Challengers Bangalore
+info,team,UP Warriorz
+info,gender,female
+info,season,2023/24
+info,date,2024/03/04
+info,event,Women's Premier League
+info,match_number,11
+info,venue,"M Chinnaswamy Stadium, Bengaluru"
+info,city,Bengaluru
+info,toss_winner,UP Warriorz
+info,toss_decision,field
+info,player_of_match,S Mandhana
+info,umpire,A Bengeri
+info,umpire,VG Rathi
+info,reserve_umpire,M Krishnadas
+info,tv_umpire,PG Pathak
+info,match_referee,GS Lakshmi
+info,winner,Royal Challengers Bangalore
+info,winner_runs,23
+info,player,Royal Challengers Bangalore,S Meghana
+info,player,Royal Challengers Bangalore,S Mandhana
+info,player,Royal Challengers Bangalore,EA Perry
+info,player,Royal Challengers Bangalore,RM Ghosh
+info,player,Royal Challengers Bangalore,SFM Devine
+info,player,Royal Challengers Bangalore,S Molineux
+info,player,Royal Challengers Bangalore,G Wareham
+info,player,Royal Challengers Bangalore,E Bisht
+info,player,Royal Challengers Bangalore,SD Bahadur
+info,player,Royal Challengers Bangalore,S Asha
+info,player,Royal Challengers Bangalore,Renuka Singh
+info,player,UP Warriorz,AJ Healy
+info,player,UP Warriorz,KP Navgire
+info,player,UP Warriorz,AC Jayangani
+info,player,UP Warriorz,GM Harris
+info,player,UP Warriorz,S Sehrawat
+info,player,UP Warriorz,DB Sharma
+info,player,UP Warriorz,PN Khemnar
+info,player,UP Warriorz,S Ecclestone
+info,player,UP Warriorz,K Anjali Sarvani
+info,player,UP Warriorz,RS Gayakwad
+info,player,UP Warriorz,SZ Thakor
+info,registry,people,A Bengeri,c109497d
+info,registry,people,AC Jayangani,ac56b5a7
+info,registry,people,AJ Healy,321644de
+info,registry,people,DB Sharma,201fef33
+info,registry,people,E Bisht,705489eb
+info,registry,people,EA Perry,be150fc8
+info,registry,people,G Wareham,f0b4e47d
+info,registry,people,GM Harris,72166006
+info,registry,people,GS Lakshmi,ba8d5615
+info,registry,people,K Anjali Sarvani,fa0bf9d9
+info,registry,people,KP Navgire,617a0b79
+info,registry,people,M Krishnadas,e298c588
+info,registry,people,PG Pathak,9f772ec5
+info,registry,people,PN Khemnar,53707c8c
+info,registry,people,RM Ghosh,721e0199
+info,registry,people,RS Gayakwad,237ec05b
+info,registry,people,Renuka Singh,7298db76
+info,registry,people,S Asha,77143581
+info,registry,people,S Ecclestone,cdb82f1c
+info,registry,people,S Mandhana,5d2eda89
+info,registry,people,S Meghana,302fb7ae
+info,registry,people,S Molineux,99e23670
+info,registry,people,S Sehrawat,0e9d4094
+info,registry,people,SD Bahadur,e96b8df7
+info,registry,people,SFM Devine,de69af96
+info,registry,people,SZ Thakor,7d794fa6
+info,registry,people,VG Rathi,144e5b16
+ball,1,0.1,Royal Challengers Bangalore,S Meghana,S Mandhana,GM Harris,0,0,,,,,,"",""
+ball,1,0.2,Royal Challengers Bangalore,S Meghana,S Mandhana,GM Harris,0,0,,,,,,"",""
+ball,1,0.3,Royal Challengers Bangalore,S Meghana,S Mandhana,GM Harris,1,0,,,,,,"",""
+ball,1,0.4,Royal Challengers Bangalore,S Mandhana,S Meghana,GM Harris,0,0,,,,,,"",""
+ball,1,0.5,Royal Challengers Bangalore,S Mandhana,S Meghana,GM Harris,1,0,,,,,,"",""
+ball,1,0.6,Royal Challengers Bangalore,S Meghana,S Mandhana,GM Harris,0,0,,,,,,"",""
+ball,1,1.1,Royal Challengers Bangalore,S Mandhana,S Meghana,K Anjali Sarvani,0,1,1,,,,,"",""
+ball,1,1.2,Royal Challengers Bangalore,S Mandhana,S Meghana,K Anjali Sarvani,0,1,1,,,,,"",""
+ball,1,1.3,Royal Challengers Bangalore,S Mandhana,S Meghana,K Anjali Sarvani,4,0,,,,,,"",""
+ball,1,1.4,Royal Challengers Bangalore,S Mandhana,S Meghana,K Anjali Sarvani,1,0,,,,,,"",""
+ball,1,1.5,Royal Challengers Bangalore,S Meghana,S Mandhana,K Anjali Sarvani,0,0,,,,,,"",""
+ball,1,1.6,Royal Challengers Bangalore,S Meghana,S Mandhana,K Anjali Sarvani,0,0,,,,,,"",""
+ball,1,1.7,Royal Challengers Bangalore,S Meghana,S Mandhana,K Anjali Sarvani,4,0,,,,,,"",""
+ball,1,1.8,Royal Challengers Bangalore,S Meghana,S Mandhana,K Anjali Sarvani,1,0,,,,,,"",""
+ball,1,2.1,Royal Challengers Bangalore,S Meghana,S Mandhana,GM Harris,1,0,,,,,,"",""
+ball,1,2.2,Royal Challengers Bangalore,S Mandhana,S Meghana,GM Harris,1,0,,,,,,"",""
+ball,1,2.3,Royal Challengers Bangalore,S Meghana,S Mandhana,GM Harris,4,0,,,,,,"",""
+ball,1,2.4,Royal Challengers Bangalore,S Meghana,S Mandhana,GM Harris,1,0,,,,,,"",""
+ball,1,2.5,Royal Challengers Bangalore,S Mandhana,S Meghana,GM Harris,1,0,,,,,,"",""
+ball,1,2.6,Royal Challengers Bangalore,S Meghana,S Mandhana,GM Harris,4,0,,,,,,"",""
+ball,1,3.1,Royal Challengers Bangalore,S Mandhana,S Meghana,RS Gayakwad,1,0,,,,,,"",""
+ball,1,3.2,Royal Challengers Bangalore,S Meghana,S Mandhana,RS Gayakwad,0,0,,,,,,"",""
+ball,1,3.3,Royal Challengers Bangalore,S Meghana,S Mandhana,RS Gayakwad,1,0,,,,,,"",""
+ball,1,3.4,Royal Challengers Bangalore,S Mandhana,S Meghana,RS Gayakwad,6,0,,,,,,"",""
+ball,1,3.5,Royal Challengers Bangalore,S Mandhana,S Meghana,RS Gayakwad,0,0,,,,,,"",""
+ball,1,3.6,Royal Challengers Bangalore,S Mandhana,S Meghana,RS Gayakwad,0,0,,,,,,"",""
+ball,1,4.1,Royal Challengers Bangalore,S Meghana,S Mandhana,AC Jayangani,0,0,,,,,,"",""
+ball,1,4.2,Royal Challengers Bangalore,S Meghana,S Mandhana,AC Jayangani,4,0,,,,,,"",""
+ball,1,4.3,Royal Challengers Bangalore,S Meghana,S Mandhana,AC Jayangani,0,0,,,,,,"",""
+ball,1,4.4,Royal Challengers Bangalore,S Meghana,S Mandhana,AC Jayangani,1,0,,,,,,"",""
+ball,1,4.5,Royal Challengers Bangalore,S Mandhana,S Meghana,AC Jayangani,6,0,,,,,,"",""
+ball,1,4.6,Royal Challengers Bangalore,S Mandhana,S Meghana,AC Jayangani,0,0,,,,,,"",""
+ball,1,5.1,Royal Challengers Bangalore,S Meghana,S Mandhana,K Anjali Sarvani,2,0,,,,,,"",""
+ball,1,5.2,Royal Challengers Bangalore,S Meghana,S Mandhana,K Anjali Sarvani,4,0,,,,,,"",""
+ball,1,5.3,Royal Challengers Bangalore,S Meghana,S Mandhana,K Anjali Sarvani,0,0,,,,,,caught,S Meghana
+ball,1,5.4,Royal Challengers Bangalore,EA Perry,S Mandhana,K Anjali Sarvani,4,0,,,,,,"",""
+ball,1,5.5,Royal Challengers Bangalore,EA Perry,S Mandhana,K Anjali Sarvani,0,0,,,,,,"",""
+ball,1,5.6,Royal Challengers Bangalore,EA Perry,S Mandhana,K Anjali Sarvani,2,0,,,,,,"",""
+ball,1,6.1,Royal Challengers Bangalore,S Mandhana,EA Perry,DB Sharma,4,0,,,,,,"",""
+ball,1,6.2,Royal Challengers Bangalore,S Mandhana,EA Perry,DB Sharma,1,0,,,,,,"",""
+ball,1,6.3,Royal Challengers Bangalore,EA Perry,S Mandhana,DB Sharma,0,0,,,,,,"",""
+ball,1,6.4,Royal Challengers Bangalore,EA Perry,S Mandhana,DB Sharma,0,0,,,,,,"",""
+ball,1,6.5,Royal Challengers Bangalore,EA Perry,S Mandhana,DB Sharma,1,0,,,,,,"",""
+ball,1,6.6,Royal Challengers Bangalore,S Mandhana,EA Perry,DB Sharma,0,0,,,,,,"",""
+ball,1,7.1,Royal Challengers Bangalore,EA Perry,S Mandhana,S Ecclestone,0,0,,,,,,"",""
+ball,1,7.2,Royal Challengers Bangalore,EA Perry,S Mandhana,S Ecclestone,1,0,,,,,,"",""
+ball,1,7.3,Royal Challengers Bangalore,S Mandhana,EA Perry,S Ecclestone,2,0,,,,,,"",""
+ball,1,7.4,Royal Challengers Bangalore,S Mandhana,EA Perry,S Ecclestone,0,0,,,,,,"",""
+ball,1,7.5,Royal Challengers Bangalore,S Mandhana,EA Perry,S Ecclestone,0,0,,,,,,"",""
+ball,1,7.6,Royal Challengers Bangalore,S Mandhana,EA Perry,S Ecclestone,1,0,,,,,,"",""
+ball,1,8.1,Royal Challengers Bangalore,S Mandhana,EA Perry,AC Jayangani,0,0,,,,,,"",""
+ball,1,8.2,Royal Challengers Bangalore,S Mandhana,EA Perry,AC Jayangani,0,4,,,4,,,"",""
+ball,1,8.3,Royal Challengers Bangalore,S Mandhana,EA Perry,AC Jayangani,4,0,,,,,,"",""
+ball,1,8.4,Royal Challengers Bangalore,S Mandhana,EA Perry,AC Jayangani,1,0,,,,,,"",""
+ball,1,8.5,Royal Challengers Bangalore,EA Perry,S Mandhana,AC Jayangani,1,0,,,,,,"",""
+ball,1,8.6,Royal Challengers Bangalore,S Mandhana,EA Perry,AC Jayangani,0,1,1,,,,,"",""
+ball,1,8.7,Royal Challengers Bangalore,S Mandhana,EA Perry,AC Jayangani,1,0,,,,,,"",""
+ball,1,9.1,Royal Challengers Bangalore,S Mandhana,EA Perry,S Ecclestone,0,0,,,,,,"",""
+ball,1,9.2,Royal Challengers Bangalore,S Mandhana,EA Perry,S Ecclestone,4,0,,,,,,"",""
+ball,1,9.3,Royal Challengers Bangalore,S Mandhana,EA Perry,S Ecclestone,0,0,,,,,,"",""
+ball,1,9.4,Royal Challengers Bangalore,S Mandhana,EA Perry,S Ecclestone,1,0,,,,,,"",""
+ball,1,9.5,Royal Challengers Bangalore,EA Perry,S Mandhana,S Ecclestone,0,0,,,,,,"",""
+ball,1,9.6,Royal Challengers Bangalore,EA Perry,S Mandhana,S Ecclestone,0,0,,,,,,"",""
+ball,1,10.1,Royal Challengers Bangalore,S Mandhana,EA Perry,DB Sharma,1,0,,,,,,"",""
+ball,1,10.2,Royal Challengers Bangalore,EA Perry,S Mandhana,DB Sharma,0,0,,,,,,"",""
+ball,1,10.3,Royal Challengers Bangalore,EA Perry,S Mandhana,DB Sharma,1,0,,,,,,"",""
+ball,1,10.4,Royal Challengers Bangalore,S Mandhana,EA Perry,DB Sharma,0,0,,,,,,"",""
+ball,1,10.5,Royal Challengers Bangalore,S Mandhana,EA Perry,DB Sharma,1,0,,,,,,"",""
+ball,1,10.6,Royal Challengers Bangalore,EA Perry,S Mandhana,DB Sharma,1,0,,,,,,"",""
+ball,1,11.1,Royal Challengers Bangalore,EA Perry,S Mandhana,RS Gayakwad,4,0,,,,,,"",""
+ball,1,11.2,Royal Challengers Bangalore,EA Perry,S Mandhana,RS Gayakwad,1,0,,,,,,"",""
+ball,1,11.3,Royal Challengers Bangalore,S Mandhana,EA Perry,RS Gayakwad,6,0,,,,,,"",""
+ball,1,11.4,Royal Challengers Bangalore,S Mandhana,EA Perry,RS Gayakwad,1,0,,,,,,"",""
+ball,1,11.5,Royal Challengers Bangalore,EA Perry,S Mandhana,RS Gayakwad,0,0,,,,,,"",""
+ball,1,11.6,Royal Challengers Bangalore,EA Perry,S Mandhana,RS Gayakwad,2,0,,,,,,"",""
+ball,1,12.1,Royal Challengers Bangalore,S Mandhana,EA Perry,GM Harris,1,0,,,,,,"",""
+ball,1,12.2,Royal Challengers Bangalore,EA Perry,S Mandhana,GM Harris,1,0,,,,,,"",""
+ball,1,12.3,Royal Challengers Bangalore,S Mandhana,EA Perry,GM Harris,1,0,,,,,,"",""
+ball,1,12.4,Royal Challengers Bangalore,EA Perry,S Mandhana,GM Harris,6,0,,,,,,"",""
+ball,1,12.5,Royal Challengers Bangalore,EA Perry,S Mandhana,GM Harris,1,0,,,,,,"",""
+ball,1,12.6,Royal Challengers Bangalore,S Mandhana,EA Perry,GM Harris,1,0,,,,,,"",""
+ball,1,13.1,Royal Challengers Bangalore,S Mandhana,EA Perry,S Ecclestone,1,0,,,,,,"",""
+ball,1,13.2,Royal Challengers Bangalore,EA Perry,S Mandhana,S Ecclestone,0,0,,,,,,"",""
+ball,1,13.3,Royal Challengers Bangalore,EA Perry,S Mandhana,S Ecclestone,1,0,,,,,,"",""
+ball,1,13.4,Royal Challengers Bangalore,S Mandhana,EA Perry,S Ecclestone,1,0,,,,,,"",""
+ball,1,13.5,Royal Challengers Bangalore,EA Perry,S Mandhana,S Ecclestone,0,0,,,,,,"",""
+ball,1,13.6,Royal Challengers Bangalore,EA Perry,S Mandhana,S Ecclestone,0,0,,,,,,"",""
+ball,1,14.1,Royal Challengers Bangalore,S Mandhana,EA Perry,AC Jayangani,0,0,,,,,,"",""
+ball,1,14.2,Royal Challengers Bangalore,S Mandhana,EA Perry,AC Jayangani,4,0,,,,,,"",""
+ball,1,14.3,Royal Challengers Bangalore,S Mandhana,EA Perry,AC Jayangani,4,0,,,,,,"",""
+ball,1,14.4,Royal Challengers Bangalore,S Mandhana,EA Perry,AC Jayangani,0,0,,,,,,"",""
+ball,1,14.5,Royal Challengers Bangalore,S Mandhana,EA Perry,AC Jayangani,4,0,,,,,,"",""
+ball,1,14.6,Royal Challengers Bangalore,S Mandhana,EA Perry,AC Jayangani,1,0,,,,,,"",""
+ball,1,15.1,Royal Challengers Bangalore,S Mandhana,EA Perry,K Anjali Sarvani,4,0,,,,,,"",""
+ball,1,15.2,Royal Challengers Bangalore,S Mandhana,EA Perry,K Anjali Sarvani,4,0,,,,,,"",""
+ball,1,15.3,Royal Challengers Bangalore,S Mandhana,EA Perry,K Anjali Sarvani,0,0,,,,,,"",""
+ball,1,15.4,Royal Challengers Bangalore,S Mandhana,EA Perry,K Anjali Sarvani,4,0,,,,,,"",""
+ball,1,15.5,Royal Challengers Bangalore,S Mandhana,EA Perry,K Anjali Sarvani,1,0,,,,,,"",""
+ball,1,15.6,Royal Challengers Bangalore,EA Perry,S Mandhana,K Anjali Sarvani,4,0,,,,,,"",""
+ball,1,16.1,Royal Challengers Bangalore,S Mandhana,EA Perry,DB Sharma,0,0,,,,,,caught,S Mandhana
+ball,1,16.2,Royal Challengers Bangalore,RM Ghosh,EA Perry,DB Sharma,1,0,,,,,,"",""
+ball,1,16.3,Royal Challengers Bangalore,EA Perry,RM Ghosh,DB Sharma,1,0,,,,,,"",""
+ball,1,16.4,Royal Challengers Bangalore,RM Ghosh,EA Perry,DB Sharma,1,0,,,,,,"",""
+ball,1,16.5,Royal Challengers Bangalore,EA Perry,RM Ghosh,DB Sharma,1,0,,,,,,"",""
+ball,1,16.6,Royal Challengers Bangalore,RM Ghosh,EA Perry,DB Sharma,4,0,,,,,,"",""
+ball,1,17.1,Royal Challengers Bangalore,EA Perry,RM Ghosh,RS Gayakwad,6,0,,,,,,"",""
+ball,1,17.2,Royal Challengers Bangalore,EA Perry,RM Ghosh,RS Gayakwad,6,0,,,,,,"",""
+ball,1,17.3,Royal Challengers Bangalore,EA Perry,RM Ghosh,RS Gayakwad,1,0,,,,,,"",""
+ball,1,17.4,Royal Challengers Bangalore,RM Ghosh,EA Perry,RS Gayakwad,0,0,,,,,,"",""
+ball,1,17.5,Royal Challengers Bangalore,RM Ghosh,EA Perry,RS Gayakwad,6,0,,,,,,"",""
+ball,1,17.6,Royal Challengers Bangalore,RM Ghosh,EA Perry,RS Gayakwad,2,0,,,,,,"",""
+ball,1,18.1,Royal Challengers Bangalore,EA Perry,RM Ghosh,DB Sharma,1,0,,,,,,"",""
+ball,1,18.2,Royal Challengers Bangalore,RM Ghosh,EA Perry,DB Sharma,0,1,,,,1,,"",""
+ball,1,18.3,Royal Challengers Bangalore,EA Perry,RM Ghosh,DB Sharma,4,0,,,,,,"",""
+ball,1,18.4,Royal Challengers Bangalore,EA Perry,RM Ghosh,DB Sharma,0,0,,,,,,"",""
+ball,1,18.5,Royal Challengers Bangalore,EA Perry,RM Ghosh,DB Sharma,6,0,,,,,,"",""
+ball,1,18.6,Royal Challengers Bangalore,EA Perry,RM Ghosh,DB Sharma,1,0,,,,,,"",""
+ball,1,19.1,Royal Challengers Bangalore,EA Perry,RM Ghosh,S Ecclestone,0,0,,,,,,caught,EA Perry
+ball,1,19.2,Royal Challengers Bangalore,SFM Devine,RM Ghosh,S Ecclestone,1,0,,,,,,"",""
+ball,1,19.3,Royal Challengers Bangalore,RM Ghosh,SFM Devine,S Ecclestone,2,0,,,,,,"",""
+ball,1,19.4,Royal Challengers Bangalore,RM Ghosh,SFM Devine,S Ecclestone,1,0,,,,,,"",""
+ball,1,19.5,Royal Challengers Bangalore,SFM Devine,RM Ghosh,S Ecclestone,1,0,,,,,,"",""
+ball,1,19.6,Royal Challengers Bangalore,RM Ghosh,SFM Devine,S Ecclestone,0,1,1,,,,,"",""
+ball,1,19.7,Royal Challengers Bangalore,RM Ghosh,SFM Devine,S Ecclestone,4,0,,,,,,"",""
+ball,2,0.1,UP Warriorz,AJ Healy,KP Navgire,Renuka Singh,0,0,,,,,,"",""
+ball,2,0.2,UP Warriorz,AJ Healy,KP Navgire,Renuka Singh,0,0,,,,,,"",""
+ball,2,0.3,UP Warriorz,AJ Healy,KP Navgire,Renuka Singh,0,0,,,,,,"",""
+ball,2,0.4,UP Warriorz,AJ Healy,KP Navgire,Renuka Singh,0,0,,,,,,"",""
+ball,2,0.5,UP Warriorz,AJ Healy,KP Navgire,Renuka Singh,0,0,,,,,,"",""
+ball,2,0.6,UP Warriorz,AJ Healy,KP Navgire,Renuka Singh,0,0,,,,,,"",""
+ball,2,1.1,UP Warriorz,KP Navgire,AJ Healy,SFM Devine,0,0,,,,,,"",""
+ball,2,1.2,UP Warriorz,KP Navgire,AJ Healy,SFM Devine,0,0,,,,,,"",""
+ball,2,1.3,UP Warriorz,KP Navgire,AJ Healy,SFM Devine,3,0,,,,,,"",""
+ball,2,1.4,UP Warriorz,AJ Healy,KP Navgire,SFM Devine,6,0,,,,,,"",""
+ball,2,1.5,UP Warriorz,AJ Healy,KP Navgire,SFM Devine,0,1,1,,,,,"",""
+ball,2,1.6,UP Warriorz,AJ Healy,KP Navgire,SFM Devine,0,0,,,,,,"",""
+ball,2,1.7,UP Warriorz,AJ Healy,KP Navgire,SFM Devine,6,0,,,,,,"",""
+ball,2,2.1,UP Warriorz,KP Navgire,AJ Healy,Renuka Singh,6,0,,,,,,"",""
+ball,2,2.2,UP Warriorz,KP Navgire,AJ Healy,Renuka Singh,4,0,,,,,,"",""
+ball,2,2.3,UP Warriorz,KP Navgire,AJ Healy,Renuka Singh,4,0,,,,,,"",""
+ball,2,2.4,UP Warriorz,KP Navgire,AJ Healy,Renuka Singh,0,2,,,,2,,"",""
+ball,2,2.5,UP Warriorz,KP Navgire,AJ Healy,Renuka Singh,0,5,5,,,,,"",""
+ball,2,2.6,UP Warriorz,KP Navgire,AJ Healy,Renuka Singh,0,2,2,,,,,"",""
+ball,2,2.7,UP Warriorz,AJ Healy,KP Navgire,Renuka Singh,1,0,,,,,,"",""
+ball,2,2.8,UP Warriorz,KP Navgire,AJ Healy,Renuka Singh,0,0,,,,,,"",""
+ball,2,3.1,UP Warriorz,AJ Healy,KP Navgire,S Molineux,0,0,,,,,,"",""
+ball,2,3.2,UP Warriorz,AJ Healy,KP Navgire,S Molineux,0,0,,,,,,"",""
+ball,2,3.3,UP Warriorz,AJ Healy,KP Navgire,S Molineux,0,0,,,,,,"",""
+ball,2,3.4,UP Warriorz,AJ Healy,KP Navgire,S Molineux,1,0,,,,,,"",""
+ball,2,3.5,UP Warriorz,KP Navgire,AJ Healy,S Molineux,1,0,,,,,,"",""
+ball,2,3.6,UP Warriorz,AJ Healy,KP Navgire,S Molineux,4,0,,,,,,"",""
+ball,2,4.1,UP Warriorz,KP Navgire,AJ Healy,SFM Devine,0,1,1,,,,,"",""
+ball,2,4.2,UP Warriorz,KP Navgire,AJ Healy,SFM Devine,0,0,,,,,,"",""
+ball,2,4.3,UP Warriorz,KP Navgire,AJ Healy,SFM Devine,0,0,,,,,,caught,KP Navgire
+ball,2,4.4,UP Warriorz,AC Jayangani,AJ Healy,SFM Devine,0,0,,,,,,"",""
+ball,2,4.5,UP Warriorz,AC Jayangani,AJ Healy,SFM Devine,0,0,,,,,,"",""
+ball,2,4.6,UP Warriorz,AC Jayangani,AJ Healy,SFM Devine,0,0,,,,,,"",""
+ball,2,4.7,UP Warriorz,AC Jayangani,AJ Healy,SFM Devine,0,0,,,,,,"",""
+ball,2,5.1,UP Warriorz,AJ Healy,AC Jayangani,S Molineux,0,0,,,,,,"",""
+ball,2,5.2,UP Warriorz,AJ Healy,AC Jayangani,S Molineux,0,0,,,,,,"",""
+ball,2,5.3,UP Warriorz,AJ Healy,AC Jayangani,S Molineux,1,0,,,,,,"",""
+ball,2,5.4,UP Warriorz,AC Jayangani,AJ Healy,S Molineux,0,0,,,,,,"",""
+ball,2,5.5,UP Warriorz,AC Jayangani,AJ Healy,S Molineux,4,0,,,,,,"",""
+ball,2,5.6,UP Warriorz,AC Jayangani,AJ Healy,S Molineux,4,0,,,,,,"",""
+ball,2,6.1,UP Warriorz,AJ Healy,AC Jayangani,G Wareham,6,0,,,,,,"",""
+ball,2,6.2,UP Warriorz,AJ Healy,AC Jayangani,G Wareham,1,0,,,,,,"",""
+ball,2,6.3,UP Warriorz,AC Jayangani,AJ Healy,G Wareham,0,0,,,,,,lbw,AC Jayangani
+ball,2,6.4,UP Warriorz,GM Harris,AJ Healy,G Wareham,1,0,,,,,,"",""
+ball,2,6.5,UP Warriorz,AJ Healy,GM Harris,G Wareham,1,0,,,,,,"",""
+ball,2,6.6,UP Warriorz,GM Harris,AJ Healy,G Wareham,0,0,,,,,,"",""
+ball,2,7.1,UP Warriorz,AJ Healy,GM Harris,SFM Devine,4,0,,,,,,"",""
+ball,2,7.2,UP Warriorz,AJ Healy,GM Harris,SFM Devine,1,0,,,,,,"",""
+ball,2,7.3,UP Warriorz,GM Harris,AJ Healy,SFM Devine,0,0,,,,,,"",""
+ball,2,7.4,UP Warriorz,GM Harris,AJ Healy,SFM Devine,4,0,,,,,,"",""
+ball,2,7.5,UP Warriorz,GM Harris,AJ Healy,SFM Devine,0,0,,,,,,caught,GM Harris
+ball,2,7.6,UP Warriorz,S Sehrawat,AJ Healy,SFM Devine,0,1,1,,,,,"",""
+ball,2,7.7,UP Warriorz,S Sehrawat,AJ Healy,SFM Devine,0,0,,,,,,"",""
+ball,2,8.1,UP Warriorz,AJ Healy,S Sehrawat,G Wareham,4,0,,,,,,"",""
+ball,2,8.2,UP Warriorz,AJ Healy,S Sehrawat,G Wareham,4,0,,,,,,"",""
+ball,2,8.3,UP Warriorz,AJ Healy,S Sehrawat,G Wareham,4,0,,,,,,"",""
+ball,2,8.4,UP Warriorz,AJ Healy,S Sehrawat,G Wareham,1,0,,,,,,"",""
+ball,2,8.5,UP Warriorz,S Sehrawat,AJ Healy,G Wareham,1,0,,,,,,"",""
+ball,2,8.6,UP Warriorz,AJ Healy,S Sehrawat,G Wareham,0,0,,,,,,"",""
+ball,2,9.1,UP Warriorz,S Sehrawat,AJ Healy,S Asha,0,0,,,,,,"",""
+ball,2,9.2,UP Warriorz,S Sehrawat,AJ Healy,S Asha,0,0,,,,,,"",""
+ball,2,9.3,UP Warriorz,S Sehrawat,AJ Healy,S Asha,0,0,,,,,,caught,S Sehrawat
+ball,2,9.4,UP Warriorz,DB Sharma,AJ Healy,S Asha,0,0,,,,,,"",""
+ball,2,9.5,UP Warriorz,DB Sharma,AJ Healy,S Asha,1,0,,,,,,"",""
+ball,2,9.6,UP Warriorz,AJ Healy,DB Sharma,S Asha,0,0,,,,,,"",""
+ball,2,10.1,UP Warriorz,DB Sharma,AJ Healy,E Bisht,4,0,,,,,,"",""
+ball,2,10.2,UP Warriorz,DB Sharma,AJ Healy,E Bisht,2,0,,,,,,"",""
+ball,2,10.3,UP Warriorz,DB Sharma,AJ Healy,E Bisht,2,0,,,,,,"",""
+ball,2,10.4,UP Warriorz,DB Sharma,AJ Healy,E Bisht,0,0,,,,,,"",""
+ball,2,10.5,UP Warriorz,DB Sharma,AJ Healy,E Bisht,1,0,,,,,,"",""
+ball,2,10.6,UP Warriorz,AJ Healy,DB Sharma,E Bisht,1,0,,,,,,"",""
+ball,2,11.1,UP Warriorz,AJ Healy,DB Sharma,S Asha,0,0,,,,,,"",""
+ball,2,11.2,UP Warriorz,AJ Healy,DB Sharma,S Asha,0,0,,,,,,"",""
+ball,2,11.3,UP Warriorz,AJ Healy,DB Sharma,S Asha,0,0,,,,,,"",""
+ball,2,11.4,UP Warriorz,AJ Healy,DB Sharma,S Asha,4,0,,,,,,"",""
+ball,2,11.5,UP Warriorz,AJ Healy,DB Sharma,S Asha,1,0,,,,,,"",""
+ball,2,11.6,UP Warriorz,DB Sharma,AJ Healy,S Asha,4,0,,,,,,"",""
+ball,2,12.1,UP Warriorz,AJ Healy,DB Sharma,S Molineux,0,0,,,,,,"",""
+ball,2,12.2,UP Warriorz,AJ Healy,DB Sharma,S Molineux,4,0,,,,,,"",""
+ball,2,12.3,UP Warriorz,AJ Healy,DB Sharma,S Molineux,0,0,,,,,,stumped,AJ Healy
+ball,2,12.4,UP Warriorz,PN Khemnar,DB Sharma,S Molineux,0,5,5,,,,,"",""
+ball,2,12.5,UP Warriorz,PN Khemnar,DB Sharma,S Molineux,0,0,,,,,,"",""
+ball,2,12.6,UP Warriorz,PN Khemnar,DB Sharma,S Molineux,0,0,,,,,,"",""
+ball,2,12.7,UP Warriorz,PN Khemnar,DB Sharma,S Molineux,0,0,,,,,,"",""
+ball,2,13.1,UP Warriorz,DB Sharma,PN Khemnar,Renuka Singh,0,0,,,,,,"",""
+ball,2,13.2,UP Warriorz,DB Sharma,PN Khemnar,Renuka Singh,6,0,,,,,,"",""
+ball,2,13.3,UP Warriorz,DB Sharma,PN Khemnar,Renuka Singh,0,0,,,,,,"",""
+ball,2,13.4,UP Warriorz,DB Sharma,PN Khemnar,Renuka Singh,1,0,,,,,,"",""
+ball,2,13.5,UP Warriorz,PN Khemnar,DB Sharma,Renuka Singh,1,0,,,,,,"",""
+ball,2,13.6,UP Warriorz,DB Sharma,PN Khemnar,Renuka Singh,0,0,,,,,,"",""
+ball,2,14.1,UP Warriorz,PN Khemnar,DB Sharma,S Asha,4,0,,,,,,"",""
+ball,2,14.2,UP Warriorz,PN Khemnar,DB Sharma,S Asha,1,0,,,,,,"",""
+ball,2,14.3,UP Warriorz,DB Sharma,PN Khemnar,S Asha,1,0,,,,,,"",""
+ball,2,14.4,UP Warriorz,PN Khemnar,DB Sharma,S Asha,0,0,,,,,,"",""
+ball,2,14.5,UP Warriorz,PN Khemnar,DB Sharma,S Asha,1,0,,,,,,"",""
+ball,2,14.6,UP Warriorz,DB Sharma,PN Khemnar,S Asha,4,0,,,,,,"",""
+ball,2,15.1,UP Warriorz,PN Khemnar,DB Sharma,SFM Devine,0,0,,,,,,"",""
+ball,2,15.2,UP Warriorz,PN Khemnar,DB Sharma,SFM Devine,4,0,,,,,,"",""
+ball,2,15.3,UP Warriorz,PN Khemnar,DB Sharma,SFM Devine,0,0,,,,,,"",""
+ball,2,15.4,UP Warriorz,PN Khemnar,DB Sharma,SFM Devine,1,0,,,,,,"",""
+ball,2,15.5,UP Warriorz,DB Sharma,PN Khemnar,SFM Devine,1,0,,,,,,"",""
+ball,2,15.6,UP Warriorz,PN Khemnar,DB Sharma,SFM Devine,4,0,,,,,,"",""
+ball,2,16.1,UP Warriorz,DB Sharma,PN Khemnar,G Wareham,1,0,,,,,,"",""
+ball,2,16.2,UP Warriorz,PN Khemnar,DB Sharma,G Wareham,0,0,,,,,,"",""
+ball,2,16.3,UP Warriorz,PN Khemnar,DB Sharma,G Wareham,0,0,,,,,,"",""
+ball,2,16.4,UP Warriorz,PN Khemnar,DB Sharma,G Wareham,1,0,,,,,,"",""
+ball,2,16.5,UP Warriorz,DB Sharma,PN Khemnar,G Wareham,1,0,,,,,,"",""
+ball,2,16.6,UP Warriorz,PN Khemnar,DB Sharma,G Wareham,0,0,,,,,,"",""
+ball,2,17.1,UP Warriorz,DB Sharma,PN Khemnar,S Asha,4,0,,,,,,"",""
+ball,2,17.2,UP Warriorz,DB Sharma,PN Khemnar,S Asha,0,0,,,,,,"",""
+ball,2,17.3,UP Warriorz,DB Sharma,PN Khemnar,S Asha,0,0,,,,,,"",""
+ball,2,17.4,UP Warriorz,DB Sharma,PN Khemnar,S Asha,0,0,,,,,,caught and bowled,DB Sharma
+ball,2,17.5,UP Warriorz,S Ecclestone,PN Khemnar,S Asha,0,0,,,,,,"",""
+ball,2,17.6,UP Warriorz,S Ecclestone,PN Khemnar,S Asha,4,0,,,,,,"",""
+ball,2,18.1,UP Warriorz,PN Khemnar,S Ecclestone,G Wareham,1,0,,,,,,"",""
+ball,2,18.2,UP Warriorz,S Ecclestone,PN Khemnar,G Wareham,0,0,,,,,,bowled,S Ecclestone
+ball,2,18.3,UP Warriorz,K Anjali Sarvani,PN Khemnar,G Wareham,0,0,,,,,,"",""
+ball,2,18.4,UP Warriorz,K Anjali Sarvani,PN Khemnar,G Wareham,1,0,,,,,,"",""
+ball,2,18.5,UP Warriorz,PN Khemnar,K Anjali Sarvani,G Wareham,4,0,,,,,,"",""
+ball,2,18.6,UP Warriorz,PN Khemnar,K Anjali Sarvani,G Wareham,6,0,,,,,,"",""
+ball,2,19.1,UP Warriorz,K Anjali Sarvani,PN Khemnar,S Molineux,1,0,,,,,,"",""
+ball,2,19.2,UP Warriorz,PN Khemnar,K Anjali Sarvani,S Molineux,2,0,,,,,,"",""
+ball,2,19.3,UP Warriorz,PN Khemnar,K Anjali Sarvani,S Molineux,1,0,,,,,,"",""
+ball,2,19.4,UP Warriorz,K Anjali Sarvani,PN Khemnar,S Molineux,1,0,,,,,,"",""
+ball,2,19.5,UP Warriorz,PN Khemnar,K Anjali Sarvani,S Molineux,0,0,,,,,,"",""
+ball,2,19.6,UP Warriorz,PN Khemnar,K Anjali Sarvani,S Molineux,0,0,,,,,,bowled,PN Khemnar

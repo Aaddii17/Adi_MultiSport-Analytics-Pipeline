@@ -1,0 +1,317 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Qatar
+info,team,Bahrain
+info,gender,male
+info,season,2025/26
+info,date,2026/02/14
+info,event,Bahrain tour of Qatar
+info,match_number,4
+info,venue,"West End Park International Cricket Stadium, Doha"
+info,city,Doha
+info,toss_winner,Bahrain
+info,toss_decision,field
+info,player_of_match,Asif Ali
+info,umpire,Rilas Abubacker
+info,umpire,Muhammad Usman
+info,reserve_umpire,Sajid Ullah
+info,match_referee,Aminul Islam
+info,winner,Bahrain
+info,winner_wickets,5
+info,player,Qatar,Saqlain Arshad
+info,player,Qatar,Zubair Ali
+info,player,Qatar,I Liyanage
+info,player,Qatar,Muhammad Asim
+info,player,Qatar,MM Baig
+info,player,Qatar,Zeeshan Haider
+info,player,Qatar,Shahzeb Afridi
+info,player,Qatar,Mujeeb-ur-Rehman
+info,player,Qatar,DAM Louis
+info,player,Qatar,Owais Ahmed
+info,player,Qatar,Shariq Munir
+info,player,Bahrain,Asif Ali
+info,player,Bahrain,P Kurup
+info,player,Bahrain,Fiaz Ahmed
+info,player,Bahrain,Sohail Ahmed
+info,player,Bahrain,Ahmer Bin Nisar
+info,player,Bahrain,Yasser Nazir
+info,player,Bahrain,Rizwan Butt
+info,player,Bahrain,Ali Dawood
+info,player,Bahrain,Abdullah Mohd Yousaf
+info,player,Bahrain,Imran Khan
+info,player,Bahrain,Muhammad Salman
+info,registry,people,Abdullah Mohd Yousaf,4cc968c5
+info,registry,people,Ahmer Bin Nisar,afbc53ba
+info,registry,people,Ali Dawood,596982e6
+info,registry,people,Aminul Islam,6e60a05f
+info,registry,people,Asif Ali,0a4736eb
+info,registry,people,DAM Louis,b975210d
+info,registry,people,Fiaz Ahmed,df1f2f29
+info,registry,people,I Liyanage,826e1017
+info,registry,people,Imran Khan,da3b91fd
+info,registry,people,MM Baig,add288ea
+info,registry,people,Muhammad Asim,b424d3d3
+info,registry,people,Muhammad Salman,460fc0ba
+info,registry,people,Muhammad Usman,05b35689
+info,registry,people,Mujeeb-ur-Rehman,1a8f879b
+info,registry,people,Owais Ahmed,cef52835
+info,registry,people,P Kurup,50ceaef6
+info,registry,people,Rilas Abubacker,aa7e972c
+info,registry,people,Rizwan Butt,e741ed8f
+info,registry,people,Sajid Ullah,cdf6aa1b
+info,registry,people,Saqlain Arshad,71ad618b
+info,registry,people,Shahzaib Jamil,fbb6d1a7
+info,registry,people,Shahzeb Afridi,53494306
+info,registry,people,Shariq Munir,298d9b83
+info,registry,people,Sohail Ahmed,4db71b2e
+info,registry,people,Yasser Nazir,ccceaca9
+info,registry,people,Zeeshan Haider,e4d76518
+info,registry,people,Zubair Ali,f16e776a
+ball,1,0.1,Qatar,Saqlain Arshad,Zubair Ali,Ali Dawood,1,0,,,,,,"",""
+ball,1,0.2,Qatar,Zubair Ali,Saqlain Arshad,Ali Dawood,1,0,,,,,,"",""
+ball,1,0.3,Qatar,Saqlain Arshad,Zubair Ali,Ali Dawood,0,0,,,,,,"",""
+ball,1,0.4,Qatar,Saqlain Arshad,Zubair Ali,Ali Dawood,0,0,,,,,,"",""
+ball,1,0.5,Qatar,Saqlain Arshad,Zubair Ali,Ali Dawood,1,0,,,,,,"",""
+ball,1,0.6,Qatar,Zubair Ali,Saqlain Arshad,Ali Dawood,1,0,,,,,,"",""
+ball,1,1.1,Qatar,Zubair Ali,Saqlain Arshad,Imran Khan,0,0,,,,,,"",""
+ball,1,1.2,Qatar,Zubair Ali,Saqlain Arshad,Imran Khan,2,0,,,,,,"",""
+ball,1,1.3,Qatar,Zubair Ali,Saqlain Arshad,Imran Khan,1,0,,,,,,"",""
+ball,1,1.4,Qatar,Saqlain Arshad,Zubair Ali,Imran Khan,0,1,1,,,,,"",""
+ball,1,1.5,Qatar,Saqlain Arshad,Zubair Ali,Imran Khan,1,0,,,,,,"",""
+ball,1,1.6,Qatar,Zubair Ali,Saqlain Arshad,Imran Khan,1,0,,,,,,"",""
+ball,1,1.7,Qatar,Saqlain Arshad,Zubair Ali,Imran Khan,4,0,,,,,,"",""
+ball,1,2.1,Qatar,Zubair Ali,Saqlain Arshad,Ali Dawood,4,0,,,,,,"",""
+ball,1,2.2,Qatar,Zubair Ali,Saqlain Arshad,Ali Dawood,0,1,,,1,,,"",""
+ball,1,2.3,Qatar,Saqlain Arshad,Zubair Ali,Ali Dawood,0,0,,,,,,caught,Saqlain Arshad
+ball,1,2.4,Qatar,I Liyanage,Zubair Ali,Ali Dawood,1,0,,,,,,"",""
+ball,1,2.5,Qatar,Zubair Ali,I Liyanage,Ali Dawood,0,1,1,,,,,"",""
+ball,1,2.6,Qatar,Zubair Ali,I Liyanage,Ali Dawood,1,0,,,,,,"",""
+ball,1,2.7,Qatar,I Liyanage,Zubair Ali,Ali Dawood,1,0,,,,,,"",""
+ball,1,3.1,Qatar,I Liyanage,Zubair Ali,Imran Khan,4,0,,,,,,"",""
+ball,1,3.2,Qatar,I Liyanage,Zubair Ali,Imran Khan,1,0,,,,,,"",""
+ball,1,3.3,Qatar,Zubair Ali,I Liyanage,Imran Khan,0,0,,,,,,"",""
+ball,1,3.4,Qatar,Zubair Ali,I Liyanage,Imran Khan,4,0,,,,,,"",""
+ball,1,3.5,Qatar,Zubair Ali,I Liyanage,Imran Khan,4,0,,,,,,"",""
+ball,1,3.6,Qatar,Zubair Ali,I Liyanage,Imran Khan,1,0,,,,,,"",""
+ball,1,4.1,Qatar,Zubair Ali,I Liyanage,Rizwan Butt,0,0,,,,,,"",""
+ball,1,4.2,Qatar,Zubair Ali,I Liyanage,Rizwan Butt,1,0,,,,,,"",""
+ball,1,4.3,Qatar,I Liyanage,Zubair Ali,Rizwan Butt,0,0,,,,,,"",""
+ball,1,4.4,Qatar,I Liyanage,Zubair Ali,Rizwan Butt,0,0,,,,,,"",""
+ball,1,4.5,Qatar,I Liyanage,Zubair Ali,Rizwan Butt,4,0,,,,,,"",""
+ball,1,4.6,Qatar,I Liyanage,Zubair Ali,Rizwan Butt,1,0,,,,,,"",""
+ball,1,5.1,Qatar,I Liyanage,Zubair Ali,Imran Khan,0,0,,,,,,caught,I Liyanage
+ball,1,5.2,Qatar,Muhammad Asim,Zubair Ali,Imran Khan,0,0,,,,,,"",""
+ball,1,5.3,Qatar,Muhammad Asim,Zubair Ali,Imran Khan,0,0,,,,,,"",""
+ball,1,5.4,Qatar,Muhammad Asim,Zubair Ali,Imran Khan,6,0,,,,,,"",""
+ball,1,5.5,Qatar,Muhammad Asim,Zubair Ali,Imran Khan,1,0,,,,,,"",""
+ball,1,5.6,Qatar,Zubair Ali,Muhammad Asim,Imran Khan,1,0,,,,,,"",""
+ball,1,6.1,Qatar,Zubair Ali,Muhammad Asim,Muhammad Salman,0,0,,,,,,"",""
+ball,1,6.2,Qatar,Zubair Ali,Muhammad Asim,Muhammad Salman,1,0,,,,,,"",""
+ball,1,6.3,Qatar,Muhammad Asim,Zubair Ali,Muhammad Salman,1,0,,,,,,"",""
+ball,1,6.4,Qatar,Zubair Ali,Muhammad Asim,Muhammad Salman,1,0,,,,,,"",""
+ball,1,6.5,Qatar,Muhammad Asim,Zubair Ali,Muhammad Salman,2,0,,,,,,"",""
+ball,1,6.6,Qatar,Muhammad Asim,Zubair Ali,Muhammad Salman,1,0,,,,,,"",""
+ball,1,7.1,Qatar,Muhammad Asim,Zubair Ali,Abdullah Mohd Yousaf,1,0,,,,,,"",""
+ball,1,7.2,Qatar,Zubair Ali,Muhammad Asim,Abdullah Mohd Yousaf,0,0,,,,,,caught and bowled,Zubair Ali
+ball,1,7.3,Qatar,MM Baig,Muhammad Asim,Abdullah Mohd Yousaf,2,0,,,,,,"",""
+ball,1,7.4,Qatar,MM Baig,Muhammad Asim,Abdullah Mohd Yousaf,1,0,,,,,,"",""
+ball,1,7.5,Qatar,Muhammad Asim,MM Baig,Abdullah Mohd Yousaf,1,0,,,,,,"",""
+ball,1,7.6,Qatar,MM Baig,Muhammad Asim,Abdullah Mohd Yousaf,1,0,,,,,,"",""
+ball,1,8.1,Qatar,MM Baig,Muhammad Asim,Muhammad Salman,1,0,,,,,,"",""
+ball,1,8.2,Qatar,Muhammad Asim,MM Baig,Muhammad Salman,0,0,,,,,,"",""
+ball,1,8.3,Qatar,Muhammad Asim,MM Baig,Muhammad Salman,1,0,,,,,,"",""
+ball,1,8.4,Qatar,MM Baig,Muhammad Asim,Muhammad Salman,1,0,,,,,,"",""
+ball,1,8.5,Qatar,Muhammad Asim,MM Baig,Muhammad Salman,0,0,,,,,,"",""
+ball,1,8.6,Qatar,Muhammad Asim,MM Baig,Muhammad Salman,0,0,,,,,,"",""
+ball,1,9.1,Qatar,MM Baig,Muhammad Asim,Abdullah Mohd Yousaf,1,0,,,,,,"",""
+ball,1,9.2,Qatar,Muhammad Asim,MM Baig,Abdullah Mohd Yousaf,1,0,,,,,,"",""
+ball,1,9.3,Qatar,MM Baig,Muhammad Asim,Abdullah Mohd Yousaf,4,0,,,,,,"",""
+ball,1,9.4,Qatar,MM Baig,Muhammad Asim,Abdullah Mohd Yousaf,4,0,,,,,,"",""
+ball,1,9.5,Qatar,MM Baig,Muhammad Asim,Abdullah Mohd Yousaf,4,0,,,,,,"",""
+ball,1,9.6,Qatar,MM Baig,Muhammad Asim,Abdullah Mohd Yousaf,2,0,,,,,,"",""
+ball,1,10.1,Qatar,Muhammad Asim,MM Baig,Muhammad Salman,0,0,,,,,,"",""
+ball,1,10.2,Qatar,Muhammad Asim,MM Baig,Muhammad Salman,1,0,,,,,,"",""
+ball,1,10.3,Qatar,MM Baig,Muhammad Asim,Muhammad Salman,1,0,,,,,,"",""
+ball,1,10.4,Qatar,Muhammad Asim,MM Baig,Muhammad Salman,1,0,,,,,,"",""
+ball,1,10.5,Qatar,MM Baig,Muhammad Asim,Muhammad Salman,1,0,,,,,,"",""
+ball,1,10.6,Qatar,Muhammad Asim,MM Baig,Muhammad Salman,1,0,,,,,,"",""
+ball,1,11.1,Qatar,Muhammad Asim,MM Baig,Asif Ali,4,0,,,,,,"",""
+ball,1,11.2,Qatar,Muhammad Asim,MM Baig,Asif Ali,1,0,,,,,,"",""
+ball,1,11.3,Qatar,MM Baig,Muhammad Asim,Asif Ali,6,0,,,,,,"",""
+ball,1,11.4,Qatar,MM Baig,Muhammad Asim,Asif Ali,2,0,,,,,,"",""
+ball,1,11.5,Qatar,MM Baig,Muhammad Asim,Asif Ali,0,0,,,,,,caught,MM Baig
+ball,1,11.6,Qatar,Zeeshan Haider,Muhammad Asim,Asif Ali,4,0,,,,,,"",""
+ball,1,12.1,Qatar,Muhammad Asim,Zeeshan Haider,Muhammad Salman,1,0,,,,,,"",""
+ball,1,12.2,Qatar,Zeeshan Haider,Muhammad Asim,Muhammad Salman,0,0,,,,,,"",""
+ball,1,12.3,Qatar,Zeeshan Haider,Muhammad Asim,Muhammad Salman,1,0,,,,,,"",""
+ball,1,12.4,Qatar,Muhammad Asim,Zeeshan Haider,Muhammad Salman,1,0,,,,,,"",""
+ball,1,12.5,Qatar,Zeeshan Haider,Muhammad Asim,Muhammad Salman,1,0,,,,,,"",""
+ball,1,12.6,Qatar,Muhammad Asim,Zeeshan Haider,Muhammad Salman,1,0,,,,,,"",""
+ball,1,13.1,Qatar,Muhammad Asim,Zeeshan Haider,Rizwan Butt,1,0,,,,,,"",""
+ball,1,13.2,Qatar,Zeeshan Haider,Muhammad Asim,Rizwan Butt,1,0,,,,,,"",""
+ball,1,13.3,Qatar,Muhammad Asim,Zeeshan Haider,Rizwan Butt,1,0,,,,,,"",""
+ball,1,13.4,Qatar,Zeeshan Haider,Muhammad Asim,Rizwan Butt,0,0,,,,,,"",""
+ball,1,13.5,Qatar,Zeeshan Haider,Muhammad Asim,Rizwan Butt,1,0,,,,,,"",""
+ball,1,13.6,Qatar,Muhammad Asim,Zeeshan Haider,Rizwan Butt,4,0,,,,,,"",""
+ball,1,14.1,Qatar,Zeeshan Haider,Muhammad Asim,Asif Ali,0,0,,,,,,"",""
+ball,1,14.2,Qatar,Zeeshan Haider,Muhammad Asim,Asif Ali,2,0,,,,,,"",""
+ball,1,14.3,Qatar,Zeeshan Haider,Muhammad Asim,Asif Ali,6,0,,,,,,"",""
+ball,1,14.4,Qatar,Zeeshan Haider,Muhammad Asim,Asif Ali,0,0,,,,,,caught,Zeeshan Haider
+ball,1,14.5,Qatar,Shahzeb Afridi,Muhammad Asim,Asif Ali,1,0,,,,,,"",""
+ball,1,14.6,Qatar,Muhammad Asim,Shahzeb Afridi,Asif Ali,1,0,,,,,,"",""
+ball,1,15.1,Qatar,Muhammad Asim,Shahzeb Afridi,Imran Khan,3,0,,,,,,"",""
+ball,1,15.2,Qatar,Shahzeb Afridi,Muhammad Asim,Imran Khan,0,0,,,,,,"",""
+ball,1,15.3,Qatar,Shahzeb Afridi,Muhammad Asim,Imran Khan,1,0,,,,,,"",""
+ball,1,15.4,Qatar,Muhammad Asim,Shahzeb Afridi,Imran Khan,2,0,,,,,,"",""
+ball,1,15.5,Qatar,Muhammad Asim,Shahzeb Afridi,Imran Khan,1,0,,,,,,"",""
+ball,1,15.6,Qatar,Shahzeb Afridi,Muhammad Asim,Imran Khan,0,0,,,,,,"",""
+ball,1,16.1,Qatar,Muhammad Asim,Shahzeb Afridi,Ali Dawood,6,0,,,,,,"",""
+ball,1,16.2,Qatar,Muhammad Asim,Shahzeb Afridi,Ali Dawood,1,0,,,,,,"",""
+ball,1,16.3,Qatar,Shahzeb Afridi,Muhammad Asim,Ali Dawood,0,0,,,,,,"",""
+ball,1,16.4,Qatar,Shahzeb Afridi,Muhammad Asim,Ali Dawood,6,0,,,,,,"",""
+ball,1,16.5,Qatar,Shahzeb Afridi,Muhammad Asim,Ali Dawood,2,0,,,,,,"",""
+ball,1,16.6,Qatar,Shahzeb Afridi,Muhammad Asim,Ali Dawood,0,1,1,,,,,"",""
+ball,1,16.7,Qatar,Shahzeb Afridi,Muhammad Asim,Ali Dawood,0,0,,,,,,"",""
+ball,1,17.1,Qatar,Muhammad Asim,Shahzeb Afridi,Rizwan Butt,2,0,,,,,,"",""
+ball,1,17.2,Qatar,Muhammad Asim,Shahzeb Afridi,Rizwan Butt,1,0,,,,,,"",""
+ball,1,17.3,Qatar,Shahzeb Afridi,Muhammad Asim,Rizwan Butt,6,0,,,,,,"",""
+ball,1,17.4,Qatar,Shahzeb Afridi,Muhammad Asim,Rizwan Butt,1,0,,,,,,"",""
+ball,1,17.5,Qatar,Muhammad Asim,Shahzeb Afridi,Rizwan Butt,2,0,,,,,,"",""
+ball,1,17.6,Qatar,Muhammad Asim,Shahzeb Afridi,Rizwan Butt,2,0,,,,,,"",""
+ball,1,18.1,Qatar,Shahzeb Afridi,Muhammad Asim,Ali Dawood,1,0,,,,,,"",""
+ball,1,18.2,Qatar,Muhammad Asim,Shahzeb Afridi,Ali Dawood,1,0,,,,,,"",""
+ball,1,18.3,Qatar,Shahzeb Afridi,Muhammad Asim,Ali Dawood,4,0,,,,,,"",""
+ball,1,18.4,Qatar,Shahzeb Afridi,Muhammad Asim,Ali Dawood,4,0,,,,,,"",""
+ball,1,18.5,Qatar,Shahzeb Afridi,Muhammad Asim,Ali Dawood,0,0,,,,,,"",""
+ball,1,18.6,Qatar,Shahzeb Afridi,Muhammad Asim,Ali Dawood,1,0,,,,,,"",""
+ball,1,19.1,Qatar,Shahzeb Afridi,Muhammad Asim,Rizwan Butt,6,0,,,,,,"",""
+ball,1,19.2,Qatar,Shahzeb Afridi,Muhammad Asim,Rizwan Butt,0,1,1,,,,,"",""
+ball,1,19.3,Qatar,Shahzeb Afridi,Muhammad Asim,Rizwan Butt,0,0,,,,,,"",""
+ball,1,19.4,Qatar,Shahzeb Afridi,Muhammad Asim,Rizwan Butt,0,0,,,,,,"",""
+ball,1,19.5,Qatar,Shahzeb Afridi,Muhammad Asim,Rizwan Butt,0,1,1,,,,,"",""
+ball,1,19.6,Qatar,Shahzeb Afridi,Muhammad Asim,Rizwan Butt,1,0,,,,,,"",""
+ball,1,19.7,Qatar,Muhammad Asim,Shahzeb Afridi,Rizwan Butt,1,0,,,,,,"",""
+ball,1,19.8,Qatar,Shahzeb Afridi,Muhammad Asim,Rizwan Butt,0,1,1,,,,,"",""
+ball,1,19.9,Qatar,Shahzeb Afridi,Muhammad Asim,Rizwan Butt,1,0,,,,,,"",""
+ball,2,0.1,Bahrain,Asif Ali,P Kurup,MM Baig,6,0,,,,,,"",""
+ball,2,0.2,Bahrain,Asif Ali,P Kurup,MM Baig,0,0,,,,,,"",""
+ball,2,0.3,Bahrain,Asif Ali,P Kurup,MM Baig,1,0,,,,,,"",""
+ball,2,0.4,Bahrain,P Kurup,Asif Ali,MM Baig,0,0,,,,,,"",""
+ball,2,0.5,Bahrain,P Kurup,Asif Ali,MM Baig,4,0,,,,,,"",""
+ball,2,0.6,Bahrain,P Kurup,Asif Ali,MM Baig,0,0,,,,,,"",""
+ball,2,1.1,Bahrain,Asif Ali,P Kurup,Shariq Munir,1,0,,,,,,"",""
+ball,2,1.2,Bahrain,P Kurup,Asif Ali,Shariq Munir,2,0,,,,,,"",""
+ball,2,1.3,Bahrain,P Kurup,Asif Ali,Shariq Munir,1,0,,,,,,"",""
+ball,2,1.4,Bahrain,Asif Ali,P Kurup,Shariq Munir,0,0,,,,,,"",""
+ball,2,1.5,Bahrain,Asif Ali,P Kurup,Shariq Munir,1,0,,,,,,"",""
+ball,2,1.6,Bahrain,P Kurup,Asif Ali,Shariq Munir,4,0,,,,,,"",""
+ball,2,2.1,Bahrain,Asif Ali,P Kurup,Mujeeb-ur-Rehman,0,0,,,,,,"",""
+ball,2,2.2,Bahrain,Asif Ali,P Kurup,Mujeeb-ur-Rehman,6,0,,,,,,"",""
+ball,2,2.3,Bahrain,Asif Ali,P Kurup,Mujeeb-ur-Rehman,0,0,,,,,,"",""
+ball,2,2.4,Bahrain,Asif Ali,P Kurup,Mujeeb-ur-Rehman,2,0,,,,,,"",""
+ball,2,2.5,Bahrain,Asif Ali,P Kurup,Mujeeb-ur-Rehman,0,0,,,,,,"",""
+ball,2,2.6,Bahrain,Asif Ali,P Kurup,Mujeeb-ur-Rehman,6,0,,,,,,"",""
+ball,2,3.1,Bahrain,P Kurup,Asif Ali,MM Baig,0,0,,,,,,"",""
+ball,2,3.2,Bahrain,P Kurup,Asif Ali,MM Baig,1,0,,,,,,"",""
+ball,2,3.3,Bahrain,Asif Ali,P Kurup,MM Baig,1,0,,,,,,"",""
+ball,2,3.4,Bahrain,P Kurup,Asif Ali,MM Baig,0,0,,,,,,"",""
+ball,2,3.5,Bahrain,P Kurup,Asif Ali,MM Baig,1,0,,,,,,"",""
+ball,2,3.6,Bahrain,Asif Ali,P Kurup,MM Baig,1,0,,,,,,"",""
+ball,2,4.1,Bahrain,Asif Ali,P Kurup,Muhammad Asim,6,0,,,,,,"",""
+ball,2,4.2,Bahrain,Asif Ali,P Kurup,Muhammad Asim,0,0,,,,,,"",""
+ball,2,4.3,Bahrain,Asif Ali,P Kurup,Muhammad Asim,6,0,,,,,,"",""
+ball,2,4.4,Bahrain,Asif Ali,P Kurup,Muhammad Asim,0,0,,,,,,"",""
+ball,2,4.5,Bahrain,Asif Ali,P Kurup,Muhammad Asim,1,0,,,,,,"",""
+ball,2,4.6,Bahrain,P Kurup,Asif Ali,Muhammad Asim,1,0,,,,,,"",""
+ball,2,5.1,Bahrain,P Kurup,Asif Ali,Shariq Munir,4,0,,,,,,"",""
+ball,2,5.2,Bahrain,P Kurup,Asif Ali,Shariq Munir,0,0,,,,,,"",""
+ball,2,5.3,Bahrain,P Kurup,Asif Ali,Shariq Munir,1,0,,,,,,"",""
+ball,2,5.4,Bahrain,Asif Ali,P Kurup,Shariq Munir,1,1,,1,,,,"",""
+ball,2,5.5,Bahrain,P Kurup,Asif Ali,Shariq Munir,4,0,,,,,,"",""
+ball,2,5.6,Bahrain,P Kurup,Asif Ali,Shariq Munir,4,0,,,,,,"",""
+ball,2,5.7,Bahrain,P Kurup,Asif Ali,Shariq Munir,1,0,,,,,,"",""
+ball,2,6.1,Bahrain,P Kurup,Asif Ali,DAM Louis,0,0,,,,,,"",""
+ball,2,6.2,Bahrain,P Kurup,Asif Ali,DAM Louis,1,0,,,,,,"",""
+ball,2,6.3,Bahrain,Asif Ali,P Kurup,DAM Louis,0,0,,,,,,bowled,Asif Ali
+ball,2,6.4,Bahrain,Fiaz Ahmed,P Kurup,DAM Louis,1,0,,,,,,"",""
+ball,2,6.5,Bahrain,P Kurup,Fiaz Ahmed,DAM Louis,1,0,,,,,,"",""
+ball,2,6.6,Bahrain,Fiaz Ahmed,P Kurup,DAM Louis,0,0,,,,,,"",""
+ball,2,7.1,Bahrain,P Kurup,Fiaz Ahmed,Owais Ahmed,1,0,,,,,,"",""
+ball,2,7.2,Bahrain,Fiaz Ahmed,P Kurup,Owais Ahmed,1,0,,,,,,"",""
+ball,2,7.3,Bahrain,P Kurup,Fiaz Ahmed,Owais Ahmed,0,0,,,,,,"",""
+ball,2,7.4,Bahrain,P Kurup,Fiaz Ahmed,Owais Ahmed,0,0,,,,,,run out,P Kurup
+ball,2,7.5,Bahrain,Sohail Ahmed,Fiaz Ahmed,Owais Ahmed,0,0,,,,,,"",""
+ball,2,7.6,Bahrain,Sohail Ahmed,Fiaz Ahmed,Owais Ahmed,1,0,,,,,,"",""
+ball,2,8.1,Bahrain,Sohail Ahmed,Fiaz Ahmed,Mujeeb-ur-Rehman,0,0,,,,,,"",""
+ball,2,8.2,Bahrain,Sohail Ahmed,Fiaz Ahmed,Mujeeb-ur-Rehman,1,0,,,,,,"",""
+ball,2,8.3,Bahrain,Fiaz Ahmed,Sohail Ahmed,Mujeeb-ur-Rehman,0,0,,,,,,"",""
+ball,2,8.4,Bahrain,Fiaz Ahmed,Sohail Ahmed,Mujeeb-ur-Rehman,1,0,,,,,,"",""
+ball,2,8.5,Bahrain,Sohail Ahmed,Fiaz Ahmed,Mujeeb-ur-Rehman,1,0,,,,,,"",""
+ball,2,8.6,Bahrain,Fiaz Ahmed,Sohail Ahmed,Mujeeb-ur-Rehman,1,0,,,,,,"",""
+ball,2,9.1,Bahrain,Fiaz Ahmed,Sohail Ahmed,Owais Ahmed,0,0,,,,,,"",""
+ball,2,9.2,Bahrain,Fiaz Ahmed,Sohail Ahmed,Owais Ahmed,4,0,,,,,,"",""
+ball,2,9.3,Bahrain,Fiaz Ahmed,Sohail Ahmed,Owais Ahmed,1,0,,,,,,"",""
+ball,2,9.4,Bahrain,Sohail Ahmed,Fiaz Ahmed,Owais Ahmed,0,0,,,,,,"",""
+ball,2,9.5,Bahrain,Sohail Ahmed,Fiaz Ahmed,Owais Ahmed,6,0,,,,,,"",""
+ball,2,9.6,Bahrain,Sohail Ahmed,Fiaz Ahmed,Owais Ahmed,4,0,,,,,,"",""
+ball,2,10.1,Bahrain,Fiaz Ahmed,Sohail Ahmed,DAM Louis,0,0,,,,,,"",""
+ball,2,10.2,Bahrain,Fiaz Ahmed,Sohail Ahmed,DAM Louis,0,0,,,,,,"",""
+ball,2,10.3,Bahrain,Fiaz Ahmed,Sohail Ahmed,DAM Louis,1,0,,,,,,"",""
+ball,2,10.4,Bahrain,Sohail Ahmed,Fiaz Ahmed,DAM Louis,1,0,,,,,,"",""
+ball,2,10.5,Bahrain,Fiaz Ahmed,Sohail Ahmed,DAM Louis,4,0,,,,,,"",""
+ball,2,10.6,Bahrain,Fiaz Ahmed,Sohail Ahmed,DAM Louis,0,0,,,,,,"",""
+ball,2,11.1,Bahrain,Sohail Ahmed,Fiaz Ahmed,Muhammad Asim,1,0,,,,,,"",""
+ball,2,11.2,Bahrain,Fiaz Ahmed,Sohail Ahmed,Muhammad Asim,0,0,,,,,,"",""
+ball,2,11.3,Bahrain,Fiaz Ahmed,Sohail Ahmed,Muhammad Asim,0,0,,,,,,"",""
+ball,2,11.4,Bahrain,Fiaz Ahmed,Sohail Ahmed,Muhammad Asim,6,0,,,,,,"",""
+ball,2,11.5,Bahrain,Fiaz Ahmed,Sohail Ahmed,Muhammad Asim,1,0,,,,,,"",""
+ball,2,11.6,Bahrain,Sohail Ahmed,Fiaz Ahmed,Muhammad Asim,1,0,,,,,,"",""
+ball,2,12.1,Bahrain,Sohail Ahmed,Fiaz Ahmed,MM Baig,1,0,,,,,,"",""
+ball,2,12.2,Bahrain,Fiaz Ahmed,Sohail Ahmed,MM Baig,1,0,,,,,,"",""
+ball,2,12.3,Bahrain,Sohail Ahmed,Fiaz Ahmed,MM Baig,6,0,,,,,,"",""
+ball,2,12.4,Bahrain,Sohail Ahmed,Fiaz Ahmed,MM Baig,1,0,,,,,,"",""
+ball,2,12.5,Bahrain,Fiaz Ahmed,Sohail Ahmed,MM Baig,1,0,,,,,,"",""
+ball,2,12.6,Bahrain,Sohail Ahmed,Fiaz Ahmed,MM Baig,1,0,,,,,,"",""
+ball,2,13.1,Bahrain,Sohail Ahmed,Fiaz Ahmed,Saqlain Arshad,1,0,,,,,,"",""
+ball,2,13.2,Bahrain,Fiaz Ahmed,Sohail Ahmed,Saqlain Arshad,0,0,,,,,,"",""
+ball,2,13.3,Bahrain,Fiaz Ahmed,Sohail Ahmed,Saqlain Arshad,6,0,,,,,,"",""
+ball,2,13.4,Bahrain,Fiaz Ahmed,Sohail Ahmed,Saqlain Arshad,1,0,,,,,,"",""
+ball,2,13.5,Bahrain,Sohail Ahmed,Fiaz Ahmed,Saqlain Arshad,1,0,,,,,,"",""
+ball,2,13.6,Bahrain,Fiaz Ahmed,Sohail Ahmed,Saqlain Arshad,1,0,,,,,,"",""
+ball,2,14.1,Bahrain,Fiaz Ahmed,Sohail Ahmed,DAM Louis,1,0,,,,,,"",""
+ball,2,14.2,Bahrain,Sohail Ahmed,Fiaz Ahmed,DAM Louis,1,0,,,,,,"",""
+ball,2,14.3,Bahrain,Fiaz Ahmed,Sohail Ahmed,DAM Louis,0,0,,,,,,"",""
+ball,2,14.4,Bahrain,Fiaz Ahmed,Sohail Ahmed,DAM Louis,1,0,,,,,,"",""
+ball,2,14.5,Bahrain,Sohail Ahmed,Fiaz Ahmed,DAM Louis,0,0,,,,,,"",""
+ball,2,14.6,Bahrain,Sohail Ahmed,Fiaz Ahmed,DAM Louis,0,0,,,,,,"",""
+ball,2,15.1,Bahrain,Fiaz Ahmed,Sohail Ahmed,Owais Ahmed,0,0,,,,,,"",""
+ball,2,15.2,Bahrain,Fiaz Ahmed,Sohail Ahmed,Owais Ahmed,4,0,,,,,,"",""
+ball,2,15.3,Bahrain,Fiaz Ahmed,Sohail Ahmed,Owais Ahmed,0,0,,,,,,caught,Fiaz Ahmed
+ball,2,15.4,Bahrain,Ahmer Bin Nisar,Sohail Ahmed,Owais Ahmed,1,0,,,,,,"",""
+ball,2,15.5,Bahrain,Sohail Ahmed,Ahmer Bin Nisar,Owais Ahmed,0,1,,,,1,,"",""
+ball,2,15.6,Bahrain,Ahmer Bin Nisar,Sohail Ahmed,Owais Ahmed,1,0,,,,,,"",""
+ball,2,16.1,Bahrain,Ahmer Bin Nisar,Sohail Ahmed,Shariq Munir,0,0,,,,,,"",""
+ball,2,16.2,Bahrain,Ahmer Bin Nisar,Sohail Ahmed,Shariq Munir,6,0,,,,,,"",""
+ball,2,16.3,Bahrain,Ahmer Bin Nisar,Sohail Ahmed,Shariq Munir,4,0,,,,,,"",""
+ball,2,16.4,Bahrain,Ahmer Bin Nisar,Sohail Ahmed,Shariq Munir,2,0,,,,,,"",""
+ball,2,16.5,Bahrain,Ahmer Bin Nisar,Sohail Ahmed,Shariq Munir,1,0,,,,,,"",""
+ball,2,16.6,Bahrain,Sohail Ahmed,Ahmer Bin Nisar,Shariq Munir,0,0,,,,,,caught,Sohail Ahmed
+ball,2,17.1,Bahrain,Ahmer Bin Nisar,Yasser Nazir,Owais Ahmed,4,0,,,,,,"",""
+ball,2,17.2,Bahrain,Ahmer Bin Nisar,Yasser Nazir,Owais Ahmed,4,0,,,,,,"",""
+ball,2,17.3,Bahrain,Ahmer Bin Nisar,Yasser Nazir,Owais Ahmed,1,0,,,,,,"",""
+ball,2,17.4,Bahrain,Yasser Nazir,Ahmer Bin Nisar,Owais Ahmed,1,0,,,,,,"",""
+ball,2,17.5,Bahrain,Ahmer Bin Nisar,Yasser Nazir,Owais Ahmed,1,0,,,,,,"",""
+ball,2,17.6,Bahrain,Yasser Nazir,Ahmer Bin Nisar,Owais Ahmed,1,0,,,,,,"",""
+ball,2,18.1,Bahrain,Yasser Nazir,Ahmer Bin Nisar,DAM Louis,1,0,,,,,,"",""
+ball,2,18.2,Bahrain,Ahmer Bin Nisar,Yasser Nazir,DAM Louis,1,0,,,,,,"",""
+ball,2,18.3,Bahrain,Yasser Nazir,Ahmer Bin Nisar,DAM Louis,4,0,,,,,,"",""
+ball,2,18.4,Bahrain,Yasser Nazir,Ahmer Bin Nisar,DAM Louis,4,0,,,,,,"",""
+ball,2,18.5,Bahrain,Yasser Nazir,Ahmer Bin Nisar,DAM Louis,1,0,,,,,,"",""
+ball,2,18.6,Bahrain,Ahmer Bin Nisar,Yasser Nazir,DAM Louis,6,0,,,,,,"",""
+ball,2,19.1,Bahrain,Yasser Nazir,Ahmer Bin Nisar,MM Baig,1,0,,,,,,"",""
+ball,2,19.2,Bahrain,Ahmer Bin Nisar,Yasser Nazir,MM Baig,1,0,,,,,,"",""
+ball,2,19.3,Bahrain,Yasser Nazir,Ahmer Bin Nisar,MM Baig,0,1,,,1,,,"",""
+ball,2,19.4,Bahrain,Ahmer Bin Nisar,Yasser Nazir,MM Baig,1,0,,,,,,"",""
+ball,2,19.5,Bahrain,Yasser Nazir,Ahmer Bin Nisar,MM Baig,0,0,,,,,,caught,Yasser Nazir
+ball,2,19.6,Bahrain,Rizwan Butt,Ahmer Bin Nisar,MM Baig,1,1,,1,,,,"",""
+ball,2,19.7,Bahrain,Ahmer Bin Nisar,Rizwan Butt,MM Baig,4,0,,,,,,"",""

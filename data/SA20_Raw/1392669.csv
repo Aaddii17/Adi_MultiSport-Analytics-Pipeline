@@ -1,0 +1,308 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Pretoria Capitals
+info,team,Sunrisers Eastern Cape
+info,gender,male
+info,season,2023/24
+info,date,2024/01/25
+info,event,SA20
+info,match_number,18
+info,venue,"SuperSport Park, Centurion"
+info,city,Centurion
+info,toss_winner,Sunrisers Eastern Cape
+info,toss_decision,field
+info,player_of_match,E Bosch
+info,umpire,A Jacobs
+info,umpire,MN Gampu
+info,reserve_umpire,Lauren Agenbag
+info,tv_umpire,LB Gcuma
+info,match_referee,LH Matroos
+info,winner,Pretoria Capitals
+info,winner_runs,3
+info,player,Pretoria Capitals,PD Salt
+info,player,Pretoria Capitals,WG Jacks
+info,player,Pretoria Capitals,K Verreynne
+info,player,Pretoria Capitals,RR Rossouw
+info,player,Pretoria Capitals,CA Ingram
+info,player,Pretoria Capitals,S Dadswell
+info,player,Pretoria Capitals,JDS Neesham
+info,player,Pretoria Capitals,WD Parnell
+info,player,Pretoria Capitals,E Bosch
+info,player,Pretoria Capitals,AU Rashid
+info,player,Pretoria Capitals,DM Dupavillon
+info,player,Sunrisers Eastern Cape,AM Rossington
+info,player,Sunrisers Eastern Cape,DJ Malan
+info,player,Sunrisers Eastern Cape,J Hermann
+info,player,Sunrisers Eastern Cape,AK Markram
+info,player,Sunrisers Eastern Cape,T Stubbs
+info,player,Sunrisers Eastern Cape,PE Kruger
+info,player,Sunrisers Eastern Cape,M Jansen
+info,player,Sunrisers Eastern Cape,LA Dawson
+info,player,Sunrisers Eastern Cape,B Swanepoel
+info,player,Sunrisers Eastern Cape,SR Harmer
+info,player,Sunrisers Eastern Cape,DJ Worrall
+info,registry,people,A Jacobs,70d117de
+info,registry,people,AK Markram,6a26221c
+info,registry,people,AM Rossington,7bcde3fe
+info,registry,people,AU Rashid,249d60c9
+info,registry,people,B Swanepoel,6e0a2209
+info,registry,people,CA Ingram,c995d726
+info,registry,people,DJ Malan,ad9c32a2
+info,registry,people,DJ Worrall,208f22ea
+info,registry,people,DM Dupavillon,7cb2d9d2
+info,registry,people,E Bosch,28d6c44d
+info,registry,people,J Hermann,e87aeca2
+info,registry,people,JDS Neesham,9219eff0
+info,registry,people,K Verreynne,bf814547
+info,registry,people,LA Dawson,4a461c24
+info,registry,people,LB Gcuma,02ba88e3
+info,registry,people,LH Matroos,6fa18157
+info,registry,people,Lauren Agenbag,40849abd
+info,registry,people,M Jansen,81c36ee9
+info,registry,people,MN Gampu,41597619
+info,registry,people,PD Salt,3d284ca3
+info,registry,people,PE Kruger,39181592
+info,registry,people,RR Rossouw,cad00a4d
+info,registry,people,S Dadswell,0ecf791e
+info,registry,people,SR Harmer,23638956
+info,registry,people,T Stubbs,85b3fab2
+info,registry,people,WD Parnell,3a60e0b5
+info,registry,people,WG Jacks,9caf69a1
+ball,1,0.1,Pretoria Capitals,PD Salt,WG Jacks,DJ Worrall,0,0,,,,,,"",""
+ball,1,0.2,Pretoria Capitals,PD Salt,WG Jacks,DJ Worrall,6,0,,,,,,"",""
+ball,1,0.3,Pretoria Capitals,PD Salt,WG Jacks,DJ Worrall,2,0,,,,,,"",""
+ball,1,0.4,Pretoria Capitals,PD Salt,WG Jacks,DJ Worrall,6,0,,,,,,"",""
+ball,1,0.5,Pretoria Capitals,PD Salt,WG Jacks,DJ Worrall,0,0,,,,,,"",""
+ball,1,0.6,Pretoria Capitals,PD Salt,WG Jacks,DJ Worrall,0,0,,,,,,"",""
+ball,1,1.1,Pretoria Capitals,WG Jacks,PD Salt,M Jansen,0,0,,,,,,"",""
+ball,1,1.2,Pretoria Capitals,WG Jacks,PD Salt,M Jansen,0,0,,,,,,caught,WG Jacks
+ball,1,1.3,Pretoria Capitals,K Verreynne,PD Salt,M Jansen,3,0,,,,,,"",""
+ball,1,1.4,Pretoria Capitals,PD Salt,K Verreynne,M Jansen,4,0,,,,,,"",""
+ball,1,1.5,Pretoria Capitals,PD Salt,K Verreynne,M Jansen,0,5,5,,,,,"",""
+ball,1,1.6,Pretoria Capitals,PD Salt,K Verreynne,M Jansen,2,0,,,,,,"",""
+ball,1,1.7,Pretoria Capitals,PD Salt,K Verreynne,M Jansen,0,0,,,,,,caught,PD Salt
+ball,1,2.1,Pretoria Capitals,K Verreynne,RR Rossouw,DJ Worrall,2,0,,,,,,"",""
+ball,1,2.2,Pretoria Capitals,K Verreynne,RR Rossouw,DJ Worrall,0,0,,,,,,"",""
+ball,1,2.3,Pretoria Capitals,K Verreynne,RR Rossouw,DJ Worrall,4,0,,,,,,"",""
+ball,1,2.4,Pretoria Capitals,K Verreynne,RR Rossouw,DJ Worrall,0,0,,,,,,bowled,K Verreynne
+ball,1,2.5,Pretoria Capitals,CA Ingram,RR Rossouw,DJ Worrall,0,0,,,,,,"",""
+ball,1,2.6,Pretoria Capitals,CA Ingram,RR Rossouw,DJ Worrall,0,0,,,,,,"",""
+ball,1,3.1,Pretoria Capitals,RR Rossouw,CA Ingram,M Jansen,0,0,,,,,,"",""
+ball,1,3.2,Pretoria Capitals,RR Rossouw,CA Ingram,M Jansen,4,0,,,,,,"",""
+ball,1,3.3,Pretoria Capitals,RR Rossouw,CA Ingram,M Jansen,0,0,,,,,,"",""
+ball,1,3.4,Pretoria Capitals,RR Rossouw,CA Ingram,M Jansen,4,0,,,,,,"",""
+ball,1,3.5,Pretoria Capitals,RR Rossouw,CA Ingram,M Jansen,0,0,,,,,,"",""
+ball,1,3.6,Pretoria Capitals,RR Rossouw,CA Ingram,M Jansen,1,0,,,,,,"",""
+ball,1,4.1,Pretoria Capitals,RR Rossouw,CA Ingram,DJ Worrall,4,0,,,,,,"",""
+ball,1,4.2,Pretoria Capitals,RR Rossouw,CA Ingram,DJ Worrall,0,0,,,,,,"",""
+ball,1,4.3,Pretoria Capitals,RR Rossouw,CA Ingram,DJ Worrall,0,0,,,,,,"",""
+ball,1,4.4,Pretoria Capitals,RR Rossouw,CA Ingram,DJ Worrall,0,0,,,,,,"",""
+ball,1,4.5,Pretoria Capitals,RR Rossouw,CA Ingram,DJ Worrall,0,0,,,,,,"",""
+ball,1,4.6,Pretoria Capitals,RR Rossouw,CA Ingram,DJ Worrall,0,0,,,,,,run out,RR Rossouw
+ball,1,5.1,Pretoria Capitals,S Dadswell,CA Ingram,B Swanepoel,0,0,,,,,,"",""
+ball,1,5.2,Pretoria Capitals,S Dadswell,CA Ingram,B Swanepoel,1,0,,,,,,"",""
+ball,1,5.3,Pretoria Capitals,CA Ingram,S Dadswell,B Swanepoel,0,0,,,,,,"",""
+ball,1,5.4,Pretoria Capitals,CA Ingram,S Dadswell,B Swanepoel,0,0,,,,,,"",""
+ball,1,5.5,Pretoria Capitals,CA Ingram,S Dadswell,B Swanepoel,4,0,,,,,,"",""
+ball,1,5.6,Pretoria Capitals,CA Ingram,S Dadswell,B Swanepoel,0,0,,,,,,run out,CA Ingram
+ball,1,6.1,Pretoria Capitals,JDS Neesham,S Dadswell,SR Harmer,0,0,,,,,,"",""
+ball,1,6.2,Pretoria Capitals,JDS Neesham,S Dadswell,SR Harmer,0,1,1,,,,,"",""
+ball,1,6.3,Pretoria Capitals,JDS Neesham,S Dadswell,SR Harmer,0,0,,,,,,"",""
+ball,1,6.4,Pretoria Capitals,JDS Neesham,S Dadswell,SR Harmer,0,0,,,,,,"",""
+ball,1,6.5,Pretoria Capitals,JDS Neesham,S Dadswell,SR Harmer,1,0,,,,,,"",""
+ball,1,6.6,Pretoria Capitals,S Dadswell,JDS Neesham,SR Harmer,1,0,,,,,,"",""
+ball,1,6.7,Pretoria Capitals,JDS Neesham,S Dadswell,SR Harmer,0,0,,,,,,"",""
+ball,1,7.1,Pretoria Capitals,S Dadswell,JDS Neesham,M Jansen,0,0,,,,,,"",""
+ball,1,7.2,Pretoria Capitals,S Dadswell,JDS Neesham,M Jansen,0,1,1,,,,,"",""
+ball,1,7.3,Pretoria Capitals,S Dadswell,JDS Neesham,M Jansen,0,1,,,,1,,"",""
+ball,1,7.4,Pretoria Capitals,JDS Neesham,S Dadswell,M Jansen,1,0,,,,,,"",""
+ball,1,7.5,Pretoria Capitals,S Dadswell,JDS Neesham,M Jansen,0,0,,,,,,"",""
+ball,1,7.6,Pretoria Capitals,S Dadswell,JDS Neesham,M Jansen,0,0,,,,,,"",""
+ball,1,7.7,Pretoria Capitals,S Dadswell,JDS Neesham,M Jansen,1,0,,,,,,"",""
+ball,1,8.1,Pretoria Capitals,S Dadswell,JDS Neesham,SR Harmer,1,0,,,,,,"",""
+ball,1,8.2,Pretoria Capitals,JDS Neesham,S Dadswell,SR Harmer,2,0,,,,,,"",""
+ball,1,8.3,Pretoria Capitals,JDS Neesham,S Dadswell,SR Harmer,1,0,,,,,,"",""
+ball,1,8.4,Pretoria Capitals,S Dadswell,JDS Neesham,SR Harmer,0,0,,,,,,"",""
+ball,1,8.5,Pretoria Capitals,S Dadswell,JDS Neesham,SR Harmer,1,0,,,,,,"",""
+ball,1,8.6,Pretoria Capitals,JDS Neesham,S Dadswell,SR Harmer,1,0,,,,,,"",""
+ball,1,9.1,Pretoria Capitals,JDS Neesham,S Dadswell,B Swanepoel,0,0,,,,,,"",""
+ball,1,9.2,Pretoria Capitals,JDS Neesham,S Dadswell,B Swanepoel,1,0,,,,,,"",""
+ball,1,9.3,Pretoria Capitals,S Dadswell,JDS Neesham,B Swanepoel,0,0,,,,,,"",""
+ball,1,9.4,Pretoria Capitals,S Dadswell,JDS Neesham,B Swanepoel,1,0,,,,,,"",""
+ball,1,9.5,Pretoria Capitals,JDS Neesham,S Dadswell,B Swanepoel,0,0,,,,,,"",""
+ball,1,9.6,Pretoria Capitals,JDS Neesham,S Dadswell,B Swanepoel,1,0,,,,,,"",""
+ball,1,10.1,Pretoria Capitals,JDS Neesham,S Dadswell,PE Kruger,6,0,,,,,,"",""
+ball,1,10.2,Pretoria Capitals,JDS Neesham,S Dadswell,PE Kruger,6,0,,,,,,"",""
+ball,1,10.3,Pretoria Capitals,JDS Neesham,S Dadswell,PE Kruger,0,0,,,,,,"",""
+ball,1,10.4,Pretoria Capitals,JDS Neesham,S Dadswell,PE Kruger,1,0,,,,,,"",""
+ball,1,10.5,Pretoria Capitals,S Dadswell,JDS Neesham,PE Kruger,2,0,,,,,,"",""
+ball,1,10.6,Pretoria Capitals,S Dadswell,JDS Neesham,PE Kruger,1,0,,,,,,"",""
+ball,1,11.1,Pretoria Capitals,S Dadswell,JDS Neesham,LA Dawson,0,0,,,,,,"",""
+ball,1,11.2,Pretoria Capitals,S Dadswell,JDS Neesham,LA Dawson,6,0,,,,,,"",""
+ball,1,11.3,Pretoria Capitals,S Dadswell,JDS Neesham,LA Dawson,4,0,,,,,,"",""
+ball,1,11.4,Pretoria Capitals,S Dadswell,JDS Neesham,LA Dawson,0,0,,,,,,"",""
+ball,1,11.5,Pretoria Capitals,S Dadswell,JDS Neesham,LA Dawson,0,0,,,,,,"",""
+ball,1,11.6,Pretoria Capitals,S Dadswell,JDS Neesham,LA Dawson,1,0,,,,,,"",""
+ball,1,12.1,Pretoria Capitals,S Dadswell,JDS Neesham,SR Harmer,2,0,,,,,,"",""
+ball,1,12.2,Pretoria Capitals,S Dadswell,JDS Neesham,SR Harmer,0,0,,,,,,"",""
+ball,1,12.3,Pretoria Capitals,S Dadswell,JDS Neesham,SR Harmer,1,0,,,,,,"",""
+ball,1,12.4,Pretoria Capitals,JDS Neesham,S Dadswell,SR Harmer,2,0,,,,,,"",""
+ball,1,12.5,Pretoria Capitals,JDS Neesham,S Dadswell,SR Harmer,0,0,,,,,,"",""
+ball,1,12.6,Pretoria Capitals,JDS Neesham,S Dadswell,SR Harmer,1,0,,,,,,"",""
+ball,1,13.1,Pretoria Capitals,JDS Neesham,S Dadswell,LA Dawson,1,0,,,,,,"",""
+ball,1,13.2,Pretoria Capitals,S Dadswell,JDS Neesham,LA Dawson,1,0,,,,,,"",""
+ball,1,13.3,Pretoria Capitals,JDS Neesham,S Dadswell,LA Dawson,0,1,,,,1,,"",""
+ball,1,13.4,Pretoria Capitals,S Dadswell,JDS Neesham,LA Dawson,0,0,,,,,,caught,S Dadswell
+ball,1,13.5,Pretoria Capitals,WD Parnell,JDS Neesham,LA Dawson,0,0,,,,,,"",""
+ball,1,13.6,Pretoria Capitals,WD Parnell,JDS Neesham,LA Dawson,1,0,,,,,,"",""
+ball,1,14.1,Pretoria Capitals,WD Parnell,JDS Neesham,SR Harmer,1,0,,,,,,"",""
+ball,1,14.2,Pretoria Capitals,JDS Neesham,WD Parnell,SR Harmer,1,0,,,,,,"",""
+ball,1,14.3,Pretoria Capitals,WD Parnell,JDS Neesham,SR Harmer,0,0,,,,,,"",""
+ball,1,14.4,Pretoria Capitals,WD Parnell,JDS Neesham,SR Harmer,1,0,,,,,,"",""
+ball,1,14.5,Pretoria Capitals,JDS Neesham,WD Parnell,SR Harmer,1,0,,,,,,"",""
+ball,1,14.6,Pretoria Capitals,WD Parnell,JDS Neesham,SR Harmer,0,0,,,,,,"",""
+ball,1,15.1,Pretoria Capitals,JDS Neesham,WD Parnell,AK Markram,0,0,,,,,,"",""
+ball,1,15.2,Pretoria Capitals,JDS Neesham,WD Parnell,AK Markram,0,0,,,,,,stumped,JDS Neesham
+ball,1,15.3,Pretoria Capitals,E Bosch,WD Parnell,AK Markram,0,0,,,,,,"",""
+ball,1,15.4,Pretoria Capitals,E Bosch,WD Parnell,AK Markram,0,0,,,,,,"",""
+ball,1,15.5,Pretoria Capitals,E Bosch,WD Parnell,AK Markram,1,0,,,,,,"",""
+ball,1,15.6,Pretoria Capitals,WD Parnell,E Bosch,AK Markram,1,0,,,,,,"",""
+ball,1,16.1,Pretoria Capitals,WD Parnell,E Bosch,B Swanepoel,1,0,,,,,,"",""
+ball,1,16.2,Pretoria Capitals,E Bosch,WD Parnell,B Swanepoel,0,0,,,,,,"",""
+ball,1,16.3,Pretoria Capitals,E Bosch,WD Parnell,B Swanepoel,1,0,,,,,,"",""
+ball,1,16.4,Pretoria Capitals,WD Parnell,E Bosch,B Swanepoel,2,0,,,,,,"",""
+ball,1,16.5,Pretoria Capitals,WD Parnell,E Bosch,B Swanepoel,0,0,,,,,,"",""
+ball,1,16.6,Pretoria Capitals,WD Parnell,E Bosch,B Swanepoel,4,0,,,,,,"",""
+ball,1,17.1,Pretoria Capitals,E Bosch,WD Parnell,DJ Worrall,1,0,,,,,,"",""
+ball,1,17.2,Pretoria Capitals,WD Parnell,E Bosch,DJ Worrall,1,0,,,,,,"",""
+ball,1,17.3,Pretoria Capitals,E Bosch,WD Parnell,DJ Worrall,1,0,,,,,,"",""
+ball,1,17.4,Pretoria Capitals,WD Parnell,E Bosch,DJ Worrall,1,0,,,,,,"",""
+ball,1,17.5,Pretoria Capitals,E Bosch,WD Parnell,DJ Worrall,0,0,,,,,,caught,E Bosch
+ball,1,17.6,Pretoria Capitals,AU Rashid,WD Parnell,DJ Worrall,0,1,1,,,,,"",""
+ball,1,17.7,Pretoria Capitals,AU Rashid,WD Parnell,DJ Worrall,0,0,,,,,,"",""
+ball,1,18.1,Pretoria Capitals,WD Parnell,AU Rashid,M Jansen,0,0,,,,,,caught,WD Parnell
+ball,1,18.2,Pretoria Capitals,DM Dupavillon,AU Rashid,M Jansen,1,0,,,,,,"",""
+ball,1,18.3,Pretoria Capitals,AU Rashid,DM Dupavillon,M Jansen,0,0,,,,,,run out,AU Rashid
+ball,2,0.1,Sunrisers Eastern Cape,AM Rossington,DJ Malan,E Bosch,0,0,,,,,,"",""
+ball,2,0.2,Sunrisers Eastern Cape,AM Rossington,DJ Malan,E Bosch,0,0,,,,,,"",""
+ball,2,0.3,Sunrisers Eastern Cape,AM Rossington,DJ Malan,E Bosch,0,0,,,,,,"",""
+ball,2,0.4,Sunrisers Eastern Cape,AM Rossington,DJ Malan,E Bosch,4,0,,,,,,"",""
+ball,2,0.5,Sunrisers Eastern Cape,AM Rossington,DJ Malan,E Bosch,0,0,,,,,,"",""
+ball,2,0.6,Sunrisers Eastern Cape,AM Rossington,DJ Malan,E Bosch,0,0,,,,,,"",""
+ball,2,1.1,Sunrisers Eastern Cape,DJ Malan,AM Rossington,DM Dupavillon,4,0,,,,,,"",""
+ball,2,1.2,Sunrisers Eastern Cape,DJ Malan,AM Rossington,DM Dupavillon,0,0,,,,,,"",""
+ball,2,1.3,Sunrisers Eastern Cape,DJ Malan,AM Rossington,DM Dupavillon,0,0,,,,,,"",""
+ball,2,1.4,Sunrisers Eastern Cape,DJ Malan,AM Rossington,DM Dupavillon,1,0,,,,,,"",""
+ball,2,1.5,Sunrisers Eastern Cape,AM Rossington,DJ Malan,DM Dupavillon,0,0,,,,,,"",""
+ball,2,1.6,Sunrisers Eastern Cape,AM Rossington,DJ Malan,DM Dupavillon,0,0,,,,,,"",""
+ball,2,2.1,Sunrisers Eastern Cape,DJ Malan,AM Rossington,E Bosch,0,0,,,,,,"",""
+ball,2,2.2,Sunrisers Eastern Cape,DJ Malan,AM Rossington,E Bosch,0,0,,,,,,"",""
+ball,2,2.3,Sunrisers Eastern Cape,DJ Malan,AM Rossington,E Bosch,0,0,,,,,,"",""
+ball,2,2.4,Sunrisers Eastern Cape,DJ Malan,AM Rossington,E Bosch,1,0,,,,,,"",""
+ball,2,2.5,Sunrisers Eastern Cape,AM Rossington,DJ Malan,E Bosch,0,0,,,,,,bowled,AM Rossington
+ball,2,2.6,Sunrisers Eastern Cape,J Hermann,DJ Malan,E Bosch,0,0,,,,,,"",""
+ball,2,3.1,Sunrisers Eastern Cape,DJ Malan,J Hermann,DM Dupavillon,0,0,,,,,,lbw,DJ Malan
+ball,2,3.2,Sunrisers Eastern Cape,AK Markram,J Hermann,DM Dupavillon,0,1,1,,,,,"",""
+ball,2,3.3,Sunrisers Eastern Cape,AK Markram,J Hermann,DM Dupavillon,1,0,,,,,,"",""
+ball,2,3.4,Sunrisers Eastern Cape,J Hermann,AK Markram,DM Dupavillon,4,0,,,,,,"",""
+ball,2,3.5,Sunrisers Eastern Cape,J Hermann,AK Markram,DM Dupavillon,0,0,,,,,,"",""
+ball,2,3.6,Sunrisers Eastern Cape,J Hermann,AK Markram,DM Dupavillon,0,0,,,,,,"",""
+ball,2,3.7,Sunrisers Eastern Cape,J Hermann,AK Markram,DM Dupavillon,0,1,1,,,,,"",""
+ball,2,3.8,Sunrisers Eastern Cape,J Hermann,AK Markram,DM Dupavillon,0,0,,,,,,"",""
+ball,2,4.1,Sunrisers Eastern Cape,AK Markram,J Hermann,E Bosch,1,0,,,,,,"",""
+ball,2,4.2,Sunrisers Eastern Cape,J Hermann,AK Markram,E Bosch,1,0,,,,,,"",""
+ball,2,4.3,Sunrisers Eastern Cape,AK Markram,J Hermann,E Bosch,0,0,,,,,,"",""
+ball,2,4.4,Sunrisers Eastern Cape,AK Markram,J Hermann,E Bosch,0,0,,,,,,"",""
+ball,2,4.5,Sunrisers Eastern Cape,AK Markram,J Hermann,E Bosch,1,0,,,,,,"",""
+ball,2,4.6,Sunrisers Eastern Cape,J Hermann,AK Markram,E Bosch,0,0,,,,,,"",""
+ball,2,5.1,Sunrisers Eastern Cape,AK Markram,J Hermann,DM Dupavillon,0,0,,,,,,"",""
+ball,2,5.2,Sunrisers Eastern Cape,AK Markram,J Hermann,DM Dupavillon,0,0,,,,,,"",""
+ball,2,5.3,Sunrisers Eastern Cape,AK Markram,J Hermann,DM Dupavillon,0,0,,,,,,caught,AK Markram
+ball,2,5.4,Sunrisers Eastern Cape,T Stubbs,J Hermann,DM Dupavillon,0,0,,,,,,"",""
+ball,2,5.5,Sunrisers Eastern Cape,T Stubbs,J Hermann,DM Dupavillon,2,0,,,,,,"",""
+ball,2,5.6,Sunrisers Eastern Cape,T Stubbs,J Hermann,DM Dupavillon,0,0,,,,,,"",""
+ball,2,6.1,Sunrisers Eastern Cape,J Hermann,T Stubbs,AU Rashid,1,0,,,,,,"",""
+ball,2,6.2,Sunrisers Eastern Cape,T Stubbs,J Hermann,AU Rashid,1,0,,,,,,"",""
+ball,2,6.3,Sunrisers Eastern Cape,J Hermann,T Stubbs,AU Rashid,1,0,,,,,,"",""
+ball,2,6.4,Sunrisers Eastern Cape,T Stubbs,J Hermann,AU Rashid,0,0,,,,,,"",""
+ball,2,6.5,Sunrisers Eastern Cape,T Stubbs,J Hermann,AU Rashid,1,0,,,,,,"",""
+ball,2,6.6,Sunrisers Eastern Cape,J Hermann,T Stubbs,AU Rashid,0,4,,,4,,,"",""
+ball,2,7.1,Sunrisers Eastern Cape,T Stubbs,J Hermann,WD Parnell,1,0,,,,,,"",""
+ball,2,7.2,Sunrisers Eastern Cape,J Hermann,T Stubbs,WD Parnell,1,0,,,,,,"",""
+ball,2,7.3,Sunrisers Eastern Cape,T Stubbs,J Hermann,WD Parnell,0,0,,,,,,"",""
+ball,2,7.4,Sunrisers Eastern Cape,T Stubbs,J Hermann,WD Parnell,0,0,,,,,,"",""
+ball,2,7.5,Sunrisers Eastern Cape,T Stubbs,J Hermann,WD Parnell,0,0,,,,,,"",""
+ball,2,7.6,Sunrisers Eastern Cape,T Stubbs,J Hermann,WD Parnell,0,0,,,,,,"",""
+ball,2,8.1,Sunrisers Eastern Cape,J Hermann,T Stubbs,AU Rashid,0,0,,,,,,"",""
+ball,2,8.2,Sunrisers Eastern Cape,J Hermann,T Stubbs,AU Rashid,0,0,,,,,,caught,J Hermann
+ball,2,8.3,Sunrisers Eastern Cape,PE Kruger,T Stubbs,AU Rashid,0,0,,,,,,"",""
+ball,2,8.4,Sunrisers Eastern Cape,PE Kruger,T Stubbs,AU Rashid,4,0,,,,,,"",""
+ball,2,8.5,Sunrisers Eastern Cape,PE Kruger,T Stubbs,AU Rashid,1,0,,,,,,"",""
+ball,2,8.6,Sunrisers Eastern Cape,T Stubbs,PE Kruger,AU Rashid,1,0,,,,,,"",""
+ball,2,9.1,Sunrisers Eastern Cape,T Stubbs,PE Kruger,WG Jacks,1,0,,,,,,"",""
+ball,2,9.2,Sunrisers Eastern Cape,PE Kruger,T Stubbs,WG Jacks,0,0,,,,,,"",""
+ball,2,9.3,Sunrisers Eastern Cape,PE Kruger,T Stubbs,WG Jacks,0,0,,,,,,"",""
+ball,2,9.4,Sunrisers Eastern Cape,PE Kruger,T Stubbs,WG Jacks,0,0,,,,,,"",""
+ball,2,9.5,Sunrisers Eastern Cape,PE Kruger,T Stubbs,WG Jacks,1,0,,,,,,"",""
+ball,2,9.6,Sunrisers Eastern Cape,T Stubbs,PE Kruger,WG Jacks,1,0,,,,,,"",""
+ball,2,10.1,Sunrisers Eastern Cape,T Stubbs,PE Kruger,AU Rashid,1,0,,,,,,"",""
+ball,2,10.2,Sunrisers Eastern Cape,PE Kruger,T Stubbs,AU Rashid,0,0,,,,,,"",""
+ball,2,10.3,Sunrisers Eastern Cape,PE Kruger,T Stubbs,AU Rashid,6,0,,,,,,"",""
+ball,2,10.4,Sunrisers Eastern Cape,PE Kruger,T Stubbs,AU Rashid,1,0,,,,,,"",""
+ball,2,10.5,Sunrisers Eastern Cape,T Stubbs,PE Kruger,AU Rashid,1,0,,,,,,"",""
+ball,2,10.6,Sunrisers Eastern Cape,PE Kruger,T Stubbs,AU Rashid,1,0,,,,,,"",""
+ball,2,11.1,Sunrisers Eastern Cape,PE Kruger,T Stubbs,WD Parnell,1,0,,,,,,"",""
+ball,2,11.2,Sunrisers Eastern Cape,T Stubbs,PE Kruger,WD Parnell,0,0,,,,,,"",""
+ball,2,11.3,Sunrisers Eastern Cape,T Stubbs,PE Kruger,WD Parnell,4,0,,,,,,"",""
+ball,2,11.4,Sunrisers Eastern Cape,T Stubbs,PE Kruger,WD Parnell,4,0,,,,,,"",""
+ball,2,11.5,Sunrisers Eastern Cape,T Stubbs,PE Kruger,WD Parnell,1,0,,,,,,"",""
+ball,2,11.6,Sunrisers Eastern Cape,PE Kruger,T Stubbs,WD Parnell,4,0,,,,,,"",""
+ball,2,12.1,Sunrisers Eastern Cape,T Stubbs,PE Kruger,E Bosch,1,0,,,,,,"",""
+ball,2,12.2,Sunrisers Eastern Cape,PE Kruger,T Stubbs,E Bosch,1,0,,,,,,"",""
+ball,2,12.3,Sunrisers Eastern Cape,T Stubbs,PE Kruger,E Bosch,0,0,,,,,,"",""
+ball,2,12.4,Sunrisers Eastern Cape,T Stubbs,PE Kruger,E Bosch,1,0,,,,,,"",""
+ball,2,12.5,Sunrisers Eastern Cape,PE Kruger,T Stubbs,E Bosch,0,0,,,,,,"",""
+ball,2,12.6,Sunrisers Eastern Cape,PE Kruger,T Stubbs,E Bosch,0,0,,,,,,"",""
+ball,2,13.1,Sunrisers Eastern Cape,T Stubbs,PE Kruger,WG Jacks,1,0,,,,,,"",""
+ball,2,13.2,Sunrisers Eastern Cape,PE Kruger,T Stubbs,WG Jacks,0,0,,,,,,"",""
+ball,2,13.3,Sunrisers Eastern Cape,PE Kruger,T Stubbs,WG Jacks,1,0,,,,,,"",""
+ball,2,13.4,Sunrisers Eastern Cape,T Stubbs,PE Kruger,WG Jacks,1,0,,,,,,"",""
+ball,2,13.5,Sunrisers Eastern Cape,PE Kruger,T Stubbs,WG Jacks,0,0,,,,,,"",""
+ball,2,13.6,Sunrisers Eastern Cape,PE Kruger,T Stubbs,WG Jacks,1,0,,,,,,"",""
+ball,2,14.1,Sunrisers Eastern Cape,PE Kruger,T Stubbs,WD Parnell,0,0,,,,,,caught,PE Kruger
+ball,2,14.2,Sunrisers Eastern Cape,M Jansen,T Stubbs,WD Parnell,0,0,,,,,,"",""
+ball,2,14.3,Sunrisers Eastern Cape,M Jansen,T Stubbs,WD Parnell,0,0,,,,,,"",""
+ball,2,14.4,Sunrisers Eastern Cape,M Jansen,T Stubbs,WD Parnell,0,0,,,,,,"",""
+ball,2,14.5,Sunrisers Eastern Cape,M Jansen,T Stubbs,WD Parnell,0,0,,,,,,caught,M Jansen
+ball,2,14.6,Sunrisers Eastern Cape,LA Dawson,T Stubbs,WD Parnell,0,0,,,,,,"",""
+ball,2,15.1,Sunrisers Eastern Cape,T Stubbs,LA Dawson,WG Jacks,1,0,,,,,,"",""
+ball,2,15.2,Sunrisers Eastern Cape,LA Dawson,T Stubbs,WG Jacks,1,0,,,,,,"",""
+ball,2,15.3,Sunrisers Eastern Cape,T Stubbs,LA Dawson,WG Jacks,4,0,,,,,,"",""
+ball,2,15.4,Sunrisers Eastern Cape,T Stubbs,LA Dawson,WG Jacks,1,0,,,,,,"",""
+ball,2,15.5,Sunrisers Eastern Cape,LA Dawson,T Stubbs,WG Jacks,0,0,,,,,,"",""
+ball,2,15.6,Sunrisers Eastern Cape,LA Dawson,T Stubbs,WG Jacks,1,0,,,,,,"",""
+ball,2,16.1,Sunrisers Eastern Cape,LA Dawson,T Stubbs,AU Rashid,0,1,1,,,,,"",""
+ball,2,16.2,Sunrisers Eastern Cape,LA Dawson,T Stubbs,AU Rashid,2,0,,,,,,"",""
+ball,2,16.3,Sunrisers Eastern Cape,LA Dawson,T Stubbs,AU Rashid,1,0,,,,,,"",""
+ball,2,16.4,Sunrisers Eastern Cape,T Stubbs,LA Dawson,AU Rashid,6,0,,,,,,"",""
+ball,2,16.5,Sunrisers Eastern Cape,T Stubbs,LA Dawson,AU Rashid,0,0,,,,,,caught,T Stubbs
+ball,2,16.6,Sunrisers Eastern Cape,B Swanepoel,LA Dawson,AU Rashid,0,0,,,,,,"",""
+ball,2,16.7,Sunrisers Eastern Cape,B Swanepoel,LA Dawson,AU Rashid,0,0,,,,,,caught,B Swanepoel
+ball,2,17.1,Sunrisers Eastern Cape,LA Dawson,SR Harmer,WG Jacks,1,0,,,,,,"",""
+ball,2,17.2,Sunrisers Eastern Cape,SR Harmer,LA Dawson,WG Jacks,1,0,,,,,,"",""
+ball,2,17.3,Sunrisers Eastern Cape,LA Dawson,SR Harmer,WG Jacks,0,0,,,,,,"",""
+ball,2,17.4,Sunrisers Eastern Cape,LA Dawson,SR Harmer,WG Jacks,1,0,,,,,,"",""
+ball,2,17.5,Sunrisers Eastern Cape,SR Harmer,LA Dawson,WG Jacks,1,0,,,,,,"",""
+ball,2,17.6,Sunrisers Eastern Cape,LA Dawson,SR Harmer,WG Jacks,4,0,,,,,,"",""
+ball,2,18.1,Sunrisers Eastern Cape,SR Harmer,LA Dawson,WD Parnell,4,0,,,,,,"",""
+ball,2,18.2,Sunrisers Eastern Cape,SR Harmer,LA Dawson,WD Parnell,0,0,,,,,,caught,SR Harmer
+ball,2,18.3,Sunrisers Eastern Cape,DJ Worrall,LA Dawson,WD Parnell,1,0,,,,,,"",""
+ball,2,18.4,Sunrisers Eastern Cape,LA Dawson,DJ Worrall,WD Parnell,6,0,,,,,,"",""
+ball,2,18.5,Sunrisers Eastern Cape,LA Dawson,DJ Worrall,WD Parnell,0,0,,,,,,"",""
+ball,2,18.6,Sunrisers Eastern Cape,LA Dawson,DJ Worrall,WD Parnell,6,0,,,,,,"",""
+ball,2,19.1,Sunrisers Eastern Cape,DJ Worrall,LA Dawson,DM Dupavillon,0,0,,,,,,"",""
+ball,2,19.2,Sunrisers Eastern Cape,DJ Worrall,LA Dawson,DM Dupavillon,0,0,,,,,,"",""
+ball,2,19.3,Sunrisers Eastern Cape,DJ Worrall,LA Dawson,DM Dupavillon,1,0,,,,,,"",""
+ball,2,19.4,Sunrisers Eastern Cape,LA Dawson,DJ Worrall,DM Dupavillon,6,0,,,,,,"",""
+ball,2,19.5,Sunrisers Eastern Cape,LA Dawson,DJ Worrall,DM Dupavillon,0,0,,,,,,"",""
+ball,2,19.6,Sunrisers Eastern Cape,LA Dawson,DJ Worrall,DM Dupavillon,0,0,,,,,,"",""

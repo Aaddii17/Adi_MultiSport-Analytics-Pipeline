@@ -1,0 +1,278 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Sydney Thunder
+info,team,Melbourne Stars
+info,gender,male
+info,season,2025/26
+info,date,2025/12/28
+info,event,Big Bash League
+info,match_number,14
+info,venue,"Manuka Oval, Canberra"
+info,city,Canberra
+info,toss_winner,Melbourne Stars
+info,toss_decision,field
+info,player_of_match,Haris Rauf
+info,umpire,D Brigham
+info,umpire,Troy Penman
+info,reserve_umpire,D Crozier
+info,tv_umpire,CA Polosak
+info,match_referee,Kent Hannam
+info,winner,Melbourne Stars
+info,winner_wickets,9
+info,player,Sydney Thunder,S Konstas
+info,player,Sydney Thunder,M Gilkes
+info,player,Sydney Thunder,DA Warner
+info,player,Sydney Thunder,CT Bancroft
+info,player,Sydney Thunder,SW Billings
+info,player,Sydney Thunder,Shadab Khan
+info,player,Sydney Thunder,DR Sams
+info,player,Sydney Thunder,CJ Green
+info,player,Sydney Thunder,T Sangha
+info,player,Sydney Thunder,RJW Topley
+info,player,Sydney Thunder,R Hadley
+info,player,Melbourne Stars,JM Clarke
+info,player,Melbourne Stars,SB Harper
+info,player,Melbourne Stars,GJ Maxwell
+info,player,Melbourne Stars,C Kellaway
+info,player,Melbourne Stars,TF Rogers
+info,player,Melbourne Stars,MP Stoinis
+info,player,Melbourne Stars,HWR Cartwright
+info,player,Melbourne Stars,TK Curran
+info,player,Melbourne Stars,MJ Swepson
+info,player,Melbourne Stars,Haris Rauf
+info,player,Melbourne Stars,PM Siddle
+info,registry,people,C Kellaway,60c28835
+info,registry,people,CA Polosak,26a360d2
+info,registry,people,CJ Green,19b9f399
+info,registry,people,CT Bancroft,399b0b94
+info,registry,people,D Brigham,464daf41
+info,registry,people,D Crozier,635509c0
+info,registry,people,DA Warner,dcce6f09
+info,registry,people,DR Sams,caf69bf7
+info,registry,people,GJ Maxwell,b681e71e
+info,registry,people,HWR Cartwright,ab965cad
+info,registry,people,Haris Rauf,24bb1c2f
+info,registry,people,JM Clarke,2eca67f5
+info,registry,people,Kent Hannam,8cc171e7
+info,registry,people,M Gilkes,d85b0f8b
+info,registry,people,MJ Swepson,86b4bf88
+info,registry,people,MP Stoinis,d9273ee7
+info,registry,people,PM Siddle,bd93fea4
+info,registry,people,R Hadley,15b39832
+info,registry,people,RJW Topley,8db7f47f
+info,registry,people,S Konstas,3c34c9e1
+info,registry,people,SB Harper,a756e61a
+info,registry,people,SW Billings,c16d4035
+info,registry,people,Shadab Khan,9de62878
+info,registry,people,T Sangha,52c952d9
+info,registry,people,TF Rogers,7f232d46
+info,registry,people,TK Curran,e86754b2
+info,registry,people,Troy Penman,0aa42c26
+ball,1,0.1,Sydney Thunder,S Konstas,M Gilkes,GJ Maxwell,2,0,,,,,,"",""
+ball,1,0.2,Sydney Thunder,S Konstas,M Gilkes,GJ Maxwell,1,0,,,,,,"",""
+ball,1,0.3,Sydney Thunder,M Gilkes,S Konstas,GJ Maxwell,1,0,,,,,,"",""
+ball,1,0.4,Sydney Thunder,S Konstas,M Gilkes,GJ Maxwell,0,1,1,,,,,"",""
+ball,1,0.5,Sydney Thunder,S Konstas,M Gilkes,GJ Maxwell,1,0,,,,,,"",""
+ball,1,0.6,Sydney Thunder,M Gilkes,S Konstas,GJ Maxwell,6,0,,,,,,"",""
+ball,1,0.7,Sydney Thunder,M Gilkes,S Konstas,GJ Maxwell,0,0,,,,,,"",""
+ball,1,1.1,Sydney Thunder,S Konstas,M Gilkes,TK Curran,1,0,,,,,,"",""
+ball,1,1.2,Sydney Thunder,M Gilkes,S Konstas,TK Curran,6,0,,,,,,"",""
+ball,1,1.3,Sydney Thunder,M Gilkes,S Konstas,TK Curran,1,0,,,,,,"",""
+ball,1,1.4,Sydney Thunder,S Konstas,M Gilkes,TK Curran,1,0,,,,,,"",""
+ball,1,1.5,Sydney Thunder,M Gilkes,S Konstas,TK Curran,0,0,,,,,,"",""
+ball,1,1.6,Sydney Thunder,M Gilkes,S Konstas,TK Curran,2,0,,,,,,"",""
+ball,1,2.1,Sydney Thunder,S Konstas,M Gilkes,PM Siddle,0,0,,,,,,"",""
+ball,1,2.2,Sydney Thunder,S Konstas,M Gilkes,PM Siddle,0,0,,,,,,"",""
+ball,1,2.3,Sydney Thunder,S Konstas,M Gilkes,PM Siddle,0,0,,,,,,"",""
+ball,1,2.4,Sydney Thunder,S Konstas,M Gilkes,PM Siddle,1,0,,,,,,"",""
+ball,1,2.5,Sydney Thunder,M Gilkes,S Konstas,PM Siddle,4,0,,,,,,"",""
+ball,1,2.6,Sydney Thunder,M Gilkes,S Konstas,PM Siddle,1,0,,,,,,"",""
+ball,1,3.1,Sydney Thunder,M Gilkes,S Konstas,Haris Rauf,2,0,,,,,,"",""
+ball,1,3.2,Sydney Thunder,M Gilkes,S Konstas,Haris Rauf,1,0,,,,,,"",""
+ball,1,3.3,Sydney Thunder,S Konstas,M Gilkes,Haris Rauf,1,0,,,,,,"",""
+ball,1,3.4,Sydney Thunder,M Gilkes,S Konstas,Haris Rauf,0,0,,,,,,"",""
+ball,1,3.5,Sydney Thunder,M Gilkes,S Konstas,Haris Rauf,0,0,,,,,,caught,M Gilkes
+ball,1,3.6,Sydney Thunder,DA Warner,S Konstas,Haris Rauf,0,0,,,,,,"",""
+ball,1,4.1,Sydney Thunder,S Konstas,DA Warner,MP Stoinis,1,0,,,,,,"",""
+ball,1,4.2,Sydney Thunder,DA Warner,S Konstas,MP Stoinis,1,0,,,,,,"",""
+ball,1,4.3,Sydney Thunder,S Konstas,DA Warner,MP Stoinis,0,0,,,,,,"",""
+ball,1,4.4,Sydney Thunder,S Konstas,DA Warner,MP Stoinis,1,0,,,,,,"",""
+ball,1,4.5,Sydney Thunder,DA Warner,S Konstas,MP Stoinis,0,1,1,,,,,"",""
+ball,1,4.6,Sydney Thunder,DA Warner,S Konstas,MP Stoinis,1,0,,,,,,"",""
+ball,1,4.7,Sydney Thunder,S Konstas,DA Warner,MP Stoinis,1,0,,,,,,"",""
+ball,1,5.1,Sydney Thunder,S Konstas,DA Warner,MJ Swepson,0,0,,,,,,bowled,S Konstas
+ball,1,5.2,Sydney Thunder,CT Bancroft,DA Warner,MJ Swepson,1,0,,,,,,"",""
+ball,1,5.3,Sydney Thunder,DA Warner,CT Bancroft,MJ Swepson,0,0,,,,,,"",""
+ball,1,5.4,Sydney Thunder,DA Warner,CT Bancroft,MJ Swepson,1,0,,,,,,"",""
+ball,1,5.5,Sydney Thunder,CT Bancroft,DA Warner,MJ Swepson,0,0,,,,,,"",""
+ball,1,5.6,Sydney Thunder,CT Bancroft,DA Warner,MJ Swepson,1,0,,,,,,"",""
+ball,1,6.1,Sydney Thunder,CT Bancroft,DA Warner,TK Curran,0,0,,,,,,"",""
+ball,1,6.2,Sydney Thunder,CT Bancroft,DA Warner,TK Curran,0,0,,,,,,"",""
+ball,1,6.3,Sydney Thunder,CT Bancroft,DA Warner,TK Curran,0,0,,,,,,"",""
+ball,1,6.4,Sydney Thunder,CT Bancroft,DA Warner,TK Curran,1,0,,,,,,"",""
+ball,1,6.5,Sydney Thunder,DA Warner,CT Bancroft,TK Curran,0,0,,,,,,"",""
+ball,1,6.6,Sydney Thunder,DA Warner,CT Bancroft,TK Curran,0,0,,,,,,"",""
+ball,1,7.1,Sydney Thunder,CT Bancroft,DA Warner,MJ Swepson,4,0,,,,,,"",""
+ball,1,7.2,Sydney Thunder,CT Bancroft,DA Warner,MJ Swepson,0,0,,,,,,"",""
+ball,1,7.3,Sydney Thunder,CT Bancroft,DA Warner,MJ Swepson,1,0,,,,,,"",""
+ball,1,7.4,Sydney Thunder,DA Warner,CT Bancroft,MJ Swepson,0,0,,,,,,"",""
+ball,1,7.5,Sydney Thunder,DA Warner,CT Bancroft,MJ Swepson,0,0,,,,,,"",""
+ball,1,7.6,Sydney Thunder,DA Warner,CT Bancroft,MJ Swepson,1,0,,,,,,"",""
+ball,1,8.1,Sydney Thunder,DA Warner,CT Bancroft,MP Stoinis,6,0,,,,,,"",""
+ball,1,8.2,Sydney Thunder,DA Warner,CT Bancroft,MP Stoinis,0,0,,,,,,caught,DA Warner
+ball,1,8.3,Sydney Thunder,SW Billings,CT Bancroft,MP Stoinis,0,0,,,,,,"",""
+ball,1,8.4,Sydney Thunder,SW Billings,CT Bancroft,MP Stoinis,0,0,,,,,,"",""
+ball,1,8.5,Sydney Thunder,SW Billings,CT Bancroft,MP Stoinis,0,0,,,,,,"",""
+ball,1,8.6,Sydney Thunder,SW Billings,CT Bancroft,MP Stoinis,4,0,,,,,,"",""
+ball,1,9.1,Sydney Thunder,CT Bancroft,SW Billings,MJ Swepson,1,0,,,,,,"",""
+ball,1,9.2,Sydney Thunder,SW Billings,CT Bancroft,MJ Swepson,1,0,,,,,,"",""
+ball,1,9.3,Sydney Thunder,CT Bancroft,SW Billings,MJ Swepson,1,0,,,,,,"",""
+ball,1,9.4,Sydney Thunder,SW Billings,CT Bancroft,MJ Swepson,1,0,,,,,,"",""
+ball,1,9.5,Sydney Thunder,CT Bancroft,SW Billings,MJ Swepson,0,0,,,,,,lbw,CT Bancroft
+ball,1,9.6,Sydney Thunder,Shadab Khan,SW Billings,MJ Swepson,1,0,,,,,,"",""
+ball,1,10.1,Sydney Thunder,Shadab Khan,SW Billings,TK Curran,0,0,,,,,,"",""
+ball,1,10.2,Sydney Thunder,Shadab Khan,SW Billings,TK Curran,0,0,,,,,,"",""
+ball,1,10.3,Sydney Thunder,Shadab Khan,SW Billings,TK Curran,1,0,,,,,,"",""
+ball,1,10.4,Sydney Thunder,SW Billings,Shadab Khan,TK Curran,2,0,,,,,,"",""
+ball,1,10.5,Sydney Thunder,SW Billings,Shadab Khan,TK Curran,1,0,,,,,,"",""
+ball,1,10.6,Sydney Thunder,Shadab Khan,SW Billings,TK Curran,1,0,,,,,,"",""
+ball,1,11.1,Sydney Thunder,Shadab Khan,SW Billings,Haris Rauf,2,0,,,,,,"",""
+ball,1,11.2,Sydney Thunder,Shadab Khan,SW Billings,Haris Rauf,1,0,,,,,,"",""
+ball,1,11.3,Sydney Thunder,SW Billings,Shadab Khan,Haris Rauf,4,0,,,,,,"",""
+ball,1,11.4,Sydney Thunder,SW Billings,Shadab Khan,Haris Rauf,2,0,,,,,,"",""
+ball,1,11.5,Sydney Thunder,SW Billings,Shadab Khan,Haris Rauf,0,0,,,,,,"",""
+ball,1,11.6,Sydney Thunder,SW Billings,Shadab Khan,Haris Rauf,0,0,,,,,,"",""
+ball,1,12.1,Sydney Thunder,Shadab Khan,SW Billings,PM Siddle,1,0,,,,,,"",""
+ball,1,12.2,Sydney Thunder,SW Billings,Shadab Khan,PM Siddle,0,0,,,,,,"",""
+ball,1,12.3,Sydney Thunder,SW Billings,Shadab Khan,PM Siddle,0,0,,,,,,"",""
+ball,1,12.4,Sydney Thunder,SW Billings,Shadab Khan,PM Siddle,1,0,,,,,,"",""
+ball,1,12.5,Sydney Thunder,Shadab Khan,SW Billings,PM Siddle,1,0,,,,,,"",""
+ball,1,12.6,Sydney Thunder,SW Billings,Shadab Khan,PM Siddle,0,0,,,,,,"",""
+ball,1,13.1,Sydney Thunder,Shadab Khan,SW Billings,Haris Rauf,1,0,,,,,,"",""
+ball,1,13.2,Sydney Thunder,SW Billings,Shadab Khan,Haris Rauf,6,0,,,,,,"",""
+ball,1,13.3,Sydney Thunder,SW Billings,Shadab Khan,Haris Rauf,1,0,,,,,,"",""
+ball,1,13.4,Sydney Thunder,Shadab Khan,SW Billings,Haris Rauf,0,0,,,,,,"",""
+ball,1,13.5,Sydney Thunder,Shadab Khan,SW Billings,Haris Rauf,1,0,,,,,,"",""
+ball,1,13.6,Sydney Thunder,SW Billings,Shadab Khan,Haris Rauf,0,0,,,,,,caught,SW Billings
+ball,1,14.1,Sydney Thunder,Shadab Khan,DR Sams,PM Siddle,4,0,,,,,,"",""
+ball,1,14.2,Sydney Thunder,Shadab Khan,DR Sams,PM Siddle,1,0,,,,,,"",""
+ball,1,14.3,Sydney Thunder,DR Sams,Shadab Khan,PM Siddle,1,0,,,,,,"",""
+ball,1,14.4,Sydney Thunder,Shadab Khan,DR Sams,PM Siddle,2,0,,,,,,"",""
+ball,1,14.5,Sydney Thunder,Shadab Khan,DR Sams,PM Siddle,0,0,,,,,,"",""
+ball,1,14.6,Sydney Thunder,Shadab Khan,DR Sams,PM Siddle,1,0,,,,,,"",""
+ball,1,15.1,Sydney Thunder,Shadab Khan,DR Sams,MP Stoinis,0,1,1,,,,,"",""
+ball,1,15.2,Sydney Thunder,Shadab Khan,DR Sams,MP Stoinis,1,0,,,,,,"",""
+ball,1,15.3,Sydney Thunder,DR Sams,Shadab Khan,MP Stoinis,2,0,,,,,,"",""
+ball,1,15.4,Sydney Thunder,DR Sams,Shadab Khan,MP Stoinis,0,0,,,,,,bowled,DR Sams
+ball,1,15.5,Sydney Thunder,CJ Green,Shadab Khan,MP Stoinis,1,0,,,,,,"",""
+ball,1,15.6,Sydney Thunder,Shadab Khan,CJ Green,MP Stoinis,0,0,,,,,,"",""
+ball,1,15.7,Sydney Thunder,Shadab Khan,CJ Green,MP Stoinis,4,0,,,,,,"",""
+ball,1,16.1,Sydney Thunder,CJ Green,Shadab Khan,MJ Swepson,1,0,,,,,,"",""
+ball,1,16.2,Sydney Thunder,Shadab Khan,CJ Green,MJ Swepson,1,0,,,,,,"",""
+ball,1,16.3,Sydney Thunder,CJ Green,Shadab Khan,MJ Swepson,0,0,,,,,,"",""
+ball,1,16.4,Sydney Thunder,CJ Green,Shadab Khan,MJ Swepson,1,0,,,,,,"",""
+ball,1,16.5,Sydney Thunder,Shadab Khan,CJ Green,MJ Swepson,1,0,,,,,,"",""
+ball,1,16.6,Sydney Thunder,CJ Green,Shadab Khan,MJ Swepson,0,0,,,,,,"",""
+ball,1,17.1,Sydney Thunder,Shadab Khan,CJ Green,PM Siddle,0,0,,,,,,"",""
+ball,1,17.2,Sydney Thunder,Shadab Khan,CJ Green,PM Siddle,0,0,,,,,,caught,Shadab Khan
+ball,1,17.3,Sydney Thunder,T Sangha,CJ Green,PM Siddle,0,0,,,,,,"",""
+ball,1,17.4,Sydney Thunder,T Sangha,CJ Green,PM Siddle,1,0,,,,,,"",""
+ball,1,17.5,Sydney Thunder,CJ Green,T Sangha,PM Siddle,2,0,,,,,,"",""
+ball,1,17.6,Sydney Thunder,CJ Green,T Sangha,PM Siddle,1,0,,,,,,"",""
+ball,1,18.1,Sydney Thunder,CJ Green,T Sangha,Haris Rauf,0,0,,,,,,"",""
+ball,1,18.2,Sydney Thunder,CJ Green,T Sangha,Haris Rauf,2,0,,,,,,"",""
+ball,1,18.3,Sydney Thunder,CJ Green,T Sangha,Haris Rauf,4,0,,,,,,"",""
+ball,1,18.4,Sydney Thunder,CJ Green,T Sangha,Haris Rauf,0,0,,,,,,caught,CJ Green
+ball,1,18.5,Sydney Thunder,RJW Topley,T Sangha,Haris Rauf,0,0,,,,,,"",""
+ball,1,18.6,Sydney Thunder,RJW Topley,T Sangha,Haris Rauf,1,0,,,,,,"",""
+ball,1,19.1,Sydney Thunder,RJW Topley,T Sangha,TK Curran,1,0,,,,,,"",""
+ball,1,19.2,Sydney Thunder,T Sangha,RJW Topley,TK Curran,0,0,,,,,,caught,T Sangha
+ball,1,19.3,Sydney Thunder,R Hadley,RJW Topley,TK Curran,1,0,,,,,,"",""
+ball,1,19.4,Sydney Thunder,RJW Topley,R Hadley,TK Curran,2,0,,,,,,"",""
+ball,1,19.5,Sydney Thunder,RJW Topley,R Hadley,TK Curran,1,0,,,,,,"",""
+ball,1,19.6,Sydney Thunder,R Hadley,RJW Topley,TK Curran,0,0,,,,,,caught,R Hadley
+ball,2,0.1,Melbourne Stars,JM Clarke,SB Harper,R Hadley,2,0,,,,,,"",""
+ball,2,0.2,Melbourne Stars,JM Clarke,SB Harper,R Hadley,4,0,,,,,,"",""
+ball,2,0.3,Melbourne Stars,JM Clarke,SB Harper,R Hadley,1,0,,,,,,"",""
+ball,2,0.4,Melbourne Stars,SB Harper,JM Clarke,R Hadley,1,0,,,,,,"",""
+ball,2,0.5,Melbourne Stars,JM Clarke,SB Harper,R Hadley,0,0,,,,,,"",""
+ball,2,0.6,Melbourne Stars,JM Clarke,SB Harper,R Hadley,1,0,,,,,,"",""
+ball,2,1.1,Melbourne Stars,JM Clarke,SB Harper,RJW Topley,2,0,,,,,,"",""
+ball,2,1.2,Melbourne Stars,JM Clarke,SB Harper,RJW Topley,0,0,,,,,,"",""
+ball,2,1.3,Melbourne Stars,JM Clarke,SB Harper,RJW Topley,0,0,,,,,,"",""
+ball,2,1.4,Melbourne Stars,JM Clarke,SB Harper,RJW Topley,4,0,,,,,,"",""
+ball,2,1.5,Melbourne Stars,JM Clarke,SB Harper,RJW Topley,0,0,,,,,,"",""
+ball,2,1.6,Melbourne Stars,JM Clarke,SB Harper,RJW Topley,1,0,,,,,,"",""
+ball,2,2.1,Melbourne Stars,JM Clarke,SB Harper,R Hadley,1,0,,,,,,"",""
+ball,2,2.2,Melbourne Stars,SB Harper,JM Clarke,R Hadley,1,0,,,,,,"",""
+ball,2,2.3,Melbourne Stars,JM Clarke,SB Harper,R Hadley,4,0,,,,,,"",""
+ball,2,2.4,Melbourne Stars,JM Clarke,SB Harper,R Hadley,4,0,,,,,,"",""
+ball,2,2.5,Melbourne Stars,JM Clarke,SB Harper,R Hadley,0,1,,,,1,,"",""
+ball,2,2.6,Melbourne Stars,SB Harper,JM Clarke,R Hadley,0,1,1,,,,,"",""
+ball,2,2.7,Melbourne Stars,SB Harper,JM Clarke,R Hadley,4,0,,,,,,"",""
+ball,2,3.1,Melbourne Stars,JM Clarke,SB Harper,DR Sams,4,0,,,,,,"",""
+ball,2,3.2,Melbourne Stars,JM Clarke,SB Harper,DR Sams,1,0,,,,,,"",""
+ball,2,3.3,Melbourne Stars,SB Harper,JM Clarke,DR Sams,1,0,,,,,,"",""
+ball,2,3.4,Melbourne Stars,JM Clarke,SB Harper,DR Sams,4,0,,,,,,"",""
+ball,2,3.5,Melbourne Stars,JM Clarke,SB Harper,DR Sams,4,0,,,,,,"",""
+ball,2,3.6,Melbourne Stars,JM Clarke,SB Harper,DR Sams,6,0,,,,,,"",""
+ball,2,4.1,Melbourne Stars,SB Harper,JM Clarke,Shadab Khan,0,0,,,,,,"",""
+ball,2,4.2,Melbourne Stars,SB Harper,JM Clarke,Shadab Khan,1,0,,,,,,"",""
+ball,2,4.3,Melbourne Stars,JM Clarke,SB Harper,Shadab Khan,0,0,,,,,,"",""
+ball,2,4.4,Melbourne Stars,JM Clarke,SB Harper,Shadab Khan,0,0,,,,,,"",""
+ball,2,4.5,Melbourne Stars,JM Clarke,SB Harper,Shadab Khan,2,0,,,,,,"",""
+ball,2,4.6,Melbourne Stars,JM Clarke,SB Harper,Shadab Khan,1,0,,,,,,"",""
+ball,2,5.1,Melbourne Stars,JM Clarke,SB Harper,CJ Green,1,0,,,,,,"",""
+ball,2,5.2,Melbourne Stars,SB Harper,JM Clarke,CJ Green,1,0,,,,,,"",""
+ball,2,5.3,Melbourne Stars,JM Clarke,SB Harper,CJ Green,0,0,,,,,,"",""
+ball,2,5.4,Melbourne Stars,JM Clarke,SB Harper,CJ Green,1,0,,,,,,"",""
+ball,2,5.5,Melbourne Stars,SB Harper,JM Clarke,CJ Green,1,0,,,,,,"",""
+ball,2,5.6,Melbourne Stars,JM Clarke,SB Harper,CJ Green,1,0,,,,,,"",""
+ball,2,6.1,Melbourne Stars,JM Clarke,SB Harper,Shadab Khan,1,0,,,,,,"",""
+ball,2,6.2,Melbourne Stars,SB Harper,JM Clarke,Shadab Khan,0,0,,,,,,"",""
+ball,2,6.3,Melbourne Stars,SB Harper,JM Clarke,Shadab Khan,0,0,,,,,,"",""
+ball,2,6.4,Melbourne Stars,SB Harper,JM Clarke,Shadab Khan,1,0,,,,,,"",""
+ball,2,6.5,Melbourne Stars,JM Clarke,SB Harper,Shadab Khan,0,0,,,,,,"",""
+ball,2,6.6,Melbourne Stars,JM Clarke,SB Harper,Shadab Khan,2,0,,,,,,"",""
+ball,2,7.1,Melbourne Stars,SB Harper,JM Clarke,T Sangha,1,0,,,,,,"",""
+ball,2,7.2,Melbourne Stars,JM Clarke,SB Harper,T Sangha,1,0,,,,,,"",""
+ball,2,7.3,Melbourne Stars,SB Harper,JM Clarke,T Sangha,3,0,,,,,,"",""
+ball,2,7.4,Melbourne Stars,JM Clarke,SB Harper,T Sangha,1,0,,,,,,"",""
+ball,2,7.5,Melbourne Stars,SB Harper,JM Clarke,T Sangha,1,0,,,,,,"",""
+ball,2,7.6,Melbourne Stars,JM Clarke,SB Harper,T Sangha,4,0,,,,,,"",""
+ball,2,8.1,Melbourne Stars,SB Harper,JM Clarke,Shadab Khan,0,0,,,,,,"",""
+ball,2,8.2,Melbourne Stars,SB Harper,JM Clarke,Shadab Khan,2,0,,,,,,"",""
+ball,2,8.3,Melbourne Stars,SB Harper,JM Clarke,Shadab Khan,0,0,,,,,,"",""
+ball,2,8.4,Melbourne Stars,SB Harper,JM Clarke,Shadab Khan,4,0,,,,,,"",""
+ball,2,8.5,Melbourne Stars,SB Harper,JM Clarke,Shadab Khan,0,1,,,1,,,"",""
+ball,2,8.6,Melbourne Stars,JM Clarke,SB Harper,Shadab Khan,1,0,,,,,,"",""
+ball,2,9.1,Melbourne Stars,JM Clarke,SB Harper,CJ Green,1,0,,,,,,"",""
+ball,2,9.2,Melbourne Stars,SB Harper,JM Clarke,CJ Green,0,0,,,,,,"",""
+ball,2,9.3,Melbourne Stars,SB Harper,JM Clarke,CJ Green,1,0,,,,,,"",""
+ball,2,9.4,Melbourne Stars,JM Clarke,SB Harper,CJ Green,0,0,,,,,,caught,JM Clarke
+ball,2,9.5,Melbourne Stars,GJ Maxwell,SB Harper,CJ Green,0,0,,,,,,"",""
+ball,2,9.6,Melbourne Stars,GJ Maxwell,SB Harper,CJ Green,1,0,,,,,,"",""
+ball,2,10.1,Melbourne Stars,GJ Maxwell,SB Harper,DR Sams,1,0,,,,,,"",""
+ball,2,10.2,Melbourne Stars,SB Harper,GJ Maxwell,DR Sams,1,0,,,,,,"",""
+ball,2,10.3,Melbourne Stars,GJ Maxwell,SB Harper,DR Sams,6,0,,,,,,"",""
+ball,2,10.4,Melbourne Stars,GJ Maxwell,SB Harper,DR Sams,1,0,,,,,,"",""
+ball,2,10.5,Melbourne Stars,SB Harper,GJ Maxwell,DR Sams,1,0,,,,,,"",""
+ball,2,10.6,Melbourne Stars,GJ Maxwell,SB Harper,DR Sams,1,0,,,,,,"",""
+ball,2,11.1,Melbourne Stars,GJ Maxwell,SB Harper,R Hadley,4,0,,,,,,"",""
+ball,2,11.2,Melbourne Stars,GJ Maxwell,SB Harper,R Hadley,0,0,,,,,,"",""
+ball,2,11.3,Melbourne Stars,GJ Maxwell,SB Harper,R Hadley,0,1,,,,1,,"",""
+ball,2,11.4,Melbourne Stars,SB Harper,GJ Maxwell,R Hadley,2,0,,,,,,"",""
+ball,2,11.5,Melbourne Stars,SB Harper,GJ Maxwell,R Hadley,1,0,,,,,,"",""
+ball,2,11.6,Melbourne Stars,GJ Maxwell,SB Harper,R Hadley,1,0,,,,,,"",""
+ball,2,12.1,Melbourne Stars,GJ Maxwell,SB Harper,Shadab Khan,0,0,,,,,,"",""
+ball,2,12.2,Melbourne Stars,GJ Maxwell,SB Harper,Shadab Khan,4,0,,,,,,"",""
+ball,2,12.3,Melbourne Stars,GJ Maxwell,SB Harper,Shadab Khan,0,0,,,,,,"",""
+ball,2,12.4,Melbourne Stars,GJ Maxwell,SB Harper,Shadab Khan,4,0,,,,,,"",""
+ball,2,12.5,Melbourne Stars,GJ Maxwell,SB Harper,Shadab Khan,1,0,,,,,,"",""
+ball,2,12.6,Melbourne Stars,SB Harper,GJ Maxwell,Shadab Khan,0,0,,,,,,"",""
+ball,2,13.1,Melbourne Stars,GJ Maxwell,SB Harper,T Sangha,1,0,,,,,,"",""
+ball,2,13.2,Melbourne Stars,SB Harper,GJ Maxwell,T Sangha,1,0,,,,,,"",""
+ball,2,13.3,Melbourne Stars,GJ Maxwell,SB Harper,T Sangha,4,0,,,,,,"",""
+ball,2,13.4,Melbourne Stars,GJ Maxwell,SB Harper,T Sangha,4,0,,,,,,"",""
+ball,2,13.5,Melbourne Stars,GJ Maxwell,SB Harper,T Sangha,0,0,,,,,,"",""
+ball,2,13.6,Melbourne Stars,GJ Maxwell,SB Harper,T Sangha,6,0,,,,,,"",""

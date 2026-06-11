@@ -1,0 +1,310 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Hobart Hurricanes
+info,team,Sydney Sixers
+info,gender,male
+info,season,2021/22
+info,date,2021/12/11
+info,event,Big Bash League
+info,match_number,8
+info,venue,Sydney Cricket Ground
+info,city,Sydney
+info,toss_winner,Hobart Hurricanes
+info,toss_decision,bat
+info,player_of_match,MS Wade
+info,umpire,BNJ Oxenford
+info,umpire,MW Graham-Smith
+info,reserve_umpire,D Taylor
+info,tv_umpire,SA Lightbody
+info,match_referee,SR Bernard
+info,winner,Hobart Hurricanes
+info,winner_runs,44
+info,method,D/L
+info,player,Hobart Hurricanes,TA Lammonby
+info,player,Hobart Hurricanes,MS Wade
+info,player,Hobart Hurricanes,DJM Short
+info,player,Hobart Hurricanes,CP Jewell
+info,player,Hobart Hurricanes,TH David
+info,player,Hobart Hurricanes,PSP Handscomb
+info,player,Hobart Hurricanes,JA Thompson
+info,player,Hobart Hurricanes,NT Ellis
+info,player,Hobart Hurricanes,JS Paris
+info,player,Hobart Hurricanes,TS Rogers
+info,player,Hobart Hurricanes,S Lamichhane
+info,player,Hobart Hurricanes,J Kann
+info,player,Sydney Sixers,JR Philippe
+info,player,Sydney Sixers,JM Vince
+info,player,Sydney Sixers,MC Henriques
+info,player,Sydney Sixers,DT Christian
+info,player,Sydney Sixers,DP Hughes
+info,player,Sydney Sixers,TK Curran
+info,player,Sydney Sixers,JC Silk
+info,player,Sydney Sixers,CJ Jordan
+info,player,Sydney Sixers,SA Abbott
+info,player,Sydney Sixers,H Kerr
+info,player,Sydney Sixers,SNJ O'Keefe
+info,registry,people,BNJ Oxenford,c1add349
+info,registry,people,CJ Jordan,ffe699c0
+info,registry,people,CP Jewell,806c4e58
+info,registry,people,D Taylor,b940a2b2
+info,registry,people,DJM Short,1a156c88
+info,registry,people,DP Hughes,f3982af9
+info,registry,people,DT Christian,2a2e6343
+info,registry,people,H Kerr,f422728b
+info,registry,people,J Kann,cccea5bc
+info,registry,people,JA Thompson,1d2f290a
+info,registry,people,JC Silk,7a6dc294
+info,registry,people,JM Vince,a15618fe
+info,registry,people,JR Philippe,39086549
+info,registry,people,JS Paris,7c8f533d
+info,registry,people,MC Henriques,32198ae0
+info,registry,people,MS Wade,afa7e784
+info,registry,people,MW Graham-Smith,18aca3ce
+info,registry,people,NT Ellis,9eb1455b
+info,registry,people,PSP Handscomb,ada15e88
+info,registry,people,S Lamichhane,b410bd3d
+info,registry,people,SA Abbott,1a2676c5
+info,registry,people,SA Lightbody,680b8cbf
+info,registry,people,SNJ O'Keefe,3540beff
+info,registry,people,SR Bernard,800187dc
+info,registry,people,TA Lammonby,73f1f6b0
+info,registry,people,TH David,f1f99156
+info,registry,people,TK Curran,e86754b2
+info,registry,people,TS Rogers,1b04e02b
+ball,1,0.1,Hobart Hurricanes,MS Wade,DJM Short,SA Abbott,0,0,,,,,,"",""
+ball,1,0.2,Hobart Hurricanes,MS Wade,DJM Short,SA Abbott,0,0,,,,,,"",""
+ball,1,0.3,Hobart Hurricanes,MS Wade,DJM Short,SA Abbott,2,0,,,,,,"",""
+ball,1,0.4,Hobart Hurricanes,MS Wade,DJM Short,SA Abbott,0,0,,,,,,"",""
+ball,1,0.5,Hobart Hurricanes,MS Wade,DJM Short,SA Abbott,6,0,,,,,,"",""
+ball,1,0.6,Hobart Hurricanes,MS Wade,DJM Short,SA Abbott,1,0,,,,,,"",""
+ball,1,1.1,Hobart Hurricanes,MS Wade,DJM Short,TK Curran,4,0,,,,,,"",""
+ball,1,1.2,Hobart Hurricanes,MS Wade,DJM Short,TK Curran,4,0,,,,,,"",""
+ball,1,1.3,Hobart Hurricanes,MS Wade,DJM Short,TK Curran,4,0,,,,,,"",""
+ball,1,1.4,Hobart Hurricanes,MS Wade,DJM Short,TK Curran,4,0,,,,,,"",""
+ball,1,1.5,Hobart Hurricanes,MS Wade,DJM Short,TK Curran,0,0,,,,,,"",""
+ball,1,1.6,Hobart Hurricanes,MS Wade,DJM Short,TK Curran,4,0,,,,,,"",""
+ball,1,2.1,Hobart Hurricanes,DJM Short,MS Wade,H Kerr,0,0,,,,,,"",""
+ball,1,2.2,Hobart Hurricanes,DJM Short,MS Wade,H Kerr,1,0,,,,,,"",""
+ball,1,2.3,Hobart Hurricanes,MS Wade,DJM Short,H Kerr,1,0,,,,,,"",""
+ball,1,2.4,Hobart Hurricanes,DJM Short,MS Wade,H Kerr,1,0,,,,,,"",""
+ball,1,2.5,Hobart Hurricanes,MS Wade,DJM Short,H Kerr,4,0,,,,,,"",""
+ball,1,2.6,Hobart Hurricanes,MS Wade,DJM Short,H Kerr,1,0,,,,,,"",""
+ball,1,3.1,Hobart Hurricanes,MS Wade,DJM Short,CJ Jordan,4,0,,,,,,"",""
+ball,1,3.2,Hobart Hurricanes,MS Wade,DJM Short,CJ Jordan,6,0,,,,,,"",""
+ball,1,3.3,Hobart Hurricanes,MS Wade,DJM Short,CJ Jordan,3,0,,,,,,"",""
+ball,1,3.4,Hobart Hurricanes,DJM Short,MS Wade,CJ Jordan,1,0,,,,,,"",""
+ball,1,3.5,Hobart Hurricanes,MS Wade,DJM Short,CJ Jordan,2,0,,,,,,"",""
+ball,1,3.6,Hobart Hurricanes,MS Wade,DJM Short,CJ Jordan,1,0,,,,,,"",""
+ball,1,4.1,Hobart Hurricanes,MS Wade,DJM Short,SA Abbott,2,0,,,,,,"",""
+ball,1,4.2,Hobart Hurricanes,MS Wade,DJM Short,SA Abbott,6,0,,,,,,"",""
+ball,1,4.3,Hobart Hurricanes,MS Wade,DJM Short,SA Abbott,1,0,,,,,,"",""
+ball,1,4.4,Hobart Hurricanes,DJM Short,MS Wade,SA Abbott,1,0,,,,,,"",""
+ball,1,4.5,Hobart Hurricanes,MS Wade,DJM Short,SA Abbott,0,0,,,,,,"",""
+ball,1,4.6,Hobart Hurricanes,MS Wade,DJM Short,SA Abbott,0,0,,,,,,"",""
+ball,1,5.1,Hobart Hurricanes,DJM Short,MS Wade,SNJ O'Keefe,0,0,,,,,,"",""
+ball,1,5.2,Hobart Hurricanes,DJM Short,MS Wade,SNJ O'Keefe,1,0,,,,,,"",""
+ball,1,5.3,Hobart Hurricanes,MS Wade,DJM Short,SNJ O'Keefe,4,0,,,,,,"",""
+ball,1,5.4,Hobart Hurricanes,MS Wade,DJM Short,SNJ O'Keefe,0,0,,,,,,"",""
+ball,1,5.5,Hobart Hurricanes,MS Wade,DJM Short,SNJ O'Keefe,1,0,,,,,,"",""
+ball,1,5.6,Hobart Hurricanes,DJM Short,MS Wade,SNJ O'Keefe,0,0,,,,,,"",""
+ball,1,6.1,Hobart Hurricanes,MS Wade,DJM Short,DT Christian,4,0,,,,,,"",""
+ball,1,6.2,Hobart Hurricanes,MS Wade,DJM Short,DT Christian,1,0,,,,,,"",""
+ball,1,6.3,Hobart Hurricanes,DJM Short,MS Wade,DT Christian,0,0,,,,,,"",""
+ball,1,6.4,Hobart Hurricanes,DJM Short,MS Wade,DT Christian,1,0,,,,,,"",""
+ball,1,6.5,Hobart Hurricanes,MS Wade,DJM Short,DT Christian,0,0,,,,,,"",""
+ball,1,6.6,Hobart Hurricanes,MS Wade,DJM Short,DT Christian,1,0,,,,,,"",""
+ball,1,7.1,Hobart Hurricanes,MS Wade,DJM Short,SNJ O'Keefe,1,0,,,,,,"",""
+ball,1,7.2,Hobart Hurricanes,DJM Short,MS Wade,SNJ O'Keefe,0,0,,,,,,"",""
+ball,1,7.3,Hobart Hurricanes,DJM Short,MS Wade,SNJ O'Keefe,0,0,,,,,,"",""
+ball,1,7.4,Hobart Hurricanes,DJM Short,MS Wade,SNJ O'Keefe,1,0,,,,,,"",""
+ball,1,7.5,Hobart Hurricanes,MS Wade,DJM Short,SNJ O'Keefe,1,0,,,,,,"",""
+ball,1,7.6,Hobart Hurricanes,DJM Short,MS Wade,SNJ O'Keefe,1,0,,,,,,"",""
+ball,1,8.1,Hobart Hurricanes,DJM Short,MS Wade,TK Curran,0,0,,,,,,"",""
+ball,1,8.2,Hobart Hurricanes,DJM Short,MS Wade,TK Curran,1,0,,,,,,"",""
+ball,1,8.3,Hobart Hurricanes,MS Wade,DJM Short,TK Curran,0,1,1,,,,,"",""
+ball,1,8.4,Hobart Hurricanes,MS Wade,DJM Short,TK Curran,2,0,,,,,,"",""
+ball,1,8.5,Hobart Hurricanes,MS Wade,DJM Short,TK Curran,0,1,1,,,,,"",""
+ball,1,8.6,Hobart Hurricanes,MS Wade,DJM Short,TK Curran,0,0,,,,,,"",""
+ball,1,8.7,Hobart Hurricanes,MS Wade,DJM Short,TK Curran,1,0,,,,,,"",""
+ball,1,8.8,Hobart Hurricanes,DJM Short,MS Wade,TK Curran,4,0,,,,,,"",""
+ball,1,9.1,Hobart Hurricanes,MS Wade,DJM Short,DT Christian,1,0,,,,,,"",""
+ball,1,9.2,Hobart Hurricanes,DJM Short,MS Wade,DT Christian,1,0,,,,,,"",""
+ball,1,9.3,Hobart Hurricanes,MS Wade,DJM Short,DT Christian,0,0,,,,,,"",""
+ball,1,9.4,Hobart Hurricanes,MS Wade,DJM Short,DT Christian,0,0,,,,,,"",""
+ball,1,9.5,Hobart Hurricanes,MS Wade,DJM Short,DT Christian,1,0,,,,,,"",""
+ball,1,9.6,Hobart Hurricanes,DJM Short,MS Wade,DT Christian,1,0,,,,,,"",""
+ball,1,10.1,Hobart Hurricanes,DJM Short,MS Wade,CJ Jordan,0,0,,,,,,"",""
+ball,1,10.2,Hobart Hurricanes,DJM Short,MS Wade,CJ Jordan,1,0,,,,,,"",""
+ball,1,10.3,Hobart Hurricanes,MS Wade,DJM Short,CJ Jordan,6,0,,,,,,"",""
+ball,1,10.4,Hobart Hurricanes,MS Wade,DJM Short,CJ Jordan,2,0,,,,,,"",""
+ball,1,10.5,Hobart Hurricanes,MS Wade,DJM Short,CJ Jordan,1,0,,,,,,"",""
+ball,1,10.6,Hobart Hurricanes,DJM Short,MS Wade,CJ Jordan,0,0,,,,,,"",""
+ball,1,11.1,Hobart Hurricanes,MS Wade,DJM Short,TK Curran,6,0,,,,,,"",""
+ball,1,11.2,Hobart Hurricanes,MS Wade,DJM Short,TK Curran,0,0,,,,,,caught,MS Wade
+ball,1,11.3,Hobart Hurricanes,DJM Short,CP Jewell,TK Curran,1,0,,,,,,"",""
+ball,1,11.4,Hobart Hurricanes,CP Jewell,DJM Short,TK Curran,4,0,,,,,,"",""
+ball,1,11.5,Hobart Hurricanes,CP Jewell,DJM Short,TK Curran,1,0,,,,,,"",""
+ball,1,11.6,Hobart Hurricanes,DJM Short,CP Jewell,TK Curran,4,0,,,,,,"",""
+ball,1,12.1,Hobart Hurricanes,CP Jewell,DJM Short,DT Christian,0,0,,,,,,"",""
+ball,1,12.2,Hobart Hurricanes,CP Jewell,DJM Short,DT Christian,1,0,,,,,,"",""
+ball,1,12.3,Hobart Hurricanes,DJM Short,CP Jewell,DT Christian,1,0,,,,,,"",""
+ball,1,12.4,Hobart Hurricanes,CP Jewell,DJM Short,DT Christian,1,0,,,,,,"",""
+ball,1,12.5,Hobart Hurricanes,DJM Short,CP Jewell,DT Christian,1,0,,,,,,"",""
+ball,1,12.6,Hobart Hurricanes,CP Jewell,DJM Short,DT Christian,0,0,,,,,,"",""
+ball,1,13.1,Hobart Hurricanes,DJM Short,CP Jewell,SNJ O'Keefe,0,0,,,,,,"",""
+ball,1,13.2,Hobart Hurricanes,DJM Short,CP Jewell,SNJ O'Keefe,4,0,,,,,,"",""
+ball,1,13.3,Hobart Hurricanes,DJM Short,CP Jewell,SNJ O'Keefe,1,0,,,,,,"",""
+ball,1,13.4,Hobart Hurricanes,CP Jewell,DJM Short,SNJ O'Keefe,2,0,,,,,,"",""
+ball,1,13.5,Hobart Hurricanes,CP Jewell,DJM Short,SNJ O'Keefe,0,0,,,,,,"",""
+ball,1,13.6,Hobart Hurricanes,CP Jewell,DJM Short,SNJ O'Keefe,1,0,,,,,,"",""
+ball,1,14.1,Hobart Hurricanes,CP Jewell,DJM Short,SA Abbott,1,0,,,,,,"",""
+ball,1,14.2,Hobart Hurricanes,DJM Short,CP Jewell,SA Abbott,4,0,,,,,,"",""
+ball,1,14.3,Hobart Hurricanes,DJM Short,CP Jewell,SA Abbott,0,0,,,,,,"",""
+ball,1,14.4,Hobart Hurricanes,DJM Short,CP Jewell,SA Abbott,1,0,,,,,,"",""
+ball,1,14.5,Hobart Hurricanes,CP Jewell,DJM Short,SA Abbott,1,0,,,,,,"",""
+ball,1,14.6,Hobart Hurricanes,DJM Short,CP Jewell,SA Abbott,1,0,,,,,,"",""
+ball,1,15.1,Hobart Hurricanes,DJM Short,CP Jewell,SNJ O'Keefe,2,0,,,,,,"",""
+ball,1,15.2,Hobart Hurricanes,DJM Short,CP Jewell,SNJ O'Keefe,4,0,,,,,,"",""
+ball,1,15.3,Hobart Hurricanes,DJM Short,CP Jewell,SNJ O'Keefe,1,0,,,,,,"",""
+ball,1,15.4,Hobart Hurricanes,CP Jewell,DJM Short,SNJ O'Keefe,4,0,,,,,,"",""
+ball,1,15.5,Hobart Hurricanes,CP Jewell,DJM Short,SNJ O'Keefe,1,0,,,,,,"",""
+ball,1,15.6,Hobart Hurricanes,DJM Short,CP Jewell,SNJ O'Keefe,0,0,,,,,,"",""
+ball,1,16.1,Hobart Hurricanes,CP Jewell,DJM Short,DT Christian,6,0,,,,,,"",""
+ball,1,16.2,Hobart Hurricanes,CP Jewell,DJM Short,DT Christian,4,0,,,,,,"",""
+ball,1,16.3,Hobart Hurricanes,CP Jewell,DJM Short,DT Christian,0,1,1,,,,,"",""
+ball,1,16.4,Hobart Hurricanes,CP Jewell,DJM Short,DT Christian,1,0,,,,,,"",""
+ball,1,16.5,Hobart Hurricanes,DJM Short,CP Jewell,DT Christian,2,0,,,,,,"",""
+ball,1,16.6,Hobart Hurricanes,DJM Short,CP Jewell,DT Christian,0,0,,,,,,"",""
+ball,1,16.7,Hobart Hurricanes,DJM Short,CP Jewell,DT Christian,0,1,1,,,,,"",""
+ball,1,16.8,Hobart Hurricanes,DJM Short,CP Jewell,DT Christian,6,0,,,,,,"",""
+ball,1,17.1,Hobart Hurricanes,CP Jewell,DJM Short,CJ Jordan,4,0,,,,,,"",""
+ball,1,17.2,Hobart Hurricanes,CP Jewell,DJM Short,CJ Jordan,0,0,,,,,,"",""
+ball,1,17.3,Hobart Hurricanes,CP Jewell,DJM Short,CJ Jordan,4,0,,,,,,"",""
+ball,1,17.4,Hobart Hurricanes,CP Jewell,DJM Short,CJ Jordan,0,0,,,,,,"",""
+ball,1,17.5,Hobart Hurricanes,CP Jewell,DJM Short,CJ Jordan,2,0,,,,,,"",""
+ball,1,17.6,Hobart Hurricanes,CP Jewell,DJM Short,CJ Jordan,4,0,,,,,,"",""
+ball,1,18.1,Hobart Hurricanes,DJM Short,CP Jewell,SA Abbott,0,1,1,,,,,"",""
+ball,1,18.2,Hobart Hurricanes,DJM Short,CP Jewell,SA Abbott,0,0,,,,,,"",""
+ball,1,18.3,Hobart Hurricanes,DJM Short,CP Jewell,SA Abbott,4,0,,,,,,"",""
+ball,1,18.4,Hobart Hurricanes,DJM Short,CP Jewell,SA Abbott,0,0,,,,,,"",""
+ball,1,18.5,Hobart Hurricanes,DJM Short,CP Jewell,SA Abbott,4,0,,,,,,"",""
+ball,1,18.6,Hobart Hurricanes,DJM Short,CP Jewell,SA Abbott,0,0,,,,,,"",""
+ball,1,18.7,Hobart Hurricanes,DJM Short,CP Jewell,SA Abbott,6,0,,,,,,"",""
+ball,1,19.1,Hobart Hurricanes,CP Jewell,DJM Short,CJ Jordan,0,0,,,,,,caught,CP Jewell
+ball,1,19.2,Hobart Hurricanes,DJM Short,TH David,CJ Jordan,2,0,,,,,,"",""
+ball,1,19.3,Hobart Hurricanes,DJM Short,TH David,CJ Jordan,0,0,,,,,,"",""
+ball,1,19.4,Hobart Hurricanes,DJM Short,TH David,CJ Jordan,6,0,,,,,,"",""
+ball,1,19.5,Hobart Hurricanes,DJM Short,TH David,CJ Jordan,0,0,,,,,,"",""
+ball,1,19.6,Hobart Hurricanes,DJM Short,TH David,CJ Jordan,2,0,,,,,,"",""
+ball,2,0.1,Sydney Sixers,JR Philippe,JM Vince,TH David,0,0,,,,,,"",""
+ball,2,0.2,Sydney Sixers,JR Philippe,JM Vince,TH David,1,0,,,,,,"",""
+ball,2,0.3,Sydney Sixers,JM Vince,JR Philippe,TH David,0,0,,,,,,"",""
+ball,2,0.4,Sydney Sixers,JM Vince,JR Philippe,TH David,1,0,,,,,,"",""
+ball,2,0.5,Sydney Sixers,JR Philippe,JM Vince,TH David,1,0,,,,,,"",""
+ball,2,0.6,Sydney Sixers,JM Vince,JR Philippe,TH David,0,0,,,,,,"",""
+ball,2,1.1,Sydney Sixers,JR Philippe,JM Vince,JS Paris,1,0,,,,,,"",""
+ball,2,1.2,Sydney Sixers,JM Vince,JR Philippe,JS Paris,4,0,,,,,,"",""
+ball,2,1.3,Sydney Sixers,JM Vince,JR Philippe,JS Paris,0,0,,,,,,"",""
+ball,2,1.4,Sydney Sixers,JM Vince,JR Philippe,JS Paris,1,0,,,,,,"",""
+ball,2,1.5,Sydney Sixers,JR Philippe,JM Vince,JS Paris,4,0,,,,,,"",""
+ball,2,1.6,Sydney Sixers,JR Philippe,JM Vince,JS Paris,0,0,,,,,,"",""
+ball,2,2.1,Sydney Sixers,JM Vince,JR Philippe,TS Rogers,1,0,,,,,,"",""
+ball,2,2.2,Sydney Sixers,JR Philippe,JM Vince,TS Rogers,4,0,,,,,,"",""
+ball,2,2.3,Sydney Sixers,JR Philippe,JM Vince,TS Rogers,4,0,,,,,,"",""
+ball,2,2.4,Sydney Sixers,JR Philippe,JM Vince,TS Rogers,1,0,,,,,,"",""
+ball,2,2.5,Sydney Sixers,JM Vince,JR Philippe,TS Rogers,0,1,,,,1,,"",""
+ball,2,2.6,Sydney Sixers,JR Philippe,JM Vince,TS Rogers,6,0,,,,,,"",""
+ball,2,3.1,Sydney Sixers,JM Vince,JR Philippe,NT Ellis,1,0,,,,,,"",""
+ball,2,3.2,Sydney Sixers,JR Philippe,JM Vince,NT Ellis,1,0,,,,,,"",""
+ball,2,3.3,Sydney Sixers,JM Vince,JR Philippe,NT Ellis,1,0,,,,,,"",""
+ball,2,3.4,Sydney Sixers,JR Philippe,JM Vince,NT Ellis,0,0,,,,,,"",""
+ball,2,3.5,Sydney Sixers,JR Philippe,JM Vince,NT Ellis,1,0,,,,,,"",""
+ball,2,3.6,Sydney Sixers,JM Vince,JR Philippe,NT Ellis,2,0,,,,,,"",""
+ball,2,4.1,Sydney Sixers,JR Philippe,JM Vince,J Kann,1,0,,,,,,"",""
+ball,2,4.2,Sydney Sixers,JM Vince,JR Philippe,J Kann,4,0,,,,,,"",""
+ball,2,4.3,Sydney Sixers,JM Vince,JR Philippe,J Kann,1,0,,,,,,"",""
+ball,2,4.4,Sydney Sixers,JR Philippe,JM Vince,J Kann,0,0,,,,,,"",""
+ball,2,4.5,Sydney Sixers,JR Philippe,JM Vince,J Kann,1,0,,,,,,"",""
+ball,2,4.6,Sydney Sixers,JM Vince,JR Philippe,J Kann,1,0,,,,,,"",""
+ball,2,5.1,Sydney Sixers,JM Vince,JR Philippe,S Lamichhane,0,0,,,,,,"",""
+ball,2,5.2,Sydney Sixers,JM Vince,JR Philippe,S Lamichhane,1,0,,,,,,"",""
+ball,2,5.3,Sydney Sixers,JR Philippe,JM Vince,S Lamichhane,1,0,,,,,,"",""
+ball,2,5.4,Sydney Sixers,JM Vince,JR Philippe,S Lamichhane,2,0,,,,,,"",""
+ball,2,5.5,Sydney Sixers,JM Vince,JR Philippe,S Lamichhane,2,0,,,,,,"",""
+ball,2,5.6,Sydney Sixers,JM Vince,JR Philippe,S Lamichhane,2,0,,,,,,"",""
+ball,2,6.1,Sydney Sixers,JR Philippe,JM Vince,TS Rogers,4,0,,,,,,"",""
+ball,2,6.2,Sydney Sixers,JR Philippe,JM Vince,TS Rogers,1,0,,,,,,"",""
+ball,2,6.3,Sydney Sixers,JM Vince,JR Philippe,TS Rogers,1,0,,,,,,"",""
+ball,2,6.4,Sydney Sixers,JR Philippe,JM Vince,TS Rogers,0,0,,,,,,"",""
+ball,2,6.5,Sydney Sixers,JR Philippe,JM Vince,TS Rogers,1,0,,,,,,"",""
+ball,2,6.6,Sydney Sixers,JM Vince,JR Philippe,TS Rogers,1,0,,,,,,"",""
+ball,2,7.1,Sydney Sixers,JM Vince,JR Philippe,JS Paris,0,1,1,,,,,"",""
+ball,2,7.2,Sydney Sixers,JM Vince,JR Philippe,JS Paris,0,0,,,,,,caught,JM Vince
+ball,2,7.3,Sydney Sixers,JR Philippe,MC Henriques,JS Paris,0,0,,,,,,"",""
+ball,2,7.4,Sydney Sixers,JR Philippe,MC Henriques,JS Paris,0,0,,,,,,"",""
+ball,2,7.5,Sydney Sixers,JR Philippe,MC Henriques,JS Paris,4,0,,,,,,"",""
+ball,2,7.6,Sydney Sixers,JR Philippe,MC Henriques,JS Paris,0,0,,,,,,"",""
+ball,2,7.7,Sydney Sixers,JR Philippe,MC Henriques,JS Paris,1,0,,,,,,"",""
+ball,2,8.1,Sydney Sixers,JR Philippe,MC Henriques,TH David,1,0,,,,,,"",""
+ball,2,8.2,Sydney Sixers,MC Henriques,JR Philippe,TH David,1,0,,,,,,"",""
+ball,2,8.3,Sydney Sixers,JR Philippe,MC Henriques,TH David,1,0,,,,,,"",""
+ball,2,8.4,Sydney Sixers,MC Henriques,JR Philippe,TH David,1,0,,,,,,"",""
+ball,2,8.5,Sydney Sixers,JR Philippe,MC Henriques,TH David,1,0,,,,,,"",""
+ball,2,8.6,Sydney Sixers,MC Henriques,JR Philippe,TH David,0,0,,,,,,"",""
+ball,2,9.1,Sydney Sixers,JR Philippe,MC Henriques,S Lamichhane,1,0,,,,,,"",""
+ball,2,9.2,Sydney Sixers,MC Henriques,JR Philippe,S Lamichhane,0,0,,,,,,"",""
+ball,2,9.3,Sydney Sixers,MC Henriques,JR Philippe,S Lamichhane,1,0,,,,,,"",""
+ball,2,9.4,Sydney Sixers,JR Philippe,MC Henriques,S Lamichhane,1,0,,,,,,"",""
+ball,2,9.5,Sydney Sixers,MC Henriques,JR Philippe,S Lamichhane,1,0,,,,,,"",""
+ball,2,9.6,Sydney Sixers,JR Philippe,MC Henriques,S Lamichhane,1,0,,,,,,"",""
+ball,2,10.1,Sydney Sixers,JR Philippe,MC Henriques,TS Rogers,2,0,,,,,,"",""
+ball,2,10.2,Sydney Sixers,JR Philippe,MC Henriques,TS Rogers,1,0,,,,,,"",""
+ball,2,10.3,Sydney Sixers,MC Henriques,JR Philippe,TS Rogers,1,0,,,,,,"",""
+ball,2,10.4,Sydney Sixers,JR Philippe,MC Henriques,TS Rogers,1,0,,,,,,"",""
+ball,2,10.5,Sydney Sixers,MC Henriques,JR Philippe,TS Rogers,1,0,,,,,,"",""
+ball,2,10.6,Sydney Sixers,JR Philippe,MC Henriques,TS Rogers,6,0,,,,,,"",""
+ball,2,11.1,Sydney Sixers,MC Henriques,JR Philippe,NT Ellis,0,0,,,,,,"",""
+ball,2,11.2,Sydney Sixers,MC Henriques,JR Philippe,NT Ellis,2,0,,,,,,"",""
+ball,2,11.3,Sydney Sixers,MC Henriques,JR Philippe,NT Ellis,0,1,1,,,,,"",""
+ball,2,11.4,Sydney Sixers,MC Henriques,JR Philippe,NT Ellis,1,0,,,,,,"",""
+ball,2,11.5,Sydney Sixers,JR Philippe,MC Henriques,NT Ellis,0,1,1,,,,,"",""
+ball,2,11.6,Sydney Sixers,JR Philippe,MC Henriques,NT Ellis,0,1,1,,,,,"",""
+ball,2,11.7,Sydney Sixers,JR Philippe,MC Henriques,NT Ellis,6,0,,,,,,"",""
+ball,2,11.8,Sydney Sixers,JR Philippe,MC Henriques,NT Ellis,2,0,,,,,,"",""
+ball,2,11.9,Sydney Sixers,JR Philippe,MC Henriques,NT Ellis,1,0,,,,,,"",""
+ball,2,12.1,Sydney Sixers,JR Philippe,MC Henriques,S Lamichhane,0,0,,,,,,"",""
+ball,2,12.2,Sydney Sixers,JR Philippe,MC Henriques,S Lamichhane,2,0,,,,,,"",""
+ball,2,12.3,Sydney Sixers,JR Philippe,MC Henriques,S Lamichhane,1,0,,,,,,"",""
+ball,2,12.4,Sydney Sixers,MC Henriques,JR Philippe,S Lamichhane,0,0,,,,,,"",""
+ball,2,12.5,Sydney Sixers,MC Henriques,JR Philippe,S Lamichhane,0,1,,,,1,,"",""
+ball,2,12.6,Sydney Sixers,JR Philippe,MC Henriques,S Lamichhane,0,0,,,,,,"",""
+ball,2,13.1,Sydney Sixers,MC Henriques,JR Philippe,JS Paris,4,0,,,,,,"",""
+ball,2,13.2,Sydney Sixers,MC Henriques,JR Philippe,JS Paris,1,0,,,,,,"",""
+ball,2,13.3,Sydney Sixers,JR Philippe,MC Henriques,JS Paris,2,0,,,,,,"",""
+ball,2,13.4,Sydney Sixers,JR Philippe,MC Henriques,JS Paris,4,0,,,,,,"",""
+ball,2,13.5,Sydney Sixers,JR Philippe,MC Henriques,JS Paris,0,0,,,,,,caught,JR Philippe
+ball,2,13.6,Sydney Sixers,MC Henriques,DT Christian,JS Paris,1,0,,,,,,"",""
+ball,2,14.1,Sydney Sixers,MC Henriques,DT Christian,S Lamichhane,0,1,,,,1,,"",""
+ball,2,14.2,Sydney Sixers,DT Christian,MC Henriques,S Lamichhane,1,0,,,,,,"",""
+ball,2,14.3,Sydney Sixers,MC Henriques,DT Christian,S Lamichhane,2,0,,,,,,"",""
+ball,2,14.4,Sydney Sixers,MC Henriques,DT Christian,S Lamichhane,1,0,,,,,,"",""
+ball,2,14.5,Sydney Sixers,DT Christian,MC Henriques,S Lamichhane,0,0,,,,,,"",""
+ball,2,14.6,Sydney Sixers,DT Christian,MC Henriques,S Lamichhane,4,0,,,,,,"",""
+ball,2,15.1,Sydney Sixers,MC Henriques,DT Christian,NT Ellis,1,0,,,,,,"",""
+ball,2,15.2,Sydney Sixers,DT Christian,MC Henriques,NT Ellis,4,0,,,,,,"",""
+ball,2,15.3,Sydney Sixers,DT Christian,MC Henriques,NT Ellis,2,0,,,,,,"",""
+ball,2,15.4,Sydney Sixers,DT Christian,MC Henriques,NT Ellis,0,0,,,,,,"",""
+ball,2,15.5,Sydney Sixers,DT Christian,MC Henriques,NT Ellis,0,0,,,,,,"",""
+ball,2,15.6,Sydney Sixers,DT Christian,MC Henriques,NT Ellis,1,0,,,,,,"",""
+ball,2,16.1,Sydney Sixers,DT Christian,MC Henriques,JS Paris,0,0,,,,,,bowled,DT Christian
+ball,2,16.2,Sydney Sixers,DP Hughes,MC Henriques,JS Paris,1,0,,,,,,"",""
+ball,2,16.3,Sydney Sixers,MC Henriques,DP Hughes,JS Paris,4,0,,,,,,"",""
+ball,2,16.4,Sydney Sixers,MC Henriques,DP Hughes,JS Paris,2,0,,,,,,"",""
+ball,2,16.5,Sydney Sixers,MC Henriques,DP Hughes,JS Paris,0,0,,,,,,"",""
+ball,2,16.6,Sydney Sixers,MC Henriques,DP Hughes,JS Paris,0,0,,,,,,"",""
+ball,2,17.1,Sydney Sixers,DP Hughes,MC Henriques,NT Ellis,1,0,,,,,,"",""
+ball,2,17.2,Sydney Sixers,MC Henriques,DP Hughes,NT Ellis,1,0,,,,,,"",""
+ball,2,17.3,Sydney Sixers,DP Hughes,MC Henriques,NT Ellis,0,0,,,,,,caught,DP Hughes
+ball,2,17.4,Sydney Sixers,TK Curran,MC Henriques,NT Ellis,0,0,,,,,,"",""
+ball,2,17.5,Sydney Sixers,TK Curran,MC Henriques,NT Ellis,2,0,,,,,,"",""
+ball,2,17.6,Sydney Sixers,TK Curran,MC Henriques,NT Ellis,4,0,,,,,,"",""

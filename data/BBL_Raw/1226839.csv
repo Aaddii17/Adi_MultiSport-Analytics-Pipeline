@@ -1,0 +1,283 @@
+version,1.6.0
+info,balls_per_over,6
+info,team,Melbourne Stars
+info,team,Adelaide Strikers
+info,gender,male
+info,season,2020/21
+info,date,2021/01/15
+info,event,Big Bash League
+info,match_number,40
+info,venue,Melbourne Cricket Ground
+info,city,Melbourne
+info,toss_winner,Adelaide Strikers
+info,toss_decision,field
+info,player_of_match,ADS Fletcher
+info,umpire,SJ Nogajski
+info,umpire,SAJ Craig
+info,reserve_umpire,DR Close
+info,tv_umpire,MW Graham-Smith
+info,match_referee,RL Parry
+info,winner,Melbourne Stars
+info,winner_runs,111
+info,player,Melbourne Stars,ADS Fletcher
+info,player,Melbourne Stars,MP Stoinis
+info,player,Melbourne Stars,GJ Maxwell
+info,player,Melbourne Stars,HWR Cartwright
+info,player,Melbourne Stars,NCR Larkin
+info,player,Melbourne Stars,NJ Maddinson
+info,player,Melbourne Stars,SE Gotch
+info,player,Melbourne Stars,A Zampa
+info,player,Melbourne Stars,B Stanlake
+info,player,Melbourne Stars,Haris Rauf
+info,player,Melbourne Stars,Zahir Khan
+info,player,Adelaide Strikers,AT Carey
+info,player,Adelaide Strikers,PD Salt
+info,player,Adelaide Strikers,MT Renshaw
+info,player,Adelaide Strikers,JW Wells
+info,player,Adelaide Strikers,J Weatherald
+info,player,Adelaide Strikers,RJ Gibson
+info,player,Adelaide Strikers,C Valente
+info,player,Adelaide Strikers,DJ Worrall
+info,player,Adelaide Strikers,DR Briggs
+info,player,Adelaide Strikers,WA Agar
+info,player,Adelaide Strikers,LN O'Connor
+info,registry,people,A Zampa,14f96089
+info,registry,people,ADS Fletcher,1bae756b
+info,registry,people,AT Carey,69d03465
+info,registry,people,B Stanlake,6834d1f2
+info,registry,people,C Valente,137e7065
+info,registry,people,DJ Worrall,208f22ea
+info,registry,people,DR Briggs,f3abd0c9
+info,registry,people,DR Close,4cae2b0c
+info,registry,people,GJ Maxwell,b681e71e
+info,registry,people,HWR Cartwright,ab965cad
+info,registry,people,Haris Rauf,24bb1c2f
+info,registry,people,J Weatherald,edc7ddb6
+info,registry,people,JW Wells,8bdac857
+info,registry,people,LN O'Connor,5456bd0c
+info,registry,people,MP Stoinis,d9273ee7
+info,registry,people,MT Renshaw,218d4d78
+info,registry,people,MW Graham-Smith,18aca3ce
+info,registry,people,NCR Larkin,02bce9a8
+info,registry,people,NJ Maddinson,44afbf2d
+info,registry,people,PD Salt,3d284ca3
+info,registry,people,RJ Gibson,50636767
+info,registry,people,RL Parry,86d151dc
+info,registry,people,SAJ Craig,689f2eed
+info,registry,people,SE Gotch,9a0e4ca5
+info,registry,people,SJ Nogajski,9b3f9323
+info,registry,people,TL O'Connell,859d95bb
+info,registry,people,WA Agar,15de1f5d
+info,registry,people,Zahir Khan,786b7fe8
+ball,1,0.1,Melbourne Stars,ADS Fletcher,MP Stoinis,C Valente,1,0,,,,,,"",""
+ball,1,0.2,Melbourne Stars,MP Stoinis,ADS Fletcher,C Valente,1,0,,,,,,"",""
+ball,1,0.3,Melbourne Stars,ADS Fletcher,MP Stoinis,C Valente,1,0,,,,,,"",""
+ball,1,0.4,Melbourne Stars,MP Stoinis,ADS Fletcher,C Valente,1,0,,,,,,"",""
+ball,1,0.5,Melbourne Stars,ADS Fletcher,MP Stoinis,C Valente,0,0,,,,,,"",""
+ball,1,0.6,Melbourne Stars,ADS Fletcher,MP Stoinis,C Valente,4,0,,,,,,"",""
+ball,1,1.1,Melbourne Stars,MP Stoinis,ADS Fletcher,DJ Worrall,0,0,,,,,,"",""
+ball,1,1.2,Melbourne Stars,MP Stoinis,ADS Fletcher,DJ Worrall,0,0,,,,,,"",""
+ball,1,1.3,Melbourne Stars,MP Stoinis,ADS Fletcher,DJ Worrall,0,0,,,,,,"",""
+ball,1,1.4,Melbourne Stars,MP Stoinis,ADS Fletcher,DJ Worrall,0,0,,,,,,"",""
+ball,1,1.5,Melbourne Stars,MP Stoinis,ADS Fletcher,DJ Worrall,0,0,,,,,,"",""
+ball,1,1.6,Melbourne Stars,MP Stoinis,ADS Fletcher,DJ Worrall,1,0,,,,,,"",""
+ball,1,2.1,Melbourne Stars,MP Stoinis,ADS Fletcher,WA Agar,2,0,,,,,,"",""
+ball,1,2.2,Melbourne Stars,MP Stoinis,ADS Fletcher,WA Agar,0,0,,,,,,"",""
+ball,1,2.3,Melbourne Stars,MP Stoinis,ADS Fletcher,WA Agar,0,0,,,,,,"",""
+ball,1,2.4,Melbourne Stars,MP Stoinis,ADS Fletcher,WA Agar,1,0,,,,,,"",""
+ball,1,2.5,Melbourne Stars,ADS Fletcher,MP Stoinis,WA Agar,0,0,,,,,,"",""
+ball,1,2.6,Melbourne Stars,ADS Fletcher,MP Stoinis,WA Agar,4,0,,,,,,"",""
+ball,1,3.1,Melbourne Stars,MP Stoinis,ADS Fletcher,DJ Worrall,2,0,,,,,,"",""
+ball,1,3.2,Melbourne Stars,MP Stoinis,ADS Fletcher,DJ Worrall,0,0,,,,,,"",""
+ball,1,3.3,Melbourne Stars,MP Stoinis,ADS Fletcher,DJ Worrall,0,0,,,,,,"",""
+ball,1,3.4,Melbourne Stars,MP Stoinis,ADS Fletcher,DJ Worrall,0,1,1,,,,,"",""
+ball,1,3.5,Melbourne Stars,MP Stoinis,ADS Fletcher,DJ Worrall,0,0,,,,,,"",""
+ball,1,3.6,Melbourne Stars,MP Stoinis,ADS Fletcher,DJ Worrall,0,4,,,4,,,"",""
+ball,1,3.7,Melbourne Stars,MP Stoinis,ADS Fletcher,DJ Worrall,0,0,,,,,,"",""
+ball,1,4.1,Melbourne Stars,ADS Fletcher,MP Stoinis,C Valente,2,0,,,,,,"",""
+ball,1,4.2,Melbourne Stars,ADS Fletcher,MP Stoinis,C Valente,1,0,,,,,,"",""
+ball,1,4.3,Melbourne Stars,MP Stoinis,ADS Fletcher,C Valente,1,0,,,,,,"",""
+ball,1,4.4,Melbourne Stars,ADS Fletcher,MP Stoinis,C Valente,4,0,,,,,,"",""
+ball,1,4.5,Melbourne Stars,ADS Fletcher,MP Stoinis,C Valente,1,0,,,,,,"",""
+ball,1,4.6,Melbourne Stars,MP Stoinis,ADS Fletcher,C Valente,0,0,,,,,,"",""
+ball,1,5.1,Melbourne Stars,ADS Fletcher,MP Stoinis,LN O'Connor,0,0,,,,,,"",""
+ball,1,5.2,Melbourne Stars,ADS Fletcher,MP Stoinis,LN O'Connor,1,0,,,,,,"",""
+ball,1,5.3,Melbourne Stars,MP Stoinis,ADS Fletcher,LN O'Connor,1,0,,,,,,"",""
+ball,1,5.4,Melbourne Stars,ADS Fletcher,MP Stoinis,LN O'Connor,0,0,,,,,,"",""
+ball,1,5.5,Melbourne Stars,ADS Fletcher,MP Stoinis,LN O'Connor,1,0,,,,,,"",""
+ball,1,5.6,Melbourne Stars,MP Stoinis,ADS Fletcher,LN O'Connor,1,0,,,,,,"",""
+ball,1,6.1,Melbourne Stars,MP Stoinis,ADS Fletcher,DR Briggs,0,1,,,,1,,"",""
+ball,1,6.2,Melbourne Stars,ADS Fletcher,MP Stoinis,DR Briggs,1,0,,,,,,"",""
+ball,1,6.3,Melbourne Stars,MP Stoinis,ADS Fletcher,DR Briggs,0,0,,,,,,"",""
+ball,1,6.4,Melbourne Stars,MP Stoinis,ADS Fletcher,DR Briggs,2,0,,,,,,"",""
+ball,1,6.5,Melbourne Stars,MP Stoinis,ADS Fletcher,DR Briggs,0,1,1,,,,,"",""
+ball,1,6.6,Melbourne Stars,MP Stoinis,ADS Fletcher,DR Briggs,0,0,,,,,,caught,MP Stoinis
+ball,1,6.7,Melbourne Stars,GJ Maxwell,ADS Fletcher,DR Briggs,0,0,,,,,,"",""
+ball,1,7.1,Melbourne Stars,ADS Fletcher,GJ Maxwell,WA Agar,1,0,,,,,,"",""
+ball,1,7.2,Melbourne Stars,GJ Maxwell,ADS Fletcher,WA Agar,2,0,,,,,,"",""
+ball,1,7.3,Melbourne Stars,GJ Maxwell,ADS Fletcher,WA Agar,0,0,,,,,,"",""
+ball,1,7.4,Melbourne Stars,GJ Maxwell,ADS Fletcher,WA Agar,0,0,,,,,,"",""
+ball,1,7.5,Melbourne Stars,GJ Maxwell,ADS Fletcher,WA Agar,0,0,,,,,,"",""
+ball,1,7.6,Melbourne Stars,GJ Maxwell,ADS Fletcher,WA Agar,0,0,,,,,,"",""
+ball,1,8.1,Melbourne Stars,ADS Fletcher,GJ Maxwell,DR Briggs,2,0,,,,,,"",""
+ball,1,8.2,Melbourne Stars,ADS Fletcher,GJ Maxwell,DR Briggs,1,0,,,,,,"",""
+ball,1,8.3,Melbourne Stars,GJ Maxwell,ADS Fletcher,DR Briggs,1,0,,,,,,"",""
+ball,1,8.4,Melbourne Stars,ADS Fletcher,GJ Maxwell,DR Briggs,0,0,,,,,,"",""
+ball,1,8.5,Melbourne Stars,ADS Fletcher,GJ Maxwell,DR Briggs,0,0,,,,,,"",""
+ball,1,8.6,Melbourne Stars,ADS Fletcher,GJ Maxwell,DR Briggs,1,0,,,,,,"",""
+ball,1,9.1,Melbourne Stars,ADS Fletcher,GJ Maxwell,LN O'Connor,0,0,,,,,,"",""
+ball,1,9.2,Melbourne Stars,ADS Fletcher,GJ Maxwell,LN O'Connor,1,0,,,,,,"",""
+ball,1,9.3,Melbourne Stars,GJ Maxwell,ADS Fletcher,LN O'Connor,1,0,,,,,,"",""
+ball,1,9.4,Melbourne Stars,ADS Fletcher,GJ Maxwell,LN O'Connor,4,0,,,,,,"",""
+ball,1,9.5,Melbourne Stars,ADS Fletcher,GJ Maxwell,LN O'Connor,1,0,,,,,,"",""
+ball,1,9.6,Melbourne Stars,GJ Maxwell,ADS Fletcher,LN O'Connor,1,0,,,,,,"",""
+ball,1,10.1,Melbourne Stars,GJ Maxwell,ADS Fletcher,C Valente,0,0,,,,,,"",""
+ball,1,10.2,Melbourne Stars,GJ Maxwell,ADS Fletcher,C Valente,4,0,,,,,,"",""
+ball,1,10.3,Melbourne Stars,GJ Maxwell,ADS Fletcher,C Valente,1,0,,,,,,"",""
+ball,1,10.4,Melbourne Stars,ADS Fletcher,GJ Maxwell,C Valente,1,0,,,,,,"",""
+ball,1,10.5,Melbourne Stars,GJ Maxwell,ADS Fletcher,C Valente,6,0,,,,,,"",""
+ball,1,10.6,Melbourne Stars,GJ Maxwell,ADS Fletcher,C Valente,1,0,,,,,,"",""
+ball,1,11.1,Melbourne Stars,GJ Maxwell,ADS Fletcher,LN O'Connor,0,1,,,1,,,"",""
+ball,1,11.2,Melbourne Stars,ADS Fletcher,GJ Maxwell,LN O'Connor,1,0,,,,,,"",""
+ball,1,11.3,Melbourne Stars,GJ Maxwell,ADS Fletcher,LN O'Connor,1,0,,,,,,"",""
+ball,1,11.4,Melbourne Stars,ADS Fletcher,GJ Maxwell,LN O'Connor,1,0,,,,,,"",""
+ball,1,11.5,Melbourne Stars,GJ Maxwell,ADS Fletcher,LN O'Connor,1,0,,,,,,"",""
+ball,1,11.6,Melbourne Stars,ADS Fletcher,GJ Maxwell,LN O'Connor,6,0,,,,,,"",""
+ball,1,12.1,Melbourne Stars,GJ Maxwell,ADS Fletcher,DJ Worrall,1,0,,,,,,"",""
+ball,1,12.2,Melbourne Stars,ADS Fletcher,GJ Maxwell,DJ Worrall,1,0,,,,,,"",""
+ball,1,12.3,Melbourne Stars,GJ Maxwell,ADS Fletcher,DJ Worrall,4,0,,,,,,"",""
+ball,1,12.4,Melbourne Stars,GJ Maxwell,ADS Fletcher,DJ Worrall,1,0,,,,,,"",""
+ball,1,12.5,Melbourne Stars,ADS Fletcher,GJ Maxwell,DJ Worrall,1,0,,,,,,"",""
+ball,1,12.6,Melbourne Stars,GJ Maxwell,ADS Fletcher,DJ Worrall,1,0,,,,,,"",""
+ball,1,13.1,Melbourne Stars,GJ Maxwell,ADS Fletcher,DR Briggs,2,0,,,,,,"",""
+ball,1,13.2,Melbourne Stars,GJ Maxwell,ADS Fletcher,DR Briggs,4,0,,,,,,"",""
+ball,1,13.3,Melbourne Stars,GJ Maxwell,ADS Fletcher,DR Briggs,0,1,1,,,,,"",""
+ball,1,13.4,Melbourne Stars,GJ Maxwell,ADS Fletcher,DR Briggs,2,0,,,,,,"",""
+ball,1,13.5,Melbourne Stars,GJ Maxwell,ADS Fletcher,DR Briggs,0,0,,,,,,"",""
+ball,1,13.6,Melbourne Stars,GJ Maxwell,ADS Fletcher,DR Briggs,2,0,,,,,,"",""
+ball,1,13.7,Melbourne Stars,GJ Maxwell,ADS Fletcher,DR Briggs,1,0,,,,,,"",""
+ball,1,14.1,Melbourne Stars,GJ Maxwell,ADS Fletcher,C Valente,0,0,,,,,,caught,GJ Maxwell
+ball,1,14.2,Melbourne Stars,ADS Fletcher,HWR Cartwright,C Valente,2,0,,,,,,"",""
+ball,1,14.3,Melbourne Stars,ADS Fletcher,HWR Cartwright,C Valente,2,0,,,,,,"",""
+ball,1,14.4,Melbourne Stars,ADS Fletcher,HWR Cartwright,C Valente,1,0,,,,,,"",""
+ball,1,14.5,Melbourne Stars,HWR Cartwright,ADS Fletcher,C Valente,0,0,,,,,,"",""
+ball,1,14.6,Melbourne Stars,HWR Cartwright,ADS Fletcher,C Valente,1,0,,,,,,"",""
+ball,1,15.1,Melbourne Stars,HWR Cartwright,ADS Fletcher,LN O'Connor,1,0,,,,,,"",""
+ball,1,15.2,Melbourne Stars,ADS Fletcher,HWR Cartwright,LN O'Connor,1,0,,,,,,"",""
+ball,1,15.3,Melbourne Stars,HWR Cartwright,ADS Fletcher,LN O'Connor,0,0,,,,,,"",""
+ball,1,15.4,Melbourne Stars,HWR Cartwright,ADS Fletcher,LN O'Connor,0,0,,,,,,"",""
+ball,1,15.5,Melbourne Stars,HWR Cartwright,ADS Fletcher,LN O'Connor,1,0,,,,,,"",""
+ball,1,15.6,Melbourne Stars,ADS Fletcher,HWR Cartwright,LN O'Connor,1,0,,,,,,"",""
+ball,1,16.1,Melbourne Stars,ADS Fletcher,HWR Cartwright,WA Agar,2,0,,,,,,"",""
+ball,1,16.2,Melbourne Stars,ADS Fletcher,HWR Cartwright,WA Agar,4,0,,,,,,"",""
+ball,1,16.3,Melbourne Stars,ADS Fletcher,HWR Cartwright,WA Agar,6,0,,,,,,"",""
+ball,1,16.4,Melbourne Stars,ADS Fletcher,HWR Cartwright,WA Agar,4,0,,,,,,"",""
+ball,1,16.5,Melbourne Stars,ADS Fletcher,HWR Cartwright,WA Agar,0,0,,,,,,"",""
+ball,1,16.6,Melbourne Stars,ADS Fletcher,HWR Cartwright,WA Agar,2,0,,,,,,"",""
+ball,1,17.1,Melbourne Stars,HWR Cartwright,ADS Fletcher,DJ Worrall,1,0,,,,,,"",""
+ball,1,17.2,Melbourne Stars,ADS Fletcher,HWR Cartwright,DJ Worrall,4,0,,,,,,"",""
+ball,1,17.3,Melbourne Stars,ADS Fletcher,HWR Cartwright,DJ Worrall,0,0,,,,,,"",""
+ball,1,17.4,Melbourne Stars,ADS Fletcher,HWR Cartwright,DJ Worrall,0,0,,,,,,"",""
+ball,1,17.5,Melbourne Stars,ADS Fletcher,HWR Cartwright,DJ Worrall,4,0,,,,,,"",""
+ball,1,17.6,Melbourne Stars,ADS Fletcher,HWR Cartwright,DJ Worrall,6,0,,,,,,"",""
+ball,1,18.1,Melbourne Stars,HWR Cartwright,ADS Fletcher,WA Agar,2,0,,,,,,"",""
+ball,1,18.2,Melbourne Stars,HWR Cartwright,ADS Fletcher,WA Agar,0,0,,,,,,"",""
+ball,1,18.3,Melbourne Stars,HWR Cartwright,ADS Fletcher,WA Agar,0,0,,,,,,"",""
+ball,1,18.4,Melbourne Stars,HWR Cartwright,ADS Fletcher,WA Agar,6,0,,,,,,"",""
+ball,1,18.5,Melbourne Stars,HWR Cartwright,ADS Fletcher,WA Agar,6,0,,,,,,"",""
+ball,1,18.6,Melbourne Stars,HWR Cartwright,ADS Fletcher,WA Agar,4,0,,,,,,"",""
+ball,1,19.1,Melbourne Stars,ADS Fletcher,HWR Cartwright,DR Briggs,1,0,,,,,,"",""
+ball,1,19.2,Melbourne Stars,HWR Cartwright,ADS Fletcher,DR Briggs,2,0,,,,,,"",""
+ball,1,19.3,Melbourne Stars,HWR Cartwright,ADS Fletcher,DR Briggs,4,0,,,,,,"",""
+ball,1,19.4,Melbourne Stars,HWR Cartwright,ADS Fletcher,DR Briggs,2,0,,,,,,"",""
+ball,1,19.5,Melbourne Stars,HWR Cartwright,ADS Fletcher,DR Briggs,0,1,,,,1,,"",""
+ball,1,19.6,Melbourne Stars,ADS Fletcher,HWR Cartwright,DR Briggs,6,0,,,,,,"",""
+ball,2,0.1,Adelaide Strikers,AT Carey,PD Salt,GJ Maxwell,0,0,,,,,,"",""
+ball,2,0.2,Adelaide Strikers,AT Carey,PD Salt,GJ Maxwell,1,0,,,,,,"",""
+ball,2,0.3,Adelaide Strikers,PD Salt,AT Carey,GJ Maxwell,0,0,,,,,,"",""
+ball,2,0.4,Adelaide Strikers,PD Salt,AT Carey,GJ Maxwell,0,0,,,,,,"",""
+ball,2,0.5,Adelaide Strikers,PD Salt,AT Carey,GJ Maxwell,0,0,,,,,,"",""
+ball,2,0.6,Adelaide Strikers,PD Salt,AT Carey,GJ Maxwell,1,0,,,,,,"",""
+ball,2,1.1,Adelaide Strikers,PD Salt,AT Carey,Zahir Khan,4,0,,,,,,"",""
+ball,2,1.2,Adelaide Strikers,PD Salt,AT Carey,Zahir Khan,0,0,,,,,,"",""
+ball,2,1.3,Adelaide Strikers,PD Salt,AT Carey,Zahir Khan,0,0,,,,,,"",""
+ball,2,1.4,Adelaide Strikers,PD Salt,AT Carey,Zahir Khan,0,0,,,,,,caught,PD Salt
+ball,2,1.5,Adelaide Strikers,MT Renshaw,AT Carey,Zahir Khan,1,0,,,,,,"",""
+ball,2,1.6,Adelaide Strikers,AT Carey,MT Renshaw,Zahir Khan,0,0,,,,,,"",""
+ball,2,2.1,Adelaide Strikers,MT Renshaw,AT Carey,GJ Maxwell,1,0,,,,,,"",""
+ball,2,2.2,Adelaide Strikers,AT Carey,MT Renshaw,GJ Maxwell,0,0,,,,,,"",""
+ball,2,2.3,Adelaide Strikers,AT Carey,MT Renshaw,GJ Maxwell,0,0,,,,,,"",""
+ball,2,2.4,Adelaide Strikers,AT Carey,MT Renshaw,GJ Maxwell,0,0,,,,,,bowled,AT Carey
+ball,2,2.5,Adelaide Strikers,JW Wells,MT Renshaw,GJ Maxwell,1,0,,,,,,"",""
+ball,2,2.6,Adelaide Strikers,MT Renshaw,JW Wells,GJ Maxwell,1,0,,,,,,"",""
+ball,2,3.1,Adelaide Strikers,MT Renshaw,JW Wells,B Stanlake,0,1,1,,,,,"",""
+ball,2,3.2,Adelaide Strikers,MT Renshaw,JW Wells,B Stanlake,0,0,,,,,,"",""
+ball,2,3.3,Adelaide Strikers,MT Renshaw,JW Wells,B Stanlake,0,0,,,,,,"",""
+ball,2,3.4,Adelaide Strikers,MT Renshaw,JW Wells,B Stanlake,0,0,,,,,,"",""
+ball,2,3.5,Adelaide Strikers,MT Renshaw,JW Wells,B Stanlake,0,0,,,,,,"",""
+ball,2,3.6,Adelaide Strikers,MT Renshaw,JW Wells,B Stanlake,4,0,,,,,,"",""
+ball,2,3.7,Adelaide Strikers,MT Renshaw,JW Wells,B Stanlake,0,0,,,,,,"",""
+ball,2,4.1,Adelaide Strikers,JW Wells,MT Renshaw,GJ Maxwell,2,0,,,,,,"",""
+ball,2,4.2,Adelaide Strikers,JW Wells,MT Renshaw,GJ Maxwell,0,0,,,,,,"",""
+ball,2,4.3,Adelaide Strikers,JW Wells,MT Renshaw,GJ Maxwell,0,0,,,,,,"",""
+ball,2,4.4,Adelaide Strikers,JW Wells,MT Renshaw,GJ Maxwell,0,0,,,,,,"",""
+ball,2,4.5,Adelaide Strikers,JW Wells,MT Renshaw,GJ Maxwell,0,0,,,,,,"",""
+ball,2,4.6,Adelaide Strikers,JW Wells,MT Renshaw,GJ Maxwell,1,0,,,,,,"",""
+ball,2,5.1,Adelaide Strikers,JW Wells,MT Renshaw,A Zampa,1,0,,,,,,"",""
+ball,2,5.2,Adelaide Strikers,MT Renshaw,JW Wells,A Zampa,1,0,,,,,,"",""
+ball,2,5.3,Adelaide Strikers,JW Wells,MT Renshaw,A Zampa,1,0,,,,,,"",""
+ball,2,5.4,Adelaide Strikers,MT Renshaw,JW Wells,A Zampa,1,0,,,,,,"",""
+ball,2,5.5,Adelaide Strikers,JW Wells,MT Renshaw,A Zampa,1,0,,,,,,"",""
+ball,2,5.6,Adelaide Strikers,MT Renshaw,JW Wells,A Zampa,1,0,,,,,,"",""
+ball,2,6.1,Adelaide Strikers,MT Renshaw,JW Wells,Zahir Khan,0,0,,,,,,"",""
+ball,2,6.2,Adelaide Strikers,MT Renshaw,JW Wells,Zahir Khan,0,0,,,,,,"",""
+ball,2,6.3,Adelaide Strikers,MT Renshaw,JW Wells,Zahir Khan,0,0,,,,,,"",""
+ball,2,6.4,Adelaide Strikers,MT Renshaw,JW Wells,Zahir Khan,1,0,,,,,,"",""
+ball,2,6.5,Adelaide Strikers,JW Wells,MT Renshaw,Zahir Khan,0,0,,,,,,"",""
+ball,2,6.6,Adelaide Strikers,JW Wells,MT Renshaw,Zahir Khan,1,0,,,,,,"",""
+ball,2,7.1,Adelaide Strikers,JW Wells,MT Renshaw,Haris Rauf,2,0,,,,,,"",""
+ball,2,7.2,Adelaide Strikers,JW Wells,MT Renshaw,Haris Rauf,1,0,,,,,,"",""
+ball,2,7.3,Adelaide Strikers,MT Renshaw,JW Wells,Haris Rauf,2,0,,,,,,"",""
+ball,2,7.4,Adelaide Strikers,MT Renshaw,JW Wells,Haris Rauf,0,0,,,,,,"",""
+ball,2,7.5,Adelaide Strikers,MT Renshaw,JW Wells,Haris Rauf,4,0,,,,,,"",""
+ball,2,7.6,Adelaide Strikers,MT Renshaw,JW Wells,Haris Rauf,1,0,,,,,,"",""
+ball,2,8.1,Adelaide Strikers,MT Renshaw,JW Wells,Zahir Khan,1,0,,,,,,"",""
+ball,2,8.2,Adelaide Strikers,JW Wells,MT Renshaw,Zahir Khan,0,0,,,,,,"",""
+ball,2,8.3,Adelaide Strikers,JW Wells,MT Renshaw,Zahir Khan,2,0,,,,,,"",""
+ball,2,8.4,Adelaide Strikers,JW Wells,MT Renshaw,Zahir Khan,0,1,1,,,,,"",""
+ball,2,8.5,Adelaide Strikers,JW Wells,MT Renshaw,Zahir Khan,0,0,,,,,,"",""
+ball,2,8.6,Adelaide Strikers,JW Wells,MT Renshaw,Zahir Khan,2,0,,,,,,"",""
+ball,2,8.7,Adelaide Strikers,JW Wells,MT Renshaw,Zahir Khan,0,0,,,,,,"",""
+ball,2,9.1,Adelaide Strikers,MT Renshaw,JW Wells,A Zampa,1,0,,,,,,"",""
+ball,2,9.2,Adelaide Strikers,JW Wells,MT Renshaw,A Zampa,1,0,,,,,,"",""
+ball,2,9.3,Adelaide Strikers,MT Renshaw,JW Wells,A Zampa,0,0,,,,,,caught,MT Renshaw
+ball,2,9.4,Adelaide Strikers,JW Wells,J Weatherald,A Zampa,1,0,,,,,,"",""
+ball,2,9.5,Adelaide Strikers,J Weatherald,JW Wells,A Zampa,0,0,,,,,,"",""
+ball,2,9.6,Adelaide Strikers,J Weatherald,JW Wells,A Zampa,4,0,,,,,,"",""
+ball,2,10.1,Adelaide Strikers,JW Wells,J Weatherald,GJ Maxwell,1,0,,,,,,"",""
+ball,2,10.2,Adelaide Strikers,J Weatherald,JW Wells,GJ Maxwell,0,0,,,,,,"",""
+ball,2,10.3,Adelaide Strikers,J Weatherald,JW Wells,GJ Maxwell,1,0,,,,,,"",""
+ball,2,10.4,Adelaide Strikers,JW Wells,J Weatherald,GJ Maxwell,0,0,,,,,,caught,JW Wells
+ball,2,10.5,Adelaide Strikers,J Weatherald,RJ Gibson,GJ Maxwell,1,0,,,,,,"",""
+ball,2,10.6,Adelaide Strikers,RJ Gibson,J Weatherald,GJ Maxwell,1,0,,,,,,"",""
+ball,2,11.1,Adelaide Strikers,RJ Gibson,J Weatherald,Zahir Khan,0,0,,,,,,caught,RJ Gibson
+ball,2,11.2,Adelaide Strikers,J Weatherald,C Valente,Zahir Khan,2,0,,,,,,"",""
+ball,2,11.3,Adelaide Strikers,J Weatherald,C Valente,Zahir Khan,0,1,1,,,,,"",""
+ball,2,11.4,Adelaide Strikers,J Weatherald,C Valente,Zahir Khan,1,0,,,,,,"",""
+ball,2,11.5,Adelaide Strikers,C Valente,J Weatherald,Zahir Khan,0,0,,,,,,"",""
+ball,2,11.6,Adelaide Strikers,C Valente,J Weatherald,Zahir Khan,1,0,,,,,,"",""
+ball,2,11.7,Adelaide Strikers,J Weatherald,C Valente,Zahir Khan,1,0,,,,,,"",""
+ball,2,12.1,Adelaide Strikers,J Weatherald,C Valente,A Zampa,0,0,,,,,,lbw,J Weatherald
+ball,2,12.2,Adelaide Strikers,DJ Worrall,C Valente,A Zampa,0,0,,,,,,"",""
+ball,2,12.3,Adelaide Strikers,DJ Worrall,C Valente,A Zampa,0,0,,,,,,"",""
+ball,2,12.4,Adelaide Strikers,DJ Worrall,C Valente,A Zampa,0,0,,,,,,caught,DJ Worrall
+ball,2,12.5,Adelaide Strikers,DR Briggs,C Valente,A Zampa,4,0,,,,,,"",""
+ball,2,12.6,Adelaide Strikers,DR Briggs,C Valente,A Zampa,0,0,,,,,,lbw,DR Briggs
+ball,2,13.1,Adelaide Strikers,C Valente,WA Agar,B Stanlake,0,0,,,,,,"",""
+ball,2,13.2,Adelaide Strikers,C Valente,WA Agar,B Stanlake,0,0,,,,,,"",""
+ball,2,13.3,Adelaide Strikers,C Valente,WA Agar,B Stanlake,0,0,,,,,,caught,C Valente
+ball,2,13.4,Adelaide Strikers,LN O'Connor,WA Agar,B Stanlake,1,0,,,,,,"",""
+ball,2,13.5,Adelaide Strikers,WA Agar,LN O'Connor,B Stanlake,3,0,,,,,,"",""
+ball,2,13.6,Adelaide Strikers,LN O'Connor,WA Agar,B Stanlake,1,0,,,,,,"",""
+ball,2,14.1,Adelaide Strikers,LN O'Connor,WA Agar,A Zampa,0,0,,,,,,"",""
+ball,2,14.2,Adelaide Strikers,LN O'Connor,WA Agar,A Zampa,0,0,,,,,,bowled,LN O'Connor

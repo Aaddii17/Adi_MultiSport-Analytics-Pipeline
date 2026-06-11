@@ -1,0 +1,315 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Hobart Hurricanes
+info,team,Sydney Sixers
+info,gender,male
+info,season,2024/25
+info,date,2025/01/21
+info,event,Big Bash League
+info,venue,"Bellerive Oval, Hobart"
+info,city,Hobart
+info,toss_winner,Sydney Sixers
+info,toss_decision,field
+info,player_of_match,RP Meredith
+info,umpire,SJ Nogajski
+info,umpire,SAJ Craig
+info,reserve_umpire,BC Treloar
+info,tv_umpire,GA Abood
+info,match_referee,Kepler Wessels
+info,winner,Hobart Hurricanes
+info,winner_runs,12
+info,player,Hobart Hurricanes,MJ Owen
+info,player,Hobart Hurricanes,CP Jewell
+info,player,Hobart Hurricanes,MS Wade
+info,player,Hobart Hurricanes,BR McDermott
+info,player,Hobart Hurricanes,TH David
+info,player,Hobart Hurricanes,Nikhil Chaudhary
+info,player,Hobart Hurricanes,CJ Jordan
+info,player,Hobart Hurricanes,NT Ellis
+info,player,Hobart Hurricanes,CJ Gannon
+info,player,Hobart Hurricanes,P Hatzoglou
+info,player,Hobart Hurricanes,RP Meredith
+info,player,Sydney Sixers,KR Patterson
+info,player,Sydney Sixers,JR Philippe
+info,player,Sydney Sixers,J Edwards
+info,player,Sydney Sixers,MC Henriques
+info,player,Sydney Sixers,JC Silk
+info,player,Sydney Sixers,L Shaw
+info,player,Sydney Sixers,BJ Dwarshuis
+info,player,Sydney Sixers,H Kerr
+info,player,Sydney Sixers,BAD Manenti
+info,player,Sydney Sixers,M Perry
+info,player,Sydney Sixers,JA Chohan
+info,registry,people,BAD Manenti,ab21795b
+info,registry,people,BC Treloar,f7e8ee52
+info,registry,people,BJ Dwarshuis,e1b9f3a9
+info,registry,people,BR McDermott,c41043e6
+info,registry,people,CJ Gannon,519c30cb
+info,registry,people,CJ Jordan,ffe699c0
+info,registry,people,CP Jewell,806c4e58
+info,registry,people,GA Abood,a4af5528
+info,registry,people,H Kerr,f422728b
+info,registry,people,J Edwards,f787e0eb
+info,registry,people,JA Chohan,58be5e46
+info,registry,people,JC Silk,7a6dc294
+info,registry,people,JR Philippe,39086549
+info,registry,people,KR Patterson,e3bf8356
+info,registry,people,Kepler Wessels,3bedaff0
+info,registry,people,L Shaw,b34e4b15
+info,registry,people,M Perry,442461fa
+info,registry,people,MC Henriques,32198ae0
+info,registry,people,MJ Owen,f2c936d7
+info,registry,people,MS Wade,afa7e784
+info,registry,people,NT Ellis,9eb1455b
+info,registry,people,Nikhil Chaudhary,1f84183a
+info,registry,people,P Hatzoglou,6f95e5fa
+info,registry,people,RP Meredith,64775749
+info,registry,people,SAJ Craig,689f2eed
+info,registry,people,SJ Nogajski,9b3f9323
+info,registry,people,TH David,f1f99156
+ball,1,0.1,Hobart Hurricanes,MJ Owen,CP Jewell,J Edwards,3,0,,,,,,"",""
+ball,1,0.2,Hobart Hurricanes,CP Jewell,MJ Owen,J Edwards,1,0,,,,,,"",""
+ball,1,0.3,Hobart Hurricanes,MJ Owen,CP Jewell,J Edwards,6,0,,,,,,"",""
+ball,1,0.4,Hobart Hurricanes,MJ Owen,CP Jewell,J Edwards,0,0,,,,,,"",""
+ball,1,0.5,Hobart Hurricanes,MJ Owen,CP Jewell,J Edwards,4,0,,,,,,"",""
+ball,1,0.6,Hobart Hurricanes,MJ Owen,CP Jewell,J Edwards,1,0,,,,,,"",""
+ball,1,1.1,Hobart Hurricanes,MJ Owen,CP Jewell,M Perry,1,0,,,,,,"",""
+ball,1,1.2,Hobart Hurricanes,CP Jewell,MJ Owen,M Perry,0,0,,,,,,"",""
+ball,1,1.3,Hobart Hurricanes,CP Jewell,MJ Owen,M Perry,1,0,,,,,,"",""
+ball,1,1.4,Hobart Hurricanes,MJ Owen,CP Jewell,M Perry,4,0,,,,,,"",""
+ball,1,1.5,Hobart Hurricanes,MJ Owen,CP Jewell,M Perry,6,0,,,,,,"",""
+ball,1,1.6,Hobart Hurricanes,MJ Owen,CP Jewell,M Perry,4,0,,,,,,"",""
+ball,1,2.1,Hobart Hurricanes,CP Jewell,MJ Owen,BJ Dwarshuis,4,0,,,,,,"",""
+ball,1,2.2,Hobart Hurricanes,CP Jewell,MJ Owen,BJ Dwarshuis,0,1,1,,,,,"",""
+ball,1,2.3,Hobart Hurricanes,CP Jewell,MJ Owen,BJ Dwarshuis,0,0,,,,,,"",""
+ball,1,2.4,Hobart Hurricanes,CP Jewell,MJ Owen,BJ Dwarshuis,1,0,,,,,,"",""
+ball,1,2.5,Hobart Hurricanes,MJ Owen,CP Jewell,BJ Dwarshuis,6,0,,,,,,"",""
+ball,1,2.6,Hobart Hurricanes,MJ Owen,CP Jewell,BJ Dwarshuis,0,0,,,,,,"",""
+ball,1,2.7,Hobart Hurricanes,MJ Owen,CP Jewell,BJ Dwarshuis,0,0,,,,,,"",""
+ball,1,3.1,Hobart Hurricanes,CP Jewell,MJ Owen,H Kerr,1,0,,,,,,"",""
+ball,1,3.2,Hobart Hurricanes,MJ Owen,CP Jewell,H Kerr,1,0,,,,,,"",""
+ball,1,3.3,Hobart Hurricanes,CP Jewell,MJ Owen,H Kerr,0,0,,,,,,"",""
+ball,1,3.4,Hobart Hurricanes,CP Jewell,MJ Owen,H Kerr,1,0,,,,,,"",""
+ball,1,3.5,Hobart Hurricanes,MJ Owen,CP Jewell,H Kerr,0,1,,,,1,,"",""
+ball,1,3.6,Hobart Hurricanes,CP Jewell,MJ Owen,H Kerr,0,0,,,,,,"",""
+ball,1,4.1,Hobart Hurricanes,MJ Owen,CP Jewell,JA Chohan,0,0,,,,,,caught,MJ Owen
+ball,1,4.2,Hobart Hurricanes,MS Wade,CP Jewell,JA Chohan,1,0,,,,,,"",""
+ball,1,4.3,Hobart Hurricanes,CP Jewell,MS Wade,JA Chohan,1,0,,,,,,"",""
+ball,1,4.4,Hobart Hurricanes,MS Wade,CP Jewell,JA Chohan,0,0,,,,,,"",""
+ball,1,4.5,Hobart Hurricanes,MS Wade,CP Jewell,JA Chohan,1,0,,,,,,"",""
+ball,1,4.6,Hobart Hurricanes,CP Jewell,MS Wade,JA Chohan,2,0,,,,,,"",""
+ball,1,5.1,Hobart Hurricanes,MS Wade,CP Jewell,BAD Manenti,1,0,,,,,,"",""
+ball,1,5.2,Hobart Hurricanes,CP Jewell,MS Wade,BAD Manenti,4,0,,,,,,"",""
+ball,1,5.3,Hobart Hurricanes,CP Jewell,MS Wade,BAD Manenti,1,0,,,,,,"",""
+ball,1,5.4,Hobart Hurricanes,MS Wade,CP Jewell,BAD Manenti,0,0,,,,,,"",""
+ball,1,5.5,Hobart Hurricanes,MS Wade,CP Jewell,BAD Manenti,1,0,,,,,,"",""
+ball,1,5.6,Hobart Hurricanes,CP Jewell,MS Wade,BAD Manenti,1,0,,,,,,"",""
+ball,1,6.1,Hobart Hurricanes,CP Jewell,MS Wade,M Perry,1,0,,,,,,"",""
+ball,1,6.2,Hobart Hurricanes,MS Wade,CP Jewell,M Perry,0,0,,,,,,caught,MS Wade
+ball,1,6.3,Hobart Hurricanes,BR McDermott,CP Jewell,M Perry,1,0,,,,,,"",""
+ball,1,6.4,Hobart Hurricanes,CP Jewell,BR McDermott,M Perry,1,0,,,,,,"",""
+ball,1,6.5,Hobart Hurricanes,BR McDermott,CP Jewell,M Perry,0,0,,,,,,"",""
+ball,1,6.6,Hobart Hurricanes,BR McDermott,CP Jewell,M Perry,0,0,,,,,,"",""
+ball,1,7.1,Hobart Hurricanes,CP Jewell,BR McDermott,JA Chohan,1,0,,,,,,"",""
+ball,1,7.2,Hobart Hurricanes,BR McDermott,CP Jewell,JA Chohan,0,0,,,,,,"",""
+ball,1,7.3,Hobart Hurricanes,BR McDermott,CP Jewell,JA Chohan,1,0,,,,,,"",""
+ball,1,7.4,Hobart Hurricanes,CP Jewell,BR McDermott,JA Chohan,1,0,,,,,,"",""
+ball,1,7.5,Hobart Hurricanes,BR McDermott,CP Jewell,JA Chohan,1,0,,,,,,"",""
+ball,1,7.6,Hobart Hurricanes,CP Jewell,BR McDermott,JA Chohan,1,0,,,,,,"",""
+ball,1,8.1,Hobart Hurricanes,CP Jewell,BR McDermott,H Kerr,1,0,,,,,,"",""
+ball,1,8.2,Hobart Hurricanes,BR McDermott,CP Jewell,H Kerr,1,0,,,,,,"",""
+ball,1,8.3,Hobart Hurricanes,CP Jewell,BR McDermott,H Kerr,2,0,,,,,,"",""
+ball,1,8.4,Hobart Hurricanes,CP Jewell,BR McDermott,H Kerr,0,0,,,,,,"",""
+ball,1,8.5,Hobart Hurricanes,CP Jewell,BR McDermott,H Kerr,2,0,,,,,,"",""
+ball,1,8.6,Hobart Hurricanes,CP Jewell,BR McDermott,H Kerr,1,0,,,,,,"",""
+ball,1,9.1,Hobart Hurricanes,CP Jewell,BR McDermott,J Edwards,0,0,,,,,,"",""
+ball,1,9.2,Hobart Hurricanes,CP Jewell,BR McDermott,J Edwards,1,0,,,,,,"",""
+ball,1,9.3,Hobart Hurricanes,BR McDermott,CP Jewell,J Edwards,2,0,,,,,,"",""
+ball,1,9.4,Hobart Hurricanes,BR McDermott,CP Jewell,J Edwards,2,0,,,,,,"",""
+ball,1,9.5,Hobart Hurricanes,BR McDermott,CP Jewell,J Edwards,1,0,,,,,,"",""
+ball,1,9.6,Hobart Hurricanes,CP Jewell,BR McDermott,J Edwards,0,0,,,,,,"",""
+ball,1,10.1,Hobart Hurricanes,BR McDermott,CP Jewell,JA Chohan,0,2,2,,,,,"",""
+ball,1,10.2,Hobart Hurricanes,CP Jewell,BR McDermott,JA Chohan,2,0,,,,,,"",""
+ball,1,10.3,Hobart Hurricanes,CP Jewell,BR McDermott,JA Chohan,0,0,,,,,,"",""
+ball,1,10.4,Hobart Hurricanes,CP Jewell,BR McDermott,JA Chohan,1,0,,,,,,"",""
+ball,1,10.5,Hobart Hurricanes,BR McDermott,CP Jewell,JA Chohan,1,0,,,,,,"",""
+ball,1,10.6,Hobart Hurricanes,CP Jewell,BR McDermott,JA Chohan,1,0,,,,,,"",""
+ball,1,10.7,Hobart Hurricanes,BR McDermott,CP Jewell,JA Chohan,0,0,,,,,,"",""
+ball,1,11.1,Hobart Hurricanes,CP Jewell,BR McDermott,BJ Dwarshuis,1,0,,,,,,"",""
+ball,1,11.2,Hobart Hurricanes,BR McDermott,CP Jewell,BJ Dwarshuis,0,0,,,,,,"",""
+ball,1,11.3,Hobart Hurricanes,BR McDermott,CP Jewell,BJ Dwarshuis,1,0,,,,,,"",""
+ball,1,11.4,Hobart Hurricanes,CP Jewell,BR McDermott,BJ Dwarshuis,0,1,,,,1,,"",""
+ball,1,11.5,Hobart Hurricanes,BR McDermott,CP Jewell,BJ Dwarshuis,0,0,,,,,,"",""
+ball,1,11.6,Hobart Hurricanes,BR McDermott,CP Jewell,BJ Dwarshuis,1,0,,,,,,"",""
+ball,1,12.1,Hobart Hurricanes,BR McDermott,CP Jewell,H Kerr,1,0,,,,,,"",""
+ball,1,12.2,Hobart Hurricanes,CP Jewell,BR McDermott,H Kerr,0,0,,,,,,"",""
+ball,1,12.3,Hobart Hurricanes,CP Jewell,BR McDermott,H Kerr,1,0,,,,,,"",""
+ball,1,12.4,Hobart Hurricanes,BR McDermott,CP Jewell,H Kerr,1,0,,,,,,"",""
+ball,1,12.5,Hobart Hurricanes,CP Jewell,BR McDermott,H Kerr,1,0,,,,,,"",""
+ball,1,12.6,Hobart Hurricanes,BR McDermott,CP Jewell,H Kerr,1,0,,,,,,"",""
+ball,1,13.1,Hobart Hurricanes,BR McDermott,CP Jewell,J Edwards,4,0,,,,,,"",""
+ball,1,13.2,Hobart Hurricanes,BR McDermott,CP Jewell,J Edwards,1,0,,,,,,"",""
+ball,1,13.3,Hobart Hurricanes,CP Jewell,BR McDermott,J Edwards,0,1,,,,1,,"",""
+ball,1,13.4,Hobart Hurricanes,BR McDermott,CP Jewell,J Edwards,0,0,,,,,,"",""
+ball,1,13.5,Hobart Hurricanes,BR McDermott,CP Jewell,J Edwards,0,0,,,,,,"",""
+ball,1,13.6,Hobart Hurricanes,BR McDermott,CP Jewell,J Edwards,4,0,,,,,,"",""
+ball,1,14.1,Hobart Hurricanes,CP Jewell,BR McDermott,BJ Dwarshuis,2,0,,,,,,"",""
+ball,1,14.2,Hobart Hurricanes,CP Jewell,BR McDermott,BJ Dwarshuis,1,0,,,,,,"",""
+ball,1,14.3,Hobart Hurricanes,BR McDermott,CP Jewell,BJ Dwarshuis,3,0,,,,,,"",""
+ball,1,14.4,Hobart Hurricanes,CP Jewell,BR McDermott,BJ Dwarshuis,0,0,,,,,,bowled,CP Jewell
+ball,1,14.5,Hobart Hurricanes,TH David,BR McDermott,BJ Dwarshuis,4,0,,,,,,"",""
+ball,1,14.6,Hobart Hurricanes,TH David,BR McDermott,BJ Dwarshuis,6,0,,,,,,"",""
+ball,1,15.1,Hobart Hurricanes,BR McDermott,TH David,H Kerr,1,0,,,,,,"",""
+ball,1,15.2,Hobart Hurricanes,TH David,BR McDermott,H Kerr,1,0,,,,,,"",""
+ball,1,15.3,Hobart Hurricanes,BR McDermott,TH David,H Kerr,4,0,,,,,,"",""
+ball,1,15.4,Hobart Hurricanes,BR McDermott,TH David,H Kerr,6,0,,,,,,"",""
+ball,1,15.5,Hobart Hurricanes,BR McDermott,TH David,H Kerr,4,0,,,,,,"",""
+ball,1,15.6,Hobart Hurricanes,BR McDermott,TH David,H Kerr,0,1,,,,1,,"",""
+ball,1,16.1,Hobart Hurricanes,BR McDermott,TH David,JA Chohan,0,0,,,,,,caught,BR McDermott
+ball,1,16.2,Hobart Hurricanes,Nikhil Chaudhary,TH David,JA Chohan,3,0,,,,,,"",""
+ball,1,16.3,Hobart Hurricanes,TH David,Nikhil Chaudhary,JA Chohan,1,0,,,,,,"",""
+ball,1,16.4,Hobart Hurricanes,Nikhil Chaudhary,TH David,JA Chohan,1,0,,,,,,"",""
+ball,1,16.5,Hobart Hurricanes,TH David,Nikhil Chaudhary,JA Chohan,0,0,,,,,,"",""
+ball,1,16.6,Hobart Hurricanes,TH David,Nikhil Chaudhary,JA Chohan,6,0,,,,,,"",""
+ball,1,17.1,Hobart Hurricanes,Nikhil Chaudhary,TH David,M Perry,0,0,,,,,,"",""
+ball,1,17.2,Hobart Hurricanes,Nikhil Chaudhary,TH David,M Perry,1,0,,,,,,"",""
+ball,1,17.3,Hobart Hurricanes,TH David,Nikhil Chaudhary,M Perry,1,0,,,,,,"",""
+ball,1,17.4,Hobart Hurricanes,Nikhil Chaudhary,TH David,M Perry,4,0,,,,,,"",""
+ball,1,17.5,Hobart Hurricanes,Nikhil Chaudhary,TH David,M Perry,0,1,,,,1,,"",""
+ball,1,17.6,Hobart Hurricanes,TH David,Nikhil Chaudhary,M Perry,4,0,,,,,,"",""
+ball,1,18.1,Hobart Hurricanes,Nikhil Chaudhary,TH David,BJ Dwarshuis,1,0,,,,,,"",""
+ball,1,18.2,Hobart Hurricanes,TH David,Nikhil Chaudhary,BJ Dwarshuis,2,0,,,,,,"",""
+ball,1,18.3,Hobart Hurricanes,TH David,Nikhil Chaudhary,BJ Dwarshuis,0,0,,,,,,caught,TH David
+ball,1,18.4,Hobart Hurricanes,CJ Jordan,Nikhil Chaudhary,BJ Dwarshuis,1,0,,,,,,"",""
+ball,1,18.5,Hobart Hurricanes,Nikhil Chaudhary,CJ Jordan,BJ Dwarshuis,1,0,,,,,,"",""
+ball,1,18.6,Hobart Hurricanes,CJ Jordan,Nikhil Chaudhary,BJ Dwarshuis,0,0,,,,,,"",""
+ball,1,19.1,Hobart Hurricanes,Nikhil Chaudhary,CJ Jordan,J Edwards,2,0,,,,,,"",""
+ball,1,19.2,Hobart Hurricanes,Nikhil Chaudhary,CJ Jordan,J Edwards,1,0,,,,,,"",""
+ball,1,19.3,Hobart Hurricanes,CJ Jordan,Nikhil Chaudhary,J Edwards,1,0,,,,,,"",""
+ball,1,19.4,Hobart Hurricanes,Nikhil Chaudhary,CJ Jordan,J Edwards,0,0,,,,,,caught,Nikhil Chaudhary
+ball,1,19.5,Hobart Hurricanes,NT Ellis,CJ Jordan,J Edwards,0,1,1,,,,,"",""
+ball,1,19.6,Hobart Hurricanes,NT Ellis,CJ Jordan,J Edwards,0,0,,,,,,"",""
+ball,1,19.7,Hobart Hurricanes,NT Ellis,CJ Jordan,J Edwards,1,0,,,,,,run out,NT Ellis
+ball,2,0.1,Sydney Sixers,KR Patterson,JR Philippe,RP Meredith,0,0,,,,,,"",""
+ball,2,0.2,Sydney Sixers,KR Patterson,JR Philippe,RP Meredith,1,0,,,,,,"",""
+ball,2,0.3,Sydney Sixers,JR Philippe,KR Patterson,RP Meredith,0,0,,,,,,"",""
+ball,2,0.4,Sydney Sixers,JR Philippe,KR Patterson,RP Meredith,0,0,,,,,,caught,JR Philippe
+ball,2,0.5,Sydney Sixers,J Edwards,KR Patterson,RP Meredith,0,0,,,,,,"",""
+ball,2,0.6,Sydney Sixers,J Edwards,KR Patterson,RP Meredith,0,0,,,,,,"",""
+ball,2,1.1,Sydney Sixers,KR Patterson,J Edwards,CJ Gannon,1,0,,,,,,"",""
+ball,2,1.2,Sydney Sixers,J Edwards,KR Patterson,CJ Gannon,0,0,,,,,,caught,J Edwards
+ball,2,1.3,Sydney Sixers,MC Henriques,KR Patterson,CJ Gannon,0,1,,,,1,,"",""
+ball,2,1.4,Sydney Sixers,KR Patterson,MC Henriques,CJ Gannon,1,0,,,,,,"",""
+ball,2,1.5,Sydney Sixers,MC Henriques,KR Patterson,CJ Gannon,0,0,,,,,,"",""
+ball,2,1.6,Sydney Sixers,MC Henriques,KR Patterson,CJ Gannon,1,0,,,,,,"",""
+ball,2,2.1,Sydney Sixers,MC Henriques,KR Patterson,RP Meredith,0,0,,,,,,"",""
+ball,2,2.2,Sydney Sixers,MC Henriques,KR Patterson,RP Meredith,0,0,,,,,,caught,MC Henriques
+ball,2,2.3,Sydney Sixers,JC Silk,KR Patterson,RP Meredith,0,0,,,,,,"",""
+ball,2,2.4,Sydney Sixers,JC Silk,KR Patterson,RP Meredith,4,0,,,,,,"",""
+ball,2,2.5,Sydney Sixers,JC Silk,KR Patterson,RP Meredith,0,0,,,,,,"",""
+ball,2,2.6,Sydney Sixers,JC Silk,KR Patterson,RP Meredith,4,0,,,,,,"",""
+ball,2,3.1,Sydney Sixers,KR Patterson,JC Silk,CJ Gannon,0,0,,,,,,"",""
+ball,2,3.2,Sydney Sixers,KR Patterson,JC Silk,CJ Gannon,0,0,,,,,,"",""
+ball,2,3.3,Sydney Sixers,KR Patterson,JC Silk,CJ Gannon,1,0,,,,,,"",""
+ball,2,3.4,Sydney Sixers,JC Silk,KR Patterson,CJ Gannon,1,0,,,,,,"",""
+ball,2,3.5,Sydney Sixers,KR Patterson,JC Silk,CJ Gannon,1,0,,,,,,"",""
+ball,2,3.6,Sydney Sixers,JC Silk,KR Patterson,CJ Gannon,1,0,,,,,,"",""
+ball,2,4.1,Sydney Sixers,JC Silk,KR Patterson,P Hatzoglou,1,0,,,,,,"",""
+ball,2,4.2,Sydney Sixers,KR Patterson,JC Silk,P Hatzoglou,4,0,,,,,,"",""
+ball,2,4.3,Sydney Sixers,KR Patterson,JC Silk,P Hatzoglou,1,0,,,,,,"",""
+ball,2,4.4,Sydney Sixers,JC Silk,KR Patterson,P Hatzoglou,0,0,,,,,,"",""
+ball,2,4.5,Sydney Sixers,JC Silk,KR Patterson,P Hatzoglou,1,0,,,,,,"",""
+ball,2,4.6,Sydney Sixers,KR Patterson,JC Silk,P Hatzoglou,1,0,,,,,,"",""
+ball,2,5.1,Sydney Sixers,KR Patterson,JC Silk,NT Ellis,1,0,,,,,,"",""
+ball,2,5.2,Sydney Sixers,JC Silk,KR Patterson,NT Ellis,1,0,,,,,,"",""
+ball,2,5.3,Sydney Sixers,KR Patterson,JC Silk,NT Ellis,0,1,1,,,,,"",""
+ball,2,5.4,Sydney Sixers,KR Patterson,JC Silk,NT Ellis,1,0,,,,,,"",""
+ball,2,5.5,Sydney Sixers,JC Silk,KR Patterson,NT Ellis,1,0,,,,,,"",""
+ball,2,5.6,Sydney Sixers,KR Patterson,JC Silk,NT Ellis,1,0,,,,,,"",""
+ball,2,5.7,Sydney Sixers,JC Silk,KR Patterson,NT Ellis,2,0,,,,,,"",""
+ball,2,6.1,Sydney Sixers,KR Patterson,JC Silk,Nikhil Chaudhary,2,0,,,,,,"",""
+ball,2,6.2,Sydney Sixers,KR Patterson,JC Silk,Nikhil Chaudhary,4,0,,,,,,"",""
+ball,2,6.3,Sydney Sixers,KR Patterson,JC Silk,Nikhil Chaudhary,2,0,,,,,,"",""
+ball,2,6.4,Sydney Sixers,KR Patterson,JC Silk,Nikhil Chaudhary,1,0,,,,,,"",""
+ball,2,6.5,Sydney Sixers,JC Silk,KR Patterson,Nikhil Chaudhary,1,0,,,,,,"",""
+ball,2,6.6,Sydney Sixers,KR Patterson,JC Silk,Nikhil Chaudhary,1,0,,,,,,"",""
+ball,2,7.1,Sydney Sixers,KR Patterson,JC Silk,P Hatzoglou,0,0,,,,,,"",""
+ball,2,7.2,Sydney Sixers,KR Patterson,JC Silk,P Hatzoglou,1,0,,,,,,"",""
+ball,2,7.3,Sydney Sixers,JC Silk,KR Patterson,P Hatzoglou,1,0,,,,,,"",""
+ball,2,7.4,Sydney Sixers,KR Patterson,JC Silk,P Hatzoglou,1,0,,,,,,"",""
+ball,2,7.5,Sydney Sixers,JC Silk,KR Patterson,P Hatzoglou,1,0,,,,,,"",""
+ball,2,7.6,Sydney Sixers,KR Patterson,JC Silk,P Hatzoglou,6,0,,,,,,"",""
+ball,2,8.1,Sydney Sixers,JC Silk,KR Patterson,CJ Jordan,1,0,,,,,,"",""
+ball,2,8.2,Sydney Sixers,KR Patterson,JC Silk,CJ Jordan,1,0,,,,,,"",""
+ball,2,8.3,Sydney Sixers,JC Silk,KR Patterson,CJ Jordan,0,0,,,,,,"",""
+ball,2,8.4,Sydney Sixers,JC Silk,KR Patterson,CJ Jordan,1,0,,,,,,"",""
+ball,2,8.5,Sydney Sixers,KR Patterson,JC Silk,CJ Jordan,1,0,,,,,,"",""
+ball,2,8.6,Sydney Sixers,JC Silk,KR Patterson,CJ Jordan,4,0,,,,,,"",""
+ball,2,9.1,Sydney Sixers,KR Patterson,JC Silk,Nikhil Chaudhary,1,0,,,,,,"",""
+ball,2,9.2,Sydney Sixers,JC Silk,KR Patterson,Nikhil Chaudhary,0,0,,,,,,"",""
+ball,2,9.3,Sydney Sixers,JC Silk,KR Patterson,Nikhil Chaudhary,2,0,,,,,,"",""
+ball,2,9.4,Sydney Sixers,JC Silk,KR Patterson,Nikhil Chaudhary,0,0,,,,,,"",""
+ball,2,9.5,Sydney Sixers,JC Silk,KR Patterson,Nikhil Chaudhary,1,0,,,,,,"",""
+ball,2,9.6,Sydney Sixers,KR Patterson,JC Silk,Nikhil Chaudhary,1,0,,,,,,"",""
+ball,2,10.1,Sydney Sixers,KR Patterson,JC Silk,P Hatzoglou,0,0,,,,,,"",""
+ball,2,10.2,Sydney Sixers,KR Patterson,JC Silk,P Hatzoglou,4,0,,,,,,"",""
+ball,2,10.3,Sydney Sixers,KR Patterson,JC Silk,P Hatzoglou,1,0,,,,,,"",""
+ball,2,10.4,Sydney Sixers,JC Silk,KR Patterson,P Hatzoglou,1,0,,,,,,"",""
+ball,2,10.5,Sydney Sixers,KR Patterson,JC Silk,P Hatzoglou,6,0,,,,,,"",""
+ball,2,10.6,Sydney Sixers,KR Patterson,JC Silk,P Hatzoglou,1,0,,,,,,"",""
+ball,2,11.1,Sydney Sixers,KR Patterson,JC Silk,CJ Gannon,0,0,,,,,,caught,KR Patterson
+ball,2,11.2,Sydney Sixers,L Shaw,JC Silk,CJ Gannon,0,0,,,,,,"",""
+ball,2,11.3,Sydney Sixers,L Shaw,JC Silk,CJ Gannon,0,0,,,,,,"",""
+ball,2,11.4,Sydney Sixers,L Shaw,JC Silk,CJ Gannon,1,0,,,,,,"",""
+ball,2,11.5,Sydney Sixers,JC Silk,L Shaw,CJ Gannon,1,0,,,,,,"",""
+ball,2,11.6,Sydney Sixers,L Shaw,JC Silk,CJ Gannon,1,0,,,,,,"",""
+ball,2,12.1,Sydney Sixers,L Shaw,JC Silk,RP Meredith,1,0,,,,,,"",""
+ball,2,12.2,Sydney Sixers,JC Silk,L Shaw,RP Meredith,0,1,1,,,,,"",""
+ball,2,12.3,Sydney Sixers,JC Silk,L Shaw,RP Meredith,1,0,,,,,,"",""
+ball,2,12.4,Sydney Sixers,L Shaw,JC Silk,RP Meredith,2,0,,,,,,"",""
+ball,2,12.5,Sydney Sixers,L Shaw,JC Silk,RP Meredith,0,0,,,,,,"",""
+ball,2,12.6,Sydney Sixers,L Shaw,JC Silk,RP Meredith,2,0,,,,,,"",""
+ball,2,12.7,Sydney Sixers,L Shaw,JC Silk,RP Meredith,4,0,,,,,,"",""
+ball,2,13.1,Sydney Sixers,JC Silk,L Shaw,NT Ellis,2,0,,,,,,"",""
+ball,2,13.2,Sydney Sixers,JC Silk,L Shaw,NT Ellis,1,0,,,,,,"",""
+ball,2,13.3,Sydney Sixers,L Shaw,JC Silk,NT Ellis,0,0,,,,,,"",""
+ball,2,13.4,Sydney Sixers,L Shaw,JC Silk,NT Ellis,1,0,,,,,,"",""
+ball,2,13.5,Sydney Sixers,JC Silk,L Shaw,NT Ellis,0,0,,,,,,"",""
+ball,2,13.6,Sydney Sixers,JC Silk,L Shaw,NT Ellis,1,0,,,,,,"",""
+ball,2,14.1,Sydney Sixers,JC Silk,L Shaw,CJ Jordan,1,0,,,,,,"",""
+ball,2,14.2,Sydney Sixers,L Shaw,JC Silk,CJ Jordan,0,0,,,,,,"",""
+ball,2,14.3,Sydney Sixers,L Shaw,JC Silk,CJ Jordan,4,0,,,,,,"",""
+ball,2,14.4,Sydney Sixers,L Shaw,JC Silk,CJ Jordan,1,0,,,,,,"",""
+ball,2,14.5,Sydney Sixers,JC Silk,L Shaw,CJ Jordan,1,0,,,,,,"",""
+ball,2,14.6,Sydney Sixers,L Shaw,JC Silk,CJ Jordan,1,0,,,,,,"",""
+ball,2,15.1,Sydney Sixers,L Shaw,JC Silk,NT Ellis,1,0,,,,,,"",""
+ball,2,15.2,Sydney Sixers,JC Silk,L Shaw,NT Ellis,4,0,,,,,,"",""
+ball,2,15.3,Sydney Sixers,JC Silk,L Shaw,NT Ellis,0,0,,,,,,"",""
+ball,2,15.4,Sydney Sixers,JC Silk,L Shaw,NT Ellis,4,0,,,,,,"",""
+ball,2,15.5,Sydney Sixers,JC Silk,L Shaw,NT Ellis,1,0,,,,,,"",""
+ball,2,15.6,Sydney Sixers,L Shaw,JC Silk,NT Ellis,2,0,,,,,,"",""
+ball,2,16.1,Sydney Sixers,JC Silk,L Shaw,RP Meredith,2,0,,,,,,"",""
+ball,2,16.2,Sydney Sixers,JC Silk,L Shaw,RP Meredith,1,0,,,,,,"",""
+ball,2,16.3,Sydney Sixers,L Shaw,JC Silk,RP Meredith,4,0,,,,,,"",""
+ball,2,16.4,Sydney Sixers,L Shaw,JC Silk,RP Meredith,6,0,,,,,,"",""
+ball,2,16.5,Sydney Sixers,L Shaw,JC Silk,RP Meredith,0,0,,,,,,"",""
+ball,2,16.6,Sydney Sixers,L Shaw,JC Silk,RP Meredith,1,0,,,,,,"",""
+ball,2,17.1,Sydney Sixers,L Shaw,JC Silk,CJ Jordan,1,0,,,,,,"",""
+ball,2,17.2,Sydney Sixers,JC Silk,L Shaw,CJ Jordan,2,0,,,,,,"",""
+ball,2,17.3,Sydney Sixers,JC Silk,L Shaw,CJ Jordan,1,0,,,,,,"",""
+ball,2,17.4,Sydney Sixers,L Shaw,JC Silk,CJ Jordan,0,1,,,,1,,"",""
+ball,2,17.5,Sydney Sixers,JC Silk,L Shaw,CJ Jordan,2,0,,,,,,"",""
+ball,2,17.6,Sydney Sixers,JC Silk,L Shaw,CJ Jordan,1,0,,,,,,"",""
+ball,2,18.1,Sydney Sixers,JC Silk,L Shaw,NT Ellis,0,1,1,,,,,"",""
+ball,2,18.2,Sydney Sixers,JC Silk,L Shaw,NT Ellis,2,0,,,,,,"",""
+ball,2,18.3,Sydney Sixers,JC Silk,L Shaw,NT Ellis,0,0,,,,,,caught,JC Silk
+ball,2,18.4,Sydney Sixers,BJ Dwarshuis,L Shaw,NT Ellis,2,0,,,,,,"",""
+ball,2,18.5,Sydney Sixers,BJ Dwarshuis,L Shaw,NT Ellis,6,0,,,,,,"",""
+ball,2,18.6,Sydney Sixers,BJ Dwarshuis,L Shaw,NT Ellis,1,0,,,,,,"",""
+ball,2,18.7,Sydney Sixers,L Shaw,BJ Dwarshuis,NT Ellis,0,0,,,,,,"",""
+ball,2,19.1,Sydney Sixers,BJ Dwarshuis,L Shaw,CJ Jordan,0,0,,,,,,"",""
+ball,2,19.2,Sydney Sixers,BJ Dwarshuis,L Shaw,CJ Jordan,2,0,,,,,,"",""
+ball,2,19.3,Sydney Sixers,BJ Dwarshuis,L Shaw,CJ Jordan,1,0,,,,,,"",""
+ball,2,19.4,Sydney Sixers,L Shaw,BJ Dwarshuis,CJ Jordan,0,1,,,,1,,"",""
+ball,2,19.5,Sydney Sixers,BJ Dwarshuis,L Shaw,CJ Jordan,0,0,,,,,,"",""
+ball,2,19.6,Sydney Sixers,BJ Dwarshuis,L Shaw,CJ Jordan,4,0,,,,,,"",""

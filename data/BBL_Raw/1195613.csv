@@ -1,0 +1,321 @@
+version,1.6.0
+info,balls_per_over,6
+info,team,Melbourne Stars
+info,team,Perth Scorchers
+info,gender,male
+info,season,2019/20
+info,date,2020/01/18
+info,event,Big Bash League
+info,match_number,41
+info,venue,Melbourne Cricket Ground
+info,city,Melbourne
+info,toss_winner,Melbourne Stars
+info,toss_decision,bat
+info,player_of_match,GJ Maxwell
+info,umpire,P Wilson
+info,umpire,DR Close
+info,reserve_umpire,D Ireland
+info,tv_umpire,GC Joshua
+info,match_referee,RW Stratford
+info,winner,Melbourne Stars
+info,winner_runs,10
+info,player,Melbourne Stars,HWR Cartwright
+info,player,Melbourne Stars,MP Stoinis
+info,player,Melbourne Stars,NM Coulter-Nile
+info,player,Melbourne Stars,NJ Maddinson
+info,player,Melbourne Stars,GJ Maxwell
+info,player,Melbourne Stars,NCR Larkin
+info,player,Melbourne Stars,SE Gotch
+info,player,Melbourne Stars,CD Hinchliffe
+info,player,Melbourne Stars,DJ Worrall
+info,player,Melbourne Stars,LR Morris
+info,player,Melbourne Stars,S Lamichhane
+info,player,Perth Scorchers,JP Inglis
+info,player,Perth Scorchers,LS Livingstone
+info,player,Perth Scorchers,CT Bancroft
+info,player,Perth Scorchers,MR Marsh
+info,player,Perth Scorchers,KR Patterson
+info,player,Perth Scorchers,TH David
+info,player,Perth Scorchers,C Green
+info,player,Perth Scorchers,CJ Jordan
+info,player,Perth Scorchers,JA Richardson
+info,player,Perth Scorchers,M Kelly
+info,player,Perth Scorchers,Fawad Ahmed
+info,registry,people,C Green,eaa76d3c
+info,registry,people,CD Hinchliffe,8891669e
+info,registry,people,CJ Jordan,ffe699c0
+info,registry,people,CT Bancroft,399b0b94
+info,registry,people,D Ireland,9b4fc7b9
+info,registry,people,DJ Worrall,208f22ea
+info,registry,people,DR Close,4cae2b0c
+info,registry,people,Fawad Ahmed,22ae3041
+info,registry,people,GC Joshua,4c47ebf2
+info,registry,people,GJ Maxwell,b681e71e
+info,registry,people,HWR Cartwright,ab965cad
+info,registry,people,JA Richardson,1ee08e9a
+info,registry,people,JP Inglis,989889ff
+info,registry,people,KR Patterson,e3bf8356
+info,registry,people,LR Morris,b08e58e2
+info,registry,people,LS Livingstone,50c6bc2b
+info,registry,people,M Kelly,68e26ec9
+info,registry,people,MP Stoinis,d9273ee7
+info,registry,people,MR Marsh,3d8feaf8
+info,registry,people,NCR Larkin,02bce9a8
+info,registry,people,NJ Maddinson,44afbf2d
+info,registry,people,NM Coulter-Nile,56ab442f
+info,registry,people,P Wilson,68304a36
+info,registry,people,RW Stratford,85489579
+info,registry,people,S Lamichhane,b410bd3d
+info,registry,people,SE Gotch,9a0e4ca5
+info,registry,people,TH David,f1f99156
+ball,1,0.1,Melbourne Stars,HWR Cartwright,MP Stoinis,JA Richardson,0,0,,,,,,"",""
+ball,1,0.2,Melbourne Stars,HWR Cartwright,MP Stoinis,JA Richardson,0,0,,,,,,"",""
+ball,1,0.3,Melbourne Stars,HWR Cartwright,MP Stoinis,JA Richardson,1,0,,,,,,"",""
+ball,1,0.4,Melbourne Stars,MP Stoinis,HWR Cartwright,JA Richardson,0,0,,,,,,"",""
+ball,1,0.5,Melbourne Stars,MP Stoinis,HWR Cartwright,JA Richardson,0,1,,,,1,,"",""
+ball,1,0.6,Melbourne Stars,HWR Cartwright,MP Stoinis,JA Richardson,0,0,,,,,,"",""
+ball,1,1.1,Melbourne Stars,MP Stoinis,HWR Cartwright,M Kelly,0,1,1,,,,,"",""
+ball,1,1.2,Melbourne Stars,MP Stoinis,HWR Cartwright,M Kelly,0,0,,,,,,"",""
+ball,1,1.3,Melbourne Stars,MP Stoinis,HWR Cartwright,M Kelly,0,0,,,,,,"",""
+ball,1,1.4,Melbourne Stars,MP Stoinis,HWR Cartwright,M Kelly,0,0,,,,,,"",""
+ball,1,1.5,Melbourne Stars,MP Stoinis,HWR Cartwright,M Kelly,6,0,,,,,,"",""
+ball,1,1.6,Melbourne Stars,MP Stoinis,HWR Cartwright,M Kelly,0,0,,,,,,caught,MP Stoinis
+ball,1,1.7,Melbourne Stars,NM Coulter-Nile,HWR Cartwright,M Kelly,1,0,,,,,,"",""
+ball,1,2.1,Melbourne Stars,NM Coulter-Nile,HWR Cartwright,JA Richardson,0,0,,,,,,"",""
+ball,1,2.2,Melbourne Stars,NM Coulter-Nile,HWR Cartwright,JA Richardson,0,1,,,,1,,"",""
+ball,1,2.3,Melbourne Stars,HWR Cartwright,NM Coulter-Nile,JA Richardson,0,0,,,,,,"",""
+ball,1,2.4,Melbourne Stars,HWR Cartwright,NM Coulter-Nile,JA Richardson,0,1,,,,1,,"",""
+ball,1,2.5,Melbourne Stars,NM Coulter-Nile,HWR Cartwright,JA Richardson,0,0,,,,,,"",""
+ball,1,2.6,Melbourne Stars,NM Coulter-Nile,HWR Cartwright,JA Richardson,4,0,,,,,,"",""
+ball,1,3.1,Melbourne Stars,HWR Cartwright,NM Coulter-Nile,CJ Jordan,0,0,,,,,,"",""
+ball,1,3.2,Melbourne Stars,HWR Cartwright,NM Coulter-Nile,CJ Jordan,0,0,,,,,,"",""
+ball,1,3.3,Melbourne Stars,HWR Cartwright,NM Coulter-Nile,CJ Jordan,4,0,,,,,,"",""
+ball,1,3.4,Melbourne Stars,HWR Cartwright,NM Coulter-Nile,CJ Jordan,1,0,,,,,,"",""
+ball,1,3.5,Melbourne Stars,NM Coulter-Nile,HWR Cartwright,CJ Jordan,0,1,,,,1,,"",""
+ball,1,3.6,Melbourne Stars,HWR Cartwright,NM Coulter-Nile,CJ Jordan,1,0,,,,,,"",""
+ball,1,4.1,Melbourne Stars,HWR Cartwright,NM Coulter-Nile,M Kelly,1,0,,,,,,"",""
+ball,1,4.2,Melbourne Stars,NM Coulter-Nile,HWR Cartwright,M Kelly,2,0,,,,,,"",""
+ball,1,4.3,Melbourne Stars,NM Coulter-Nile,HWR Cartwright,M Kelly,0,0,,,,,,caught,NM Coulter-Nile
+ball,1,4.4,Melbourne Stars,HWR Cartwright,NJ Maddinson,M Kelly,0,0,,,,,,"",""
+ball,1,4.5,Melbourne Stars,HWR Cartwright,NJ Maddinson,M Kelly,1,0,,,,,,"",""
+ball,1,4.6,Melbourne Stars,NJ Maddinson,HWR Cartwright,M Kelly,0,0,,,,,,"",""
+ball,1,5.1,Melbourne Stars,HWR Cartwright,NJ Maddinson,CJ Jordan,0,0,,,,,,"",""
+ball,1,5.2,Melbourne Stars,HWR Cartwright,NJ Maddinson,CJ Jordan,0,0,,,,,,"",""
+ball,1,5.3,Melbourne Stars,HWR Cartwright,NJ Maddinson,CJ Jordan,0,0,,,,,,"",""
+ball,1,5.4,Melbourne Stars,HWR Cartwright,NJ Maddinson,CJ Jordan,0,0,,,,,,"",""
+ball,1,5.5,Melbourne Stars,HWR Cartwright,NJ Maddinson,CJ Jordan,1,0,,,,,,"",""
+ball,1,5.6,Melbourne Stars,NJ Maddinson,HWR Cartwright,CJ Jordan,1,0,,,,,,"",""
+ball,1,6.1,Melbourne Stars,NJ Maddinson,HWR Cartwright,MR Marsh,1,0,,,,,,"",""
+ball,1,6.2,Melbourne Stars,HWR Cartwright,NJ Maddinson,MR Marsh,0,0,,,,,,"",""
+ball,1,6.3,Melbourne Stars,HWR Cartwright,NJ Maddinson,MR Marsh,0,1,,,,1,,"",""
+ball,1,6.4,Melbourne Stars,NJ Maddinson,HWR Cartwright,MR Marsh,1,0,,,,,,"",""
+ball,1,6.5,Melbourne Stars,HWR Cartwright,NJ Maddinson,MR Marsh,0,0,,,,,,"",""
+ball,1,6.6,Melbourne Stars,HWR Cartwright,NJ Maddinson,MR Marsh,1,0,,,,,,"",""
+ball,1,7.1,Melbourne Stars,HWR Cartwright,NJ Maddinson,Fawad Ahmed,0,0,,,,,,"",""
+ball,1,7.2,Melbourne Stars,HWR Cartwright,NJ Maddinson,Fawad Ahmed,1,0,,,,,,"",""
+ball,1,7.3,Melbourne Stars,NJ Maddinson,HWR Cartwright,Fawad Ahmed,0,0,,,,,,lbw,NJ Maddinson
+ball,1,7.4,Melbourne Stars,GJ Maxwell,HWR Cartwright,Fawad Ahmed,0,0,,,,,,"",""
+ball,1,7.5,Melbourne Stars,GJ Maxwell,HWR Cartwright,Fawad Ahmed,0,0,,,,,,"",""
+ball,1,7.6,Melbourne Stars,GJ Maxwell,HWR Cartwright,Fawad Ahmed,0,0,,,,,,"",""
+ball,1,8.1,Melbourne Stars,HWR Cartwright,GJ Maxwell,JA Richardson,4,0,,,,,,"",""
+ball,1,8.2,Melbourne Stars,HWR Cartwright,GJ Maxwell,JA Richardson,0,0,,,,,,"",""
+ball,1,8.3,Melbourne Stars,HWR Cartwright,GJ Maxwell,JA Richardson,1,0,,,,,,"",""
+ball,1,8.4,Melbourne Stars,GJ Maxwell,HWR Cartwright,JA Richardson,0,0,,,,,,"",""
+ball,1,8.5,Melbourne Stars,GJ Maxwell,HWR Cartwright,JA Richardson,0,0,,,,,,"",""
+ball,1,8.6,Melbourne Stars,GJ Maxwell,HWR Cartwright,JA Richardson,1,0,,,,,,"",""
+ball,1,9.1,Melbourne Stars,GJ Maxwell,HWR Cartwright,Fawad Ahmed,1,0,,,,,,"",""
+ball,1,9.2,Melbourne Stars,HWR Cartwright,GJ Maxwell,Fawad Ahmed,0,0,,,,,,"",""
+ball,1,9.3,Melbourne Stars,HWR Cartwright,GJ Maxwell,Fawad Ahmed,1,0,,,,,,"",""
+ball,1,9.4,Melbourne Stars,GJ Maxwell,HWR Cartwright,Fawad Ahmed,6,0,,,,,,"",""
+ball,1,9.5,Melbourne Stars,GJ Maxwell,HWR Cartwright,Fawad Ahmed,1,0,,,,,,"",""
+ball,1,9.6,Melbourne Stars,HWR Cartwright,GJ Maxwell,Fawad Ahmed,0,0,,,,,,"",""
+ball,1,10.1,Melbourne Stars,GJ Maxwell,HWR Cartwright,MR Marsh,0,1,1,,,,,"",""
+ball,1,10.2,Melbourne Stars,GJ Maxwell,HWR Cartwright,MR Marsh,0,1,,,,1,,"",""
+ball,1,10.3,Melbourne Stars,HWR Cartwright,GJ Maxwell,MR Marsh,2,0,,,,,,"",""
+ball,1,10.4,Melbourne Stars,HWR Cartwright,GJ Maxwell,MR Marsh,0,0,,,,,,"",""
+ball,1,10.5,Melbourne Stars,HWR Cartwright,GJ Maxwell,MR Marsh,4,0,,,,,,"",""
+ball,1,10.6,Melbourne Stars,HWR Cartwright,GJ Maxwell,MR Marsh,0,0,,,,,,"",""
+ball,1,10.7,Melbourne Stars,HWR Cartwright,GJ Maxwell,MR Marsh,1,0,,,,,,"",""
+ball,1,11.1,Melbourne Stars,HWR Cartwright,GJ Maxwell,Fawad Ahmed,0,0,,,,,,"",""
+ball,1,11.2,Melbourne Stars,HWR Cartwright,GJ Maxwell,Fawad Ahmed,4,0,,,,,,"",""
+ball,1,11.3,Melbourne Stars,HWR Cartwright,GJ Maxwell,Fawad Ahmed,1,0,,,,,,"",""
+ball,1,11.4,Melbourne Stars,GJ Maxwell,HWR Cartwright,Fawad Ahmed,4,0,,,,,,"",""
+ball,1,11.5,Melbourne Stars,GJ Maxwell,HWR Cartwright,Fawad Ahmed,1,0,,,,,,"",""
+ball,1,11.6,Melbourne Stars,HWR Cartwright,GJ Maxwell,Fawad Ahmed,0,0,,,,,,"",""
+ball,1,12.1,Melbourne Stars,GJ Maxwell,HWR Cartwright,MR Marsh,0,0,,,,,,"",""
+ball,1,12.2,Melbourne Stars,GJ Maxwell,HWR Cartwright,MR Marsh,4,0,,,,,,"",""
+ball,1,12.3,Melbourne Stars,GJ Maxwell,HWR Cartwright,MR Marsh,0,0,,,,,,"",""
+ball,1,12.4,Melbourne Stars,GJ Maxwell,HWR Cartwright,MR Marsh,0,1,1,,,,,"",""
+ball,1,12.5,Melbourne Stars,GJ Maxwell,HWR Cartwright,MR Marsh,0,0,,,,,,"",""
+ball,1,12.6,Melbourne Stars,GJ Maxwell,HWR Cartwright,MR Marsh,2,0,,,,,,"",""
+ball,1,12.7,Melbourne Stars,GJ Maxwell,HWR Cartwright,MR Marsh,1,0,,,,,,"",""
+ball,1,13.1,Melbourne Stars,GJ Maxwell,HWR Cartwright,M Kelly,0,1,1,,,,,"",""
+ball,1,13.2,Melbourne Stars,GJ Maxwell,HWR Cartwright,M Kelly,2,0,,,,,,"",""
+ball,1,13.3,Melbourne Stars,GJ Maxwell,HWR Cartwright,M Kelly,0,0,,,,,,"",""
+ball,1,13.4,Melbourne Stars,GJ Maxwell,HWR Cartwright,M Kelly,0,0,,,,,,"",""
+ball,1,13.5,Melbourne Stars,GJ Maxwell,HWR Cartwright,M Kelly,2,0,,,,,,"",""
+ball,1,13.6,Melbourne Stars,GJ Maxwell,HWR Cartwright,M Kelly,0,0,,,,,,caught,GJ Maxwell
+ball,1,13.7,Melbourne Stars,NCR Larkin,HWR Cartwright,M Kelly,2,0,,,,,,"",""
+ball,1,14.1,Melbourne Stars,HWR Cartwright,NCR Larkin,MR Marsh,1,0,,,,,,"",""
+ball,1,14.2,Melbourne Stars,NCR Larkin,HWR Cartwright,MR Marsh,1,0,,,,,,"",""
+ball,1,14.3,Melbourne Stars,HWR Cartwright,NCR Larkin,MR Marsh,4,0,,,,,,"",""
+ball,1,14.4,Melbourne Stars,HWR Cartwright,NCR Larkin,MR Marsh,1,0,,,,,,"",""
+ball,1,14.5,Melbourne Stars,NCR Larkin,HWR Cartwright,MR Marsh,1,0,,,,,,"",""
+ball,1,14.6,Melbourne Stars,HWR Cartwright,NCR Larkin,MR Marsh,1,0,,,,,,"",""
+ball,1,15.1,Melbourne Stars,HWR Cartwright,NCR Larkin,Fawad Ahmed,2,0,,,,,,"",""
+ball,1,15.2,Melbourne Stars,HWR Cartwright,NCR Larkin,Fawad Ahmed,1,0,,,,,,"",""
+ball,1,15.3,Melbourne Stars,NCR Larkin,HWR Cartwright,Fawad Ahmed,0,0,,,,,,"",""
+ball,1,15.4,Melbourne Stars,NCR Larkin,HWR Cartwright,Fawad Ahmed,1,0,,,,,,"",""
+ball,1,15.5,Melbourne Stars,HWR Cartwright,NCR Larkin,Fawad Ahmed,4,0,,,,,,"",""
+ball,1,15.6,Melbourne Stars,HWR Cartwright,NCR Larkin,Fawad Ahmed,2,0,,,,,,"",""
+ball,1,16.1,Melbourne Stars,NCR Larkin,HWR Cartwright,M Kelly,0,1,1,,,,,"",""
+ball,1,16.2,Melbourne Stars,NCR Larkin,HWR Cartwright,M Kelly,0,0,,,,,,"",""
+ball,1,16.3,Melbourne Stars,NCR Larkin,HWR Cartwright,M Kelly,1,0,,,,,,"",""
+ball,1,16.4,Melbourne Stars,HWR Cartwright,NCR Larkin,M Kelly,1,0,,,,,,"",""
+ball,1,16.5,Melbourne Stars,NCR Larkin,HWR Cartwright,M Kelly,1,0,,,,,,"",""
+ball,1,16.6,Melbourne Stars,HWR Cartwright,NCR Larkin,M Kelly,2,0,,,,,,"",""
+ball,1,16.7,Melbourne Stars,HWR Cartwright,NCR Larkin,M Kelly,2,0,,,,,,"",""
+ball,1,17.1,Melbourne Stars,NCR Larkin,HWR Cartwright,CJ Jordan,0,0,,,,,,"",""
+ball,1,17.2,Melbourne Stars,NCR Larkin,HWR Cartwright,CJ Jordan,4,0,,,,,,"",""
+ball,1,17.3,Melbourne Stars,NCR Larkin,HWR Cartwright,CJ Jordan,1,0,,,,,,"",""
+ball,1,17.4,Melbourne Stars,HWR Cartwright,NCR Larkin,CJ Jordan,1,0,,,,,,"",""
+ball,1,17.5,Melbourne Stars,NCR Larkin,HWR Cartwright,CJ Jordan,4,0,,,,,,"",""
+ball,1,17.6,Melbourne Stars,NCR Larkin,HWR Cartwright,CJ Jordan,0,1,,,,1,,"",""
+ball,1,18.1,Melbourne Stars,NCR Larkin,HWR Cartwright,JA Richardson,0,1,1,,,,,"",""
+ball,1,18.2,Melbourne Stars,NCR Larkin,HWR Cartwright,JA Richardson,0,1,1,,,,,"",""
+ball,1,18.3,Melbourne Stars,NCR Larkin,HWR Cartwright,JA Richardson,4,0,,,,,,"",""
+ball,1,18.4,Melbourne Stars,NCR Larkin,HWR Cartwright,JA Richardson,2,0,,,,,,"",""
+ball,1,18.5,Melbourne Stars,NCR Larkin,HWR Cartwright,JA Richardson,0,0,,,,,,"",""
+ball,1,18.6,Melbourne Stars,NCR Larkin,HWR Cartwright,JA Richardson,2,0,,,,,,"",""
+ball,1,18.7,Melbourne Stars,NCR Larkin,HWR Cartwright,JA Richardson,0,0,,,,,,bowled,NCR Larkin
+ball,1,18.8,Melbourne Stars,SE Gotch,HWR Cartwright,JA Richardson,2,0,,,,,,"",""
+ball,1,19.1,Melbourne Stars,HWR Cartwright,SE Gotch,CJ Jordan,0,0,,,,,,run out,SE Gotch
+ball,1,19.2,Melbourne Stars,HWR Cartwright,CD Hinchliffe,CJ Jordan,1,0,,,,,,"",""
+ball,1,19.3,Melbourne Stars,CD Hinchliffe,HWR Cartwright,CJ Jordan,1,0,,,,,,"",""
+ball,1,19.4,Melbourne Stars,HWR Cartwright,CD Hinchliffe,CJ Jordan,4,0,,,,,,"",""
+ball,1,19.5,Melbourne Stars,HWR Cartwright,CD Hinchliffe,CJ Jordan,1,0,,,,,,"",""
+ball,1,19.6,Melbourne Stars,CD Hinchliffe,HWR Cartwright,CJ Jordan,0,1,,,,1,,"",""
+ball,2,0.1,Perth Scorchers,JP Inglis,LS Livingstone,DJ Worrall,2,0,,,,,,"",""
+ball,2,0.2,Perth Scorchers,JP Inglis,LS Livingstone,DJ Worrall,1,0,,,,,,"",""
+ball,2,0.3,Perth Scorchers,LS Livingstone,JP Inglis,DJ Worrall,3,0,,,,,,"",""
+ball,2,0.4,Perth Scorchers,JP Inglis,LS Livingstone,DJ Worrall,1,0,,,,,,"",""
+ball,2,0.5,Perth Scorchers,LS Livingstone,JP Inglis,DJ Worrall,0,0,,,,,,"",""
+ball,2,0.6,Perth Scorchers,LS Livingstone,JP Inglis,DJ Worrall,0,0,,,,,,"",""
+ball,2,1.1,Perth Scorchers,JP Inglis,LS Livingstone,NM Coulter-Nile,4,0,,,,,,"",""
+ball,2,1.2,Perth Scorchers,JP Inglis,LS Livingstone,NM Coulter-Nile,4,0,,,,,,"",""
+ball,2,1.3,Perth Scorchers,JP Inglis,LS Livingstone,NM Coulter-Nile,0,0,,,,,,"",""
+ball,2,1.4,Perth Scorchers,JP Inglis,LS Livingstone,NM Coulter-Nile,0,1,,,,1,,"",""
+ball,2,1.5,Perth Scorchers,LS Livingstone,JP Inglis,NM Coulter-Nile,0,0,,,,,,"",""
+ball,2,1.6,Perth Scorchers,LS Livingstone,JP Inglis,NM Coulter-Nile,0,0,,,,,,"",""
+ball,2,2.1,Perth Scorchers,JP Inglis,LS Livingstone,DJ Worrall,0,0,,,,,,"",""
+ball,2,2.2,Perth Scorchers,JP Inglis,LS Livingstone,DJ Worrall,0,0,,,,,,bowled,JP Inglis
+ball,2,2.3,Perth Scorchers,CT Bancroft,LS Livingstone,DJ Worrall,0,0,,,,,,"",""
+ball,2,2.4,Perth Scorchers,CT Bancroft,LS Livingstone,DJ Worrall,0,0,,,,,,"",""
+ball,2,2.5,Perth Scorchers,CT Bancroft,LS Livingstone,DJ Worrall,1,0,,,,,,"",""
+ball,2,2.6,Perth Scorchers,LS Livingstone,CT Bancroft,DJ Worrall,0,0,,,,,,"",""
+ball,2,3.1,Perth Scorchers,CT Bancroft,LS Livingstone,LR Morris,1,1,,1,,,,"",""
+ball,2,3.2,Perth Scorchers,LS Livingstone,CT Bancroft,LR Morris,6,0,,,,,,"",""
+ball,2,3.3,Perth Scorchers,LS Livingstone,CT Bancroft,LR Morris,1,0,,,,,,"",""
+ball,2,3.4,Perth Scorchers,CT Bancroft,LS Livingstone,LR Morris,0,0,,,,,,"",""
+ball,2,3.5,Perth Scorchers,CT Bancroft,LS Livingstone,LR Morris,0,0,,,,,,"",""
+ball,2,3.6,Perth Scorchers,CT Bancroft,LS Livingstone,LR Morris,0,0,,,,,,"",""
+ball,2,3.7,Perth Scorchers,CT Bancroft,LS Livingstone,LR Morris,3,0,,,,,,"",""
+ball,2,4.1,Perth Scorchers,CT Bancroft,LS Livingstone,DJ Worrall,0,0,,,,,,"",""
+ball,2,4.2,Perth Scorchers,CT Bancroft,LS Livingstone,DJ Worrall,2,0,,,,,,"",""
+ball,2,4.3,Perth Scorchers,CT Bancroft,LS Livingstone,DJ Worrall,0,0,,,,,,"",""
+ball,2,4.4,Perth Scorchers,CT Bancroft,LS Livingstone,DJ Worrall,1,0,,,,,,"",""
+ball,2,4.5,Perth Scorchers,LS Livingstone,CT Bancroft,DJ Worrall,4,0,,,,,,"",""
+ball,2,4.6,Perth Scorchers,LS Livingstone,CT Bancroft,DJ Worrall,1,0,,,,,,"",""
+ball,2,5.1,Perth Scorchers,LS Livingstone,CT Bancroft,NM Coulter-Nile,2,0,,,,,,"",""
+ball,2,5.2,Perth Scorchers,LS Livingstone,CT Bancroft,NM Coulter-Nile,1,0,,,,,,"",""
+ball,2,5.3,Perth Scorchers,CT Bancroft,LS Livingstone,NM Coulter-Nile,0,0,,,,,,"",""
+ball,2,5.4,Perth Scorchers,CT Bancroft,LS Livingstone,NM Coulter-Nile,0,0,,,,,,"",""
+ball,2,5.5,Perth Scorchers,CT Bancroft,LS Livingstone,NM Coulter-Nile,0,0,,,,,,"",""
+ball,2,5.6,Perth Scorchers,CT Bancroft,LS Livingstone,NM Coulter-Nile,1,0,,,,,,"",""
+ball,2,6.1,Perth Scorchers,CT Bancroft,LS Livingstone,S Lamichhane,4,0,,,,,,"",""
+ball,2,6.2,Perth Scorchers,CT Bancroft,LS Livingstone,S Lamichhane,0,1,,,,1,,"",""
+ball,2,6.3,Perth Scorchers,LS Livingstone,CT Bancroft,S Lamichhane,0,0,,,,,,"",""
+ball,2,6.4,Perth Scorchers,LS Livingstone,CT Bancroft,S Lamichhane,0,0,,,,,,caught,LS Livingstone
+ball,2,6.5,Perth Scorchers,CT Bancroft,MR Marsh,S Lamichhane,1,0,,,,,,"",""
+ball,2,6.6,Perth Scorchers,MR Marsh,CT Bancroft,S Lamichhane,1,0,,,,,,"",""
+ball,2,7.1,Perth Scorchers,MR Marsh,CT Bancroft,CD Hinchliffe,1,0,,,,,,"",""
+ball,2,7.2,Perth Scorchers,CT Bancroft,MR Marsh,CD Hinchliffe,1,0,,,,,,"",""
+ball,2,7.3,Perth Scorchers,MR Marsh,CT Bancroft,CD Hinchliffe,1,0,,,,,,"",""
+ball,2,7.4,Perth Scorchers,CT Bancroft,MR Marsh,CD Hinchliffe,1,0,,,,,,"",""
+ball,2,7.5,Perth Scorchers,MR Marsh,CT Bancroft,CD Hinchliffe,1,0,,,,,,"",""
+ball,2,7.6,Perth Scorchers,CT Bancroft,MR Marsh,CD Hinchliffe,0,0,,,,,,"",""
+ball,2,8.1,Perth Scorchers,MR Marsh,CT Bancroft,S Lamichhane,0,0,,,,,,"",""
+ball,2,8.2,Perth Scorchers,MR Marsh,CT Bancroft,S Lamichhane,0,1,1,,,,,"",""
+ball,2,8.3,Perth Scorchers,MR Marsh,CT Bancroft,S Lamichhane,1,0,,,,,,"",""
+ball,2,8.4,Perth Scorchers,CT Bancroft,MR Marsh,S Lamichhane,1,0,,,,,,"",""
+ball,2,8.5,Perth Scorchers,MR Marsh,CT Bancroft,S Lamichhane,0,0,,,,,,"",""
+ball,2,8.6,Perth Scorchers,MR Marsh,CT Bancroft,S Lamichhane,4,0,,,,,,"",""
+ball,2,8.7,Perth Scorchers,MR Marsh,CT Bancroft,S Lamichhane,2,0,,,,,,"",""
+ball,2,9.1,Perth Scorchers,CT Bancroft,MR Marsh,NJ Maddinson,0,0,,,,,,run out,MR Marsh
+ball,2,9.2,Perth Scorchers,KR Patterson,CT Bancroft,NJ Maddinson,0,0,,,,,,"",""
+ball,2,9.3,Perth Scorchers,KR Patterson,CT Bancroft,NJ Maddinson,1,0,,,,,,"",""
+ball,2,9.4,Perth Scorchers,CT Bancroft,KR Patterson,NJ Maddinson,0,0,,,,,,"",""
+ball,2,9.5,Perth Scorchers,CT Bancroft,KR Patterson,NJ Maddinson,1,0,,,,,,"",""
+ball,2,9.6,Perth Scorchers,KR Patterson,CT Bancroft,NJ Maddinson,0,1,1,,,,,"",""
+ball,2,9.7,Perth Scorchers,KR Patterson,CT Bancroft,NJ Maddinson,1,0,,,,,,"",""
+ball,2,10.1,Perth Scorchers,KR Patterson,CT Bancroft,GJ Maxwell,1,0,,,,,,"",""
+ball,2,10.2,Perth Scorchers,CT Bancroft,KR Patterson,GJ Maxwell,4,0,,,,,,"",""
+ball,2,10.3,Perth Scorchers,CT Bancroft,KR Patterson,GJ Maxwell,1,0,,,,,,"",""
+ball,2,10.4,Perth Scorchers,KR Patterson,CT Bancroft,GJ Maxwell,0,0,,,,,,"",""
+ball,2,10.5,Perth Scorchers,KR Patterson,CT Bancroft,GJ Maxwell,1,0,,,,,,"",""
+ball,2,10.6,Perth Scorchers,CT Bancroft,KR Patterson,GJ Maxwell,1,0,,,,,,"",""
+ball,2,11.1,Perth Scorchers,CT Bancroft,KR Patterson,CD Hinchliffe,0,1,1,,,,,"",""
+ball,2,11.2,Perth Scorchers,CT Bancroft,KR Patterson,CD Hinchliffe,0,0,,,,,,"",""
+ball,2,11.3,Perth Scorchers,CT Bancroft,KR Patterson,CD Hinchliffe,1,0,,,,,,"",""
+ball,2,11.4,Perth Scorchers,KR Patterson,CT Bancroft,CD Hinchliffe,1,0,,,,,,"",""
+ball,2,11.5,Perth Scorchers,CT Bancroft,KR Patterson,CD Hinchliffe,0,0,,,,,,"",""
+ball,2,11.6,Perth Scorchers,CT Bancroft,KR Patterson,CD Hinchliffe,0,0,,,,,,"",""
+ball,2,11.7,Perth Scorchers,CT Bancroft,KR Patterson,CD Hinchliffe,1,0,,,,,,"",""
+ball,2,12.1,Perth Scorchers,CT Bancroft,KR Patterson,GJ Maxwell,1,0,,,,,,"",""
+ball,2,12.2,Perth Scorchers,KR Patterson,CT Bancroft,GJ Maxwell,1,0,,,,,,"",""
+ball,2,12.3,Perth Scorchers,CT Bancroft,KR Patterson,GJ Maxwell,1,0,,,,,,"",""
+ball,2,12.4,Perth Scorchers,KR Patterson,CT Bancroft,GJ Maxwell,1,0,,,,,,"",""
+ball,2,12.5,Perth Scorchers,CT Bancroft,KR Patterson,GJ Maxwell,0,0,,,,,,"",""
+ball,2,12.6,Perth Scorchers,CT Bancroft,KR Patterson,GJ Maxwell,1,0,,,,,,"",""
+ball,2,13.1,Perth Scorchers,CT Bancroft,KR Patterson,S Lamichhane,1,0,,,,,,"",""
+ball,2,13.2,Perth Scorchers,KR Patterson,CT Bancroft,S Lamichhane,1,0,,,,,,"",""
+ball,2,13.3,Perth Scorchers,CT Bancroft,KR Patterson,S Lamichhane,1,0,,,,,,"",""
+ball,2,13.4,Perth Scorchers,KR Patterson,CT Bancroft,S Lamichhane,1,0,,,,,,"",""
+ball,2,13.5,Perth Scorchers,CT Bancroft,KR Patterson,S Lamichhane,0,0,,,,,,"",""
+ball,2,13.6,Perth Scorchers,CT Bancroft,KR Patterson,S Lamichhane,0,0,,,,,,"",""
+ball,2,14.1,Perth Scorchers,KR Patterson,CT Bancroft,NJ Maddinson,4,0,,,,,,"",""
+ball,2,14.2,Perth Scorchers,KR Patterson,CT Bancroft,NJ Maddinson,1,0,,,,,,"",""
+ball,2,14.3,Perth Scorchers,CT Bancroft,KR Patterson,NJ Maddinson,1,0,,,,,,"",""
+ball,2,14.4,Perth Scorchers,KR Patterson,CT Bancroft,NJ Maddinson,1,0,,,,,,"",""
+ball,2,14.5,Perth Scorchers,CT Bancroft,KR Patterson,NJ Maddinson,0,0,,,,,,caught and bowled,CT Bancroft
+ball,2,14.6,Perth Scorchers,TH David,KR Patterson,NJ Maddinson,1,0,,,,,,"",""
+ball,2,15.1,Perth Scorchers,TH David,KR Patterson,GJ Maxwell,0,0,,,,,,"",""
+ball,2,15.2,Perth Scorchers,TH David,KR Patterson,GJ Maxwell,1,0,,,,,,"",""
+ball,2,15.3,Perth Scorchers,KR Patterson,TH David,GJ Maxwell,4,0,,,,,,"",""
+ball,2,15.4,Perth Scorchers,KR Patterson,TH David,GJ Maxwell,1,0,,,,,,"",""
+ball,2,15.5,Perth Scorchers,TH David,KR Patterson,GJ Maxwell,1,0,,,,,,"",""
+ball,2,15.6,Perth Scorchers,KR Patterson,TH David,GJ Maxwell,0,0,,,,,,caught,KR Patterson
+ball,2,16.1,Perth Scorchers,TH David,C Green,S Lamichhane,2,0,,,,,,"",""
+ball,2,16.2,Perth Scorchers,TH David,C Green,S Lamichhane,1,0,,,,,,"",""
+ball,2,16.3,Perth Scorchers,C Green,TH David,S Lamichhane,1,0,,,,,,"",""
+ball,2,16.4,Perth Scorchers,TH David,C Green,S Lamichhane,1,0,,,,,,"",""
+ball,2,16.5,Perth Scorchers,C Green,TH David,S Lamichhane,1,0,,,,,,"",""
+ball,2,16.6,Perth Scorchers,TH David,C Green,S Lamichhane,4,0,,,,,,"",""
+ball,2,17.1,Perth Scorchers,C Green,TH David,NJ Maddinson,1,0,,,,,,"",""
+ball,2,17.2,Perth Scorchers,TH David,C Green,NJ Maddinson,0,0,,,,,,stumped,TH David
+ball,2,17.3,Perth Scorchers,CJ Jordan,C Green,NJ Maddinson,1,0,,,,,,"",""
+ball,2,17.4,Perth Scorchers,C Green,CJ Jordan,NJ Maddinson,1,0,,,,,,"",""
+ball,2,17.5,Perth Scorchers,CJ Jordan,C Green,NJ Maddinson,0,0,,,,,,run out,C Green
+ball,2,17.6,Perth Scorchers,JA Richardson,CJ Jordan,NJ Maddinson,1,0,,,,,,"",""
+ball,2,18.1,Perth Scorchers,JA Richardson,CJ Jordan,CD Hinchliffe,1,0,,,,,,"",""
+ball,2,18.2,Perth Scorchers,CJ Jordan,JA Richardson,CD Hinchliffe,1,0,,,,,,"",""
+ball,2,18.3,Perth Scorchers,JA Richardson,CJ Jordan,CD Hinchliffe,2,0,,,,,,"",""
+ball,2,18.4,Perth Scorchers,JA Richardson,CJ Jordan,CD Hinchliffe,1,0,,,,,,"",""
+ball,2,18.5,Perth Scorchers,CJ Jordan,JA Richardson,CD Hinchliffe,0,0,,,,,,caught,CJ Jordan
+ball,2,18.6,Perth Scorchers,JA Richardson,M Kelly,CD Hinchliffe,2,0,,,,,,"",""
+ball,2,19.1,Perth Scorchers,M Kelly,JA Richardson,NJ Maddinson,1,0,,,,,,"",""
+ball,2,19.2,Perth Scorchers,JA Richardson,M Kelly,NJ Maddinson,1,0,,,,,,"",""
+ball,2,19.3,Perth Scorchers,M Kelly,JA Richardson,NJ Maddinson,4,0,,,,,,"",""
+ball,2,19.4,Perth Scorchers,M Kelly,JA Richardson,NJ Maddinson,0,0,,,,,,stumped,M Kelly
+ball,2,19.5,Perth Scorchers,Fawad Ahmed,JA Richardson,NJ Maddinson,1,0,,,,,,"",""
+ball,2,19.6,Perth Scorchers,JA Richardson,Fawad Ahmed,NJ Maddinson,1,0,,,,,,"",""

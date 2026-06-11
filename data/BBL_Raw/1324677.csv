@@ -1,0 +1,313 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Adelaide Strikers
+info,team,Melbourne Renegades
+info,gender,male
+info,season,2022/23
+info,date,2023/01/24
+info,event,Big Bash League
+info,match_number,54
+info,venue,"Docklands Stadium, Melbourne"
+info,city,Melbourne
+info,toss_winner,Melbourne Renegades
+info,toss_decision,field
+info,player_of_match,AJ Finch
+info,umpire,BC Treloar
+info,umpire,PJ Gillespie
+info,reserve_umpire,D Brigham
+info,tv_umpire,GJ Davidson
+info,match_referee,Kent Hannam
+info,winner,Melbourne Renegades
+info,winner_wickets,6
+info,player,Adelaide Strikers,MW Short
+info,player,Adelaide Strikers,TM Head
+info,player,Adelaide Strikers,AT Carey
+info,player,Adelaide Strikers,AJ Hose
+info,player,Adelaide Strikers,C de Grandhomme
+info,player,Adelaide Strikers,RJ Gibson
+info,player,Adelaide Strikers,HJ Nielsen
+info,player,Adelaide Strikers,CJ Boyce
+info,player,Adelaide Strikers,WA Agar
+info,player,Adelaide Strikers,HNA Conway
+info,player,Adelaide Strikers,PM Siddle
+info,player,Melbourne Renegades,MJ Guptill
+info,player,Melbourne Renegades,SE Marsh
+info,player,Melbourne Renegades,SB Harper
+info,player,Melbourne Renegades,AJ Finch
+info,player,Melbourne Renegades,MJJ Critchley
+info,player,Melbourne Renegades,JW Wells
+info,player,Melbourne Renegades,W Sutherland
+info,player,Melbourne Renegades,TS Rogers
+info,player,Melbourne Renegades,CJ Rocchiccioli
+info,player,Melbourne Renegades,KW Richardson
+info,player,Melbourne Renegades,Fawad Ahmed
+info,registry,people,AJ Finch,b8d490fd
+info,registry,people,AJ Hose,104e88a4
+info,registry,people,AT Carey,69d03465
+info,registry,people,BC Treloar,f7e8ee52
+info,registry,people,C de Grandhomme,94d7f855
+info,registry,people,CJ Boyce,51a60c16
+info,registry,people,CJ Rocchiccioli,aa3c7a7a
+info,registry,people,D Brigham,464daf41
+info,registry,people,Fawad Ahmed,22ae3041
+info,registry,people,GJ Davidson,31ad5973
+info,registry,people,HJ Nielsen,0ea1455a
+info,registry,people,HNA Conway,272fc5ad
+info,registry,people,JW Wells,8bdac857
+info,registry,people,KW Richardson,dfc4d8b5
+info,registry,people,Kent Hannam,8cc171e7
+info,registry,people,MJ Guptill,2be41edb
+info,registry,people,MJJ Critchley,c5cc48bc
+info,registry,people,MW Short,a90e53ec
+info,registry,people,PJ Gillespie,3e253a50
+info,registry,people,PM Siddle,bd93fea4
+info,registry,people,RJ Gibson,50636767
+info,registry,people,SB Harper,a756e61a
+info,registry,people,SE Marsh,508a1ea7
+info,registry,people,TM Head,12b610c2
+info,registry,people,TS Rogers,1b04e02b
+info,registry,people,W Sutherland,bc2d4f2e
+info,registry,people,WA Agar,15de1f5d
+ball,1,0.1,Adelaide Strikers,MW Short,TM Head,TS Rogers,0,0,,,,,,"",""
+ball,1,0.2,Adelaide Strikers,MW Short,TM Head,TS Rogers,0,0,,,,,,"",""
+ball,1,0.3,Adelaide Strikers,MW Short,TM Head,TS Rogers,0,0,,,,,,caught and bowled,MW Short
+ball,1,0.4,Adelaide Strikers,AT Carey,TM Head,TS Rogers,1,0,,,,,,"",""
+ball,1,0.5,Adelaide Strikers,TM Head,AT Carey,TS Rogers,0,0,,,,,,"",""
+ball,1,0.6,Adelaide Strikers,TM Head,AT Carey,TS Rogers,0,0,,,,,,"",""
+ball,1,1.1,Adelaide Strikers,AT Carey,TM Head,KW Richardson,0,0,,,,,,"",""
+ball,1,1.2,Adelaide Strikers,AT Carey,TM Head,KW Richardson,1,0,,,,,,"",""
+ball,1,1.3,Adelaide Strikers,TM Head,AT Carey,KW Richardson,0,0,,,,,,"",""
+ball,1,1.4,Adelaide Strikers,TM Head,AT Carey,KW Richardson,0,0,,,,,,"",""
+ball,1,1.5,Adelaide Strikers,TM Head,AT Carey,KW Richardson,1,0,,,,,,"",""
+ball,1,1.6,Adelaide Strikers,AT Carey,TM Head,KW Richardson,0,0,,,,,,"",""
+ball,1,2.1,Adelaide Strikers,TM Head,AT Carey,TS Rogers,0,0,,,,,,"",""
+ball,1,2.2,Adelaide Strikers,TM Head,AT Carey,TS Rogers,0,0,,,,,,"",""
+ball,1,2.3,Adelaide Strikers,TM Head,AT Carey,TS Rogers,0,0,,,,,,"",""
+ball,1,2.4,Adelaide Strikers,TM Head,AT Carey,TS Rogers,0,0,,,,,,"",""
+ball,1,2.5,Adelaide Strikers,TM Head,AT Carey,TS Rogers,0,0,,,,,,"",""
+ball,1,2.6,Adelaide Strikers,TM Head,AT Carey,TS Rogers,0,0,,,,,,"",""
+ball,1,3.1,Adelaide Strikers,AT Carey,TM Head,W Sutherland,4,0,,,,,,"",""
+ball,1,3.2,Adelaide Strikers,AT Carey,TM Head,W Sutherland,0,0,,,,,,"",""
+ball,1,3.3,Adelaide Strikers,AT Carey,TM Head,W Sutherland,0,2,,,,2,,"",""
+ball,1,3.4,Adelaide Strikers,AT Carey,TM Head,W Sutherland,1,0,,,,,,"",""
+ball,1,3.5,Adelaide Strikers,TM Head,AT Carey,W Sutherland,1,0,,,,,,"",""
+ball,1,3.6,Adelaide Strikers,AT Carey,TM Head,W Sutherland,4,0,,,,,,"",""
+ball,1,4.1,Adelaide Strikers,TM Head,AT Carey,CJ Rocchiccioli,2,0,,,,,,"",""
+ball,1,4.2,Adelaide Strikers,TM Head,AT Carey,CJ Rocchiccioli,2,0,,,,,,"",""
+ball,1,4.3,Adelaide Strikers,TM Head,AT Carey,CJ Rocchiccioli,0,0,,,,,,"",""
+ball,1,4.4,Adelaide Strikers,TM Head,AT Carey,CJ Rocchiccioli,2,0,,,,,,"",""
+ball,1,4.5,Adelaide Strikers,TM Head,AT Carey,CJ Rocchiccioli,0,0,,,,,,"",""
+ball,1,4.6,Adelaide Strikers,TM Head,AT Carey,CJ Rocchiccioli,1,0,,,,,,"",""
+ball,1,5.1,Adelaide Strikers,TM Head,AT Carey,W Sutherland,0,0,,,,,,"",""
+ball,1,5.2,Adelaide Strikers,TM Head,AT Carey,W Sutherland,1,0,,,,,,"",""
+ball,1,5.3,Adelaide Strikers,AT Carey,TM Head,W Sutherland,0,0,,,,,,"",""
+ball,1,5.4,Adelaide Strikers,AT Carey,TM Head,W Sutherland,1,0,,,,,,"",""
+ball,1,5.5,Adelaide Strikers,TM Head,AT Carey,W Sutherland,1,0,,,,,,"",""
+ball,1,5.6,Adelaide Strikers,AT Carey,TM Head,W Sutherland,0,0,,,,,,"",""
+ball,1,6.1,Adelaide Strikers,TM Head,AT Carey,Fawad Ahmed,0,0,,,,,,"",""
+ball,1,6.2,Adelaide Strikers,TM Head,AT Carey,Fawad Ahmed,0,0,,,,,,"",""
+ball,1,6.3,Adelaide Strikers,TM Head,AT Carey,Fawad Ahmed,0,0,,,,,,"",""
+ball,1,6.4,Adelaide Strikers,TM Head,AT Carey,Fawad Ahmed,0,0,,,,,,"",""
+ball,1,6.5,Adelaide Strikers,TM Head,AT Carey,Fawad Ahmed,6,0,,,,,,"",""
+ball,1,6.6,Adelaide Strikers,TM Head,AT Carey,Fawad Ahmed,0,0,,,,,,"",""
+ball,1,7.1,Adelaide Strikers,AT Carey,TM Head,CJ Rocchiccioli,4,0,,,,,,"",""
+ball,1,7.2,Adelaide Strikers,AT Carey,TM Head,CJ Rocchiccioli,1,0,,,,,,"",""
+ball,1,7.3,Adelaide Strikers,TM Head,AT Carey,CJ Rocchiccioli,1,0,,,,,,"",""
+ball,1,7.4,Adelaide Strikers,AT Carey,TM Head,CJ Rocchiccioli,1,0,,,,,,"",""
+ball,1,7.5,Adelaide Strikers,TM Head,AT Carey,CJ Rocchiccioli,1,0,,,,,,"",""
+ball,1,7.6,Adelaide Strikers,AT Carey,TM Head,CJ Rocchiccioli,0,0,,,,,,"",""
+ball,1,8.1,Adelaide Strikers,TM Head,AT Carey,Fawad Ahmed,0,0,,,,,,"",""
+ball,1,8.2,Adelaide Strikers,TM Head,AT Carey,Fawad Ahmed,0,0,,,,,,"",""
+ball,1,8.3,Adelaide Strikers,TM Head,AT Carey,Fawad Ahmed,0,0,,,,,,caught,TM Head
+ball,1,8.4,Adelaide Strikers,AJ Hose,AT Carey,Fawad Ahmed,0,0,,,,,,"",""
+ball,1,8.5,Adelaide Strikers,AJ Hose,AT Carey,Fawad Ahmed,1,0,,,,,,"",""
+ball,1,8.6,Adelaide Strikers,AT Carey,AJ Hose,Fawad Ahmed,1,0,,,,,,"",""
+ball,1,9.1,Adelaide Strikers,AT Carey,AJ Hose,CJ Rocchiccioli,0,0,,,,,,"",""
+ball,1,9.2,Adelaide Strikers,AT Carey,AJ Hose,CJ Rocchiccioli,2,0,,,,,,"",""
+ball,1,9.3,Adelaide Strikers,AT Carey,AJ Hose,CJ Rocchiccioli,0,1,1,,,,,"",""
+ball,1,9.4,Adelaide Strikers,AT Carey,AJ Hose,CJ Rocchiccioli,1,0,,,,,,"",""
+ball,1,9.5,Adelaide Strikers,AJ Hose,AT Carey,CJ Rocchiccioli,2,0,,,,,,"",""
+ball,1,9.6,Adelaide Strikers,AJ Hose,AT Carey,CJ Rocchiccioli,1,0,,,,,,"",""
+ball,1,9.7,Adelaide Strikers,AT Carey,AJ Hose,CJ Rocchiccioli,1,0,,,,,,"",""
+ball,1,10.1,Adelaide Strikers,AT Carey,AJ Hose,KW Richardson,2,0,,,,,,"",""
+ball,1,10.2,Adelaide Strikers,AT Carey,AJ Hose,KW Richardson,0,0,,,,,,"",""
+ball,1,10.3,Adelaide Strikers,AT Carey,AJ Hose,KW Richardson,0,1,1,,,,,"",""
+ball,1,10.4,Adelaide Strikers,AT Carey,AJ Hose,KW Richardson,4,0,,,,,,"",""
+ball,1,10.5,Adelaide Strikers,AT Carey,AJ Hose,KW Richardson,0,0,,,,,,"",""
+ball,1,10.6,Adelaide Strikers,AT Carey,AJ Hose,KW Richardson,6,0,,,,,,"",""
+ball,1,10.7,Adelaide Strikers,AT Carey,AJ Hose,KW Richardson,4,0,,,,,,"",""
+ball,1,11.1,Adelaide Strikers,AJ Hose,AT Carey,CJ Rocchiccioli,1,0,,,,,,"",""
+ball,1,11.2,Adelaide Strikers,AT Carey,AJ Hose,CJ Rocchiccioli,0,0,,,,,,"",""
+ball,1,11.3,Adelaide Strikers,AT Carey,AJ Hose,CJ Rocchiccioli,1,0,,,,,,"",""
+ball,1,11.4,Adelaide Strikers,AJ Hose,AT Carey,CJ Rocchiccioli,6,0,,,,,,"",""
+ball,1,11.5,Adelaide Strikers,AJ Hose,AT Carey,CJ Rocchiccioli,0,0,,,,,,caught,AJ Hose
+ball,1,11.6,Adelaide Strikers,C de Grandhomme,AT Carey,CJ Rocchiccioli,0,1,1,,,,,"",""
+ball,1,11.7,Adelaide Strikers,C de Grandhomme,AT Carey,CJ Rocchiccioli,4,0,,,,,,"",""
+ball,1,12.1,Adelaide Strikers,AT Carey,C de Grandhomme,Fawad Ahmed,4,0,,,,,,"",""
+ball,1,12.2,Adelaide Strikers,AT Carey,C de Grandhomme,Fawad Ahmed,0,0,,,,,,"",""
+ball,1,12.3,Adelaide Strikers,AT Carey,C de Grandhomme,Fawad Ahmed,0,1,,,1,,,"",""
+ball,1,12.4,Adelaide Strikers,C de Grandhomme,AT Carey,Fawad Ahmed,0,0,,,,,,"",""
+ball,1,12.5,Adelaide Strikers,C de Grandhomme,AT Carey,Fawad Ahmed,4,0,,,,,,"",""
+ball,1,12.6,Adelaide Strikers,C de Grandhomme,AT Carey,Fawad Ahmed,0,0,,,,,,caught,C de Grandhomme
+ball,1,13.1,Adelaide Strikers,AT Carey,RJ Gibson,W Sutherland,4,0,,,,,,"",""
+ball,1,13.2,Adelaide Strikers,AT Carey,RJ Gibson,W Sutherland,4,0,,,,,,"",""
+ball,1,13.3,Adelaide Strikers,AT Carey,RJ Gibson,W Sutherland,0,0,,,,,,"",""
+ball,1,13.4,Adelaide Strikers,AT Carey,RJ Gibson,W Sutherland,3,0,,,,,,"",""
+ball,1,13.5,Adelaide Strikers,RJ Gibson,AT Carey,W Sutherland,1,0,,,,,,"",""
+ball,1,13.6,Adelaide Strikers,AT Carey,RJ Gibson,W Sutherland,0,0,,,,,,"",""
+ball,1,14.1,Adelaide Strikers,RJ Gibson,AT Carey,MJJ Critchley,0,0,,,,,,"",""
+ball,1,14.2,Adelaide Strikers,RJ Gibson,AT Carey,MJJ Critchley,2,0,,,,,,"",""
+ball,1,14.3,Adelaide Strikers,RJ Gibson,AT Carey,MJJ Critchley,1,0,,,,,,"",""
+ball,1,14.4,Adelaide Strikers,AT Carey,RJ Gibson,MJJ Critchley,4,0,,,,,,"",""
+ball,1,14.5,Adelaide Strikers,AT Carey,RJ Gibson,MJJ Critchley,1,0,,,,,,"",""
+ball,1,14.6,Adelaide Strikers,RJ Gibson,AT Carey,MJJ Critchley,2,0,,,,,,"",""
+ball,1,15.1,Adelaide Strikers,AT Carey,RJ Gibson,TS Rogers,0,0,,,,,,"",""
+ball,1,15.2,Adelaide Strikers,AT Carey,RJ Gibson,TS Rogers,2,0,,,,,,"",""
+ball,1,15.3,Adelaide Strikers,AT Carey,RJ Gibson,TS Rogers,0,0,,,,,,"",""
+ball,1,15.4,Adelaide Strikers,AT Carey,RJ Gibson,TS Rogers,1,0,,,,,,"",""
+ball,1,15.5,Adelaide Strikers,RJ Gibson,AT Carey,TS Rogers,1,0,,,,,,"",""
+ball,1,15.6,Adelaide Strikers,AT Carey,RJ Gibson,TS Rogers,1,0,,,,,,"",""
+ball,1,16.1,Adelaide Strikers,AT Carey,RJ Gibson,Fawad Ahmed,0,0,,,,,,"",""
+ball,1,16.2,Adelaide Strikers,AT Carey,RJ Gibson,Fawad Ahmed,1,0,,,,,,"",""
+ball,1,16.3,Adelaide Strikers,RJ Gibson,AT Carey,Fawad Ahmed,0,0,,,,,,"",""
+ball,1,16.4,Adelaide Strikers,RJ Gibson,AT Carey,Fawad Ahmed,0,0,,,,,,caught,RJ Gibson
+ball,1,16.5,Adelaide Strikers,HJ Nielsen,AT Carey,Fawad Ahmed,0,0,,,,,,"",""
+ball,1,16.6,Adelaide Strikers,HJ Nielsen,AT Carey,Fawad Ahmed,0,0,,,,,,"",""
+ball,1,17.1,Adelaide Strikers,AT Carey,HJ Nielsen,KW Richardson,0,0,,,,,,caught,AT Carey
+ball,1,17.2,Adelaide Strikers,CJ Boyce,HJ Nielsen,KW Richardson,1,0,,,,,,"",""
+ball,1,17.3,Adelaide Strikers,HJ Nielsen,CJ Boyce,KW Richardson,1,0,,,,,,"",""
+ball,1,17.4,Adelaide Strikers,CJ Boyce,HJ Nielsen,KW Richardson,0,0,,,,,,"",""
+ball,1,17.5,Adelaide Strikers,CJ Boyce,HJ Nielsen,KW Richardson,0,0,,,,,,run out,CJ Boyce
+ball,1,17.6,Adelaide Strikers,HJ Nielsen,WA Agar,KW Richardson,1,0,,,,,,"",""
+ball,1,18.1,Adelaide Strikers,HJ Nielsen,WA Agar,TS Rogers,1,0,,,,,,"",""
+ball,1,18.2,Adelaide Strikers,WA Agar,HJ Nielsen,TS Rogers,2,0,,,,,,"",""
+ball,1,18.3,Adelaide Strikers,WA Agar,HJ Nielsen,TS Rogers,1,0,,,,,,"",""
+ball,1,18.4,Adelaide Strikers,HJ Nielsen,WA Agar,TS Rogers,0,0,,,,,,"",""
+ball,1,18.5,Adelaide Strikers,HJ Nielsen,WA Agar,TS Rogers,1,0,,,,,,"",""
+ball,1,18.6,Adelaide Strikers,WA Agar,HJ Nielsen,TS Rogers,1,0,,,,,,"",""
+ball,1,19.1,Adelaide Strikers,WA Agar,HJ Nielsen,W Sutherland,1,0,,,,,,"",""
+ball,1,19.2,Adelaide Strikers,HJ Nielsen,WA Agar,W Sutherland,0,0,,,,,,"",""
+ball,1,19.3,Adelaide Strikers,HJ Nielsen,WA Agar,W Sutherland,0,1,,1,,,,"",""
+ball,1,19.4,Adelaide Strikers,HJ Nielsen,WA Agar,W Sutherland,4,0,,,,,,"",""
+ball,1,19.5,Adelaide Strikers,HJ Nielsen,WA Agar,W Sutherland,6,0,,,,,,"",""
+ball,1,19.6,Adelaide Strikers,HJ Nielsen,WA Agar,W Sutherland,2,0,,,,,,"",""
+ball,1,19.7,Adelaide Strikers,HJ Nielsen,WA Agar,W Sutherland,0,1,1,,,,,"",""
+ball,1,19.8,Adelaide Strikers,HJ Nielsen,WA Agar,W Sutherland,2,0,,,,,,"",""
+ball,2,0.1,Melbourne Renegades,MJ Guptill,SE Marsh,MW Short,2,0,,,,,,"",""
+ball,2,0.2,Melbourne Renegades,MJ Guptill,SE Marsh,MW Short,6,0,,,,,,"",""
+ball,2,0.3,Melbourne Renegades,MJ Guptill,SE Marsh,MW Short,0,0,,,,,,caught,MJ Guptill
+ball,2,0.4,Melbourne Renegades,SB Harper,SE Marsh,MW Short,0,0,,,,,,"",""
+ball,2,0.5,Melbourne Renegades,SB Harper,SE Marsh,MW Short,0,3,,1,,2,,"",""
+ball,2,0.6,Melbourne Renegades,SB Harper,SE Marsh,MW Short,1,0,,,,,,"",""
+ball,2,0.7,Melbourne Renegades,SE Marsh,SB Harper,MW Short,0,1,,,1,,,"",""
+ball,2,1.1,Melbourne Renegades,SE Marsh,SB Harper,WA Agar,0,1,1,,,,,"",""
+ball,2,1.2,Melbourne Renegades,SE Marsh,SB Harper,WA Agar,0,0,,,,,,caught,SE Marsh
+ball,2,1.3,Melbourne Renegades,AJ Finch,SB Harper,WA Agar,0,0,,,,,,"",""
+ball,2,1.4,Melbourne Renegades,AJ Finch,SB Harper,WA Agar,0,0,,,,,,"",""
+ball,2,1.5,Melbourne Renegades,AJ Finch,SB Harper,WA Agar,0,1,1,,,,,"",""
+ball,2,1.6,Melbourne Renegades,AJ Finch,SB Harper,WA Agar,0,0,,,,,,"",""
+ball,2,1.7,Melbourne Renegades,AJ Finch,SB Harper,WA Agar,0,1,1,,,,,"",""
+ball,2,1.8,Melbourne Renegades,AJ Finch,SB Harper,WA Agar,0,0,,,,,,"",""
+ball,2,1.9,Melbourne Renegades,AJ Finch,SB Harper,WA Agar,0,0,,,,,,"",""
+ball,2,2.1,Melbourne Renegades,SB Harper,AJ Finch,PM Siddle,0,0,,,,,,lbw,SB Harper
+ball,2,2.2,Melbourne Renegades,MJJ Critchley,AJ Finch,PM Siddle,1,0,,,,,,"",""
+ball,2,2.3,Melbourne Renegades,AJ Finch,MJJ Critchley,PM Siddle,0,0,,,,,,"",""
+ball,2,2.4,Melbourne Renegades,AJ Finch,MJJ Critchley,PM Siddle,0,1,,,,1,,"",""
+ball,2,2.5,Melbourne Renegades,MJJ Critchley,AJ Finch,PM Siddle,0,0,,,,,,"",""
+ball,2,2.6,Melbourne Renegades,MJJ Critchley,AJ Finch,PM Siddle,2,0,,,,,,"",""
+ball,2,3.1,Melbourne Renegades,AJ Finch,MJJ Critchley,WA Agar,0,0,,,,,,"",""
+ball,2,3.2,Melbourne Renegades,AJ Finch,MJJ Critchley,WA Agar,0,0,,,,,,"",""
+ball,2,3.3,Melbourne Renegades,AJ Finch,MJJ Critchley,WA Agar,4,0,,,,,,"",""
+ball,2,3.4,Melbourne Renegades,AJ Finch,MJJ Critchley,WA Agar,0,0,,,,,,"",""
+ball,2,3.5,Melbourne Renegades,AJ Finch,MJJ Critchley,WA Agar,2,0,,,,,,"",""
+ball,2,3.6,Melbourne Renegades,AJ Finch,MJJ Critchley,WA Agar,1,0,,,,,,"",""
+ball,2,4.1,Melbourne Renegades,AJ Finch,MJJ Critchley,CJ Boyce,0,0,,,,,,"",""
+ball,2,4.2,Melbourne Renegades,AJ Finch,MJJ Critchley,CJ Boyce,0,0,,,,,,"",""
+ball,2,4.3,Melbourne Renegades,AJ Finch,MJJ Critchley,CJ Boyce,1,0,,,,,,"",""
+ball,2,4.4,Melbourne Renegades,MJJ Critchley,AJ Finch,CJ Boyce,4,0,,,,,,"",""
+ball,2,4.5,Melbourne Renegades,MJJ Critchley,AJ Finch,CJ Boyce,0,0,,,,,,"",""
+ball,2,4.6,Melbourne Renegades,MJJ Critchley,AJ Finch,CJ Boyce,0,0,,,,,,"",""
+ball,2,5.1,Melbourne Renegades,AJ Finch,MJJ Critchley,HNA Conway,0,1,,,,1,,"",""
+ball,2,5.2,Melbourne Renegades,MJJ Critchley,AJ Finch,HNA Conway,0,0,,,,,,"",""
+ball,2,5.3,Melbourne Renegades,MJJ Critchley,AJ Finch,HNA Conway,1,0,,,,,,"",""
+ball,2,5.4,Melbourne Renegades,AJ Finch,MJJ Critchley,HNA Conway,1,0,,,,,,"",""
+ball,2,5.5,Melbourne Renegades,MJJ Critchley,AJ Finch,HNA Conway,1,0,,,,,,"",""
+ball,2,5.6,Melbourne Renegades,AJ Finch,MJJ Critchley,HNA Conway,1,0,,,,,,"",""
+ball,2,6.1,Melbourne Renegades,AJ Finch,MJJ Critchley,CJ Boyce,6,0,,,,,,"",""
+ball,2,6.2,Melbourne Renegades,AJ Finch,MJJ Critchley,CJ Boyce,1,0,,,,,,"",""
+ball,2,6.3,Melbourne Renegades,MJJ Critchley,AJ Finch,CJ Boyce,0,0,,,,,,"",""
+ball,2,6.4,Melbourne Renegades,MJJ Critchley,AJ Finch,CJ Boyce,1,0,,,,,,"",""
+ball,2,6.5,Melbourne Renegades,AJ Finch,MJJ Critchley,CJ Boyce,1,0,,,,,,"",""
+ball,2,6.6,Melbourne Renegades,MJJ Critchley,AJ Finch,CJ Boyce,0,0,,,,,,"",""
+ball,2,7.1,Melbourne Renegades,AJ Finch,MJJ Critchley,HNA Conway,0,1,1,,,,,"",""
+ball,2,7.2,Melbourne Renegades,AJ Finch,MJJ Critchley,HNA Conway,1,0,,,,,,"",""
+ball,2,7.3,Melbourne Renegades,MJJ Critchley,AJ Finch,HNA Conway,0,0,,,,,,"",""
+ball,2,7.4,Melbourne Renegades,MJJ Critchley,AJ Finch,HNA Conway,1,0,,,,,,"",""
+ball,2,7.5,Melbourne Renegades,AJ Finch,MJJ Critchley,HNA Conway,0,0,,,,,,"",""
+ball,2,7.6,Melbourne Renegades,AJ Finch,MJJ Critchley,HNA Conway,1,0,,,,,,"",""
+ball,2,7.7,Melbourne Renegades,MJJ Critchley,AJ Finch,HNA Conway,6,0,,,,,,"",""
+ball,2,8.1,Melbourne Renegades,AJ Finch,MJJ Critchley,MW Short,0,0,,,,,,"",""
+ball,2,8.2,Melbourne Renegades,AJ Finch,MJJ Critchley,MW Short,4,0,,,,,,"",""
+ball,2,8.3,Melbourne Renegades,AJ Finch,MJJ Critchley,MW Short,1,0,,,,,,"",""
+ball,2,8.4,Melbourne Renegades,MJJ Critchley,AJ Finch,MW Short,0,0,,,,,,"",""
+ball,2,8.5,Melbourne Renegades,MJJ Critchley,AJ Finch,MW Short,1,0,,,,,,"",""
+ball,2,8.6,Melbourne Renegades,AJ Finch,MJJ Critchley,MW Short,1,0,,,,,,"",""
+ball,2,9.1,Melbourne Renegades,AJ Finch,MJJ Critchley,CJ Boyce,0,0,,,,,,"",""
+ball,2,9.2,Melbourne Renegades,AJ Finch,MJJ Critchley,CJ Boyce,1,0,,,,,,"",""
+ball,2,9.3,Melbourne Renegades,MJJ Critchley,AJ Finch,CJ Boyce,1,0,,,,,,"",""
+ball,2,9.4,Melbourne Renegades,AJ Finch,MJJ Critchley,CJ Boyce,1,0,,,,,,"",""
+ball,2,9.5,Melbourne Renegades,MJJ Critchley,AJ Finch,CJ Boyce,4,0,,,,,,"",""
+ball,2,9.6,Melbourne Renegades,MJJ Critchley,AJ Finch,CJ Boyce,1,0,,,,,,"",""
+ball,2,10.1,Melbourne Renegades,MJJ Critchley,AJ Finch,MW Short,1,0,,,,,,"",""
+ball,2,10.2,Melbourne Renegades,AJ Finch,MJJ Critchley,MW Short,1,0,,,,,,"",""
+ball,2,10.3,Melbourne Renegades,MJJ Critchley,AJ Finch,MW Short,0,0,,,,,,"",""
+ball,2,10.4,Melbourne Renegades,MJJ Critchley,AJ Finch,MW Short,0,0,,,,,,"",""
+ball,2,10.5,Melbourne Renegades,MJJ Critchley,AJ Finch,MW Short,6,0,,,,,,"",""
+ball,2,10.6,Melbourne Renegades,MJJ Critchley,AJ Finch,MW Short,1,0,,,,,,"",""
+ball,2,11.1,Melbourne Renegades,MJJ Critchley,AJ Finch,PM Siddle,0,0,,,,,,"",""
+ball,2,11.2,Melbourne Renegades,MJJ Critchley,AJ Finch,PM Siddle,1,0,,,,,,"",""
+ball,2,11.3,Melbourne Renegades,AJ Finch,MJJ Critchley,PM Siddle,1,0,,,,,,"",""
+ball,2,11.4,Melbourne Renegades,MJJ Critchley,AJ Finch,PM Siddle,1,0,,,,,,"",""
+ball,2,11.5,Melbourne Renegades,AJ Finch,MJJ Critchley,PM Siddle,1,0,,,,,,"",""
+ball,2,11.6,Melbourne Renegades,MJJ Critchley,AJ Finch,PM Siddle,1,0,,,,,,run out,MJJ Critchley
+ball,2,12.1,Melbourne Renegades,AJ Finch,JW Wells,C de Grandhomme,0,2,2,,,,,"",""
+ball,2,12.2,Melbourne Renegades,JW Wells,AJ Finch,C de Grandhomme,1,0,,,,,,"",""
+ball,2,12.3,Melbourne Renegades,AJ Finch,JW Wells,C de Grandhomme,0,0,,,,,,"",""
+ball,2,12.4,Melbourne Renegades,AJ Finch,JW Wells,C de Grandhomme,1,0,,,,,,"",""
+ball,2,12.5,Melbourne Renegades,JW Wells,AJ Finch,C de Grandhomme,0,0,,,,,,"",""
+ball,2,12.6,Melbourne Renegades,JW Wells,AJ Finch,C de Grandhomme,0,0,,,,,,"",""
+ball,2,12.7,Melbourne Renegades,JW Wells,AJ Finch,C de Grandhomme,0,0,,,,,,"",""
+ball,2,13.1,Melbourne Renegades,AJ Finch,JW Wells,WA Agar,4,0,,,,,,"",""
+ball,2,13.2,Melbourne Renegades,AJ Finch,JW Wells,WA Agar,1,0,,,,,,"",""
+ball,2,13.3,Melbourne Renegades,JW Wells,AJ Finch,WA Agar,0,0,,,,,,"",""
+ball,2,13.4,Melbourne Renegades,JW Wells,AJ Finch,WA Agar,1,0,,,,,,"",""
+ball,2,13.5,Melbourne Renegades,AJ Finch,JW Wells,WA Agar,0,0,,,,,,"",""
+ball,2,13.6,Melbourne Renegades,AJ Finch,JW Wells,WA Agar,1,0,,,,,,"",""
+ball,2,14.1,Melbourne Renegades,AJ Finch,JW Wells,C de Grandhomme,1,0,,,,,,"",""
+ball,2,14.2,Melbourne Renegades,JW Wells,AJ Finch,C de Grandhomme,1,0,,,,,,"",""
+ball,2,14.3,Melbourne Renegades,AJ Finch,JW Wells,C de Grandhomme,0,1,1,,,,,"",""
+ball,2,14.4,Melbourne Renegades,AJ Finch,JW Wells,C de Grandhomme,3,0,,,,,,"",""
+ball,2,14.5,Melbourne Renegades,JW Wells,AJ Finch,C de Grandhomme,0,2,,,2,,,"",""
+ball,2,14.6,Melbourne Renegades,JW Wells,AJ Finch,C de Grandhomme,1,0,,,,,,"",""
+ball,2,14.7,Melbourne Renegades,AJ Finch,JW Wells,C de Grandhomme,1,0,,,,,,"",""
+ball,2,15.1,Melbourne Renegades,AJ Finch,JW Wells,CJ Boyce,1,0,,,,,,"",""
+ball,2,15.2,Melbourne Renegades,JW Wells,AJ Finch,CJ Boyce,4,0,,,,,,"",""
+ball,2,15.3,Melbourne Renegades,JW Wells,AJ Finch,CJ Boyce,0,0,,,,,,"",""
+ball,2,15.4,Melbourne Renegades,JW Wells,AJ Finch,CJ Boyce,1,0,,,,,,"",""
+ball,2,15.5,Melbourne Renegades,AJ Finch,JW Wells,CJ Boyce,0,0,,,,,,"",""
+ball,2,15.6,Melbourne Renegades,AJ Finch,JW Wells,CJ Boyce,0,0,,,,,,"",""
+ball,2,16.1,Melbourne Renegades,JW Wells,AJ Finch,PM Siddle,1,0,,,,,,"",""
+ball,2,16.2,Melbourne Renegades,AJ Finch,JW Wells,PM Siddle,1,0,,,,,,"",""
+ball,2,16.3,Melbourne Renegades,JW Wells,AJ Finch,PM Siddle,0,0,,,,,,"",""
+ball,2,16.4,Melbourne Renegades,JW Wells,AJ Finch,PM Siddle,1,0,,,,,,"",""
+ball,2,16.5,Melbourne Renegades,AJ Finch,JW Wells,PM Siddle,0,0,,,,,,"",""
+ball,2,16.6,Melbourne Renegades,AJ Finch,JW Wells,PM Siddle,4,0,,,,,,"",""
+ball,2,17.1,Melbourne Renegades,JW Wells,AJ Finch,WA Agar,0,0,,,,,,"",""
+ball,2,17.2,Melbourne Renegades,JW Wells,AJ Finch,WA Agar,1,0,,,,,,"",""
+ball,2,17.3,Melbourne Renegades,AJ Finch,JW Wells,WA Agar,4,0,,,,,,"",""
+ball,2,17.4,Melbourne Renegades,AJ Finch,JW Wells,WA Agar,0,0,,,,,,"",""
+ball,2,17.5,Melbourne Renegades,AJ Finch,JW Wells,WA Agar,4,0,,,,,,"",""
+ball,2,17.6,Melbourne Renegades,AJ Finch,JW Wells,WA Agar,6,0,,,,,,"",""
+ball,2,18.1,Melbourne Renegades,JW Wells,AJ Finch,PM Siddle,4,0,,,,,,"",""
+ball,2,18.2,Melbourne Renegades,JW Wells,AJ Finch,PM Siddle,4,0,,,,,,"",""
+ball,2,18.3,Melbourne Renegades,JW Wells,AJ Finch,PM Siddle,0,1,1,,,,,"",""

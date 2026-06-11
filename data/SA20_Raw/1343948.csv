@@ -1,0 +1,326 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Durban's Super Giants
+info,team,Paarl Royals
+info,gender,male
+info,season,2022/23
+info,date,2023/01/15
+info,event,SA20
+info,match_number,8
+info,venue,"Kingsmead, Durban"
+info,city,Durban
+info,toss_winner,Durban's Super Giants
+info,toss_decision,bat
+info,player_of_match,H Klaasen
+info,umpire,A Steenkamp
+info,umpire,Siphelele Gasa
+info,reserve_umpire,DJ Smith
+info,tv_umpire,BM White
+info,match_referee,ZTA Ndamane
+info,winner,Durban's Super Giants
+info,winner_runs,27
+info,player,Durban's Super Giants,KR Mayers
+info,player,Durban's Super Giants,PWA Mulder
+info,player,Durban's Super Giants,Q de Kock
+info,player,Durban's Super Giants,H Klaasen
+info,player,Durban's Super Giants,KMA Paul
+info,player,Durban's Super Giants,D Pretorius
+info,player,Durban's Super Giants,JO Holder
+info,player,Durban's Super Giants,KA Maharaj
+info,player,Durban's Super Giants,SR Harmer
+info,player,Durban's Super Giants,P Subrayen
+info,player,Durban's Super Giants,RJW Topley
+info,player,Paarl Royals,JJ Roy
+info,player,Paarl Royals,JC Buttler
+info,player,Paarl Royals,WJ Lubbe
+info,player,Paarl Royals,DA Miller
+info,player,Paarl Royals,EJG Morgan
+info,player,Paarl Royals,DJ Vilas
+info,player,Paarl Royals,E Jones
+info,player,Paarl Royals,FD Adams
+info,player,Paarl Royals,BC Fortuin
+info,player,Paarl Royals,I Manack
+info,player,Paarl Royals,L Ngidi
+info,registry,people,A Steenkamp,89c62cf5
+info,registry,people,BC Fortuin,9a2fc964
+info,registry,people,BM White,66c21d35
+info,registry,people,CJ Dala,1cb14aa4
+info,registry,people,D Pretorius,11614d87
+info,registry,people,DA Miller,d67d5f00
+info,registry,people,DJ Smith,d17bec15
+info,registry,people,DJ Vilas,087210b1
+info,registry,people,E Jones,fbfea9c2
+info,registry,people,EJG Morgan,d2a6c0e6
+info,registry,people,FD Adams,f277f531
+info,registry,people,H Klaasen,235c2bb6
+info,registry,people,I Manack,5ec126fa
+info,registry,people,JC Buttler,99b75528
+info,registry,people,JJ Roy,d1c36f5c
+info,registry,people,JO Holder,0f721006
+info,registry,people,KA Maharaj,0b60eb09
+info,registry,people,KMA Paul,75224f22
+info,registry,people,KR Mayers,73c18486
+info,registry,people,L Ngidi,f834dcfc
+info,registry,people,P Subrayen,7ec9711d
+info,registry,people,PWA Mulder,c96f6ac5
+info,registry,people,Q de Kock,372455c4
+info,registry,people,RJW Topley,8db7f47f
+info,registry,people,SR Harmer,23638956
+info,registry,people,Siphelele Gasa,e50baa87
+info,registry,people,WJ Lubbe,10f42013
+info,registry,people,ZTA Ndamane,545cc6db
+ball,1,0.1,Durban's Super Giants,KR Mayers,PWA Mulder,I Manack,4,0,,,,,,"",""
+ball,1,0.2,Durban's Super Giants,KR Mayers,PWA Mulder,I Manack,4,0,,,,,,"",""
+ball,1,0.3,Durban's Super Giants,KR Mayers,PWA Mulder,I Manack,0,0,,,,,,"",""
+ball,1,0.4,Durban's Super Giants,KR Mayers,PWA Mulder,I Manack,0,0,,,,,,"",""
+ball,1,0.5,Durban's Super Giants,KR Mayers,PWA Mulder,I Manack,1,0,,,,,,"",""
+ball,1,0.6,Durban's Super Giants,PWA Mulder,KR Mayers,I Manack,0,0,,,,,,"",""
+ball,1,1.1,Durban's Super Giants,KR Mayers,PWA Mulder,L Ngidi,0,0,,,,,,"",""
+ball,1,1.2,Durban's Super Giants,KR Mayers,PWA Mulder,L Ngidi,1,0,,,,,,"",""
+ball,1,1.3,Durban's Super Giants,PWA Mulder,KR Mayers,L Ngidi,0,0,,,,,,"",""
+ball,1,1.4,Durban's Super Giants,PWA Mulder,KR Mayers,L Ngidi,0,2,2,,,,,"",""
+ball,1,1.5,Durban's Super Giants,KR Mayers,PWA Mulder,L Ngidi,1,0,,,,,,"",""
+ball,1,1.6,Durban's Super Giants,PWA Mulder,KR Mayers,L Ngidi,0,0,,,,,,"",""
+ball,1,1.7,Durban's Super Giants,PWA Mulder,KR Mayers,L Ngidi,0,0,,,,,,"",""
+ball,1,2.1,Durban's Super Giants,KR Mayers,PWA Mulder,WJ Lubbe,0,0,,,,,,"",""
+ball,1,2.2,Durban's Super Giants,KR Mayers,PWA Mulder,WJ Lubbe,1,0,,,,,,"",""
+ball,1,2.3,Durban's Super Giants,PWA Mulder,KR Mayers,WJ Lubbe,1,0,,,,,,"",""
+ball,1,2.4,Durban's Super Giants,KR Mayers,PWA Mulder,WJ Lubbe,1,0,,,,,,"",""
+ball,1,2.5,Durban's Super Giants,PWA Mulder,KR Mayers,WJ Lubbe,6,0,,,,,,"",""
+ball,1,2.6,Durban's Super Giants,PWA Mulder,KR Mayers,WJ Lubbe,1,0,,,,,,"",""
+ball,1,3.1,Durban's Super Giants,PWA Mulder,KR Mayers,FD Adams,2,0,,,,,,"",""
+ball,1,3.2,Durban's Super Giants,PWA Mulder,KR Mayers,FD Adams,1,0,,,,,,"",""
+ball,1,3.3,Durban's Super Giants,KR Mayers,PWA Mulder,FD Adams,4,0,,,,,,"",""
+ball,1,3.4,Durban's Super Giants,KR Mayers,PWA Mulder,FD Adams,6,0,,,,,,"",""
+ball,1,3.5,Durban's Super Giants,KR Mayers,PWA Mulder,FD Adams,4,0,,,,,,"",""
+ball,1,3.6,Durban's Super Giants,KR Mayers,PWA Mulder,FD Adams,1,0,,,,,,"",""
+ball,1,4.1,Durban's Super Giants,KR Mayers,PWA Mulder,L Ngidi,2,0,,,,,,"",""
+ball,1,4.2,Durban's Super Giants,KR Mayers,PWA Mulder,L Ngidi,4,0,,,,,,"",""
+ball,1,4.3,Durban's Super Giants,KR Mayers,PWA Mulder,L Ngidi,1,0,,,,,,"",""
+ball,1,4.4,Durban's Super Giants,PWA Mulder,KR Mayers,L Ngidi,2,0,,,,,,"",""
+ball,1,4.5,Durban's Super Giants,PWA Mulder,KR Mayers,L Ngidi,4,0,,,,,,"",""
+ball,1,4.6,Durban's Super Giants,PWA Mulder,KR Mayers,L Ngidi,4,0,,,,,,"",""
+ball,1,5.1,Durban's Super Giants,KR Mayers,PWA Mulder,E Jones,0,0,,,,,,"",""
+ball,1,5.2,Durban's Super Giants,KR Mayers,PWA Mulder,E Jones,4,0,,,,,,"",""
+ball,1,5.3,Durban's Super Giants,KR Mayers,PWA Mulder,E Jones,0,0,,,,,,"",""
+ball,1,5.4,Durban's Super Giants,KR Mayers,PWA Mulder,E Jones,0,0,,,,,,"",""
+ball,1,5.5,Durban's Super Giants,KR Mayers,PWA Mulder,E Jones,0,0,,,,,,caught,KR Mayers
+ball,1,5.6,Durban's Super Giants,Q de Kock,PWA Mulder,E Jones,1,0,,,,,,"",""
+ball,1,6.1,Durban's Super Giants,Q de Kock,PWA Mulder,I Manack,1,0,,,,,,"",""
+ball,1,6.2,Durban's Super Giants,PWA Mulder,Q de Kock,I Manack,1,0,,,,,,"",""
+ball,1,6.3,Durban's Super Giants,Q de Kock,PWA Mulder,I Manack,0,0,,,,,,"",""
+ball,1,6.4,Durban's Super Giants,Q de Kock,PWA Mulder,I Manack,4,0,,,,,,"",""
+ball,1,6.5,Durban's Super Giants,Q de Kock,PWA Mulder,I Manack,0,5,5,,,,,"",""
+ball,1,6.6,Durban's Super Giants,Q de Kock,PWA Mulder,I Manack,0,0,,,,,,"",""
+ball,1,6.7,Durban's Super Giants,Q de Kock,PWA Mulder,I Manack,0,0,,,,,,"",""
+ball,1,7.1,Durban's Super Giants,PWA Mulder,Q de Kock,BC Fortuin,0,0,,,,,,"",""
+ball,1,7.2,Durban's Super Giants,PWA Mulder,Q de Kock,BC Fortuin,1,0,,,,,,"",""
+ball,1,7.3,Durban's Super Giants,Q de Kock,PWA Mulder,BC Fortuin,4,0,,,,,,"",""
+ball,1,7.4,Durban's Super Giants,Q de Kock,PWA Mulder,BC Fortuin,1,0,,,,,,"",""
+ball,1,7.5,Durban's Super Giants,PWA Mulder,Q de Kock,BC Fortuin,1,0,,,,,,"",""
+ball,1,7.6,Durban's Super Giants,Q de Kock,PWA Mulder,BC Fortuin,4,0,,,,,,"",""
+ball,1,8.1,Durban's Super Giants,PWA Mulder,Q de Kock,E Jones,1,0,,,,,,"",""
+ball,1,8.2,Durban's Super Giants,Q de Kock,PWA Mulder,E Jones,1,0,,,,,,"",""
+ball,1,8.3,Durban's Super Giants,PWA Mulder,Q de Kock,E Jones,1,0,,,,,,"",""
+ball,1,8.4,Durban's Super Giants,Q de Kock,PWA Mulder,E Jones,1,0,,,,,,"",""
+ball,1,8.5,Durban's Super Giants,PWA Mulder,Q de Kock,E Jones,0,0,,,,,,"",""
+ball,1,8.6,Durban's Super Giants,PWA Mulder,Q de Kock,E Jones,1,0,,,,,,"",""
+ball,1,9.1,Durban's Super Giants,PWA Mulder,Q de Kock,BC Fortuin,1,0,,,,,,"",""
+ball,1,9.2,Durban's Super Giants,Q de Kock,PWA Mulder,BC Fortuin,1,0,,,,,,"",""
+ball,1,9.3,Durban's Super Giants,PWA Mulder,Q de Kock,BC Fortuin,1,0,,,,,,"",""
+ball,1,9.4,Durban's Super Giants,Q de Kock,PWA Mulder,BC Fortuin,1,0,,,,,,"",""
+ball,1,9.5,Durban's Super Giants,PWA Mulder,Q de Kock,BC Fortuin,4,0,,,,,,"",""
+ball,1,9.6,Durban's Super Giants,PWA Mulder,Q de Kock,BC Fortuin,0,1,,,,1,,"",""
+ball,1,10.1,Durban's Super Giants,PWA Mulder,Q de Kock,FD Adams,1,0,,,,,,"",""
+ball,1,10.2,Durban's Super Giants,Q de Kock,PWA Mulder,FD Adams,0,0,,,,,,"",""
+ball,1,10.3,Durban's Super Giants,Q de Kock,PWA Mulder,FD Adams,0,0,,,,,,"",""
+ball,1,10.4,Durban's Super Giants,Q de Kock,PWA Mulder,FD Adams,1,0,,,,,,"",""
+ball,1,10.5,Durban's Super Giants,PWA Mulder,Q de Kock,FD Adams,4,0,,,,,,"",""
+ball,1,10.6,Durban's Super Giants,PWA Mulder,Q de Kock,FD Adams,0,1,1,,,,,"",""
+ball,1,10.7,Durban's Super Giants,PWA Mulder,Q de Kock,FD Adams,1,0,,,,,,"",""
+ball,1,11.1,Durban's Super Giants,PWA Mulder,Q de Kock,BC Fortuin,1,0,,,,,,"",""
+ball,1,11.2,Durban's Super Giants,Q de Kock,PWA Mulder,BC Fortuin,6,0,,,,,,"",""
+ball,1,11.3,Durban's Super Giants,Q de Kock,PWA Mulder,BC Fortuin,6,0,,,,,,"",""
+ball,1,11.4,Durban's Super Giants,Q de Kock,PWA Mulder,BC Fortuin,0,0,,,,,,"",""
+ball,1,11.5,Durban's Super Giants,Q de Kock,PWA Mulder,BC Fortuin,0,0,,,,,,"",""
+ball,1,11.6,Durban's Super Giants,Q de Kock,PWA Mulder,BC Fortuin,4,0,,,,,,"",""
+ball,1,12.1,Durban's Super Giants,PWA Mulder,Q de Kock,WJ Lubbe,0,1,,,,1,,"",""
+ball,1,12.2,Durban's Super Giants,Q de Kock,PWA Mulder,WJ Lubbe,0,0,,,,,,"",""
+ball,1,12.3,Durban's Super Giants,Q de Kock,PWA Mulder,WJ Lubbe,6,0,,,,,,"",""
+ball,1,12.4,Durban's Super Giants,Q de Kock,PWA Mulder,WJ Lubbe,1,0,,,,,,"",""
+ball,1,12.5,Durban's Super Giants,PWA Mulder,Q de Kock,WJ Lubbe,1,0,,,,,,"",""
+ball,1,12.6,Durban's Super Giants,Q de Kock,PWA Mulder,WJ Lubbe,0,0,,,,,,"",""
+ball,1,13.1,Durban's Super Giants,PWA Mulder,Q de Kock,E Jones,1,0,,,,,,"",""
+ball,1,13.2,Durban's Super Giants,Q de Kock,PWA Mulder,E Jones,0,1,1,,,,,"",""
+ball,1,13.3,Durban's Super Giants,Q de Kock,PWA Mulder,E Jones,4,0,,,,,,"",""
+ball,1,13.4,Durban's Super Giants,Q de Kock,PWA Mulder,E Jones,6,0,,,,,,"",""
+ball,1,13.5,Durban's Super Giants,Q de Kock,PWA Mulder,E Jones,1,0,,,,,,"",""
+ball,1,13.6,Durban's Super Giants,PWA Mulder,Q de Kock,E Jones,0,0,,,,,,"",""
+ball,1,13.7,Durban's Super Giants,PWA Mulder,Q de Kock,E Jones,0,1,1,,,,,"",""
+ball,1,13.8,Durban's Super Giants,PWA Mulder,Q de Kock,E Jones,0,0,,,,,,caught,PWA Mulder
+ball,1,14.1,Durban's Super Giants,Q de Kock,H Klaasen,L Ngidi,1,0,,,,,,"",""
+ball,1,14.2,Durban's Super Giants,H Klaasen,Q de Kock,L Ngidi,1,0,,,,,,"",""
+ball,1,14.3,Durban's Super Giants,Q de Kock,H Klaasen,L Ngidi,2,0,,,,,,"",""
+ball,1,14.4,Durban's Super Giants,Q de Kock,H Klaasen,L Ngidi,0,0,,,,,,caught,Q de Kock
+ball,1,14.5,Durban's Super Giants,KMA Paul,H Klaasen,L Ngidi,1,0,,,,,,"",""
+ball,1,14.6,Durban's Super Giants,H Klaasen,KMA Paul,L Ngidi,0,0,,,,,,"",""
+ball,1,15.1,Durban's Super Giants,KMA Paul,H Klaasen,BC Fortuin,0,0,,,,,,"",""
+ball,1,15.2,Durban's Super Giants,KMA Paul,H Klaasen,BC Fortuin,1,0,,,,,,"",""
+ball,1,15.3,Durban's Super Giants,H Klaasen,KMA Paul,BC Fortuin,6,0,,,,,,"",""
+ball,1,15.4,Durban's Super Giants,H Klaasen,KMA Paul,BC Fortuin,1,0,,,,,,"",""
+ball,1,15.5,Durban's Super Giants,KMA Paul,H Klaasen,BC Fortuin,1,0,,,,,,"",""
+ball,1,15.6,Durban's Super Giants,H Klaasen,KMA Paul,BC Fortuin,1,0,,,,,,"",""
+ball,1,16.1,Durban's Super Giants,H Klaasen,KMA Paul,FD Adams,1,0,,,,,,"",""
+ball,1,16.2,Durban's Super Giants,KMA Paul,H Klaasen,FD Adams,1,0,,,,,,"",""
+ball,1,16.3,Durban's Super Giants,H Klaasen,KMA Paul,FD Adams,6,0,,,,,,"",""
+ball,1,16.4,Durban's Super Giants,H Klaasen,KMA Paul,FD Adams,0,0,,,,,,"",""
+ball,1,16.5,Durban's Super Giants,H Klaasen,KMA Paul,FD Adams,1,0,,,,,,"",""
+ball,1,16.6,Durban's Super Giants,KMA Paul,H Klaasen,FD Adams,2,0,,,,,,"",""
+ball,1,17.1,Durban's Super Giants,H Klaasen,KMA Paul,E Jones,4,0,,,,,,"",""
+ball,1,17.2,Durban's Super Giants,H Klaasen,KMA Paul,E Jones,0,1,1,,,,,"",""
+ball,1,17.3,Durban's Super Giants,H Klaasen,KMA Paul,E Jones,1,0,,,,,,"",""
+ball,1,17.4,Durban's Super Giants,KMA Paul,H Klaasen,E Jones,0,0,,,,,,"",""
+ball,1,17.5,Durban's Super Giants,KMA Paul,H Klaasen,E Jones,1,0,,,,,,"",""
+ball,1,17.6,Durban's Super Giants,H Klaasen,KMA Paul,E Jones,2,0,,,,,,"",""
+ball,1,17.7,Durban's Super Giants,H Klaasen,KMA Paul,E Jones,0,0,,,,,,"",""
+ball,1,18.1,Durban's Super Giants,KMA Paul,H Klaasen,L Ngidi,0,0,,,,,,caught and bowled,KMA Paul
+ball,1,18.2,Durban's Super Giants,D Pretorius,H Klaasen,L Ngidi,0,0,,,,,,"",""
+ball,1,18.3,Durban's Super Giants,D Pretorius,H Klaasen,L Ngidi,0,1,,,,1,,"",""
+ball,1,18.4,Durban's Super Giants,H Klaasen,D Pretorius,L Ngidi,1,0,,,,,,"",""
+ball,1,18.5,Durban's Super Giants,D Pretorius,H Klaasen,L Ngidi,0,0,,,,,,"",""
+ball,1,18.6,Durban's Super Giants,D Pretorius,H Klaasen,L Ngidi,6,0,,,,,,"",""
+ball,1,19.1,Durban's Super Giants,H Klaasen,D Pretorius,FD Adams,6,0,,,,,,"",""
+ball,1,19.2,Durban's Super Giants,H Klaasen,D Pretorius,FD Adams,6,0,,,,,,"",""
+ball,1,19.3,Durban's Super Giants,H Klaasen,D Pretorius,FD Adams,6,0,,,,,,"",""
+ball,1,19.4,Durban's Super Giants,H Klaasen,D Pretorius,FD Adams,1,0,,,,,,"",""
+ball,1,19.5,Durban's Super Giants,D Pretorius,H Klaasen,FD Adams,1,0,,,,,,"",""
+ball,1,19.6,Durban's Super Giants,H Klaasen,D Pretorius,FD Adams,6,0,,,,,,"",""
+ball,2,0.1,Paarl Royals,JJ Roy,JC Buttler,KR Mayers,0,0,,,,,,"",""
+ball,2,0.2,Paarl Royals,JJ Roy,JC Buttler,KR Mayers,1,0,,,,,,"",""
+ball,2,0.3,Paarl Royals,JC Buttler,JJ Roy,KR Mayers,0,0,,,,,,"",""
+ball,2,0.4,Paarl Royals,JC Buttler,JJ Roy,KR Mayers,0,0,,,,,,"",""
+ball,2,0.5,Paarl Royals,JC Buttler,JJ Roy,KR Mayers,1,0,,,,,,"",""
+ball,2,0.6,Paarl Royals,JJ Roy,JC Buttler,KR Mayers,1,0,,,,,,"",""
+ball,2,1.1,Paarl Royals,JJ Roy,JC Buttler,KA Maharaj,6,0,,,,,,"",""
+ball,2,1.2,Paarl Royals,JJ Roy,JC Buttler,KA Maharaj,2,0,,,,,,"",""
+ball,2,1.3,Paarl Royals,JJ Roy,JC Buttler,KA Maharaj,0,0,,,,,,"",""
+ball,2,1.4,Paarl Royals,JJ Roy,JC Buttler,KA Maharaj,0,0,,,,,,"",""
+ball,2,1.5,Paarl Royals,JJ Roy,JC Buttler,KA Maharaj,4,0,,,,,,"",""
+ball,2,1.6,Paarl Royals,JJ Roy,JC Buttler,KA Maharaj,0,0,,,,,,"",""
+ball,2,2.1,Paarl Royals,JC Buttler,JJ Roy,RJW Topley,0,0,,,,,,"",""
+ball,2,2.2,Paarl Royals,JC Buttler,JJ Roy,RJW Topley,1,0,,,,,,"",""
+ball,2,2.3,Paarl Royals,JJ Roy,JC Buttler,RJW Topley,1,0,,,,,,"",""
+ball,2,2.4,Paarl Royals,JC Buttler,JJ Roy,RJW Topley,0,0,,,,,,"",""
+ball,2,2.5,Paarl Royals,JC Buttler,JJ Roy,RJW Topley,0,0,,,,,,bowled,JC Buttler
+ball,2,2.6,Paarl Royals,WJ Lubbe,JJ Roy,RJW Topley,1,0,,,,,,"",""
+ball,2,3.1,Paarl Royals,WJ Lubbe,JJ Roy,JO Holder,1,0,,,,,,"",""
+ball,2,3.2,Paarl Royals,JJ Roy,WJ Lubbe,JO Holder,0,0,,,,,,"",""
+ball,2,3.3,Paarl Royals,JJ Roy,WJ Lubbe,JO Holder,1,0,,,,,,"",""
+ball,2,3.4,Paarl Royals,WJ Lubbe,JJ Roy,JO Holder,0,0,,,,,,"",""
+ball,2,3.5,Paarl Royals,WJ Lubbe,JJ Roy,JO Holder,2,0,,,,,,"",""
+ball,2,3.6,Paarl Royals,WJ Lubbe,JJ Roy,JO Holder,0,0,,,,,,"",""
+ball,2,4.1,Paarl Royals,JJ Roy,WJ Lubbe,RJW Topley,1,0,,,,,,"",""
+ball,2,4.2,Paarl Royals,WJ Lubbe,JJ Roy,RJW Topley,4,0,,,,,,"",""
+ball,2,4.3,Paarl Royals,WJ Lubbe,JJ Roy,RJW Topley,4,0,,,,,,"",""
+ball,2,4.4,Paarl Royals,WJ Lubbe,JJ Roy,RJW Topley,1,0,,,,,,"",""
+ball,2,4.5,Paarl Royals,JJ Roy,WJ Lubbe,RJW Topley,1,0,,,,,,"",""
+ball,2,4.6,Paarl Royals,WJ Lubbe,JJ Roy,RJW Topley,4,0,,,,,,"",""
+ball,2,5.1,Paarl Royals,JJ Roy,WJ Lubbe,JO Holder,4,0,,,,,,"",""
+ball,2,5.2,Paarl Royals,JJ Roy,WJ Lubbe,JO Holder,4,0,,,,,,"",""
+ball,2,5.3,Paarl Royals,JJ Roy,WJ Lubbe,JO Holder,0,4,,,,4,,"",""
+ball,2,5.4,Paarl Royals,JJ Roy,WJ Lubbe,JO Holder,1,0,,,,,,"",""
+ball,2,5.5,Paarl Royals,WJ Lubbe,JJ Roy,JO Holder,1,0,,,,,,"",""
+ball,2,5.6,Paarl Royals,JJ Roy,WJ Lubbe,JO Holder,4,0,,,,,,"",""
+ball,2,6.1,Paarl Royals,WJ Lubbe,JJ Roy,D Pretorius,0,0,,,,,,caught,WJ Lubbe
+ball,2,6.2,Paarl Royals,DA Miller,JJ Roy,D Pretorius,0,0,,,,,,"",""
+ball,2,6.3,Paarl Royals,DA Miller,JJ Roy,D Pretorius,1,0,,,,,,"",""
+ball,2,6.4,Paarl Royals,JJ Roy,DA Miller,D Pretorius,1,0,,,,,,"",""
+ball,2,6.5,Paarl Royals,DA Miller,JJ Roy,D Pretorius,0,0,,,,,,caught,DA Miller
+ball,2,6.6,Paarl Royals,EJG Morgan,JJ Roy,D Pretorius,1,0,,,,,,"",""
+ball,2,7.1,Paarl Royals,EJG Morgan,JJ Roy,P Subrayen,1,0,,,,,,"",""
+ball,2,7.2,Paarl Royals,JJ Roy,EJG Morgan,P Subrayen,0,0,,,,,,"",""
+ball,2,7.3,Paarl Royals,JJ Roy,EJG Morgan,P Subrayen,1,0,,,,,,"",""
+ball,2,7.4,Paarl Royals,EJG Morgan,JJ Roy,P Subrayen,2,0,,,,,,"",""
+ball,2,7.5,Paarl Royals,EJG Morgan,JJ Roy,P Subrayen,1,0,,,,,,"",""
+ball,2,7.6,Paarl Royals,JJ Roy,EJG Morgan,P Subrayen,0,0,,,,,,bowled,JJ Roy
+ball,2,8.1,Paarl Royals,EJG Morgan,DJ Vilas,D Pretorius,1,0,,,,,,"",""
+ball,2,8.2,Paarl Royals,DJ Vilas,EJG Morgan,D Pretorius,1,0,,,,,,"",""
+ball,2,8.3,Paarl Royals,EJG Morgan,DJ Vilas,D Pretorius,0,1,1,,,,,"",""
+ball,2,8.4,Paarl Royals,EJG Morgan,DJ Vilas,D Pretorius,1,0,,,,,,"",""
+ball,2,8.5,Paarl Royals,DJ Vilas,EJG Morgan,D Pretorius,1,0,,,,,,"",""
+ball,2,8.6,Paarl Royals,EJG Morgan,DJ Vilas,D Pretorius,1,0,,,,,,"",""
+ball,2,8.7,Paarl Royals,DJ Vilas,EJG Morgan,D Pretorius,0,0,,,,,,"",""
+ball,2,9.1,Paarl Royals,EJG Morgan,DJ Vilas,PWA Mulder,1,0,,,,,,"",""
+ball,2,9.2,Paarl Royals,DJ Vilas,EJG Morgan,PWA Mulder,0,0,,,,,,"",""
+ball,2,9.3,Paarl Royals,DJ Vilas,EJG Morgan,PWA Mulder,1,0,,,,,,"",""
+ball,2,9.4,Paarl Royals,EJG Morgan,DJ Vilas,PWA Mulder,1,0,,,,,,"",""
+ball,2,9.5,Paarl Royals,DJ Vilas,EJG Morgan,PWA Mulder,1,0,,,,,,"",""
+ball,2,9.6,Paarl Royals,EJG Morgan,DJ Vilas,PWA Mulder,1,0,,,,,,"",""
+ball,2,10.1,Paarl Royals,EJG Morgan,DJ Vilas,D Pretorius,1,0,,,,,,"",""
+ball,2,10.2,Paarl Royals,DJ Vilas,EJG Morgan,D Pretorius,1,0,,,,,,"",""
+ball,2,10.3,Paarl Royals,EJG Morgan,DJ Vilas,D Pretorius,0,1,,,,1,,"",""
+ball,2,10.4,Paarl Royals,DJ Vilas,EJG Morgan,D Pretorius,1,0,,,,,,"",""
+ball,2,10.5,Paarl Royals,EJG Morgan,DJ Vilas,D Pretorius,0,1,1,,,,,"",""
+ball,2,10.6,Paarl Royals,EJG Morgan,DJ Vilas,D Pretorius,6,0,,,,,,"",""
+ball,2,10.7,Paarl Royals,EJG Morgan,DJ Vilas,D Pretorius,6,0,,,,,,"",""
+ball,2,11.1,Paarl Royals,DJ Vilas,EJG Morgan,RJW Topley,1,0,,,,,,"",""
+ball,2,11.2,Paarl Royals,EJG Morgan,DJ Vilas,RJW Topley,4,0,,,,,,"",""
+ball,2,11.3,Paarl Royals,EJG Morgan,DJ Vilas,RJW Topley,0,0,,,,,,"",""
+ball,2,11.4,Paarl Royals,EJG Morgan,DJ Vilas,RJW Topley,0,0,,,,,,"",""
+ball,2,11.5,Paarl Royals,EJG Morgan,DJ Vilas,RJW Topley,0,0,,,,,,"",""
+ball,2,11.6,Paarl Royals,EJG Morgan,DJ Vilas,RJW Topley,4,0,,,,,,"",""
+ball,2,12.1,Paarl Royals,DJ Vilas,EJG Morgan,JO Holder,1,0,,,,,,"",""
+ball,2,12.2,Paarl Royals,EJG Morgan,DJ Vilas,JO Holder,1,1,,1,,,,"",""
+ball,2,12.3,Paarl Royals,DJ Vilas,EJG Morgan,JO Holder,0,0,,,,,,"",""
+ball,2,12.4,Paarl Royals,DJ Vilas,EJG Morgan,JO Holder,4,0,,,,,,"",""
+ball,2,12.5,Paarl Royals,DJ Vilas,EJG Morgan,JO Holder,1,0,,,,,,"",""
+ball,2,12.6,Paarl Royals,EJG Morgan,DJ Vilas,JO Holder,1,0,,,,,,"",""
+ball,2,12.7,Paarl Royals,DJ Vilas,EJG Morgan,JO Holder,4,0,,,,,,"",""
+ball,2,13.1,Paarl Royals,EJG Morgan,DJ Vilas,P Subrayen,1,0,,,,,,"",""
+ball,2,13.2,Paarl Royals,DJ Vilas,EJG Morgan,P Subrayen,0,0,,,,,,"",""
+ball,2,13.3,Paarl Royals,DJ Vilas,EJG Morgan,P Subrayen,1,0,,,,,,"",""
+ball,2,13.4,Paarl Royals,EJG Morgan,DJ Vilas,P Subrayen,1,0,,,,,,"",""
+ball,2,13.5,Paarl Royals,DJ Vilas,EJG Morgan,P Subrayen,1,0,,,,,,"",""
+ball,2,13.6,Paarl Royals,EJG Morgan,DJ Vilas,P Subrayen,1,0,,,,,,"",""
+ball,2,14.1,Paarl Royals,EJG Morgan,DJ Vilas,PWA Mulder,6,0,,,,,,"",""
+ball,2,14.2,Paarl Royals,EJG Morgan,DJ Vilas,PWA Mulder,6,0,,,,,,"",""
+ball,2,14.3,Paarl Royals,EJG Morgan,DJ Vilas,PWA Mulder,1,0,,,,,,"",""
+ball,2,14.4,Paarl Royals,DJ Vilas,EJG Morgan,PWA Mulder,1,0,,,,,,"",""
+ball,2,14.5,Paarl Royals,EJG Morgan,DJ Vilas,PWA Mulder,1,0,,,,,,"",""
+ball,2,14.6,Paarl Royals,DJ Vilas,EJG Morgan,PWA Mulder,2,0,,,,,,"",""
+ball,2,15.1,Paarl Royals,EJG Morgan,DJ Vilas,D Pretorius,1,0,,,,,,"",""
+ball,2,15.2,Paarl Royals,DJ Vilas,EJG Morgan,D Pretorius,0,1,1,,,,,"",""
+ball,2,15.3,Paarl Royals,DJ Vilas,EJG Morgan,D Pretorius,2,0,,,,,,"",""
+ball,2,15.4,Paarl Royals,DJ Vilas,EJG Morgan,D Pretorius,1,0,,,,,,"",""
+ball,2,15.5,Paarl Royals,EJG Morgan,DJ Vilas,D Pretorius,0,1,,,,1,,"",""
+ball,2,15.6,Paarl Royals,DJ Vilas,EJG Morgan,D Pretorius,0,0,,,,,,"",""
+ball,2,15.7,Paarl Royals,DJ Vilas,EJG Morgan,D Pretorius,0,1,1,,,,,"",""
+ball,2,15.8,Paarl Royals,DJ Vilas,EJG Morgan,D Pretorius,0,1,1,,,,,"",""
+ball,2,15.9,Paarl Royals,DJ Vilas,EJG Morgan,D Pretorius,2,0,,,,,,"",""
+ball,2,16.1,Paarl Royals,EJG Morgan,DJ Vilas,JO Holder,1,0,,,,,,"",""
+ball,2,16.2,Paarl Royals,DJ Vilas,EJG Morgan,JO Holder,0,0,,,,,,"",""
+ball,2,16.3,Paarl Royals,DJ Vilas,EJG Morgan,JO Holder,6,0,,,,,,"",""
+ball,2,16.4,Paarl Royals,DJ Vilas,EJG Morgan,JO Holder,0,1,1,,,,,"",""
+ball,2,16.5,Paarl Royals,DJ Vilas,EJG Morgan,JO Holder,0,0,,,,,,"",""
+ball,2,16.6,Paarl Royals,DJ Vilas,EJG Morgan,JO Holder,4,0,,,,,,"",""
+ball,2,16.7,Paarl Royals,DJ Vilas,EJG Morgan,JO Holder,6,0,,,,,,"",""
+ball,2,17.1,Paarl Royals,EJG Morgan,DJ Vilas,PWA Mulder,6,1,,1,,,,"",""
+ball,2,17.2,Paarl Royals,EJG Morgan,DJ Vilas,PWA Mulder,2,0,,,,,,"",""
+ball,2,17.3,Paarl Royals,EJG Morgan,DJ Vilas,PWA Mulder,1,0,,,,,,"",""
+ball,2,17.4,Paarl Royals,DJ Vilas,EJG Morgan,PWA Mulder,1,0,,,,,,"",""
+ball,2,17.5,Paarl Royals,EJG Morgan,DJ Vilas,PWA Mulder,0,1,1,,,,,"",""
+ball,2,17.6,Paarl Royals,EJG Morgan,DJ Vilas,PWA Mulder,2,0,,,,,,"",""
+ball,2,17.7,Paarl Royals,EJG Morgan,DJ Vilas,PWA Mulder,0,0,,,,,,"",""
+ball,2,17.8,Paarl Royals,EJG Morgan,DJ Vilas,PWA Mulder,0,0,,,,,,run out,EJG Morgan
+ball,2,18.1,Paarl Royals,E Jones,DJ Vilas,RJW Topley,0,0,,,,,,caught,E Jones
+ball,2,18.2,Paarl Royals,FD Adams,DJ Vilas,RJW Topley,1,0,,,,,,"",""
+ball,2,18.3,Paarl Royals,DJ Vilas,FD Adams,RJW Topley,0,0,,,,,,caught,DJ Vilas
+ball,2,18.4,Paarl Royals,BC Fortuin,FD Adams,RJW Topley,1,0,,,,,,"",""
+ball,2,18.5,Paarl Royals,FD Adams,BC Fortuin,RJW Topley,1,0,,,,,,"",""
+ball,2,18.6,Paarl Royals,BC Fortuin,FD Adams,RJW Topley,4,0,,,,,,"",""
+ball,2,19.1,Paarl Royals,FD Adams,BC Fortuin,PWA Mulder,0,0,,,,,,caught,FD Adams
+ball,2,19.2,Paarl Royals,I Manack,BC Fortuin,PWA Mulder,2,0,,,,,,"",""
+ball,2,19.3,Paarl Royals,I Manack,BC Fortuin,PWA Mulder,1,0,,,,,,"",""
+ball,2,19.4,Paarl Royals,BC Fortuin,I Manack,PWA Mulder,1,0,,,,,,"",""
+ball,2,19.5,Paarl Royals,I Manack,BC Fortuin,PWA Mulder,1,0,,,,,,"",""
+ball,2,19.6,Paarl Royals,BC Fortuin,I Manack,PWA Mulder,0,0,,,,,,"",""

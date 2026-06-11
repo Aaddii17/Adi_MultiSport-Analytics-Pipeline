@@ -1,0 +1,306 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Paarl Royals
+info,team,Sunrisers Eastern Cape
+info,gender,male
+info,season,2022/23
+info,date,2023/01/19
+info,event,SA20
+info,match_number,14
+info,venue,"Boland Park, Paarl"
+info,city,Paarl
+info,toss_winner,Sunrisers Eastern Cape
+info,toss_decision,field
+info,player_of_match,AK Markram
+info,umpire,A Steenkamp
+info,umpire,BM White
+info,reserve_umpire,LB Gcuma
+info,tv_umpire,AT Holdstock
+info,match_referee,S Wadvalla
+info,winner,Sunrisers Eastern Cape
+info,winner_wickets,5
+info,player,Paarl Royals,JJ Roy
+info,player,Paarl Royals,JC Buttler
+info,player,Paarl Royals,WJ Lubbe
+info,player,Paarl Royals,C Bosch
+info,player,Paarl Royals,EJG Morgan
+info,player,Paarl Royals,DA Miller
+info,player,Paarl Royals,E Jones
+info,player,Paarl Royals,BC Fortuin
+info,player,Paarl Royals,Codi Yusuf
+info,player,Paarl Royals,L Ngidi
+info,player,Paarl Royals,T Shamsi
+info,player,Sunrisers Eastern Cape,AM Rossington
+info,player,Sunrisers Eastern Cape,J Hermann
+info,player,Sunrisers Eastern Cape,SJ Erwee
+info,player,Sunrisers Eastern Cape,AK Markram
+info,player,Sunrisers Eastern Cape,T Stubbs
+info,player,Sunrisers Eastern Cape,JM Cox
+info,player,Sunrisers Eastern Cape,M Jansen
+info,player,Sunrisers Eastern Cape,A Gqamane
+info,player,Sunrisers Eastern Cape,RE van der Merwe
+info,player,Sunrisers Eastern Cape,BA Carse
+info,player,Sunrisers Eastern Cape,SSB Magala
+info,registry,people,A Gqamane,a83c44b8
+info,registry,people,A Steenkamp,89c62cf5
+info,registry,people,AK Markram,6a26221c
+info,registry,people,AM Rossington,7bcde3fe
+info,registry,people,AT Holdstock,6fa3258c
+info,registry,people,BA Carse,cad40f5e
+info,registry,people,BC Fortuin,9a2fc964
+info,registry,people,BM White,66c21d35
+info,registry,people,C Bosch,172dff15
+info,registry,people,Codi Yusuf,f2397e48
+info,registry,people,DA Miller,d67d5f00
+info,registry,people,E Jones,fbfea9c2
+info,registry,people,EJG Morgan,d2a6c0e6
+info,registry,people,J Hermann,e87aeca2
+info,registry,people,JC Buttler,99b75528
+info,registry,people,JJ Roy,d1c36f5c
+info,registry,people,JM Cox,ff154ecd
+info,registry,people,L Ngidi,f834dcfc
+info,registry,people,LB Gcuma,02ba88e3
+info,registry,people,M Jansen,81c36ee9
+info,registry,people,RE van der Merwe,05c2ca46
+info,registry,people,S Wadvalla,c1a1acf3
+info,registry,people,SJ Erwee,a3ce3d1d
+info,registry,people,SSB Magala,8361e524
+info,registry,people,T Shamsi,a03bba42
+info,registry,people,T Stubbs,85b3fab2
+info,registry,people,WJ Lubbe,10f42013
+ball,1,0.1,Paarl Royals,JJ Roy,JC Buttler,A Gqamane,1,0,,,,,,"",""
+ball,1,0.2,Paarl Royals,JC Buttler,JJ Roy,A Gqamane,0,0,,,,,,"",""
+ball,1,0.3,Paarl Royals,JC Buttler,JJ Roy,A Gqamane,4,0,,,,,,"",""
+ball,1,0.4,Paarl Royals,JC Buttler,JJ Roy,A Gqamane,4,0,,,,,,"",""
+ball,1,0.5,Paarl Royals,JC Buttler,JJ Roy,A Gqamane,2,0,,,,,,"",""
+ball,1,0.6,Paarl Royals,JC Buttler,JJ Roy,A Gqamane,1,0,,,,,,"",""
+ball,1,1.1,Paarl Royals,JC Buttler,JJ Roy,SSB Magala,0,0,,,,,,"",""
+ball,1,1.2,Paarl Royals,JC Buttler,JJ Roy,SSB Magala,0,0,,,,,,"",""
+ball,1,1.3,Paarl Royals,JC Buttler,JJ Roy,SSB Magala,1,0,,,,,,"",""
+ball,1,1.4,Paarl Royals,JJ Roy,JC Buttler,SSB Magala,0,0,,,,,,"",""
+ball,1,1.5,Paarl Royals,JJ Roy,JC Buttler,SSB Magala,1,0,,,,,,"",""
+ball,1,1.6,Paarl Royals,JC Buttler,JJ Roy,SSB Magala,0,0,,,,,,caught,JC Buttler
+ball,1,2.1,Paarl Royals,JJ Roy,WJ Lubbe,AK Markram,4,0,,,,,,"",""
+ball,1,2.2,Paarl Royals,JJ Roy,WJ Lubbe,AK Markram,0,0,,,,,,"",""
+ball,1,2.3,Paarl Royals,JJ Roy,WJ Lubbe,AK Markram,0,0,,,,,,bowled,JJ Roy
+ball,1,2.4,Paarl Royals,C Bosch,WJ Lubbe,AK Markram,1,0,,,,,,"",""
+ball,1,2.5,Paarl Royals,WJ Lubbe,C Bosch,AK Markram,0,0,,,,,,"",""
+ball,1,2.6,Paarl Royals,WJ Lubbe,C Bosch,AK Markram,1,0,,,,,,"",""
+ball,1,3.1,Paarl Royals,WJ Lubbe,C Bosch,SSB Magala,0,0,,,,,,"",""
+ball,1,3.2,Paarl Royals,WJ Lubbe,C Bosch,SSB Magala,1,0,,,,,,"",""
+ball,1,3.3,Paarl Royals,C Bosch,WJ Lubbe,SSB Magala,1,0,,,,,,"",""
+ball,1,3.4,Paarl Royals,WJ Lubbe,C Bosch,SSB Magala,1,0,,,,,,"",""
+ball,1,3.5,Paarl Royals,C Bosch,WJ Lubbe,SSB Magala,0,0,,,,,,"",""
+ball,1,3.6,Paarl Royals,C Bosch,WJ Lubbe,SSB Magala,0,0,,,,,,"",""
+ball,1,4.1,Paarl Royals,WJ Lubbe,C Bosch,AK Markram,4,0,,,,,,"",""
+ball,1,4.2,Paarl Royals,WJ Lubbe,C Bosch,AK Markram,0,0,,,,,,"",""
+ball,1,4.3,Paarl Royals,WJ Lubbe,C Bosch,AK Markram,1,0,,,,,,"",""
+ball,1,4.4,Paarl Royals,C Bosch,WJ Lubbe,AK Markram,1,0,,,,,,"",""
+ball,1,4.5,Paarl Royals,WJ Lubbe,C Bosch,AK Markram,0,4,,,,4,,"",""
+ball,1,4.6,Paarl Royals,WJ Lubbe,C Bosch,AK Markram,1,0,,,,,,"",""
+ball,1,5.1,Paarl Royals,WJ Lubbe,C Bosch,M Jansen,0,0,,,,,,"",""
+ball,1,5.2,Paarl Royals,WJ Lubbe,C Bosch,M Jansen,4,0,,,,,,"",""
+ball,1,5.3,Paarl Royals,WJ Lubbe,C Bosch,M Jansen,0,0,,,,,,"",""
+ball,1,5.4,Paarl Royals,WJ Lubbe,C Bosch,M Jansen,0,0,,,,,,"",""
+ball,1,5.5,Paarl Royals,WJ Lubbe,C Bosch,M Jansen,5,0,,,,,,"",""
+ball,1,5.6,Paarl Royals,C Bosch,WJ Lubbe,M Jansen,1,0,,,,,,"",""
+ball,1,6.1,Paarl Royals,C Bosch,WJ Lubbe,RE van der Merwe,1,0,,,,,,"",""
+ball,1,6.2,Paarl Royals,WJ Lubbe,C Bosch,RE van der Merwe,1,0,,,,,,"",""
+ball,1,6.3,Paarl Royals,C Bosch,WJ Lubbe,RE van der Merwe,1,0,,,,,,"",""
+ball,1,6.4,Paarl Royals,WJ Lubbe,C Bosch,RE van der Merwe,1,0,,,,,,"",""
+ball,1,6.5,Paarl Royals,C Bosch,WJ Lubbe,RE van der Merwe,1,0,,,,,,"",""
+ball,1,6.6,Paarl Royals,WJ Lubbe,C Bosch,RE van der Merwe,1,0,,,,,,"",""
+ball,1,7.1,Paarl Royals,WJ Lubbe,C Bosch,BA Carse,6,0,,,,,,"",""
+ball,1,7.2,Paarl Royals,WJ Lubbe,C Bosch,BA Carse,1,0,,,,,,"",""
+ball,1,7.3,Paarl Royals,C Bosch,WJ Lubbe,BA Carse,0,1,,,,1,,"",""
+ball,1,7.4,Paarl Royals,WJ Lubbe,C Bosch,BA Carse,0,0,,,,,,bowled,WJ Lubbe
+ball,1,7.5,Paarl Royals,EJG Morgan,C Bosch,BA Carse,1,0,,,,,,"",""
+ball,1,7.6,Paarl Royals,C Bosch,EJG Morgan,BA Carse,1,0,,,,,,"",""
+ball,1,8.1,Paarl Royals,C Bosch,EJG Morgan,M Jansen,0,0,,,,,,"",""
+ball,1,8.2,Paarl Royals,C Bosch,EJG Morgan,M Jansen,0,0,,,,,,"",""
+ball,1,8.3,Paarl Royals,C Bosch,EJG Morgan,M Jansen,1,0,,,,,,"",""
+ball,1,8.4,Paarl Royals,EJG Morgan,C Bosch,M Jansen,0,0,,,,,,"",""
+ball,1,8.5,Paarl Royals,EJG Morgan,C Bosch,M Jansen,1,0,,,,,,"",""
+ball,1,8.6,Paarl Royals,C Bosch,EJG Morgan,M Jansen,0,0,,,,,,"",""
+ball,1,9.1,Paarl Royals,EJG Morgan,C Bosch,BA Carse,0,0,,,,,,"",""
+ball,1,9.2,Paarl Royals,EJG Morgan,C Bosch,BA Carse,0,0,,,,,,caught,EJG Morgan
+ball,1,9.3,Paarl Royals,DA Miller,C Bosch,BA Carse,1,0,,,,,,"",""
+ball,1,9.4,Paarl Royals,C Bosch,DA Miller,BA Carse,0,0,,,,,,"",""
+ball,1,9.5,Paarl Royals,C Bosch,DA Miller,BA Carse,1,0,,,,,,"",""
+ball,1,9.6,Paarl Royals,DA Miller,C Bosch,BA Carse,0,0,,,,,,"",""
+ball,1,10.1,Paarl Royals,C Bosch,DA Miller,RE van der Merwe,1,0,,,,,,"",""
+ball,1,10.2,Paarl Royals,DA Miller,C Bosch,RE van der Merwe,1,0,,,,,,"",""
+ball,1,10.3,Paarl Royals,C Bosch,DA Miller,RE van der Merwe,1,0,,,,,,"",""
+ball,1,10.4,Paarl Royals,DA Miller,C Bosch,RE van der Merwe,1,0,,,,,,"",""
+ball,1,10.5,Paarl Royals,C Bosch,DA Miller,RE van der Merwe,1,0,,,,,,"",""
+ball,1,10.6,Paarl Royals,DA Miller,C Bosch,RE van der Merwe,2,0,,,,,,"",""
+ball,1,11.1,Paarl Royals,C Bosch,DA Miller,BA Carse,2,0,,,,,,"",""
+ball,1,11.2,Paarl Royals,C Bosch,DA Miller,BA Carse,1,0,,,,,,"",""
+ball,1,11.3,Paarl Royals,DA Miller,C Bosch,BA Carse,0,0,,,,,,"",""
+ball,1,11.4,Paarl Royals,DA Miller,C Bosch,BA Carse,1,0,,,,,,"",""
+ball,1,11.5,Paarl Royals,C Bosch,DA Miller,BA Carse,1,0,,,,,,"",""
+ball,1,11.6,Paarl Royals,DA Miller,C Bosch,BA Carse,4,0,,,,,,"",""
+ball,1,12.1,Paarl Royals,C Bosch,DA Miller,RE van der Merwe,1,0,,,,,,"",""
+ball,1,12.2,Paarl Royals,DA Miller,C Bosch,RE van der Merwe,0,0,,,,,,caught,DA Miller
+ball,1,12.3,Paarl Royals,E Jones,C Bosch,RE van der Merwe,1,0,,,,,,"",""
+ball,1,12.4,Paarl Royals,C Bosch,E Jones,RE van der Merwe,1,0,,,,,,"",""
+ball,1,12.5,Paarl Royals,E Jones,C Bosch,RE van der Merwe,2,0,,,,,,"",""
+ball,1,12.6,Paarl Royals,E Jones,C Bosch,RE van der Merwe,1,0,,,,,,"",""
+ball,1,13.1,Paarl Royals,E Jones,C Bosch,AK Markram,1,0,,,,,,"",""
+ball,1,13.2,Paarl Royals,C Bosch,E Jones,AK Markram,1,0,,,,,,"",""
+ball,1,13.3,Paarl Royals,E Jones,C Bosch,AK Markram,0,0,,,,,,"",""
+ball,1,13.4,Paarl Royals,E Jones,C Bosch,AK Markram,2,0,,,,,,"",""
+ball,1,13.5,Paarl Royals,E Jones,C Bosch,AK Markram,1,0,,,,,,"",""
+ball,1,13.6,Paarl Royals,C Bosch,E Jones,AK Markram,0,0,,,,,,"",""
+ball,1,14.1,Paarl Royals,E Jones,C Bosch,RE van der Merwe,0,0,,,,,,"",""
+ball,1,14.2,Paarl Royals,E Jones,C Bosch,RE van der Merwe,1,0,,,,,,"",""
+ball,1,14.3,Paarl Royals,C Bosch,E Jones,RE van der Merwe,0,0,,,,,,"",""
+ball,1,14.4,Paarl Royals,C Bosch,E Jones,RE van der Merwe,0,0,,,,,,caught,C Bosch
+ball,1,14.5,Paarl Royals,BC Fortuin,E Jones,RE van der Merwe,0,0,,,,,,"",""
+ball,1,14.6,Paarl Royals,BC Fortuin,E Jones,RE van der Merwe,1,0,,,,,,"",""
+ball,1,15.1,Paarl Royals,BC Fortuin,E Jones,AK Markram,0,0,,,,,,"",""
+ball,1,15.2,Paarl Royals,BC Fortuin,E Jones,AK Markram,0,0,,,,,,"",""
+ball,1,15.3,Paarl Royals,BC Fortuin,E Jones,AK Markram,1,0,,,,,,"",""
+ball,1,15.4,Paarl Royals,E Jones,BC Fortuin,AK Markram,2,0,,,,,,"",""
+ball,1,15.5,Paarl Royals,E Jones,BC Fortuin,AK Markram,0,0,,,,,,caught,E Jones
+ball,1,15.6,Paarl Royals,Codi Yusuf,BC Fortuin,AK Markram,0,0,,,,,,"",""
+ball,1,16.1,Paarl Royals,BC Fortuin,Codi Yusuf,SSB Magala,1,0,,,,,,"",""
+ball,1,16.2,Paarl Royals,Codi Yusuf,BC Fortuin,SSB Magala,1,0,,,,,,"",""
+ball,1,16.3,Paarl Royals,BC Fortuin,Codi Yusuf,SSB Magala,1,0,,,,,,"",""
+ball,1,16.4,Paarl Royals,Codi Yusuf,BC Fortuin,SSB Magala,1,0,,,,,,"",""
+ball,1,16.5,Paarl Royals,BC Fortuin,Codi Yusuf,SSB Magala,1,0,,,,,,"",""
+ball,1,16.6,Paarl Royals,Codi Yusuf,BC Fortuin,SSB Magala,2,0,,,,,,"",""
+ball,1,17.1,Paarl Royals,BC Fortuin,Codi Yusuf,BA Carse,4,0,,,,,,"",""
+ball,1,17.2,Paarl Royals,BC Fortuin,Codi Yusuf,BA Carse,1,0,,,,,,"",""
+ball,1,17.3,Paarl Royals,Codi Yusuf,BC Fortuin,BA Carse,0,1,1,,,,,"",""
+ball,1,17.4,Paarl Royals,Codi Yusuf,BC Fortuin,BA Carse,0,0,,,,,,"",""
+ball,1,17.5,Paarl Royals,Codi Yusuf,BC Fortuin,BA Carse,1,0,,,,,,"",""
+ball,1,17.6,Paarl Royals,BC Fortuin,Codi Yusuf,BA Carse,1,0,,,,,,"",""
+ball,1,17.7,Paarl Royals,Codi Yusuf,BC Fortuin,BA Carse,1,0,,,,,,"",""
+ball,1,18.1,Paarl Royals,Codi Yusuf,BC Fortuin,SSB Magala,0,4,,,,4,,"",""
+ball,1,18.2,Paarl Royals,Codi Yusuf,BC Fortuin,SSB Magala,1,0,,,,,,"",""
+ball,1,18.3,Paarl Royals,BC Fortuin,Codi Yusuf,SSB Magala,0,0,,,,,,"",""
+ball,1,18.4,Paarl Royals,BC Fortuin,Codi Yusuf,SSB Magala,1,0,,,,,,"",""
+ball,1,18.5,Paarl Royals,Codi Yusuf,BC Fortuin,SSB Magala,1,0,,,,,,"",""
+ball,1,18.6,Paarl Royals,BC Fortuin,Codi Yusuf,SSB Magala,0,0,,,,,,"",""
+ball,1,19.1,Paarl Royals,Codi Yusuf,BC Fortuin,M Jansen,2,0,,,,,,"",""
+ball,1,19.2,Paarl Royals,Codi Yusuf,BC Fortuin,M Jansen,1,0,,,,,,"",""
+ball,1,19.3,Paarl Royals,BC Fortuin,Codi Yusuf,M Jansen,0,1,1,,,,,"",""
+ball,1,19.4,Paarl Royals,BC Fortuin,Codi Yusuf,M Jansen,0,1,,,,1,,"",""
+ball,1,19.5,Paarl Royals,Codi Yusuf,BC Fortuin,M Jansen,1,0,,,,,,"",""
+ball,1,19.6,Paarl Royals,BC Fortuin,Codi Yusuf,M Jansen,0,0,,,,,,"",""
+ball,1,19.7,Paarl Royals,BC Fortuin,Codi Yusuf,M Jansen,2,0,,,,,,"",""
+ball,2,0.1,Sunrisers Eastern Cape,AM Rossington,J Hermann,BC Fortuin,0,0,,,,,,"",""
+ball,2,0.2,Sunrisers Eastern Cape,AM Rossington,J Hermann,BC Fortuin,0,0,,,,,,"",""
+ball,2,0.3,Sunrisers Eastern Cape,AM Rossington,J Hermann,BC Fortuin,2,0,,,,,,"",""
+ball,2,0.4,Sunrisers Eastern Cape,AM Rossington,J Hermann,BC Fortuin,4,0,,,,,,"",""
+ball,2,0.5,Sunrisers Eastern Cape,AM Rossington,J Hermann,BC Fortuin,1,0,,,,,,"",""
+ball,2,0.6,Sunrisers Eastern Cape,J Hermann,AM Rossington,BC Fortuin,1,0,,,,,,"",""
+ball,2,1.1,Sunrisers Eastern Cape,J Hermann,AM Rossington,L Ngidi,0,0,,,,,,"",""
+ball,2,1.2,Sunrisers Eastern Cape,J Hermann,AM Rossington,L Ngidi,0,0,,,,,,"",""
+ball,2,1.3,Sunrisers Eastern Cape,J Hermann,AM Rossington,L Ngidi,0,1,1,,,,,"",""
+ball,2,1.4,Sunrisers Eastern Cape,J Hermann,AM Rossington,L Ngidi,0,0,,,,,,"",""
+ball,2,1.5,Sunrisers Eastern Cape,J Hermann,AM Rossington,L Ngidi,4,0,,,,,,"",""
+ball,2,1.6,Sunrisers Eastern Cape,J Hermann,AM Rossington,L Ngidi,4,0,,,,,,"",""
+ball,2,1.7,Sunrisers Eastern Cape,J Hermann,AM Rossington,L Ngidi,1,0,,,,,,"",""
+ball,2,2.1,Sunrisers Eastern Cape,J Hermann,AM Rossington,BC Fortuin,1,0,,,,,,"",""
+ball,2,2.2,Sunrisers Eastern Cape,AM Rossington,J Hermann,BC Fortuin,0,0,,,,,,"",""
+ball,2,2.3,Sunrisers Eastern Cape,AM Rossington,J Hermann,BC Fortuin,4,0,,,,,,"",""
+ball,2,2.4,Sunrisers Eastern Cape,AM Rossington,J Hermann,BC Fortuin,4,0,,,,,,"",""
+ball,2,2.5,Sunrisers Eastern Cape,AM Rossington,J Hermann,BC Fortuin,1,0,,,,,,"",""
+ball,2,2.6,Sunrisers Eastern Cape,J Hermann,AM Rossington,BC Fortuin,1,0,,,,,,"",""
+ball,2,3.1,Sunrisers Eastern Cape,J Hermann,AM Rossington,L Ngidi,0,1,1,,,,,"",""
+ball,2,3.2,Sunrisers Eastern Cape,J Hermann,AM Rossington,L Ngidi,1,0,,,,,,"",""
+ball,2,3.3,Sunrisers Eastern Cape,AM Rossington,J Hermann,L Ngidi,0,0,,,,,,"",""
+ball,2,3.4,Sunrisers Eastern Cape,AM Rossington,J Hermann,L Ngidi,4,0,,,,,,"",""
+ball,2,3.5,Sunrisers Eastern Cape,AM Rossington,J Hermann,L Ngidi,0,0,,,,,,bowled,AM Rossington
+ball,2,3.6,Sunrisers Eastern Cape,SJ Erwee,J Hermann,L Ngidi,0,0,,,,,,bowled,SJ Erwee
+ball,2,3.7,Sunrisers Eastern Cape,AK Markram,J Hermann,L Ngidi,4,0,,,,,,"",""
+ball,2,4.1,Sunrisers Eastern Cape,J Hermann,AK Markram,Codi Yusuf,2,0,,,,,,"",""
+ball,2,4.2,Sunrisers Eastern Cape,J Hermann,AK Markram,Codi Yusuf,0,0,,,,,,"",""
+ball,2,4.3,Sunrisers Eastern Cape,J Hermann,AK Markram,Codi Yusuf,1,0,,,,,,"",""
+ball,2,4.4,Sunrisers Eastern Cape,AK Markram,J Hermann,Codi Yusuf,0,0,,,,,,"",""
+ball,2,4.5,Sunrisers Eastern Cape,AK Markram,J Hermann,Codi Yusuf,0,0,,,,,,"",""
+ball,2,4.6,Sunrisers Eastern Cape,AK Markram,J Hermann,Codi Yusuf,1,0,,,,,,"",""
+ball,2,5.1,Sunrisers Eastern Cape,AK Markram,J Hermann,L Ngidi,1,0,,,,,,"",""
+ball,2,5.2,Sunrisers Eastern Cape,J Hermann,AK Markram,L Ngidi,0,0,,,,,,"",""
+ball,2,5.3,Sunrisers Eastern Cape,J Hermann,AK Markram,L Ngidi,0,0,,,,,,"",""
+ball,2,5.4,Sunrisers Eastern Cape,J Hermann,AK Markram,L Ngidi,6,0,,,,,,"",""
+ball,2,5.5,Sunrisers Eastern Cape,J Hermann,AK Markram,L Ngidi,0,1,1,,,,,"",""
+ball,2,5.6,Sunrisers Eastern Cape,J Hermann,AK Markram,L Ngidi,0,0,,,,,,"",""
+ball,2,5.7,Sunrisers Eastern Cape,J Hermann,AK Markram,L Ngidi,1,0,,,,,,"",""
+ball,2,6.1,Sunrisers Eastern Cape,J Hermann,AK Markram,Codi Yusuf,1,0,,,,,,"",""
+ball,2,6.2,Sunrisers Eastern Cape,AK Markram,J Hermann,Codi Yusuf,0,0,,,,,,"",""
+ball,2,6.3,Sunrisers Eastern Cape,AK Markram,J Hermann,Codi Yusuf,1,0,,,,,,"",""
+ball,2,6.4,Sunrisers Eastern Cape,J Hermann,AK Markram,Codi Yusuf,1,0,,,,,,"",""
+ball,2,6.5,Sunrisers Eastern Cape,AK Markram,J Hermann,Codi Yusuf,0,0,,,,,,"",""
+ball,2,6.6,Sunrisers Eastern Cape,AK Markram,J Hermann,Codi Yusuf,1,0,,,,,,"",""
+ball,2,7.1,Sunrisers Eastern Cape,AK Markram,J Hermann,T Shamsi,0,0,,,,,,"",""
+ball,2,7.2,Sunrisers Eastern Cape,AK Markram,J Hermann,T Shamsi,1,0,,,,,,"",""
+ball,2,7.3,Sunrisers Eastern Cape,J Hermann,AK Markram,T Shamsi,0,0,,,,,,"",""
+ball,2,7.4,Sunrisers Eastern Cape,J Hermann,AK Markram,T Shamsi,0,0,,,,,,"",""
+ball,2,7.5,Sunrisers Eastern Cape,J Hermann,AK Markram,T Shamsi,1,0,,,,,,"",""
+ball,2,7.6,Sunrisers Eastern Cape,AK Markram,J Hermann,T Shamsi,2,0,,,,,,"",""
+ball,2,8.1,Sunrisers Eastern Cape,J Hermann,AK Markram,E Jones,0,0,,,,,,"",""
+ball,2,8.2,Sunrisers Eastern Cape,J Hermann,AK Markram,E Jones,0,0,,,,,,"",""
+ball,2,8.3,Sunrisers Eastern Cape,J Hermann,AK Markram,E Jones,6,0,,,,,,"",""
+ball,2,8.4,Sunrisers Eastern Cape,J Hermann,AK Markram,E Jones,0,1,1,,,,,"",""
+ball,2,8.5,Sunrisers Eastern Cape,J Hermann,AK Markram,E Jones,1,0,,,,,,"",""
+ball,2,8.6,Sunrisers Eastern Cape,AK Markram,J Hermann,E Jones,6,0,,,,,,"",""
+ball,2,8.7,Sunrisers Eastern Cape,AK Markram,J Hermann,E Jones,0,0,,,,,,"",""
+ball,2,9.1,Sunrisers Eastern Cape,J Hermann,AK Markram,T Shamsi,1,0,,,,,,"",""
+ball,2,9.2,Sunrisers Eastern Cape,AK Markram,J Hermann,T Shamsi,1,0,,,,,,"",""
+ball,2,9.3,Sunrisers Eastern Cape,J Hermann,AK Markram,T Shamsi,1,0,,,,,,"",""
+ball,2,9.4,Sunrisers Eastern Cape,AK Markram,J Hermann,T Shamsi,1,0,,,,,,"",""
+ball,2,9.5,Sunrisers Eastern Cape,J Hermann,AK Markram,T Shamsi,1,0,,,,,,"",""
+ball,2,9.6,Sunrisers Eastern Cape,AK Markram,J Hermann,T Shamsi,1,0,,,,,,"",""
+ball,2,10.1,Sunrisers Eastern Cape,AK Markram,J Hermann,L Ngidi,0,0,,,,,,"",""
+ball,2,10.2,Sunrisers Eastern Cape,AK Markram,J Hermann,L Ngidi,1,0,,,,,,"",""
+ball,2,10.3,Sunrisers Eastern Cape,J Hermann,AK Markram,L Ngidi,0,1,,,,1,,"",""
+ball,2,10.4,Sunrisers Eastern Cape,AK Markram,J Hermann,L Ngidi,1,0,,,,,,"",""
+ball,2,10.5,Sunrisers Eastern Cape,J Hermann,AK Markram,L Ngidi,0,0,,,,,,"",""
+ball,2,10.6,Sunrisers Eastern Cape,J Hermann,AK Markram,L Ngidi,0,1,,,,1,,"",""
+ball,2,11.1,Sunrisers Eastern Cape,J Hermann,AK Markram,T Shamsi,1,0,,,,,,"",""
+ball,2,11.2,Sunrisers Eastern Cape,AK Markram,J Hermann,T Shamsi,0,0,,,,,,"",""
+ball,2,11.3,Sunrisers Eastern Cape,AK Markram,J Hermann,T Shamsi,1,0,,,,,,"",""
+ball,2,11.4,Sunrisers Eastern Cape,J Hermann,AK Markram,T Shamsi,4,0,,,,,,"",""
+ball,2,11.5,Sunrisers Eastern Cape,J Hermann,AK Markram,T Shamsi,0,0,,,,,,"",""
+ball,2,11.6,Sunrisers Eastern Cape,J Hermann,AK Markram,T Shamsi,2,0,,,,,,"",""
+ball,2,12.1,Sunrisers Eastern Cape,AK Markram,J Hermann,BC Fortuin,0,0,,,,,,bowled,AK Markram
+ball,2,12.2,Sunrisers Eastern Cape,T Stubbs,J Hermann,BC Fortuin,1,0,,,,,,"",""
+ball,2,12.3,Sunrisers Eastern Cape,J Hermann,T Stubbs,BC Fortuin,0,0,,,,,,"",""
+ball,2,12.4,Sunrisers Eastern Cape,J Hermann,T Stubbs,BC Fortuin,0,0,,,,,,caught,J Hermann
+ball,2,12.5,Sunrisers Eastern Cape,JM Cox,T Stubbs,BC Fortuin,0,0,,,,,,bowled,JM Cox
+ball,2,12.6,Sunrisers Eastern Cape,M Jansen,T Stubbs,BC Fortuin,0,0,,,,,,"",""
+ball,2,13.1,Sunrisers Eastern Cape,T Stubbs,M Jansen,T Shamsi,1,0,,,,,,"",""
+ball,2,13.2,Sunrisers Eastern Cape,M Jansen,T Stubbs,T Shamsi,1,0,,,,,,"",""
+ball,2,13.3,Sunrisers Eastern Cape,T Stubbs,M Jansen,T Shamsi,1,0,,,,,,"",""
+ball,2,13.4,Sunrisers Eastern Cape,M Jansen,T Stubbs,T Shamsi,0,0,,,,,,"",""
+ball,2,13.5,Sunrisers Eastern Cape,M Jansen,T Stubbs,T Shamsi,0,0,,,,,,"",""
+ball,2,13.6,Sunrisers Eastern Cape,M Jansen,T Stubbs,T Shamsi,1,0,,,,,,"",""
+ball,2,14.1,Sunrisers Eastern Cape,M Jansen,T Stubbs,BC Fortuin,0,0,,,,,,"",""
+ball,2,14.2,Sunrisers Eastern Cape,M Jansen,T Stubbs,BC Fortuin,0,0,,,,,,"",""
+ball,2,14.3,Sunrisers Eastern Cape,M Jansen,T Stubbs,BC Fortuin,0,0,,,,,,"",""
+ball,2,14.4,Sunrisers Eastern Cape,M Jansen,T Stubbs,BC Fortuin,0,0,,,,,,"",""
+ball,2,14.5,Sunrisers Eastern Cape,M Jansen,T Stubbs,BC Fortuin,0,0,,,,,,"",""
+ball,2,14.6,Sunrisers Eastern Cape,M Jansen,T Stubbs,BC Fortuin,0,0,,,,,,"",""
+ball,2,15.1,Sunrisers Eastern Cape,T Stubbs,M Jansen,E Jones,0,0,,,,,,"",""
+ball,2,15.2,Sunrisers Eastern Cape,T Stubbs,M Jansen,E Jones,1,0,,,,,,"",""
+ball,2,15.3,Sunrisers Eastern Cape,M Jansen,T Stubbs,E Jones,0,0,,,,,,"",""
+ball,2,15.4,Sunrisers Eastern Cape,M Jansen,T Stubbs,E Jones,1,0,,,,,,"",""
+ball,2,15.5,Sunrisers Eastern Cape,T Stubbs,M Jansen,E Jones,1,0,,,,,,"",""
+ball,2,15.6,Sunrisers Eastern Cape,M Jansen,T Stubbs,E Jones,2,0,,,,,,"",""
+ball,2,16.1,Sunrisers Eastern Cape,T Stubbs,M Jansen,Codi Yusuf,1,0,,,,,,"",""
+ball,2,16.2,Sunrisers Eastern Cape,M Jansen,T Stubbs,Codi Yusuf,1,0,,,,,,"",""
+ball,2,16.3,Sunrisers Eastern Cape,T Stubbs,M Jansen,Codi Yusuf,1,0,,,,,,"",""
+ball,2,16.4,Sunrisers Eastern Cape,M Jansen,T Stubbs,Codi Yusuf,0,0,,,,,,"",""
+ball,2,16.5,Sunrisers Eastern Cape,M Jansen,T Stubbs,Codi Yusuf,2,0,,,,,,"",""
+ball,2,16.6,Sunrisers Eastern Cape,M Jansen,T Stubbs,Codi Yusuf,1,0,,,,,,"",""
+ball,2,17.1,Sunrisers Eastern Cape,M Jansen,T Stubbs,E Jones,1,0,,,,,,"",""
+ball,2,17.2,Sunrisers Eastern Cape,T Stubbs,M Jansen,E Jones,2,0,,,,,,"",""
+ball,2,17.3,Sunrisers Eastern Cape,T Stubbs,M Jansen,E Jones,6,0,,,,,,"",""
+ball,2,17.4,Sunrisers Eastern Cape,T Stubbs,M Jansen,E Jones,1,0,,,,,,"",""
+ball,2,17.5,Sunrisers Eastern Cape,M Jansen,T Stubbs,E Jones,1,0,,,,,,"",""
+ball,2,17.6,Sunrisers Eastern Cape,T Stubbs,M Jansen,E Jones,2,0,,,,,,"",""
+ball,2,18.1,Sunrisers Eastern Cape,M Jansen,T Stubbs,Codi Yusuf,4,0,,,,,,"",""
+ball,2,18.2,Sunrisers Eastern Cape,M Jansen,T Stubbs,Codi Yusuf,6,0,,,,,,"",""

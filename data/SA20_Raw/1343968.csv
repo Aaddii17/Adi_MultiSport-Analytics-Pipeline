@@ -1,0 +1,283 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Durban's Super Giants
+info,team,Pretoria Capitals
+info,gender,male
+info,season,2022/23
+info,date,2023/02/05
+info,event,SA20
+info,match_number,28
+info,venue,"SuperSport Park, Centurion"
+info,city,Centurion
+info,toss_winner,Pretoria Capitals
+info,toss_decision,field
+info,player_of_match,H Klaasen
+info,umpire,AT Holdstock
+info,umpire,A Paleker
+info,reserve_umpire,A Jacobs
+info,tv_umpire,M Erasmus
+info,match_referee,S Wadvalla
+info,winner,Durban's Super Giants
+info,winner_runs,151
+info,player,Durban's Super Giants,Q de Kock
+info,player,Durban's Super Giants,BR McDermott
+info,player,Durban's Super Giants,H Klaasen
+info,player,Durban's Super Giants,DJ Willey
+info,player,Durban's Super Giants,PWA Mulder
+info,player,Durban's Super Giants,MP Breetzke
+info,player,Durban's Super Giants,KMA Paul
+info,player,Durban's Super Giants,D Pretorius
+info,player,Durban's Super Giants,KA Maharaj
+info,player,Durban's Super Giants,CJ Dala
+info,player,Durban's Super Giants,RJW Topley
+info,player,Pretoria Capitals,PD Salt
+info,player,Pretoria Capitals,BKG Mendis
+info,player,Pretoria Capitals,TB de Bruyn
+info,player,Pretoria Capitals,RR Rossouw
+info,player,Pretoria Capitals,CA Ingram
+info,player,Pretoria Capitals,JDS Neesham
+info,player,Pretoria Capitals,S Muthusamy
+info,player,Pretoria Capitals,M Pretorius
+info,player,Pretoria Capitals,E Bosch
+info,player,Pretoria Capitals,DM Dupavillon
+info,player,Pretoria Capitals,J Little
+info,registry,people,A Jacobs,70d117de
+info,registry,people,A Paleker,634b11ac
+info,registry,people,AT Holdstock,6fa3258c
+info,registry,people,BKG Mendis,5d1e7582
+info,registry,people,BR McDermott,c41043e6
+info,registry,people,CA Ingram,c995d726
+info,registry,people,CJ Dala,1cb14aa4
+info,registry,people,D Pretorius,11614d87
+info,registry,people,DJ Willey,7f048519
+info,registry,people,DM Dupavillon,7cb2d9d2
+info,registry,people,E Bosch,28d6c44d
+info,registry,people,H Klaasen,235c2bb6
+info,registry,people,J Little,9061a703
+info,registry,people,JDS Neesham,9219eff0
+info,registry,people,KA Maharaj,0b60eb09
+info,registry,people,KMA Paul,75224f22
+info,registry,people,M Erasmus,15d3c895
+info,registry,people,M Pretorius,54c2b697
+info,registry,people,MP Breetzke,35f173a0
+info,registry,people,PD Salt,3d284ca3
+info,registry,people,PWA Mulder,c96f6ac5
+info,registry,people,Q de Kock,372455c4
+info,registry,people,RJW Topley,8db7f47f
+info,registry,people,RR Rossouw,cad00a4d
+info,registry,people,S Muthusamy,7dfb8890
+info,registry,people,S Wadvalla,c1a1acf3
+info,registry,people,TB de Bruyn,90d6cdea
+ball,1,0.1,Durban's Super Giants,Q de Kock,BR McDermott,J Little,0,0,,,,,,"",""
+ball,1,0.2,Durban's Super Giants,Q de Kock,BR McDermott,J Little,0,0,,,,,,"",""
+ball,1,0.3,Durban's Super Giants,Q de Kock,BR McDermott,J Little,1,0,,,,,,"",""
+ball,1,0.4,Durban's Super Giants,BR McDermott,Q de Kock,J Little,0,0,,,,,,"",""
+ball,1,0.5,Durban's Super Giants,BR McDermott,Q de Kock,J Little,0,0,,,,,,"",""
+ball,1,0.6,Durban's Super Giants,BR McDermott,Q de Kock,J Little,0,0,,,,,,"",""
+ball,1,1.1,Durban's Super Giants,Q de Kock,BR McDermott,E Bosch,4,0,,,,,,"",""
+ball,1,1.2,Durban's Super Giants,Q de Kock,BR McDermott,E Bosch,1,0,,,,,,"",""
+ball,1,1.3,Durban's Super Giants,BR McDermott,Q de Kock,E Bosch,0,0,,,,,,"",""
+ball,1,1.4,Durban's Super Giants,BR McDermott,Q de Kock,E Bosch,0,0,,,,,,"",""
+ball,1,1.5,Durban's Super Giants,BR McDermott,Q de Kock,E Bosch,4,0,,,,,,"",""
+ball,1,1.6,Durban's Super Giants,BR McDermott,Q de Kock,E Bosch,6,0,,,,,,"",""
+ball,1,2.1,Durban's Super Giants,Q de Kock,BR McDermott,J Little,4,0,,,,,,"",""
+ball,1,2.2,Durban's Super Giants,Q de Kock,BR McDermott,J Little,6,0,,,,,,"",""
+ball,1,2.3,Durban's Super Giants,Q de Kock,BR McDermott,J Little,4,0,,,,,,"",""
+ball,1,2.4,Durban's Super Giants,Q de Kock,BR McDermott,J Little,0,0,,,,,,"",""
+ball,1,2.5,Durban's Super Giants,Q de Kock,BR McDermott,J Little,0,0,,,,,,"",""
+ball,1,2.6,Durban's Super Giants,Q de Kock,BR McDermott,J Little,4,0,,,,,,"",""
+ball,1,3.1,Durban's Super Giants,BR McDermott,Q de Kock,DM Dupavillon,0,0,,,,,,"",""
+ball,1,3.2,Durban's Super Giants,BR McDermott,Q de Kock,DM Dupavillon,0,0,,,,,,"",""
+ball,1,3.3,Durban's Super Giants,BR McDermott,Q de Kock,DM Dupavillon,0,0,,,,,,"",""
+ball,1,3.4,Durban's Super Giants,BR McDermott,Q de Kock,DM Dupavillon,4,0,,,,,,"",""
+ball,1,3.5,Durban's Super Giants,BR McDermott,Q de Kock,DM Dupavillon,4,0,,,,,,"",""
+ball,1,3.6,Durban's Super Giants,BR McDermott,Q de Kock,DM Dupavillon,6,0,,,,,,"",""
+ball,1,4.1,Durban's Super Giants,Q de Kock,BR McDermott,M Pretorius,4,0,,,,,,"",""
+ball,1,4.2,Durban's Super Giants,Q de Kock,BR McDermott,M Pretorius,6,0,,,,,,"",""
+ball,1,4.3,Durban's Super Giants,Q de Kock,BR McDermott,M Pretorius,1,0,,,,,,"",""
+ball,1,4.4,Durban's Super Giants,BR McDermott,Q de Kock,M Pretorius,4,0,,,,,,"",""
+ball,1,4.5,Durban's Super Giants,BR McDermott,Q de Kock,M Pretorius,1,0,,,,,,"",""
+ball,1,4.6,Durban's Super Giants,Q de Kock,BR McDermott,M Pretorius,1,0,,,,,,"",""
+ball,1,5.1,Durban's Super Giants,Q de Kock,BR McDermott,DM Dupavillon,0,0,,,,,,"",""
+ball,1,5.2,Durban's Super Giants,Q de Kock,BR McDermott,DM Dupavillon,6,0,,,,,,"",""
+ball,1,5.3,Durban's Super Giants,Q de Kock,BR McDermott,DM Dupavillon,0,0,,,,,,"",""
+ball,1,5.4,Durban's Super Giants,Q de Kock,BR McDermott,DM Dupavillon,1,0,,,,,,"",""
+ball,1,5.5,Durban's Super Giants,BR McDermott,Q de Kock,DM Dupavillon,0,0,,,,,,"",""
+ball,1,5.6,Durban's Super Giants,BR McDermott,Q de Kock,DM Dupavillon,4,0,,,,,,"",""
+ball,1,6.1,Durban's Super Giants,Q de Kock,BR McDermott,JDS Neesham,0,0,,,,,,caught and bowled,Q de Kock
+ball,1,6.2,Durban's Super Giants,H Klaasen,BR McDermott,JDS Neesham,1,0,,,,,,"",""
+ball,1,6.3,Durban's Super Giants,BR McDermott,H Klaasen,JDS Neesham,0,0,,,,,,"",""
+ball,1,6.4,Durban's Super Giants,BR McDermott,H Klaasen,JDS Neesham,1,0,,,,,,"",""
+ball,1,6.5,Durban's Super Giants,H Klaasen,BR McDermott,JDS Neesham,1,0,,,,,,"",""
+ball,1,6.6,Durban's Super Giants,BR McDermott,H Klaasen,JDS Neesham,0,0,,,,,,"",""
+ball,1,7.1,Durban's Super Giants,H Klaasen,BR McDermott,S Muthusamy,1,0,,,,,,"",""
+ball,1,7.2,Durban's Super Giants,BR McDermott,H Klaasen,S Muthusamy,1,0,,,,,,"",""
+ball,1,7.3,Durban's Super Giants,H Klaasen,BR McDermott,S Muthusamy,6,0,,,,,,"",""
+ball,1,7.4,Durban's Super Giants,H Klaasen,BR McDermott,S Muthusamy,0,0,,,,,,"",""
+ball,1,7.5,Durban's Super Giants,H Klaasen,BR McDermott,S Muthusamy,4,0,,,,,,"",""
+ball,1,7.6,Durban's Super Giants,H Klaasen,BR McDermott,S Muthusamy,0,1,1,,,,,"",""
+ball,1,7.7,Durban's Super Giants,H Klaasen,BR McDermott,S Muthusamy,4,0,,,,,,"",""
+ball,1,8.1,Durban's Super Giants,BR McDermott,H Klaasen,JDS Neesham,6,0,,,,,,"",""
+ball,1,8.2,Durban's Super Giants,BR McDermott,H Klaasen,JDS Neesham,0,1,,,,1,,"",""
+ball,1,8.3,Durban's Super Giants,H Klaasen,BR McDermott,JDS Neesham,0,0,,,,,,"",""
+ball,1,8.4,Durban's Super Giants,H Klaasen,BR McDermott,JDS Neesham,4,0,,,,,,"",""
+ball,1,8.5,Durban's Super Giants,H Klaasen,BR McDermott,JDS Neesham,4,0,,,,,,"",""
+ball,1,8.6,Durban's Super Giants,H Klaasen,BR McDermott,JDS Neesham,1,0,,,,,,"",""
+ball,1,9.1,Durban's Super Giants,H Klaasen,BR McDermott,M Pretorius,0,1,1,,,,,"",""
+ball,1,9.2,Durban's Super Giants,H Klaasen,BR McDermott,M Pretorius,2,0,,,,,,"",""
+ball,1,9.3,Durban's Super Giants,H Klaasen,BR McDermott,M Pretorius,1,0,,,,,,"",""
+ball,1,9.4,Durban's Super Giants,BR McDermott,H Klaasen,M Pretorius,0,0,,,,,,caught,BR McDermott
+ball,1,9.5,Durban's Super Giants,DJ Willey,H Klaasen,M Pretorius,1,0,,,,,,"",""
+ball,1,9.6,Durban's Super Giants,H Klaasen,DJ Willey,M Pretorius,1,0,,,,,,"",""
+ball,1,9.7,Durban's Super Giants,DJ Willey,H Klaasen,M Pretorius,0,0,,,,,,caught,DJ Willey
+ball,1,10.1,Durban's Super Giants,H Klaasen,PWA Mulder,S Muthusamy,1,0,,,,,,"",""
+ball,1,10.2,Durban's Super Giants,PWA Mulder,H Klaasen,S Muthusamy,1,0,,,,,,"",""
+ball,1,10.3,Durban's Super Giants,H Klaasen,PWA Mulder,S Muthusamy,1,0,,,,,,"",""
+ball,1,10.4,Durban's Super Giants,PWA Mulder,H Klaasen,S Muthusamy,1,0,,,,,,"",""
+ball,1,10.5,Durban's Super Giants,H Klaasen,PWA Mulder,S Muthusamy,4,0,,,,,,"",""
+ball,1,10.6,Durban's Super Giants,H Klaasen,PWA Mulder,S Muthusamy,4,0,,,,,,"",""
+ball,1,11.1,Durban's Super Giants,PWA Mulder,H Klaasen,E Bosch,1,0,,,,,,"",""
+ball,1,11.2,Durban's Super Giants,H Klaasen,PWA Mulder,E Bosch,1,0,,,,,,"",""
+ball,1,11.3,Durban's Super Giants,PWA Mulder,H Klaasen,E Bosch,1,0,,,,,,"",""
+ball,1,11.4,Durban's Super Giants,H Klaasen,PWA Mulder,E Bosch,2,0,,,,,,"",""
+ball,1,11.5,Durban's Super Giants,H Klaasen,PWA Mulder,E Bosch,1,0,,,,,,"",""
+ball,1,11.6,Durban's Super Giants,PWA Mulder,H Klaasen,E Bosch,0,0,,,,,,"",""
+ball,1,12.1,Durban's Super Giants,H Klaasen,PWA Mulder,DM Dupavillon,2,0,,,,,,"",""
+ball,1,12.2,Durban's Super Giants,H Klaasen,PWA Mulder,DM Dupavillon,6,0,,,,,,"",""
+ball,1,12.3,Durban's Super Giants,H Klaasen,PWA Mulder,DM Dupavillon,4,0,,,,,,"",""
+ball,1,12.4,Durban's Super Giants,H Klaasen,PWA Mulder,DM Dupavillon,1,0,,,,,,"",""
+ball,1,12.5,Durban's Super Giants,PWA Mulder,H Klaasen,DM Dupavillon,1,0,,,,,,"",""
+ball,1,12.6,Durban's Super Giants,H Klaasen,PWA Mulder,DM Dupavillon,1,0,,,,,,"",""
+ball,1,13.1,Durban's Super Giants,H Klaasen,PWA Mulder,J Little,6,0,,,,,,"",""
+ball,1,13.2,Durban's Super Giants,H Klaasen,PWA Mulder,J Little,4,0,,,,,,"",""
+ball,1,13.3,Durban's Super Giants,H Klaasen,PWA Mulder,J Little,1,0,,,,,,"",""
+ball,1,13.4,Durban's Super Giants,PWA Mulder,H Klaasen,J Little,0,4,,,,4,,"",""
+ball,1,13.5,Durban's Super Giants,PWA Mulder,H Klaasen,J Little,4,0,,,,,,"",""
+ball,1,13.6,Durban's Super Giants,PWA Mulder,H Klaasen,J Little,0,0,,,,,,caught,PWA Mulder
+ball,1,14.1,Durban's Super Giants,H Klaasen,MP Breetzke,JDS Neesham,1,0,,,,,,"",""
+ball,1,14.2,Durban's Super Giants,MP Breetzke,H Klaasen,JDS Neesham,1,0,,,,,,"",""
+ball,1,14.3,Durban's Super Giants,H Klaasen,MP Breetzke,JDS Neesham,4,0,,,,,,"",""
+ball,1,14.4,Durban's Super Giants,H Klaasen,MP Breetzke,JDS Neesham,0,0,,,,,,"",""
+ball,1,14.5,Durban's Super Giants,H Klaasen,MP Breetzke,JDS Neesham,0,0,,,,,,"",""
+ball,1,14.6,Durban's Super Giants,H Klaasen,MP Breetzke,JDS Neesham,0,0,,,,,,"",""
+ball,1,15.1,Durban's Super Giants,MP Breetzke,H Klaasen,E Bosch,1,0,,,,,,"",""
+ball,1,15.2,Durban's Super Giants,H Klaasen,MP Breetzke,E Bosch,6,0,,,,,,"",""
+ball,1,15.3,Durban's Super Giants,H Klaasen,MP Breetzke,E Bosch,4,0,,,,,,"",""
+ball,1,15.4,Durban's Super Giants,H Klaasen,MP Breetzke,E Bosch,1,0,,,,,,"",""
+ball,1,15.5,Durban's Super Giants,MP Breetzke,H Klaasen,E Bosch,4,0,,,,,,"",""
+ball,1,15.6,Durban's Super Giants,MP Breetzke,H Klaasen,E Bosch,1,0,,,,,,"",""
+ball,1,16.1,Durban's Super Giants,MP Breetzke,H Klaasen,J Little,1,0,,,,,,"",""
+ball,1,16.2,Durban's Super Giants,H Klaasen,MP Breetzke,J Little,1,0,,,,,,"",""
+ball,1,16.3,Durban's Super Giants,MP Breetzke,H Klaasen,J Little,0,0,,,,,,"",""
+ball,1,16.4,Durban's Super Giants,MP Breetzke,H Klaasen,J Little,0,0,,,,,,"",""
+ball,1,16.5,Durban's Super Giants,MP Breetzke,H Klaasen,J Little,1,0,,,,,,"",""
+ball,1,16.6,Durban's Super Giants,H Klaasen,MP Breetzke,J Little,2,0,,,,,,"",""
+ball,1,17.1,Durban's Super Giants,MP Breetzke,H Klaasen,M Pretorius,0,0,,,,,,"",""
+ball,1,17.2,Durban's Super Giants,MP Breetzke,H Klaasen,M Pretorius,6,0,,,,,,"",""
+ball,1,17.3,Durban's Super Giants,MP Breetzke,H Klaasen,M Pretorius,4,0,,,,,,"",""
+ball,1,17.4,Durban's Super Giants,MP Breetzke,H Klaasen,M Pretorius,6,0,,,,,,"",""
+ball,1,17.5,Durban's Super Giants,MP Breetzke,H Klaasen,M Pretorius,0,0,,,,,,"",""
+ball,1,17.6,Durban's Super Giants,MP Breetzke,H Klaasen,M Pretorius,4,0,,,,,,"",""
+ball,1,18.1,Durban's Super Giants,H Klaasen,MP Breetzke,JDS Neesham,0,1,1,,,,,"",""
+ball,1,18.2,Durban's Super Giants,H Klaasen,MP Breetzke,JDS Neesham,1,0,,,,,,"",""
+ball,1,18.3,Durban's Super Giants,MP Breetzke,H Klaasen,JDS Neesham,4,0,,,,,,"",""
+ball,1,18.4,Durban's Super Giants,MP Breetzke,H Klaasen,JDS Neesham,0,1,1,,,,,"",""
+ball,1,18.5,Durban's Super Giants,MP Breetzke,H Klaasen,JDS Neesham,0,1,1,,,,,"",""
+ball,1,18.6,Durban's Super Giants,MP Breetzke,H Klaasen,JDS Neesham,1,0,,,,,,"",""
+ball,1,18.7,Durban's Super Giants,H Klaasen,MP Breetzke,JDS Neesham,6,0,,,,,,"",""
+ball,1,18.8,Durban's Super Giants,H Klaasen,MP Breetzke,JDS Neesham,1,0,,,,,,"",""
+ball,1,18.9,Durban's Super Giants,MP Breetzke,H Klaasen,JDS Neesham,1,0,,,,,,"",""
+ball,1,19.1,Durban's Super Giants,MP Breetzke,H Klaasen,M Pretorius,0,0,,,,,,"",""
+ball,1,19.2,Durban's Super Giants,MP Breetzke,H Klaasen,M Pretorius,6,0,,,,,,"",""
+ball,1,19.3,Durban's Super Giants,MP Breetzke,H Klaasen,M Pretorius,4,0,,,,,,"",""
+ball,1,19.4,Durban's Super Giants,MP Breetzke,H Klaasen,M Pretorius,1,0,,,,,,"",""
+ball,1,19.5,Durban's Super Giants,H Klaasen,MP Breetzke,M Pretorius,6,0,,,,,,"",""
+ball,1,19.6,Durban's Super Giants,H Klaasen,MP Breetzke,M Pretorius,2,0,,,,,,"",""
+ball,2,0.1,Pretoria Capitals,PD Salt,BKG Mendis,DJ Willey,0,0,,,,,,"",""
+ball,2,0.2,Pretoria Capitals,PD Salt,BKG Mendis,DJ Willey,1,0,,,,,,"",""
+ball,2,0.3,Pretoria Capitals,BKG Mendis,PD Salt,DJ Willey,0,0,,,,,,"",""
+ball,2,0.4,Pretoria Capitals,BKG Mendis,PD Salt,DJ Willey,0,0,,,,,,"",""
+ball,2,0.5,Pretoria Capitals,BKG Mendis,PD Salt,DJ Willey,0,0,,,,,,"",""
+ball,2,0.6,Pretoria Capitals,BKG Mendis,PD Salt,DJ Willey,6,0,,,,,,"",""
+ball,2,1.1,Pretoria Capitals,PD Salt,BKG Mendis,RJW Topley,0,0,,,,,,caught,PD Salt
+ball,2,1.2,Pretoria Capitals,TB de Bruyn,BKG Mendis,RJW Topley,4,0,,,,,,"",""
+ball,2,1.3,Pretoria Capitals,TB de Bruyn,BKG Mendis,RJW Topley,1,0,,,,,,"",""
+ball,2,1.4,Pretoria Capitals,BKG Mendis,TB de Bruyn,RJW Topley,0,0,,,,,,"",""
+ball,2,1.5,Pretoria Capitals,BKG Mendis,TB de Bruyn,RJW Topley,4,0,,,,,,"",""
+ball,2,1.6,Pretoria Capitals,BKG Mendis,TB de Bruyn,RJW Topley,0,0,,,,,,"",""
+ball,2,2.1,Pretoria Capitals,TB de Bruyn,BKG Mendis,CJ Dala,2,0,,,,,,"",""
+ball,2,2.2,Pretoria Capitals,TB de Bruyn,BKG Mendis,CJ Dala,0,0,,,,,,"",""
+ball,2,2.3,Pretoria Capitals,TB de Bruyn,BKG Mendis,CJ Dala,0,0,,,,,,"",""
+ball,2,2.4,Pretoria Capitals,TB de Bruyn,BKG Mendis,CJ Dala,1,0,,,,,,"",""
+ball,2,2.5,Pretoria Capitals,BKG Mendis,TB de Bruyn,CJ Dala,0,0,,,,,,"",""
+ball,2,2.6,Pretoria Capitals,BKG Mendis,TB de Bruyn,CJ Dala,0,0,,,,,,caught and bowled,BKG Mendis
+ball,2,3.1,Pretoria Capitals,TB de Bruyn,RR Rossouw,RJW Topley,0,0,,,,,,"",""
+ball,2,3.2,Pretoria Capitals,TB de Bruyn,RR Rossouw,RJW Topley,0,0,,,,,,"",""
+ball,2,3.3,Pretoria Capitals,TB de Bruyn,RR Rossouw,RJW Topley,1,0,,,,,,"",""
+ball,2,3.4,Pretoria Capitals,RR Rossouw,TB de Bruyn,RJW Topley,0,0,,,,,,"",""
+ball,2,3.5,Pretoria Capitals,RR Rossouw,TB de Bruyn,RJW Topley,0,1,1,,,,,"",""
+ball,2,3.6,Pretoria Capitals,RR Rossouw,TB de Bruyn,RJW Topley,0,0,,,,,,"",""
+ball,2,3.7,Pretoria Capitals,RR Rossouw,TB de Bruyn,RJW Topley,0,0,,,,,,"",""
+ball,2,4.1,Pretoria Capitals,TB de Bruyn,RR Rossouw,D Pretorius,6,0,,,,,,"",""
+ball,2,4.2,Pretoria Capitals,TB de Bruyn,RR Rossouw,D Pretorius,0,0,,,,,,"",""
+ball,2,4.3,Pretoria Capitals,TB de Bruyn,RR Rossouw,D Pretorius,1,0,,,,,,"",""
+ball,2,4.4,Pretoria Capitals,RR Rossouw,TB de Bruyn,D Pretorius,4,0,,,,,,"",""
+ball,2,4.5,Pretoria Capitals,RR Rossouw,TB de Bruyn,D Pretorius,0,2,2,,,,,"",""
+ball,2,4.6,Pretoria Capitals,TB de Bruyn,RR Rossouw,D Pretorius,0,0,,,,,,caught,TB de Bruyn
+ball,2,4.7,Pretoria Capitals,CA Ingram,RR Rossouw,D Pretorius,0,1,,,,1,,"",""
+ball,2,5.1,Pretoria Capitals,CA Ingram,RR Rossouw,RJW Topley,0,0,,,,,,"",""
+ball,2,5.2,Pretoria Capitals,CA Ingram,RR Rossouw,RJW Topley,0,0,,,,,,"",""
+ball,2,5.3,Pretoria Capitals,CA Ingram,RR Rossouw,RJW Topley,1,0,,,,,,"",""
+ball,2,5.4,Pretoria Capitals,RR Rossouw,CA Ingram,RJW Topley,0,0,,,,,,"",""
+ball,2,5.5,Pretoria Capitals,RR Rossouw,CA Ingram,RJW Topley,0,0,,,,,,"",""
+ball,2,5.6,Pretoria Capitals,RR Rossouw,CA Ingram,RJW Topley,0,0,,,,,,"",""
+ball,2,6.1,Pretoria Capitals,CA Ingram,RR Rossouw,CJ Dala,1,0,,,,,,"",""
+ball,2,6.2,Pretoria Capitals,RR Rossouw,CA Ingram,CJ Dala,6,0,,,,,,"",""
+ball,2,6.3,Pretoria Capitals,RR Rossouw,CA Ingram,CJ Dala,0,0,,,,,,"",""
+ball,2,6.4,Pretoria Capitals,RR Rossouw,CA Ingram,CJ Dala,4,0,,,,,,"",""
+ball,2,6.5,Pretoria Capitals,RR Rossouw,CA Ingram,CJ Dala,4,0,,,,,,"",""
+ball,2,6.6,Pretoria Capitals,RR Rossouw,CA Ingram,CJ Dala,0,0,,,,,,bowled,RR Rossouw
+ball,2,7.1,Pretoria Capitals,CA Ingram,JDS Neesham,RJW Topley,0,0,,,,,,"",""
+ball,2,7.2,Pretoria Capitals,CA Ingram,JDS Neesham,RJW Topley,0,0,,,,,,"",""
+ball,2,7.3,Pretoria Capitals,CA Ingram,JDS Neesham,RJW Topley,1,0,,,,,,"",""
+ball,2,7.4,Pretoria Capitals,JDS Neesham,CA Ingram,RJW Topley,1,0,,,,,,"",""
+ball,2,7.5,Pretoria Capitals,CA Ingram,JDS Neesham,RJW Topley,1,0,,,,,,"",""
+ball,2,7.6,Pretoria Capitals,JDS Neesham,CA Ingram,RJW Topley,6,0,,,,,,"",""
+ball,2,8.1,Pretoria Capitals,CA Ingram,JDS Neesham,CJ Dala,0,0,,,,,,"",""
+ball,2,8.2,Pretoria Capitals,CA Ingram,JDS Neesham,CJ Dala,0,0,,,,,,caught and bowled,CA Ingram
+ball,2,8.3,Pretoria Capitals,S Muthusamy,JDS Neesham,CJ Dala,0,0,,,,,,"",""
+ball,2,8.4,Pretoria Capitals,S Muthusamy,JDS Neesham,CJ Dala,1,0,,,,,,"",""
+ball,2,8.5,Pretoria Capitals,JDS Neesham,S Muthusamy,CJ Dala,1,0,,,,,,"",""
+ball,2,8.6,Pretoria Capitals,S Muthusamy,JDS Neesham,CJ Dala,1,0,,,,,,"",""
+ball,2,9.1,Pretoria Capitals,S Muthusamy,JDS Neesham,D Pretorius,1,0,,,,,,"",""
+ball,2,9.2,Pretoria Capitals,JDS Neesham,S Muthusamy,D Pretorius,0,0,,,,,,caught,JDS Neesham
+ball,2,9.3,Pretoria Capitals,M Pretorius,S Muthusamy,D Pretorius,1,0,,,,,,"",""
+ball,2,9.4,Pretoria Capitals,S Muthusamy,M Pretorius,D Pretorius,4,0,,,,,,"",""
+ball,2,9.5,Pretoria Capitals,S Muthusamy,M Pretorius,D Pretorius,1,0,,,,,,"",""
+ball,2,9.6,Pretoria Capitals,M Pretorius,S Muthusamy,D Pretorius,0,0,,,,,,"",""
+ball,2,10.1,Pretoria Capitals,S Muthusamy,M Pretorius,PWA Mulder,1,0,,,,,,"",""
+ball,2,10.2,Pretoria Capitals,M Pretorius,S Muthusamy,PWA Mulder,1,0,,,,,,run out,M Pretorius
+ball,2,10.3,Pretoria Capitals,E Bosch,S Muthusamy,PWA Mulder,1,0,,,,,,"",""
+ball,2,10.4,Pretoria Capitals,S Muthusamy,E Bosch,PWA Mulder,0,0,,,,,,caught,S Muthusamy
+ball,2,10.5,Pretoria Capitals,DM Dupavillon,E Bosch,PWA Mulder,1,0,,,,,,"",""
+ball,2,10.6,Pretoria Capitals,E Bosch,DM Dupavillon,PWA Mulder,0,1,1,,,,,"",""
+ball,2,10.7,Pretoria Capitals,E Bosch,DM Dupavillon,PWA Mulder,1,0,,,,,,"",""
+ball,2,11.1,Pretoria Capitals,E Bosch,DM Dupavillon,CJ Dala,4,0,,,,,,"",""
+ball,2,11.2,Pretoria Capitals,E Bosch,DM Dupavillon,CJ Dala,0,0,,,,,,"",""
+ball,2,11.3,Pretoria Capitals,E Bosch,DM Dupavillon,CJ Dala,6,0,,,,,,"",""
+ball,2,11.4,Pretoria Capitals,E Bosch,DM Dupavillon,CJ Dala,0,1,1,,,,,"",""
+ball,2,11.5,Pretoria Capitals,E Bosch,DM Dupavillon,CJ Dala,0,0,,,,,,"",""
+ball,2,11.6,Pretoria Capitals,E Bosch,DM Dupavillon,CJ Dala,0,0,,,,,,"",""
+ball,2,11.7,Pretoria Capitals,E Bosch,DM Dupavillon,CJ Dala,1,0,,,,,,"",""
+ball,2,12.1,Pretoria Capitals,E Bosch,DM Dupavillon,PWA Mulder,0,0,,,,,,"",""
+ball,2,12.2,Pretoria Capitals,E Bosch,DM Dupavillon,PWA Mulder,6,0,,,,,,"",""
+ball,2,12.3,Pretoria Capitals,E Bosch,DM Dupavillon,PWA Mulder,2,0,,,,,,"",""
+ball,2,12.4,Pretoria Capitals,E Bosch,DM Dupavillon,PWA Mulder,2,0,,,,,,"",""
+ball,2,12.5,Pretoria Capitals,E Bosch,DM Dupavillon,PWA Mulder,0,0,,,,,,caught,E Bosch
+ball,2,12.6,Pretoria Capitals,J Little,DM Dupavillon,PWA Mulder,0,1,1,,,,,"",""
+ball,2,12.7,Pretoria Capitals,J Little,DM Dupavillon,PWA Mulder,0,0,,,,,,"",""
+ball,2,13.1,Pretoria Capitals,DM Dupavillon,J Little,KMA Paul,4,0,,,,,,"",""
+ball,2,13.2,Pretoria Capitals,DM Dupavillon,J Little,KMA Paul,0,0,,,,,,"",""
+ball,2,13.3,Pretoria Capitals,DM Dupavillon,J Little,KMA Paul,0,0,,,,,,"",""
+ball,2,13.4,Pretoria Capitals,DM Dupavillon,J Little,KMA Paul,0,0,,,,,,"",""
+ball,2,13.5,Pretoria Capitals,DM Dupavillon,J Little,KMA Paul,0,0,,,,,,caught,DM Dupavillon

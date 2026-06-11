@@ -1,0 +1,318 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Tanzania
+info,team,Seychelles
+info,gender,male
+info,season,2025/26
+info,date,2026/03/27
+info,event,ICC Men's T20 World Cup Africa Sub Regional Qualifier B
+info,match_number,9
+info,venue,"Achimota Senior Secondary School B Field, Accra"
+info,city,Accra
+info,toss_winner,Tanzania
+info,toss_decision,bat
+info,player_of_match,II Selemani
+info,umpire,A Jacobs
+info,umpire,P Sizara
+info,reserve_umpire,D Odhiambo
+info,match_referee,O Chirombe
+info,winner,Tanzania
+info,winner_runs,153
+info,player,Tanzania,DA Mehta
+info,player,Tanzania,II Selemani
+info,player,Tanzania,A Augastin
+info,player,Tanzania,Arun Yadav
+info,player,Tanzania,MS Maker
+info,player,Tanzania,K Nassoro
+info,player,Tanzania,K Juma
+info,player,Tanzania,LS Barkania
+info,player,Tanzania,AM Kimote
+info,player,Tanzania,MO Kitunda
+info,player,Tanzania,YM Nkanya
+info,player,Seychelles,STRA de Silva
+info,player,Seychelles,TKP Rajapaksha
+info,player,Seychelles,Mazharul Islam
+info,player,Seychelles,M Mariyappan
+info,player,Seychelles,SR Mohan
+info,player,Seychelles,M Viswanathan
+info,player,Seychelles,D Kalvin
+info,player,Seychelles,Jobayer Hossen
+info,player,Seychelles,Thilina Silva
+info,player,Seychelles,N Gnanapragasam
+info,player,Seychelles,S Rukmal
+info,registry,people,A Augastin,056e3558
+info,registry,people,A Jacobs,70d117de
+info,registry,people,AM Kimote,34e36b65
+info,registry,people,Ally Hafidh,b36d9ced
+info,registry,people,Arun Yadav,53ace082
+info,registry,people,D Kalvin,895ae8b6
+info,registry,people,D Odhiambo,45994517
+info,registry,people,DA Mehta,61a7d6e9
+info,registry,people,II Selemani,b2dadc51
+info,registry,people,Jobayer Hossen,656fc15b
+info,registry,people,K Juma,089ebf89
+info,registry,people,K Nassoro,29ee9bf9
+info,registry,people,LS Barkania,073126d6
+info,registry,people,M Mariyappan,69cbd850
+info,registry,people,M Viswanathan,dd9ab45d
+info,registry,people,MO Kitunda,badef0dc
+info,registry,people,MS Maker,14318ae4
+info,registry,people,Mazharul Islam,30564b3e
+info,registry,people,N Gnanapragasam,4f6d5f87
+info,registry,people,O Chirombe,6345307f
+info,registry,people,P Sizara,5d45bb7f
+info,registry,people,S Rukmal,f5be7b08
+info,registry,people,SR Mohan,58533699
+info,registry,people,STRA de Silva,21fe743b
+info,registry,people,TKP Rajapaksha,b5dcec37
+info,registry,people,Thilina Silva,f0ad7a75
+info,registry,people,YM Nkanya,9238dd92
+ball,1,0.1,Tanzania,DA Mehta,II Selemani,S Rukmal,2,0,,,,,,"",""
+ball,1,0.2,Tanzania,DA Mehta,II Selemani,S Rukmal,0,1,1,,,,,"",""
+ball,1,0.3,Tanzania,DA Mehta,II Selemani,S Rukmal,0,1,1,,,,,"",""
+ball,1,0.4,Tanzania,DA Mehta,II Selemani,S Rukmal,1,0,,,,,,"",""
+ball,1,0.5,Tanzania,II Selemani,DA Mehta,S Rukmal,4,0,,,,,,"",""
+ball,1,0.6,Tanzania,II Selemani,DA Mehta,S Rukmal,1,0,,,,,,"",""
+ball,1,0.7,Tanzania,DA Mehta,II Selemani,S Rukmal,0,0,,,,,,"",""
+ball,1,0.8,Tanzania,DA Mehta,II Selemani,S Rukmal,0,0,,,,,,"",""
+ball,1,1.1,Tanzania,II Selemani,DA Mehta,Jobayer Hossen,0,1,1,,,,,"",""
+ball,1,1.2,Tanzania,II Selemani,DA Mehta,Jobayer Hossen,4,0,,,,,,"",""
+ball,1,1.3,Tanzania,II Selemani,DA Mehta,Jobayer Hossen,4,0,,,,,,"",""
+ball,1,1.4,Tanzania,II Selemani,DA Mehta,Jobayer Hossen,4,0,,,,,,"",""
+ball,1,1.5,Tanzania,II Selemani,DA Mehta,Jobayer Hossen,1,0,,,,,,"",""
+ball,1,1.6,Tanzania,DA Mehta,II Selemani,Jobayer Hossen,1,0,,,,,,"",""
+ball,1,1.7,Tanzania,II Selemani,DA Mehta,Jobayer Hossen,1,0,,,,,,"",""
+ball,1,2.1,Tanzania,II Selemani,DA Mehta,S Rukmal,4,0,,,,,,"",""
+ball,1,2.2,Tanzania,II Selemani,DA Mehta,S Rukmal,1,0,,,,,,"",""
+ball,1,2.3,Tanzania,DA Mehta,II Selemani,S Rukmal,0,0,,,,,,"",""
+ball,1,2.4,Tanzania,DA Mehta,II Selemani,S Rukmal,4,0,,,,,,"",""
+ball,1,2.5,Tanzania,DA Mehta,II Selemani,S Rukmal,0,0,,,,,,"",""
+ball,1,2.6,Tanzania,DA Mehta,II Selemani,S Rukmal,1,0,,,,,,"",""
+ball,1,3.1,Tanzania,DA Mehta,II Selemani,N Gnanapragasam,0,0,,,,,,"",""
+ball,1,3.2,Tanzania,DA Mehta,II Selemani,N Gnanapragasam,2,0,,,,,,"",""
+ball,1,3.3,Tanzania,DA Mehta,II Selemani,N Gnanapragasam,0,1,,,,1,,"",""
+ball,1,3.4,Tanzania,II Selemani,DA Mehta,N Gnanapragasam,6,0,,,,,,"",""
+ball,1,3.5,Tanzania,II Selemani,DA Mehta,N Gnanapragasam,1,0,,,,,,"",""
+ball,1,3.6,Tanzania,DA Mehta,II Selemani,N Gnanapragasam,1,0,,,,,,"",""
+ball,1,4.1,Tanzania,DA Mehta,II Selemani,Jobayer Hossen,2,0,,,,,,"",""
+ball,1,4.2,Tanzania,DA Mehta,II Selemani,Jobayer Hossen,0,0,,,,,,"",""
+ball,1,4.3,Tanzania,DA Mehta,II Selemani,Jobayer Hossen,1,0,,,,,,"",""
+ball,1,4.4,Tanzania,II Selemani,DA Mehta,Jobayer Hossen,0,1,1,,,,,"",""
+ball,1,4.5,Tanzania,II Selemani,DA Mehta,Jobayer Hossen,1,0,,,,,,"",""
+ball,1,4.6,Tanzania,DA Mehta,II Selemani,Jobayer Hossen,1,0,,,,,,"",""
+ball,1,4.7,Tanzania,II Selemani,DA Mehta,Jobayer Hossen,1,0,,,,,,"",""
+ball,1,5.1,Tanzania,II Selemani,DA Mehta,N Gnanapragasam,4,0,,,,,,"",""
+ball,1,5.2,Tanzania,II Selemani,DA Mehta,N Gnanapragasam,0,0,,,,,,"",""
+ball,1,5.3,Tanzania,II Selemani,DA Mehta,N Gnanapragasam,1,0,,,,,,"",""
+ball,1,5.4,Tanzania,DA Mehta,II Selemani,N Gnanapragasam,2,0,,,,,,"",""
+ball,1,5.5,Tanzania,DA Mehta,II Selemani,N Gnanapragasam,3,0,,,,,,"",""
+ball,1,5.6,Tanzania,II Selemani,DA Mehta,N Gnanapragasam,4,0,,,,,,"",""
+ball,1,6.1,Tanzania,DA Mehta,II Selemani,Mazharul Islam,1,0,,,,,,"",""
+ball,1,6.2,Tanzania,II Selemani,DA Mehta,Mazharul Islam,2,0,,,,,,"",""
+ball,1,6.3,Tanzania,II Selemani,DA Mehta,Mazharul Islam,0,0,,,,,,"",""
+ball,1,6.4,Tanzania,II Selemani,DA Mehta,Mazharul Islam,4,0,,,,,,"",""
+ball,1,6.5,Tanzania,II Selemani,DA Mehta,Mazharul Islam,3,0,,,,,,"",""
+ball,1,6.6,Tanzania,DA Mehta,II Selemani,Mazharul Islam,0,0,,,,,,"",""
+ball,1,7.1,Tanzania,II Selemani,DA Mehta,D Kalvin,1,0,,,,,,"",""
+ball,1,7.2,Tanzania,DA Mehta,II Selemani,D Kalvin,1,0,,,,,,"",""
+ball,1,7.3,Tanzania,II Selemani,DA Mehta,D Kalvin,6,0,,,,,,"",""
+ball,1,7.4,Tanzania,II Selemani,DA Mehta,D Kalvin,2,0,,,,,,"",""
+ball,1,7.5,Tanzania,II Selemani,DA Mehta,D Kalvin,4,0,,,,,,"",""
+ball,1,7.6,Tanzania,II Selemani,DA Mehta,D Kalvin,2,0,,,,,,"",""
+ball,1,8.1,Tanzania,DA Mehta,II Selemani,Mazharul Islam,0,0,,,,,,"",""
+ball,1,8.2,Tanzania,DA Mehta,II Selemani,Mazharul Islam,1,0,,,,,,"",""
+ball,1,8.3,Tanzania,II Selemani,DA Mehta,Mazharul Islam,1,0,,,,,,"",""
+ball,1,8.4,Tanzania,DA Mehta,II Selemani,Mazharul Islam,4,0,,,,,,"",""
+ball,1,8.5,Tanzania,DA Mehta,II Selemani,Mazharul Islam,1,0,,,,,,"",""
+ball,1,8.6,Tanzania,II Selemani,DA Mehta,Mazharul Islam,1,0,,,,,,"",""
+ball,1,9.1,Tanzania,II Selemani,DA Mehta,TKP Rajapaksha,2,0,,,,,,"",""
+ball,1,9.2,Tanzania,II Selemani,DA Mehta,TKP Rajapaksha,1,0,,,,,,"",""
+ball,1,9.3,Tanzania,DA Mehta,II Selemani,TKP Rajapaksha,0,1,1,,,,,"",""
+ball,1,9.4,Tanzania,DA Mehta,II Selemani,TKP Rajapaksha,1,0,,,,,,"",""
+ball,1,9.5,Tanzania,II Selemani,DA Mehta,TKP Rajapaksha,4,0,,,,,,"",""
+ball,1,9.6,Tanzania,II Selemani,DA Mehta,TKP Rajapaksha,6,0,,,,,,"",""
+ball,1,9.7,Tanzania,II Selemani,DA Mehta,TKP Rajapaksha,0,1,1,,,,,"",""
+ball,1,9.8,Tanzania,II Selemani,DA Mehta,TKP Rajapaksha,2,0,,,,,,"",""
+ball,1,10.1,Tanzania,DA Mehta,II Selemani,Mazharul Islam,1,0,,,,,,"",""
+ball,1,10.2,Tanzania,II Selemani,DA Mehta,Mazharul Islam,1,0,,,,,,"",""
+ball,1,10.3,Tanzania,DA Mehta,II Selemani,Mazharul Islam,0,0,,,,,,"",""
+ball,1,10.4,Tanzania,DA Mehta,II Selemani,Mazharul Islam,0,0,,,,,,"",""
+ball,1,10.5,Tanzania,DA Mehta,II Selemani,Mazharul Islam,0,0,,,,,,"",""
+ball,1,10.6,Tanzania,DA Mehta,II Selemani,Mazharul Islam,4,0,,,,,,"",""
+ball,1,11.1,Tanzania,II Selemani,DA Mehta,Thilina Silva,1,0,,,,,,"",""
+ball,1,11.2,Tanzania,DA Mehta,II Selemani,Thilina Silva,1,0,,,,,,"",""
+ball,1,11.3,Tanzania,II Selemani,DA Mehta,Thilina Silva,1,0,,,,,,"",""
+ball,1,11.4,Tanzania,DA Mehta,II Selemani,Thilina Silva,2,0,,,,,,"",""
+ball,1,11.5,Tanzania,DA Mehta,II Selemani,Thilina Silva,1,0,,,,,,"",""
+ball,1,11.6,Tanzania,II Selemani,DA Mehta,Thilina Silva,1,0,,,,,,"",""
+ball,1,12.1,Tanzania,II Selemani,DA Mehta,Mazharul Islam,1,0,,,,,,"",""
+ball,1,12.2,Tanzania,DA Mehta,II Selemani,Mazharul Islam,0,0,,,,,,"",""
+ball,1,12.3,Tanzania,DA Mehta,II Selemani,Mazharul Islam,0,0,,,,,,"",""
+ball,1,12.4,Tanzania,DA Mehta,II Selemani,Mazharul Islam,4,0,,,,,,"",""
+ball,1,12.5,Tanzania,DA Mehta,II Selemani,Mazharul Islam,1,0,,,,,,"",""
+ball,1,12.6,Tanzania,II Selemani,DA Mehta,Mazharul Islam,2,0,,,,,,"",""
+ball,1,13.1,Tanzania,DA Mehta,II Selemani,Thilina Silva,0,0,,,,,,"",""
+ball,1,13.2,Tanzania,DA Mehta,II Selemani,Thilina Silva,0,0,,,,,,"",""
+ball,1,13.3,Tanzania,DA Mehta,II Selemani,Thilina Silva,0,0,,,,,,"",""
+ball,1,13.4,Tanzania,DA Mehta,II Selemani,Thilina Silva,1,0,,,,,,"",""
+ball,1,13.5,Tanzania,II Selemani,DA Mehta,Thilina Silva,1,0,,,,,,"",""
+ball,1,13.6,Tanzania,DA Mehta,II Selemani,Thilina Silva,1,0,,,,,,"",""
+ball,1,14.1,Tanzania,DA Mehta,II Selemani,STRA de Silva,1,0,,,,,,"",""
+ball,1,14.2,Tanzania,II Selemani,DA Mehta,STRA de Silva,2,0,,,,,,"",""
+ball,1,14.3,Tanzania,II Selemani,DA Mehta,STRA de Silva,2,0,,,,,,"",""
+ball,1,14.4,Tanzania,II Selemani,DA Mehta,STRA de Silva,1,0,,,,,,"",""
+ball,1,14.5,Tanzania,DA Mehta,II Selemani,STRA de Silva,1,0,,,,,,"",""
+ball,1,14.6,Tanzania,II Selemani,DA Mehta,STRA de Silva,0,0,,,,,,"",""
+ball,1,15.1,Tanzania,DA Mehta,II Selemani,Thilina Silva,1,0,,,,,,"",""
+ball,1,15.2,Tanzania,II Selemani,DA Mehta,Thilina Silva,1,0,,,,,,"",""
+ball,1,15.3,Tanzania,DA Mehta,II Selemani,Thilina Silva,0,0,,,,,,caught,DA Mehta
+ball,1,15.4,Tanzania,A Augastin,II Selemani,Thilina Silva,1,0,,,,,,"",""
+ball,1,15.5,Tanzania,II Selemani,A Augastin,Thilina Silva,1,0,,,,,,"",""
+ball,1,15.6,Tanzania,A Augastin,II Selemani,Thilina Silva,4,0,,,,,,"",""
+ball,1,16.1,Tanzania,II Selemani,A Augastin,STRA de Silva,6,0,,,,,,"",""
+ball,1,16.2,Tanzania,II Selemani,A Augastin,STRA de Silva,2,0,,,,,,"",""
+ball,1,16.3,Tanzania,II Selemani,A Augastin,STRA de Silva,1,0,,,,,,"",""
+ball,1,16.4,Tanzania,A Augastin,II Selemani,STRA de Silva,0,0,,,,,,"",""
+ball,1,16.5,Tanzania,A Augastin,II Selemani,STRA de Silva,0,0,,,,,,"",""
+ball,1,16.6,Tanzania,A Augastin,II Selemani,STRA de Silva,1,0,,,,,,"",""
+ball,1,17.1,Tanzania,A Augastin,II Selemani,Thilina Silva,6,0,,,,,,"",""
+ball,1,17.2,Tanzania,A Augastin,II Selemani,Thilina Silva,0,1,,,,1,,"",""
+ball,1,17.3,Tanzania,II Selemani,A Augastin,Thilina Silva,1,0,,,,,,"",""
+ball,1,17.4,Tanzania,A Augastin,II Selemani,Thilina Silva,1,0,,,,,,"",""
+ball,1,17.5,Tanzania,II Selemani,A Augastin,Thilina Silva,2,0,,,,,,"",""
+ball,1,17.6,Tanzania,II Selemani,A Augastin,Thilina Silva,0,0,,,,,,caught,II Selemani
+ball,1,18.1,Tanzania,A Augastin,Arun Yadav,S Rukmal,4,0,,,,,,"",""
+ball,1,18.2,Tanzania,A Augastin,Arun Yadav,S Rukmal,4,0,,,,,,"",""
+ball,1,18.3,Tanzania,A Augastin,Arun Yadav,S Rukmal,1,0,,,,,,"",""
+ball,1,18.4,Tanzania,Arun Yadav,A Augastin,S Rukmal,6,0,,,,,,"",""
+ball,1,18.5,Tanzania,Arun Yadav,A Augastin,S Rukmal,2,0,,,,,,"",""
+ball,1,18.6,Tanzania,Arun Yadav,A Augastin,S Rukmal,1,0,,,,,,"",""
+ball,1,19.1,Tanzania,Arun Yadav,A Augastin,Jobayer Hossen,1,0,,,,,,"",""
+ball,1,19.2,Tanzania,A Augastin,Arun Yadav,Jobayer Hossen,4,0,,,,,,"",""
+ball,1,19.3,Tanzania,A Augastin,Arun Yadav,Jobayer Hossen,0,0,,,,,,"",""
+ball,1,19.4,Tanzania,A Augastin,Arun Yadav,Jobayer Hossen,1,0,,,,,,"",""
+ball,1,19.5,Tanzania,Arun Yadav,A Augastin,Jobayer Hossen,0,0,,,,,,caught,Arun Yadav
+ball,1,19.6,Tanzania,MS Maker,A Augastin,Jobayer Hossen,1,0,,,,,,"",""
+ball,2,0.1,Seychelles,STRA de Silva,TKP Rajapaksha,K Juma,0,0,,,,,,lbw,STRA de Silva
+ball,2,0.2,Seychelles,Mazharul Islam,TKP Rajapaksha,K Juma,0,0,,,,,,"",""
+ball,2,0.3,Seychelles,Mazharul Islam,TKP Rajapaksha,K Juma,0,0,,,,,,"",""
+ball,2,0.4,Seychelles,Mazharul Islam,TKP Rajapaksha,K Juma,0,0,,,,,,"",""
+ball,2,0.5,Seychelles,Mazharul Islam,TKP Rajapaksha,K Juma,0,0,,,,,,"",""
+ball,2,0.6,Seychelles,Mazharul Islam,TKP Rajapaksha,K Juma,1,0,,,,,,"",""
+ball,2,1.1,Seychelles,Mazharul Islam,TKP Rajapaksha,AM Kimote,0,0,,,,,,"",""
+ball,2,1.2,Seychelles,Mazharul Islam,TKP Rajapaksha,AM Kimote,0,0,,,,,,"",""
+ball,2,1.3,Seychelles,Mazharul Islam,TKP Rajapaksha,AM Kimote,2,0,,,,,,"",""
+ball,2,1.4,Seychelles,Mazharul Islam,TKP Rajapaksha,AM Kimote,0,0,,,,,,"",""
+ball,2,1.5,Seychelles,Mazharul Islam,TKP Rajapaksha,AM Kimote,0,0,,,,,,"",""
+ball,2,1.6,Seychelles,Mazharul Islam,TKP Rajapaksha,AM Kimote,0,0,,,,,,"",""
+ball,2,2.1,Seychelles,TKP Rajapaksha,Mazharul Islam,K Juma,0,5,5,,,,,"",""
+ball,2,2.2,Seychelles,TKP Rajapaksha,Mazharul Islam,K Juma,0,0,,,,,,"",""
+ball,2,2.3,Seychelles,TKP Rajapaksha,Mazharul Islam,K Juma,0,0,,,,,,"",""
+ball,2,2.4,Seychelles,TKP Rajapaksha,Mazharul Islam,K Juma,0,0,,,,,,"",""
+ball,2,2.5,Seychelles,TKP Rajapaksha,Mazharul Islam,K Juma,1,0,,,,,,"",""
+ball,2,2.6,Seychelles,Mazharul Islam,TKP Rajapaksha,K Juma,0,0,,,,,,"",""
+ball,2,2.7,Seychelles,Mazharul Islam,TKP Rajapaksha,K Juma,4,0,,,,,,"",""
+ball,2,3.1,Seychelles,TKP Rajapaksha,Mazharul Islam,AM Kimote,0,0,,,,,,"",""
+ball,2,3.2,Seychelles,TKP Rajapaksha,Mazharul Islam,AM Kimote,1,0,,,,,,"",""
+ball,2,3.3,Seychelles,Mazharul Islam,TKP Rajapaksha,AM Kimote,0,0,,,,,,"",""
+ball,2,3.4,Seychelles,Mazharul Islam,TKP Rajapaksha,AM Kimote,1,0,,,,,,"",""
+ball,2,3.5,Seychelles,TKP Rajapaksha,Mazharul Islam,AM Kimote,1,0,,,,,,"",""
+ball,2,3.6,Seychelles,Mazharul Islam,TKP Rajapaksha,AM Kimote,0,0,,,,,,"",""
+ball,2,4.1,Seychelles,TKP Rajapaksha,Mazharul Islam,LS Barkania,4,0,,,,,,"",""
+ball,2,4.2,Seychelles,TKP Rajapaksha,Mazharul Islam,LS Barkania,0,0,,,,,,"",""
+ball,2,4.3,Seychelles,TKP Rajapaksha,Mazharul Islam,LS Barkania,0,0,,,,,,"",""
+ball,2,4.4,Seychelles,TKP Rajapaksha,Mazharul Islam,LS Barkania,0,0,,,,,,caught,TKP Rajapaksha
+ball,2,4.5,Seychelles,M Mariyappan,Mazharul Islam,LS Barkania,1,0,,,,,,"",""
+ball,2,4.6,Seychelles,Mazharul Islam,M Mariyappan,LS Barkania,0,0,,,,,,"",""
+ball,2,5.1,Seychelles,M Mariyappan,Mazharul Islam,YM Nkanya,0,0,,,,,,"",""
+ball,2,5.2,Seychelles,M Mariyappan,Mazharul Islam,YM Nkanya,0,0,,,,,,"",""
+ball,2,5.3,Seychelles,M Mariyappan,Mazharul Islam,YM Nkanya,0,0,,,,,,"",""
+ball,2,5.4,Seychelles,M Mariyappan,Mazharul Islam,YM Nkanya,0,0,,,,,,lbw,M Mariyappan
+ball,2,5.5,Seychelles,SR Mohan,Mazharul Islam,YM Nkanya,1,0,,,,,,"",""
+ball,2,5.6,Seychelles,Mazharul Islam,SR Mohan,YM Nkanya,0,0,,,,,,"",""
+ball,2,6.1,Seychelles,SR Mohan,Mazharul Islam,LS Barkania,0,0,,,,,,"",""
+ball,2,6.2,Seychelles,SR Mohan,Mazharul Islam,LS Barkania,0,0,,,,,,"",""
+ball,2,6.3,Seychelles,SR Mohan,Mazharul Islam,LS Barkania,0,0,,,,,,"",""
+ball,2,6.4,Seychelles,SR Mohan,Mazharul Islam,LS Barkania,0,0,,,,,,"",""
+ball,2,6.5,Seychelles,SR Mohan,Mazharul Islam,LS Barkania,1,0,,,,,,"",""
+ball,2,6.6,Seychelles,Mazharul Islam,SR Mohan,LS Barkania,4,0,,,,,,"",""
+ball,2,7.1,Seychelles,SR Mohan,Mazharul Islam,YM Nkanya,0,0,,,,,,"",""
+ball,2,7.2,Seychelles,SR Mohan,Mazharul Islam,YM Nkanya,0,0,,,,,,"",""
+ball,2,7.3,Seychelles,SR Mohan,Mazharul Islam,YM Nkanya,1,0,,,,,,"",""
+ball,2,7.4,Seychelles,Mazharul Islam,SR Mohan,YM Nkanya,0,0,,,,,,"",""
+ball,2,7.5,Seychelles,Mazharul Islam,SR Mohan,YM Nkanya,0,0,,,,,,"",""
+ball,2,7.6,Seychelles,Mazharul Islam,SR Mohan,YM Nkanya,1,0,,,,,,"",""
+ball,2,8.1,Seychelles,Mazharul Islam,SR Mohan,LS Barkania,0,0,,,,,,"",""
+ball,2,8.2,Seychelles,Mazharul Islam,SR Mohan,LS Barkania,4,0,,,,,,"",""
+ball,2,8.3,Seychelles,Mazharul Islam,SR Mohan,LS Barkania,0,0,,,,,,"",""
+ball,2,8.4,Seychelles,Mazharul Islam,SR Mohan,LS Barkania,0,0,,,,,,"",""
+ball,2,8.5,Seychelles,Mazharul Islam,SR Mohan,LS Barkania,0,0,,,,,,"",""
+ball,2,8.6,Seychelles,Mazharul Islam,SR Mohan,LS Barkania,0,0,,,,,,stumped,Mazharul Islam
+ball,2,9.1,Seychelles,SR Mohan,M Viswanathan,YM Nkanya,1,0,,,,,,"",""
+ball,2,9.2,Seychelles,M Viswanathan,SR Mohan,YM Nkanya,0,0,,,,,,"",""
+ball,2,9.3,Seychelles,M Viswanathan,SR Mohan,YM Nkanya,0,0,,,,,,"",""
+ball,2,9.4,Seychelles,M Viswanathan,SR Mohan,YM Nkanya,0,0,,,,,,bowled,M Viswanathan
+ball,2,9.5,Seychelles,D Kalvin,SR Mohan,YM Nkanya,0,0,,,,,,"",""
+ball,2,9.6,Seychelles,D Kalvin,SR Mohan,YM Nkanya,1,0,,,,,,"",""
+ball,2,10.1,Seychelles,D Kalvin,SR Mohan,LS Barkania,0,1,1,,,,,"",""
+ball,2,10.2,Seychelles,D Kalvin,SR Mohan,LS Barkania,0,0,,,,,,"",""
+ball,2,10.3,Seychelles,D Kalvin,SR Mohan,LS Barkania,1,0,,,,,,"",""
+ball,2,10.4,Seychelles,SR Mohan,D Kalvin,LS Barkania,1,0,,,,,,"",""
+ball,2,10.5,Seychelles,D Kalvin,SR Mohan,LS Barkania,0,0,,,,,,"",""
+ball,2,10.6,Seychelles,D Kalvin,SR Mohan,LS Barkania,0,0,,,,,,"",""
+ball,2,10.7,Seychelles,D Kalvin,SR Mohan,LS Barkania,0,0,,,,,,"",""
+ball,2,11.1,Seychelles,SR Mohan,D Kalvin,YM Nkanya,0,0,,,,,,"",""
+ball,2,11.2,Seychelles,SR Mohan,D Kalvin,YM Nkanya,0,0,,,,,,"",""
+ball,2,11.3,Seychelles,SR Mohan,D Kalvin,YM Nkanya,0,0,,,,,,"",""
+ball,2,11.4,Seychelles,SR Mohan,D Kalvin,YM Nkanya,0,1,1,,,,,"",""
+ball,2,11.5,Seychelles,SR Mohan,D Kalvin,YM Nkanya,1,0,,,,,,"",""
+ball,2,11.6,Seychelles,D Kalvin,SR Mohan,YM Nkanya,0,1,,,1,,,"",""
+ball,2,11.7,Seychelles,SR Mohan,D Kalvin,YM Nkanya,0,0,,,,,,"",""
+ball,2,12.1,Seychelles,D Kalvin,SR Mohan,K Nassoro,0,0,,,,,,"",""
+ball,2,12.2,Seychelles,D Kalvin,SR Mohan,K Nassoro,1,0,,,,,,"",""
+ball,2,12.3,Seychelles,SR Mohan,D Kalvin,K Nassoro,0,0,,,,,,"",""
+ball,2,12.4,Seychelles,SR Mohan,D Kalvin,K Nassoro,0,0,,,,,,"",""
+ball,2,12.5,Seychelles,SR Mohan,D Kalvin,K Nassoro,0,0,,,,,,"",""
+ball,2,12.6,Seychelles,SR Mohan,D Kalvin,K Nassoro,0,0,,,,,,"",""
+ball,2,13.1,Seychelles,D Kalvin,SR Mohan,A Augastin,0,0,,,,,,caught,D Kalvin
+ball,2,13.2,Seychelles,Jobayer Hossen,SR Mohan,A Augastin,0,0,,,,,,"",""
+ball,2,13.3,Seychelles,Jobayer Hossen,SR Mohan,A Augastin,0,0,,,,,,"",""
+ball,2,13.4,Seychelles,Jobayer Hossen,SR Mohan,A Augastin,0,0,,,,,,"",""
+ball,2,13.5,Seychelles,Jobayer Hossen,SR Mohan,A Augastin,0,0,,,,,,"",""
+ball,2,13.6,Seychelles,Jobayer Hossen,SR Mohan,A Augastin,0,0,,,,,,"",""
+ball,2,14.1,Seychelles,SR Mohan,Jobayer Hossen,K Nassoro,2,0,,,,,,"",""
+ball,2,14.2,Seychelles,SR Mohan,Jobayer Hossen,K Nassoro,1,0,,,,,,"",""
+ball,2,14.3,Seychelles,Jobayer Hossen,SR Mohan,K Nassoro,0,0,,,,,,"",""
+ball,2,14.4,Seychelles,Jobayer Hossen,SR Mohan,K Nassoro,0,0,,,,,,"",""
+ball,2,14.5,Seychelles,Jobayer Hossen,SR Mohan,K Nassoro,1,0,,,,,,"",""
+ball,2,14.6,Seychelles,SR Mohan,Jobayer Hossen,K Nassoro,0,0,,,,,,"",""
+ball,2,15.1,Seychelles,Jobayer Hossen,SR Mohan,A Augastin,0,0,,,,,,"",""
+ball,2,15.2,Seychelles,Jobayer Hossen,SR Mohan,A Augastin,0,0,,,,,,"",""
+ball,2,15.3,Seychelles,Jobayer Hossen,SR Mohan,A Augastin,0,0,,,,,,"",""
+ball,2,15.4,Seychelles,Jobayer Hossen,SR Mohan,A Augastin,0,0,,,,,,"",""
+ball,2,15.5,Seychelles,Jobayer Hossen,SR Mohan,A Augastin,0,0,,,,,,"",""
+ball,2,15.6,Seychelles,Jobayer Hossen,SR Mohan,A Augastin,0,0,,,,,,caught,Jobayer Hossen
+ball,2,16.1,Seychelles,SR Mohan,Thilina Silva,K Nassoro,2,0,,,,,,"",""
+ball,2,16.2,Seychelles,SR Mohan,Thilina Silva,K Nassoro,1,0,,,,,,"",""
+ball,2,16.3,Seychelles,Thilina Silva,SR Mohan,K Nassoro,0,0,,,,,,"",""
+ball,2,16.4,Seychelles,Thilina Silva,SR Mohan,K Nassoro,0,0,,,,,,"",""
+ball,2,16.5,Seychelles,Thilina Silva,SR Mohan,K Nassoro,0,0,,,,,,"",""
+ball,2,16.6,Seychelles,Thilina Silva,SR Mohan,K Nassoro,1,0,,,,,,"",""
+ball,2,17.1,Seychelles,Thilina Silva,SR Mohan,A Augastin,0,0,,,,,,"",""
+ball,2,17.2,Seychelles,Thilina Silva,SR Mohan,A Augastin,0,0,,,,,,"",""
+ball,2,17.3,Seychelles,Thilina Silva,SR Mohan,A Augastin,0,0,,,,,,"",""
+ball,2,17.4,Seychelles,Thilina Silva,SR Mohan,A Augastin,0,0,,,,,,"",""
+ball,2,17.5,Seychelles,Thilina Silva,SR Mohan,A Augastin,0,0,,,,,,"",""
+ball,2,17.6,Seychelles,Thilina Silva,SR Mohan,A Augastin,0,0,,,,,,"",""
+ball,2,18.1,Seychelles,SR Mohan,Thilina Silva,K Nassoro,0,0,,,,,,caught,SR Mohan
+ball,2,18.2,Seychelles,N Gnanapragasam,Thilina Silva,K Nassoro,1,0,,,,,,"",""
+ball,2,18.3,Seychelles,Thilina Silva,N Gnanapragasam,K Nassoro,0,0,,,,,,"",""
+ball,2,18.4,Seychelles,Thilina Silva,N Gnanapragasam,K Nassoro,0,0,,,,,,"",""
+ball,2,18.5,Seychelles,Thilina Silva,N Gnanapragasam,K Nassoro,1,0,,,,,,"",""
+ball,2,18.6,Seychelles,N Gnanapragasam,Thilina Silva,K Nassoro,0,0,,,,,,bowled,N Gnanapragasam
+ball,2,19.1,Seychelles,Thilina Silva,S Rukmal,A Augastin,0,0,,,,,,"",""
+ball,2,19.2,Seychelles,Thilina Silva,S Rukmal,A Augastin,0,0,,,,,,"",""
+ball,2,19.3,Seychelles,Thilina Silva,S Rukmal,A Augastin,0,0,,,,,,"",""
+ball,2,19.4,Seychelles,Thilina Silva,S Rukmal,A Augastin,0,0,,,,,,"",""
+ball,2,19.5,Seychelles,Thilina Silva,S Rukmal,A Augastin,0,0,,,,,,"",""
+ball,2,19.6,Seychelles,Thilina Silva,S Rukmal,A Augastin,0,0,,,,,,"",""

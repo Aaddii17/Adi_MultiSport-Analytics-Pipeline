@@ -1,0 +1,311 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Perth Scorchers
+info,team,Melbourne Stars
+info,gender,male
+info,season,2021/22
+info,date,2022/01/02
+info,event,Big Bash League
+info,match_number,31
+info,venue,"Junction Oval, Melbourne"
+info,city,Melbourne
+info,toss_winner,Perth Scorchers
+info,toss_decision,bat
+info,player_of_match,P Hatzoglou
+info,umpire,BNJ Oxenford
+info,umpire,Geoff Davidson
+info,reserve_umpire,AR Hamilton
+info,tv_umpire,CA Polosak
+info,match_referee,RL Parry
+info,winner,Perth Scorchers
+info,winner_runs,50
+info,player,Perth Scorchers,CT Bancroft
+info,player,Perth Scorchers,KR Patterson
+info,player,Perth Scorchers,C Munro
+info,player,Perth Scorchers,LJ Evans
+info,player,Perth Scorchers,AJ Turner
+info,player,Perth Scorchers,AM Hardie
+info,player,Perth Scorchers,AC Agar
+info,player,Perth Scorchers,AJ Tye
+info,player,Perth Scorchers,JP Behrendorff
+info,player,Perth Scorchers,P Hatzoglou
+info,player,Perth Scorchers,TS Mills
+info,player,Melbourne Stars,JM Clarke
+info,player,Melbourne Stars,TF Rogers
+info,player,Melbourne Stars,GJ Maxwell
+info,player,Melbourne Stars,CA Wakim
+info,player,Melbourne Stars,HWR Cartwright
+info,player,Melbourne Stars,TL O'Connell
+info,player,Melbourne Stars,J Avendano
+info,player,Melbourne Stars,XA Crone
+info,player,Melbourne Stars,Qais Ahmad
+info,player,Melbourne Stars,BL Couch
+info,player,Melbourne Stars,Haris Rauf
+info,registry,people,AC Agar,a2421394
+info,registry,people,AJ Turner,ff1e12a0
+info,registry,people,AJ Tye,7c7d63a2
+info,registry,people,AM Hardie,d405c0d5
+info,registry,people,AR Hamilton,95d26c59
+info,registry,people,BL Couch,be69e09d
+info,registry,people,BNJ Oxenford,c1add349
+info,registry,people,C Munro,af2c687b
+info,registry,people,CA Polosak,26a360d2
+info,registry,people,CA Wakim,c5e415aa
+info,registry,people,CT Bancroft,399b0b94
+info,registry,people,GJ Maxwell,b681e71e
+info,registry,people,Geoff Davidson,b33a1559
+info,registry,people,HWR Cartwright,ab965cad
+info,registry,people,Haris Rauf,24bb1c2f
+info,registry,people,J Avendano,0af4a90b
+info,registry,people,JM Clarke,2eca67f5
+info,registry,people,JP Behrendorff,4933f499
+info,registry,people,KR Patterson,e3bf8356
+info,registry,people,LJ Evans,1c513d54
+info,registry,people,P Hatzoglou,6f95e5fa
+info,registry,people,Qais Ahmad,8d5d991e
+info,registry,people,RL Parry,86d151dc
+info,registry,people,TF Rogers,7f232d46
+info,registry,people,TL O'Connell,859d95bb
+info,registry,people,TS Mills,245c97cb
+info,registry,people,XA Crone,e5ee7c83
+ball,1,0.1,Perth Scorchers,CT Bancroft,KR Patterson,GJ Maxwell,1,0,,,,,,"",""
+ball,1,0.2,Perth Scorchers,KR Patterson,CT Bancroft,GJ Maxwell,0,2,2,,,,,"",""
+ball,1,0.3,Perth Scorchers,CT Bancroft,KR Patterson,GJ Maxwell,0,0,,,,,,"",""
+ball,1,0.4,Perth Scorchers,CT Bancroft,KR Patterson,GJ Maxwell,1,0,,,,,,"",""
+ball,1,0.5,Perth Scorchers,KR Patterson,CT Bancroft,GJ Maxwell,1,0,,,,,,"",""
+ball,1,0.6,Perth Scorchers,CT Bancroft,KR Patterson,GJ Maxwell,1,0,,,,,,"",""
+ball,1,0.7,Perth Scorchers,KR Patterson,CT Bancroft,GJ Maxwell,1,0,,,,,,"",""
+ball,1,1.1,Perth Scorchers,KR Patterson,CT Bancroft,BL Couch,1,0,,,,,,"",""
+ball,1,1.2,Perth Scorchers,CT Bancroft,KR Patterson,BL Couch,1,0,,,,,,"",""
+ball,1,1.3,Perth Scorchers,KR Patterson,CT Bancroft,BL Couch,0,5,5,,,,,"",""
+ball,1,1.4,Perth Scorchers,KR Patterson,CT Bancroft,BL Couch,0,0,,,,,,"",""
+ball,1,1.5,Perth Scorchers,KR Patterson,CT Bancroft,BL Couch,0,0,,,,,,"",""
+ball,1,1.6,Perth Scorchers,KR Patterson,CT Bancroft,BL Couch,0,1,1,,,,,"",""
+ball,1,1.7,Perth Scorchers,KR Patterson,CT Bancroft,BL Couch,6,0,,,,,,"",""
+ball,1,1.8,Perth Scorchers,KR Patterson,CT Bancroft,BL Couch,0,0,,,,,,"",""
+ball,1,2.1,Perth Scorchers,CT Bancroft,KR Patterson,GJ Maxwell,1,0,,,,,,"",""
+ball,1,2.2,Perth Scorchers,KR Patterson,CT Bancroft,GJ Maxwell,4,0,,,,,,"",""
+ball,1,2.3,Perth Scorchers,KR Patterson,CT Bancroft,GJ Maxwell,1,0,,,,,,"",""
+ball,1,2.4,Perth Scorchers,CT Bancroft,KR Patterson,GJ Maxwell,0,0,,,,,,run out,CT Bancroft
+ball,1,2.5,Perth Scorchers,KR Patterson,C Munro,GJ Maxwell,0,0,,,,,,"",""
+ball,1,2.6,Perth Scorchers,KR Patterson,C Munro,GJ Maxwell,1,0,,,,,,"",""
+ball,1,3.1,Perth Scorchers,KR Patterson,C Munro,Haris Rauf,0,0,,,,,,"",""
+ball,1,3.2,Perth Scorchers,KR Patterson,C Munro,Haris Rauf,6,0,,,,,,"",""
+ball,1,3.3,Perth Scorchers,KR Patterson,C Munro,Haris Rauf,2,0,,,,,,"",""
+ball,1,3.4,Perth Scorchers,KR Patterson,C Munro,Haris Rauf,0,0,,,,,,"",""
+ball,1,3.5,Perth Scorchers,KR Patterson,C Munro,Haris Rauf,4,0,,,,,,"",""
+ball,1,3.6,Perth Scorchers,KR Patterson,C Munro,Haris Rauf,1,0,,,,,,"",""
+ball,1,4.1,Perth Scorchers,KR Patterson,C Munro,GJ Maxwell,4,0,,,,,,"",""
+ball,1,4.2,Perth Scorchers,KR Patterson,C Munro,GJ Maxwell,1,0,,,,,,"",""
+ball,1,4.3,Perth Scorchers,C Munro,KR Patterson,GJ Maxwell,0,0,,,,,,"",""
+ball,1,4.4,Perth Scorchers,C Munro,KR Patterson,GJ Maxwell,1,0,,,,,,"",""
+ball,1,4.5,Perth Scorchers,KR Patterson,C Munro,GJ Maxwell,0,0,,,,,,"",""
+ball,1,4.6,Perth Scorchers,KR Patterson,C Munro,GJ Maxwell,0,0,,,,,,"",""
+ball,1,5.1,Perth Scorchers,C Munro,KR Patterson,XA Crone,1,0,,,,,,"",""
+ball,1,5.2,Perth Scorchers,KR Patterson,C Munro,XA Crone,1,0,,,,,,"",""
+ball,1,5.3,Perth Scorchers,C Munro,KR Patterson,XA Crone,0,0,,,,,,"",""
+ball,1,5.4,Perth Scorchers,C Munro,KR Patterson,XA Crone,6,0,,,,,,"",""
+ball,1,5.5,Perth Scorchers,C Munro,KR Patterson,XA Crone,1,0,,,,,,"",""
+ball,1,5.6,Perth Scorchers,KR Patterson,C Munro,XA Crone,2,0,,,,,,"",""
+ball,1,6.1,Perth Scorchers,C Munro,KR Patterson,Qais Ahmad,1,0,,,,,,"",""
+ball,1,6.2,Perth Scorchers,KR Patterson,C Munro,Qais Ahmad,1,0,,,,,,"",""
+ball,1,6.3,Perth Scorchers,C Munro,KR Patterson,Qais Ahmad,4,0,,,,,,"",""
+ball,1,6.4,Perth Scorchers,C Munro,KR Patterson,Qais Ahmad,1,0,,,,,,"",""
+ball,1,6.5,Perth Scorchers,KR Patterson,C Munro,Qais Ahmad,1,0,,,,,,"",""
+ball,1,6.6,Perth Scorchers,C Munro,KR Patterson,Qais Ahmad,1,0,,,,,,"",""
+ball,1,7.1,Perth Scorchers,C Munro,KR Patterson,GJ Maxwell,6,0,,,,,,"",""
+ball,1,7.2,Perth Scorchers,C Munro,KR Patterson,GJ Maxwell,6,1,,1,,,,"",""
+ball,1,7.3,Perth Scorchers,C Munro,KR Patterson,GJ Maxwell,1,0,,,,,,"",""
+ball,1,7.4,Perth Scorchers,KR Patterson,C Munro,GJ Maxwell,1,0,,,,,,"",""
+ball,1,7.5,Perth Scorchers,C Munro,KR Patterson,GJ Maxwell,1,0,,,,,,"",""
+ball,1,7.6,Perth Scorchers,KR Patterson,C Munro,GJ Maxwell,1,0,,,,,,"",""
+ball,1,7.7,Perth Scorchers,C Munro,KR Patterson,GJ Maxwell,1,0,,,,,,"",""
+ball,1,8.1,Perth Scorchers,C Munro,KR Patterson,TL O'Connell,2,0,,,,,,"",""
+ball,1,8.2,Perth Scorchers,C Munro,KR Patterson,TL O'Connell,6,0,,,,,,"",""
+ball,1,8.3,Perth Scorchers,C Munro,KR Patterson,TL O'Connell,0,0,,,,,,"",""
+ball,1,8.4,Perth Scorchers,C Munro,KR Patterson,TL O'Connell,1,0,,,,,,"",""
+ball,1,8.5,Perth Scorchers,KR Patterson,C Munro,TL O'Connell,1,0,,,,,,"",""
+ball,1,8.6,Perth Scorchers,C Munro,KR Patterson,TL O'Connell,0,0,,,,,,caught,C Munro
+ball,1,9.1,Perth Scorchers,LJ Evans,KR Patterson,BL Couch,1,0,,,,,,"",""
+ball,1,9.2,Perth Scorchers,KR Patterson,LJ Evans,BL Couch,4,0,,,,,,"",""
+ball,1,9.3,Perth Scorchers,KR Patterson,LJ Evans,BL Couch,1,0,,,,,,"",""
+ball,1,9.4,Perth Scorchers,LJ Evans,KR Patterson,BL Couch,1,0,,,,,,"",""
+ball,1,9.5,Perth Scorchers,KR Patterson,LJ Evans,BL Couch,1,0,,,,,,"",""
+ball,1,9.6,Perth Scorchers,LJ Evans,KR Patterson,BL Couch,0,0,,,,,,lbw,LJ Evans
+ball,1,10.1,Perth Scorchers,KR Patterson,AJ Turner,Qais Ahmad,1,0,,,,,,"",""
+ball,1,10.2,Perth Scorchers,AJ Turner,KR Patterson,Qais Ahmad,1,0,,,,,,"",""
+ball,1,10.3,Perth Scorchers,KR Patterson,AJ Turner,Qais Ahmad,0,0,,,,,,"",""
+ball,1,10.4,Perth Scorchers,KR Patterson,AJ Turner,Qais Ahmad,2,0,,,,,,"",""
+ball,1,10.5,Perth Scorchers,KR Patterson,AJ Turner,Qais Ahmad,2,0,,,,,,"",""
+ball,1,10.6,Perth Scorchers,KR Patterson,AJ Turner,Qais Ahmad,1,0,,,,,,"",""
+ball,1,11.1,Perth Scorchers,KR Patterson,AJ Turner,Haris Rauf,0,1,,,,1,,"",""
+ball,1,11.2,Perth Scorchers,AJ Turner,KR Patterson,Haris Rauf,1,0,,,,,,"",""
+ball,1,11.3,Perth Scorchers,KR Patterson,AJ Turner,Haris Rauf,1,0,,,,,,"",""
+ball,1,11.4,Perth Scorchers,AJ Turner,KR Patterson,Haris Rauf,2,0,,,,,,"",""
+ball,1,11.5,Perth Scorchers,AJ Turner,KR Patterson,Haris Rauf,1,0,,,,,,"",""
+ball,1,11.6,Perth Scorchers,KR Patterson,AJ Turner,Haris Rauf,0,0,,,,,,caught,KR Patterson
+ball,1,12.1,Perth Scorchers,AM Hardie,AJ Turner,TL O'Connell,1,0,,,,,,"",""
+ball,1,12.2,Perth Scorchers,AJ Turner,AM Hardie,TL O'Connell,1,0,,,,,,"",""
+ball,1,12.3,Perth Scorchers,AM Hardie,AJ Turner,TL O'Connell,1,0,,,,,,"",""
+ball,1,12.4,Perth Scorchers,AJ Turner,AM Hardie,TL O'Connell,2,0,,,,,,"",""
+ball,1,12.5,Perth Scorchers,AJ Turner,AM Hardie,TL O'Connell,0,1,1,,,,,"",""
+ball,1,12.6,Perth Scorchers,AJ Turner,AM Hardie,TL O'Connell,1,0,,,,,,"",""
+ball,1,12.7,Perth Scorchers,AM Hardie,AJ Turner,TL O'Connell,1,0,,,,,,"",""
+ball,1,13.1,Perth Scorchers,AM Hardie,AJ Turner,XA Crone,1,0,,,,,,"",""
+ball,1,13.2,Perth Scorchers,AJ Turner,AM Hardie,XA Crone,1,0,,,,,,"",""
+ball,1,13.3,Perth Scorchers,AM Hardie,AJ Turner,XA Crone,0,0,,,,,,"",""
+ball,1,13.4,Perth Scorchers,AM Hardie,AJ Turner,XA Crone,1,0,,,,,,"",""
+ball,1,13.5,Perth Scorchers,AJ Turner,AM Hardie,XA Crone,0,0,,,,,,"",""
+ball,1,13.6,Perth Scorchers,AJ Turner,AM Hardie,XA Crone,2,0,,,,,,"",""
+ball,1,14.1,Perth Scorchers,AM Hardie,AJ Turner,Qais Ahmad,0,0,,,,,,bowled,AM Hardie
+ball,1,14.2,Perth Scorchers,AC Agar,AJ Turner,Qais Ahmad,0,0,,,,,,"",""
+ball,1,14.3,Perth Scorchers,AC Agar,AJ Turner,Qais Ahmad,1,0,,,,,,"",""
+ball,1,14.4,Perth Scorchers,AJ Turner,AC Agar,Qais Ahmad,1,0,,,,,,"",""
+ball,1,14.5,Perth Scorchers,AC Agar,AJ Turner,Qais Ahmad,1,0,,,,,,"",""
+ball,1,14.6,Perth Scorchers,AJ Turner,AC Agar,Qais Ahmad,1,0,,,,,,"",""
+ball,1,15.1,Perth Scorchers,AJ Turner,AC Agar,BL Couch,1,0,,,,,,"",""
+ball,1,15.2,Perth Scorchers,AC Agar,AJ Turner,BL Couch,1,0,,,,,,"",""
+ball,1,15.3,Perth Scorchers,AJ Turner,AC Agar,BL Couch,2,0,,,,,,"",""
+ball,1,15.4,Perth Scorchers,AJ Turner,AC Agar,BL Couch,0,1,,,,1,,"",""
+ball,1,15.5,Perth Scorchers,AC Agar,AJ Turner,BL Couch,0,0,,,,,,"",""
+ball,1,15.6,Perth Scorchers,AC Agar,AJ Turner,BL Couch,0,0,,,,,,"",""
+ball,1,16.1,Perth Scorchers,AJ Turner,AC Agar,Haris Rauf,4,0,,,,,,"",""
+ball,1,16.2,Perth Scorchers,AJ Turner,AC Agar,Haris Rauf,4,0,,,,,,"",""
+ball,1,16.3,Perth Scorchers,AJ Turner,AC Agar,Haris Rauf,1,0,,,,,,"",""
+ball,1,16.4,Perth Scorchers,AC Agar,AJ Turner,Haris Rauf,0,0,,,,,,"",""
+ball,1,16.5,Perth Scorchers,AC Agar,AJ Turner,Haris Rauf,6,0,,,,,,"",""
+ball,1,16.6,Perth Scorchers,AC Agar,AJ Turner,Haris Rauf,1,0,,,,,,"",""
+ball,1,17.1,Perth Scorchers,AC Agar,AJ Turner,BL Couch,4,0,,,,,,"",""
+ball,1,17.2,Perth Scorchers,AC Agar,AJ Turner,BL Couch,1,0,,,,,,"",""
+ball,1,17.3,Perth Scorchers,AJ Turner,AC Agar,BL Couch,1,0,,,,,,"",""
+ball,1,17.4,Perth Scorchers,AC Agar,AJ Turner,BL Couch,0,0,,,,,,"",""
+ball,1,17.5,Perth Scorchers,AC Agar,AJ Turner,BL Couch,4,0,,,,,,"",""
+ball,1,17.6,Perth Scorchers,AC Agar,AJ Turner,BL Couch,0,0,,,,,,run out,AJ Turner
+ball,1,18.1,Perth Scorchers,AJ Tye,AC Agar,Qais Ahmad,1,0,,,,,,"",""
+ball,1,18.2,Perth Scorchers,AC Agar,AJ Tye,Qais Ahmad,0,0,,,,,,"",""
+ball,1,18.3,Perth Scorchers,AC Agar,AJ Tye,Qais Ahmad,0,0,,,,,,caught,AC Agar
+ball,1,18.4,Perth Scorchers,AJ Tye,JP Behrendorff,Qais Ahmad,1,0,,,,,,"",""
+ball,1,18.5,Perth Scorchers,JP Behrendorff,AJ Tye,Qais Ahmad,1,0,,,,,,"",""
+ball,1,18.6,Perth Scorchers,AJ Tye,JP Behrendorff,Qais Ahmad,0,2,2,,,,,"",""
+ball,1,18.7,Perth Scorchers,JP Behrendorff,AJ Tye,Qais Ahmad,1,0,,,,,,"",""
+ball,1,19.1,Perth Scorchers,JP Behrendorff,AJ Tye,Haris Rauf,1,0,,,,,,"",""
+ball,1,19.2,Perth Scorchers,AJ Tye,JP Behrendorff,Haris Rauf,4,0,,,,,,"",""
+ball,1,19.3,Perth Scorchers,AJ Tye,JP Behrendorff,Haris Rauf,0,0,,,,,,"",""
+ball,1,19.4,Perth Scorchers,AJ Tye,JP Behrendorff,Haris Rauf,0,4,,,4,,,"",""
+ball,1,19.5,Perth Scorchers,AJ Tye,JP Behrendorff,Haris Rauf,1,0,,,,,,"",""
+ball,1,19.6,Perth Scorchers,JP Behrendorff,AJ Tye,Haris Rauf,0,0,,,,,,bowled,JP Behrendorff
+ball,2,0.1,Melbourne Stars,JM Clarke,TF Rogers,TS Mills,0,0,,,,,,"",""
+ball,2,0.2,Melbourne Stars,JM Clarke,TF Rogers,TS Mills,0,0,,,,,,"",""
+ball,2,0.3,Melbourne Stars,JM Clarke,TF Rogers,TS Mills,0,0,,,,,,"",""
+ball,2,0.4,Melbourne Stars,JM Clarke,TF Rogers,TS Mills,4,0,,,,,,"",""
+ball,2,0.5,Melbourne Stars,JM Clarke,TF Rogers,TS Mills,0,0,,,,,,"",""
+ball,2,0.6,Melbourne Stars,JM Clarke,TF Rogers,TS Mills,0,0,,,,,,"",""
+ball,2,1.1,Melbourne Stars,TF Rogers,JM Clarke,JP Behrendorff,0,0,,,,,,"",""
+ball,2,1.2,Melbourne Stars,TF Rogers,JM Clarke,JP Behrendorff,0,0,,,,,,"",""
+ball,2,1.3,Melbourne Stars,TF Rogers,JM Clarke,JP Behrendorff,0,0,,,,,,"",""
+ball,2,1.4,Melbourne Stars,TF Rogers,JM Clarke,JP Behrendorff,0,0,,,,,,"",""
+ball,2,1.5,Melbourne Stars,TF Rogers,JM Clarke,JP Behrendorff,4,0,,,,,,"",""
+ball,2,1.6,Melbourne Stars,TF Rogers,JM Clarke,JP Behrendorff,4,0,,,,,,"",""
+ball,2,2.1,Melbourne Stars,JM Clarke,TF Rogers,TS Mills,2,0,,,,,,"",""
+ball,2,2.2,Melbourne Stars,JM Clarke,TF Rogers,TS Mills,4,0,,,,,,"",""
+ball,2,2.3,Melbourne Stars,JM Clarke,TF Rogers,TS Mills,4,0,,,,,,"",""
+ball,2,2.4,Melbourne Stars,JM Clarke,TF Rogers,TS Mills,4,0,,,,,,"",""
+ball,2,2.5,Melbourne Stars,JM Clarke,TF Rogers,TS Mills,1,0,,,,,,"",""
+ball,2,2.6,Melbourne Stars,TF Rogers,JM Clarke,TS Mills,0,0,,,,,,"",""
+ball,2,3.1,Melbourne Stars,JM Clarke,TF Rogers,JP Behrendorff,4,0,,,,,,"",""
+ball,2,3.2,Melbourne Stars,JM Clarke,TF Rogers,JP Behrendorff,0,0,,,,,,"",""
+ball,2,3.3,Melbourne Stars,JM Clarke,TF Rogers,JP Behrendorff,0,0,,,,,,"",""
+ball,2,3.4,Melbourne Stars,JM Clarke,TF Rogers,JP Behrendorff,4,0,,,,,,"",""
+ball,2,3.5,Melbourne Stars,JM Clarke,TF Rogers,JP Behrendorff,4,0,,,,,,"",""
+ball,2,3.6,Melbourne Stars,JM Clarke,TF Rogers,JP Behrendorff,0,0,,,,,,"",""
+ball,2,4.1,Melbourne Stars,TF Rogers,JM Clarke,AJ Tye,0,0,,,,,,"",""
+ball,2,4.2,Melbourne Stars,TF Rogers,JM Clarke,AJ Tye,1,0,,,,,,"",""
+ball,2,4.3,Melbourne Stars,JM Clarke,TF Rogers,AJ Tye,1,0,,,,,,"",""
+ball,2,4.4,Melbourne Stars,TF Rogers,JM Clarke,AJ Tye,0,0,,,,,,"",""
+ball,2,4.5,Melbourne Stars,TF Rogers,JM Clarke,AJ Tye,4,0,,,,,,"",""
+ball,2,4.6,Melbourne Stars,TF Rogers,JM Clarke,AJ Tye,2,0,,,,,,"",""
+ball,2,5.1,Melbourne Stars,JM Clarke,TF Rogers,AC Agar,0,0,,,,,,"",""
+ball,2,5.2,Melbourne Stars,JM Clarke,TF Rogers,AC Agar,0,0,,,,,,"",""
+ball,2,5.3,Melbourne Stars,JM Clarke,TF Rogers,AC Agar,1,0,,,,,,"",""
+ball,2,5.4,Melbourne Stars,TF Rogers,JM Clarke,AC Agar,1,0,,,,,,"",""
+ball,2,5.5,Melbourne Stars,JM Clarke,TF Rogers,AC Agar,1,0,,,,,,"",""
+ball,2,5.6,Melbourne Stars,TF Rogers,JM Clarke,AC Agar,0,0,,,,,,"",""
+ball,2,6.1,Melbourne Stars,JM Clarke,TF Rogers,P Hatzoglou,1,0,,,,,,"",""
+ball,2,6.2,Melbourne Stars,TF Rogers,JM Clarke,P Hatzoglou,1,0,,,,,,"",""
+ball,2,6.3,Melbourne Stars,JM Clarke,TF Rogers,P Hatzoglou,4,0,,,,,,"",""
+ball,2,6.4,Melbourne Stars,JM Clarke,TF Rogers,P Hatzoglou,0,0,,,,,,"",""
+ball,2,6.5,Melbourne Stars,JM Clarke,TF Rogers,P Hatzoglou,1,0,,,,,,"",""
+ball,2,6.6,Melbourne Stars,TF Rogers,JM Clarke,P Hatzoglou,6,0,,,,,,"",""
+ball,2,7.1,Melbourne Stars,JM Clarke,TF Rogers,AC Agar,4,0,,,,,,"",""
+ball,2,7.2,Melbourne Stars,JM Clarke,TF Rogers,AC Agar,0,0,,,,,,"",""
+ball,2,7.3,Melbourne Stars,JM Clarke,TF Rogers,AC Agar,6,0,,,,,,"",""
+ball,2,7.4,Melbourne Stars,JM Clarke,TF Rogers,AC Agar,1,0,,,,,,"",""
+ball,2,7.5,Melbourne Stars,TF Rogers,JM Clarke,AC Agar,2,0,,,,,,"",""
+ball,2,7.6,Melbourne Stars,TF Rogers,JM Clarke,AC Agar,0,0,,,,,,"",""
+ball,2,8.1,Melbourne Stars,JM Clarke,TF Rogers,AJ Tye,1,0,,,,,,"",""
+ball,2,8.2,Melbourne Stars,TF Rogers,JM Clarke,AJ Tye,1,0,,,,,,"",""
+ball,2,8.3,Melbourne Stars,JM Clarke,TF Rogers,AJ Tye,0,0,,,,,,caught,JM Clarke
+ball,2,8.4,Melbourne Stars,TF Rogers,GJ Maxwell,AJ Tye,0,0,,,,,,"",""
+ball,2,8.5,Melbourne Stars,TF Rogers,GJ Maxwell,AJ Tye,0,0,,,,,,"",""
+ball,2,8.6,Melbourne Stars,TF Rogers,GJ Maxwell,AJ Tye,0,0,,,,,,"",""
+ball,2,9.1,Melbourne Stars,GJ Maxwell,TF Rogers,P Hatzoglou,0,0,,,,,,"",""
+ball,2,9.2,Melbourne Stars,GJ Maxwell,TF Rogers,P Hatzoglou,0,1,1,,,,,"",""
+ball,2,9.3,Melbourne Stars,GJ Maxwell,TF Rogers,P Hatzoglou,1,0,,,,,,"",""
+ball,2,9.4,Melbourne Stars,TF Rogers,GJ Maxwell,P Hatzoglou,2,0,,,,,,"",""
+ball,2,9.5,Melbourne Stars,TF Rogers,GJ Maxwell,P Hatzoglou,4,0,,,,,,"",""
+ball,2,9.6,Melbourne Stars,TF Rogers,GJ Maxwell,P Hatzoglou,0,0,,,,,,caught,TF Rogers
+ball,2,9.7,Melbourne Stars,CA Wakim,GJ Maxwell,P Hatzoglou,1,0,,,,,,"",""
+ball,2,10.1,Melbourne Stars,CA Wakim,GJ Maxwell,JP Behrendorff,1,0,,,,,,"",""
+ball,2,10.2,Melbourne Stars,GJ Maxwell,CA Wakim,JP Behrendorff,1,0,,,,,,"",""
+ball,2,10.3,Melbourne Stars,CA Wakim,GJ Maxwell,JP Behrendorff,0,0,,,,,,"",""
+ball,2,10.4,Melbourne Stars,CA Wakim,GJ Maxwell,JP Behrendorff,0,0,,,,,,"",""
+ball,2,10.5,Melbourne Stars,CA Wakim,GJ Maxwell,JP Behrendorff,2,0,,,,,,"",""
+ball,2,10.6,Melbourne Stars,CA Wakim,GJ Maxwell,JP Behrendorff,1,0,,,,,,"",""
+ball,2,11.1,Melbourne Stars,CA Wakim,GJ Maxwell,P Hatzoglou,1,0,,,,,,"",""
+ball,2,11.2,Melbourne Stars,GJ Maxwell,CA Wakim,P Hatzoglou,0,0,,,,,,"",""
+ball,2,11.3,Melbourne Stars,GJ Maxwell,CA Wakim,P Hatzoglou,2,0,,,,,,"",""
+ball,2,11.4,Melbourne Stars,GJ Maxwell,CA Wakim,P Hatzoglou,0,0,,,,,,"",""
+ball,2,11.5,Melbourne Stars,GJ Maxwell,CA Wakim,P Hatzoglou,0,0,,,,,,bowled,GJ Maxwell
+ball,2,11.6,Melbourne Stars,HWR Cartwright,CA Wakim,P Hatzoglou,0,0,,,,,,"",""
+ball,2,12.1,Melbourne Stars,CA Wakim,HWR Cartwright,AC Agar,0,0,,,,,,"",""
+ball,2,12.2,Melbourne Stars,CA Wakim,HWR Cartwright,AC Agar,0,0,,,,,,"",""
+ball,2,12.3,Melbourne Stars,CA Wakim,HWR Cartwright,AC Agar,1,0,,,,,,"",""
+ball,2,12.4,Melbourne Stars,HWR Cartwright,CA Wakim,AC Agar,0,1,1,,,,,"",""
+ball,2,12.5,Melbourne Stars,HWR Cartwright,CA Wakim,AC Agar,6,0,,,,,,"",""
+ball,2,12.6,Melbourne Stars,HWR Cartwright,CA Wakim,AC Agar,1,0,,,,,,"",""
+ball,2,12.7,Melbourne Stars,CA Wakim,HWR Cartwright,AC Agar,1,0,,,,,,"",""
+ball,2,13.1,Melbourne Stars,CA Wakim,HWR Cartwright,P Hatzoglou,0,0,,,,,,"",""
+ball,2,13.2,Melbourne Stars,CA Wakim,HWR Cartwright,P Hatzoglou,0,0,,,,,,"",""
+ball,2,13.3,Melbourne Stars,CA Wakim,HWR Cartwright,P Hatzoglou,0,0,,,,,,"",""
+ball,2,13.4,Melbourne Stars,CA Wakim,HWR Cartwright,P Hatzoglou,1,0,,,,,,"",""
+ball,2,13.5,Melbourne Stars,HWR Cartwright,CA Wakim,P Hatzoglou,0,0,,,,,,"",""
+ball,2,13.6,Melbourne Stars,HWR Cartwright,CA Wakim,P Hatzoglou,1,0,,,,,,"",""
+ball,2,14.1,Melbourne Stars,HWR Cartwright,CA Wakim,TS Mills,0,0,,,,,,"",""
+ball,2,14.2,Melbourne Stars,HWR Cartwright,CA Wakim,TS Mills,0,0,,,,,,"",""
+ball,2,14.3,Melbourne Stars,HWR Cartwright,CA Wakim,TS Mills,4,0,,,,,,"",""
+ball,2,14.4,Melbourne Stars,HWR Cartwright,CA Wakim,TS Mills,0,0,,,,,,"",""
+ball,2,14.5,Melbourne Stars,HWR Cartwright,CA Wakim,TS Mills,0,0,,,,,,caught,HWR Cartwright
+ball,2,14.6,Melbourne Stars,CA Wakim,TL O'Connell,TS Mills,4,0,,,,,,"",""
+ball,2,15.1,Melbourne Stars,TL O'Connell,CA Wakim,AJ Tye,0,0,,,,,,"",""
+ball,2,15.2,Melbourne Stars,TL O'Connell,CA Wakim,AJ Tye,0,0,,,,,,caught,TL O'Connell
+ball,2,15.3,Melbourne Stars,CA Wakim,J Avendano,AJ Tye,0,0,,,,,,"",""
+ball,2,15.4,Melbourne Stars,CA Wakim,J Avendano,AJ Tye,0,0,,,,,,"",""
+ball,2,15.5,Melbourne Stars,CA Wakim,J Avendano,AJ Tye,1,0,,,,,,"",""
+ball,2,15.6,Melbourne Stars,J Avendano,CA Wakim,AJ Tye,0,0,,,,,,"",""
+ball,2,16.1,Melbourne Stars,CA Wakim,J Avendano,JP Behrendorff,0,0,,,,,,"",""
+ball,2,16.2,Melbourne Stars,CA Wakim,J Avendano,JP Behrendorff,6,0,,,,,,"",""
+ball,2,16.3,Melbourne Stars,CA Wakim,J Avendano,JP Behrendorff,0,0,,,,,,"",""
+ball,2,16.4,Melbourne Stars,CA Wakim,J Avendano,JP Behrendorff,0,0,,,,,,"",""
+ball,2,16.5,Melbourne Stars,CA Wakim,J Avendano,JP Behrendorff,0,0,,,,,,caught,CA Wakim
+ball,2,16.6,Melbourne Stars,J Avendano,XA Crone,JP Behrendorff,2,0,,,,,,"",""
+ball,2,17.1,Melbourne Stars,XA Crone,J Avendano,AC Agar,1,0,,,,,,"",""
+ball,2,17.2,Melbourne Stars,J Avendano,XA Crone,AC Agar,0,0,,,,,,"",""
+ball,2,17.3,Melbourne Stars,J Avendano,XA Crone,AC Agar,4,0,,,,,,"",""
+ball,2,17.4,Melbourne Stars,J Avendano,XA Crone,AC Agar,0,0,,,,,,caught,J Avendano
+ball,2,17.5,Melbourne Stars,XA Crone,Qais Ahmad,AC Agar,0,0,,,,,,"",""
+ball,2,17.6,Melbourne Stars,XA Crone,Qais Ahmad,AC Agar,0,0,,,,,,"",""
+ball,2,18.1,Melbourne Stars,Qais Ahmad,XA Crone,TS Mills,1,0,,,,,,"",""
+ball,2,18.2,Melbourne Stars,XA Crone,Qais Ahmad,TS Mills,0,0,,,,,,run out,XA Crone
+ball,2,18.3,Melbourne Stars,Qais Ahmad,BL Couch,TS Mills,0,0,,,,,,caught,Qais Ahmad
+ball,2,18.4,Melbourne Stars,BL Couch,Haris Rauf,TS Mills,0,0,,,,,,"",""
+ball,2,18.5,Melbourne Stars,BL Couch,Haris Rauf,TS Mills,0,0,,,,,,lbw,BL Couch

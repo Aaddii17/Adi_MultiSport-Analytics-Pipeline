@@ -1,0 +1,275 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Paarl Royals
+info,team,Joburg Super Kings
+info,gender,male
+info,season,2023/24
+info,date,2024/02/07
+info,event,SA20
+info,venue,"The Wanderers Stadium, Johannesburg"
+info,city,Johannesburg
+info,toss_winner,Joburg Super Kings
+info,toss_decision,field
+info,player_of_match,SJ Cook
+info,umpire,A Jacobs
+info,umpire,LB Gcuma
+info,reserve_umpire,Siphelele Gasa
+info,tv_umpire,Stephen Harris
+info,match_referee,ZTA Ndamane
+info,winner,Joburg Super Kings
+info,winner_wickets,9
+info,player,Paarl Royals,JJ Roy
+info,player,Paarl Royals,JC Buttler
+info,player,Paarl Royals,M Van Buuren
+info,player,Paarl Royals,DJ Vilas
+info,player,Paarl Royals,WJ Lubbe
+info,player,Paarl Royals,DA Miller
+info,player,Paarl Royals,AL Phehlukwayo
+info,player,Paarl Royals,BC Fortuin
+info,player,Paarl Royals,Codi Yusuf
+info,player,Paarl Royals,OC McCoy
+info,player,Paarl Royals,T Shamsi
+info,player,Joburg Super Kings,JL du Plooy
+info,player,Joburg Super Kings,F du Plessis
+info,player,Joburg Super Kings,RR Hendricks
+info,player,Joburg Super Kings,BS Makhanya
+info,player,Joburg Super Kings,MM Ali
+info,player,Joburg Super Kings,D Ferreira
+info,player,Joburg Super Kings,DAJ Bracewell
+info,player,Joburg Super Kings,Dayyaan Galiem
+info,player,Joburg Super Kings,SJ Cook
+info,player,Joburg Super Kings,N Burger
+info,player,Joburg Super Kings,Imran Tahir
+info,registry,people,A Jacobs,70d117de
+info,registry,people,AL Phehlukwayo,ab6b1c45
+info,registry,people,BC Fortuin,9a2fc964
+info,registry,people,BS Makhanya,1b42a100
+info,registry,people,Codi Yusuf,f2397e48
+info,registry,people,D Ferreira,f0af99a7
+info,registry,people,DA Miller,d67d5f00
+info,registry,people,DAJ Bracewell,2e9fdf9b
+info,registry,people,DJ Vilas,087210b1
+info,registry,people,Dayyaan Galiem,47c449c5
+info,registry,people,F du Plessis,3355b542
+info,registry,people,Imran Tahir,acee4cc4
+info,registry,people,JC Buttler,99b75528
+info,registry,people,JJ Roy,d1c36f5c
+info,registry,people,JL du Plooy,6e6fb538
+info,registry,people,LB Gcuma,02ba88e3
+info,registry,people,M Van Buuren,46e4a4e0
+info,registry,people,MM Ali,bb351c23
+info,registry,people,N Burger,465aa633
+info,registry,people,OC McCoy,529eb9e0
+info,registry,people,RR Hendricks,b8cc58c9
+info,registry,people,SJ Cook,679cd31e
+info,registry,people,Siphelele Gasa,e50baa87
+info,registry,people,Stephen Harris,fdcfd4aa
+info,registry,people,T Shamsi,a03bba42
+info,registry,people,WJ Lubbe,10f42013
+info,registry,people,ZTA Ndamane,545cc6db
+ball,1,0.1,Paarl Royals,JJ Roy,JC Buttler,SJ Cook,1,0,,,,,,"",""
+ball,1,0.2,Paarl Royals,JC Buttler,JJ Roy,SJ Cook,0,0,,,,,,"",""
+ball,1,0.3,Paarl Royals,JC Buttler,JJ Roy,SJ Cook,0,1,1,,,,,"",""
+ball,1,0.4,Paarl Royals,JC Buttler,JJ Roy,SJ Cook,0,0,,,,,,"",""
+ball,1,0.5,Paarl Royals,JC Buttler,JJ Roy,SJ Cook,0,0,,,,,,"",""
+ball,1,0.6,Paarl Royals,JC Buttler,JJ Roy,SJ Cook,4,0,,,,,,"",""
+ball,1,0.7,Paarl Royals,JC Buttler,JJ Roy,SJ Cook,0,0,,,,,,"",""
+ball,1,1.1,Paarl Royals,JJ Roy,JC Buttler,N Burger,0,0,,,,,,"",""
+ball,1,1.2,Paarl Royals,JJ Roy,JC Buttler,N Burger,6,0,,,,,,"",""
+ball,1,1.3,Paarl Royals,JJ Roy,JC Buttler,N Burger,0,0,,,,,,"",""
+ball,1,1.4,Paarl Royals,JJ Roy,JC Buttler,N Burger,0,0,,,,,,"",""
+ball,1,1.5,Paarl Royals,JJ Roy,JC Buttler,N Burger,4,0,,,,,,"",""
+ball,1,1.6,Paarl Royals,JJ Roy,JC Buttler,N Burger,4,0,,,,,,"",""
+ball,1,2.1,Paarl Royals,JC Buttler,JJ Roy,SJ Cook,0,0,,,,,,"",""
+ball,1,2.2,Paarl Royals,JC Buttler,JJ Roy,SJ Cook,6,0,,,,,,"",""
+ball,1,2.3,Paarl Royals,JC Buttler,JJ Roy,SJ Cook,0,0,,,,,,caught,JC Buttler
+ball,1,2.4,Paarl Royals,M Van Buuren,JJ Roy,SJ Cook,0,0,,,,,,"",""
+ball,1,2.5,Paarl Royals,M Van Buuren,JJ Roy,SJ Cook,0,0,,,,,,caught,M Van Buuren
+ball,1,2.6,Paarl Royals,DJ Vilas,JJ Roy,SJ Cook,0,0,,,,,,"",""
+ball,1,3.1,Paarl Royals,JJ Roy,DJ Vilas,DAJ Bracewell,0,0,,,,,,"",""
+ball,1,3.2,Paarl Royals,JJ Roy,DJ Vilas,DAJ Bracewell,4,0,,,,,,"",""
+ball,1,3.3,Paarl Royals,JJ Roy,DJ Vilas,DAJ Bracewell,4,0,,,,,,"",""
+ball,1,3.4,Paarl Royals,JJ Roy,DJ Vilas,DAJ Bracewell,1,0,,,,,,"",""
+ball,1,3.5,Paarl Royals,DJ Vilas,JJ Roy,DAJ Bracewell,4,0,,,,,,"",""
+ball,1,3.6,Paarl Royals,DJ Vilas,JJ Roy,DAJ Bracewell,0,0,,,,,,"",""
+ball,1,4.1,Paarl Royals,JJ Roy,DJ Vilas,N Burger,0,0,,,,,,"",""
+ball,1,4.2,Paarl Royals,JJ Roy,DJ Vilas,N Burger,0,0,,,,,,"",""
+ball,1,4.3,Paarl Royals,JJ Roy,DJ Vilas,N Burger,0,0,,,,,,caught,JJ Roy
+ball,1,4.4,Paarl Royals,WJ Lubbe,DJ Vilas,N Burger,4,0,,,,,,"",""
+ball,1,4.5,Paarl Royals,WJ Lubbe,DJ Vilas,N Burger,0,0,,,,,,"",""
+ball,1,4.6,Paarl Royals,WJ Lubbe,DJ Vilas,N Burger,0,0,,,,,,lbw,WJ Lubbe
+ball,1,5.1,Paarl Royals,DJ Vilas,DA Miller,Dayyaan Galiem,0,0,,,,,,"",""
+ball,1,5.2,Paarl Royals,DJ Vilas,DA Miller,Dayyaan Galiem,1,0,,,,,,"",""
+ball,1,5.3,Paarl Royals,DA Miller,DJ Vilas,Dayyaan Galiem,0,0,,,,,,"",""
+ball,1,5.4,Paarl Royals,DA Miller,DJ Vilas,Dayyaan Galiem,0,0,,,,,,"",""
+ball,1,5.5,Paarl Royals,DA Miller,DJ Vilas,Dayyaan Galiem,0,1,1,,,,,"",""
+ball,1,5.6,Paarl Royals,DA Miller,DJ Vilas,Dayyaan Galiem,0,0,,,,,,"",""
+ball,1,5.7,Paarl Royals,DA Miller,DJ Vilas,Dayyaan Galiem,4,0,,,,,,"",""
+ball,1,6.1,Paarl Royals,DJ Vilas,DA Miller,MM Ali,1,0,,,,,,"",""
+ball,1,6.2,Paarl Royals,DA Miller,DJ Vilas,MM Ali,0,0,,,,,,"",""
+ball,1,6.3,Paarl Royals,DA Miller,DJ Vilas,MM Ali,0,0,,,,,,"",""
+ball,1,6.4,Paarl Royals,DA Miller,DJ Vilas,MM Ali,2,0,,,,,,"",""
+ball,1,6.5,Paarl Royals,DA Miller,DJ Vilas,MM Ali,1,0,,,,,,"",""
+ball,1,6.6,Paarl Royals,DJ Vilas,DA Miller,MM Ali,1,0,,,,,,"",""
+ball,1,7.1,Paarl Royals,DJ Vilas,DA Miller,Imran Tahir,1,0,,,,,,"",""
+ball,1,7.2,Paarl Royals,DA Miller,DJ Vilas,Imran Tahir,0,0,,,,,,"",""
+ball,1,7.3,Paarl Royals,DA Miller,DJ Vilas,Imran Tahir,1,0,,,,,,"",""
+ball,1,7.4,Paarl Royals,DJ Vilas,DA Miller,Imran Tahir,2,0,,,,,,"",""
+ball,1,7.5,Paarl Royals,DJ Vilas,DA Miller,Imran Tahir,1,0,,,,,,"",""
+ball,1,7.6,Paarl Royals,DA Miller,DJ Vilas,Imran Tahir,1,0,,,,,,"",""
+ball,1,8.1,Paarl Royals,DA Miller,DJ Vilas,MM Ali,0,0,,,,,,"",""
+ball,1,8.2,Paarl Royals,DA Miller,DJ Vilas,MM Ali,4,0,,,,,,"",""
+ball,1,8.3,Paarl Royals,DA Miller,DJ Vilas,MM Ali,0,0,,,,,,"",""
+ball,1,8.4,Paarl Royals,DA Miller,DJ Vilas,MM Ali,1,0,,,,,,"",""
+ball,1,8.5,Paarl Royals,DJ Vilas,DA Miller,MM Ali,6,0,,,,,,"",""
+ball,1,8.6,Paarl Royals,DJ Vilas,DA Miller,MM Ali,1,0,,,,,,"",""
+ball,1,9.1,Paarl Royals,DJ Vilas,DA Miller,Imran Tahir,1,0,,,,,,"",""
+ball,1,9.2,Paarl Royals,DA Miller,DJ Vilas,Imran Tahir,4,0,,,,,,"",""
+ball,1,9.3,Paarl Royals,DA Miller,DJ Vilas,Imran Tahir,1,0,,,,,,"",""
+ball,1,9.4,Paarl Royals,DJ Vilas,DA Miller,Imran Tahir,1,0,,,,,,"",""
+ball,1,9.5,Paarl Royals,DA Miller,DJ Vilas,Imran Tahir,0,0,,,,,,"",""
+ball,1,9.6,Paarl Royals,DA Miller,DJ Vilas,Imran Tahir,6,0,,,,,,"",""
+ball,1,10.1,Paarl Royals,DJ Vilas,DA Miller,N Burger,1,0,,,,,,"",""
+ball,1,10.2,Paarl Royals,DA Miller,DJ Vilas,N Burger,1,0,,,,,,"",""
+ball,1,10.3,Paarl Royals,DJ Vilas,DA Miller,N Burger,0,0,,,,,,caught,DJ Vilas
+ball,1,10.4,Paarl Royals,AL Phehlukwayo,DA Miller,N Burger,0,0,,,,,,"",""
+ball,1,10.5,Paarl Royals,AL Phehlukwayo,DA Miller,N Burger,0,0,,,,,,"",""
+ball,1,10.6,Paarl Royals,AL Phehlukwayo,DA Miller,N Burger,0,0,,,,,,"",""
+ball,1,11.1,Paarl Royals,DA Miller,AL Phehlukwayo,MM Ali,0,0,,,,,,"",""
+ball,1,11.2,Paarl Royals,DA Miller,AL Phehlukwayo,MM Ali,0,0,,,,,,"",""
+ball,1,11.3,Paarl Royals,DA Miller,AL Phehlukwayo,MM Ali,1,0,,,,,,"",""
+ball,1,11.4,Paarl Royals,AL Phehlukwayo,DA Miller,MM Ali,0,0,,,,,,"",""
+ball,1,11.5,Paarl Royals,AL Phehlukwayo,DA Miller,MM Ali,1,0,,,,,,"",""
+ball,1,11.6,Paarl Royals,DA Miller,AL Phehlukwayo,MM Ali,1,0,,,,,,"",""
+ball,1,12.1,Paarl Royals,DA Miller,AL Phehlukwayo,Dayyaan Galiem,1,0,,,,,,"",""
+ball,1,12.2,Paarl Royals,AL Phehlukwayo,DA Miller,Dayyaan Galiem,1,0,,,,,,"",""
+ball,1,12.3,Paarl Royals,DA Miller,AL Phehlukwayo,Dayyaan Galiem,1,0,,,,,,"",""
+ball,1,12.4,Paarl Royals,AL Phehlukwayo,DA Miller,Dayyaan Galiem,1,0,,,,,,"",""
+ball,1,12.5,Paarl Royals,DA Miller,AL Phehlukwayo,Dayyaan Galiem,1,0,,,,,,"",""
+ball,1,12.6,Paarl Royals,AL Phehlukwayo,DA Miller,Dayyaan Galiem,0,0,,,,,,"",""
+ball,1,13.1,Paarl Royals,DA Miller,AL Phehlukwayo,MM Ali,0,1,,,,1,,"",""
+ball,1,13.2,Paarl Royals,AL Phehlukwayo,DA Miller,MM Ali,1,0,,,,,,"",""
+ball,1,13.3,Paarl Royals,DA Miller,AL Phehlukwayo,MM Ali,1,0,,,,,,"",""
+ball,1,13.4,Paarl Royals,AL Phehlukwayo,DA Miller,MM Ali,0,0,,,,,,"",""
+ball,1,13.5,Paarl Royals,AL Phehlukwayo,DA Miller,MM Ali,4,0,,,,,,"",""
+ball,1,13.6,Paarl Royals,AL Phehlukwayo,DA Miller,MM Ali,0,0,,,,,,caught,AL Phehlukwayo
+ball,1,14.1,Paarl Royals,DA Miller,BC Fortuin,Imran Tahir,0,4,,,,4,,"",""
+ball,1,14.2,Paarl Royals,DA Miller,BC Fortuin,Imran Tahir,1,0,,,,,,"",""
+ball,1,14.3,Paarl Royals,BC Fortuin,DA Miller,Imran Tahir,0,0,,,,,,bowled,BC Fortuin
+ball,1,14.4,Paarl Royals,Codi Yusuf,DA Miller,Imran Tahir,0,0,,,,,,"",""
+ball,1,14.5,Paarl Royals,Codi Yusuf,DA Miller,Imran Tahir,1,0,,,,,,"",""
+ball,1,14.6,Paarl Royals,DA Miller,Codi Yusuf,Imran Tahir,1,0,,,,,,"",""
+ball,1,15.1,Paarl Royals,DA Miller,Codi Yusuf,SJ Cook,1,0,,,,,,"",""
+ball,1,15.2,Paarl Royals,Codi Yusuf,DA Miller,SJ Cook,1,0,,,,,,"",""
+ball,1,15.3,Paarl Royals,DA Miller,Codi Yusuf,SJ Cook,1,0,,,,,,"",""
+ball,1,15.4,Paarl Royals,Codi Yusuf,DA Miller,SJ Cook,1,0,,,,,,"",""
+ball,1,15.5,Paarl Royals,DA Miller,Codi Yusuf,SJ Cook,1,0,,,,,,"",""
+ball,1,15.6,Paarl Royals,Codi Yusuf,DA Miller,SJ Cook,1,0,,,,,,"",""
+ball,1,16.1,Paarl Royals,Codi Yusuf,DA Miller,Imran Tahir,1,0,,,,,,"",""
+ball,1,16.2,Paarl Royals,DA Miller,Codi Yusuf,Imran Tahir,0,0,,,,,,"",""
+ball,1,16.3,Paarl Royals,DA Miller,Codi Yusuf,Imran Tahir,6,0,,,,,,"",""
+ball,1,16.4,Paarl Royals,DA Miller,Codi Yusuf,Imran Tahir,0,0,,,,,,"",""
+ball,1,16.5,Paarl Royals,DA Miller,Codi Yusuf,Imran Tahir,4,0,,,,,,"",""
+ball,1,16.6,Paarl Royals,DA Miller,Codi Yusuf,Imran Tahir,0,0,,,,,,caught,DA Miller
+ball,1,17.1,Paarl Royals,Codi Yusuf,OC McCoy,N Burger,0,0,,,,,,"",""
+ball,1,17.2,Paarl Royals,Codi Yusuf,OC McCoy,N Burger,0,0,,,,,,"",""
+ball,1,17.3,Paarl Royals,Codi Yusuf,OC McCoy,N Burger,2,0,,,,,,"",""
+ball,1,17.4,Paarl Royals,Codi Yusuf,OC McCoy,N Burger,4,0,,,,,,"",""
+ball,1,17.5,Paarl Royals,Codi Yusuf,OC McCoy,N Burger,0,0,,,,,,"",""
+ball,1,17.6,Paarl Royals,Codi Yusuf,OC McCoy,N Burger,0,0,,,,,,"",""
+ball,1,18.1,Paarl Royals,OC McCoy,Codi Yusuf,SJ Cook,0,1,1,,,,,"",""
+ball,1,18.2,Paarl Royals,OC McCoy,Codi Yusuf,SJ Cook,4,0,,,,,,"",""
+ball,1,18.3,Paarl Royals,OC McCoy,Codi Yusuf,SJ Cook,0,0,,,,,,"",""
+ball,1,18.4,Paarl Royals,OC McCoy,Codi Yusuf,SJ Cook,0,0,,,,,,caught and bowled,OC McCoy
+ball,1,18.5,Paarl Royals,T Shamsi,Codi Yusuf,SJ Cook,1,0,,,,,,"",""
+ball,1,18.6,Paarl Royals,Codi Yusuf,T Shamsi,SJ Cook,0,0,,,,,,bowled,Codi Yusuf
+ball,2,0.1,Joburg Super Kings,JL du Plooy,F du Plessis,BC Fortuin,1,0,,,,,,"",""
+ball,2,0.2,Joburg Super Kings,F du Plessis,JL du Plooy,BC Fortuin,1,0,,,,,,"",""
+ball,2,0.3,Joburg Super Kings,JL du Plooy,F du Plessis,BC Fortuin,0,0,,,,,,"",""
+ball,2,0.4,Joburg Super Kings,JL du Plooy,F du Plessis,BC Fortuin,0,0,,,,,,"",""
+ball,2,0.5,Joburg Super Kings,JL du Plooy,F du Plessis,BC Fortuin,1,0,,,,,,"",""
+ball,2,0.6,Joburg Super Kings,F du Plessis,JL du Plooy,BC Fortuin,0,0,,,,,,"",""
+ball,2,1.1,Joburg Super Kings,JL du Plooy,F du Plessis,Codi Yusuf,2,0,,,,,,"",""
+ball,2,1.2,Joburg Super Kings,JL du Plooy,F du Plessis,Codi Yusuf,4,0,,,,,,"",""
+ball,2,1.3,Joburg Super Kings,JL du Plooy,F du Plessis,Codi Yusuf,1,0,,,,,,"",""
+ball,2,1.4,Joburg Super Kings,F du Plessis,JL du Plooy,Codi Yusuf,1,0,,,,,,"",""
+ball,2,1.5,Joburg Super Kings,JL du Plooy,F du Plessis,Codi Yusuf,6,0,,,,,,"",""
+ball,2,1.6,Joburg Super Kings,JL du Plooy,F du Plessis,Codi Yusuf,4,0,,,,,,"",""
+ball,2,2.1,Joburg Super Kings,F du Plessis,JL du Plooy,OC McCoy,0,0,,,,,,"",""
+ball,2,2.2,Joburg Super Kings,F du Plessis,JL du Plooy,OC McCoy,0,0,,,,,,"",""
+ball,2,2.3,Joburg Super Kings,F du Plessis,JL du Plooy,OC McCoy,1,0,,,,,,"",""
+ball,2,2.4,Joburg Super Kings,JL du Plooy,F du Plessis,OC McCoy,0,1,1,,,,,"",""
+ball,2,2.5,Joburg Super Kings,JL du Plooy,F du Plessis,OC McCoy,0,1,1,,,,,"",""
+ball,2,2.6,Joburg Super Kings,JL du Plooy,F du Plessis,OC McCoy,0,0,,,,,,"",""
+ball,2,2.7,Joburg Super Kings,JL du Plooy,F du Plessis,OC McCoy,6,0,,,,,,"",""
+ball,2,2.8,Joburg Super Kings,JL du Plooy,F du Plessis,OC McCoy,1,0,,,,,,"",""
+ball,2,3.1,Joburg Super Kings,JL du Plooy,F du Plessis,BC Fortuin,2,0,,,,,,"",""
+ball,2,3.2,Joburg Super Kings,JL du Plooy,F du Plessis,BC Fortuin,1,0,,,,,,"",""
+ball,2,3.3,Joburg Super Kings,F du Plessis,JL du Plooy,BC Fortuin,1,0,,,,,,"",""
+ball,2,3.4,Joburg Super Kings,JL du Plooy,F du Plessis,BC Fortuin,1,0,,,,,,"",""
+ball,2,3.5,Joburg Super Kings,F du Plessis,JL du Plooy,BC Fortuin,5,0,,,,,,"",""
+ball,2,3.6,Joburg Super Kings,JL du Plooy,F du Plessis,BC Fortuin,4,0,,,,,,"",""
+ball,2,4.1,Joburg Super Kings,F du Plessis,JL du Plooy,Codi Yusuf,0,0,,,,,,"",""
+ball,2,4.2,Joburg Super Kings,F du Plessis,JL du Plooy,Codi Yusuf,4,0,,,,,,"",""
+ball,2,4.3,Joburg Super Kings,F du Plessis,JL du Plooy,Codi Yusuf,1,0,,,,,,"",""
+ball,2,4.4,Joburg Super Kings,JL du Plooy,F du Plessis,Codi Yusuf,2,0,,,,,,"",""
+ball,2,4.5,Joburg Super Kings,JL du Plooy,F du Plessis,Codi Yusuf,0,1,,,,1,,"",""
+ball,2,4.6,Joburg Super Kings,F du Plessis,JL du Plooy,Codi Yusuf,2,0,,,,,,"",""
+ball,2,5.1,Joburg Super Kings,JL du Plooy,F du Plessis,OC McCoy,0,0,,,,,,"",""
+ball,2,5.2,Joburg Super Kings,JL du Plooy,F du Plessis,OC McCoy,0,1,1,,,,,"",""
+ball,2,5.3,Joburg Super Kings,JL du Plooy,F du Plessis,OC McCoy,4,0,,,,,,"",""
+ball,2,5.4,Joburg Super Kings,JL du Plooy,F du Plessis,OC McCoy,0,1,1,,,,,"",""
+ball,2,5.5,Joburg Super Kings,JL du Plooy,F du Plessis,OC McCoy,0,0,,,,,,"",""
+ball,2,5.6,Joburg Super Kings,JL du Plooy,F du Plessis,OC McCoy,0,0,,,,,,"",""
+ball,2,5.7,Joburg Super Kings,JL du Plooy,F du Plessis,OC McCoy,0,0,,,,,,"",""
+ball,2,5.8,Joburg Super Kings,JL du Plooy,F du Plessis,OC McCoy,0,1,,1,,,,"",""
+ball,2,5.9,Joburg Super Kings,JL du Plooy,F du Plessis,OC McCoy,1,0,,,,,,"",""
+ball,2,6.1,Joburg Super Kings,JL du Plooy,F du Plessis,T Shamsi,1,0,,,,,,"",""
+ball,2,6.2,Joburg Super Kings,F du Plessis,JL du Plooy,T Shamsi,1,0,,,,,,"",""
+ball,2,6.3,Joburg Super Kings,JL du Plooy,F du Plessis,T Shamsi,4,0,,,,,,"",""
+ball,2,6.4,Joburg Super Kings,JL du Plooy,F du Plessis,T Shamsi,1,1,,1,,,,"",""
+ball,2,6.5,Joburg Super Kings,F du Plessis,JL du Plooy,T Shamsi,0,0,,,,,,"",""
+ball,2,6.6,Joburg Super Kings,F du Plessis,JL du Plooy,T Shamsi,1,0,,,,,,"",""
+ball,2,6.7,Joburg Super Kings,JL du Plooy,F du Plessis,T Shamsi,4,1,,1,,,,"",""
+ball,2,6.8,Joburg Super Kings,JL du Plooy,F du Plessis,T Shamsi,0,0,,,,,,"",""
+ball,2,7.1,Joburg Super Kings,F du Plessis,JL du Plooy,AL Phehlukwayo,1,0,,,,,,"",""
+ball,2,7.2,Joburg Super Kings,JL du Plooy,F du Plessis,AL Phehlukwayo,1,0,,,,,,"",""
+ball,2,7.3,Joburg Super Kings,F du Plessis,JL du Plooy,AL Phehlukwayo,1,0,,,,,,"",""
+ball,2,7.4,Joburg Super Kings,JL du Plooy,F du Plessis,AL Phehlukwayo,1,0,,,,,,"",""
+ball,2,7.5,Joburg Super Kings,F du Plessis,JL du Plooy,AL Phehlukwayo,0,0,,,,,,"",""
+ball,2,7.6,Joburg Super Kings,F du Plessis,JL du Plooy,AL Phehlukwayo,6,0,,,,,,"",""
+ball,2,8.1,Joburg Super Kings,JL du Plooy,F du Plessis,T Shamsi,2,0,,,,,,"",""
+ball,2,8.2,Joburg Super Kings,JL du Plooy,F du Plessis,T Shamsi,0,0,,,,,,"",""
+ball,2,8.3,Joburg Super Kings,JL du Plooy,F du Plessis,T Shamsi,1,0,,,,,,"",""
+ball,2,8.4,Joburg Super Kings,F du Plessis,JL du Plooy,T Shamsi,1,0,,,,,,"",""
+ball,2,8.5,Joburg Super Kings,JL du Plooy,F du Plessis,T Shamsi,2,0,,,,,,"",""
+ball,2,8.6,Joburg Super Kings,JL du Plooy,F du Plessis,T Shamsi,1,0,,,,,,"",""
+ball,2,9.1,Joburg Super Kings,JL du Plooy,F du Plessis,BC Fortuin,1,0,,,,,,"",""
+ball,2,9.2,Joburg Super Kings,F du Plessis,JL du Plooy,BC Fortuin,0,0,,,,,,"",""
+ball,2,9.3,Joburg Super Kings,F du Plessis,JL du Plooy,BC Fortuin,1,0,,,,,,"",""
+ball,2,9.4,Joburg Super Kings,JL du Plooy,F du Plessis,BC Fortuin,2,0,,,,,,"",""
+ball,2,9.5,Joburg Super Kings,JL du Plooy,F du Plessis,BC Fortuin,4,0,,,,,,"",""
+ball,2,9.6,Joburg Super Kings,JL du Plooy,F du Plessis,BC Fortuin,1,0,,,,,,"",""
+ball,2,10.1,Joburg Super Kings,JL du Plooy,F du Plessis,T Shamsi,1,0,,,,,,"",""
+ball,2,10.2,Joburg Super Kings,F du Plessis,JL du Plooy,T Shamsi,1,0,,,,,,"",""
+ball,2,10.3,Joburg Super Kings,JL du Plooy,F du Plessis,T Shamsi,0,0,,,,,,stumped,JL du Plooy
+ball,2,10.4,Joburg Super Kings,RR Hendricks,F du Plessis,T Shamsi,1,0,,,,,,"",""
+ball,2,10.5,Joburg Super Kings,F du Plessis,RR Hendricks,T Shamsi,1,0,,,,,,"",""
+ball,2,10.6,Joburg Super Kings,RR Hendricks,F du Plessis,T Shamsi,1,0,,,,,,"",""
+ball,2,11.1,Joburg Super Kings,RR Hendricks,F du Plessis,BC Fortuin,0,0,,,,,,"",""
+ball,2,11.2,Joburg Super Kings,RR Hendricks,F du Plessis,BC Fortuin,0,0,,,,,,"",""
+ball,2,11.3,Joburg Super Kings,RR Hendricks,F du Plessis,BC Fortuin,1,0,,,,,,"",""
+ball,2,11.4,Joburg Super Kings,F du Plessis,RR Hendricks,BC Fortuin,6,0,,,,,,"",""
+ball,2,11.5,Joburg Super Kings,F du Plessis,RR Hendricks,BC Fortuin,2,0,,,,,,"",""
+ball,2,11.6,Joburg Super Kings,F du Plessis,RR Hendricks,BC Fortuin,0,0,,,,,,"",""
+ball,2,12.1,Joburg Super Kings,RR Hendricks,F du Plessis,T Shamsi,0,0,,,,,,"",""
+ball,2,12.2,Joburg Super Kings,RR Hendricks,F du Plessis,T Shamsi,1,1,,1,,,,"",""
+ball,2,12.3,Joburg Super Kings,F du Plessis,RR Hendricks,T Shamsi,4,1,,1,,,,"",""
+ball,2,12.4,Joburg Super Kings,F du Plessis,RR Hendricks,T Shamsi,6,0,,,,,,"",""
+ball,2,12.5,Joburg Super Kings,F du Plessis,RR Hendricks,T Shamsi,0,1,1,,,,,"",""
+ball,2,12.6,Joburg Super Kings,F du Plessis,RR Hendricks,T Shamsi,0,0,,,,,,"",""
+ball,2,12.7,Joburg Super Kings,F du Plessis,RR Hendricks,T Shamsi,1,0,,,,,,"",""
+ball,2,12.8,Joburg Super Kings,RR Hendricks,F du Plessis,T Shamsi,1,0,,,,,,"",""
+ball,2,12.9,Joburg Super Kings,F du Plessis,RR Hendricks,T Shamsi,1,0,,,,,,"",""
+ball,2,13.1,Joburg Super Kings,F du Plessis,RR Hendricks,Codi Yusuf,4,0,,,,,,"",""
+ball,2,13.2,Joburg Super Kings,F du Plessis,RR Hendricks,Codi Yusuf,1,0,,,,,,"",""

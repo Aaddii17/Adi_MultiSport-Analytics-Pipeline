@@ -1,0 +1,296 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Sydney Sixers
+info,team,Melbourne Renegades
+info,gender,male
+info,season,2021/22
+info,date,2022/01/11
+info,event,Big Bash League
+info,match_number,43
+info,venue,"GMHBA Stadium, South Geelong, Victoria"
+info,city,Geelong
+info,toss_winner,Sydney Sixers
+info,toss_decision,bat
+info,player_of_match,BJ Dwarshuis
+info,umpire,D Taylor
+info,umpire,MW Graham-Smith
+info,reserve_umpire,C Grant
+info,tv_umpire,BNJ Oxenford
+info,match_referee,RW Stratford
+info,winner,Sydney Sixers
+info,winner_runs,45
+info,player,Sydney Sixers,JR Philippe
+info,player,Sydney Sixers,J Edwards
+info,player,Sydney Sixers,DP Hughes
+info,player,Sydney Sixers,MC Henriques
+info,player,Sydney Sixers,DT Christian
+info,player,Sydney Sixers,Shadab Khan
+info,player,Sydney Sixers,SA Abbott
+info,player,Sydney Sixers,H Kerr
+info,player,Sydney Sixers,BJ Dwarshuis
+info,player,Sydney Sixers,JM Bird
+info,player,Sydney Sixers,T Murphy
+info,player,Melbourne Renegades,AJ Finch
+info,player,Melbourne Renegades,J Fraser-McGurk
+info,player,Melbourne Renegades,SE Marsh
+info,player,Melbourne Renegades,NJ Maddinson
+info,player,Melbourne Renegades,MW Harvey
+info,player,Melbourne Renegades,SB Harper
+info,player,Melbourne Renegades,W Sutherland
+info,player,Melbourne Renegades,CJ Boyce
+info,player,Melbourne Renegades,KW Richardson
+info,player,Melbourne Renegades,JK Lalor
+info,player,Melbourne Renegades,Zahir Khan
+info,registry,people,AJ Finch,b8d490fd
+info,registry,people,BJ Dwarshuis,e1b9f3a9
+info,registry,people,BNJ Oxenford,c1add349
+info,registry,people,C Grant,876ed858
+info,registry,people,CJ Boyce,51a60c16
+info,registry,people,D Taylor,b940a2b2
+info,registry,people,DP Hughes,f3982af9
+info,registry,people,DT Christian,2a2e6343
+info,registry,people,H Kerr,f422728b
+info,registry,people,J Edwards,f787e0eb
+info,registry,people,J Fraser-McGurk,9b6e1b3f
+info,registry,people,JK Lalor,88209c84
+info,registry,people,JM Bird,bc773eeb
+info,registry,people,JR Philippe,39086549
+info,registry,people,KW Richardson,dfc4d8b5
+info,registry,people,MC Henriques,32198ae0
+info,registry,people,MW Graham-Smith,18aca3ce
+info,registry,people,MW Harvey,47dc9794
+info,registry,people,NJ Maddinson,44afbf2d
+info,registry,people,RW Stratford,85489579
+info,registry,people,SA Abbott,1a2676c5
+info,registry,people,SB Harper,a756e61a
+info,registry,people,SE Marsh,508a1ea7
+info,registry,people,Shadab Khan,9de62878
+info,registry,people,T Murphy,ac2e7ec0
+info,registry,people,W Sutherland,bc2d4f2e
+info,registry,people,Zahir Khan,786b7fe8
+ball,1,0.1,Sydney Sixers,JR Philippe,J Edwards,JK Lalor,0,0,,,,,,"",""
+ball,1,0.2,Sydney Sixers,JR Philippe,J Edwards,JK Lalor,0,0,,,,,,"",""
+ball,1,0.3,Sydney Sixers,JR Philippe,J Edwards,JK Lalor,0,0,,,,,,caught,JR Philippe
+ball,1,0.4,Sydney Sixers,J Edwards,DP Hughes,JK Lalor,0,1,1,,,,,"",""
+ball,1,0.5,Sydney Sixers,J Edwards,DP Hughes,JK Lalor,4,0,,,,,,"",""
+ball,1,0.6,Sydney Sixers,J Edwards,DP Hughes,JK Lalor,0,0,,,,,,"",""
+ball,1,0.7,Sydney Sixers,J Edwards,DP Hughes,JK Lalor,0,0,,,,,,"",""
+ball,1,1.1,Sydney Sixers,DP Hughes,J Edwards,KW Richardson,1,0,,,,,,"",""
+ball,1,1.2,Sydney Sixers,J Edwards,DP Hughes,KW Richardson,4,0,,,,,,"",""
+ball,1,1.3,Sydney Sixers,J Edwards,DP Hughes,KW Richardson,1,0,,,,,,"",""
+ball,1,1.4,Sydney Sixers,DP Hughes,J Edwards,KW Richardson,0,0,,,,,,"",""
+ball,1,1.5,Sydney Sixers,DP Hughes,J Edwards,KW Richardson,1,0,,,,,,"",""
+ball,1,1.6,Sydney Sixers,J Edwards,DP Hughes,KW Richardson,1,0,,,,,,"",""
+ball,1,2.1,Sydney Sixers,J Edwards,DP Hughes,JK Lalor,0,0,,,,,,"",""
+ball,1,2.2,Sydney Sixers,J Edwards,DP Hughes,JK Lalor,0,0,,,,,,"",""
+ball,1,2.3,Sydney Sixers,J Edwards,DP Hughes,JK Lalor,1,0,,,,,,"",""
+ball,1,2.4,Sydney Sixers,DP Hughes,J Edwards,JK Lalor,0,0,,,,,,"",""
+ball,1,2.5,Sydney Sixers,DP Hughes,J Edwards,JK Lalor,0,0,,,,,,"",""
+ball,1,2.6,Sydney Sixers,DP Hughes,J Edwards,JK Lalor,6,0,,,,,,"",""
+ball,1,3.1,Sydney Sixers,J Edwards,DP Hughes,W Sutherland,4,0,,,,,,"",""
+ball,1,3.2,Sydney Sixers,J Edwards,DP Hughes,W Sutherland,3,0,,,,,,"",""
+ball,1,3.3,Sydney Sixers,DP Hughes,J Edwards,W Sutherland,4,0,,,,,,"",""
+ball,1,3.4,Sydney Sixers,DP Hughes,J Edwards,W Sutherland,0,0,,,,,,"",""
+ball,1,3.5,Sydney Sixers,DP Hughes,J Edwards,W Sutherland,1,0,,,,,,"",""
+ball,1,3.6,Sydney Sixers,J Edwards,DP Hughes,W Sutherland,1,0,,,,,,"",""
+ball,1,4.1,Sydney Sixers,J Edwards,DP Hughes,CJ Boyce,1,0,,,,,,"",""
+ball,1,4.2,Sydney Sixers,DP Hughes,J Edwards,CJ Boyce,1,0,,,,,,"",""
+ball,1,4.3,Sydney Sixers,J Edwards,DP Hughes,CJ Boyce,1,0,,,,,,"",""
+ball,1,4.4,Sydney Sixers,DP Hughes,J Edwards,CJ Boyce,0,0,,,,,,"",""
+ball,1,4.5,Sydney Sixers,DP Hughes,J Edwards,CJ Boyce,1,0,,,,,,"",""
+ball,1,4.6,Sydney Sixers,J Edwards,DP Hughes,CJ Boyce,1,0,,,,,,"",""
+ball,1,5.1,Sydney Sixers,J Edwards,DP Hughes,Zahir Khan,0,0,,,,,,"",""
+ball,1,5.2,Sydney Sixers,J Edwards,DP Hughes,Zahir Khan,1,0,,,,,,"",""
+ball,1,5.3,Sydney Sixers,DP Hughes,J Edwards,Zahir Khan,0,0,,,,,,"",""
+ball,1,5.4,Sydney Sixers,DP Hughes,J Edwards,Zahir Khan,1,0,,,,,,"",""
+ball,1,5.5,Sydney Sixers,J Edwards,DP Hughes,Zahir Khan,0,0,,,,,,"",""
+ball,1,5.6,Sydney Sixers,J Edwards,DP Hughes,Zahir Khan,1,0,,,,,,"",""
+ball,1,6.1,Sydney Sixers,J Edwards,DP Hughes,CJ Boyce,1,0,,,,,,"",""
+ball,1,6.2,Sydney Sixers,DP Hughes,J Edwards,CJ Boyce,1,0,,,,,,"",""
+ball,1,6.3,Sydney Sixers,J Edwards,DP Hughes,CJ Boyce,1,0,,,,,,"",""
+ball,1,6.4,Sydney Sixers,DP Hughes,J Edwards,CJ Boyce,0,0,,,,,,caught,DP Hughes
+ball,1,6.5,Sydney Sixers,J Edwards,MC Henriques,CJ Boyce,0,0,,,,,,"",""
+ball,1,6.6,Sydney Sixers,J Edwards,MC Henriques,CJ Boyce,0,0,,,,,,"",""
+ball,1,7.1,Sydney Sixers,MC Henriques,J Edwards,Zahir Khan,1,0,,,,,,"",""
+ball,1,7.2,Sydney Sixers,J Edwards,MC Henriques,Zahir Khan,2,0,,,,,,"",""
+ball,1,7.3,Sydney Sixers,J Edwards,MC Henriques,Zahir Khan,1,0,,,,,,"",""
+ball,1,7.4,Sydney Sixers,MC Henriques,J Edwards,Zahir Khan,1,0,,,,,,"",""
+ball,1,7.5,Sydney Sixers,J Edwards,MC Henriques,Zahir Khan,0,1,1,,,,,"",""
+ball,1,7.6,Sydney Sixers,J Edwards,MC Henriques,Zahir Khan,1,0,,,,,,"",""
+ball,1,7.7,Sydney Sixers,MC Henriques,J Edwards,Zahir Khan,1,0,,,,,,"",""
+ball,1,8.1,Sydney Sixers,MC Henriques,J Edwards,NJ Maddinson,1,0,,,,,,"",""
+ball,1,8.2,Sydney Sixers,J Edwards,MC Henriques,NJ Maddinson,6,0,,,,,,"",""
+ball,1,8.3,Sydney Sixers,J Edwards,MC Henriques,NJ Maddinson,2,0,,,,,,"",""
+ball,1,8.4,Sydney Sixers,J Edwards,MC Henriques,NJ Maddinson,0,0,,,,,,"",""
+ball,1,8.5,Sydney Sixers,J Edwards,MC Henriques,NJ Maddinson,1,0,,,,,,"",""
+ball,1,8.6,Sydney Sixers,MC Henriques,J Edwards,NJ Maddinson,1,0,,,,,,"",""
+ball,1,9.1,Sydney Sixers,MC Henriques,J Edwards,Zahir Khan,1,0,,,,,,"",""
+ball,1,9.2,Sydney Sixers,J Edwards,MC Henriques,Zahir Khan,0,0,,,,,,"",""
+ball,1,9.3,Sydney Sixers,J Edwards,MC Henriques,Zahir Khan,0,0,,,,,,"",""
+ball,1,9.4,Sydney Sixers,J Edwards,MC Henriques,Zahir Khan,1,0,,,,,,"",""
+ball,1,9.5,Sydney Sixers,MC Henriques,J Edwards,Zahir Khan,0,0,,,,,,"",""
+ball,1,9.6,Sydney Sixers,MC Henriques,J Edwards,Zahir Khan,6,0,,,,,,"",""
+ball,1,10.1,Sydney Sixers,J Edwards,MC Henriques,CJ Boyce,0,0,,,,,,caught,J Edwards
+ball,1,10.2,Sydney Sixers,MC Henriques,DT Christian,CJ Boyce,0,0,,,,,,"",""
+ball,1,10.3,Sydney Sixers,MC Henriques,DT Christian,CJ Boyce,1,0,,,,,,"",""
+ball,1,10.4,Sydney Sixers,DT Christian,MC Henriques,CJ Boyce,0,0,,,,,,"",""
+ball,1,10.5,Sydney Sixers,DT Christian,MC Henriques,CJ Boyce,1,0,,,,,,"",""
+ball,1,10.6,Sydney Sixers,MC Henriques,DT Christian,CJ Boyce,1,0,,,,,,"",""
+ball,1,11.1,Sydney Sixers,MC Henriques,DT Christian,W Sutherland,1,0,,,,,,"",""
+ball,1,11.2,Sydney Sixers,DT Christian,MC Henriques,W Sutherland,0,0,,,,,,"",""
+ball,1,11.3,Sydney Sixers,DT Christian,MC Henriques,W Sutherland,1,0,,,,,,"",""
+ball,1,11.4,Sydney Sixers,MC Henriques,DT Christian,W Sutherland,1,0,,,,,,"",""
+ball,1,11.5,Sydney Sixers,DT Christian,MC Henriques,W Sutherland,1,0,,,,,,"",""
+ball,1,11.6,Sydney Sixers,MC Henriques,DT Christian,W Sutherland,1,0,,,,,,"",""
+ball,1,12.1,Sydney Sixers,MC Henriques,DT Christian,CJ Boyce,0,0,,,,,,"",""
+ball,1,12.2,Sydney Sixers,MC Henriques,DT Christian,CJ Boyce,1,0,,,,,,"",""
+ball,1,12.3,Sydney Sixers,DT Christian,MC Henriques,CJ Boyce,1,0,,,,,,"",""
+ball,1,12.4,Sydney Sixers,MC Henriques,DT Christian,CJ Boyce,0,0,,,,,,"",""
+ball,1,12.5,Sydney Sixers,MC Henriques,DT Christian,CJ Boyce,1,0,,,,,,"",""
+ball,1,12.6,Sydney Sixers,DT Christian,MC Henriques,CJ Boyce,1,0,,,,,,"",""
+ball,1,13.1,Sydney Sixers,DT Christian,MC Henriques,KW Richardson,0,0,,,,,,"",""
+ball,1,13.2,Sydney Sixers,DT Christian,MC Henriques,KW Richardson,0,0,,,,,,"",""
+ball,1,13.3,Sydney Sixers,DT Christian,MC Henriques,KW Richardson,1,0,,,,,,"",""
+ball,1,13.4,Sydney Sixers,MC Henriques,DT Christian,KW Richardson,4,0,,,,,,"",""
+ball,1,13.5,Sydney Sixers,MC Henriques,DT Christian,KW Richardson,4,0,,,,,,"",""
+ball,1,13.6,Sydney Sixers,MC Henriques,DT Christian,KW Richardson,2,0,,,,,,"",""
+ball,1,14.1,Sydney Sixers,DT Christian,MC Henriques,JK Lalor,4,0,,,,,,"",""
+ball,1,14.2,Sydney Sixers,DT Christian,MC Henriques,JK Lalor,0,0,,,,,,"",""
+ball,1,14.3,Sydney Sixers,DT Christian,MC Henriques,JK Lalor,0,0,,,,,,"",""
+ball,1,14.4,Sydney Sixers,DT Christian,MC Henriques,JK Lalor,0,0,,,,,,"",""
+ball,1,14.5,Sydney Sixers,DT Christian,MC Henriques,JK Lalor,2,0,,,,,,"",""
+ball,1,14.6,Sydney Sixers,DT Christian,MC Henriques,JK Lalor,4,0,,,,,,"",""
+ball,1,15.1,Sydney Sixers,MC Henriques,DT Christian,Zahir Khan,0,0,,,,,,"",""
+ball,1,15.2,Sydney Sixers,MC Henriques,DT Christian,Zahir Khan,2,0,,,,,,"",""
+ball,1,15.3,Sydney Sixers,MC Henriques,DT Christian,Zahir Khan,2,0,,,,,,"",""
+ball,1,15.4,Sydney Sixers,MC Henriques,DT Christian,Zahir Khan,1,0,,,,,,"",""
+ball,1,15.5,Sydney Sixers,DT Christian,MC Henriques,Zahir Khan,1,0,,,,,,"",""
+ball,1,15.6,Sydney Sixers,MC Henriques,DT Christian,Zahir Khan,2,0,,,,,,"",""
+ball,1,16.1,Sydney Sixers,DT Christian,MC Henriques,W Sutherland,0,0,,,,,,"",""
+ball,1,16.2,Sydney Sixers,DT Christian,MC Henriques,W Sutherland,4,0,,,,,,"",""
+ball,1,16.3,Sydney Sixers,DT Christian,MC Henriques,W Sutherland,1,0,,,,,,"",""
+ball,1,16.4,Sydney Sixers,MC Henriques,DT Christian,W Sutherland,0,1,1,,,,,"",""
+ball,1,16.5,Sydney Sixers,MC Henriques,DT Christian,W Sutherland,4,0,,,,,,"",""
+ball,1,16.6,Sydney Sixers,MC Henriques,DT Christian,W Sutherland,0,1,1,,,,,"",""
+ball,1,16.7,Sydney Sixers,MC Henriques,DT Christian,W Sutherland,1,0,,,,,,"",""
+ball,1,16.8,Sydney Sixers,DT Christian,MC Henriques,W Sutherland,0,0,,,,,,caught,DT Christian
+ball,1,17.1,Sydney Sixers,MC Henriques,Shadab Khan,KW Richardson,2,0,,,,,,"",""
+ball,1,17.2,Sydney Sixers,MC Henriques,Shadab Khan,KW Richardson,4,0,,,,,,"",""
+ball,1,17.3,Sydney Sixers,MC Henriques,Shadab Khan,KW Richardson,0,0,,,,,,"",""
+ball,1,17.4,Sydney Sixers,MC Henriques,Shadab Khan,KW Richardson,1,0,,,,,,"",""
+ball,1,17.5,Sydney Sixers,Shadab Khan,MC Henriques,KW Richardson,4,0,,,,,,"",""
+ball,1,17.6,Sydney Sixers,Shadab Khan,MC Henriques,KW Richardson,1,0,,,,,,"",""
+ball,1,18.1,Sydney Sixers,Shadab Khan,MC Henriques,JK Lalor,0,0,,,,,,"",""
+ball,1,18.2,Sydney Sixers,Shadab Khan,MC Henriques,JK Lalor,1,0,,,,,,"",""
+ball,1,18.3,Sydney Sixers,MC Henriques,Shadab Khan,JK Lalor,0,0,,,,,,"",""
+ball,1,18.4,Sydney Sixers,MC Henriques,Shadab Khan,JK Lalor,1,0,,,,,,"",""
+ball,1,18.5,Sydney Sixers,Shadab Khan,MC Henriques,JK Lalor,2,0,,,,,,"",""
+ball,1,18.6,Sydney Sixers,Shadab Khan,MC Henriques,JK Lalor,4,0,,,,,,"",""
+ball,1,19.1,Sydney Sixers,MC Henriques,Shadab Khan,KW Richardson,0,0,,,,,,caught,MC Henriques
+ball,1,19.2,Sydney Sixers,Shadab Khan,SA Abbott,KW Richardson,0,0,,,,,,caught,Shadab Khan
+ball,1,19.3,Sydney Sixers,H Kerr,SA Abbott,KW Richardson,2,0,,,,,,"",""
+ball,1,19.4,Sydney Sixers,H Kerr,SA Abbott,KW Richardson,1,0,,,,,,"",""
+ball,1,19.5,Sydney Sixers,SA Abbott,H Kerr,KW Richardson,1,0,,,,,,"",""
+ball,1,19.6,Sydney Sixers,H Kerr,SA Abbott,KW Richardson,2,0,,,,,,"",""
+ball,2,0.1,Melbourne Renegades,AJ Finch,J Fraser-McGurk,JM Bird,1,0,,,,,,"",""
+ball,2,0.2,Melbourne Renegades,J Fraser-McGurk,AJ Finch,JM Bird,4,0,,,,,,"",""
+ball,2,0.3,Melbourne Renegades,J Fraser-McGurk,AJ Finch,JM Bird,0,0,,,,,,"",""
+ball,2,0.4,Melbourne Renegades,J Fraser-McGurk,AJ Finch,JM Bird,2,0,,,,,,"",""
+ball,2,0.5,Melbourne Renegades,J Fraser-McGurk,AJ Finch,JM Bird,0,0,,,,,,lbw,J Fraser-McGurk
+ball,2,0.6,Melbourne Renegades,SE Marsh,AJ Finch,JM Bird,0,0,,,,,,"",""
+ball,2,1.1,Melbourne Renegades,AJ Finch,SE Marsh,SA Abbott,0,1,,,,1,,"",""
+ball,2,1.2,Melbourne Renegades,SE Marsh,AJ Finch,SA Abbott,0,1,,,,1,,"",""
+ball,2,1.3,Melbourne Renegades,AJ Finch,SE Marsh,SA Abbott,2,0,,,,,,"",""
+ball,2,1.4,Melbourne Renegades,AJ Finch,SE Marsh,SA Abbott,0,0,,,,,,lbw,AJ Finch
+ball,2,1.5,Melbourne Renegades,NJ Maddinson,SE Marsh,SA Abbott,1,0,,,,,,"",""
+ball,2,1.6,Melbourne Renegades,SE Marsh,NJ Maddinson,SA Abbott,0,0,,,,,,"",""
+ball,2,2.1,Melbourne Renegades,NJ Maddinson,SE Marsh,JM Bird,0,0,,,,,,"",""
+ball,2,2.2,Melbourne Renegades,NJ Maddinson,SE Marsh,JM Bird,0,0,,,,,,"",""
+ball,2,2.3,Melbourne Renegades,NJ Maddinson,SE Marsh,JM Bird,0,1,,,,1,,"",""
+ball,2,2.4,Melbourne Renegades,SE Marsh,NJ Maddinson,JM Bird,0,0,,,,,,"",""
+ball,2,2.5,Melbourne Renegades,SE Marsh,NJ Maddinson,JM Bird,4,0,,,,,,"",""
+ball,2,2.6,Melbourne Renegades,SE Marsh,NJ Maddinson,JM Bird,0,0,,,,,,"",""
+ball,2,3.1,Melbourne Renegades,NJ Maddinson,SE Marsh,SA Abbott,0,0,,,,,,"",""
+ball,2,3.2,Melbourne Renegades,NJ Maddinson,SE Marsh,SA Abbott,1,0,,,,,,"",""
+ball,2,3.3,Melbourne Renegades,SE Marsh,NJ Maddinson,SA Abbott,0,0,,,,,,"",""
+ball,2,3.4,Melbourne Renegades,SE Marsh,NJ Maddinson,SA Abbott,0,0,,,,,,"",""
+ball,2,3.5,Melbourne Renegades,SE Marsh,NJ Maddinson,SA Abbott,4,0,,,,,,"",""
+ball,2,3.6,Melbourne Renegades,SE Marsh,NJ Maddinson,SA Abbott,0,0,,,,,,"",""
+ball,2,4.1,Melbourne Renegades,NJ Maddinson,SE Marsh,JM Bird,1,0,,,,,,"",""
+ball,2,4.2,Melbourne Renegades,SE Marsh,NJ Maddinson,JM Bird,4,0,,,,,,"",""
+ball,2,4.3,Melbourne Renegades,SE Marsh,NJ Maddinson,JM Bird,0,0,,,,,,"",""
+ball,2,4.4,Melbourne Renegades,SE Marsh,NJ Maddinson,JM Bird,1,0,,,,,,"",""
+ball,2,4.5,Melbourne Renegades,NJ Maddinson,SE Marsh,JM Bird,1,0,,,,,,"",""
+ball,2,4.6,Melbourne Renegades,SE Marsh,NJ Maddinson,JM Bird,1,0,,,,,,"",""
+ball,2,5.1,Melbourne Renegades,SE Marsh,NJ Maddinson,T Murphy,1,0,,,,,,"",""
+ball,2,5.2,Melbourne Renegades,NJ Maddinson,SE Marsh,T Murphy,0,0,,,,,,"",""
+ball,2,5.3,Melbourne Renegades,NJ Maddinson,SE Marsh,T Murphy,0,0,,,,,,"",""
+ball,2,5.4,Melbourne Renegades,NJ Maddinson,SE Marsh,T Murphy,1,0,,,,,,"",""
+ball,2,5.5,Melbourne Renegades,SE Marsh,NJ Maddinson,T Murphy,1,0,,,,,,"",""
+ball,2,5.6,Melbourne Renegades,NJ Maddinson,SE Marsh,T Murphy,1,0,,,,,,"",""
+ball,2,6.1,Melbourne Renegades,NJ Maddinson,SE Marsh,H Kerr,1,0,,,,,,"",""
+ball,2,6.2,Melbourne Renegades,SE Marsh,NJ Maddinson,H Kerr,1,0,,,,,,"",""
+ball,2,6.3,Melbourne Renegades,NJ Maddinson,SE Marsh,H Kerr,1,0,,,,,,"",""
+ball,2,6.4,Melbourne Renegades,SE Marsh,NJ Maddinson,H Kerr,0,0,,,,,,"",""
+ball,2,6.5,Melbourne Renegades,SE Marsh,NJ Maddinson,H Kerr,0,0,,,,,,"",""
+ball,2,6.6,Melbourne Renegades,SE Marsh,NJ Maddinson,H Kerr,1,0,,,,,,"",""
+ball,2,7.1,Melbourne Renegades,SE Marsh,NJ Maddinson,T Murphy,1,0,,,,,,"",""
+ball,2,7.2,Melbourne Renegades,NJ Maddinson,SE Marsh,T Murphy,1,0,,,,,,"",""
+ball,2,7.3,Melbourne Renegades,SE Marsh,NJ Maddinson,T Murphy,0,0,,,,,,"",""
+ball,2,7.4,Melbourne Renegades,SE Marsh,NJ Maddinson,T Murphy,1,0,,,,,,"",""
+ball,2,7.5,Melbourne Renegades,NJ Maddinson,SE Marsh,T Murphy,0,0,,,,,,caught,NJ Maddinson
+ball,2,7.6,Melbourne Renegades,MW Harvey,SE Marsh,T Murphy,1,0,,,,,,"",""
+ball,2,8.1,Melbourne Renegades,MW Harvey,SE Marsh,BJ Dwarshuis,1,0,,,,,,"",""
+ball,2,8.2,Melbourne Renegades,SE Marsh,MW Harvey,BJ Dwarshuis,4,0,,,,,,"",""
+ball,2,8.3,Melbourne Renegades,SE Marsh,MW Harvey,BJ Dwarshuis,1,0,,,,,,"",""
+ball,2,8.4,Melbourne Renegades,MW Harvey,SE Marsh,BJ Dwarshuis,0,0,,,,,,"",""
+ball,2,8.5,Melbourne Renegades,MW Harvey,SE Marsh,BJ Dwarshuis,0,0,,,,,,"",""
+ball,2,8.6,Melbourne Renegades,MW Harvey,SE Marsh,BJ Dwarshuis,2,0,,,,,,"",""
+ball,2,9.1,Melbourne Renegades,SE Marsh,MW Harvey,T Murphy,1,0,,,,,,"",""
+ball,2,9.2,Melbourne Renegades,MW Harvey,SE Marsh,T Murphy,1,0,,,,,,"",""
+ball,2,9.3,Melbourne Renegades,SE Marsh,MW Harvey,T Murphy,1,0,,,,,,"",""
+ball,2,9.4,Melbourne Renegades,MW Harvey,SE Marsh,T Murphy,1,0,,,,,,"",""
+ball,2,9.5,Melbourne Renegades,SE Marsh,MW Harvey,T Murphy,1,0,,,,,,"",""
+ball,2,9.6,Melbourne Renegades,MW Harvey,SE Marsh,T Murphy,0,0,,,,,,"",""
+ball,2,10.1,Melbourne Renegades,SE Marsh,MW Harvey,H Kerr,0,0,,,,,,"",""
+ball,2,10.2,Melbourne Renegades,SE Marsh,MW Harvey,H Kerr,1,0,,,,,,"",""
+ball,2,10.3,Melbourne Renegades,MW Harvey,SE Marsh,H Kerr,0,0,,,,,,"",""
+ball,2,10.4,Melbourne Renegades,MW Harvey,SE Marsh,H Kerr,1,0,,,,,,"",""
+ball,2,10.5,Melbourne Renegades,SE Marsh,MW Harvey,H Kerr,6,0,,,,,,"",""
+ball,2,10.6,Melbourne Renegades,SE Marsh,MW Harvey,H Kerr,1,0,,,,,,"",""
+ball,2,11.1,Melbourne Renegades,SE Marsh,MW Harvey,BJ Dwarshuis,1,0,,,,,,"",""
+ball,2,11.2,Melbourne Renegades,MW Harvey,SE Marsh,BJ Dwarshuis,0,0,,,,,,caught,MW Harvey
+ball,2,11.3,Melbourne Renegades,SE Marsh,SB Harper,BJ Dwarshuis,1,0,,,,,,"",""
+ball,2,11.4,Melbourne Renegades,SB Harper,SE Marsh,BJ Dwarshuis,1,0,,,,,,"",""
+ball,2,11.5,Melbourne Renegades,SE Marsh,SB Harper,BJ Dwarshuis,1,0,,,,,,"",""
+ball,2,11.6,Melbourne Renegades,SB Harper,SE Marsh,BJ Dwarshuis,0,0,,,,,,"",""
+ball,2,12.1,Melbourne Renegades,SE Marsh,SB Harper,H Kerr,0,0,,,,,,bowled,SE Marsh
+ball,2,12.2,Melbourne Renegades,W Sutherland,SB Harper,H Kerr,1,0,,,,,,"",""
+ball,2,12.3,Melbourne Renegades,SB Harper,W Sutherland,H Kerr,1,0,,,,,,"",""
+ball,2,12.4,Melbourne Renegades,W Sutherland,SB Harper,H Kerr,1,0,,,,,,"",""
+ball,2,12.5,Melbourne Renegades,SB Harper,W Sutherland,H Kerr,1,0,,,,,,"",""
+ball,2,12.6,Melbourne Renegades,W Sutherland,SB Harper,H Kerr,1,0,,,,,,"",""
+ball,2,13.1,Melbourne Renegades,W Sutherland,SB Harper,BJ Dwarshuis,0,0,,,,,,caught,W Sutherland
+ball,2,13.2,Melbourne Renegades,SB Harper,CJ Boyce,BJ Dwarshuis,6,0,,,,,,"",""
+ball,2,13.3,Melbourne Renegades,SB Harper,CJ Boyce,BJ Dwarshuis,6,0,,,,,,"",""
+ball,2,13.4,Melbourne Renegades,SB Harper,CJ Boyce,BJ Dwarshuis,0,0,,,,,,caught,SB Harper
+ball,2,13.5,Melbourne Renegades,KW Richardson,CJ Boyce,BJ Dwarshuis,0,0,,,,,,"",""
+ball,2,13.6,Melbourne Renegades,KW Richardson,CJ Boyce,BJ Dwarshuis,0,0,,,,,,"",""
+ball,2,14.1,Melbourne Renegades,CJ Boyce,KW Richardson,SA Abbott,0,0,,,,,,bowled,CJ Boyce
+ball,2,14.2,Melbourne Renegades,JK Lalor,KW Richardson,SA Abbott,0,0,,,,,,"",""
+ball,2,14.3,Melbourne Renegades,JK Lalor,KW Richardson,SA Abbott,1,0,,,,,,"",""
+ball,2,14.4,Melbourne Renegades,KW Richardson,JK Lalor,SA Abbott,0,0,,,,,,"",""
+ball,2,14.5,Melbourne Renegades,KW Richardson,JK Lalor,SA Abbott,6,0,,,,,,"",""
+ball,2,14.6,Melbourne Renegades,KW Richardson,JK Lalor,SA Abbott,3,0,,,,,,"",""
+ball,2,15.1,Melbourne Renegades,KW Richardson,JK Lalor,Shadab Khan,2,0,,,,,,"",""
+ball,2,15.2,Melbourne Renegades,KW Richardson,JK Lalor,Shadab Khan,2,0,,,,,,"",""
+ball,2,15.3,Melbourne Renegades,KW Richardson,JK Lalor,Shadab Khan,0,0,,,,,,"",""
+ball,2,15.4,Melbourne Renegades,KW Richardson,JK Lalor,Shadab Khan,1,0,,,,,,"",""
+ball,2,15.5,Melbourne Renegades,JK Lalor,KW Richardson,Shadab Khan,2,0,,,,,,"",""
+ball,2,15.6,Melbourne Renegades,JK Lalor,KW Richardson,Shadab Khan,1,0,,,,,,"",""
+ball,2,16.1,Melbourne Renegades,JK Lalor,KW Richardson,BJ Dwarshuis,1,0,,,,,,"",""
+ball,2,16.2,Melbourne Renegades,KW Richardson,JK Lalor,BJ Dwarshuis,1,0,,,,,,"",""
+ball,2,16.3,Melbourne Renegades,JK Lalor,KW Richardson,BJ Dwarshuis,0,0,,,,,,bowled,JK Lalor
+ball,2,16.4,Melbourne Renegades,Zahir Khan,KW Richardson,BJ Dwarshuis,0,0,,,,,,"",""
+ball,2,16.5,Melbourne Renegades,Zahir Khan,KW Richardson,BJ Dwarshuis,0,0,,,,,,"",""
+ball,2,16.6,Melbourne Renegades,Zahir Khan,KW Richardson,BJ Dwarshuis,0,0,,,,,,bowled,Zahir Khan

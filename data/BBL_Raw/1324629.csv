@@ -1,0 +1,316 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Perth Scorchers
+info,team,Sydney Sixers
+info,gender,male
+info,season,2022/23
+info,date,2022/12/17
+info,event,Big Bash League
+info,match_number,6
+info,venue,Perth Stadium
+info,city,Perth
+info,toss_winner,Perth Scorchers
+info,toss_decision,bat
+info,player_of_match,JA Richardson
+info,umpire,BNJ Oxenford
+info,umpire,SAJ Craig
+info,reserve_umpire,Ashlee Gibbons
+info,tv_umpire,PJ Gillespie
+info,match_referee,RL Parry
+info,winner,Perth Scorchers
+info,winner_runs,38
+info,player,Perth Scorchers,A Lyth
+info,player,Perth Scorchers,F du Plessis
+info,player,Perth Scorchers,NR Hobson
+info,player,Perth Scorchers,JP Inglis
+info,player,Perth Scorchers,AJ Turner
+info,player,Perth Scorchers,AM Hardie
+info,player,Perth Scorchers,AC Agar
+info,player,Perth Scorchers,JA Richardson
+info,player,Perth Scorchers,M Kelly
+info,player,Perth Scorchers,AJ Tye
+info,player,Perth Scorchers,JP Behrendorff
+info,player,Sydney Sixers,KR Patterson
+info,player,Sydney Sixers,JR Philippe
+info,player,Sydney Sixers,JM Vince
+info,player,Sydney Sixers,MC Henriques
+info,player,Sydney Sixers,JC Silk
+info,player,Sydney Sixers,DT Christian
+info,player,Sydney Sixers,H Kerr
+info,player,Sydney Sixers,SA Abbott
+info,player,Sydney Sixers,JM Bird
+info,player,Sydney Sixers,Naveen-ul-Haq
+info,player,Sydney Sixers,Izharulhaq Naveed
+info,registry,people,A Lyth,70b8fd28
+info,registry,people,AC Agar,a2421394
+info,registry,people,AJ Turner,ff1e12a0
+info,registry,people,AJ Tye,7c7d63a2
+info,registry,people,AM Hardie,d405c0d5
+info,registry,people,Ashlee Gibbons,b81712f7
+info,registry,people,BNJ Oxenford,c1add349
+info,registry,people,DT Christian,2a2e6343
+info,registry,people,F du Plessis,3355b542
+info,registry,people,H Kerr,f422728b
+info,registry,people,Izharulhaq Naveed,2cbdd22f
+info,registry,people,JA Richardson,1ee08e9a
+info,registry,people,JC Silk,7a6dc294
+info,registry,people,JM Bird,bc773eeb
+info,registry,people,JM Vince,a15618fe
+info,registry,people,JP Behrendorff,4933f499
+info,registry,people,JP Inglis,989889ff
+info,registry,people,JR Philippe,39086549
+info,registry,people,KR Patterson,e3bf8356
+info,registry,people,M Kelly,68e26ec9
+info,registry,people,MC Henriques,32198ae0
+info,registry,people,NR Hobson,4312e0fd
+info,registry,people,Naveen-ul-Haq,c0c411cb
+info,registry,people,PJ Gillespie,3e253a50
+info,registry,people,RL Parry,86d151dc
+info,registry,people,SA Abbott,1a2676c5
+info,registry,people,SAJ Craig,689f2eed
+ball,1,0.1,Perth Scorchers,A Lyth,F du Plessis,JM Bird,0,1,1,,,,,"",""
+ball,1,0.2,Perth Scorchers,A Lyth,F du Plessis,JM Bird,0,1,1,,,,,"",""
+ball,1,0.3,Perth Scorchers,A Lyth,F du Plessis,JM Bird,4,0,,,,,,"",""
+ball,1,0.4,Perth Scorchers,A Lyth,F du Plessis,JM Bird,0,0,,,,,,lbw,A Lyth
+ball,1,0.5,Perth Scorchers,NR Hobson,F du Plessis,JM Bird,0,0,,,,,,"",""
+ball,1,0.6,Perth Scorchers,NR Hobson,F du Plessis,JM Bird,3,0,,,,,,"",""
+ball,1,0.7,Perth Scorchers,F du Plessis,NR Hobson,JM Bird,4,0,,,,,,"",""
+ball,1,0.8,Perth Scorchers,F du Plessis,NR Hobson,JM Bird,0,0,,,,,,"",""
+ball,1,1.1,Perth Scorchers,NR Hobson,F du Plessis,Naveen-ul-Haq,0,0,,,,,,"",""
+ball,1,1.2,Perth Scorchers,NR Hobson,F du Plessis,Naveen-ul-Haq,1,0,,,,,,"",""
+ball,1,1.3,Perth Scorchers,F du Plessis,NR Hobson,Naveen-ul-Haq,4,0,,,,,,"",""
+ball,1,1.4,Perth Scorchers,F du Plessis,NR Hobson,Naveen-ul-Haq,0,0,,,,,,"",""
+ball,1,1.5,Perth Scorchers,F du Plessis,NR Hobson,Naveen-ul-Haq,0,0,,,,,,"",""
+ball,1,1.6,Perth Scorchers,F du Plessis,NR Hobson,Naveen-ul-Haq,0,0,,,,,,"",""
+ball,1,2.1,Perth Scorchers,NR Hobson,F du Plessis,JM Bird,0,0,,,,,,"",""
+ball,1,2.2,Perth Scorchers,NR Hobson,F du Plessis,JM Bird,1,0,,,,,,"",""
+ball,1,2.3,Perth Scorchers,F du Plessis,NR Hobson,JM Bird,2,0,,,,,,"",""
+ball,1,2.4,Perth Scorchers,F du Plessis,NR Hobson,JM Bird,0,0,,,,,,"",""
+ball,1,2.5,Perth Scorchers,F du Plessis,NR Hobson,JM Bird,4,0,,,,,,"",""
+ball,1,2.6,Perth Scorchers,F du Plessis,NR Hobson,JM Bird,0,0,,,,,,"",""
+ball,1,3.1,Perth Scorchers,NR Hobson,F du Plessis,Naveen-ul-Haq,1,0,,,,,,"",""
+ball,1,3.2,Perth Scorchers,F du Plessis,NR Hobson,Naveen-ul-Haq,0,0,,,,,,"",""
+ball,1,3.3,Perth Scorchers,F du Plessis,NR Hobson,Naveen-ul-Haq,0,0,,,,,,bowled,F du Plessis
+ball,1,3.4,Perth Scorchers,JP Inglis,NR Hobson,Naveen-ul-Haq,0,0,,,,,,"",""
+ball,1,3.5,Perth Scorchers,JP Inglis,NR Hobson,Naveen-ul-Haq,4,0,,,,,,"",""
+ball,1,3.6,Perth Scorchers,JP Inglis,NR Hobson,Naveen-ul-Haq,0,0,,,,,,"",""
+ball,1,4.1,Perth Scorchers,NR Hobson,JP Inglis,SA Abbott,1,0,,,,,,"",""
+ball,1,4.2,Perth Scorchers,JP Inglis,NR Hobson,SA Abbott,1,0,,,,,,"",""
+ball,1,4.3,Perth Scorchers,NR Hobson,JP Inglis,SA Abbott,1,0,,,,,,"",""
+ball,1,4.4,Perth Scorchers,JP Inglis,NR Hobson,SA Abbott,0,0,,,,,,"",""
+ball,1,4.5,Perth Scorchers,JP Inglis,NR Hobson,SA Abbott,2,0,,,,,,"",""
+ball,1,4.6,Perth Scorchers,JP Inglis,NR Hobson,SA Abbott,1,0,,,,,,"",""
+ball,1,5.1,Perth Scorchers,JP Inglis,NR Hobson,JM Bird,1,0,,,,,,"",""
+ball,1,5.2,Perth Scorchers,NR Hobson,JP Inglis,JM Bird,0,0,,,,,,"",""
+ball,1,5.3,Perth Scorchers,NR Hobson,JP Inglis,JM Bird,0,0,,,,,,bowled,NR Hobson
+ball,1,5.4,Perth Scorchers,AJ Turner,JP Inglis,JM Bird,2,0,,,,,,"",""
+ball,1,5.5,Perth Scorchers,AJ Turner,JP Inglis,JM Bird,0,0,,,,,,caught,AJ Turner
+ball,1,5.6,Perth Scorchers,AM Hardie,JP Inglis,JM Bird,1,0,,,,,,"",""
+ball,1,6.1,Perth Scorchers,AM Hardie,JP Inglis,Izharulhaq Naveed,4,0,,,,,,"",""
+ball,1,6.2,Perth Scorchers,AM Hardie,JP Inglis,Izharulhaq Naveed,1,0,,,,,,"",""
+ball,1,6.3,Perth Scorchers,JP Inglis,AM Hardie,Izharulhaq Naveed,4,0,,,,,,"",""
+ball,1,6.4,Perth Scorchers,JP Inglis,AM Hardie,Izharulhaq Naveed,0,0,,,,,,"",""
+ball,1,6.5,Perth Scorchers,JP Inglis,AM Hardie,Izharulhaq Naveed,0,0,,,,,,bowled,JP Inglis
+ball,1,6.6,Perth Scorchers,AC Agar,AM Hardie,Izharulhaq Naveed,0,0,,,,,,"",""
+ball,1,7.1,Perth Scorchers,AM Hardie,AC Agar,JM Bird,0,0,,,,,,"",""
+ball,1,7.2,Perth Scorchers,AM Hardie,AC Agar,JM Bird,0,0,,,,,,"",""
+ball,1,7.3,Perth Scorchers,AM Hardie,AC Agar,JM Bird,0,0,,,,,,"",""
+ball,1,7.4,Perth Scorchers,AM Hardie,AC Agar,JM Bird,1,0,,,,,,"",""
+ball,1,7.5,Perth Scorchers,AC Agar,AM Hardie,JM Bird,1,0,,,,,,"",""
+ball,1,7.6,Perth Scorchers,AM Hardie,AC Agar,JM Bird,0,0,,,,,,"",""
+ball,1,8.1,Perth Scorchers,AC Agar,AM Hardie,Izharulhaq Naveed,1,0,,,,,,"",""
+ball,1,8.2,Perth Scorchers,AM Hardie,AC Agar,Izharulhaq Naveed,1,0,,,,,,"",""
+ball,1,8.3,Perth Scorchers,AC Agar,AM Hardie,Izharulhaq Naveed,1,0,,,,,,"",""
+ball,1,8.4,Perth Scorchers,AM Hardie,AC Agar,Izharulhaq Naveed,1,0,,,,,,"",""
+ball,1,8.5,Perth Scorchers,AC Agar,AM Hardie,Izharulhaq Naveed,2,0,,,,,,"",""
+ball,1,8.6,Perth Scorchers,AC Agar,AM Hardie,Izharulhaq Naveed,0,0,,,,,,"",""
+ball,1,9.1,Perth Scorchers,AM Hardie,AC Agar,H Kerr,4,0,,,,,,"",""
+ball,1,9.2,Perth Scorchers,AM Hardie,AC Agar,H Kerr,1,0,,,,,,"",""
+ball,1,9.3,Perth Scorchers,AC Agar,AM Hardie,H Kerr,1,0,,,,,,"",""
+ball,1,9.4,Perth Scorchers,AM Hardie,AC Agar,H Kerr,0,0,,,,,,"",""
+ball,1,9.5,Perth Scorchers,AM Hardie,AC Agar,H Kerr,1,0,,,,,,"",""
+ball,1,9.6,Perth Scorchers,AC Agar,AM Hardie,H Kerr,1,0,,,,,,"",""
+ball,1,10.1,Perth Scorchers,AC Agar,AM Hardie,Izharulhaq Naveed,1,0,,,,,,"",""
+ball,1,10.2,Perth Scorchers,AM Hardie,AC Agar,Izharulhaq Naveed,0,0,,,,,,"",""
+ball,1,10.3,Perth Scorchers,AM Hardie,AC Agar,Izharulhaq Naveed,2,0,,,,,,"",""
+ball,1,10.4,Perth Scorchers,AM Hardie,AC Agar,Izharulhaq Naveed,0,0,,,,,,"",""
+ball,1,10.5,Perth Scorchers,AM Hardie,AC Agar,Izharulhaq Naveed,1,0,,,,,,"",""
+ball,1,10.6,Perth Scorchers,AC Agar,AM Hardie,Izharulhaq Naveed,1,0,,,,,,"",""
+ball,1,11.1,Perth Scorchers,AC Agar,AM Hardie,SA Abbott,0,0,,,,,,"",""
+ball,1,11.2,Perth Scorchers,AC Agar,AM Hardie,SA Abbott,1,0,,,,,,"",""
+ball,1,11.3,Perth Scorchers,AM Hardie,AC Agar,SA Abbott,1,0,,,,,,"",""
+ball,1,11.4,Perth Scorchers,AC Agar,AM Hardie,SA Abbott,1,0,,,,,,"",""
+ball,1,11.5,Perth Scorchers,AM Hardie,AC Agar,SA Abbott,0,0,,,,,,"",""
+ball,1,11.6,Perth Scorchers,AM Hardie,AC Agar,SA Abbott,0,0,,,,,,"",""
+ball,1,12.1,Perth Scorchers,AC Agar,AM Hardie,Naveen-ul-Haq,1,0,,,,,,"",""
+ball,1,12.2,Perth Scorchers,AM Hardie,AC Agar,Naveen-ul-Haq,2,0,,,,,,"",""
+ball,1,12.3,Perth Scorchers,AM Hardie,AC Agar,Naveen-ul-Haq,6,0,,,,,,"",""
+ball,1,12.4,Perth Scorchers,AM Hardie,AC Agar,Naveen-ul-Haq,4,0,,,,,,"",""
+ball,1,12.5,Perth Scorchers,AM Hardie,AC Agar,Naveen-ul-Haq,4,0,,,,,,"",""
+ball,1,12.6,Perth Scorchers,AM Hardie,AC Agar,Naveen-ul-Haq,1,0,,,,,,"",""
+ball,1,13.1,Perth Scorchers,AM Hardie,AC Agar,SA Abbott,6,0,,,,,,"",""
+ball,1,13.2,Perth Scorchers,AM Hardie,AC Agar,SA Abbott,1,0,,,,,,"",""
+ball,1,13.3,Perth Scorchers,AC Agar,AM Hardie,SA Abbott,6,0,,,,,,"",""
+ball,1,13.4,Perth Scorchers,AC Agar,AM Hardie,SA Abbott,0,1,1,,,,,"",""
+ball,1,13.5,Perth Scorchers,AC Agar,AM Hardie,SA Abbott,1,0,,,,,,"",""
+ball,1,13.6,Perth Scorchers,AM Hardie,AC Agar,SA Abbott,4,1,,1,,,,"",""
+ball,1,13.7,Perth Scorchers,AM Hardie,AC Agar,SA Abbott,6,0,,,,,,"",""
+ball,1,13.8,Perth Scorchers,AM Hardie,AC Agar,SA Abbott,2,0,,,,,,"",""
+ball,1,14.1,Perth Scorchers,AC Agar,AM Hardie,Izharulhaq Naveed,0,0,,,,,,"",""
+ball,1,14.2,Perth Scorchers,AC Agar,AM Hardie,Izharulhaq Naveed,0,0,,,,,,"",""
+ball,1,14.3,Perth Scorchers,AC Agar,AM Hardie,Izharulhaq Naveed,1,0,,,,,,"",""
+ball,1,14.4,Perth Scorchers,AM Hardie,AC Agar,Izharulhaq Naveed,0,0,,,,,,caught,AM Hardie
+ball,1,14.5,Perth Scorchers,JA Richardson,AC Agar,Izharulhaq Naveed,1,0,,,,,,"",""
+ball,1,14.6,Perth Scorchers,AC Agar,JA Richardson,Izharulhaq Naveed,0,0,,,,,,"",""
+ball,1,15.1,Perth Scorchers,JA Richardson,AC Agar,DT Christian,4,0,,,,,,"",""
+ball,1,15.2,Perth Scorchers,JA Richardson,AC Agar,DT Christian,1,0,,,,,,"",""
+ball,1,15.3,Perth Scorchers,AC Agar,JA Richardson,DT Christian,1,0,,,,,,"",""
+ball,1,15.4,Perth Scorchers,JA Richardson,AC Agar,DT Christian,0,0,,,,,,"",""
+ball,1,15.5,Perth Scorchers,JA Richardson,AC Agar,DT Christian,0,0,,,,,,caught,JA Richardson
+ball,1,15.6,Perth Scorchers,M Kelly,AC Agar,DT Christian,0,0,,,,,,"",""
+ball,1,16.1,Perth Scorchers,AC Agar,M Kelly,H Kerr,2,0,,,,,,"",""
+ball,1,16.2,Perth Scorchers,AC Agar,M Kelly,H Kerr,1,0,,,,,,"",""
+ball,1,16.3,Perth Scorchers,M Kelly,AC Agar,H Kerr,0,0,,,,,,"",""
+ball,1,16.4,Perth Scorchers,M Kelly,AC Agar,H Kerr,0,0,,,,,,"",""
+ball,1,16.5,Perth Scorchers,M Kelly,AC Agar,H Kerr,1,0,,,,,,"",""
+ball,1,16.6,Perth Scorchers,AC Agar,M Kelly,H Kerr,0,0,,,,,,caught,AC Agar
+ball,1,17.1,Perth Scorchers,M Kelly,AJ Tye,SA Abbott,1,0,,,,,,"",""
+ball,1,17.2,Perth Scorchers,AJ Tye,M Kelly,SA Abbott,2,0,,,,,,"",""
+ball,1,17.3,Perth Scorchers,AJ Tye,M Kelly,SA Abbott,0,1,,,,1,,"",""
+ball,1,17.4,Perth Scorchers,M Kelly,AJ Tye,SA Abbott,1,0,,,,,,"",""
+ball,1,17.5,Perth Scorchers,AJ Tye,M Kelly,SA Abbott,4,0,,,,,,"",""
+ball,1,17.6,Perth Scorchers,AJ Tye,M Kelly,SA Abbott,0,0,,,,,,caught,AJ Tye
+ball,1,18.1,Perth Scorchers,M Kelly,JP Behrendorff,Naveen-ul-Haq,0,0,,,,,,"",""
+ball,1,18.2,Perth Scorchers,M Kelly,JP Behrendorff,Naveen-ul-Haq,0,0,,,,,,"",""
+ball,1,18.3,Perth Scorchers,M Kelly,JP Behrendorff,Naveen-ul-Haq,2,0,,,,,,"",""
+ball,1,18.4,Perth Scorchers,M Kelly,JP Behrendorff,Naveen-ul-Haq,1,0,,,,,,"",""
+ball,1,18.5,Perth Scorchers,JP Behrendorff,M Kelly,Naveen-ul-Haq,1,0,,,,,,"",""
+ball,1,18.6,Perth Scorchers,M Kelly,JP Behrendorff,Naveen-ul-Haq,1,0,,,,,,"",""
+ball,1,19.1,Perth Scorchers,M Kelly,JP Behrendorff,H Kerr,3,0,,,,,,"",""
+ball,1,19.2,Perth Scorchers,JP Behrendorff,M Kelly,H Kerr,1,0,,,,,,"",""
+ball,1,19.3,Perth Scorchers,M Kelly,JP Behrendorff,H Kerr,1,0,,,,,,"",""
+ball,1,19.4,Perth Scorchers,JP Behrendorff,M Kelly,H Kerr,2,0,,,,,,"",""
+ball,1,19.5,Perth Scorchers,JP Behrendorff,M Kelly,H Kerr,1,0,,,,,,"",""
+ball,1,19.6,Perth Scorchers,M Kelly,JP Behrendorff,H Kerr,2,0,,,,,,"",""
+ball,2,0.1,Sydney Sixers,KR Patterson,JR Philippe,JP Behrendorff,0,0,,,,,,"",""
+ball,2,0.2,Sydney Sixers,KR Patterson,JR Philippe,JP Behrendorff,1,0,,,,,,"",""
+ball,2,0.3,Sydney Sixers,JR Philippe,KR Patterson,JP Behrendorff,0,0,,,,,,"",""
+ball,2,0.4,Sydney Sixers,JR Philippe,KR Patterson,JP Behrendorff,0,0,,,,,,"",""
+ball,2,0.5,Sydney Sixers,JR Philippe,KR Patterson,JP Behrendorff,0,0,,,,,,"",""
+ball,2,0.6,Sydney Sixers,JR Philippe,KR Patterson,JP Behrendorff,1,0,,,,,,"",""
+ball,2,1.1,Sydney Sixers,JR Philippe,KR Patterson,JA Richardson,1,0,,,,,,"",""
+ball,2,1.2,Sydney Sixers,KR Patterson,JR Philippe,JA Richardson,0,0,,,,,,"",""
+ball,2,1.3,Sydney Sixers,KR Patterson,JR Philippe,JA Richardson,2,0,,,,,,"",""
+ball,2,1.4,Sydney Sixers,KR Patterson,JR Philippe,JA Richardson,0,0,,,,,,caught,KR Patterson
+ball,2,1.5,Sydney Sixers,JM Vince,JR Philippe,JA Richardson,0,0,,,,,,"",""
+ball,2,1.6,Sydney Sixers,JM Vince,JR Philippe,JA Richardson,0,0,,,,,,"",""
+ball,2,2.1,Sydney Sixers,JR Philippe,JM Vince,JP Behrendorff,4,0,,,,,,"",""
+ball,2,2.2,Sydney Sixers,JR Philippe,JM Vince,JP Behrendorff,0,0,,,,,,caught,JR Philippe
+ball,2,2.3,Sydney Sixers,MC Henriques,JM Vince,JP Behrendorff,0,0,,,,,,caught,MC Henriques
+ball,2,2.4,Sydney Sixers,JC Silk,JM Vince,JP Behrendorff,4,0,,,,,,"",""
+ball,2,2.5,Sydney Sixers,JC Silk,JM Vince,JP Behrendorff,0,0,,,,,,"",""
+ball,2,2.6,Sydney Sixers,JC Silk,JM Vince,JP Behrendorff,0,0,,,,,,"",""
+ball,2,3.1,Sydney Sixers,JM Vince,JC Silk,JA Richardson,0,0,,,,,,"",""
+ball,2,3.2,Sydney Sixers,JM Vince,JC Silk,JA Richardson,0,0,,,,,,"",""
+ball,2,3.3,Sydney Sixers,JM Vince,JC Silk,JA Richardson,0,0,,,,,,"",""
+ball,2,3.4,Sydney Sixers,JM Vince,JC Silk,JA Richardson,0,0,,,,,,"",""
+ball,2,3.5,Sydney Sixers,JM Vince,JC Silk,JA Richardson,0,0,,,,,,"",""
+ball,2,3.6,Sydney Sixers,JM Vince,JC Silk,JA Richardson,0,0,,,,,,"",""
+ball,2,4.1,Sydney Sixers,JC Silk,JM Vince,JP Behrendorff,0,0,,,,,,"",""
+ball,2,4.2,Sydney Sixers,JC Silk,JM Vince,JP Behrendorff,0,0,,,,,,"",""
+ball,2,4.3,Sydney Sixers,JC Silk,JM Vince,JP Behrendorff,0,0,,,,,,"",""
+ball,2,4.4,Sydney Sixers,JC Silk,JM Vince,JP Behrendorff,4,0,,,,,,"",""
+ball,2,4.5,Sydney Sixers,JC Silk,JM Vince,JP Behrendorff,1,0,,,,,,"",""
+ball,2,4.6,Sydney Sixers,JM Vince,JC Silk,JP Behrendorff,1,0,,,,,,"",""
+ball,2,5.1,Sydney Sixers,JM Vince,JC Silk,M Kelly,0,0,,,,,,"",""
+ball,2,5.2,Sydney Sixers,JM Vince,JC Silk,M Kelly,0,0,,,,,,"",""
+ball,2,5.3,Sydney Sixers,JM Vince,JC Silk,M Kelly,1,0,,,,,,"",""
+ball,2,5.4,Sydney Sixers,JC Silk,JM Vince,M Kelly,0,0,,,,,,"",""
+ball,2,5.5,Sydney Sixers,JC Silk,JM Vince,M Kelly,1,0,,,,,,"",""
+ball,2,5.6,Sydney Sixers,JM Vince,JC Silk,M Kelly,1,0,,,,,,"",""
+ball,2,6.1,Sydney Sixers,JM Vince,JC Silk,AJ Tye,0,0,,,,,,"",""
+ball,2,6.2,Sydney Sixers,JM Vince,JC Silk,AJ Tye,2,0,,,,,,"",""
+ball,2,6.3,Sydney Sixers,JM Vince,JC Silk,AJ Tye,4,0,,,,,,"",""
+ball,2,6.4,Sydney Sixers,JM Vince,JC Silk,AJ Tye,0,0,,,,,,caught,JM Vince
+ball,2,6.5,Sydney Sixers,DT Christian,JC Silk,AJ Tye,0,0,,,,,,"",""
+ball,2,6.6,Sydney Sixers,DT Christian,JC Silk,AJ Tye,0,1,,,,1,,"",""
+ball,2,7.1,Sydney Sixers,DT Christian,JC Silk,AC Agar,1,0,,,,,,"",""
+ball,2,7.2,Sydney Sixers,JC Silk,DT Christian,AC Agar,1,0,,,,,,"",""
+ball,2,7.3,Sydney Sixers,DT Christian,JC Silk,AC Agar,0,0,,,,,,caught,DT Christian
+ball,2,7.4,Sydney Sixers,H Kerr,JC Silk,AC Agar,1,0,,,,,,"",""
+ball,2,7.5,Sydney Sixers,JC Silk,H Kerr,AC Agar,0,0,,,,,,"",""
+ball,2,7.6,Sydney Sixers,JC Silk,H Kerr,AC Agar,0,0,,,,,,"",""
+ball,2,8.1,Sydney Sixers,H Kerr,JC Silk,AJ Tye,0,0,,,,,,"",""
+ball,2,8.2,Sydney Sixers,H Kerr,JC Silk,AJ Tye,0,0,,,,,,"",""
+ball,2,8.3,Sydney Sixers,H Kerr,JC Silk,AJ Tye,3,0,,,,,,"",""
+ball,2,8.4,Sydney Sixers,JC Silk,H Kerr,AJ Tye,0,0,,,,,,"",""
+ball,2,8.5,Sydney Sixers,JC Silk,H Kerr,AJ Tye,6,0,,,,,,"",""
+ball,2,8.6,Sydney Sixers,JC Silk,H Kerr,AJ Tye,0,0,,,,,,"",""
+ball,2,9.1,Sydney Sixers,H Kerr,JC Silk,AC Agar,0,0,,,,,,"",""
+ball,2,9.2,Sydney Sixers,H Kerr,JC Silk,AC Agar,2,0,,,,,,"",""
+ball,2,9.3,Sydney Sixers,H Kerr,JC Silk,AC Agar,1,0,,,,,,"",""
+ball,2,9.4,Sydney Sixers,JC Silk,H Kerr,AC Agar,0,0,,,,,,"",""
+ball,2,9.5,Sydney Sixers,JC Silk,H Kerr,AC Agar,0,1,,,,1,,"",""
+ball,2,9.6,Sydney Sixers,H Kerr,JC Silk,AC Agar,1,0,,,,,,"",""
+ball,2,10.1,Sydney Sixers,H Kerr,JC Silk,M Kelly,1,0,,,,,,"",""
+ball,2,10.2,Sydney Sixers,JC Silk,H Kerr,M Kelly,0,0,,,,,,"",""
+ball,2,10.3,Sydney Sixers,JC Silk,H Kerr,M Kelly,1,0,,,,,,"",""
+ball,2,10.4,Sydney Sixers,H Kerr,JC Silk,M Kelly,4,0,,,,,,"",""
+ball,2,10.5,Sydney Sixers,H Kerr,JC Silk,M Kelly,0,0,,,,,,"",""
+ball,2,10.6,Sydney Sixers,H Kerr,JC Silk,M Kelly,1,0,,,,,,"",""
+ball,2,11.1,Sydney Sixers,H Kerr,JC Silk,AC Agar,6,0,,,,,,"",""
+ball,2,11.2,Sydney Sixers,H Kerr,JC Silk,AC Agar,2,0,,,,,,"",""
+ball,2,11.3,Sydney Sixers,H Kerr,JC Silk,AC Agar,0,0,,,,,,"",""
+ball,2,11.4,Sydney Sixers,H Kerr,JC Silk,AC Agar,1,0,,,,,,"",""
+ball,2,11.5,Sydney Sixers,JC Silk,H Kerr,AC Agar,0,1,1,,,,,"",""
+ball,2,11.6,Sydney Sixers,JC Silk,H Kerr,AC Agar,1,0,,,,,,"",""
+ball,2,11.7,Sydney Sixers,H Kerr,JC Silk,AC Agar,0,0,,,,,,"",""
+ball,2,12.1,Sydney Sixers,JC Silk,H Kerr,JP Behrendorff,1,0,,,,,,"",""
+ball,2,12.2,Sydney Sixers,H Kerr,JC Silk,JP Behrendorff,0,0,,,,,,"",""
+ball,2,12.3,Sydney Sixers,H Kerr,JC Silk,JP Behrendorff,0,0,,,,,,"",""
+ball,2,12.4,Sydney Sixers,H Kerr,JC Silk,JP Behrendorff,0,0,,,,,,"",""
+ball,2,12.5,Sydney Sixers,H Kerr,JC Silk,JP Behrendorff,1,0,,,,,,"",""
+ball,2,12.6,Sydney Sixers,JC Silk,H Kerr,JP Behrendorff,4,0,,,,,,"",""
+ball,2,13.1,Sydney Sixers,H Kerr,JC Silk,AC Agar,0,0,,,,,,"",""
+ball,2,13.2,Sydney Sixers,H Kerr,JC Silk,AC Agar,6,0,,,,,,"",""
+ball,2,13.3,Sydney Sixers,H Kerr,JC Silk,AC Agar,1,0,,,,,,"",""
+ball,2,13.4,Sydney Sixers,JC Silk,H Kerr,AC Agar,1,0,,,,,,"",""
+ball,2,13.5,Sydney Sixers,H Kerr,JC Silk,AC Agar,0,0,,,,,,"",""
+ball,2,13.6,Sydney Sixers,H Kerr,JC Silk,AC Agar,1,0,,,,,,"",""
+ball,2,14.1,Sydney Sixers,H Kerr,JC Silk,AJ Tye,6,0,,,,,,"",""
+ball,2,14.2,Sydney Sixers,H Kerr,JC Silk,AJ Tye,0,0,,,,,,"",""
+ball,2,14.3,Sydney Sixers,H Kerr,JC Silk,AJ Tye,0,0,,,,,,"",""
+ball,2,14.4,Sydney Sixers,H Kerr,JC Silk,AJ Tye,1,0,,,,,,"",""
+ball,2,14.5,Sydney Sixers,JC Silk,H Kerr,AJ Tye,1,0,,,,,,"",""
+ball,2,14.6,Sydney Sixers,H Kerr,JC Silk,AJ Tye,1,0,,,,,,"",""
+ball,2,15.1,Sydney Sixers,H Kerr,JC Silk,M Kelly,0,0,,,,,,"",""
+ball,2,15.2,Sydney Sixers,H Kerr,JC Silk,M Kelly,1,1,,1,,,,"",""
+ball,2,15.3,Sydney Sixers,JC Silk,H Kerr,M Kelly,6,0,,,,,,"",""
+ball,2,15.4,Sydney Sixers,JC Silk,H Kerr,M Kelly,4,0,,,,,,"",""
+ball,2,15.5,Sydney Sixers,JC Silk,H Kerr,M Kelly,4,0,,,,,,"",""
+ball,2,15.6,Sydney Sixers,JC Silk,H Kerr,M Kelly,1,0,,,,,,"",""
+ball,2,15.7,Sydney Sixers,H Kerr,JC Silk,M Kelly,1,0,,,,,,"",""
+ball,2,16.1,Sydney Sixers,H Kerr,JC Silk,JA Richardson,0,0,,,,,,caught,H Kerr
+ball,2,16.2,Sydney Sixers,SA Abbott,JC Silk,JA Richardson,0,0,,,,,,"",""
+ball,2,16.3,Sydney Sixers,SA Abbott,JC Silk,JA Richardson,0,0,,,,,,"",""
+ball,2,16.4,Sydney Sixers,SA Abbott,JC Silk,JA Richardson,3,0,,,,,,"",""
+ball,2,16.5,Sydney Sixers,JC Silk,SA Abbott,JA Richardson,0,0,,,,,,"",""
+ball,2,16.6,Sydney Sixers,JC Silk,SA Abbott,JA Richardson,0,0,,,,,,"",""
+ball,2,17.1,Sydney Sixers,SA Abbott,JC Silk,M Kelly,0,0,,,,,,"",""
+ball,2,17.2,Sydney Sixers,SA Abbott,JC Silk,M Kelly,1,0,,,,,,"",""
+ball,2,17.3,Sydney Sixers,JC Silk,SA Abbott,M Kelly,0,0,,,,,,caught,JC Silk
+ball,2,17.4,Sydney Sixers,JM Bird,SA Abbott,M Kelly,0,0,,,,,,"",""
+ball,2,17.5,Sydney Sixers,JM Bird,SA Abbott,M Kelly,1,0,,,,,,"",""
+ball,2,17.6,Sydney Sixers,SA Abbott,JM Bird,M Kelly,1,0,,,,,,"",""
+ball,2,18.1,Sydney Sixers,SA Abbott,JM Bird,JA Richardson,1,0,,,,,,"",""
+ball,2,18.2,Sydney Sixers,JM Bird,SA Abbott,JA Richardson,0,0,,,,,,"",""
+ball,2,18.3,Sydney Sixers,JM Bird,SA Abbott,JA Richardson,1,0,,,,,,"",""
+ball,2,18.4,Sydney Sixers,SA Abbott,JM Bird,JA Richardson,0,0,,,,,,bowled,SA Abbott
+ball,2,18.5,Sydney Sixers,Naveen-ul-Haq,JM Bird,JA Richardson,1,0,,,,,,"",""
+ball,2,18.6,Sydney Sixers,JM Bird,Naveen-ul-Haq,JA Richardson,0,0,,,,,,bowled,JM Bird
+ball,2,19.1,Sydney Sixers,Naveen-ul-Haq,Izharulhaq Naveed,AJ Tye,0,0,,,,,,"",""
+ball,2,19.2,Sydney Sixers,Naveen-ul-Haq,Izharulhaq Naveed,AJ Tye,0,0,,,,,,"",""
+ball,2,19.3,Sydney Sixers,Naveen-ul-Haq,Izharulhaq Naveed,AJ Tye,1,0,,,,,,"",""
+ball,2,19.4,Sydney Sixers,Izharulhaq Naveed,Naveen-ul-Haq,AJ Tye,1,0,,,,,,"",""
+ball,2,19.5,Sydney Sixers,Naveen-ul-Haq,Izharulhaq Naveed,AJ Tye,0,0,,,,,,"",""
+ball,2,19.6,Sydney Sixers,Naveen-ul-Haq,Izharulhaq Naveed,AJ Tye,0,0,,,,,,caught,Naveen-ul-Haq

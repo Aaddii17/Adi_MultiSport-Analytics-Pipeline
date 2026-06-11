@@ -1,0 +1,306 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Adelaide Strikers
+info,team,Melbourne Renegades
+info,gender,male
+info,season,2021/22
+info,date,2021/12/09
+info,event,Big Bash League
+info,match_number,6
+info,venue,Adelaide Oval
+info,city,Adelaide
+info,toss_winner,Adelaide Strikers
+info,toss_decision,bat
+info,player_of_match,WA Agar
+info,umpire,BC Treloar
+info,umpire,MW Graham-Smith
+info,reserve_umpire,Eloise Sheridan
+info,tv_umpire,PJ Gillespie
+info,match_referee,SJ Davis
+info,winner,Adelaide Strikers
+info,winner_runs,49
+info,player,Adelaide Strikers,MW Short
+info,player,Adelaide Strikers,J Weatherald
+info,player,Adelaide Strikers,HJ Nielsen
+info,player,Adelaide Strikers,JW Wells
+info,player,Adelaide Strikers,DR Drew
+info,player,Adelaide Strikers,L Scott
+info,player,Adelaide Strikers,Rashid Khan
+info,player,Adelaide Strikers,GHS Garton
+info,player,Adelaide Strikers,DJ Worrall
+info,player,Adelaide Strikers,WA Agar
+info,player,Adelaide Strikers,PM Siddle
+info,player,Melbourne Renegades,SB Harper
+info,player,Melbourne Renegades,MW Harvey
+info,player,Melbourne Renegades,J Seymour
+info,player,Melbourne Renegades,Mohammad Nabi
+info,player,Melbourne Renegades,J Merlo
+info,player,Melbourne Renegades,J Fraser-McGurk
+info,player,Melbourne Renegades,W Sutherland
+info,player,Melbourne Renegades,JL Pattinson
+info,player,Melbourne Renegades,KW Richardson
+info,player,Melbourne Renegades,RJW Topley
+info,player,Melbourne Renegades,Zahir Khan
+info,registry,people,BC Treloar,f7e8ee52
+info,registry,people,DJ Worrall,208f22ea
+info,registry,people,DR Drew,88684a42
+info,registry,people,Eloise Sheridan,d8d43840
+info,registry,people,GHS Garton,be869ccf
+info,registry,people,HJ Nielsen,0ea1455a
+info,registry,people,J Fraser-McGurk,9b6e1b3f
+info,registry,people,J Merlo,02ba80a0
+info,registry,people,J Seymour,cb54a1d6
+info,registry,people,J Weatherald,edc7ddb6
+info,registry,people,JL Pattinson,f752db61
+info,registry,people,JW Wells,8bdac857
+info,registry,people,KW Richardson,dfc4d8b5
+info,registry,people,L Scott,0ebb3444
+info,registry,people,MW Graham-Smith,18aca3ce
+info,registry,people,MW Harvey,47dc9794
+info,registry,people,MW Short,a90e53ec
+info,registry,people,Mohammad Nabi,62af8546
+info,registry,people,PJ Gillespie,3e253a50
+info,registry,people,PM Siddle,bd93fea4
+info,registry,people,RJW Topley,8db7f47f
+info,registry,people,Rashid Khan,5f547c8b
+info,registry,people,SB Harper,a756e61a
+info,registry,people,SJ Davis,bc71b0b2
+info,registry,people,W Sutherland,bc2d4f2e
+info,registry,people,WA Agar,15de1f5d
+info,registry,people,Zahir Khan,786b7fe8
+ball,1,0.1,Adelaide Strikers,MW Short,J Weatherald,RJW Topley,1,0,,,,,,"",""
+ball,1,0.2,Adelaide Strikers,J Weatherald,MW Short,RJW Topley,0,0,,,,,,"",""
+ball,1,0.3,Adelaide Strikers,J Weatherald,MW Short,RJW Topley,0,0,,,,,,"",""
+ball,1,0.4,Adelaide Strikers,J Weatherald,MW Short,RJW Topley,2,0,,,,,,"",""
+ball,1,0.5,Adelaide Strikers,J Weatherald,MW Short,RJW Topley,4,0,,,,,,"",""
+ball,1,0.6,Adelaide Strikers,J Weatherald,MW Short,RJW Topley,0,0,,,,,,"",""
+ball,1,1.1,Adelaide Strikers,MW Short,J Weatherald,JL Pattinson,1,0,,,,,,"",""
+ball,1,1.2,Adelaide Strikers,J Weatherald,MW Short,JL Pattinson,1,0,,,,,,"",""
+ball,1,1.3,Adelaide Strikers,MW Short,J Weatherald,JL Pattinson,0,0,,,,,,"",""
+ball,1,1.4,Adelaide Strikers,MW Short,J Weatherald,JL Pattinson,6,0,,,,,,"",""
+ball,1,1.5,Adelaide Strikers,MW Short,J Weatherald,JL Pattinson,1,0,,,,,,"",""
+ball,1,1.6,Adelaide Strikers,J Weatherald,MW Short,JL Pattinson,4,0,,,,,,"",""
+ball,1,2.1,Adelaide Strikers,MW Short,J Weatherald,Zahir Khan,0,0,,,,,,"",""
+ball,1,2.2,Adelaide Strikers,MW Short,J Weatherald,Zahir Khan,0,0,,,,,,"",""
+ball,1,2.3,Adelaide Strikers,MW Short,J Weatherald,Zahir Khan,6,0,,,,,,"",""
+ball,1,2.4,Adelaide Strikers,MW Short,J Weatherald,Zahir Khan,0,1,1,,,,,"",""
+ball,1,2.5,Adelaide Strikers,MW Short,J Weatherald,Zahir Khan,6,0,,,,,,"",""
+ball,1,2.6,Adelaide Strikers,MW Short,J Weatherald,Zahir Khan,1,0,,,,,,"",""
+ball,1,2.7,Adelaide Strikers,J Weatherald,MW Short,Zahir Khan,0,0,,,,,,bowled,J Weatherald
+ball,1,3.1,Adelaide Strikers,MW Short,HJ Nielsen,KW Richardson,2,0,,,,,,"",""
+ball,1,3.2,Adelaide Strikers,MW Short,HJ Nielsen,KW Richardson,4,0,,,,,,"",""
+ball,1,3.3,Adelaide Strikers,MW Short,HJ Nielsen,KW Richardson,1,0,,,,,,"",""
+ball,1,3.4,Adelaide Strikers,HJ Nielsen,MW Short,KW Richardson,1,0,,,,,,"",""
+ball,1,3.5,Adelaide Strikers,MW Short,HJ Nielsen,KW Richardson,0,1,1,,,,,"",""
+ball,1,3.6,Adelaide Strikers,MW Short,HJ Nielsen,KW Richardson,1,0,,,,,,"",""
+ball,1,3.7,Adelaide Strikers,HJ Nielsen,MW Short,KW Richardson,4,0,,,,,,"",""
+ball,1,4.1,Adelaide Strikers,MW Short,HJ Nielsen,Zahir Khan,0,0,,,,,,"",""
+ball,1,4.2,Adelaide Strikers,MW Short,HJ Nielsen,Zahir Khan,2,0,,,,,,"",""
+ball,1,4.3,Adelaide Strikers,MW Short,HJ Nielsen,Zahir Khan,0,0,,,,,,caught,MW Short
+ball,1,4.4,Adelaide Strikers,JW Wells,HJ Nielsen,Zahir Khan,1,0,,,,,,"",""
+ball,1,4.5,Adelaide Strikers,HJ Nielsen,JW Wells,Zahir Khan,3,0,,,,,,"",""
+ball,1,4.6,Adelaide Strikers,JW Wells,HJ Nielsen,Zahir Khan,0,0,,,,,,"",""
+ball,1,5.1,Adelaide Strikers,HJ Nielsen,JW Wells,Mohammad Nabi,1,0,,,,,,"",""
+ball,1,5.2,Adelaide Strikers,JW Wells,HJ Nielsen,Mohammad Nabi,1,0,,,,,,"",""
+ball,1,5.3,Adelaide Strikers,HJ Nielsen,JW Wells,Mohammad Nabi,1,0,,,,,,"",""
+ball,1,5.4,Adelaide Strikers,JW Wells,HJ Nielsen,Mohammad Nabi,0,0,,,,,,"",""
+ball,1,5.5,Adelaide Strikers,JW Wells,HJ Nielsen,Mohammad Nabi,1,0,,,,,,"",""
+ball,1,5.6,Adelaide Strikers,HJ Nielsen,JW Wells,Mohammad Nabi,1,0,,,,,,"",""
+ball,1,6.1,Adelaide Strikers,HJ Nielsen,JW Wells,W Sutherland,0,0,,,,,,"",""
+ball,1,6.2,Adelaide Strikers,HJ Nielsen,JW Wells,W Sutherland,1,0,,,,,,"",""
+ball,1,6.3,Adelaide Strikers,JW Wells,HJ Nielsen,W Sutherland,0,0,,,,,,"",""
+ball,1,6.4,Adelaide Strikers,JW Wells,HJ Nielsen,W Sutherland,0,0,,,,,,"",""
+ball,1,6.5,Adelaide Strikers,JW Wells,HJ Nielsen,W Sutherland,6,0,,,,,,"",""
+ball,1,6.6,Adelaide Strikers,JW Wells,HJ Nielsen,W Sutherland,1,0,,,,,,"",""
+ball,1,7.1,Adelaide Strikers,JW Wells,HJ Nielsen,Mohammad Nabi,1,0,,,,,,"",""
+ball,1,7.2,Adelaide Strikers,HJ Nielsen,JW Wells,Mohammad Nabi,0,1,,,,1,,"",""
+ball,1,7.3,Adelaide Strikers,JW Wells,HJ Nielsen,Mohammad Nabi,1,0,,,,,,"",""
+ball,1,7.4,Adelaide Strikers,HJ Nielsen,JW Wells,Mohammad Nabi,0,0,,,,,,"",""
+ball,1,7.5,Adelaide Strikers,HJ Nielsen,JW Wells,Mohammad Nabi,1,0,,,,,,"",""
+ball,1,7.6,Adelaide Strikers,JW Wells,HJ Nielsen,Mohammad Nabi,2,0,,,,,,"",""
+ball,1,8.1,Adelaide Strikers,HJ Nielsen,JW Wells,JL Pattinson,0,0,,,,,,"",""
+ball,1,8.2,Adelaide Strikers,HJ Nielsen,JW Wells,JL Pattinson,1,0,,,,,,"",""
+ball,1,8.3,Adelaide Strikers,JW Wells,HJ Nielsen,JL Pattinson,6,0,,,,,,"",""
+ball,1,8.4,Adelaide Strikers,JW Wells,HJ Nielsen,JL Pattinson,1,0,,,,,,"",""
+ball,1,8.5,Adelaide Strikers,HJ Nielsen,JW Wells,JL Pattinson,0,0,,,,,,"",""
+ball,1,8.6,Adelaide Strikers,HJ Nielsen,JW Wells,JL Pattinson,0,0,,,,,,bowled,HJ Nielsen
+ball,1,9.1,Adelaide Strikers,JW Wells,DR Drew,RJW Topley,1,0,,,,,,"",""
+ball,1,9.2,Adelaide Strikers,DR Drew,JW Wells,RJW Topley,0,0,,,,,,"",""
+ball,1,9.3,Adelaide Strikers,DR Drew,JW Wells,RJW Topley,1,0,,,,,,"",""
+ball,1,9.4,Adelaide Strikers,JW Wells,DR Drew,RJW Topley,2,0,,,,,,"",""
+ball,1,9.5,Adelaide Strikers,JW Wells,DR Drew,RJW Topley,0,0,,,,,,"",""
+ball,1,9.6,Adelaide Strikers,JW Wells,DR Drew,RJW Topley,1,0,,,,,,"",""
+ball,1,10.1,Adelaide Strikers,JW Wells,DR Drew,Zahir Khan,1,0,,,,,,"",""
+ball,1,10.2,Adelaide Strikers,DR Drew,JW Wells,Zahir Khan,4,0,,,,,,"",""
+ball,1,10.3,Adelaide Strikers,DR Drew,JW Wells,Zahir Khan,0,1,1,,,,,"",""
+ball,1,10.4,Adelaide Strikers,DR Drew,JW Wells,Zahir Khan,1,0,,,,,,"",""
+ball,1,10.5,Adelaide Strikers,JW Wells,DR Drew,Zahir Khan,1,0,,,,,,"",""
+ball,1,10.6,Adelaide Strikers,DR Drew,JW Wells,Zahir Khan,1,0,,,,,,"",""
+ball,1,10.7,Adelaide Strikers,JW Wells,DR Drew,Zahir Khan,1,0,,,,,,"",""
+ball,1,11.1,Adelaide Strikers,JW Wells,DR Drew,Mohammad Nabi,1,0,,,,,,"",""
+ball,1,11.2,Adelaide Strikers,DR Drew,JW Wells,Mohammad Nabi,1,0,,,,,,"",""
+ball,1,11.3,Adelaide Strikers,JW Wells,DR Drew,Mohammad Nabi,1,0,,,,,,"",""
+ball,1,11.4,Adelaide Strikers,DR Drew,JW Wells,Mohammad Nabi,1,0,,,,,,"",""
+ball,1,11.5,Adelaide Strikers,JW Wells,DR Drew,Mohammad Nabi,1,0,,,,,,"",""
+ball,1,11.6,Adelaide Strikers,DR Drew,JW Wells,Mohammad Nabi,1,0,,,,,,"",""
+ball,1,12.1,Adelaide Strikers,DR Drew,JW Wells,KW Richardson,0,0,,,,,,"",""
+ball,1,12.2,Adelaide Strikers,DR Drew,JW Wells,KW Richardson,0,0,,,,,,"",""
+ball,1,12.3,Adelaide Strikers,DR Drew,JW Wells,KW Richardson,2,0,,,,,,"",""
+ball,1,12.4,Adelaide Strikers,DR Drew,JW Wells,KW Richardson,0,0,,,,,,lbw,DR Drew
+ball,1,12.5,Adelaide Strikers,L Scott,JW Wells,KW Richardson,1,0,,,,,,"",""
+ball,1,12.6,Adelaide Strikers,JW Wells,L Scott,KW Richardson,1,0,,,,,,"",""
+ball,1,13.1,Adelaide Strikers,JW Wells,L Scott,Zahir Khan,2,0,,,,,,"",""
+ball,1,13.2,Adelaide Strikers,JW Wells,L Scott,Zahir Khan,0,0,,,,,,"",""
+ball,1,13.3,Adelaide Strikers,JW Wells,L Scott,Zahir Khan,1,0,,,,,,"",""
+ball,1,13.4,Adelaide Strikers,L Scott,JW Wells,Zahir Khan,0,0,,,,,,"",""
+ball,1,13.5,Adelaide Strikers,L Scott,JW Wells,Zahir Khan,0,0,,,,,,"",""
+ball,1,13.6,Adelaide Strikers,L Scott,JW Wells,Zahir Khan,0,0,,,,,,"",""
+ball,1,14.1,Adelaide Strikers,JW Wells,L Scott,KW Richardson,2,0,,,,,,"",""
+ball,1,14.2,Adelaide Strikers,JW Wells,L Scott,KW Richardson,0,0,,,,,,caught,JW Wells
+ball,1,14.3,Adelaide Strikers,Rashid Khan,L Scott,KW Richardson,0,1,,1,,,,"",""
+ball,1,14.4,Adelaide Strikers,Rashid Khan,L Scott,KW Richardson,4,0,,,,,,"",""
+ball,1,14.5,Adelaide Strikers,Rashid Khan,L Scott,KW Richardson,0,0,,,,,,"",""
+ball,1,14.6,Adelaide Strikers,Rashid Khan,L Scott,KW Richardson,1,0,,,,,,"",""
+ball,1,14.7,Adelaide Strikers,L Scott,Rashid Khan,KW Richardson,0,0,,,,,,"",""
+ball,1,15.1,Adelaide Strikers,Rashid Khan,L Scott,RJW Topley,4,0,,,,,,"",""
+ball,1,15.2,Adelaide Strikers,Rashid Khan,L Scott,RJW Topley,4,0,,,,,,"",""
+ball,1,15.3,Adelaide Strikers,Rashid Khan,L Scott,RJW Topley,0,0,,,,,,caught,Rashid Khan
+ball,1,15.4,Adelaide Strikers,L Scott,GHS Garton,RJW Topley,0,0,,,,,,caught,L Scott
+ball,1,15.5,Adelaide Strikers,GHS Garton,DJ Worrall,RJW Topley,4,0,,,,,,"",""
+ball,1,15.6,Adelaide Strikers,GHS Garton,DJ Worrall,RJW Topley,4,0,,,,,,"",""
+ball,1,16.1,Adelaide Strikers,DJ Worrall,GHS Garton,JL Pattinson,0,0,,,,,,"",""
+ball,1,16.2,Adelaide Strikers,DJ Worrall,GHS Garton,JL Pattinson,1,0,,,,,,"",""
+ball,1,16.3,Adelaide Strikers,GHS Garton,DJ Worrall,JL Pattinson,1,0,,,,,,"",""
+ball,1,16.4,Adelaide Strikers,DJ Worrall,GHS Garton,JL Pattinson,0,1,1,,,,,"",""
+ball,1,16.5,Adelaide Strikers,DJ Worrall,GHS Garton,JL Pattinson,1,0,,,,,,"",""
+ball,1,16.6,Adelaide Strikers,GHS Garton,DJ Worrall,JL Pattinson,1,0,,,,,,"",""
+ball,1,16.7,Adelaide Strikers,DJ Worrall,GHS Garton,JL Pattinson,1,0,,,,,,"",""
+ball,1,17.1,Adelaide Strikers,DJ Worrall,GHS Garton,RJW Topley,0,0,,,,,,"",""
+ball,1,17.2,Adelaide Strikers,DJ Worrall,GHS Garton,RJW Topley,0,0,,,,,,caught,DJ Worrall
+ball,1,17.3,Adelaide Strikers,WA Agar,GHS Garton,RJW Topley,0,0,,,,,,"",""
+ball,1,17.4,Adelaide Strikers,WA Agar,GHS Garton,RJW Topley,1,0,,,,,,"",""
+ball,1,17.5,Adelaide Strikers,GHS Garton,WA Agar,RJW Topley,2,0,,,,,,"",""
+ball,1,17.6,Adelaide Strikers,GHS Garton,WA Agar,RJW Topley,1,0,,,,,,"",""
+ball,1,18.1,Adelaide Strikers,GHS Garton,WA Agar,KW Richardson,2,0,,,,,,"",""
+ball,1,18.2,Adelaide Strikers,GHS Garton,WA Agar,KW Richardson,0,0,,,,,,"",""
+ball,1,18.3,Adelaide Strikers,GHS Garton,WA Agar,KW Richardson,0,0,,,,,,"",""
+ball,1,18.4,Adelaide Strikers,GHS Garton,WA Agar,KW Richardson,4,0,,,,,,"",""
+ball,1,18.5,Adelaide Strikers,GHS Garton,WA Agar,KW Richardson,0,0,,,,,,caught,GHS Garton
+ball,1,18.6,Adelaide Strikers,WA Agar,PM Siddle,KW Richardson,0,0,,,,,,bowled,WA Agar
+ball,2,0.1,Melbourne Renegades,SB Harper,MW Harvey,MW Short,1,0,,,,,,"",""
+ball,2,0.2,Melbourne Renegades,MW Harvey,SB Harper,MW Short,0,0,,,,,,"",""
+ball,2,0.3,Melbourne Renegades,MW Harvey,SB Harper,MW Short,0,0,,,,,,"",""
+ball,2,0.4,Melbourne Renegades,MW Harvey,SB Harper,MW Short,0,1,1,,,,,"",""
+ball,2,0.5,Melbourne Renegades,MW Harvey,SB Harper,MW Short,4,0,,,,,,"",""
+ball,2,0.6,Melbourne Renegades,MW Harvey,SB Harper,MW Short,1,0,,,,,,"",""
+ball,2,0.7,Melbourne Renegades,SB Harper,MW Harvey,MW Short,6,0,,,,,,"",""
+ball,2,1.1,Melbourne Renegades,MW Harvey,SB Harper,DJ Worrall,0,1,1,,,,,"",""
+ball,2,1.2,Melbourne Renegades,MW Harvey,SB Harper,DJ Worrall,1,0,,,,,,"",""
+ball,2,1.3,Melbourne Renegades,SB Harper,MW Harvey,DJ Worrall,0,0,,,,,,"",""
+ball,2,1.4,Melbourne Renegades,SB Harper,MW Harvey,DJ Worrall,4,0,,,,,,"",""
+ball,2,1.5,Melbourne Renegades,SB Harper,MW Harvey,DJ Worrall,0,0,,,,,,"",""
+ball,2,1.6,Melbourne Renegades,SB Harper,MW Harvey,DJ Worrall,0,0,,,,,,"",""
+ball,2,1.7,Melbourne Renegades,SB Harper,MW Harvey,DJ Worrall,0,0,,,,,,"",""
+ball,2,2.1,Melbourne Renegades,MW Harvey,SB Harper,GHS Garton,4,0,,,,,,"",""
+ball,2,2.2,Melbourne Renegades,MW Harvey,SB Harper,GHS Garton,3,0,,,,,,"",""
+ball,2,2.3,Melbourne Renegades,SB Harper,MW Harvey,GHS Garton,0,0,,,,,,"",""
+ball,2,2.4,Melbourne Renegades,SB Harper,MW Harvey,GHS Garton,1,0,,,,,,"",""
+ball,2,2.5,Melbourne Renegades,MW Harvey,SB Harper,GHS Garton,1,0,,,,,,"",""
+ball,2,2.6,Melbourne Renegades,SB Harper,MW Harvey,GHS Garton,1,0,,,,,,"",""
+ball,2,3.1,Melbourne Renegades,SB Harper,MW Harvey,PM Siddle,0,0,,,,,,"",""
+ball,2,3.2,Melbourne Renegades,SB Harper,MW Harvey,PM Siddle,0,0,,,,,,"",""
+ball,2,3.3,Melbourne Renegades,SB Harper,MW Harvey,PM Siddle,1,0,,,,,,"",""
+ball,2,3.4,Melbourne Renegades,MW Harvey,SB Harper,PM Siddle,1,0,,,,,,"",""
+ball,2,3.5,Melbourne Renegades,SB Harper,MW Harvey,PM Siddle,1,0,,,,,,"",""
+ball,2,3.6,Melbourne Renegades,MW Harvey,SB Harper,PM Siddle,4,0,,,,,,"",""
+ball,2,4.1,Melbourne Renegades,SB Harper,MW Harvey,Rashid Khan,0,0,,,,,,"",""
+ball,2,4.2,Melbourne Renegades,SB Harper,MW Harvey,Rashid Khan,2,0,,,,,,"",""
+ball,2,4.3,Melbourne Renegades,SB Harper,MW Harvey,Rashid Khan,1,0,,,,,,"",""
+ball,2,4.4,Melbourne Renegades,MW Harvey,SB Harper,Rashid Khan,0,0,,,,,,"",""
+ball,2,4.5,Melbourne Renegades,MW Harvey,SB Harper,Rashid Khan,0,0,,,,,,run out,MW Harvey
+ball,2,4.6,Melbourne Renegades,J Seymour,SB Harper,Rashid Khan,0,0,,,,,,"",""
+ball,2,5.1,Melbourne Renegades,SB Harper,J Seymour,WA Agar,1,0,,,,,,"",""
+ball,2,5.2,Melbourne Renegades,J Seymour,SB Harper,WA Agar,0,0,,,,,,"",""
+ball,2,5.3,Melbourne Renegades,J Seymour,SB Harper,WA Agar,0,1,,,,1,,"",""
+ball,2,5.4,Melbourne Renegades,SB Harper,J Seymour,WA Agar,1,0,,,,,,"",""
+ball,2,5.5,Melbourne Renegades,J Seymour,SB Harper,WA Agar,6,0,,,,,,"",""
+ball,2,5.6,Melbourne Renegades,J Seymour,SB Harper,WA Agar,0,0,,,,,,"",""
+ball,2,6.1,Melbourne Renegades,SB Harper,J Seymour,MW Short,1,0,,,,,,"",""
+ball,2,6.2,Melbourne Renegades,J Seymour,SB Harper,MW Short,1,0,,,,,,"",""
+ball,2,6.3,Melbourne Renegades,SB Harper,J Seymour,MW Short,1,0,,,,,,"",""
+ball,2,6.4,Melbourne Renegades,J Seymour,SB Harper,MW Short,0,0,,,,,,"",""
+ball,2,6.5,Melbourne Renegades,J Seymour,SB Harper,MW Short,0,0,,,,,,"",""
+ball,2,6.6,Melbourne Renegades,J Seymour,SB Harper,MW Short,1,0,,,,,,"",""
+ball,2,7.1,Melbourne Renegades,J Seymour,SB Harper,DJ Worrall,1,0,,,,,,"",""
+ball,2,7.2,Melbourne Renegades,SB Harper,J Seymour,DJ Worrall,1,0,,,,,,"",""
+ball,2,7.3,Melbourne Renegades,J Seymour,SB Harper,DJ Worrall,1,0,,,,,,"",""
+ball,2,7.4,Melbourne Renegades,SB Harper,J Seymour,DJ Worrall,2,0,,,,,,"",""
+ball,2,7.5,Melbourne Renegades,SB Harper,J Seymour,DJ Worrall,1,0,,,,,,"",""
+ball,2,7.6,Melbourne Renegades,J Seymour,SB Harper,DJ Worrall,0,0,,,,,,"",""
+ball,2,8.1,Melbourne Renegades,SB Harper,J Seymour,Rashid Khan,1,0,,,,,,"",""
+ball,2,8.2,Melbourne Renegades,J Seymour,SB Harper,Rashid Khan,0,0,,,,,,caught,J Seymour
+ball,2,8.3,Melbourne Renegades,Mohammad Nabi,SB Harper,Rashid Khan,1,0,,,,,,"",""
+ball,2,8.4,Melbourne Renegades,SB Harper,Mohammad Nabi,Rashid Khan,1,0,,,,,,"",""
+ball,2,8.5,Melbourne Renegades,Mohammad Nabi,SB Harper,Rashid Khan,1,0,,,,,,"",""
+ball,2,8.6,Melbourne Renegades,SB Harper,Mohammad Nabi,Rashid Khan,1,0,,,,,,"",""
+ball,2,9.1,Melbourne Renegades,SB Harper,Mohammad Nabi,GHS Garton,1,0,,,,,,"",""
+ball,2,9.2,Melbourne Renegades,Mohammad Nabi,SB Harper,GHS Garton,1,0,,,,,,"",""
+ball,2,9.3,Melbourne Renegades,SB Harper,Mohammad Nabi,GHS Garton,1,0,,,,,,"",""
+ball,2,9.4,Melbourne Renegades,Mohammad Nabi,SB Harper,GHS Garton,0,0,,,,,,"",""
+ball,2,9.5,Melbourne Renegades,Mohammad Nabi,SB Harper,GHS Garton,2,0,,,,,,"",""
+ball,2,9.6,Melbourne Renegades,Mohammad Nabi,SB Harper,GHS Garton,1,0,,,,,,"",""
+ball,2,10.1,Melbourne Renegades,Mohammad Nabi,SB Harper,WA Agar,0,0,,,,,,"",""
+ball,2,10.2,Melbourne Renegades,Mohammad Nabi,SB Harper,WA Agar,1,0,,,,,,"",""
+ball,2,10.3,Melbourne Renegades,SB Harper,Mohammad Nabi,WA Agar,2,0,,,,,,"",""
+ball,2,10.4,Melbourne Renegades,SB Harper,Mohammad Nabi,WA Agar,0,0,,,,,,caught,SB Harper
+ball,2,10.5,Melbourne Renegades,Mohammad Nabi,J Merlo,WA Agar,0,1,1,,,,,"",""
+ball,2,10.6,Melbourne Renegades,Mohammad Nabi,J Merlo,WA Agar,1,0,,,,,,"",""
+ball,2,10.7,Melbourne Renegades,J Merlo,Mohammad Nabi,WA Agar,1,0,,,,,,"",""
+ball,2,11.1,Melbourne Renegades,J Merlo,Mohammad Nabi,PM Siddle,0,0,,,,,,"",""
+ball,2,11.2,Melbourne Renegades,J Merlo,Mohammad Nabi,PM Siddle,0,0,,,,,,"",""
+ball,2,11.3,Melbourne Renegades,J Merlo,Mohammad Nabi,PM Siddle,1,0,,,,,,"",""
+ball,2,11.4,Melbourne Renegades,Mohammad Nabi,J Merlo,PM Siddle,1,0,,,,,,"",""
+ball,2,11.5,Melbourne Renegades,J Merlo,Mohammad Nabi,PM Siddle,0,0,,,,,,"",""
+ball,2,11.6,Melbourne Renegades,J Merlo,Mohammad Nabi,PM Siddle,1,0,,,,,,"",""
+ball,2,12.1,Melbourne Renegades,J Merlo,Mohammad Nabi,Rashid Khan,1,0,,,,,,"",""
+ball,2,12.2,Melbourne Renegades,Mohammad Nabi,J Merlo,Rashid Khan,1,0,,,,,,"",""
+ball,2,12.3,Melbourne Renegades,J Merlo,Mohammad Nabi,Rashid Khan,0,0,,,,,,"",""
+ball,2,12.4,Melbourne Renegades,J Merlo,Mohammad Nabi,Rashid Khan,0,0,,,,,,lbw,J Merlo
+ball,2,12.5,Melbourne Renegades,J Fraser-McGurk,Mohammad Nabi,Rashid Khan,0,0,,,,,,"",""
+ball,2,12.6,Melbourne Renegades,J Fraser-McGurk,Mohammad Nabi,Rashid Khan,0,0,,,,,,"",""
+ball,2,13.1,Melbourne Renegades,Mohammad Nabi,J Fraser-McGurk,DJ Worrall,1,0,,,,,,"",""
+ball,2,13.2,Melbourne Renegades,J Fraser-McGurk,Mohammad Nabi,DJ Worrall,1,0,,,,,,"",""
+ball,2,13.3,Melbourne Renegades,Mohammad Nabi,J Fraser-McGurk,DJ Worrall,1,0,,,,,,"",""
+ball,2,13.4,Melbourne Renegades,J Fraser-McGurk,Mohammad Nabi,DJ Worrall,1,0,,,,,,"",""
+ball,2,13.5,Melbourne Renegades,Mohammad Nabi,J Fraser-McGurk,DJ Worrall,0,0,,,,,,caught,Mohammad Nabi
+ball,2,13.6,Melbourne Renegades,J Fraser-McGurk,W Sutherland,DJ Worrall,1,0,,,,,,"",""
+ball,2,14.1,Melbourne Renegades,J Fraser-McGurk,W Sutherland,WA Agar,0,0,,,,,,caught,J Fraser-McGurk
+ball,2,14.2,Melbourne Renegades,JL Pattinson,W Sutherland,WA Agar,0,0,,,,,,"",""
+ball,2,14.3,Melbourne Renegades,JL Pattinson,W Sutherland,WA Agar,0,0,,,,,,"",""
+ball,2,14.4,Melbourne Renegades,JL Pattinson,W Sutherland,WA Agar,0,0,,,,,,caught,JL Pattinson
+ball,2,14.5,Melbourne Renegades,KW Richardson,W Sutherland,WA Agar,0,1,1,,,,,"",""
+ball,2,14.6,Melbourne Renegades,KW Richardson,W Sutherland,WA Agar,0,0,,,,,,"",""
+ball,2,14.7,Melbourne Renegades,KW Richardson,W Sutherland,WA Agar,0,1,1,,,,,"",""
+ball,2,14.8,Melbourne Renegades,KW Richardson,W Sutherland,WA Agar,1,0,,,,,,"",""
+ball,2,15.1,Melbourne Renegades,KW Richardson,W Sutherland,GHS Garton,0,0,,,,,,"",""
+ball,2,15.2,Melbourne Renegades,KW Richardson,W Sutherland,GHS Garton,1,0,,,,,,"",""
+ball,2,15.3,Melbourne Renegades,W Sutherland,KW Richardson,GHS Garton,0,0,,,,,,caught,W Sutherland
+ball,2,15.4,Melbourne Renegades,KW Richardson,RJW Topley,GHS Garton,1,0,,,,,,"",""
+ball,2,15.5,Melbourne Renegades,RJW Topley,KW Richardson,GHS Garton,0,0,,,,,,"",""
+ball,2,15.6,Melbourne Renegades,RJW Topley,KW Richardson,GHS Garton,1,0,,,,,,"",""
+ball,2,16.1,Melbourne Renegades,RJW Topley,KW Richardson,Rashid Khan,0,0,,,,,,"",""
+ball,2,16.2,Melbourne Renegades,RJW Topley,KW Richardson,Rashid Khan,1,0,,,,,,"",""
+ball,2,16.3,Melbourne Renegades,KW Richardson,RJW Topley,Rashid Khan,1,0,,,,,,"",""
+ball,2,16.4,Melbourne Renegades,RJW Topley,KW Richardson,Rashid Khan,4,0,,,,,,"",""
+ball,2,16.5,Melbourne Renegades,RJW Topley,KW Richardson,Rashid Khan,1,0,,,,,,"",""
+ball,2,16.6,Melbourne Renegades,KW Richardson,RJW Topley,Rashid Khan,0,0,,,,,,"",""
+ball,2,17.1,Melbourne Renegades,RJW Topley,KW Richardson,PM Siddle,0,0,,,,,,"",""
+ball,2,17.2,Melbourne Renegades,RJW Topley,KW Richardson,PM Siddle,0,0,,,,,,"",""
+ball,2,17.3,Melbourne Renegades,RJW Topley,KW Richardson,PM Siddle,1,0,,,,,,"",""
+ball,2,17.4,Melbourne Renegades,KW Richardson,RJW Topley,PM Siddle,0,0,,,,,,caught,KW Richardson
+ball,2,17.5,Melbourne Renegades,Zahir Khan,RJW Topley,PM Siddle,0,0,,,,,,"",""
+ball,2,17.6,Melbourne Renegades,Zahir Khan,RJW Topley,PM Siddle,0,0,,,,,,"",""
+ball,2,18.1,Melbourne Renegades,RJW Topley,Zahir Khan,DJ Worrall,0,0,,,,,,"",""
+ball,2,18.2,Melbourne Renegades,RJW Topley,Zahir Khan,DJ Worrall,0,0,,,,,,"",""
+ball,2,18.3,Melbourne Renegades,RJW Topley,Zahir Khan,DJ Worrall,1,0,,,,,,"",""
+ball,2,18.4,Melbourne Renegades,Zahir Khan,RJW Topley,DJ Worrall,0,0,,,,,,bowled,Zahir Khan

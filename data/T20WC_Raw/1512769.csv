@@ -1,0 +1,305 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Zimbabwe
+info,team,South Africa
+info,gender,male
+info,season,2025/26
+info,date,2026/03/01
+info,event,ICC Men's T20 World Cup
+info,match_number,51
+info,venue,"Arun Jaitley Stadium, Delhi"
+info,city,Delhi
+info,toss_winner,Zimbabwe
+info,toss_decision,bat
+info,player_of_match,Sikandar Raza
+info,umpire,HDPK Dharmasena
+info,umpire,RK Illingworth
+info,reserve_umpire,Sharfuddoula
+info,tv_umpire,J Madanagopal
+info,match_referee,J Srinath
+info,winner,South Africa
+info,winner_wickets,5
+info,player,Zimbabwe,T Marumani
+info,player,Zimbabwe,BJ Bennett
+info,player,Zimbabwe,D Myers
+info,player,Zimbabwe,Sikandar Raza
+info,player,Zimbabwe,RP Burl
+info,player,Zimbabwe,T Munyonga
+info,player,Zimbabwe,C Madande
+info,player,Zimbabwe,B Evans
+info,player,Zimbabwe,WP Masakadza
+info,player,Zimbabwe,AG Cremer
+info,player,Zimbabwe,B Muzarabani
+info,player,South Africa,AK Markram
+info,player,South Africa,Q de Kock
+info,player,South Africa,RD Rickelton
+info,player,South Africa,D Brevis
+info,player,South Africa,DA Miller
+info,player,South Africa,T Stubbs
+info,player,South Africa,GF Linde
+info,player,South Africa,C Bosch
+info,player,South Africa,A Nortje
+info,player,South Africa,KT Maphaka
+info,player,South Africa,L Ngidi
+info,registry,people,A Nortje,acdc62f5
+info,registry,people,AG Cremer,9f0270e0
+info,registry,people,AK Markram,6a26221c
+info,registry,people,B Evans,e7e86505
+info,registry,people,B Muzarabani,449f4e3c
+info,registry,people,BJ Bennett,eaa36b2a
+info,registry,people,C Bosch,172dff15
+info,registry,people,C Madande,3560a786
+info,registry,people,D Brevis,844e79d1
+info,registry,people,D Myers,d96165b5
+info,registry,people,DA Miller,d67d5f00
+info,registry,people,GF Linde,e5437608
+info,registry,people,HDPK Dharmasena,323e4c16
+info,registry,people,J Madanagopal,8275b04a
+info,registry,people,J Srinath,bad31fac
+info,registry,people,KT Maphaka,107c26fb
+info,registry,people,L Ngidi,f834dcfc
+info,registry,people,Q de Kock,372455c4
+info,registry,people,RD Rickelton,e66732f8
+info,registry,people,RK Illingworth,20672246
+info,registry,people,RP Burl,b08252b8
+info,registry,people,Sharfuddoula,63896abb
+info,registry,people,Sikandar Raza,26d041c4
+info,registry,people,T Marumani,3d5d51a5
+info,registry,people,T Munyonga,fbcfa528
+info,registry,people,T Stubbs,85b3fab2
+info,registry,people,WP Masakadza,4bc0a378
+ball,1,0.1,Zimbabwe,T Marumani,BJ Bennett,GF Linde,4,0,,,,,,"",""
+ball,1,0.2,Zimbabwe,T Marumani,BJ Bennett,GF Linde,0,0,,,,,,"",""
+ball,1,0.3,Zimbabwe,T Marumani,BJ Bennett,GF Linde,0,0,,,,,,"",""
+ball,1,0.4,Zimbabwe,T Marumani,BJ Bennett,GF Linde,2,0,,,,,,"",""
+ball,1,0.5,Zimbabwe,T Marumani,BJ Bennett,GF Linde,1,0,,,,,,"",""
+ball,1,0.6,Zimbabwe,BJ Bennett,T Marumani,GF Linde,6,0,,,,,,"",""
+ball,1,1.1,Zimbabwe,T Marumani,BJ Bennett,KT Maphaka,0,0,,,,,,"",""
+ball,1,1.2,Zimbabwe,T Marumani,BJ Bennett,KT Maphaka,0,1,1,,,,,"",""
+ball,1,1.3,Zimbabwe,T Marumani,BJ Bennett,KT Maphaka,0,0,,,,,,bowled,T Marumani
+ball,1,1.4,Zimbabwe,D Myers,BJ Bennett,KT Maphaka,0,0,,,,,,"",""
+ball,1,1.5,Zimbabwe,D Myers,BJ Bennett,KT Maphaka,0,0,,,,,,"",""
+ball,1,1.6,Zimbabwe,D Myers,BJ Bennett,KT Maphaka,0,0,,,,,,"",""
+ball,1,1.7,Zimbabwe,D Myers,BJ Bennett,KT Maphaka,4,0,,,,,,"",""
+ball,1,2.1,Zimbabwe,BJ Bennett,D Myers,L Ngidi,0,0,,,,,,"",""
+ball,1,2.2,Zimbabwe,BJ Bennett,D Myers,L Ngidi,4,0,,,,,,"",""
+ball,1,2.3,Zimbabwe,BJ Bennett,D Myers,L Ngidi,0,0,,,,,,"",""
+ball,1,2.4,Zimbabwe,BJ Bennett,D Myers,L Ngidi,0,0,,,,,,"",""
+ball,1,2.5,Zimbabwe,BJ Bennett,D Myers,L Ngidi,2,0,,,,,,"",""
+ball,1,2.6,Zimbabwe,BJ Bennett,D Myers,L Ngidi,0,0,,,,,,"",""
+ball,1,3.1,Zimbabwe,D Myers,BJ Bennett,KT Maphaka,0,0,,,,,,"",""
+ball,1,3.2,Zimbabwe,D Myers,BJ Bennett,KT Maphaka,0,0,,,,,,"",""
+ball,1,3.3,Zimbabwe,D Myers,BJ Bennett,KT Maphaka,1,0,,,,,,"",""
+ball,1,3.4,Zimbabwe,BJ Bennett,D Myers,KT Maphaka,0,0,,,,,,"",""
+ball,1,3.5,Zimbabwe,BJ Bennett,D Myers,KT Maphaka,2,0,,,,,,"",""
+ball,1,3.6,Zimbabwe,BJ Bennett,D Myers,KT Maphaka,1,0,,,,,,"",""
+ball,1,4.1,Zimbabwe,BJ Bennett,D Myers,A Nortje,0,0,,,,,,"",""
+ball,1,4.2,Zimbabwe,BJ Bennett,D Myers,A Nortje,0,0,,,,,,"",""
+ball,1,4.3,Zimbabwe,BJ Bennett,D Myers,A Nortje,0,0,,,,,,caught,BJ Bennett
+ball,1,4.4,Zimbabwe,Sikandar Raza,D Myers,A Nortje,0,0,,,,,,"",""
+ball,1,4.5,Zimbabwe,Sikandar Raza,D Myers,A Nortje,0,0,,,,,,"",""
+ball,1,4.6,Zimbabwe,Sikandar Raza,D Myers,A Nortje,1,0,,,,,,"",""
+ball,1,5.1,Zimbabwe,Sikandar Raza,D Myers,C Bosch,4,0,,,,,,"",""
+ball,1,5.2,Zimbabwe,Sikandar Raza,D Myers,C Bosch,6,0,,,,,,"",""
+ball,1,5.3,Zimbabwe,Sikandar Raza,D Myers,C Bosch,0,0,,,,,,"",""
+ball,1,5.4,Zimbabwe,Sikandar Raza,D Myers,C Bosch,1,0,,,,,,"",""
+ball,1,5.5,Zimbabwe,D Myers,Sikandar Raza,C Bosch,1,0,,,,,,"",""
+ball,1,5.6,Zimbabwe,Sikandar Raza,D Myers,C Bosch,4,0,,,,,,"",""
+ball,1,6.1,Zimbabwe,D Myers,Sikandar Raza,GF Linde,1,0,,,,,,"",""
+ball,1,6.2,Zimbabwe,Sikandar Raza,D Myers,GF Linde,1,0,,,,,,"",""
+ball,1,6.3,Zimbabwe,D Myers,Sikandar Raza,GF Linde,1,0,,,,,,"",""
+ball,1,6.4,Zimbabwe,Sikandar Raza,D Myers,GF Linde,2,0,,,,,,"",""
+ball,1,6.5,Zimbabwe,Sikandar Raza,D Myers,GF Linde,1,0,,,,,,"",""
+ball,1,6.6,Zimbabwe,D Myers,Sikandar Raza,GF Linde,0,0,,,,,,"",""
+ball,1,7.1,Zimbabwe,Sikandar Raza,D Myers,A Nortje,4,0,,,,,,"",""
+ball,1,7.2,Zimbabwe,Sikandar Raza,D Myers,A Nortje,6,0,,,,,,"",""
+ball,1,7.3,Zimbabwe,Sikandar Raza,D Myers,A Nortje,1,0,,,,,,"",""
+ball,1,7.4,Zimbabwe,D Myers,Sikandar Raza,A Nortje,0,1,1,,,,,"",""
+ball,1,7.5,Zimbabwe,D Myers,Sikandar Raza,A Nortje,0,0,,,,,,"",""
+ball,1,7.6,Zimbabwe,D Myers,Sikandar Raza,A Nortje,2,0,,,,,,"",""
+ball,1,7.7,Zimbabwe,D Myers,Sikandar Raza,A Nortje,1,0,,,,,,"",""
+ball,1,8.1,Zimbabwe,D Myers,Sikandar Raza,GF Linde,0,0,,,,,,"",""
+ball,1,8.2,Zimbabwe,D Myers,Sikandar Raza,GF Linde,0,0,,,,,,caught,D Myers
+ball,1,8.3,Zimbabwe,RP Burl,Sikandar Raza,GF Linde,1,0,,,,,,"",""
+ball,1,8.4,Zimbabwe,Sikandar Raza,RP Burl,GF Linde,0,0,,,,,,"",""
+ball,1,8.5,Zimbabwe,Sikandar Raza,RP Burl,GF Linde,1,0,,,,,,"",""
+ball,1,8.6,Zimbabwe,RP Burl,Sikandar Raza,GF Linde,1,0,,,,,,"",""
+ball,1,9.1,Zimbabwe,RP Burl,Sikandar Raza,AK Markram,1,0,,,,,,"",""
+ball,1,9.2,Zimbabwe,Sikandar Raza,RP Burl,AK Markram,0,0,,,,,,"",""
+ball,1,9.3,Zimbabwe,Sikandar Raza,RP Burl,AK Markram,6,0,,,,,,"",""
+ball,1,9.4,Zimbabwe,Sikandar Raza,RP Burl,AK Markram,4,0,,,,,,"",""
+ball,1,9.5,Zimbabwe,Sikandar Raza,RP Burl,AK Markram,0,0,,,,,,"",""
+ball,1,9.6,Zimbabwe,Sikandar Raza,RP Burl,AK Markram,0,0,,,,,,"",""
+ball,1,10.1,Zimbabwe,RP Burl,Sikandar Raza,L Ngidi,2,0,,,,,,"",""
+ball,1,10.2,Zimbabwe,RP Burl,Sikandar Raza,L Ngidi,0,0,,,,,,lbw,RP Burl
+ball,1,10.3,Zimbabwe,T Munyonga,Sikandar Raza,L Ngidi,0,0,,,,,,"",""
+ball,1,10.4,Zimbabwe,T Munyonga,Sikandar Raza,L Ngidi,1,0,,,,,,"",""
+ball,1,10.5,Zimbabwe,Sikandar Raza,T Munyonga,L Ngidi,1,0,,,,,,"",""
+ball,1,10.6,Zimbabwe,T Munyonga,Sikandar Raza,L Ngidi,0,0,,,,,,"",""
+ball,1,11.1,Zimbabwe,Sikandar Raza,T Munyonga,C Bosch,1,0,,,,,,"",""
+ball,1,11.2,Zimbabwe,T Munyonga,Sikandar Raza,C Bosch,1,0,,,,,,"",""
+ball,1,11.3,Zimbabwe,Sikandar Raza,T Munyonga,C Bosch,1,0,,,,,,"",""
+ball,1,11.4,Zimbabwe,T Munyonga,Sikandar Raza,C Bosch,0,0,,,,,,bowled,T Munyonga
+ball,1,11.5,Zimbabwe,C Madande,Sikandar Raza,C Bosch,0,0,,,,,,"",""
+ball,1,11.6,Zimbabwe,C Madande,Sikandar Raza,C Bosch,1,0,,,,,,"",""
+ball,1,12.1,Zimbabwe,C Madande,Sikandar Raza,KT Maphaka,1,0,,,,,,"",""
+ball,1,12.2,Zimbabwe,Sikandar Raza,C Madande,KT Maphaka,0,0,,,,,,"",""
+ball,1,12.3,Zimbabwe,Sikandar Raza,C Madande,KT Maphaka,4,0,,,,,,"",""
+ball,1,12.4,Zimbabwe,Sikandar Raza,C Madande,KT Maphaka,0,0,,,,,,"",""
+ball,1,12.5,Zimbabwe,Sikandar Raza,C Madande,KT Maphaka,0,0,,,,,,"",""
+ball,1,12.6,Zimbabwe,Sikandar Raza,C Madande,KT Maphaka,1,0,,,,,,"",""
+ball,1,13.1,Zimbabwe,Sikandar Raza,C Madande,A Nortje,0,0,,,,,,"",""
+ball,1,13.2,Zimbabwe,Sikandar Raza,C Madande,A Nortje,4,0,,,,,,"",""
+ball,1,13.3,Zimbabwe,Sikandar Raza,C Madande,A Nortje,1,0,,,,,,"",""
+ball,1,13.4,Zimbabwe,C Madande,Sikandar Raza,A Nortje,0,1,,,,1,,"",""
+ball,1,13.5,Zimbabwe,Sikandar Raza,C Madande,A Nortje,1,0,,,,,,"",""
+ball,1,13.6,Zimbabwe,C Madande,Sikandar Raza,A Nortje,1,0,,,,,,"",""
+ball,1,14.1,Zimbabwe,C Madande,Sikandar Raza,L Ngidi,0,1,1,,,,,"",""
+ball,1,14.2,Zimbabwe,C Madande,Sikandar Raza,L Ngidi,0,0,,,,,,"",""
+ball,1,14.3,Zimbabwe,C Madande,Sikandar Raza,L Ngidi,1,0,,,,,,"",""
+ball,1,14.4,Zimbabwe,Sikandar Raza,C Madande,L Ngidi,0,0,,,,,,"",""
+ball,1,14.5,Zimbabwe,Sikandar Raza,C Madande,L Ngidi,2,0,,,,,,"",""
+ball,1,14.6,Zimbabwe,Sikandar Raza,C Madande,L Ngidi,4,0,,,,,,"",""
+ball,1,14.7,Zimbabwe,Sikandar Raza,C Madande,L Ngidi,0,0,,,,,,"",""
+ball,1,15.1,Zimbabwe,C Madande,Sikandar Raza,C Bosch,1,0,,,,,,"",""
+ball,1,15.2,Zimbabwe,Sikandar Raza,C Madande,C Bosch,0,0,,,,,,"",""
+ball,1,15.3,Zimbabwe,Sikandar Raza,C Madande,C Bosch,4,0,,,,,,"",""
+ball,1,15.4,Zimbabwe,Sikandar Raza,C Madande,C Bosch,1,0,,,,,,"",""
+ball,1,15.5,Zimbabwe,C Madande,Sikandar Raza,C Bosch,4,0,,,,,,"",""
+ball,1,15.6,Zimbabwe,C Madande,Sikandar Raza,C Bosch,0,0,,,,,,"",""
+ball,1,16.1,Zimbabwe,Sikandar Raza,C Madande,KT Maphaka,0,0,,,,,,"",""
+ball,1,16.2,Zimbabwe,Sikandar Raza,C Madande,KT Maphaka,6,0,,,,,,"",""
+ball,1,16.3,Zimbabwe,Sikandar Raza,C Madande,KT Maphaka,0,0,,,,,,caught,Sikandar Raza
+ball,1,16.4,Zimbabwe,B Evans,C Madande,KT Maphaka,0,0,,,,,,"",""
+ball,1,16.5,Zimbabwe,B Evans,C Madande,KT Maphaka,0,0,,,,,,"",""
+ball,1,16.6,Zimbabwe,B Evans,C Madande,KT Maphaka,0,0,,,,,,"",""
+ball,1,17.1,Zimbabwe,C Madande,B Evans,A Nortje,0,0,,,,,,"",""
+ball,1,17.2,Zimbabwe,C Madande,B Evans,A Nortje,4,0,,,,,,"",""
+ball,1,17.3,Zimbabwe,C Madande,B Evans,A Nortje,1,0,,,,,,"",""
+ball,1,17.4,Zimbabwe,B Evans,C Madande,A Nortje,0,0,,,,,,"",""
+ball,1,17.5,Zimbabwe,B Evans,C Madande,A Nortje,1,0,,,,,,"",""
+ball,1,17.6,Zimbabwe,C Madande,B Evans,A Nortje,0,0,,,,,,"",""
+ball,1,18.1,Zimbabwe,B Evans,C Madande,L Ngidi,0,1,,1,,,,"",""
+ball,1,18.2,Zimbabwe,B Evans,C Madande,L Ngidi,0,0,,,,,,"",""
+ball,1,18.3,Zimbabwe,B Evans,C Madande,L Ngidi,0,0,,,,,,"",""
+ball,1,18.4,Zimbabwe,B Evans,C Madande,L Ngidi,6,0,,,,,,"",""
+ball,1,18.5,Zimbabwe,B Evans,C Madande,L Ngidi,1,0,,,,,,"",""
+ball,1,18.6,Zimbabwe,C Madande,B Evans,L Ngidi,2,0,,,,,,"",""
+ball,1,18.7,Zimbabwe,C Madande,B Evans,L Ngidi,1,0,,,,,,"",""
+ball,1,19.1,Zimbabwe,C Madande,B Evans,C Bosch,2,0,,,,,,"",""
+ball,1,19.2,Zimbabwe,C Madande,B Evans,C Bosch,1,0,,,,,,"",""
+ball,1,19.3,Zimbabwe,B Evans,C Madande,C Bosch,0,0,,,,,,bowled,B Evans
+ball,1,19.4,Zimbabwe,WP Masakadza,C Madande,C Bosch,1,0,,,,,,"",""
+ball,1,19.5,Zimbabwe,C Madande,WP Masakadza,C Bosch,4,0,,,,,,"",""
+ball,1,19.6,Zimbabwe,C Madande,WP Masakadza,C Bosch,2,0,,,,,,"",""
+ball,2,0.1,South Africa,AK Markram,Q de Kock,Sikandar Raza,1,0,,,,,,"",""
+ball,2,0.2,South Africa,Q de Kock,AK Markram,Sikandar Raza,0,0,,,,,,"",""
+ball,2,0.3,South Africa,Q de Kock,AK Markram,Sikandar Raza,0,0,,,,,,caught,Q de Kock
+ball,2,0.4,South Africa,RD Rickelton,AK Markram,Sikandar Raza,1,0,,,,,,"",""
+ball,2,0.5,South Africa,AK Markram,RD Rickelton,Sikandar Raza,1,0,,,,,,"",""
+ball,2,0.6,South Africa,RD Rickelton,AK Markram,Sikandar Raza,1,0,,,,,,"",""
+ball,2,1.1,South Africa,RD Rickelton,AK Markram,B Muzarabani,0,0,,,,,,"",""
+ball,2,1.2,South Africa,RD Rickelton,AK Markram,B Muzarabani,0,0,,,,,,"",""
+ball,2,1.3,South Africa,RD Rickelton,AK Markram,B Muzarabani,1,0,,,,,,"",""
+ball,2,1.4,South Africa,AK Markram,RD Rickelton,B Muzarabani,1,0,,,,,,"",""
+ball,2,1.5,South Africa,RD Rickelton,AK Markram,B Muzarabani,6,0,,,,,,"",""
+ball,2,1.6,South Africa,RD Rickelton,AK Markram,B Muzarabani,0,0,,,,,,"",""
+ball,2,2.1,South Africa,AK Markram,RD Rickelton,Sikandar Raza,1,0,,,,,,"",""
+ball,2,2.2,South Africa,RD Rickelton,AK Markram,Sikandar Raza,0,0,,,,,,"",""
+ball,2,2.3,South Africa,RD Rickelton,AK Markram,Sikandar Raza,0,0,,,,,,"",""
+ball,2,2.4,South Africa,RD Rickelton,AK Markram,Sikandar Raza,1,0,,,,,,"",""
+ball,2,2.5,South Africa,AK Markram,RD Rickelton,Sikandar Raza,0,0,,,,,,bowled,AK Markram
+ball,2,2.6,South Africa,D Brevis,RD Rickelton,Sikandar Raza,4,0,,,,,,"",""
+ball,2,3.1,South Africa,RD Rickelton,D Brevis,B Evans,0,0,,,,,,"",""
+ball,2,3.2,South Africa,RD Rickelton,D Brevis,B Evans,0,0,,,,,,"",""
+ball,2,3.3,South Africa,RD Rickelton,D Brevis,B Evans,1,0,,,,,,"",""
+ball,2,3.4,South Africa,D Brevis,RD Rickelton,B Evans,0,0,,,,,,"",""
+ball,2,3.5,South Africa,D Brevis,RD Rickelton,B Evans,2,0,,,,,,"",""
+ball,2,3.6,South Africa,D Brevis,RD Rickelton,B Evans,0,0,,,,,,"",""
+ball,2,4.1,South Africa,RD Rickelton,D Brevis,Sikandar Raza,0,0,,,,,,"",""
+ball,2,4.2,South Africa,RD Rickelton,D Brevis,Sikandar Raza,6,0,,,,,,"",""
+ball,2,4.3,South Africa,RD Rickelton,D Brevis,Sikandar Raza,1,0,,,,,,"",""
+ball,2,4.4,South Africa,D Brevis,RD Rickelton,Sikandar Raza,0,0,,,,,,"",""
+ball,2,4.5,South Africa,D Brevis,RD Rickelton,Sikandar Raza,1,0,,,,,,"",""
+ball,2,4.6,South Africa,RD Rickelton,D Brevis,Sikandar Raza,1,0,,,,,,"",""
+ball,2,5.1,South Africa,RD Rickelton,D Brevis,B Evans,6,0,,,,,,"",""
+ball,2,5.2,South Africa,RD Rickelton,D Brevis,B Evans,6,0,,,,,,"",""
+ball,2,5.3,South Africa,RD Rickelton,D Brevis,B Evans,0,1,1,,,,,"",""
+ball,2,5.4,South Africa,RD Rickelton,D Brevis,B Evans,0,0,,,,,,"",""
+ball,2,5.5,South Africa,RD Rickelton,D Brevis,B Evans,0,0,,,,,,"",""
+ball,2,5.6,South Africa,RD Rickelton,D Brevis,B Evans,0,0,,,,,,caught,RD Rickelton
+ball,2,5.7,South Africa,DA Miller,D Brevis,B Evans,0,0,,,,,,"",""
+ball,2,6.1,South Africa,D Brevis,DA Miller,AG Cremer,6,0,,,,,,"",""
+ball,2,6.2,South Africa,D Brevis,DA Miller,AG Cremer,1,0,,,,,,"",""
+ball,2,6.3,South Africa,DA Miller,D Brevis,AG Cremer,0,0,,,,,,"",""
+ball,2,6.4,South Africa,DA Miller,D Brevis,AG Cremer,1,0,,,,,,"",""
+ball,2,6.5,South Africa,D Brevis,DA Miller,AG Cremer,2,0,,,,,,"",""
+ball,2,6.6,South Africa,D Brevis,DA Miller,AG Cremer,6,0,,,,,,"",""
+ball,2,7.1,South Africa,DA Miller,D Brevis,B Muzarabani,0,0,,,,,,"",""
+ball,2,7.2,South Africa,DA Miller,D Brevis,B Muzarabani,0,0,,,,,,"",""
+ball,2,7.3,South Africa,DA Miller,D Brevis,B Muzarabani,1,0,,,,,,"",""
+ball,2,7.4,South Africa,D Brevis,DA Miller,B Muzarabani,4,0,,,,,,"",""
+ball,2,7.5,South Africa,D Brevis,DA Miller,B Muzarabani,1,0,,,,,,"",""
+ball,2,7.6,South Africa,DA Miller,D Brevis,B Muzarabani,0,0,,,,,,"",""
+ball,2,8.1,South Africa,D Brevis,DA Miller,WP Masakadza,1,0,,,,,,"",""
+ball,2,8.2,South Africa,DA Miller,D Brevis,WP Masakadza,6,0,,,,,,"",""
+ball,2,8.3,South Africa,DA Miller,D Brevis,WP Masakadza,0,0,,,,,,"",""
+ball,2,8.4,South Africa,DA Miller,D Brevis,WP Masakadza,0,0,,,,,,"",""
+ball,2,8.5,South Africa,DA Miller,D Brevis,WP Masakadza,4,0,,,,,,"",""
+ball,2,8.6,South Africa,DA Miller,D Brevis,WP Masakadza,6,0,,,,,,"",""
+ball,2,9.1,South Africa,D Brevis,DA Miller,B Muzarabani,6,0,,,,,,"",""
+ball,2,9.2,South Africa,D Brevis,DA Miller,B Muzarabani,1,0,,,,,,"",""
+ball,2,9.3,South Africa,DA Miller,D Brevis,B Muzarabani,0,0,,,,,,"",""
+ball,2,9.4,South Africa,DA Miller,D Brevis,B Muzarabani,4,0,,,,,,"",""
+ball,2,9.5,South Africa,DA Miller,D Brevis,B Muzarabani,0,0,,,,,,"",""
+ball,2,9.6,South Africa,DA Miller,D Brevis,B Muzarabani,0,0,,,,,,caught,DA Miller
+ball,2,10.1,South Africa,D Brevis,T Stubbs,Sikandar Raza,6,0,,,,,,"",""
+ball,2,10.2,South Africa,D Brevis,T Stubbs,Sikandar Raza,1,0,,,,,,"",""
+ball,2,10.3,South Africa,T Stubbs,D Brevis,Sikandar Raza,1,0,,,,,,"",""
+ball,2,10.4,South Africa,D Brevis,T Stubbs,Sikandar Raza,0,0,,,,,,caught,D Brevis
+ball,2,10.5,South Africa,GF Linde,T Stubbs,Sikandar Raza,1,0,,,,,,"",""
+ball,2,10.6,South Africa,T Stubbs,GF Linde,Sikandar Raza,1,0,,,,,,"",""
+ball,2,11.1,South Africa,T Stubbs,GF Linde,AG Cremer,1,0,,,,,,"",""
+ball,2,11.2,South Africa,GF Linde,T Stubbs,AG Cremer,1,0,,,,,,"",""
+ball,2,11.3,South Africa,T Stubbs,GF Linde,AG Cremer,1,0,,,,,,"",""
+ball,2,11.4,South Africa,GF Linde,T Stubbs,AG Cremer,6,0,,,,,,"",""
+ball,2,11.5,South Africa,GF Linde,T Stubbs,AG Cremer,1,0,,,,,,"",""
+ball,2,11.6,South Africa,T Stubbs,GF Linde,AG Cremer,1,0,,,,,,"",""
+ball,2,12.1,South Africa,T Stubbs,GF Linde,WP Masakadza,1,0,,,,,,"",""
+ball,2,12.2,South Africa,GF Linde,T Stubbs,WP Masakadza,0,0,,,,,,"",""
+ball,2,12.3,South Africa,GF Linde,T Stubbs,WP Masakadza,1,0,,,,,,"",""
+ball,2,12.4,South Africa,T Stubbs,GF Linde,WP Masakadza,1,0,,,,,,"",""
+ball,2,12.5,South Africa,GF Linde,T Stubbs,WP Masakadza,0,1,1,,,,,"",""
+ball,2,12.6,South Africa,GF Linde,T Stubbs,WP Masakadza,2,0,,,,,,"",""
+ball,2,12.7,South Africa,GF Linde,T Stubbs,WP Masakadza,0,0,,,,,,"",""
+ball,2,13.1,South Africa,T Stubbs,GF Linde,B Evans,0,0,,,,,,"",""
+ball,2,13.2,South Africa,T Stubbs,GF Linde,B Evans,1,0,,,,,,"",""
+ball,2,13.3,South Africa,GF Linde,T Stubbs,B Evans,0,0,,,,,,"",""
+ball,2,13.4,South Africa,GF Linde,T Stubbs,B Evans,1,0,,,,,,"",""
+ball,2,13.5,South Africa,T Stubbs,GF Linde,B Evans,2,0,,,,,,"",""
+ball,2,13.6,South Africa,T Stubbs,GF Linde,B Evans,2,0,,,,,,"",""
+ball,2,14.1,South Africa,GF Linde,T Stubbs,RP Burl,1,0,,,,,,"",""
+ball,2,14.2,South Africa,T Stubbs,GF Linde,RP Burl,0,0,,,,,,"",""
+ball,2,14.3,South Africa,T Stubbs,GF Linde,RP Burl,0,0,,,,,,"",""
+ball,2,14.4,South Africa,T Stubbs,GF Linde,RP Burl,0,0,,,,,,"",""
+ball,2,14.5,South Africa,T Stubbs,GF Linde,RP Burl,1,0,,,,,,"",""
+ball,2,14.6,South Africa,GF Linde,T Stubbs,RP Burl,1,0,,,,,,"",""
+ball,2,15.1,South Africa,GF Linde,T Stubbs,BJ Bennett,1,0,,,,,,"",""
+ball,2,15.2,South Africa,T Stubbs,GF Linde,BJ Bennett,1,0,,,,,,"",""
+ball,2,15.3,South Africa,GF Linde,T Stubbs,BJ Bennett,4,0,,,,,,"",""
+ball,2,15.4,South Africa,GF Linde,T Stubbs,BJ Bennett,1,0,,,,,,"",""
+ball,2,15.5,South Africa,T Stubbs,GF Linde,BJ Bennett,1,0,,,,,,"",""
+ball,2,15.6,South Africa,GF Linde,T Stubbs,BJ Bennett,1,0,,,,,,"",""
+ball,2,16.1,South Africa,GF Linde,T Stubbs,RP Burl,4,0,,,,,,"",""
+ball,2,16.2,South Africa,GF Linde,T Stubbs,RP Burl,1,0,,,,,,"",""
+ball,2,16.3,South Africa,T Stubbs,GF Linde,RP Burl,1,0,,,,,,"",""
+ball,2,16.4,South Africa,GF Linde,T Stubbs,RP Burl,1,0,,,,,,"",""
+ball,2,16.5,South Africa,T Stubbs,GF Linde,RP Burl,0,1,1,,,,,"",""
+ball,2,16.6,South Africa,T Stubbs,GF Linde,RP Burl,0,0,,,,,,"",""
+ball,2,16.7,South Africa,T Stubbs,GF Linde,RP Burl,1,0,,,,,,"",""
+ball,2,17.1,South Africa,T Stubbs,GF Linde,B Muzarabani,1,0,,,,,,"",""
+ball,2,17.2,South Africa,GF Linde,T Stubbs,B Muzarabani,1,0,,,,,,"",""
+ball,2,17.3,South Africa,T Stubbs,GF Linde,B Muzarabani,1,0,,,,,,"",""
+ball,2,17.4,South Africa,GF Linde,T Stubbs,B Muzarabani,1,0,,,,,,"",""
+ball,2,17.5,South Africa,T Stubbs,GF Linde,B Muzarabani,0,1,,1,,,,"",""
+ball,2,17.6,South Africa,T Stubbs,GF Linde,B Muzarabani,2,0,,,,,,"",""

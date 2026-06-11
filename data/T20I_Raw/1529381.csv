@@ -1,0 +1,183 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Costa Rica
+info,team,Mexico
+info,gender,male
+info,season,2026
+info,date,2026/04/04
+info,event,Central American Cricket Championships
+info,match_number,6
+info,venue,"Reforma Athletic Club, Naucalpan"
+info,city,Naucalpan
+info,toss_winner,Costa Rica
+info,toss_decision,bat
+info,player_of_match,SK Lahiri
+info,winner,Mexico
+info,winner_wickets,8
+info,player,Costa Rica,TV Badri Narayanan
+info,player,Costa Rica,J Cutinho
+info,player,Costa Rica,S Ravikumar
+info,player,Costa Rica,S Murari
+info,player,Costa Rica,Ashar Abbas
+info,player,Costa Rica,S Wankhade
+info,player,Costa Rica,K Shivam
+info,player,Costa Rica,YJC Altamirano
+info,player,Costa Rica,T Amresh
+info,player,Costa Rica,O Sam Arthur
+info,player,Costa Rica,Imran Ahmed Kaneez
+info,player,Mexico,GE Gutierrez Chavez
+info,player,Mexico,Ankush Singh
+info,player,Mexico,D Panda
+info,player,Mexico,J Byrappa
+info,player,Mexico,Pratik Singh Bais
+info,player,Mexico,DV Devjani Mutreja
+info,player,Mexico,S Sharma
+info,player,Mexico,Gurpreet Singh
+info,player,Mexico,M Noble
+info,player,Mexico,Seetharam Guruvayoorappan
+info,player,Mexico,SK Lahiri
+info,registry,people,Ankush Singh,c2887e22
+info,registry,people,Ashar Abbas,33e59f48
+info,registry,people,D Panda,bad1af65
+info,registry,people,DV Devjani Mutreja,c872d657
+info,registry,people,GE Gutierrez Chavez,6ecd3d7b
+info,registry,people,Gurpreet Singh,f43dcdc1
+info,registry,people,Imran Ahmed Kaneez,8c3cbee9
+info,registry,people,J Byrappa,860f7b67
+info,registry,people,J Cutinho,c329d304
+info,registry,people,K Shivam,f46fbe60
+info,registry,people,M Noble,d8141f01
+info,registry,people,O Sam Arthur,11c35bf1
+info,registry,people,Pratik Singh Bais,5b351aff
+info,registry,people,S Murari,3ed39f01
+info,registry,people,S Ravikumar,5597338d
+info,registry,people,S Sharma,d6d2ac95
+info,registry,people,S Wankhade,27ca21c1
+info,registry,people,SK Lahiri,84df22bd
+info,registry,people,Seetharam Guruvayoorappan,9663115e
+info,registry,people,T Amresh,74a8376d
+info,registry,people,TV Badri Narayanan,fb68e13e
+info,registry,people,YJC Altamirano,35f622e6
+ball,1,0.1,Costa Rica,TV Badri Narayanan,J Cutinho,M Noble,0,0,,,,,,"",""
+ball,1,0.2,Costa Rica,TV Badri Narayanan,J Cutinho,M Noble,1,0,,,,,,"",""
+ball,1,0.3,Costa Rica,J Cutinho,TV Badri Narayanan,M Noble,0,0,,,,,,"",""
+ball,1,0.4,Costa Rica,J Cutinho,TV Badri Narayanan,M Noble,0,0,,,,,,"",""
+ball,1,0.5,Costa Rica,J Cutinho,TV Badri Narayanan,M Noble,1,0,,,,,,"",""
+ball,1,0.6,Costa Rica,TV Badri Narayanan,J Cutinho,M Noble,0,0,,,,,,"",""
+ball,1,1.1,Costa Rica,J Cutinho,TV Badri Narayanan,SK Lahiri,1,0,,,,,,"",""
+ball,1,1.2,Costa Rica,TV Badri Narayanan,J Cutinho,SK Lahiri,0,0,,,,,,"",""
+ball,1,1.3,Costa Rica,TV Badri Narayanan,J Cutinho,SK Lahiri,2,0,,,,,,"",""
+ball,1,1.4,Costa Rica,TV Badri Narayanan,J Cutinho,SK Lahiri,2,0,,,,,,"",""
+ball,1,1.5,Costa Rica,TV Badri Narayanan,J Cutinho,SK Lahiri,4,0,,,,,,"",""
+ball,1,1.6,Costa Rica,TV Badri Narayanan,J Cutinho,SK Lahiri,0,0,,,,,,"",""
+ball,1,2.1,Costa Rica,J Cutinho,TV Badri Narayanan,M Noble,4,0,,,,,,"",""
+ball,1,2.2,Costa Rica,J Cutinho,TV Badri Narayanan,M Noble,6,0,,,,,,"",""
+ball,1,2.3,Costa Rica,J Cutinho,TV Badri Narayanan,M Noble,0,0,,,,,,"",""
+ball,1,2.4,Costa Rica,J Cutinho,TV Badri Narayanan,M Noble,1,0,,,,,,"",""
+ball,1,2.5,Costa Rica,TV Badri Narayanan,J Cutinho,M Noble,0,0,,,,,,"",""
+ball,1,2.6,Costa Rica,TV Badri Narayanan,J Cutinho,M Noble,0,0,,,,,,"",""
+ball,1,3.1,Costa Rica,J Cutinho,TV Badri Narayanan,SK Lahiri,0,0,,,,,,bowled,J Cutinho
+ball,1,3.2,Costa Rica,S Ravikumar,TV Badri Narayanan,SK Lahiri,0,0,,,,,,"",""
+ball,1,3.3,Costa Rica,S Ravikumar,TV Badri Narayanan,SK Lahiri,0,0,,,,,,"",""
+ball,1,3.4,Costa Rica,S Ravikumar,TV Badri Narayanan,SK Lahiri,0,0,,,,,,"",""
+ball,1,3.5,Costa Rica,S Ravikumar,TV Badri Narayanan,SK Lahiri,0,0,,,,,,caught,S Ravikumar
+ball,1,3.6,Costa Rica,S Murari,TV Badri Narayanan,SK Lahiri,0,0,,,,,,bowled,S Murari
+ball,1,4.1,Costa Rica,TV Badri Narayanan,Ashar Abbas,Pratik Singh Bais,0,0,,,,,,"",""
+ball,1,4.2,Costa Rica,TV Badri Narayanan,Ashar Abbas,Pratik Singh Bais,0,0,,,,,,"",""
+ball,1,4.3,Costa Rica,TV Badri Narayanan,Ashar Abbas,Pratik Singh Bais,0,0,,,,,,"",""
+ball,1,4.4,Costa Rica,TV Badri Narayanan,Ashar Abbas,Pratik Singh Bais,0,0,,,,,,"",""
+ball,1,4.5,Costa Rica,TV Badri Narayanan,Ashar Abbas,Pratik Singh Bais,0,0,,,,,,"",""
+ball,1,4.6,Costa Rica,TV Badri Narayanan,Ashar Abbas,Pratik Singh Bais,2,0,,,,,,"",""
+ball,1,5.1,Costa Rica,Ashar Abbas,TV Badri Narayanan,SK Lahiri,0,0,,,,,,lbw,Ashar Abbas
+ball,1,5.2,Costa Rica,S Wankhade,TV Badri Narayanan,SK Lahiri,0,0,,,,,,"",""
+ball,1,5.3,Costa Rica,S Wankhade,TV Badri Narayanan,SK Lahiri,0,0,,,,,,"",""
+ball,1,5.4,Costa Rica,S Wankhade,TV Badri Narayanan,SK Lahiri,1,0,,,,,,"",""
+ball,1,5.5,Costa Rica,TV Badri Narayanan,S Wankhade,SK Lahiri,1,0,,,,,,"",""
+ball,1,5.6,Costa Rica,S Wankhade,TV Badri Narayanan,SK Lahiri,0,0,,,,,,"",""
+ball,1,6.1,Costa Rica,TV Badri Narayanan,S Wankhade,Pratik Singh Bais,2,0,,,,,,"",""
+ball,1,6.2,Costa Rica,TV Badri Narayanan,S Wankhade,Pratik Singh Bais,1,0,,,,,,"",""
+ball,1,6.3,Costa Rica,S Wankhade,TV Badri Narayanan,Pratik Singh Bais,0,0,,,,,,"",""
+ball,1,6.4,Costa Rica,S Wankhade,TV Badri Narayanan,Pratik Singh Bais,0,0,,,,,,"",""
+ball,1,6.5,Costa Rica,S Wankhade,TV Badri Narayanan,Pratik Singh Bais,0,0,,,,,,"",""
+ball,1,6.6,Costa Rica,S Wankhade,TV Badri Narayanan,Pratik Singh Bais,0,0,,,,,,caught,S Wankhade
+ball,1,7.1,Costa Rica,TV Badri Narayanan,K Shivam,S Sharma,0,0,,,,,,"",""
+ball,1,7.2,Costa Rica,TV Badri Narayanan,K Shivam,S Sharma,0,0,,,,,,caught,TV Badri Narayanan
+ball,1,7.3,Costa Rica,YJC Altamirano,K Shivam,S Sharma,0,1,1,,,,,"",""
+ball,1,7.4,Costa Rica,YJC Altamirano,K Shivam,S Sharma,0,0,,,,,,"",""
+ball,1,7.5,Costa Rica,YJC Altamirano,K Shivam,S Sharma,0,0,,,,,,"",""
+ball,1,7.6,Costa Rica,YJC Altamirano,K Shivam,S Sharma,0,0,,,,,,"",""
+ball,1,7.7,Costa Rica,YJC Altamirano,K Shivam,S Sharma,0,1,1,,,,,"",""
+ball,1,7.8,Costa Rica,YJC Altamirano,K Shivam,S Sharma,0,0,,,,,,"",""
+ball,1,8.1,Costa Rica,K Shivam,YJC Altamirano,M Noble,0,0,,,,,,"",""
+ball,1,8.2,Costa Rica,K Shivam,YJC Altamirano,M Noble,0,0,,,,,,caught,K Shivam
+ball,1,8.3,Costa Rica,T Amresh,YJC Altamirano,M Noble,0,0,,,,,,"",""
+ball,1,8.4,Costa Rica,T Amresh,YJC Altamirano,M Noble,0,1,1,,,,,"",""
+ball,1,8.5,Costa Rica,T Amresh,YJC Altamirano,M Noble,0,0,,,,,,"",""
+ball,1,8.6,Costa Rica,T Amresh,YJC Altamirano,M Noble,0,0,,,,,,"",""
+ball,1,8.7,Costa Rica,T Amresh,YJC Altamirano,M Noble,1,0,,,,,,"",""
+ball,1,9.1,Costa Rica,T Amresh,YJC Altamirano,SK Lahiri,6,0,,,,,,"",""
+ball,1,9.2,Costa Rica,T Amresh,YJC Altamirano,SK Lahiri,0,0,,,,,,bowled,T Amresh
+ball,1,9.3,Costa Rica,O Sam Arthur,YJC Altamirano,SK Lahiri,0,0,,,,,,"",""
+ball,1,9.4,Costa Rica,O Sam Arthur,YJC Altamirano,SK Lahiri,0,0,,,,,,"",""
+ball,1,9.5,Costa Rica,O Sam Arthur,YJC Altamirano,SK Lahiri,0,0,,,,,,"",""
+ball,1,9.6,Costa Rica,O Sam Arthur,YJC Altamirano,SK Lahiri,0,0,,,,,,"",""
+ball,1,10.1,Costa Rica,YJC Altamirano,O Sam Arthur,M Noble,0,0,,,,,,"",""
+ball,1,10.2,Costa Rica,YJC Altamirano,O Sam Arthur,M Noble,1,0,,,,,,"",""
+ball,1,10.3,Costa Rica,O Sam Arthur,YJC Altamirano,M Noble,0,0,,,,,,"",""
+ball,1,10.4,Costa Rica,O Sam Arthur,YJC Altamirano,M Noble,0,0,,,,,,"",""
+ball,1,10.5,Costa Rica,O Sam Arthur,YJC Altamirano,M Noble,0,0,,,,,,"",""
+ball,1,10.6,Costa Rica,O Sam Arthur,YJC Altamirano,M Noble,0,0,,,,,,"",""
+ball,1,11.1,Costa Rica,YJC Altamirano,O Sam Arthur,S Sharma,2,0,,,,,,"",""
+ball,1,11.2,Costa Rica,YJC Altamirano,O Sam Arthur,S Sharma,0,0,,,,,,lbw,YJC Altamirano
+ball,1,11.3,Costa Rica,Imran Ahmed Kaneez,O Sam Arthur,S Sharma,0,0,,,,,,"",""
+ball,1,11.4,Costa Rica,Imran Ahmed Kaneez,O Sam Arthur,S Sharma,0,0,,,,,,"",""
+ball,1,11.5,Costa Rica,Imran Ahmed Kaneez,O Sam Arthur,S Sharma,0,0,,,,,,"",""
+ball,1,11.6,Costa Rica,Imran Ahmed Kaneez,O Sam Arthur,S Sharma,0,1,1,,,,,"",""
+ball,1,11.7,Costa Rica,Imran Ahmed Kaneez,O Sam Arthur,S Sharma,0,0,,,,,,"",""
+ball,1,12.1,Costa Rica,O Sam Arthur,Imran Ahmed Kaneez,DV Devjani Mutreja,0,0,,,,,,"",""
+ball,1,12.2,Costa Rica,O Sam Arthur,Imran Ahmed Kaneez,DV Devjani Mutreja,0,0,,,,,,"",""
+ball,1,12.3,Costa Rica,O Sam Arthur,Imran Ahmed Kaneez,DV Devjani Mutreja,1,0,,,,,,"",""
+ball,1,12.4,Costa Rica,Imran Ahmed Kaneez,O Sam Arthur,DV Devjani Mutreja,0,0,,,,,,"",""
+ball,1,12.5,Costa Rica,Imran Ahmed Kaneez,O Sam Arthur,DV Devjani Mutreja,0,1,1,,,,,"",""
+ball,1,12.6,Costa Rica,Imran Ahmed Kaneez,O Sam Arthur,DV Devjani Mutreja,0,0,,,,,,caught,Imran Ahmed Kaneez
+ball,2,0.1,Mexico,GE Gutierrez Chavez,Ankush Singh,O Sam Arthur,0,1,1,,,,,"",""
+ball,2,0.2,Mexico,GE Gutierrez Chavez,Ankush Singh,O Sam Arthur,1,0,,,,,,"",""
+ball,2,0.3,Mexico,Ankush Singh,GE Gutierrez Chavez,O Sam Arthur,0,0,,,,,,"",""
+ball,2,0.4,Mexico,Ankush Singh,GE Gutierrez Chavez,O Sam Arthur,0,0,,,,,,caught,Ankush Singh
+ball,2,0.5,Mexico,D Panda,GE Gutierrez Chavez,O Sam Arthur,1,0,,,,,,"",""
+ball,2,0.6,Mexico,GE Gutierrez Chavez,D Panda,O Sam Arthur,0,1,1,,,,,"",""
+ball,2,0.7,Mexico,GE Gutierrez Chavez,D Panda,O Sam Arthur,0,0,,,,,,"",""
+ball,2,0.8,Mexico,GE Gutierrez Chavez,D Panda,O Sam Arthur,0,1,1,,,,,"",""
+ball,2,0.9,Mexico,GE Gutierrez Chavez,D Panda,O Sam Arthur,1,0,,,,,,"",""
+ball,2,1.1,Mexico,GE Gutierrez Chavez,D Panda,YJC Altamirano,0,1,1,,,,,"",""
+ball,2,1.2,Mexico,GE Gutierrez Chavez,D Panda,YJC Altamirano,0,0,,,,,,"",""
+ball,2,1.3,Mexico,GE Gutierrez Chavez,D Panda,YJC Altamirano,0,0,,,,,,"",""
+ball,2,1.4,Mexico,GE Gutierrez Chavez,D Panda,YJC Altamirano,0,1,1,,,,,"",""
+ball,2,1.5,Mexico,GE Gutierrez Chavez,D Panda,YJC Altamirano,0,0,,,,,,"",""
+ball,2,1.6,Mexico,GE Gutierrez Chavez,D Panda,YJC Altamirano,2,0,,,,,,"",""
+ball,2,1.7,Mexico,GE Gutierrez Chavez,D Panda,YJC Altamirano,6,0,,,,,,"",""
+ball,2,1.8,Mexico,GE Gutierrez Chavez,D Panda,YJC Altamirano,6,0,,,,,,"",""
+ball,2,2.1,Mexico,D Panda,GE Gutierrez Chavez,O Sam Arthur,1,0,,,,,,"",""
+ball,2,2.2,Mexico,GE Gutierrez Chavez,D Panda,O Sam Arthur,1,1,,1,,,,"",""
+ball,2,2.3,Mexico,D Panda,GE Gutierrez Chavez,O Sam Arthur,0,0,,,,,,"",""
+ball,2,2.4,Mexico,D Panda,GE Gutierrez Chavez,O Sam Arthur,1,0,,,,,,"",""
+ball,2,2.5,Mexico,GE Gutierrez Chavez,D Panda,O Sam Arthur,0,1,1,,,,,"",""
+ball,2,2.6,Mexico,GE Gutierrez Chavez,D Panda,O Sam Arthur,1,0,,,,,,"",""
+ball,2,2.7,Mexico,D Panda,GE Gutierrez Chavez,O Sam Arthur,1,0,,,,,,"",""
+ball,2,2.8,Mexico,GE Gutierrez Chavez,D Panda,O Sam Arthur,4,0,,,,,,"",""
+ball,2,3.1,Mexico,D Panda,GE Gutierrez Chavez,Imran Ahmed Kaneez,0,1,1,,,,,"",""
+ball,2,3.2,Mexico,D Panda,GE Gutierrez Chavez,Imran Ahmed Kaneez,1,0,,,,,,"",""
+ball,2,3.3,Mexico,GE Gutierrez Chavez,D Panda,Imran Ahmed Kaneez,2,0,,,,,,"",""
+ball,2,3.4,Mexico,GE Gutierrez Chavez,D Panda,Imran Ahmed Kaneez,0,0,,,,,,"",""
+ball,2,3.5,Mexico,GE Gutierrez Chavez,D Panda,Imran Ahmed Kaneez,0,0,,,,,,"",""
+ball,2,3.6,Mexico,GE Gutierrez Chavez,D Panda,Imran Ahmed Kaneez,0,0,,,,,,"",""
+ball,2,3.7,Mexico,GE Gutierrez Chavez,D Panda,Imran Ahmed Kaneez,1,0,,,,,,"",""
+ball,2,4.1,Mexico,GE Gutierrez Chavez,D Panda,J Cutinho,0,0,,,,,,caught,GE Gutierrez Chavez
+ball,2,4.2,Mexico,J Byrappa,D Panda,J Cutinho,0,0,,,,,,"",""
+ball,2,4.3,Mexico,J Byrappa,D Panda,J Cutinho,1,0,,,,,,"",""
+ball,2,4.4,Mexico,D Panda,J Byrappa,J Cutinho,1,0,,,,,,"",""
+ball,2,4.5,Mexico,J Byrappa,D Panda,J Cutinho,0,0,,,,,,"",""
+ball,2,4.6,Mexico,J Byrappa,D Panda,J Cutinho,0,0,,,,,,"",""
+ball,2,5.1,Mexico,D Panda,J Byrappa,Imran Ahmed Kaneez,3,0,,,,,,"",""
+ball,2,5.2,Mexico,J Byrappa,D Panda,Imran Ahmed Kaneez,0,0,,,,,,"",""
+ball,2,5.3,Mexico,J Byrappa,D Panda,Imran Ahmed Kaneez,4,0,,,,,,"",""

@@ -1,0 +1,277 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,United Arab Emirates
+info,team,South Africa
+info,gender,male
+info,season,2025/26
+info,date,2026/02/18
+info,event,ICC Men's T20 World Cup
+info,match_number,34
+info,venue,"Arun Jaitley Stadium, Delhi"
+info,city,Delhi
+info,toss_winner,South Africa
+info,toss_decision,field
+info,player_of_match,C Bosch
+info,umpire,LS Reifer
+info,umpire,RJ Tucker
+info,reserve_umpire,R Black
+info,tv_umpire,PR Reiffel
+info,match_referee,J Srinath
+info,winner,South Africa
+info,winner_wickets,6
+info,player,United Arab Emirates,A Sharma
+info,player,United Arab Emirates,Waseem Muhammad
+info,player,United Arab Emirates,A Sharafu
+info,player,United Arab Emirates,Shoaib Khan
+info,player,United Arab Emirates,Syed Haider
+info,player,United Arab Emirates,Muhammad Arfan
+info,player,United Arab Emirates,D Parashar
+info,player,United Arab Emirates,Muhammad Farooq
+info,player,United Arab Emirates,Haider Ali
+info,player,United Arab Emirates,Junaid Siddique
+info,player,United Arab Emirates,Muhammad Jawadullah
+info,player,South Africa,AK Markram
+info,player,South Africa,Q de Kock
+info,player,South Africa,RD Rickelton
+info,player,South Africa,D Brevis
+info,player,South Africa,T Stubbs
+info,player,South Africa,JF Smith
+info,player,South Africa,GF Linde
+info,player,South Africa,C Bosch
+info,player,South Africa,K Rabada
+info,player,South Africa,A Nortje
+info,player,South Africa,KT Maphaka
+info,registry,people,A Nortje,acdc62f5
+info,registry,people,A Sharafu,06cad4f0
+info,registry,people,A Sharma,5661ef90
+info,registry,people,AK Markram,6a26221c
+info,registry,people,C Bosch,172dff15
+info,registry,people,D Brevis,844e79d1
+info,registry,people,D Parashar,395179e8
+info,registry,people,GF Linde,e5437608
+info,registry,people,H Kaushik,2bfec670
+info,registry,people,Haider Ali,dd572696
+info,registry,people,J Srinath,bad31fac
+info,registry,people,JF Smith,91cd48e0
+info,registry,people,Junaid Siddique,84dc72db
+info,registry,people,K Rabada,e62dd25d
+info,registry,people,KT Maphaka,107c26fb
+info,registry,people,LS Reifer,5dee559a
+info,registry,people,Muhammad Arfan,1294ee6d
+info,registry,people,Muhammad Farooq,8f3c6b8a
+info,registry,people,Muhammad Jawadullah,098a757c
+info,registry,people,PR Reiffel,c9354f29
+info,registry,people,Q de Kock,372455c4
+info,registry,people,R Black,156c8fb1
+info,registry,people,RD Rickelton,e66732f8
+info,registry,people,RJ Tucker,38810cfc
+info,registry,people,Shoaib Khan,fdee4a01
+info,registry,people,Syed Haider,ab23a6a1
+info,registry,people,T Stubbs,85b3fab2
+info,registry,people,Waseem Muhammad,6f02fe2a
+ball,1,0.1,United Arab Emirates,A Sharma,Waseem Muhammad,K Rabada,0,0,,,,,,"",""
+ball,1,0.2,United Arab Emirates,A Sharma,Waseem Muhammad,K Rabada,0,0,,,,,,"",""
+ball,1,0.3,United Arab Emirates,A Sharma,Waseem Muhammad,K Rabada,6,0,,,,,,"",""
+ball,1,0.4,United Arab Emirates,A Sharma,Waseem Muhammad,K Rabada,0,0,,,,,,"",""
+ball,1,0.5,United Arab Emirates,A Sharma,Waseem Muhammad,K Rabada,0,0,,,,,,"",""
+ball,1,0.6,United Arab Emirates,A Sharma,Waseem Muhammad,K Rabada,0,0,,,,,,"",""
+ball,1,1.1,United Arab Emirates,Waseem Muhammad,A Sharma,KT Maphaka,0,1,1,,,,,"",""
+ball,1,1.2,United Arab Emirates,Waseem Muhammad,A Sharma,KT Maphaka,0,1,1,,,,,"",""
+ball,1,1.3,United Arab Emirates,Waseem Muhammad,A Sharma,KT Maphaka,4,0,,,,,,"",""
+ball,1,1.4,United Arab Emirates,Waseem Muhammad,A Sharma,KT Maphaka,2,0,,,,,,"",""
+ball,1,1.5,United Arab Emirates,Waseem Muhammad,A Sharma,KT Maphaka,0,0,,,,,,"",""
+ball,1,1.6,United Arab Emirates,Waseem Muhammad,A Sharma,KT Maphaka,1,0,,,,,,"",""
+ball,1,1.7,United Arab Emirates,A Sharma,Waseem Muhammad,KT Maphaka,0,0,,,,,,"",""
+ball,1,1.8,United Arab Emirates,A Sharma,Waseem Muhammad,KT Maphaka,0,1,1,,,,,"",""
+ball,1,1.9,United Arab Emirates,A Sharma,Waseem Muhammad,KT Maphaka,0,0,,,,,,"",""
+ball,1,2.1,United Arab Emirates,Waseem Muhammad,A Sharma,K Rabada,4,0,,,,,,"",""
+ball,1,2.2,United Arab Emirates,Waseem Muhammad,A Sharma,K Rabada,4,0,,,,,,"",""
+ball,1,2.3,United Arab Emirates,Waseem Muhammad,A Sharma,K Rabada,4,0,,,,,,"",""
+ball,1,2.4,United Arab Emirates,Waseem Muhammad,A Sharma,K Rabada,0,0,,,,,,"",""
+ball,1,2.5,United Arab Emirates,Waseem Muhammad,A Sharma,K Rabada,1,0,,,,,,"",""
+ball,1,2.6,United Arab Emirates,A Sharma,Waseem Muhammad,K Rabada,1,0,,,,,,"",""
+ball,1,3.1,United Arab Emirates,A Sharma,Waseem Muhammad,A Nortje,0,0,,,,,,"",""
+ball,1,3.2,United Arab Emirates,A Sharma,Waseem Muhammad,A Nortje,4,0,,,,,,"",""
+ball,1,3.3,United Arab Emirates,A Sharma,Waseem Muhammad,A Nortje,0,0,,,,,,"",""
+ball,1,3.4,United Arab Emirates,A Sharma,Waseem Muhammad,A Nortje,0,0,,,,,,"",""
+ball,1,3.5,United Arab Emirates,A Sharma,Waseem Muhammad,A Nortje,1,0,,,,,,"",""
+ball,1,3.6,United Arab Emirates,Waseem Muhammad,A Sharma,A Nortje,1,0,,,,,,"",""
+ball,1,4.1,United Arab Emirates,Waseem Muhammad,A Sharma,GF Linde,1,0,,,,,,"",""
+ball,1,4.2,United Arab Emirates,A Sharma,Waseem Muhammad,GF Linde,1,0,,,,,,"",""
+ball,1,4.3,United Arab Emirates,Waseem Muhammad,A Sharma,GF Linde,0,0,,,,,,lbw,Waseem Muhammad
+ball,1,4.4,United Arab Emirates,A Sharafu,A Sharma,GF Linde,0,0,,,,,,"",""
+ball,1,4.5,United Arab Emirates,A Sharafu,A Sharma,GF Linde,0,0,,,,,,"",""
+ball,1,4.6,United Arab Emirates,A Sharafu,A Sharma,GF Linde,4,0,,,,,,"",""
+ball,1,5.1,United Arab Emirates,A Sharma,A Sharafu,C Bosch,0,0,,,,,,"",""
+ball,1,5.2,United Arab Emirates,A Sharma,A Sharafu,C Bosch,0,0,,,,,,caught,A Sharma
+ball,1,5.3,United Arab Emirates,Shoaib Khan,A Sharafu,C Bosch,1,0,,,,,,"",""
+ball,1,5.4,United Arab Emirates,A Sharafu,Shoaib Khan,C Bosch,0,0,,,,,,"",""
+ball,1,5.5,United Arab Emirates,A Sharafu,Shoaib Khan,C Bosch,0,0,,,,,,"",""
+ball,1,5.6,United Arab Emirates,A Sharafu,Shoaib Khan,C Bosch,1,0,,,,,,"",""
+ball,1,6.1,United Arab Emirates,A Sharafu,Shoaib Khan,GF Linde,1,0,,,,,,"",""
+ball,1,6.2,United Arab Emirates,Shoaib Khan,A Sharafu,GF Linde,1,0,,,,,,"",""
+ball,1,6.3,United Arab Emirates,A Sharafu,Shoaib Khan,GF Linde,1,0,,,,,,"",""
+ball,1,6.4,United Arab Emirates,Shoaib Khan,A Sharafu,GF Linde,1,0,,,,,,"",""
+ball,1,6.5,United Arab Emirates,A Sharafu,Shoaib Khan,GF Linde,0,0,,,,,,"",""
+ball,1,6.6,United Arab Emirates,A Sharafu,Shoaib Khan,GF Linde,0,0,,,,,,"",""
+ball,1,7.1,United Arab Emirates,Shoaib Khan,A Sharafu,A Nortje,0,0,,,,,,"",""
+ball,1,7.2,United Arab Emirates,Shoaib Khan,A Sharafu,A Nortje,1,0,,,,,,"",""
+ball,1,7.3,United Arab Emirates,A Sharafu,Shoaib Khan,A Nortje,4,0,,,,,,"",""
+ball,1,7.4,United Arab Emirates,A Sharafu,Shoaib Khan,A Nortje,6,0,,,,,,"",""
+ball,1,7.5,United Arab Emirates,A Sharafu,Shoaib Khan,A Nortje,1,0,,,,,,"",""
+ball,1,7.6,United Arab Emirates,Shoaib Khan,A Sharafu,A Nortje,0,0,,,,,,"",""
+ball,1,8.1,United Arab Emirates,A Sharafu,Shoaib Khan,GF Linde,0,0,,,,,,"",""
+ball,1,8.2,United Arab Emirates,A Sharafu,Shoaib Khan,GF Linde,1,0,,,,,,"",""
+ball,1,8.3,United Arab Emirates,Shoaib Khan,A Sharafu,GF Linde,0,0,,,,,,"",""
+ball,1,8.4,United Arab Emirates,Shoaib Khan,A Sharafu,GF Linde,1,0,,,,,,"",""
+ball,1,8.5,United Arab Emirates,A Sharafu,Shoaib Khan,GF Linde,1,0,,,,,,"",""
+ball,1,8.6,United Arab Emirates,Shoaib Khan,A Sharafu,GF Linde,1,0,,,,,,"",""
+ball,1,9.1,United Arab Emirates,Shoaib Khan,A Sharafu,C Bosch,0,0,,,,,,"",""
+ball,1,9.2,United Arab Emirates,Shoaib Khan,A Sharafu,C Bosch,0,0,,,,,,caught,Shoaib Khan
+ball,1,9.3,United Arab Emirates,Syed Haider,A Sharafu,C Bosch,2,0,,,,,,"",""
+ball,1,9.4,United Arab Emirates,Syed Haider,A Sharafu,C Bosch,0,0,,,,,,"",""
+ball,1,9.5,United Arab Emirates,Syed Haider,A Sharafu,C Bosch,0,0,,,,,,"",""
+ball,1,9.6,United Arab Emirates,Syed Haider,A Sharafu,C Bosch,0,0,,,,,,"",""
+ball,1,10.1,United Arab Emirates,A Sharafu,Syed Haider,KT Maphaka,1,0,,,,,,"",""
+ball,1,10.2,United Arab Emirates,Syed Haider,A Sharafu,KT Maphaka,1,0,,,,,,"",""
+ball,1,10.3,United Arab Emirates,A Sharafu,Syed Haider,KT Maphaka,0,0,,,,,,"",""
+ball,1,10.4,United Arab Emirates,A Sharafu,Syed Haider,KT Maphaka,0,4,,,,4,,"",""
+ball,1,10.5,United Arab Emirates,A Sharafu,Syed Haider,KT Maphaka,1,0,,,,,,"",""
+ball,1,10.6,United Arab Emirates,Syed Haider,A Sharafu,KT Maphaka,0,0,,,,,,"",""
+ball,1,11.1,United Arab Emirates,A Sharafu,Syed Haider,K Rabada,1,0,,,,,,"",""
+ball,1,11.2,United Arab Emirates,Syed Haider,A Sharafu,K Rabada,0,0,,,,,,"",""
+ball,1,11.3,United Arab Emirates,Syed Haider,A Sharafu,K Rabada,1,0,,,,,,"",""
+ball,1,11.4,United Arab Emirates,A Sharafu,Syed Haider,K Rabada,0,0,,,,,,"",""
+ball,1,11.5,United Arab Emirates,A Sharafu,Syed Haider,K Rabada,1,0,,,,,,"",""
+ball,1,11.6,United Arab Emirates,Syed Haider,A Sharafu,K Rabada,0,0,,,,,,"",""
+ball,1,12.1,United Arab Emirates,A Sharafu,Syed Haider,GF Linde,1,0,,,,,,"",""
+ball,1,12.2,United Arab Emirates,Syed Haider,A Sharafu,GF Linde,0,0,,,,,,"",""
+ball,1,12.3,United Arab Emirates,Syed Haider,A Sharafu,GF Linde,0,0,,,,,,"",""
+ball,1,12.4,United Arab Emirates,Syed Haider,A Sharafu,GF Linde,0,0,,,,,,"",""
+ball,1,12.5,United Arab Emirates,Syed Haider,A Sharafu,GF Linde,1,0,,,,,,"",""
+ball,1,12.6,United Arab Emirates,A Sharafu,Syed Haider,GF Linde,1,0,,,,,,"",""
+ball,1,13.1,United Arab Emirates,A Sharafu,Syed Haider,A Nortje,1,0,,,,,,"",""
+ball,1,13.2,United Arab Emirates,Syed Haider,A Sharafu,A Nortje,1,0,,,,,,"",""
+ball,1,13.3,United Arab Emirates,A Sharafu,Syed Haider,A Nortje,1,0,,,,,,"",""
+ball,1,13.4,United Arab Emirates,Syed Haider,A Sharafu,A Nortje,0,0,,,,,,caught,Syed Haider
+ball,1,13.5,United Arab Emirates,Muhammad Arfan,A Sharafu,A Nortje,1,0,,,,,,"",""
+ball,1,13.6,United Arab Emirates,A Sharafu,Muhammad Arfan,A Nortje,1,0,,,,,,"",""
+ball,1,14.1,United Arab Emirates,A Sharafu,Muhammad Arfan,KT Maphaka,4,0,,,,,,"",""
+ball,1,14.2,United Arab Emirates,A Sharafu,Muhammad Arfan,KT Maphaka,1,0,,,,,,"",""
+ball,1,14.3,United Arab Emirates,Muhammad Arfan,A Sharafu,KT Maphaka,0,0,,,,,,"",""
+ball,1,14.4,United Arab Emirates,Muhammad Arfan,A Sharafu,KT Maphaka,0,5,5,,,,,"",""
+ball,1,14.5,United Arab Emirates,Muhammad Arfan,A Sharafu,KT Maphaka,1,0,,,,,,"",""
+ball,1,14.6,United Arab Emirates,A Sharafu,Muhammad Arfan,KT Maphaka,1,0,,,,,,"",""
+ball,1,14.7,United Arab Emirates,Muhammad Arfan,A Sharafu,KT Maphaka,1,0,,,,,,"",""
+ball,1,15.1,United Arab Emirates,Muhammad Arfan,A Sharafu,C Bosch,0,0,,,,,,"",""
+ball,1,15.2,United Arab Emirates,Muhammad Arfan,A Sharafu,C Bosch,0,0,,,,,,"",""
+ball,1,15.3,United Arab Emirates,Muhammad Arfan,A Sharafu,C Bosch,1,0,,,,,,"",""
+ball,1,15.4,United Arab Emirates,A Sharafu,Muhammad Arfan,C Bosch,0,0,,,,,,"",""
+ball,1,15.5,United Arab Emirates,A Sharafu,Muhammad Arfan,C Bosch,4,0,,,,,,"",""
+ball,1,15.6,United Arab Emirates,A Sharafu,Muhammad Arfan,C Bosch,0,0,,,,,,"",""
+ball,1,16.1,United Arab Emirates,Muhammad Arfan,A Sharafu,K Rabada,1,0,,,,,,"",""
+ball,1,16.2,United Arab Emirates,A Sharafu,Muhammad Arfan,K Rabada,1,0,,,,,,"",""
+ball,1,16.3,United Arab Emirates,Muhammad Arfan,A Sharafu,K Rabada,0,0,,,,,,"",""
+ball,1,16.4,United Arab Emirates,Muhammad Arfan,A Sharafu,K Rabada,0,0,,,,,,"",""
+ball,1,16.5,United Arab Emirates,Muhammad Arfan,A Sharafu,K Rabada,1,0,,,,,,"",""
+ball,1,16.6,United Arab Emirates,A Sharafu,Muhammad Arfan,K Rabada,4,0,,,,,,"",""
+ball,1,17.1,United Arab Emirates,Muhammad Arfan,A Sharafu,A Nortje,1,0,,,,,,"",""
+ball,1,17.2,United Arab Emirates,A Sharafu,Muhammad Arfan,A Nortje,1,0,,,,,,"",""
+ball,1,17.3,United Arab Emirates,Muhammad Arfan,A Sharafu,A Nortje,1,0,,,,,,"",""
+ball,1,17.4,United Arab Emirates,A Sharafu,Muhammad Arfan,A Nortje,0,0,,,,,,caught,A Sharafu
+ball,1,17.5,United Arab Emirates,D Parashar,Muhammad Arfan,A Nortje,1,0,,,,,,"",""
+ball,1,17.6,United Arab Emirates,Muhammad Arfan,D Parashar,A Nortje,1,0,,,,,,"",""
+ball,1,18.1,United Arab Emirates,Muhammad Arfan,D Parashar,KT Maphaka,0,0,,,,,,"",""
+ball,1,18.2,United Arab Emirates,Muhammad Arfan,D Parashar,KT Maphaka,1,0,,,,,,"",""
+ball,1,18.3,United Arab Emirates,D Parashar,Muhammad Arfan,KT Maphaka,0,0,,,,,,"",""
+ball,1,18.4,United Arab Emirates,D Parashar,Muhammad Arfan,KT Maphaka,1,0,,,,,,"",""
+ball,1,18.5,United Arab Emirates,Muhammad Arfan,D Parashar,KT Maphaka,1,0,,,,,,"",""
+ball,1,18.6,United Arab Emirates,D Parashar,Muhammad Arfan,KT Maphaka,1,0,,,,,,"",""
+ball,1,19.1,United Arab Emirates,D Parashar,Muhammad Arfan,C Bosch,1,0,,,,,,"",""
+ball,1,19.2,United Arab Emirates,Muhammad Arfan,D Parashar,C Bosch,0,0,,,,,,caught,Muhammad Arfan
+ball,1,19.3,United Arab Emirates,Muhammad Farooq,D Parashar,C Bosch,1,0,,,,,,"",""
+ball,1,19.4,United Arab Emirates,D Parashar,Muhammad Farooq,C Bosch,0,0,,,,,,"",""
+ball,1,19.5,United Arab Emirates,D Parashar,Muhammad Farooq,C Bosch,1,0,,,,,,"",""
+ball,1,19.6,United Arab Emirates,Muhammad Farooq,D Parashar,C Bosch,0,1,,,1,,,"",""
+ball,2,0.1,South Africa,AK Markram,Q de Kock,D Parashar,1,0,,,,,,"",""
+ball,2,0.2,South Africa,Q de Kock,AK Markram,D Parashar,0,0,,,,,,"",""
+ball,2,0.3,South Africa,Q de Kock,AK Markram,D Parashar,0,0,,,,,,"",""
+ball,2,0.4,South Africa,Q de Kock,AK Markram,D Parashar,0,0,,,,,,"",""
+ball,2,0.5,South Africa,Q de Kock,AK Markram,D Parashar,0,0,,,,,,"",""
+ball,2,0.6,South Africa,Q de Kock,AK Markram,D Parashar,0,0,,,,,,"",""
+ball,2,1.1,South Africa,AK Markram,Q de Kock,Junaid Siddique,4,0,,,,,,"",""
+ball,2,1.2,South Africa,AK Markram,Q de Kock,Junaid Siddique,0,0,,,,,,"",""
+ball,2,1.3,South Africa,AK Markram,Q de Kock,Junaid Siddique,4,0,,,,,,"",""
+ball,2,1.4,South Africa,AK Markram,Q de Kock,Junaid Siddique,1,0,,,,,,"",""
+ball,2,1.5,South Africa,Q de Kock,AK Markram,Junaid Siddique,0,0,,,,,,"",""
+ball,2,1.6,South Africa,Q de Kock,AK Markram,Junaid Siddique,4,0,,,,,,"",""
+ball,2,2.1,South Africa,AK Markram,Q de Kock,Haider Ali,4,0,,,,,,"",""
+ball,2,2.2,South Africa,AK Markram,Q de Kock,Haider Ali,0,0,,,,,,"",""
+ball,2,2.3,South Africa,AK Markram,Q de Kock,Haider Ali,4,0,,,,,,"",""
+ball,2,2.4,South Africa,AK Markram,Q de Kock,Haider Ali,6,0,,,,,,"",""
+ball,2,2.5,South Africa,AK Markram,Q de Kock,Haider Ali,4,0,,,,,,"",""
+ball,2,2.6,South Africa,AK Markram,Q de Kock,Haider Ali,0,0,,,,,,bowled,AK Markram
+ball,2,3.1,South Africa,Q de Kock,RD Rickelton,D Parashar,1,0,,,,,,"",""
+ball,2,3.2,South Africa,RD Rickelton,Q de Kock,D Parashar,0,0,,,,,,"",""
+ball,2,3.3,South Africa,RD Rickelton,Q de Kock,D Parashar,1,0,,,,,,"",""
+ball,2,3.4,South Africa,Q de Kock,RD Rickelton,D Parashar,1,0,,,,,,"",""
+ball,2,3.5,South Africa,RD Rickelton,Q de Kock,D Parashar,4,0,,,,,,"",""
+ball,2,3.6,South Africa,RD Rickelton,Q de Kock,D Parashar,0,0,,,,,,"",""
+ball,2,4.1,South Africa,Q de Kock,RD Rickelton,Junaid Siddique,0,0,,,,,,"",""
+ball,2,4.2,South Africa,Q de Kock,RD Rickelton,Junaid Siddique,0,0,,,,,,"",""
+ball,2,4.3,South Africa,Q de Kock,RD Rickelton,Junaid Siddique,4,0,,,,,,"",""
+ball,2,4.4,South Africa,Q de Kock,RD Rickelton,Junaid Siddique,0,0,,,,,,"",""
+ball,2,4.5,South Africa,Q de Kock,RD Rickelton,Junaid Siddique,0,0,,,,,,"",""
+ball,2,4.6,South Africa,Q de Kock,RD Rickelton,Junaid Siddique,4,0,,,,,,"",""
+ball,2,5.1,South Africa,RD Rickelton,Q de Kock,Muhammad Jawadullah,4,0,,,,,,"",""
+ball,2,5.2,South Africa,RD Rickelton,Q de Kock,Muhammad Jawadullah,4,0,,,,,,"",""
+ball,2,5.3,South Africa,RD Rickelton,Q de Kock,Muhammad Jawadullah,1,0,,,,,,"",""
+ball,2,5.4,South Africa,Q de Kock,RD Rickelton,Muhammad Jawadullah,0,0,,,,,,caught,Q de Kock
+ball,2,5.5,South Africa,D Brevis,RD Rickelton,Muhammad Jawadullah,0,0,,,,,,"",""
+ball,2,5.6,South Africa,D Brevis,RD Rickelton,Muhammad Jawadullah,0,0,,,,,,"",""
+ball,2,6.1,South Africa,RD Rickelton,D Brevis,Haider Ali,1,0,,,,,,"",""
+ball,2,6.2,South Africa,D Brevis,RD Rickelton,Haider Ali,2,0,,,,,,"",""
+ball,2,6.3,South Africa,D Brevis,RD Rickelton,Haider Ali,1,0,,,,,,"",""
+ball,2,6.4,South Africa,RD Rickelton,D Brevis,Haider Ali,1,0,,,,,,"",""
+ball,2,6.5,South Africa,D Brevis,RD Rickelton,Haider Ali,0,0,,,,,,"",""
+ball,2,6.6,South Africa,D Brevis,RD Rickelton,Haider Ali,1,0,,,,,,"",""
+ball,2,7.1,South Africa,D Brevis,RD Rickelton,Muhammad Jawadullah,4,0,,,,,,"",""
+ball,2,7.2,South Africa,D Brevis,RD Rickelton,Muhammad Jawadullah,0,0,,,,,,"",""
+ball,2,7.3,South Africa,D Brevis,RD Rickelton,Muhammad Jawadullah,0,0,,,,,,"",""
+ball,2,7.4,South Africa,D Brevis,RD Rickelton,Muhammad Jawadullah,6,0,,,,,,"",""
+ball,2,7.5,South Africa,D Brevis,RD Rickelton,Muhammad Jawadullah,0,0,,,,,,"",""
+ball,2,7.6,South Africa,D Brevis,RD Rickelton,Muhammad Jawadullah,1,0,,,,,,"",""
+ball,2,8.1,South Africa,D Brevis,RD Rickelton,Haider Ali,2,0,,,,,,"",""
+ball,2,8.2,South Africa,D Brevis,RD Rickelton,Haider Ali,6,0,,,,,,"",""
+ball,2,8.3,South Africa,D Brevis,RD Rickelton,Haider Ali,0,0,,,,,,"",""
+ball,2,8.4,South Africa,D Brevis,RD Rickelton,Haider Ali,0,0,,,,,,"",""
+ball,2,8.5,South Africa,D Brevis,RD Rickelton,Haider Ali,1,0,,,,,,"",""
+ball,2,8.6,South Africa,RD Rickelton,D Brevis,Haider Ali,0,4,,,4,,,"",""
+ball,2,9.1,South Africa,D Brevis,RD Rickelton,Muhammad Arfan,1,0,,,,,,"",""
+ball,2,9.2,South Africa,RD Rickelton,D Brevis,Muhammad Arfan,1,0,,,,,,"",""
+ball,2,9.3,South Africa,D Brevis,RD Rickelton,Muhammad Arfan,0,1,1,,,,,"",""
+ball,2,9.4,South Africa,D Brevis,RD Rickelton,Muhammad Arfan,2,0,,,,,,"",""
+ball,2,9.5,South Africa,D Brevis,RD Rickelton,Muhammad Arfan,0,0,,,,,,"",""
+ball,2,9.6,South Africa,D Brevis,RD Rickelton,Muhammad Arfan,1,0,,,,,,"",""
+ball,2,9.7,South Africa,RD Rickelton,D Brevis,Muhammad Arfan,1,0,,,,,,"",""
+ball,2,10.1,South Africa,RD Rickelton,D Brevis,Muhammad Farooq,6,0,,,,,,"",""
+ball,2,10.2,South Africa,RD Rickelton,D Brevis,Muhammad Farooq,0,0,,,,,,"",""
+ball,2,10.3,South Africa,RD Rickelton,D Brevis,Muhammad Farooq,6,0,,,,,,"",""
+ball,2,10.4,South Africa,RD Rickelton,D Brevis,Muhammad Farooq,0,0,,,,,,caught,RD Rickelton
+ball,2,10.5,South Africa,T Stubbs,D Brevis,Muhammad Farooq,1,0,,,,,,"",""
+ball,2,10.6,South Africa,D Brevis,T Stubbs,Muhammad Farooq,1,0,,,,,,"",""
+ball,2,11.1,South Africa,D Brevis,T Stubbs,Muhammad Arfan,0,1,1,,,,,"",""
+ball,2,11.2,South Africa,D Brevis,T Stubbs,Muhammad Arfan,6,0,,,,,,"",""
+ball,2,11.3,South Africa,D Brevis,T Stubbs,Muhammad Arfan,1,0,,,,,,"",""
+ball,2,11.4,South Africa,T Stubbs,D Brevis,Muhammad Arfan,1,0,,,,,,"",""
+ball,2,11.5,South Africa,D Brevis,T Stubbs,Muhammad Arfan,0,0,,,,,,caught,D Brevis
+ball,2,11.6,South Africa,JF Smith,T Stubbs,Muhammad Arfan,0,0,,,,,,"",""
+ball,2,11.7,South Africa,JF Smith,T Stubbs,Muhammad Arfan,0,0,,,,,,"",""
+ball,2,12.1,South Africa,T Stubbs,JF Smith,Muhammad Farooq,1,0,,,,,,"",""
+ball,2,12.2,South Africa,JF Smith,T Stubbs,Muhammad Farooq,1,0,,,,,,"",""
+ball,2,12.3,South Africa,T Stubbs,JF Smith,Muhammad Farooq,1,0,,,,,,"",""
+ball,2,12.4,South Africa,JF Smith,T Stubbs,Muhammad Farooq,1,0,,,,,,"",""
+ball,2,12.5,South Africa,T Stubbs,JF Smith,Muhammad Farooq,0,0,,,,,,"",""
+ball,2,12.6,South Africa,T Stubbs,JF Smith,Muhammad Farooq,1,0,,,,,,"",""
+ball,2,13.1,South Africa,T Stubbs,JF Smith,Junaid Siddique,1,0,,,,,,"",""
+ball,2,13.2,South Africa,JF Smith,T Stubbs,Junaid Siddique,1,0,,,,,,"",""
