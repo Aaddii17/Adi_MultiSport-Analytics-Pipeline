@@ -2,9 +2,9 @@ import streamlit as st
 import requests
 import pandas as pd
 
-def fetch_live_matches(api_key):
-    """Fetches real-time JSON data from the Cricbuzz API."""
-    url = "https://cricbuzz-cricket.p.rapidapi.com/matches/v1/live"
+def fetch_api_data(api_key, endpoint):
+    """Fetches data from a specific Cricbuzz endpoint."""
+    url = f"https://cricbuzz-cricket.p.rapidapi.com/{endpoint}"
     headers = {
         "X-RapidAPI-Key": api_key,
         "X-RapidAPI-Host": "cricbuzz-cricket.p.rapidapi.com"
@@ -35,29 +35,14 @@ def run_live_cricket():
     st.header("🔴 Live Match Center & Schedule")
     st.markdown("---")
     
-    # Secure Vault Connection
     if "CRICBUZZ_API_KEY" in st.secrets:
         API_KEY = st.secrets["CRICBUZZ_API_KEY"]
     else:
         st.warning("API Key not found in Streamlit Secrets.")
         return
 
-    if st.button("🔄 Refresh Live Scores"):
+    if st.button("🔄 Refresh Live Scores & Schedule"):
         st.rerun()
-
-    with st.spinner("Connecting to global cricket feeds..."):
-        data = fetch_live_matches(API_KEY)
-
-    if not data:
-        st.error("Could not connect to the API. It might be rate-limited.")
-        return
-
-    # Extract all matches regardless of API nesting structure
-    all_matches = extract_all_matches(data)
-    
-    if not all_matches:
-        st.info("No matches are currently populated in the live feed.")
-        return
 
     tab1, tab2 = st.tabs(["🔴 Live Match Tracker", "📅 Upcoming Fixtures"])
 
@@ -65,22 +50,24 @@ def run_live_cricket():
     # TAB 1: LIVE MATCH TRACKER
     # ==========================================
     with tab1:
+        with st.spinner("Fetching live global matches..."):
+            live_data = fetch_api_data(API_KEY, "matches/v1/live")
+            
+        all_live_matches = extract_all_matches(live_data) if live_data else []
         live_found = False
-        for match in all_matches:
+        
+        for match in all_live_matches:
             match_info = match.get('matchInfo', {})
             state = match_info.get('state', '').lower()
             
-            # Show matches even if they are on a break, toss, or delayed
-            active_states = ['inprogress', 'live', 'innings break', 'toss', 'lunch', 'tea', 'stumps', 'delay', 'rain']
-            
-            if state in active_states:
+            # Catching matches even if they are on a lunch/innings break or toss
+            if state in ['inprogress', 'live', 'innings break', 'toss', 'lunch', 'tea', 'stumps', 'delay', 'rain']:
                 live_found = True
                 series_name = match_info.get('seriesName', 'International Match')
                 status_text = match_info.get('status', 'Match underway')
                 team1 = match_info.get('team1', {}).get('teamName', 'Team 1')
                 team2 = match_info.get('team2', {}).get('teamName', 'Team 2')
                 
-                # Safely extract scores
                 match_score = match.get('matchScore', {})
                 t1_data = match_score.get('team1Score', {}).get('inngs1', {})
                 t1_display = f"{t1_data.get('score', 0)}/{t1_data.get('wickets', 0)} ({t1_data.get('overs', 0)} ov)" if 'score' in t1_data else "Yet to bat"
@@ -101,27 +88,32 @@ def run_live_cricket():
                 """, unsafe_allow_html=True)
                 
         if not live_found:
-            st.info("No active play happening this exact minute (matches might be finished or upcoming). Check the Next Fixtures tab!")
+            st.info("No active play happening right now. Check the Upcoming Fixtures tab!")
 
     # ==========================================
     # TAB 2: UPCOMING FIXTURES
     # ==========================================
     with tab2:
-        upcoming_matches = []
-        for match in all_matches:
+        with st.spinner("Fetching complete upcoming schedule..."):
+            upcoming_data = fetch_api_data(API_KEY, "matches/v1/upcoming")
+            
+        all_upcoming_matches = extract_all_matches(upcoming_data) if upcoming_data else []
+        upcoming_list = []
+        
+        for match in all_upcoming_matches:
             match_info = match.get('matchInfo', {})
             state = match_info.get('state', '').lower()
             
             if state in ['preview', 'upcoming']:
                 venue = match_info.get('venueInfo', {})
-                upcoming_matches.append({
+                upcoming_list.append({
                     "Tournament": match_info.get('seriesName', 'Tournament'),
                     "Fixture": f"{match_info.get('team1', {}).get('teamName')} vs {match_info.get('team2', {}).get('teamName')}",
                     "Status": match_info.get('status', 'Upcoming'),
                     "Location": f"{venue.get('groundName', '')}, {venue.get('city', '')}"
                 })
                 
-        if upcoming_matches:
-            st.dataframe(pd.DataFrame(upcoming_matches), use_container_width=True, hide_index=True)
+        if upcoming_list:
+            st.dataframe(pd.DataFrame(upcoming_list), use_container_width=True, hide_index=True)
         else:
-            st.info("No upcoming match schedules found in the current feed.")
+            st.info("No upcoming match schedules found in the API feed.")
