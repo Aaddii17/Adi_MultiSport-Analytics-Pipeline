@@ -1,3 +1,4 @@
-steamlit
+streamlit
 pandas
+pyarrow
 requests
