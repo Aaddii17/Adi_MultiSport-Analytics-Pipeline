@@ -3,23 +3,43 @@ import requests
 import pandas as pd
 from datetime import datetime
 
-def fetch_api_data(api_key, endpoint):
-    """Fetches data from a specific Cricbuzz endpoint."""
+def fetch_api_data(endpoint):
+    """Fetches data with a smart Fallback mechanism to protect API limits."""
     url = f"https://cricbuzz-cricket.p.rapidapi.com/{endpoint}"
-    headers = {
-        "X-RapidAPI-Key": api_key,
+    
+    primary_key = st.secrets.get("CRICBUZZ_API_KEY", "")
+    backup_key = st.secrets.get("CRICBUZZ_BACKUP_KEY", "")
+    
+    # ATTEMPT 1: Primary API
+    headers_primary = {
+        "X-RapidAPI-Key": primary_key,
         "X-RapidAPI-Host": "cricbuzz-cricket.p.rapidapi.com"
     }
+    
     try:
-        response = requests.get(url, headers=headers, timeout=10)
+        response = requests.get(url, headers=headers_primary, timeout=10)
         if response.status_code == 200:
             return response.json()
-        return None
     except Exception:
-        return None
+        pass # Silently fail and try backup
+
+    # ATTEMPT 2: Backup API
+    if backup_key:
+        headers_backup = {
+            "X-RapidAPI-Key": backup_key,
+            "X-RapidAPI-Host": "cricbuzz-cricket.p.rapidapi.com"
+        }
+        try:
+            backup_response = requests.get(url, headers=headers_backup, timeout=10)
+            if backup_response.status_code == 200:
+                return backup_response.json()
+        except Exception:
+            return None
+            
+    return None
 
 def extract_all_matches(json_data):
-    """Recursively parses the complex nested JSON structure to extract match blocks."""
+    """Recursively parses the complex nested JSON structure."""
     matches = []
     if isinstance(json_data, dict):
         if 'matchInfo' in json_data:
@@ -33,7 +53,6 @@ def extract_all_matches(json_data):
     return matches
 
 def format_timestamp(timestamp_ms):
-    """Converts millisecond Unix timestamp to a readable local date and time string."""
     if not timestamp_ms:
         return "TBD"
     try:
@@ -46,9 +65,7 @@ def run_live_cricket():
     st.header("🔴 Live Match Center & Global Schedule")
     st.markdown("---")
     
-    if "CRICBUZZ_API_KEY" in st.secrets:
-        API_KEY = st.secrets["CRICBUZZ_API_KEY"]
-    else:
+    if "CRICBUZZ_API_KEY" not in st.secrets:
         st.warning("API Key not found in Streamlit Secrets.")
         return
 
@@ -62,22 +79,27 @@ def run_live_cricket():
     # ==========================================
     with tab1:
         with st.spinner("Fetching live games..."):
-            live_data = fetch_api_data(API_KEY, "matches/v1/live")
+            live_data = fetch_api_data("matches/v1/live")
             
         all_live_matches = extract_all_matches(live_data) if live_data else []
         live_found = False
+        live_dict = {}
         
         for match in all_live_matches:
             match_info = match.get('matchInfo', {})
             state = match_info.get('state', '').lower()
+            match_id = match_info.get('matchId')
             
             active_states = ['inprogress', 'live', 'innings break', 'toss', 'lunch', 'tea', 'stumps', 'delay', 'rain']
-            if state in active_states:
+            if state in active_states and match_id:
                 live_found = True
                 series_name = match_info.get('seriesName', 'International Match')
                 status_text = match_info.get('status', 'Match underway')
                 team1 = match_info.get('team1', {}).get('teamName', 'Team 1')
                 team2 = match_info.get('team2', {}).get('teamName', 'Team 2')
+                fixture_name = f"{team1} vs {team2}"
+                
+                live_dict[f"{fixture_name} ({series_name})"] = match_id
                 
                 match_score = match.get('matchScore', {})
                 t1_data = match_score.get('team1Score', {}).get('inngs1', {})
@@ -102,11 +124,11 @@ def run_live_cricket():
             st.info("No active play happening right now. Switch to the Schedule or Recent tabs!")
 
     # ==========================================
-    # TAB 2: UPCOMING FIXTURES WITH TIMINGS
+    # TAB 2: UPCOMING FIXTURES
     # ==========================================
     with tab2:
         with st.spinner("Compiling full future schedule..."):
-            upcoming_data = fetch_api_data(API_KEY, "matches/v1/upcoming")
+            upcoming_data = fetch_api_data("matches/v1/upcoming")
             
         all_upcoming_matches = extract_all_matches(upcoming_data) if upcoming_data else []
         upcoming_list = []
@@ -120,43 +142,101 @@ def run_live_cricket():
                 start_time = format_timestamp(match_info.get('startDate'))
                 
                 upcoming_list.append({
-                    "Date & Time (Local)": start_time,
-                    "Tournament/Series": match_info.get('seriesName', 'Tournament'),
+                    "Date & Time": start_time,
+                    "Tournament": match_info.get('seriesName', 'Tournament'),
                     "Fixture": f"{match_info.get('team1', {}).get('teamName')} vs {match_info.get('team2', {}).get('teamName')}",
-                    "Venue Location": f"{venue.get('groundName', '')}, {venue.get('city', '')}",
-                    "Match Status": match_info.get('status', 'Scheduled')
+                    "Venue": f"{venue.get('groundName', '')}, {venue.get('city', '')}"
                 })
                 
         if upcoming_list:
-            df_upcoming = pd.DataFrame(upcoming_list)
-            st.dataframe(df_upcoming, use_container_width=True, hide_index=True)
+            st.dataframe(pd.DataFrame(upcoming_list), use_container_width=True, hide_index=True)
         else:
-            st.info("No upcoming match schedules found in the API feed.")
+            st.info("No upcoming match schedules found.")
 
     # ==========================================
-    # TAB 3: RECENT RESULTS
+    # TAB 3: RECENT RESULTS & DETAILED SCORECARDS
     # ==========================================
     with tab3:
         with st.spinner("Fetching completed matches..."):
-            recent_data = fetch_api_data(API_KEY, "matches/v1/recent")
+            recent_data = fetch_api_data("matches/v1/recent")
             
         all_recent_matches = extract_all_matches(recent_data) if recent_data else []
         recent_list = []
+        match_dict = {}
         
         for match in all_recent_matches:
             match_info = match.get('matchInfo', {})
             state = match_info.get('state', '').lower()
+            match_id = match_info.get('matchId')
             
-            if state == 'complete':
+            if state == 'complete' and match_id:
                 venue = match_info.get('venueInfo', {})
+                team1 = match_info.get('team1', {}).get('teamName', 'Team 1')
+                team2 = match_info.get('team2', {}).get('teamName', 'Team 2')
+                fixture_name = f"{team1} vs {team2}"
+                
                 recent_list.append({
                     "Tournament/Series": match_info.get('seriesName', 'Tournament'),
-                    "Fixture": f"{match_info.get('team1', {}).get('teamName')} vs {match_info.get('team2', {}).get('teamName')}",
-                    "Result Note": match_info.get('status', 'Match Finished'),
-                    "Venue": f"{venue.get('groundName', '')}, {venue.get('city', '')}"
+                    "Fixture": fixture_name,
+                    "Result Note": match_info.get('status', 'Match Finished')
                 })
+                match_dict[f"{fixture_name} - {match_info.get('seriesName')}"] = match_id
                 
         if recent_list:
             st.dataframe(pd.DataFrame(recent_list), use_container_width=True, hide_index=True)
+            
+            st.markdown("### 📊 Interactive Scorecard Viewer")
+            st.info("Select a match below to fetch the detailed batter & bowler statistics.")
+            
+            selected_match = st.selectbox("Select Match:", ["-- Select a Match --"] + list(match_dict.keys()))
+            
+            if selected_match != "-- Select a Match --":
+                selected_match_id = match_dict[selected_match]
+                
+                with st.spinner("Fetching detailed scorecard..."):
+                    scorecard_data = fetch_api_data(f"mcenter/v1/{selected_match_id}/hscard")
+                    
+                    if scorecard_data and 'scoreCard' in scorecard_data:
+                        for inning in scorecard_data['scoreCard']:
+                            inning_name = inning.get('batTeamDetails', {}).get('batTeamName', 'Innings')
+                            runs = inning.get('scoreDetails', {}).get('runs', 0)
+                            wickets = inning.get('scoreDetails', {}).get('wickets', 0)
+                            overs = inning.get('scoreDetails', {}).get('overs', 0.0)
+                            
+                            with st.expander(f"🏏 {inning_name} - {runs}/{wickets} ({overs} Ov)", expanded=True):
+                                # Extract Batters
+                                batter_data = inning.get('batTeamDetails', {}).get('batsmenData', {})
+                                b_list = []
+                                for b_id, b_info in batter_data.items():
+                                    b_list.append({
+                                        "Batter": b_info.get('batName', 'Unknown'),
+                                        "Dismissal": b_info.get('outDesc', ''),
+                                        "R": b_info.get('runs', 0),
+                                        "B": b_info.get('balls', 0),
+                                        "4s": b_info.get('boundaries', 0),
+                                        "6s": b_info.get('sixers', 0),
+                                        "SR": b_info.get('strikeRate', 0)
+                                    })
+                                if b_list:
+                                    st.markdown("**Batting**")
+                                    st.dataframe(pd.DataFrame(b_list), use_container_width=True, hide_index=True)
+                                
+                                # Extract Bowlers
+                                bowler_data = inning.get('bowlTeamDetails', {}).get('bowlersData', {})
+                                bowl_list = []
+                                for bw_id, bw_info in bowler_data.items():
+                                    bowl_list.append({
+                                        "Bowler": bw_info.get('bowlName', 'Unknown'),
+                                        "O": bw_info.get('overs', 0),
+                                        "M": bw_info.get('maidens', 0),
+                                        "R": bw_info.get('runs', 0),
+                                        "W": bw_info.get('wickets', 0),
+                                        "Econ": bw_info.get('economy', 0)
+                                    })
+                                if bowl_list:
+                                    st.markdown("**Bowling**")
+                                    st.dataframe(pd.DataFrame(bowl_list), use_container_width=True, hide_index=True)
+                    else:
+                        st.error("Detailed scorecard is not available for this match yet.")
         else:
-            st.info("No recent match results found in the API feed.")
+            st.info("No recent match results found.")
