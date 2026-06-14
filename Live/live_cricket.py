@@ -21,7 +21,7 @@ def fetch_api_data(endpoint):
         if response.status_code == 200:
             return response.json()
     except Exception:
-        pass # Silently fail and try backup
+        pass 
 
     # ATTEMPT 2: Backup API
     if backup_key:
@@ -83,23 +83,18 @@ def run_live_cricket():
             
         all_live_matches = extract_all_matches(live_data) if live_data else []
         live_found = False
-        live_dict = {}
         
         for match in all_live_matches:
             match_info = match.get('matchInfo', {})
             state = match_info.get('state', '').lower()
-            match_id = match_info.get('matchId')
             
             active_states = ['inprogress', 'live', 'innings break', 'toss', 'lunch', 'tea', 'stumps', 'delay', 'rain']
-            if state in active_states and match_id:
+            if state in active_states:
                 live_found = True
                 series_name = match_info.get('seriesName', 'International Match')
                 status_text = match_info.get('status', 'Match underway')
                 team1 = match_info.get('team1', {}).get('teamName', 'Team 1')
                 team2 = match_info.get('team2', {}).get('teamName', 'Team 2')
-                fixture_name = f"{team1} vs {team2}"
-                
-                live_dict[f"{fixture_name} ({series_name})"] = match_id
                 
                 match_score = match.get('matchScore', {})
                 t1_data = match_score.get('team1Score', {}).get('inngs1', {})
@@ -185,15 +180,16 @@ def run_live_cricket():
         if recent_list:
             st.dataframe(pd.DataFrame(recent_list), use_container_width=True, hide_index=True)
             
+            st.markdown("---")
             st.markdown("### 📊 Interactive Scorecard Viewer")
-            st.info("Select a match below to fetch the detailed batter & bowler statistics.")
+            st.info("Select a completed match below to retrieve player metrics safely.")
             
-            selected_match = st.selectbox("Select Match:", ["-- Select a Match --"] + list(match_dict.keys()))
+            selected_match = st.selectbox("Choose a Match to Drill Down:", ["-- Select a Match --"] + list(match_dict.keys()))
             
             if selected_match != "-- Select a Match --":
                 selected_match_id = match_dict[selected_match]
                 
-                with st.spinner("Fetching detailed scorecard..."):
+                with st.spinner("Fetching detailed scorecard data..."):
                     scorecard_data = fetch_api_data(f"mcenter/v1/{selected_match_id}/hscard")
                     
                     if scorecard_data and 'scoreCard' in scorecard_data:
@@ -204,39 +200,46 @@ def run_live_cricket():
                             overs = inning.get('scoreDetails', {}).get('overs', 0.0)
                             
                             with st.expander(f"🏏 {inning_name} - {runs}/{wickets} ({overs} Ov)", expanded=True):
-                                # Extract Batters
-                                batter_data = inning.get('batTeamDetails', {}).get('batsmenData', {})
+                                # Defensively Extract Batters
+                                batter_raw = inning.get('batTeamDetails', {}).get('batsmenData', [])
                                 b_list = []
-                                for b_id, b_info in batter_data.items():
-                                    b_list.append({
-                                        "Batter": b_info.get('batName', 'Unknown'),
-                                        "Dismissal": b_info.get('outDesc', ''),
-                                        "R": b_info.get('runs', 0),
-                                        "B": b_info.get('balls', 0),
-                                        "4s": b_info.get('boundaries', 0),
-                                        "6s": b_info.get('sixers', 0),
-                                        "SR": b_info.get('strikeRate', 0)
-                                    })
+                                
+                                # Handle both dictionary format and list format safely
+                                items = batter_raw.values() if isinstance(batter_raw, dict) else batter_raw
+                                for b_info in items:
+                                    if isinstance(b_info, dict):
+                                        b_list.append({
+                                            "Batter": b_info.get('batName', 'Unknown'),
+                                            "Dismissal": b_info.get('outDesc', 'Not Out'),
+                                            "R": b_info.get('runs', 0),
+                                            "B": b_info.get('balls', 0),
+                                            "4s": b_info.get('boundaries', 0),
+                                            "6s": b_info.get('sixers', 0),
+                                            "SR": b_info.get('strikeRate', 0)
+                                        })
                                 if b_list:
-                                    st.markdown("**Batting**")
+                                    st.markdown("**Batting Performance**")
                                     st.dataframe(pd.DataFrame(b_list), use_container_width=True, hide_index=True)
                                 
-                                # Extract Bowlers
-                                bowler_data = inning.get('bowlTeamDetails', {}).get('bowlersData', {})
+                                # Defensively Extract Bowlers
+                                bowler_raw = inning.get('bowlTeamDetails', {}).get('bowlersData', [])
                                 bowl_list = []
-                                for bw_id, bw_info in bowler_data.items():
-                                    bowl_list.append({
-                                        "Bowler": bw_info.get('bowlName', 'Unknown'),
-                                        "O": bw_info.get('overs', 0),
-                                        "M": bw_info.get('maidens', 0),
-                                        "R": bw_info.get('runs', 0),
-                                        "W": bw_info.get('wickets', 0),
-                                        "Econ": bw_info.get('economy', 0)
-                                    })
+                                
+                                items_bowl = bowler_raw.values() if isinstance(bowler_raw, dict) else bowler_raw
+                                for bw_info in items_bowl:
+                                    if isinstance(bw_info, dict):
+                                        bowl_list.append({
+                                            "Bowler": bw_info.get('bowlName', 'Unknown'),
+                                            "O": bw_info.get('overs', 0),
+                                            "M": bw_info.get('maidens', 0),
+                                            "R": bw_info.get('runs', 0),
+                                            "W": bw_info.get('wickets', 0),
+                                            "Econ": bw_info.get('economy', 0)
+                                        })
                                 if bowl_list:
-                                    st.markdown("**Bowling**")
+                                    st.markdown("**Bowling Figures**")
                                     st.dataframe(pd.DataFrame(bowl_list), use_container_width=True, hide_index=True)
                     else:
-                        st.error("Detailed scorecard is not available for this match yet.")
+                        st.error("Detailed scorecard parsing failed or is temporarily unavailable for this match layout.")
         else:
             st.info("No recent match results found.")
