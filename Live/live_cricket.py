@@ -37,7 +37,6 @@ def fetch_api_data(endpoint):
     return None
 
 def extract_all_matches(json_data):
-    """Recursively parses the complex nested JSON structure."""
     matches = []
     if isinstance(json_data, dict):
         if 'matchInfo' in json_data:
@@ -61,40 +60,38 @@ def format_timestamp(timestamp_ms):
 
 def render_detailed_scorecard(match_id):
     """Safely extracts and renders the deep scorecard and analysis."""
-    with st.spinner("Loading deep match analysis & scorecards..."):
+    with st.spinner("Loading deep match analysis..."):
         scorecard_data = fetch_api_data(f"mcenter/v1/{match_id}/hscard")
         
         if not scorecard_data or not isinstance(scorecard_data, dict):
-            st.error("Scorecard data is currently unavailable for this match.")
+            st.warning("Deep scorecard data is currently unavailable for this specific match (it may have been abandoned, washed out, or is a minor league).")
             return
 
-        # 1. Match Insights & Predictions Section
         st.markdown("### 🔮 Match Insights & Analysis")
         col1, col2, col3 = st.columns(3)
         
-        # Safely extract headers (Cricbuzz changes keys often, so we use .get())
         headers = scorecard_data.get('matchHeader', {})
-        toss_info = headers.get('tossResults', {}).get('tossWinnerName', 'Unknown')
+        toss_winner = headers.get('tossResults', {}).get('tossWinnerName', '')
         toss_decision = headers.get('tossResults', {}).get('decision', '')
-        match_state = headers.get('state', 'Unknown')
+        
+        # Format toss text nicely
+        toss_text = f"{toss_winner} opted to {toss_decision}" if toss_winner else "Toss info unavailable"
         
         with col1:
-            st.info(f"**Toss:** {toss_info} opted to {toss_decision}")
+            st.info(f"**Toss:** {toss_text}")
         with col2:
-            st.warning(f"**Status:** {headers.get('status', 'In Progress')}")
+            st.warning(f"**Status:** {headers.get('status', 'Data Pending')}")
         with col3:
-            st.success(f"**State:** {match_state.upper()}")
+            st.success(f"**Format:** {headers.get('matchFormat', 'Unknown')}")
 
-        # 2. Detailed Scorecard Section
         st.markdown("### 🏏 Detailed Scorecard")
         
-        # Handle Cricbuzz's changing dictionary keys safely without KeyError
         innings_list = scorecard_data.get('scoreCard', [])
         if not innings_list and 'matchScoreDetails' in scorecard_data:
             innings_list = scorecard_data['matchScoreDetails'].get('inningsScoreList', [])
 
         if not innings_list:
-            st.warning("Detailed batter/bowler stats are not populated by the API yet.")
+            st.warning("Batter and Bowler statistics are not populated for this match. This usually happens for matches abandoned due to rain or very minor domestic games.")
             return
 
         for inning in innings_list:
@@ -148,10 +145,10 @@ def run_live_cricket():
     if st.button("🔄 Refresh API Feeds"):
         st.rerun()
 
-    tab1, tab2, tab3 = st.tabs(["🔴 Live Action & Scorecards", "📅 Upcoming Schedule", "🏆 Recent Results"])
+    tab1, tab2, tab3 = st.tabs(["🔴 Live Action", "📅 Upcoming Schedule", "🏆 Recent Results"])
 
     # ==========================================
-    # TAB 1: LIVE MATCH TRACKER (NOW WITH DRILL-DOWN)
+    # TAB 1: LIVE MATCH TRACKER
     # ==========================================
     with tab1:
         with st.spinner("Fetching live games..."):
@@ -159,7 +156,9 @@ def run_live_cricket():
             
         all_live_matches = extract_all_matches(live_data) if live_data else []
         live_dict = {}
+        live_found = False
         
+        # 1. First, render the beautiful instant boxes
         for match in all_live_matches:
             match_info = match.get('matchInfo', {})
             state = match_info.get('state', '').lower()
@@ -167,20 +166,46 @@ def run_live_cricket():
             
             active_states = ['inprogress', 'live', 'innings break', 'toss', 'lunch', 'tea', 'stumps', 'delay', 'rain']
             if state in active_states and match_id:
+                live_found = True
                 series_name = match_info.get('seriesName', 'International Match')
+                status_text = match_info.get('status', 'Match underway')
                 team1 = match_info.get('team1', {}).get('teamName', 'Team 1')
                 team2 = match_info.get('team2', {}).get('teamName', 'Team 2')
                 fixture_name = f"{team1} vs {team2}"
+                
+                # Save for the dropdown below
                 live_dict[f"🔴 LIVE: {fixture_name} ({series_name})"] = match_id
                 
+                match_score = match.get('matchScore', {})
+                t1_data = match_score.get('team1Score', {}).get('inngs1', {})
+                t1_display = f"{t1_data.get('score', 0)}/{t1_data.get('wickets', 0)} ({t1_data.get('overs', 0)} ov)" if 'score' in t1_data else "Yet to bat"
+                
+                t2_data = match_score.get('team2Score', {}).get('inngs1', {})
+                t2_display = f"{t2_data.get('score', 0)}/{t2_data.get('wickets', 0)} ({t2_data.get('overs', 0)} ov)" if 'score' in t2_data else "Yet to bat"
+
+                st.markdown(f"""
+                <div style='background-color: #111; padding: 20px; border-radius: 8px; margin-bottom: 15px; border-left: 4px solid #FF4B4B;'>
+                    <span style='color: #FF4B4B; font-weight: bold; font-size: 12px;'>📊 {series_name}</span>
+                    <h3 style='margin: 10px 0 5px 0; color: white;'>
+                        {team1} <span style='color: #FF4B4B; font-size: 24px;'>{t1_display}</span>
+                        <span style='color: gray; font-size: 16px; margin: 0 10px;'>vs</span> 
+                        {team2} <span style='color: #FF4B4B; font-size: 24px;'>{t2_display}</span>
+                    </h3>
+                    <p style='color: #00B4D8; margin: 0; font-size: 14px; font-weight: bold;'>💬 {status_text}</p>
+                </div>
+                """, unsafe_allow_html=True)
+                
+        if not live_found:
+            st.info("No active play happening right now. Switch to the Schedule or Recent tabs!")
+            
+        # 2. Add the optional deep dive dropdown at the bottom
         if live_dict:
-            st.markdown("### 📡 Select an Active Match for Deep Analysis")
-            selected_live = st.selectbox("Choose a Live Match:", ["-- Select a Match --"] + list(live_dict.keys()), key="live_selector")
+            st.markdown("---")
+            st.markdown("### 📡 Deep Analysis Scorecards")
+            selected_live = st.selectbox("Select a match to load detailed player stats:", ["-- Select a Match --"] + list(live_dict.keys()), key="live_selector")
             
             if selected_live != "-- Select a Match --":
                 render_detailed_scorecard(live_dict[selected_live])
-        else:
-            st.info("No active play happening right now. Switch to the Schedule or Recent tabs!")
 
     # ==========================================
     # TAB 2: UPCOMING FIXTURES
@@ -216,18 +241,30 @@ def run_live_cricket():
             recent_data = fetch_api_data("matches/v1/recent")
             
         all_recent_matches = extract_all_matches(recent_data) if recent_data else []
+        recent_list = []
         match_dict = {}
         
         for match in all_recent_matches:
             match_info = match.get('matchInfo', {})
             if match_info.get('state', '').lower() == 'complete' and match_info.get('matchId'):
+                venue = match_info.get('venueInfo', {})
                 team1 = match_info.get('team1', {}).get('teamName', 'Team 1')
                 team2 = match_info.get('team2', {}).get('teamName', 'Team 2')
                 fixture_name = f"{team1} vs {team2}"
+                
+                recent_list.append({
+                    "Tournament/Series": match_info.get('seriesName', 'Tournament'),
+                    "Fixture": fixture_name,
+                    "Result Note": match_info.get('status', 'Match Finished'),
+                    "Venue": f"{venue.get('groundName', '')}, {venue.get('city', '')}"
+                })
                 match_dict[f"🏆 {fixture_name} - {match_info.get('seriesName')}"] = match_info.get('matchId')
                 
-        if match_dict:
+        if recent_list:
+            st.dataframe(pd.DataFrame(recent_list), use_container_width=True, hide_index=True)
+            
             st.markdown("### 📊 Interactive Scorecard Viewer")
+            st.info("Select a match below to fetch the detailed batter & bowler statistics.")
             selected_match = st.selectbox("Select a Past Match:", ["-- Select a Match --"] + list(match_dict.keys()), key="recent_selector")
             
             if selected_match != "-- Select a Match --":
