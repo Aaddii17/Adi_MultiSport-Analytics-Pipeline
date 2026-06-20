@@ -10,6 +10,8 @@ from datetime import datetime
 def fetch_api_data(endpoint):
     """Fetches data from the single API with a 90-second cache to protect limits."""
     api_key = st.secrets.get("CRICBUZZ_API_KEY", "")
+    
+    # Using the original, reliable API host you started with
     api_host = "cricbuzz-cricket.p.rapidapi.com"
     
     url = f"https://{api_host}/{endpoint}"
@@ -162,8 +164,11 @@ def run_live_cricket():
             state = match_info.get('state', '').lower()
             match_id = match_info.get('matchId')
             
-            active_states = ['inprogress', 'live', 'innings break', 'toss', 'lunch', 'tea', 'stumps', 'delay', 'rain']
-            if state in active_states and match_id:
+            # INVERTED FILTER: Show everything EXCEPT explicitly finished or future matches
+            # This ensures games in a "Drinks Break" or "Rain Delay" don't disappear!
+            inactive_states = ['complete', 'preview', 'upcoming', 'abandoned', 'result']
+            
+            if state not in inactive_states and match_id:
                 live_found = True
                 series_name = match_info.get('seriesName', 'International Match')
                 status_text = match_info.get('status', 'Match underway')
