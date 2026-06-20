@@ -32,27 +32,30 @@ def fetch_cricket_stream(endpoint):
         {"key": st.secrets.get("CRICBUZZ_KEY_3", ""), "name": "Backup Key 2"}
     ]
     
-    url = f"https://cricbuzz-cricket.p.rapidapi.com/{endpoint}"
+    # UPDATED HOST: Specifically pointing to Api Dojo's Unofficial Cricbuzz servers
+    api_host = "unofficial-cricbuzz.p.rapidapi.com"
+    url = f"https://{api_host}/{endpoint}"
     
     for target in targets:
         if not target["key"]:
             continue
             
-        status, data = _cached_api_request(url, target["key"], "cricbuzz-cricket.p.rapidapi.com")
+        status, data = _cached_api_request(url, target["key"], api_host)
         
         if status == 200:
             return data
         elif status == 429:
-            st.sidebar.warning(f"⚠️ {target['name']} hit its quota limit (429). Trying backup...")
+            st.sidebar.warning(f"⚠️ {target['name']} hit its quota limit (429). Switching to backup...")
         elif status == 403:
-            st.sidebar.error(f"❌ {target['name']} is blocked (403). It is likely NOT subscribed to the correct 'Cricbuzz Cricket' API.")
+            st.sidebar.error(f"❌ {target['name']} is blocked (403). Ensure it's subscribed to Api Dojo.")
         else:
-            st.sidebar.error(f"⚠️ {target['name']} encountered a server error ({status}).")
+            pass # Suppress 500s visually to allow silent server fallback
             
     st.sidebar.error("🚨 CRITICAL: All available API keys failed or ran out of quota!")
     return None
 
 def extract_all_matches(json_data):
+    """Recursively hunts for match data regardless of how the API nests it."""
     matches = []
     if isinstance(json_data, dict):
         if 'matchInfo' in json_data:
@@ -77,6 +80,7 @@ def format_timestamp(timestamp_ms):
 def render_detailed_scorecard(match_id):
     """Safely extracts and renders the deep scorecard and analysis."""
     with st.spinner("Loading deep match analysis..."):
+        # The API Dojo scorecard endpoint
         scorecard_data = fetch_cricket_stream(f"mcenter/v1/{match_id}/hscard")
         
         if not scorecard_data or not isinstance(scorecard_data, dict):
