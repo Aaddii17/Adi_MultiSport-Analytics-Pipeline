@@ -4,58 +4,39 @@ import pandas as pd
 from datetime import datetime
 
 # ==========================================
-# SMART CACHED MULTI-API FALLBACK ENGINE
+# CLEAN SINGLE-API ENGINE WITH 90s CACHE
 # ==========================================
 @st.cache_data(ttl=90)
-def _cached_api_request(url, api_key, api_host):
-    """Core request engine with 90-second memory to protect limits."""
+def fetch_api_data(endpoint):
+    """Fetches data from the single API with a 90-second cache to protect limits."""
+    api_key = st.secrets.get("CRICBUZZ_API_KEY", "")
+    api_host = "cricbuzz-cricket.p.rapidapi.com"
+    
+    url = f"https://{api_host}/{endpoint}"
     headers = {
         "X-RapidAPI-Key": api_key,
         "X-RapidAPI-Host": api_host
     }
+    
     try:
         response = requests.get(url, headers=headers, timeout=10)
         if response.status_code == 200:
-            return response.status_code, response.json()
-        return response.status_code, None
-    except Exception:
-        return 500, None
-
-def fetch_cricket_stream(endpoint):
-    """
-    Attempts to fetch data across three different API keys.
-    Shows visual diagnostics in the sidebar if a key fails.
-    """
-    targets = [
-        {"key": st.secrets.get("CRICBUZZ_KEY_1", ""), "name": "Primary Key"},
-        {"key": st.secrets.get("CRICBUZZ_KEY_2", ""), "name": "Backup Key 1"},
-        {"key": st.secrets.get("CRICBUZZ_KEY_3", ""), "name": "Backup Key 2"}
-    ]
-    
-    # UPDATED HOST: Specifically pointing to Api Dojo's Unofficial Cricbuzz servers
-    api_host = "unofficial-cricbuzz.p.rapidapi.com"
-    url = f"https://{api_host}/{endpoint}"
-    
-    for target in targets:
-        if not target["key"]:
-            continue
-            
-        status, data = _cached_api_request(url, target["key"], api_host)
-        
-        if status == 200:
-            return data
-        elif status == 429:
-            st.sidebar.warning(f"⚠️ {target['name']} hit its quota limit (429). Switching to backup...")
-        elif status == 403:
-            st.sidebar.error(f"❌ {target['name']} is blocked (403). Ensure it's subscribed to Api Dojo.")
+            return response.json()
+        elif response.status_code == 429:
+            st.sidebar.error("⚠️ Quota Limit Reached. Please wait a moment before refreshing.")
+            return None
+        elif response.status_code == 403:
+            st.sidebar.error("❌ API Key Blocked or Invalid. Check Streamlit Secrets.")
+            return None
         else:
-            pass # Suppress 500s visually to allow silent server fallback
-            
-    st.sidebar.error("🚨 CRITICAL: All available API keys failed or ran out of quota!")
-    return None
+            st.sidebar.error(f"⚠️ API Error: {response.status_code}")
+            return None
+    except Exception:
+        st.sidebar.error("🚨 Connection Timeout.")
+        return None
 
 def extract_all_matches(json_data):
-    """Recursively hunts for match data regardless of how the API nests it."""
+    """Recursively parses nested JSON to find match blocks."""
     matches = []
     if isinstance(json_data, dict):
         if 'matchInfo' in json_data:
@@ -78,13 +59,12 @@ def format_timestamp(timestamp_ms):
         return "TBD"
 
 def render_detailed_scorecard(match_id):
-    """Safely extracts and renders the deep scorecard and analysis."""
+    """Fetches and renders the deep scorecard (batter/bowler stats)."""
     with st.spinner("Loading deep match analysis..."):
-        # The API Dojo scorecard endpoint
-        scorecard_data = fetch_cricket_stream(f"mcenter/v1/{match_id}/hscard")
+        scorecard_data = fetch_api_data(f"mcenter/v1/{match_id}/hscard")
         
         if not scorecard_data or not isinstance(scorecard_data, dict):
-            st.warning("Deep scorecard data is currently unavailable for this specific match (it may have been abandoned, washed out, or is a minor league).")
+            st.warning("Detailed scorecard data is currently unavailable for this match.")
             return
 
         st.markdown("### 🔮 Match Insights & Analysis")
@@ -93,7 +73,6 @@ def render_detailed_scorecard(match_id):
         headers = scorecard_data.get('matchHeader', {})
         toss_winner = headers.get('tossResults', {}).get('tossWinnerName', '')
         toss_decision = headers.get('tossResults', {}).get('decision', '')
-        
         toss_text = f"{toss_winner} opted to {toss_decision}" if toss_winner else "Toss info unavailable"
         
         with col1:
@@ -157,22 +136,22 @@ def run_live_cricket():
     st.header("🔴 Live Match Center & Global Schedule")
     st.markdown("---")
     
-    if "CRICBUZZ_KEY_1" not in st.secrets:
-        st.warning("API Key not found in Streamlit Secrets. Please verify your variables are named CRICBUZZ_KEY_1, CRICBUZZ_KEY_2, etc.")
+    if "CRICBUZZ_API_KEY" not in st.secrets:
+        st.error("API Key missing! Please add 'CRICBUZZ_API_KEY' to Streamlit Secrets.")
         return
 
-    if st.button("🔄 Refresh API Feeds"):
-        st.cache_data.clear() # Clears memory to force a fresh fetch
+    if st.button("🔄 Refresh Scoreboards"):
+        st.cache_data.clear() # Force fetch new data
         st.rerun()
 
-    tab1, tab2, tab3 = st.tabs(["🔴 Live Action", "📅 Upcoming Schedule", "🏆 Recent Results"])
+    tab1, tab2, tab3 = st.tabs(["🔴 Live Scoreboards", "📅 Upcoming Schedule", "🏆 Recent Results"])
 
     # ==========================================
     # TAB 1: LIVE MATCH TRACKER
     # ==========================================
     with tab1:
-        with st.spinner("Fetching live games..."):
-            live_data = fetch_cricket_stream("matches/v1/live")
+        with st.spinner("Fetching live scoreboard data..."):
+            live_data = fetch_api_data("matches/v1/live")
             
         all_live_matches = extract_all_matches(live_data) if live_data else []
         live_dict = {}
@@ -201,15 +180,16 @@ def run_live_cricket():
                 d1 = f"{s1.get('score', 0)}/{s1.get('wickets', 0)} ({s1.get('overs', 0)} ov)" if 'score' in s1 else "Yet to bat"
                 d2 = f"{s2.get('score', 0)}/{s2.get('wickets', 0)} ({s2.get('overs', 0)} ov)" if 'score' in s2 else "Yet to bat"
 
+                # Scoreboard UI layout
                 st.markdown(f"""
-                <div style='background-color: #111; padding: 20px; border-radius: 8px; margin-bottom: 15px; border-left: 4px solid #FF4B4B;'>
-                    <span style='color: #FF4B4B; font-weight: bold; font-size: 12px;'>📊 {series_name}</span>
+                <div style='background-color: #111; padding: 20px; border-radius: 8px; margin-bottom: 15px; border-left: 4px solid #FF4B4B; box-shadow: 0 4px 6px rgba(0,0,0,0.3);'>
+                    <span style='color: #FF4B4B; font-weight: bold; font-size: 12px; text-transform: uppercase;'>{series_name}</span>
                     <h3 style='margin: 10px 0 5px 0; color: white;'>
                         {team1} <span style='color: #FF4B4B; font-size: 24px;'>{d1}</span>
-                        <span style='color: gray; font-size: 16px; margin: 0 10px;'>vs</span> 
+                        <span style='color: gray; font-size: 16px; margin: 0 15px;'>vs</span> 
                         {team2} <span style='color: #FF4B4B; font-size: 24px;'>{d2}</span>
                     </h3>
-                    <p style='color: #00B4D8; margin: 0; font-size: 14px; font-weight: bold;'>💬 {status_text}</p>
+                    <p style='color: #00B4D8; margin: 0; font-size: 14px; font-weight: 500;'>💬 {status_text}</p>
                 </div>
                 """, unsafe_allow_html=True)
                 
@@ -218,7 +198,7 @@ def run_live_cricket():
             
         if live_dict:
             st.markdown("---")
-            st.markdown("### 📡 Deep Analysis Scorecards")
+            st.markdown("### 📡 Detailed Player Scorecards")
             selected_live = st.selectbox("Select a match to load detailed player stats:", ["-- Select a Match --"] + list(live_dict.keys()), key="live_selector")
             if selected_live != "-- Select a Match --":
                 render_detailed_scorecard(live_dict[selected_live])
@@ -228,7 +208,7 @@ def run_live_cricket():
     # ==========================================
     with tab2:
         with st.spinner("Compiling full future schedule..."):
-            upcoming_data = fetch_cricket_stream("matches/v1/upcoming")
+            upcoming_data = fetch_api_data("matches/v1/upcoming")
             
         all_upcoming_matches = extract_all_matches(upcoming_data) if upcoming_data else []
         upcoming_list = []
@@ -254,7 +234,7 @@ def run_live_cricket():
     # ==========================================
     with tab3:
         with st.spinner("Fetching completed matches..."):
-            recent_data = fetch_cricket_stream("matches/v1/recent")
+            recent_data = fetch_api_data("matches/v1/recent")
             
         all_recent_matches = extract_all_matches(recent_data) if recent_data else []
         recent_list = []
