@@ -4,27 +4,22 @@ import requests
 def run_live_football():
     st.header("⚽ Real-Time Live Football")
     
-    # We will use a reliable, simple request structure
     api_key = st.secrets.get("FOOTBALL_API_KEY", "")
-    
     if not api_key:
         st.error("API Key missing! Add 'FOOTBALL_API_KEY' to Streamlit Secrets.")
         return
 
-    # Using the standard API-Football v3 endpoint
     url = "https://api-football-v1.p.rapidapi.com/v3/fixtures"
     headers = {
         "x-rapidapi-key": api_key,
         "x-rapidapi-host": "api-football-v1.p.rapidapi.com"
     }
-    # Fetch live matches
     params = {"live": "all"}
 
     try:
         response = requests.get(url, headers=headers, params=params, timeout=10)
         if response.status_code == 200:
             data = response.json().get('response', [])
-            
             if not data:
                 st.info("No live matches currently in progress.")
                 return
@@ -45,6 +40,6 @@ def run_live_football():
                 </div>
                 """, unsafe_allow_html=True)
         else:
-            st.warning(f"API Error: Received status code {response.status_code}. Check your API quota.")
+            st.error(f"API Error: Received status code {response.status_code}")
     except Exception as e:
-        st.error("Could not fetch data. Ensure your API Key is valid for 'API-Football' on RapidAPI.")
+        st.error("Could not fetch data. Ensure your API Key is valid.")
