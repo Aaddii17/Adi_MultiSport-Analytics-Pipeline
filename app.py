@@ -30,6 +30,7 @@ from Football import copa_analysis
 
 # --- IMPORT LIVE MODULES ---
 from Live import live_cricket
+from Live import live_football
 
 # --- PAGE CONFIGURATION ---
 st.set_page_config(
@@ -123,7 +124,7 @@ def main():
             live_cricket.run_live_cricket()
             
         elif live_mode == "Live Football Tracker":
-            st.info("Live Football feeds are currently deploying next cycle.")
+            live_football.run_live_football()
 
 if __name__ == "__main__":
     main()
