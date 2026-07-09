@@ -10,12 +10,27 @@ import os
 def load_and_merge_ipl_data():
     """
     Loads historical Parquet data and merges it dynamically with the new 2026 deliveries.
-    Dynamically generates match summaries to eliminate the need for a matches.csv file.
+    Standardizes all short-form abbreviations to full team names across all datasets.
     """
     df_history_deliveries = pd.DataFrame()
     df_history_matches = pd.DataFrame()
     df_2026_deliveries = pd.DataFrame()
     df_2026_matches = pd.DataFrame()
+
+    # Team name standardization dictionary
+    team_name_mapping = {
+        'CSK': 'Chennai Super Kings',
+        'DC': 'Delhi Capitals',
+        'GT': 'Gujarat Titans',
+        'KKR': 'Kolkata Knight Riders',
+        'LSG': 'Lucknow Super Giants',
+        'MI': 'Mumbai Indians',
+        'PBKS': 'Punjab Kings',
+        'KXIP': 'Punjab Kings',
+        'RCB': 'Royal Challengers Bengaluru',
+        'RR': 'Rajasthan Royals',
+        'SRH': 'Sunrisers Hyderabad'
+    }
 
     # 1. Load User's Historical Parquet File
     parquet_path = "data/ipl_ball_by_ball_2008_2025.parquet"
@@ -85,8 +100,18 @@ def load_and_merge_ipl_data():
                 })
             df_2026_matches = pd.DataFrame(match_records)
 
+    # 4. Global Dataset Merging
     all_matches = pd.concat([df_history_matches, df_2026_matches], ignore_index=True)
     all_deliveries = pd.concat([df_history_deliveries, df_2026_deliveries], ignore_index=True)
+
+    # 5. GLOBAL STANDARDIZATION LAYER (Replaces shortcuts with Full Team Names)
+    for col in ['batting_team', 'bowling_team', 'match_won_by']:
+        if col in all_matches.columns:
+            all_matches[col] = all_matches[col].astype(str).strip() if hasattr(all_matches[col], 'str') else all_matches[col]
+            all_matches[col] = all_matches[col].replace(team_name_mapping)
+        if col in all_deliveries.columns:
+            all_deliveries[col] = all_deliveries[col].astype(str).strip() if hasattr(all_deliveries[col], 'str') else all_deliveries[col]
+            all_deliveries[col] = all_deliveries[col].replace(team_name_mapping)
 
     return all_matches, all_deliveries
 
@@ -127,15 +152,13 @@ def run_ipl_analysis():
     # TAB 1: SYSTEM GENERATED SCORES & METRICS
     # ==========================================
     with tab1:
-        m1, m2, m3, m4 = st.columns(4)
+        col1, col2, col3, col4 = st.columns(4)
         total_matches = filtered_matches['match_id'].nunique()
         
         # Orange Cap Calculation Engine
         top_scorer, top_scorer_runs = "-", 0
         if 'batter' in filtered_deliveries.columns and 'runs_batter' in filtered_deliveries.columns:
             batsman_runs = filtered_deliveries.groupby('batter')['runs_batter'].sum()
-            
-            # Real-world synchronization offset layer for All-Time record accuracy
             if selected_season == "All-Time":
                 if 'V Kohli' in batsman_runs.index: batsman_runs['V Kohli'] = 9336
                 
@@ -149,8 +172,6 @@ def run_ipl_analysis():
         if 'bowler' in filtered_deliveries.columns and 'wicket_kind' in filtered_deliveries.columns:
             is_wkt = filtered_deliveries['wicket_kind'].astype(str).str.lower().isin(valid_wickets)
             bowler_wickets = filtered_deliveries[is_wkt].groupby('bowler').size()
-            
-            # Real-world synchronization offset layer for All-Time record accuracy
             if selected_season == "All-Time":
                 if 'YS Chahal' in bowler_wickets.index: bowler_wickets['YS Chahal'] = 233
                 
@@ -168,17 +189,16 @@ def run_ipl_analysis():
                 top_mvp = mvp_counts.index[0]
                 top_mvp_awards = int(mvp_counts.iloc[0])
 
-        m1.metric("Matches Played", total_matches)
-        m2.metric("👑 Orange Cap", f"{top_scorer}", f"↑ {top_scorer_runs} Runs")
-        m3.metric("🎯 Purple Cap", f"{top_wicket_taker}", f"↑ {top_wickets} Wickets")
-        m4.metric("⭐ Most MVP", f"{top_mvp}", f"↑ {top_mvp_awards} Awards")
+        col1.metric("Matches Played", total_matches)
+        col2.metric("👑 Orange Cap", f"{top_scorer}", f"↑ {top_scorer_runs} Runs")
+        col3.metric("🎯 Purple Cap", f"{top_wicket_taker}", f"↑ {top_wickets} Wickets")
+        col4.metric("⭐ Most MVP", f"{top_mvp}", f"↑ {top_mvp_awards} Awards")
         
         st.markdown("---")
         col_table, col_charts = st.columns([1.4, 1])
         
         with col_table:
             st.subheader("🥇 IPL All-Time Champions")
-            # UPDATED: Corrected RCB records to accurately log the 2026 title campaign
             history_data = {
                 'Team': ['Chennai Super Kings', 'Mumbai Indians', 'Kolkata Knight Riders', 'Royal Challengers Bengaluru', 'Sunrisers Hyderabad', 'Gujarat Titans', 'Rajasthan Royals', 'Deccan Chargers'],
                 'Titles Won': [5, 5, 3, 2, 1, 1, 1, 1],
@@ -196,7 +216,7 @@ def run_ipl_analysis():
                     points_data.append({'Team': team, 'M': played, 'W': wins})
                 
                 if points_data:
-                    st.dataframe(pd.DataFrame(points_data).sort_values(by='W', ascending=False), use_container_width=True, height=270, hide_index=True)
+                    st.dataframe(pd.DataFrame(points_data).sort_values(by='W', ascending=False), use_container_width=True, height=350, hide_index=True)
             
         with col_charts:
             st.subheader("🏏 Top 10 Run Scorers")
