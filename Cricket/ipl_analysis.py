@@ -18,17 +18,19 @@ def load_and_merge_ipl_data():
     df_2026_matches = pd.DataFrame()
     df_2026_deliveries = pd.DataFrame()
 
-    # 2. Load Historical Data (Adjust these paths to where your historical data lives)
+    # 2. Load Historical Data (Checking both lowercase and uppercase 'data' folder)
+    history_dir = "data" if os.path.exists("data/historical_matches.csv") else "Data"
     try:
-        df_history_matches = pd.read_csv("Data/historical_matches.csv")
-        df_history_deliveries = pd.read_csv("Data/historical_deliveries.csv")
+        df_history_matches = pd.read_csv(f"{history_dir}/historical_matches.csv")
+        df_history_deliveries = pd.read_csv(f"{history_dir}/historical_deliveries.csv")
     except FileNotFoundError:
         pass # It's okay if it's missing while testing, it will just load 2026
 
-    # 3. Load 2026 Data from the new folder
+    # 3. Load 2026 Data from the new folder (Handling Case Sensitivity)
+    ipl_2026_dir = "data/IPL_2026" if os.path.exists("data/IPL_2026/matches.csv") else "Data/IPL_2026"
     try:
-        df_2026_matches = pd.read_csv("Data/IPL_2026/matches.csv")
-        df_2026_deliveries = pd.read_csv("Data/IPL_2026/deliveries.csv")
+        df_2026_matches = pd.read_csv(f"{ipl_2026_dir}/matches.csv")
+        df_2026_deliveries = pd.read_csv(f"{ipl_2026_dir}/deliveries.csv")
         
         # Ensure the 'season' column exists and is set to 2026 so the dropdown works
         if 'season' not in df_2026_matches.columns:
@@ -36,7 +38,7 @@ def load_and_merge_ipl_data():
         if 'season' not in df_2026_deliveries.columns:
             df_2026_deliveries['season'] = 2026
     except FileNotFoundError:
-        st.warning("⚠️ Could not find 'Data/IPL_2026/matches.csv'. Please ensure the folder is named correctly.")
+        st.warning(f"⚠️ Could not find '{ipl_2026_dir}/matches.csv'. Please ensure the folder is pushed to GitHub.")
 
     # 4. Merge them together seamlessly
     all_matches = pd.concat([df_history_matches, df_2026_matches], ignore_index=True)
