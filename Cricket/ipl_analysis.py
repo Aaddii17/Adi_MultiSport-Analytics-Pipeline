@@ -104,13 +104,11 @@ def load_and_merge_ipl_data():
     all_matches = pd.concat([df_history_matches, df_2026_matches], ignore_index=True)
     all_deliveries = pd.concat([df_history_deliveries, df_2026_deliveries], ignore_index=True)
 
-    # 5. GLOBAL STANDARDIZATION LAYER (Replaces shortcuts with Full Team Names)
+    # 5. GLOBAL STANDARDIZATION LAYER (Corrected Pandas replacement syntax)
     for col in ['batting_team', 'bowling_team', 'match_won_by']:
         if col in all_matches.columns:
-            all_matches[col] = all_matches[col].astype(str).strip() if hasattr(all_matches[col], 'str') else all_matches[col]
             all_matches[col] = all_matches[col].replace(team_name_mapping)
         if col in all_deliveries.columns:
-            all_deliveries[col] = all_deliveries[col].astype(str).strip() if hasattr(all_deliveries[col], 'str') else all_deliveries[col]
             all_deliveries[col] = all_deliveries[col].replace(team_name_mapping)
 
     return all_matches, all_deliveries
